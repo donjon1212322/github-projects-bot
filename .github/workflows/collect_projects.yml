@@ -1,0 +1,31 @@
+name: Collect Projects
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Запуск ежедневно в 00:00 UTC
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install -r src/requirements.txt
+
+      - name: Run project collection
+        run: python src/github/collector.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/projects.json
+          git commit -m "Update projects data"
+          git push
