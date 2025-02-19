@@ -1,7 +1,0 @@
-{
-    "project_id": 589189,
-    "content": "✨ <b>python-magic</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nIdentifying file types based on their content\n<br>\n✨ <b>Key Features:</b>\n• File type identification using libmagic\n• Python interface for libmagic\n• Support for mime type detection\n• Option to uncompress files before identification\n• Direct control over magic database and character encoding detection (Magic class)\n<br>\n📖 <b>Summary:</b>\nThis Python library provides a wrapper around the libmagic library, enabling file type identification.  It offers functions to identify file types from files or buffers, supporting mime type detection and file uncompression.  Advanced options are available for direct control over the process, though not recommended for general use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ahupp/python-magic?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/993a41c4d43b104697136208c9ef3032c0b1bac8e373a10cf65dc6b9b8c32506/ahupp/python-magic",
-    "platform": "telegram",
-    "quality_score": 0.65
-}
