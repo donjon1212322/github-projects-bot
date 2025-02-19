@@ -1,6 +1,6 @@
 ---
 title: {{ title }}
-published: False
+published: True
 tags: {% for tag in tags %}{{ tag }}{% if not loop.last %}, {% endif %}{% endfor %}
 ---
 
