@@ -1,0 +1,24 @@
+name: Clear Published Posts Monthly
+on:
+  schedule:
+    - cron: '0 0 1 * *' # Первое число каждого месяца в 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  clear_published_posts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Clear published posts
+        run: |
+          echo "[]" > data/published_posts.json
+          echo "[]" > data/published_posts_dev.json
+          echo "[]" > data/published_posts_hashnode.json
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git commit -m "Clear published posts" || exit 0
+          git push

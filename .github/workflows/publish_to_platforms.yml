@@ -1,0 +1,34 @@
+name: Publish to Platforms
+on:
+  schedule:
+    - cron: '0 13 * * *' # 8:00 утра ET (13:00 UTC)
+  workflow_dispatch:
+
+jobs:
+  publish_dev_and_hashnode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Publish to Dev.to
+        run: python src/bot/publish_dev.py
+        env:
+          DEV_API_KEY: ${{ secrets.DEV_API_KEY }}
+      - name: Publish to Hashnode
+        run: python src/bot/publish_hashnode.py
+        env:
+          HASHNODE_API_KEY: ${{ secrets.HASHNODE_API_KEY }}
+          HASHNODE_PUBLICATION_ID: ${{ secrets.HASHNODE_PUBLICATION_ID }}
+      - name: Commit and push if there are changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git commit -m "Update after publishing to platforms" || exit 0
+          git push
