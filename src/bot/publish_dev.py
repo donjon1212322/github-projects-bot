@@ -54,7 +54,7 @@ def publish_to_dev(article_data):
         "article": {
             "title": article["title"],
             "body_markdown": article["body_markdown"],
-            "published": False,
+            "published": True,
             "tags": tags,
             "description": article.get("description", "No description provided")
         }

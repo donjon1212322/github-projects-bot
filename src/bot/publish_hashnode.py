@@ -148,7 +148,7 @@ def main():
         return
 
     # Set publish_directly to True to publish directly to production
-    publish_to_hashnode(article_data, publish_directly=False)
+    publish_to_hashnode(article_data, publish_directly=True)
 
 if __name__ == "__main__":
     main()
