@@ -1,0 +1,51 @@
+[
+    {
+        "project_id": 925434317,
+        "content": "💡 <b>kreuzberg</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nText extraction from documents for RAG (Retrieval Augmented Generation) applications\n<br>\n✨ <b>Key Features:</b>\n• Unified async interface for text extraction\n• Supports various document formats (PDF, images, office documents)\n• Local processing, no cloud dependencies\n• Lightweight with minimal dependencies\n• Batch processing support\n<br>\n📖 <b>Summary:</b>\nKreuzberg is a Python library providing an async interface for text extraction from diverse document formats.  It supports local processing without cloud dependencies, offering both async and sync APIs including batch processing for efficient text retrieval.  This is ideal for RAG applications and other scenarios needing robust, local text extraction.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Goldziher/kreuzberg?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d2d02381c631ec477c5ae5702a8b76320dff6313558cdaa8c75792b298ad0e70/Goldziher/kreuzberg",
+        "platform": "telegram",
+        "quality_score": 1.05
+    },
+    {
+        "project_id": 752839399,
+        "content": "🌟 <b>wild</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nFaster build times during development of Rust code on x86-64 Linux systems\n<br>\n✨ <b>Key Features:</b>\n• Fast linking for iterative development (though not yet incremental)\n• Supports x86-64 Linux\n• Outputs statically linked, non-relocatable binaries\n• Outputs statically linked, position-independent binaries (static-PIE)\n• Outputs to dynamically linked binaries\n<br>\n📖 <b>Summary:</b>\nWild is a linker designed for rapid compilation during development, especially beneficial for Rust projects on x86-64 Linux.  While not yet incremental, it offers speed improvements over other linkers for initial builds.  It supports various output formats and has been tested with many crates from crates.io.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/davidlattimore/wild?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/15f13094352d0d21d8bc4b87439deb6ab9a4dc1ea1509f7fb29f59c981c1c49c/davidlattimore/wild",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 925270205,
+        "content": "🌟 <b>lume</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating, running, and managing macOS and Linux virtual machines on Apple Silicon with high performance.\n<br>\n✨ <b>Key Features:</b>\n• Lightweight CLI and local API server for managing macOS and Linux VMs\n• Near-native performance on Apple Silicon using Apple's Virtualization.Framework\n• Create, run, manage, and delete VMs\n• Pull prebuilt macOS images\n• VM configuration modification\n<br>\n📖 <b>Summary:</b>\nLume provides a command-line interface and API server to easily create, run, and manage virtual machines on Apple Silicon.  It leverages Apple's Virtualization.Framework for near-native performance and offers features like pre-built image support, configuration modification, and a local API server.  The tool supports both macOS and Linux VMs and can be installed via Homebrew.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/trycua/lume?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6f1ea713980e182053857cf84bc4a916eb80447cce4f9b468ff919f9da805bde/trycua/lume",
+        "platform": "telegram",
+        "quality_score": 1.1000000000000003
+    },
+    {
+        "project_id": 925948262,
+        "content": "🌟 <b>autogram</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomates AI news curation and Instagram content management\n<br>\n✨ <b>Key Features:</b>\n• Smart News Aggregation\n• AI-Powered Content Creation\n• Automated Instagram Management\n• Performance Analytics\n• Self-Learning\n<br>\n📖 <b>Summary:</b>\nAutoGram is an AI agent that automatically collects and filters AI & tech news, generates branded images, posts to Instagram, and analyzes performance.  It uses Python, Google Gemini, Replicate SANA, and various APIs to manage the entire process, learning and improving content selection over time.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ranahaani/autogram?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a659f45a409af2b8de60699d8179baa95bfca8e27a7f8c5c8e62a641096a16c6/ranahaani/autogram",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 926034958,
+        "content": "✨ <b>DeepSeekPin</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nPinning chats in Deepseek for easy access\n<br>\n✨ <b>Key Features:</b>\n• Pin important chats for quick access\n• Simple and intuitive user interface\n• Lightweight and easy to use\n• Works seamlessly with Deepseek\n<br>\n📖 <b>Summary:</b>\nThis Chrome extension enhances chat management in Deepseek by allowing users to pin important conversations for quick access.  It features a simple user interface and is lightweight for seamless integration. The extension improves efficiency by eliminating the need to repeatedly search for specific chats.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/shadowxdgamer/DeepSeekPin?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8bb9bbecac7a9d53750391556c1841ab2bbf6db84dbcdc93a62295e7984af544/shadowxdgamer/DeepSeekPin",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 925496510,
+        "content": "🚀 <b>gridt</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a customizable CSS grid overlay for web developers to aid in grid-based layout design.\n<br>\n✨ <b>Key Features:</b>\n• Customizable columns, rows, grid gaps, and outside margin\n• Attachment to window or HTML element via CSS selectors\n• Support for custom grid-template-columns/rows for uneven grids\n• Persistence during hot reload\n• Adjustable line color and stroke width\n<br>\n📖 <b>Summary:</b>\nGridt is a customizable CSS grid overlay that allows developers to adjust various grid properties, attach it to different elements, and maintain its state during hot reloads.  It supports both even and uneven grids and offers options for visual customization.  The tool is designed to simplify the process of creating and managing grid-based layouts.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gavink97/gridt?embed=0\">View Project</a>\n• <a href=\"https://addons.mozilla.org/en-US/firefox/addon/gridt?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/2dd876437c8defc1f5027eac1d469958969a4734a1cc873f321a0039d877b7d7/gavink97/gridt",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 589189,
+        "content": "✨ <b>python-magic</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nIdentifying file types based on their content\n<br>\n✨ <b>Key Features:</b>\n• File type identification using libmagic\n• Python interface for libmagic\n• Support for mime type detection\n• Option to uncompress files before identification\n• Direct control over magic database and character encoding detection (Magic class)\n<br>\n📖 <b>Summary:</b>\nThis Python library provides a wrapper around the libmagic library, enabling file type identification.  It offers functions to identify file types from files or buffers, supporting mime type detection and file uncompression.  Advanced options are available for direct control over the process, though not recommended for general use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ahupp/python-magic?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/993a41c4d43b104697136208c9ef3032c0b1bac8e373a10cf65dc6b9b8c32506/ahupp/python-magic",
+        "platform": "telegram",
+        "quality_score": 0.65
+    }
+]
