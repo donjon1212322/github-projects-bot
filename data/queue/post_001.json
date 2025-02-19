@@ -1,7 +1,0 @@
-{
-    "project_id": 752839399,
-    "content": "🌟 <b>wild</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nFaster build times during development of Rust code on x86-64 Linux systems\n<br>\n✨ <b>Key Features:</b>\n• Fast linking for iterative development (though not yet incremental)\n• Supports x86-64 Linux\n• Outputs statically linked, non-relocatable binaries\n• Outputs statically linked, position-independent binaries (static-PIE)\n• Outputs to dynamically linked binaries\n<br>\n📖 <b>Summary:</b>\nWild is a linker designed for rapid compilation during development, especially beneficial for Rust projects on x86-64 Linux.  While not yet incremental, it offers speed improvements over other linkers for initial builds.  It supports various output formats and has been tested with many crates from crates.io.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/davidlattimore/wild?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/15f13094352d0d21d8bc4b87439deb6ab9a4dc1ea1509f7fb29f59c981c1c49c/davidlattimore/wild",
-    "platform": "telegram",
-    "quality_score": 0.85
-}
