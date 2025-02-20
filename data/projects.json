@@ -1,32 +1,203 @@
 [
     {
-        "id": 929311290,
-        "name": "Step-Video-T2V",
+        "id": 930729355,
+        "name": "Step-Audio",
         "description": null,
-        "url": "https://github.com/stepfun-ai/Step-Video-T2V",
+        "url": "https://github.com/stepfun-ai/Step-Audio",
         "language": "Python",
-        "stars": 1472,
-        "forks": 89,
-        "created_at": "2025-02-08T08:46:51Z",
-        "updated_at": "2025-02-20T00:58:29Z",
+        "stars": 2462,
+        "forks": 182,
+        "created_at": "2025-02-11T05:35:12Z",
+        "updated_at": "2025-02-20T13:41:49Z",
         "topics": [],
         "quality_score": 0.8500000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-19T03:13:01Z",
+        "last_commit_date": "2025-02-20T07:29:35Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/1662bfd1ff79f6b3d9b5594a290c862d064a3a5c19864653d07c2d9a3b76befb/stepfun-ai/Step-Video-T2V"
+            "https://opengraph.githubassets.com/3c39364ae7d45dd68cf662c881be215bcb811708de4af140c518fa1b55781cb5/stepfun-ai/Step-Audio"
         ],
         "homepage": null,
-        "readme_summary": "This repository contains the Step-Video-T2V model, a state-of-the-art text-to-video model capable of generating videos up to 204 frames.  It utilizes a deep compression VAE for efficient training and inference, and employs Direct Preference Optimization for enhanced visual quality.  The model's performance is evaluated on a novel benchmark, Step-Video-T2V-Eval.",
+        "readme_summary": "Step-Audio is an open-source framework for intelligent speech interaction.  It features a 130B parameter multimodal model and a generative data engine for high-quality audio, enabling granular voice control and enhanced intelligence through tool integration.  This framework supports various languages, emotions, and vocal styles for diverse speech generation needs.",
         "key_features": [
-            "text-to-video generation",
-            "30 billion parameter model",
-            "deep compression VAE for videos (16x16 spatial and 8x temporal compression ratios)",
-            "Direct Preference Optimization (DPO)",
-            "generates videos up to 204 frames"
+            "130B-Parameter Multimodal Model integrating speech recognition, semantic understanding, dialogue, voice cloning, and speech synthesis",
+            "Generative Data Engine for high-quality audio generation",
+            "Granular Voice Control supporting emotions, dialects, and vocal styles",
+            "ToolCall mechanism and role-playing enhancements for complex tasks",
+            "Dual-codebook framework for audio tokenization (semantic and acoustic codebooks)"
         ],
-        "primary_use_case": "text-to-video generation",
-        "open_issues": 17
+        "primary_use_case": "Intelligent speech interaction framework supporting multilingual conversations, emotional tones, regional dialects, and adjustable speech rates and prosodic styles",
+        "open_issues": 26
+    },
+    {
+        "id": 931248460,
+        "name": "open-cuak",
+        "description": "Reliable Automation Agents at Scale",
+        "url": "https://github.com/Aident-AI/open-cuak",
+        "language": "TypeScript",
+        "stars": 148,
+        "forks": 8,
+        "created_at": "2025-02-12T00:42:03Z",
+        "updated_at": "2025-02-20T13:37:13Z",
+        "topics": [
+            "agent",
+            "aiagents",
+            "automation",
+            "llm",
+            "remote-browser",
+            "remote-desktop",
+            "rpa",
+            "vlm"
+        ],
+        "quality_score": 0.9500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-20T06:35:19Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/ca095a107df6a034c21c090b75eef9d743b5c8bb015994a556a6cf969c59bd90/Aident-AI/open-cuak"
+        ],
+        "homepage": "https://aident.ai",
+        "readme_summary": "Open-CUAK is a platform for managing automation agents at scale, focusing on reliability.  It offers features such as local workflow execution for privacy, vision-based automation, and integration with various vision-compatible models.  Use cases include automating tasks in applications like Canva and Expedia.",
+        "key_features": [
+            "Run Operator-like automation workflows locally, ensuring full privacy",
+            "Use vision-based automation with more flexibility and reliability, just like a human",
+            "Turn any browser into an Operator-companion, with a browser extension",
+            "Utilize a dedicated remote browser to mitigate risks associated, without sharing your own",
+            "Use any vision-compatible model, whether frontier or open-source (Claude, Gemini, LLaVA, etc.)",
+            "Bypass frustrating bot detection"
+        ],
+        "primary_use_case": "Managing automation agents at scale, starting with browsers",
+        "open_issues": 6
+    },
+    {
+        "id": 3678731,
+        "name": "webpack",
+        "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+        "url": "https://github.com/webpack/webpack",
+        "language": "JavaScript",
+        "stars": 65043,
+        "forks": 8947,
+        "created_at": "2012-03-10T10:08:14Z",
+        "updated_at": "2025-02-20T12:39:55Z",
+        "topics": [
+            "amd",
+            "build-tool",
+            "commonjs",
+            "compiler",
+            "es2015",
+            "es6",
+            "esm",
+            "javascript",
+            "javascript-compiler",
+            "javascript-modules",
+            "loaders",
+            "module-bundler",
+            "plugins",
+            "web",
+            "web-performance",
+            "webpack"
+        ],
+        "quality_score": 1.1,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-19T23:32:22Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/d8c87ebd27d3c795d35ff3b95254a9d9be4c33d1a9267106042cc4832f55325f/webpack/webpack"
+        ],
+        "homepage": "https://webpack.js.org",
+        "readme_summary": "Webpack is a module bundler that bundles JavaScript files for browsers.  It supports various module types and allows for asynchronous loading of chunks to reduce initial load times.  Its features include dependency resolution, file preprocessing via loaders, and a highly modular plugin system for extensibility.",
+        "key_features": [
+            "Bundles ES Modules, CommonJS, and AMD modules",
+            "Creates single or multiple asynchronously loaded chunks",
+            "Resolves dependencies during compilation",
+            "Uses loaders to preprocess files (e.g., TypeScript to JavaScript, images to Base64)",
+            "Highly modular plugin system"
+        ],
+        "primary_use_case": "Bundling JavaScript files for browser usage and transforming, bundling, or packaging any resource or asset",
+        "open_issues": 135
+    },
+    {
+        "id": 584272649,
+        "name": "next-forge",
+        "description": "Production-grade Turborepo template for Next.js apps.",
+        "url": "https://github.com/haydenbleasel/next-forge",
+        "language": "TypeScript",
+        "stars": 5419,
+        "forks": 432,
+        "created_at": "2023-01-02T04:19:54Z",
+        "updated_at": "2025-02-20T11:13:10Z",
+        "topics": [
+            "betterstack",
+            "boilerplate",
+            "clerk",
+            "dark-mode",
+            "feature-flags",
+            "neon",
+            "nextjs",
+            "posthog",
+            "prisma",
+            "react",
+            "sentry",
+            "seo",
+            "stripe",
+            "tailwindcss",
+            "typescript"
+        ],
+        "quality_score": 0.9500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-17T16:33:49Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/584272649/d35ce933-0c9b-48b2-b389-d5b1485225ca"
+        ],
+        "homepage": "https://www.next-forge.com/",
+        "readme_summary": "next-forge is a Next.js boilerplate designed for building modern web applications.  It offers a comprehensive starting point with minimal configuration, utilizing Turborepo for enhanced build performance.  This template provides a solid foundation for new projects, streamlining the initial setup process.",
+        "key_features": [
+            "Production-grade Turborepo template",
+            "Next.js project boilerplate",
+            "Minimal configuration"
+        ],
+        "primary_use_case": "Creating modern web applications with Next.js",
+        "open_issues": 36
+    },
+    {
+        "id": 560299175,
+        "name": "teable",
+        "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+        "url": "https://github.com/teableio/teable",
+        "language": "TypeScript",
+        "stars": 16573,
+        "forks": 765,
+        "created_at": "2022-11-01T07:02:49Z",
+        "updated_at": "2025-02-20T12:57:33Z",
+        "topics": [
+            "airtable",
+            "airtable-alternative",
+            "app-builder",
+            "database",
+            "internal-tool",
+            "low-code",
+            "no-code",
+            "nocode",
+            "postgres",
+            "postgresql",
+            "realtime",
+            "spreadsheet",
+            "sqlite"
+        ],
+        "quality_score": 0.9500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-20T02:52:02Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/560299175/c5166694-8a98-4e19-91f6-09c3d73cb46c"
+        ],
+        "homepage": "https://teable.io",
+        "readme_summary": "Teable offers a user-friendly spreadsheet interface to build powerful database applications.  It enables real-time collaboration among team members and scales efficiently to handle large datasets.  Users can leverage pre-built templates and an API for seamless integration and deployment.",
+        "key_features": [
+            "Spreadsheet-like interface for database applications",
+            "Real-time team collaboration",
+            "Scalability to millions of rows",
+            "API access",
+            "Templates"
+        ],
+        "primary_use_case": "Managing data and connecting teams through a collaborative, spreadsheet-like database interface.",
+        "open_issues": 80
     },
     {
         "id": 179163124,
@@ -34,10 +205,10 @@
         "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
         "url": "https://github.com/hummingbot/hummingbot",
         "language": "Python",
-        "stars": 10912,
-        "forks": 3185,
+        "stars": 11088,
+        "forks": 3195,
         "created_at": "2019-04-02T21:41:52Z",
-        "updated_at": "2025-02-20T00:57:36Z",
+        "updated_at": "2025-02-20T13:19:36Z",
         "topics": [
             "algotrading",
             "arbitrage",
@@ -63,14 +234,14 @@
             "https://repository-images.githubusercontent.com/179163124/7fd92800-eb15-11ea-9c00-e48d8a17b594"
         ],
         "homepage": "https://hummingbot.org",
-        "readme_summary": "Hummingbot is an open-source framework enabling the creation and deployment of automated trading bots across multiple centralized and decentralized exchanges.  It offers standardized connectors for different market types (CLOB Spot, CLOB Perp, AMM) using REST and WebSocket APIs.  The framework allows users to build sophisticated trading strategies deployable across many exchanges with minimal changes.",
+        "readme_summary": "Hummingbot is an open-source framework enabling the creation and deployment of automated trading bots on various centralized and decentralized exchanges.  It offers standardized connectors for different market types (CLOB Spot, CLOB Perp, AMM) using REST and WebSocket APIs.  This allows users to build sophisticated trading strategies deployable across numerous exchanges with minimal code changes.",
         "key_features": [
             "Open-source framework for automated trading strategies",
             "Connectors to centralized (CEX) and decentralized (DEX) exchanges",
             "Support for various market types: CLOB Spot, CLOB Perp, AMM",
             "REST and WebSocket API interfaces"
         ],
-        "primary_use_case": "Design and deploy automated trading bots on various exchanges",
+        "primary_use_case": "Design and deploy automated trading bots across multiple exchanges",
         "open_issues": 291
     },
     {
@@ -79,27 +250,27 @@
         "description": "Composable building blocks to build Llama Apps",
         "url": "https://github.com/meta-llama/llama-stack",
         "language": "Python",
-        "stars": 7275,
-        "forks": 875,
+        "stars": 7283,
+        "forks": 876,
         "created_at": "2024-06-25T22:32:26Z",
-        "updated_at": "2025-02-19T23:37:29Z",
+        "updated_at": "2025-02-20T13:38:56Z",
         "topics": [],
         "quality_score": 1.05,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-19T23:37:25Z",
+        "last_commit_date": "2025-02-20T06:42:58Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/f2f86611e341f3f09ada6baa8a6b9bd96bac90b997def20d432599106e95b11c/meta-llama/llama-stack"
+            "https://opengraph.githubassets.com/63b8153809cd44350a3fa2a558defe8f4f008ca13613771b5126e23babe83fe5/meta-llama/llama-stack"
         ],
         "homepage": "",
-        "readme_summary": "Llama Stack offers a unified API and plugin architecture for building AI applications, supporting various environments (local, cloud, mobile).  It provides prepackaged distributions and multiple developer interfaces to streamline development and deployment.  The project includes standalone applications demonstrating production-grade AI application building.",
+        "readme_summary": "Llama Stack offers a unified API layer and plugin architecture for building AI applications.  It provides prepackaged distributions and multiple developer interfaces to streamline development across various environments, from local machines to cloud platforms.  This framework aims to reduce complexity and enable developers to focus on building generative AI applications.",
         "key_features": [
             "Unified API layer for Inference, RAG, Agents, Tools, Safety, Evals, and Telemetry",
             "Plugin architecture to support various API implementations",
             "Prepackaged verified distributions for quick and reliable setup",
             "Multiple developer interfaces (CLI, Python, Typescript, iOS, Android SDKs)",
-            "Standalone applications as examples for building AI applications"
+            "Standalone applications as examples for building production-grade AI applications"
         ],
-        "primary_use_case": "Simplifying AI application development by standardizing core building blocks and providing a consistent API across different environments and providers",
+        "primary_use_case": "Simplifying AI application development by standardizing core building blocks and providing a consistent experience across different environments and APIs",
         "open_issues": 132
     },
     {
@@ -108,10 +279,10 @@
         "description": "OpenPDF is a free Java library for creating and editing PDF files, with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository.",
         "url": "https://github.com/LibrePDF/OpenPDF",
         "language": "Java",
-        "stars": 3716,
-        "forks": 616,
+        "stars": 3724,
+        "forks": 617,
         "created_at": "2016-07-11T15:50:34Z",
-        "updated_at": "2025-02-19T18:57:05Z",
+        "updated_at": "2025-02-20T08:45:36Z",
         "topics": [
             "hacktoberfest",
             "itext",
@@ -124,10 +295,10 @@
         "contributors_count": 0,
         "last_commit_date": "2024-11-26T07:11:39Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/c79ba13664a390c05a713b133d9d0ff9929c985162396da9fab7f93ecf1bb4d0/LibrePDF/OpenPDF"
+            "https://opengraph.githubassets.com/0a45b202b0c5fac6afd68771e4347a4d90ded3f0a955a8ce60f663bba19a8402/LibrePDF/OpenPDF"
         ],
         "homepage": "",
-        "readme_summary": "OpenPDF is a Java library for creating and editing PDF documents.  It supports various features including text and font manipulation, image and graphic inclusion, table creation, encryption, and page layout customization.  This library allows users to generate new PDFs from scratch or modify existing ones.",
+        "readme_summary": "OpenPDF is a Java library for creating and editing PDF documents.  It supports various features including text and font manipulation, image and graphic inclusion, table creation, encryption, and page layout customization.  The library can be used to create new PDFs from scratch or modify existing ones.",
         "key_features": [
             "Creating PDFs",
             "Manipulating Existing PDFs",
@@ -146,10 +317,10 @@
         "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
         "url": "https://github.com/rclone/rclone",
         "language": "Go",
-        "stars": 48892,
-        "forks": 4351,
+        "stars": 48901,
+        "forks": 4354,
         "created_at": "2014-03-16T16:19:57Z",
-        "updated_at": "2025-02-20T00:32:49Z",
+        "updated_at": "2025-02-20T13:43:33Z",
         "topics": [
             "azure-blob",
             "azure-blob-storage",
@@ -179,115 +350,14 @@
             "https://repository-images.githubusercontent.com/17803236/0c6a8d5e-79e7-4940-8786-3a84961c4a3c"
         ],
         "homepage": "https://rclone.org",
-        "readme_summary": "Rclone is a command-line program that acts like \"rsync for cloud storage,\" enabling users to synchronize files and directories between various cloud storage providers and local systems.  It supports a wide array of cloud services and offers a robust feature set for managing cloud storage efficiently.",
+        "readme_summary": "Rclone is a command-line program that acts like \"rsync for cloud storage,\" enabling users to synchronize files and directories between different cloud storage services and local systems.  It supports a wide variety of cloud storage providers and offers rsync-like functionality for efficient data management.",
         "key_features": [
             "Command-line program",
-            "Syncs files and directories",
+            "Sync files and directories",
             "Supports various cloud storage providers",
             "rsync-like functionality"
         ],
         "primary_use_case": "Synchronizing files and directories to and from various cloud storage providers.",
         "open_issues": 939
-    },
-    {
-        "id": 685260045,
-        "name": "novus",
-        "description": "A local HTTPS proxy for a delightful developer experience on macOS",
-        "url": "https://github.com/jozefcipa/novus",
-        "language": "Go",
-        "stars": 135,
-        "forks": 1,
-        "created_at": "2023-08-30T21:07:28Z",
-        "updated_at": "2025-02-19T21:30:29Z",
-        "topics": [],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-12T13:56:40Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/b0517c4db1ebf2ed40f56b717f9c4c19bb9d91604f187176f581165c62ac12a9/jozefcipa/novus"
-        ],
-        "homepage": "",
-        "readme_summary": "Novus simplifies local development by using Nginx and DNSMasq to manage multiple localhost services with custom domains and automatic SSL certificates.  It offers a command-line interface for easy configuration and management of these services, eliminating the need to manually edit /etc/hosts or remember complex port numbers.",
-        "key_features": [
-            "Uses Nginx as a reverse proxy",
-            "Uses DNSMasq for custom domain resolution",
-            "Automatically manages and renews SSL certificates using mkcert",
-            "Allows mapping localhost URLs to custom domains",
-            "Provides command-line interface for managing services"
-        ],
-        "primary_use_case": "Managing multiple localhost services using real domain names instead of ports",
-        "open_issues": 4
-    },
-    {
-        "id": 752839399,
-        "name": "wild",
-        "description": "A very fast linker for Linux",
-        "url": "https://github.com/davidlattimore/wild",
-        "language": "Rust",
-        "stars": 1795,
-        "forks": 38,
-        "created_at": "2024-02-04T23:33:54Z",
-        "updated_at": "2025-02-19T23:29:51Z",
-        "topics": [],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-19T23:29:47Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/726dbc601f3e82c8b7f6598f43bf5c92286dd5b4619f7c25f02c4559afe8ee7e/davidlattimore/wild"
-        ],
-        "homepage": "",
-        "readme_summary": "Wild is a linker aiming for speed during iterative development, especially beneficial for Rust projects on x86-64 Linux.  It currently supports various output types and features, although incremental linking and broader platform support are planned for the future.  For production, more mature linkers are recommended.",
-        "key_features": [
-            "Fast linking for iterative development (though not yet incremental)",
-            "Supports x86-64 Linux",
-            "Outputs statically linked, non-relocatable binaries",
-            "Outputs statically linked, position-independent binaries (static-PIE)",
-            "Outputs to dynamically linked binaries",
-            "Outputs to shared objects (.so files)",
-            "Supports Rust proc-macros",
-            "Supports debug info"
-        ],
-        "primary_use_case": "Faster build times during development of Rust code on x86-64 Linux systems",
-        "open_issues": 29
-    },
-    {
-        "id": 925270205,
-        "name": "lume",
-        "description": "A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon.",
-        "url": "https://github.com/trycua/lume",
-        "language": "Swift",
-        "stars": 2001,
-        "forks": 24,
-        "created_at": "2025-01-31T15:02:49Z",
-        "updated_at": "2025-02-20T00:25:58Z",
-        "topics": [
-            "apple",
-            "cua",
-            "lume",
-            "macos",
-            "swift",
-            "virtualization",
-            "virtualization-framework"
-        ],
-        "quality_score": 1.1000000000000003,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-16T18:54:48Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/979f9b01c607f61c28958f1df128a644416871c5675167006768e2526fb5608d/trycua/lume"
-        ],
-        "homepage": "",
-        "readme_summary": "Lume is a command-line interface and API server that leverages Apple's Virtualization.Framework to provide efficient macOS and Linux VM management on Apple Silicon.  It offers features such as creating, running, configuring, and deleting VMs, along with the ability to pull pre-built images and interact programmatically via its API server.",
-        "key_features": [
-            "Lightweight CLI and local API server for managing macOS and Linux VMs",
-            "Near-native performance on Apple Silicon using Apple's Virtualization.Framework",
-            "Create, run, manage, and delete VMs",
-            "Pull pre-built macOS images",
-            "VM configuration modification (CPU, memory, disk size, resolution)",
-            "Share directories with VMs",
-            "API server for programmatic VM management",
-            "Homebrew installation support"
-        ],
-        "primary_use_case": "Creating, running, and managing macOS and Linux virtual machines on Apple Silicon with high performance.",
-        "open_issues": 14
     }
 ]
