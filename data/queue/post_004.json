@@ -1,7 +1,0 @@
-{
-    "project_id": 685260045,
-    "content": "✨ <b>novus</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging multiple localhost services using real domain names instead of ports\n<br>\n✨ <b>Key Features:</b>\n• Uses Nginx as a reverse proxy\n• Uses DNSMasq for custom domain resolution\n• Automatically manages and renews SSL certificates using mkcert\n• Allows mapping localhost URLs to custom domains\n• Provides command-line interface for managing services\n<br>\n📖 <b>Summary:</b>\nNovus simplifies local development by using Nginx and DNSMasq to manage multiple localhost services with custom domains and automatic SSL certificates.  It offers a command-line interface for easy configuration and management of these services, eliminating the need to manually edit /etc/hosts or remember complex port numbers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jozefcipa/novus?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/b0517c4db1ebf2ed40f56b717f9c4c19bb9d91604f187176f581165c62ac12a9/jozefcipa/novus",
-    "platform": "telegram",
-    "quality_score": 0.85
-}
