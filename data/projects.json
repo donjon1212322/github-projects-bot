@@ -5,24 +5,24 @@
         "description": null,
         "url": "https://github.com/stepfun-ai/Step-Audio",
         "language": "Python",
-        "stars": 2511,
+        "stars": 2512,
         "forks": 185,
         "created_at": "2025-02-11T05:35:12Z",
-        "updated_at": "2025-02-20T18:30:25Z",
+        "updated_at": "2025-02-20T18:35:40Z",
         "topics": [],
         "quality_score": 0.8500000000000001,
         "contributors_count": 0,
         "last_commit_date": "2025-02-20T07:29:35Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/45b4aee9ca784fa18a83f93478d51e54cdb8ba6c4445e363e3e6deff6c297c65/stepfun-ai/Step-Audio"
+            "https://opengraph.githubassets.com/5b14a9cded32fe32f14f1c5a6fa419bfef28f5e372d2df2f864211303ab14779/stepfun-ai/Step-Audio"
         ],
         "homepage": null,
-        "readme_summary": "Step-Audio is an open-source framework for intelligent speech interaction.  It features a 130B parameter multimodal model and a generative data engine for high-quality audio, enabling granular voice control and improved performance in complex tasks through tool integration and role-playing.  The framework supports multilingual conversations with various emotional tones, dialects, and speech styles.",
+        "readme_summary": "Step-Audio is an open-source framework for intelligent speech interaction.  It features a 130B parameter multimodal model and a generative data engine for high-quality audio, enabling granular voice control and enhanced intelligence through tool integration.  The framework supports multilingual conversations with various emotional tones, dialects, and speech styles.",
         "key_features": [
             "130B-Parameter Multimodal Model integrating speech recognition, semantic understanding, dialogue, voice cloning, and speech synthesis",
             "Generative Data Engine for high-quality audio generation",
             "Granular Voice Control enabling regulation of emotions, dialects, and vocal styles",
-            "ToolCall mechanism and role-playing enhancements for improved agent performance in complex tasks",
+            "Enhanced Intelligence through ToolCall mechanism and role-playing enhancements",
             "Dual-codebook framework for audio tokenization combining semantic and acoustic tokenizers"
         ],
         "primary_use_case": "Intelligent speech interaction supporting multilingual conversations, emotional tones, regional dialects, adjustable speech rates, and prosodic styles",
@@ -34,10 +34,10 @@
         "description": "Reliable Automation Agents at Scale",
         "url": "https://github.com/Aident-AI/open-cuak",
         "language": "TypeScript",
-        "stars": 176,
+        "stars": 177,
         "forks": 11,
         "created_at": "2025-02-12T00:42:03Z",
-        "updated_at": "2025-02-20T18:20:39Z",
+        "updated_at": "2025-02-20T18:39:24Z",
         "topics": [
             "agent",
             "aiagents",
@@ -52,10 +52,10 @@
         "contributors_count": 0,
         "last_commit_date": "2025-02-20T16:45:02Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/ee5156be428609fcbfffdb634c81c2871cafde5c4a201fbad2142a1fc1c2ca77/Aident-AI/open-cuak"
+            "https://opengraph.githubassets.com/95a48364f67a36550d71498cf29c38ce57b1d20bf7e512f08e7433de5a569677/Aident-AI/open-cuak"
         ],
         "homepage": "https://aident.ai",
-        "readme_summary": "Open-CUAK is a platform for managing automation agents at scale, focusing on reliability.  It allows users to run automation workflows locally, leverage vision-based automation, and utilize various vision-compatible models.  Key features include dedicated remote browsers for security and browser extension integration.",
+        "readme_summary": "Open-CUAK is a platform for managing automation agents at scale, focusing on reliability.  It allows users to run automation workflows locally, utilize vision-based automation, and integrate with various vision-compatible models.  Key features include a dedicated remote browser for security and browser extension integration.",
         "key_features": [
             "Run Operator-like automation workflows locally, ensuring full privacy",
             "Use vision-based automation with more flexibility and reliability, just like a human",
@@ -93,7 +93,7 @@
             "https://opengraph.githubassets.com/7234437350be40d2b840e0e2f7d59f51c4eb62657021df0e6f7cc56336d5739c/dataease/dataease"
         ],
         "homepage": "https://dataease.io/",
-        "readme_summary": "DataEase is an open-source BI tool that allows users to analyze data and gain insights into business trends.  It supports a wide range of data sources and offers a user-friendly drag-and-drop interface for creating charts and sharing data.  DataEase is available as both desktop and server versions, supporting multiple platforms and embedding options.",
+        "readme_summary": "DataEase is an open-source BI tool enabling users to analyze data and gain insights.  It supports diverse data sources and offers a user-friendly drag-and-drop interface for creating charts, facilitating data sharing.  DataEase is available as both desktop and server versions, adaptable to various platforms.",
         "key_features": [
             "Open-source BI tool",
             "Supports various data sources (OLTP, OLAP databases, data warehouses, data lakes, data files, APIs)",
@@ -114,7 +114,7 @@
         "stars": 15670,
         "forks": 3052,
         "created_at": "2018-11-10T02:22:53Z",
-        "updated_at": "2025-02-20T17:58:47Z",
+        "updated_at": "2025-02-20T18:50:38Z",
         "topics": [
             "ai-framework",
             "deep-learning",
@@ -128,12 +128,12 @@
         ],
         "quality_score": 0.9500000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-20T17:38:09Z",
+        "last_commit_date": "2025-02-20T18:50:32Z",
         "media_urls": [
             "https://repository-images.githubusercontent.com/156939672/37b1cb00-864b-11eb-8220-76153935f7da"
         ],
         "homepage": "https://onnxruntime.ai",
-        "readme_summary": "ONNX Runtime accelerates machine learning model inference and training.  It supports multiple frameworks and hardware, optimizing performance through hardware acceleration and graph optimizations.  Key features include cross-platform compatibility and support for various model types.",
+        "readme_summary": "ONNX Runtime accelerates machine learning model inference and training.  It supports multiple frameworks and hardware, optimizing performance through hardware acceleration and graph optimizations.  It's designed for cross-platform compatibility and offers features for both inference and training workloads.",
         "key_features": [
             "Cross-platform inference and training accelerator",
             "Supports models from PyTorch, TensorFlow/Keras, scikit-learn, LightGBM, XGBoost",
@@ -179,12 +179,12 @@
             "https://opengraph.githubassets.com/179a2c6d1db0846f69d743e9b307e7e825ccc746d40d5e7e98791edc92623735/webpack/webpack"
         ],
         "homepage": "https://webpack.js.org",
-        "readme_summary": "Webpack is a module bundler primarily used for bundling JavaScript files for browsers.  It supports various module types and offers features like code splitting for improved performance and a plugin system for extensibility.  Webpack also handles preprocessing of various assets.",
+        "readme_summary": "Webpack is a module bundler that primarily bundles JavaScript files for browsers.  It supports various module types (ES Modules, CommonJS, AMD), allows for asynchronous loading of chunks, and offers loaders for preprocessing assets.  Its modular plugin system enables extensive customization.",
         "key_features": [
             "Bundles ES Modules, CommonJS, and AMD modules",
             "Creates single or multiple asynchronously loaded chunks",
             "Resolves dependencies during compilation",
-            "Uses loaders to preprocess files (e.g., TypeScript to JavaScript, images to Base64)",
+            "Uses loaders for preprocessing files (e.g., TypeScript to JavaScript, images to Base64)",
             "Highly modular plugin system"
         ],
         "primary_use_case": "Bundling JavaScript files for browser usage and transforming, bundling, or packaging any resource or asset",
@@ -196,10 +196,10 @@
         "description": "Production-grade Turborepo template for Next.js apps.",
         "url": "https://github.com/haydenbleasel/next-forge",
         "language": "TypeScript",
-        "stars": 5422,
+        "stars": 5423,
         "forks": 432,
         "created_at": "2023-01-02T04:19:54Z",
-        "updated_at": "2025-02-20T18:10:33Z",
+        "updated_at": "2025-02-20T18:49:22Z",
         "topics": [
             "betterstack",
             "boilerplate",
@@ -239,10 +239,10 @@
         "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
         "url": "https://github.com/teableio/teable",
         "language": "TypeScript",
-        "stars": 16582,
+        "stars": 16583,
         "forks": 765,
         "created_at": "2022-11-01T07:02:49Z",
-        "updated_at": "2025-02-20T17:49:03Z",
+        "updated_at": "2025-02-20T18:35:30Z",
         "topics": [
             "airtable",
             "airtable-alternative",
@@ -265,7 +265,7 @@
             "https://repository-images.githubusercontent.com/560299175/c5166694-8a98-4e19-91f6-09c3d73cb46c"
         ],
         "homepage": "https://teable.io",
-        "readme_summary": "Teable offers a user-friendly spreadsheet interface for creating powerful database applications.  It enables real-time collaboration among team members and scales efficiently to handle millions of rows of data.  An API is available for integration, and pre-built templates are provided to accelerate application development.",
+        "readme_summary": "Teable offers a user-friendly spreadsheet interface to build powerful database applications.  It enables real-time collaboration among team members and scales efficiently to handle large datasets (millions of rows).  The platform provides an API and pre-built templates to streamline development and deployment.",
         "key_features": [
             "spreadsheet-like interface for database applications",
             "real-time team collaboration",
@@ -282,10 +282,10 @@
         "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
         "url": "https://github.com/hummingbot/hummingbot",
         "language": "Python",
-        "stars": 11107,
+        "stars": 11110,
         "forks": 3196,
         "created_at": "2019-04-02T21:41:52Z",
-        "updated_at": "2025-02-20T18:20:29Z",
+        "updated_at": "2025-02-20T18:53:28Z",
         "topics": [
             "algotrading",
             "arbitrage",
@@ -311,7 +311,7 @@
             "https://repository-images.githubusercontent.com/179163124/7fd92800-eb15-11ea-9c00-e48d8a17b594"
         ],
         "homepage": "https://hummingbot.org",
-        "readme_summary": "Hummingbot is an open-source framework enabling the creation and deployment of automated trading bots across multiple centralized and decentralized exchanges.  It offers standardized connectors for various market types (CLOB Spot, CLOB Perp, AMM) using REST and WebSocket APIs.  This allows for the development of sophisticated trading strategies adaptable to different exchange platforms.",
+        "readme_summary": "Hummingbot is an open-source framework enabling the creation and deployment of automated trading bots across multiple centralized and decentralized exchanges.  It offers standardized connectors for different market types (CLOB Spot, CLOB Perp, AMM) using REST and WebSocket APIs.  This allows users to build sophisticated trading strategies adaptable to various exchange platforms.",
         "key_features": [
             "Open-source framework for automated trading strategies",
             "Connectors to centralized (CEX) and decentralized (DEX) exchanges",
