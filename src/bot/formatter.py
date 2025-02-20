@@ -38,7 +38,7 @@ def format_post(project, template_env, additional_channels=None):
             topics = topics[0]  # Берем первый список, если topics - список списков
 
         # Форматируем description
-        description = project.get("description", "").strip()
+        description = (project.get("description") or "").strip()
         if description.endswith('...'):
             description = description[:-3]
 
@@ -62,20 +62,20 @@ def format_post(project, template_env, additional_channels=None):
 
         context = {
             "emoji": random.choice(["🚀", "💡", "✨", "🔥", "🌟"]),
-            "project_name": project["name"],
-            "language": project["language"],
+            "project_name": project.get("name", "Unknown Project"),
+            "language": project.get("language", "Not specified"),
             "description": description,
-            "stars": f"{project['stars']:,}".replace(',', ' '),
-            "forks": f"{project['forks']:,}".replace(',', ' '),
+            "stars": f"{project.get('stars', 0):,}".replace(',', ' '),
+            "forks": f"{project.get('forks', 0):,}".replace(',', ' '),
             "open_issues": f"{project.get('open_issues', 0):,}".replace(',', ' '),
             "topics": topics,
-            "last_updated": datetime.fromisoformat(project['updated_at'].replace('Z', '')).strftime('%Y-%m-%d'),
-            "url": project["url"],
-            "homepage": project.get("homepage"),
-            "demo_url": project.get("demo_url"),
-            "readme_summary": project.get("readme_summary", "").strip(),
+            "last_updated": datetime.fromisoformat(project.get('updated_at', datetime.now().isoformat()).replace('Z', '')).strftime('%Y-%m-%d'),
+            "url": project.get("url", ""),
+            "homepage": project.get("homepage") or "",
+            "demo_url": project.get("demo_url") or "",
+            "readme_summary": (project.get("readme_summary") or "").strip(),
             "key_features": key_features,
-            "primary_use_case": project.get("primary_use_case", "").strip(),
+            "primary_use_case": (project.get("primary_use_case") or "").strip(),
             "additional_channels": additional_channels_str.strip(),
             "channel_names": channel_names,
             "languages": project.get("languages", "Not specified")

@@ -22,7 +22,7 @@ def save_published_post(project_id):
     if project_id not in published_posts:
         published_posts.append(project_id)
         with open("data/published_posts_hashnode.json", "w") as f:
-            json.dump(published_posts, f)
+            json.dump(published_posts, f, indent=4)
 
 def publish_to_hashnode(article_data, publish_directly=False):
     project_id = article_data.get("project_id")
@@ -41,30 +41,16 @@ def publish_to_hashnode(article_data, publish_directly=False):
         "Authorization": HASHNODE_API_KEY,
     }
 
-    # Choose mutation based on publish_directly flag
-    if publish_directly:
-        mutation = """
-        mutation publishStory($input: CreateStoryInput!) {
-            createPublicationStory(input: $input) {
-                post {
-                    id
-                    slug
-                    url
-                }
+    mutation = """
+    mutation CreateDraft($input: CreateDraftInput!) {
+        createDraft(input: $input) {
+            draft {
+                id
+                slug
             }
         }
-        """
-    else:
-        mutation = """
-        mutation createDraft($input: CreateDraftInput!) {
-            createDraft(input: $input) {
-                draft {
-                    id
-                    slug
-                }
-            }
-        }
-        """
+    }
+    """
 
     variables = {
         "input": {
@@ -104,24 +90,90 @@ def publish_to_hashnode(article_data, publish_directly=False):
             return
 
         if isinstance(response_data, dict):
-            if publish_directly:
-                post_info = response_data.get("data", {}).get("createPublicationStory", {}).get("post")
-                if post_info:
-                    logging.info("Post successfully published on Hashnode!")
-                    post_id = post_info.get('id')
-                    logging.info(f"Post ID: {post_id}")
-                    save_published_post(project_id)
+            data = response_data.get("data")
+            if not data:
+                logging.error(f"No 'data' field found in response.  Full response: {json.dumps(response_data, indent=4)}")
+                if 'errors' in response_data:
+                    logging.error(f"Errors: {response_data['errors']}")
+                return
+
+            create_draft = data.get("createDraft")
+            if create_draft:
+                draft_info = create_draft.get("draft")
+                if draft_info:
+                    draft_id = draft_info.get('id')
+                    logging.info(f"Draft successfully created on Hashnode! Draft ID: {draft_id}")
+
+                    if publish_directly:  # Now publish the draft
+                        draft_id = draft_info.get('id')
+                        publish_mutation = """
+                        mutation PublishDraft($input: PublishDraftInput!) {
+                            publishDraft(input: $input) {
+                                post {
+                                    id
+                                    slug
+                                    url
+                                }
+                            }
+                        }
+                        """
+                        publish_variables = {
+                            "input": {
+                                "draftId": draft_id
+                            }
+                        }
+                        publish_payload = {
+                            "query": publish_mutation,
+                            "variables": publish_variables
+                        }
+
+                        logging.info("Publish Request Payload:")
+                        logging.info(json.dumps(publish_payload, indent=4))
+
+                        publish_response = requests.post(api_endpoint, headers=headers, json=publish_payload, timeout=30)
+                        publish_response.raise_for_status()  # Raise HTTPError for bad responses (4xx or 5xx)
+
+                        try:
+                            publish_response_data = publish_response.json()
+                            logging.info("Publish Response data:")
+                            logging.info(json.dumps(publish_response_data, indent=4))
+
+                            publish_data = publish_response_data.get("data")
+
+                            if publish_data:
+                                publish_draft_result = publish_data.get("publishDraft")
+                                if publish_draft_result:
+                                    post_info = publish_draft_result.get("post")
+                                    if post_info:
+                                        logging.info("Post successfully published on Hashnode!")
+                                        post_id = post_info.get('id')
+                                        logging.info(f"Post ID: {post_id}")
+                                        save_published_post(project_id)
+                                    else:
+                                        logging.error("Post publication failed; no post information returned.")
+                                else:
+                                   logging.error("Publish Draft failed, no post information found")
+
+                            else:
+                                logging.error("No data found from publish response")
+
+                        except json.JSONDecodeError:
+                            logging.error("Failed to decode JSON publish response")
+                            logging.error(f"Raw publish response: {publish_response.text}")
+                            return
+
                 else:
-                    logging.error("Post publication failed; no post information returned.")
+                    logging.error("Draft creation failed; no draft information returned.")
             else:
-                draft_info = response_data.get("data", {}).get("createDraft", {}).get("draft")
+                draft_info = create_draft.get("draft")
                 if draft_info:
                     logging.info("Draft successfully created on Hashnode!")
                     draft_id = draft_info.get('id')
                     logging.info(f"Draft ID: {draft_id}")
                     save_published_post(project_id)
                 else:
-                    logging.error("Draft creation failed; no draft information returned.")
+                     logging.error("Draft creation failed; no draft information returned.")
+
         else:
             error_message = response_data.get("errors", [{}])[0].get("message", "Unknown error")
             logging.error(f"Failed to create draft. Error: {error_message}")
@@ -146,6 +198,9 @@ def main():
     if not HASHNODE_PUBLICATION_ID:
         print("Error: HASHNODE_PUBLICATION_ID not found in environment variables. Set it before running this script.")
         return
+
+    project_id = article_data.get("project_id")
+    logging.info(f"Project ID: {project_id}")
 
     # Set publish_directly to True to publish directly to production
     publish_to_hashnode(article_data, publish_directly=True)
