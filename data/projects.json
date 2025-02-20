@@ -1,39 +1,222 @@
 [
     {
-        "id": 925434317,
-        "name": "kreuzberg",
-        "description": "A text extraction library supporting PDFs, images, office documents and more",
-        "url": "https://github.com/Goldziher/kreuzberg",
+        "id": 929311290,
+        "name": "Step-Video-T2V",
+        "description": null,
+        "url": "https://github.com/stepfun-ai/Step-Video-T2V",
         "language": "Python",
-        "stars": 1240,
-        "forks": 42,
-        "created_at": "2025-01-31T21:50:02Z",
-        "updated_at": "2025-02-19T08:52:54Z",
-        "topics": [
-            "asyncio",
-            "docx",
-            "ocr",
-            "pdf",
-            "text-extraction"
+        "stars": 1472,
+        "forks": 89,
+        "created_at": "2025-02-08T08:46:51Z",
+        "updated_at": "2025-02-20T00:58:29Z",
+        "topics": [],
+        "quality_score": 0.8500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-19T03:13:01Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/1662bfd1ff79f6b3d9b5594a290c862d064a3a5c19864653d07c2d9a3b76befb/stepfun-ai/Step-Video-T2V"
         ],
+        "homepage": null,
+        "readme_summary": "This repository contains the Step-Video-T2V model, a state-of-the-art text-to-video model capable of generating videos up to 204 frames.  It utilizes a deep compression VAE for efficient training and inference, and employs Direct Preference Optimization for enhanced visual quality.  The model's performance is evaluated on a novel benchmark, Step-Video-T2V-Eval.",
+        "key_features": [
+            "text-to-video generation",
+            "30 billion parameter model",
+            "deep compression VAE for videos (16x16 spatial and 8x temporal compression ratios)",
+            "Direct Preference Optimization (DPO)",
+            "generates videos up to 204 frames"
+        ],
+        "primary_use_case": "text-to-video generation",
+        "open_issues": 17
+    },
+    {
+        "id": 179163124,
+        "name": "hummingbot",
+        "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+        "url": "https://github.com/hummingbot/hummingbot",
+        "language": "Python",
+        "stars": 10912,
+        "forks": 3185,
+        "created_at": "2019-04-02T21:41:52Z",
+        "updated_at": "2025-02-20T00:57:36Z",
+        "topics": [
+            "algotrading",
+            "arbitrage",
+            "backtesting",
+            "bitcoin",
+            "bot",
+            "crypto",
+            "cryptocurrency",
+            "cython",
+            "dex",
+            "docker",
+            "ethereum",
+            "hft",
+            "marketmaking",
+            "orderbook",
+            "python",
+            "trading"
+        ],
+        "quality_score": 0.9500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-03T16:27:59Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/179163124/7fd92800-eb15-11ea-9c00-e48d8a17b594"
+        ],
+        "homepage": "https://hummingbot.org",
+        "readme_summary": "Hummingbot is an open-source framework enabling the creation and deployment of automated trading bots across multiple centralized and decentralized exchanges.  It offers standardized connectors for different market types (CLOB Spot, CLOB Perp, AMM) using REST and WebSocket APIs.  The framework allows users to build sophisticated trading strategies deployable across many exchanges with minimal changes.",
+        "key_features": [
+            "Open-source framework for automated trading strategies",
+            "Connectors to centralized (CEX) and decentralized (DEX) exchanges",
+            "Support for various market types: CLOB Spot, CLOB Perp, AMM",
+            "REST and WebSocket API interfaces"
+        ],
+        "primary_use_case": "Design and deploy automated trading bots on various exchanges",
+        "open_issues": 291
+    },
+    {
+        "id": 820145382,
+        "name": "llama-stack",
+        "description": "Composable building blocks to build Llama Apps",
+        "url": "https://github.com/meta-llama/llama-stack",
+        "language": "Python",
+        "stars": 7275,
+        "forks": 875,
+        "created_at": "2024-06-25T22:32:26Z",
+        "updated_at": "2025-02-19T23:37:29Z",
+        "topics": [],
         "quality_score": 1.05,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-16T08:44:05Z",
+        "last_commit_date": "2025-02-19T23:37:25Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/d2d02381c631ec477c5ae5702a8b76320dff6313558cdaa8c75792b298ad0e70/Goldziher/kreuzberg"
+            "https://opengraph.githubassets.com/f2f86611e341f3f09ada6baa8a6b9bd96bac90b997def20d432599106e95b11c/meta-llama/llama-stack"
         ],
         "homepage": "",
-        "readme_summary": "Kreuzberg is a Python library providing an async interface for text extraction from diverse document formats.  It supports local processing without cloud dependencies, offering both async and sync APIs including batch processing for efficient text retrieval.  This is ideal for RAG applications and other scenarios needing robust, local text extraction.",
+        "readme_summary": "Llama Stack offers a unified API and plugin architecture for building AI applications, supporting various environments (local, cloud, mobile).  It provides prepackaged distributions and multiple developer interfaces to streamline development and deployment.  The project includes standalone applications demonstrating production-grade AI application building.",
         "key_features": [
-            "Unified async interface for text extraction",
-            "Supports various document formats (PDF, images, office documents)",
-            "Local processing, no cloud dependencies",
-            "Lightweight with minimal dependencies",
-            "Batch processing support",
-            "Async and sync APIs"
+            "Unified API layer for Inference, RAG, Agents, Tools, Safety, Evals, and Telemetry",
+            "Plugin architecture to support various API implementations",
+            "Prepackaged verified distributions for quick and reliable setup",
+            "Multiple developer interfaces (CLI, Python, Typescript, iOS, Android SDKs)",
+            "Standalone applications as examples for building AI applications"
         ],
-        "primary_use_case": "Text extraction from documents for RAG (Retrieval Augmented Generation) applications",
-        "open_issues": 1
+        "primary_use_case": "Simplifying AI application development by standardizing core building blocks and providing a consistent API across different environments and providers",
+        "open_issues": 132
+    },
+    {
+        "id": 63081349,
+        "name": "OpenPDF",
+        "description": "OpenPDF is a free Java library for creating and editing PDF files, with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository.",
+        "url": "https://github.com/LibrePDF/OpenPDF",
+        "language": "Java",
+        "stars": 3716,
+        "forks": 616,
+        "created_at": "2016-07-11T15:50:34Z",
+        "updated_at": "2025-02-19T18:57:05Z",
+        "topics": [
+            "hacktoberfest",
+            "itext",
+            "java",
+            "openpdf",
+            "pdf",
+            "pdf-generation"
+        ],
+        "quality_score": 0.95,
+        "contributors_count": 0,
+        "last_commit_date": "2024-11-26T07:11:39Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/c79ba13664a390c05a713b133d9d0ff9929c985162396da9fab7f93ecf1bb4d0/LibrePDF/OpenPDF"
+        ],
+        "homepage": "",
+        "readme_summary": "OpenPDF is a Java library for creating and editing PDF documents.  It supports various features including text and font manipulation, image and graphic inclusion, table creation, encryption, and page layout customization.  This library allows users to generate new PDFs from scratch or modify existing ones.",
+        "key_features": [
+            "Creating PDFs",
+            "Manipulating Existing PDFs",
+            "Text and Font Support",
+            "Graphics and Images",
+            "Table Support",
+            "Encryption",
+            "Page Layout"
+        ],
+        "primary_use_case": "Creating and editing PDF files",
+        "open_issues": 144
+    },
+    {
+        "id": 17803236,
+        "name": "rclone",
+        "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+        "url": "https://github.com/rclone/rclone",
+        "language": "Go",
+        "stars": 48892,
+        "forks": 4351,
+        "created_at": "2014-03-16T16:19:57Z",
+        "updated_at": "2025-02-20T00:32:49Z",
+        "topics": [
+            "azure-blob",
+            "azure-blob-storage",
+            "azure-files",
+            "backblaze-b2",
+            "cloud-storage",
+            "dropbox",
+            "encryption",
+            "ftp",
+            "fuse-filesystem",
+            "go",
+            "golang",
+            "google-cloud-storage",
+            "google-drive",
+            "onedrive",
+            "openstack-swift",
+            "rclone",
+            "s3",
+            "sftp",
+            "sync",
+            "webdav"
+        ],
+        "quality_score": 1.1,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-19T20:30:44Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/17803236/0c6a8d5e-79e7-4940-8786-3a84961c4a3c"
+        ],
+        "homepage": "https://rclone.org",
+        "readme_summary": "Rclone is a command-line program that acts like \"rsync for cloud storage,\" enabling users to synchronize files and directories between various cloud storage providers and local systems.  It supports a wide array of cloud services and offers a robust feature set for managing cloud storage efficiently.",
+        "key_features": [
+            "Command-line program",
+            "Syncs files and directories",
+            "Supports various cloud storage providers",
+            "rsync-like functionality"
+        ],
+        "primary_use_case": "Synchronizing files and directories to and from various cloud storage providers.",
+        "open_issues": 939
+    },
+    {
+        "id": 685260045,
+        "name": "novus",
+        "description": "A local HTTPS proxy for a delightful developer experience on macOS",
+        "url": "https://github.com/jozefcipa/novus",
+        "language": "Go",
+        "stars": 135,
+        "forks": 1,
+        "created_at": "2023-08-30T21:07:28Z",
+        "updated_at": "2025-02-19T21:30:29Z",
+        "topics": [],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-12T13:56:40Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/b0517c4db1ebf2ed40f56b717f9c4c19bb9d91604f187176f581165c62ac12a9/jozefcipa/novus"
+        ],
+        "homepage": "",
+        "readme_summary": "Novus simplifies local development by using Nginx and DNSMasq to manage multiple localhost services with custom domains and automatic SSL certificates.  It offers a command-line interface for easy configuration and management of these services, eliminating the need to manually edit /etc/hosts or remember complex port numbers.",
+        "key_features": [
+            "Uses Nginx as a reverse proxy",
+            "Uses DNSMasq for custom domain resolution",
+            "Automatically manages and renews SSL certificates using mkcert",
+            "Allows mapping localhost URLs to custom domains",
+            "Provides command-line interface for managing services"
+        ],
+        "primary_use_case": "Managing multiple localhost services using real domain names instead of ports",
+        "open_issues": 4
     },
     {
         "id": 752839399,
@@ -41,19 +224,19 @@
         "description": "A very fast linker for Linux",
         "url": "https://github.com/davidlattimore/wild",
         "language": "Rust",
-        "stars": 1789,
+        "stars": 1795,
         "forks": 38,
         "created_at": "2024-02-04T23:33:54Z",
-        "updated_at": "2025-02-19T10:31:05Z",
+        "updated_at": "2025-02-19T23:29:51Z",
         "topics": [],
-        "quality_score": 0.85,
+        "quality_score": 0.9500000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-18T23:08:57Z",
+        "last_commit_date": "2025-02-19T23:29:47Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/15f13094352d0d21d8bc4b87439deb6ab9a4dc1ea1509f7fb29f59c981c1c49c/davidlattimore/wild"
+            "https://opengraph.githubassets.com/726dbc601f3e82c8b7f6598f43bf5c92286dd5b4619f7c25f02c4559afe8ee7e/davidlattimore/wild"
         ],
         "homepage": "",
-        "readme_summary": "Wild is a linker designed for rapid compilation during development, especially beneficial for Rust projects on x86-64 Linux.  While not yet incremental, it offers speed improvements over other linkers for initial builds.  It supports various output formats and has been tested with many crates from crates.io.",
+        "readme_summary": "Wild is a linker aiming for speed during iterative development, especially beneficial for Rust projects on x86-64 Linux.  It currently supports various output types and features, although incremental linking and broader platform support are planned for the future.  For production, more mature linkers are recommended.",
         "key_features": [
             "Fast linking for iterative development (though not yet incremental)",
             "Supports x86-64 Linux",
@@ -65,7 +248,7 @@
             "Supports debug info"
         ],
         "primary_use_case": "Faster build times during development of Rust code on x86-64 Linux systems",
-        "open_issues": 30
+        "open_issues": 29
     },
     {
         "id": 925270205,
@@ -73,10 +256,10 @@
         "description": "A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon.",
         "url": "https://github.com/trycua/lume",
         "language": "Swift",
-        "stars": 1991,
+        "stars": 2001,
         "forks": 24,
         "created_at": "2025-01-31T15:02:49Z",
-        "updated_at": "2025-02-19T10:30:28Z",
+        "updated_at": "2025-02-20T00:25:58Z",
         "topics": [
             "apple",
             "cua",
@@ -90,160 +273,21 @@
         "contributors_count": 0,
         "last_commit_date": "2025-02-16T18:54:48Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/6f1ea713980e182053857cf84bc4a916eb80447cce4f9b468ff919f9da805bde/trycua/lume"
+            "https://opengraph.githubassets.com/979f9b01c607f61c28958f1df128a644416871c5675167006768e2526fb5608d/trycua/lume"
         ],
         "homepage": "",
-        "readme_summary": "Lume provides a command-line interface and API server to easily create, run, and manage virtual machines on Apple Silicon.  It leverages Apple's Virtualization.Framework for near-native performance and offers features like pre-built image support, configuration modification, and a local API server.  The tool supports both macOS and Linux VMs and can be installed via Homebrew.",
+        "readme_summary": "Lume is a command-line interface and API server that leverages Apple's Virtualization.Framework to provide efficient macOS and Linux VM management on Apple Silicon.  It offers features such as creating, running, configuring, and deleting VMs, along with the ability to pull pre-built images and interact programmatically via its API server.",
         "key_features": [
             "Lightweight CLI and local API server for managing macOS and Linux VMs",
             "Near-native performance on Apple Silicon using Apple's Virtualization.Framework",
             "Create, run, manage, and delete VMs",
-            "Pull prebuilt macOS images",
-            "VM configuration modification",
-            "API server for programmatic VM control",
-            "Support for sharing directories with VMs",
-            "Homebrew installation"
+            "Pull pre-built macOS images",
+            "VM configuration modification (CPU, memory, disk size, resolution)",
+            "Share directories with VMs",
+            "API server for programmatic VM management",
+            "Homebrew installation support"
         ],
         "primary_use_case": "Creating, running, and managing macOS and Linux virtual machines on Apple Silicon with high performance.",
         "open_issues": 14
-    },
-    {
-        "id": 925948262,
-        "name": "autogram",
-        "description": "AI agent that automates AI news curation and post to Instagram",
-        "url": "https://github.com/ranahaani/autogram",
-        "language": "Python",
-        "stars": 33,
-        "forks": 4,
-        "created_at": "2025-02-02T06:23:58Z",
-        "updated_at": "2025-02-19T08:53:23Z",
-        "topics": [
-            "ai-agents",
-            "automation",
-            "dalle-3",
-            "image-generation",
-            "instagram-bot"
-        ],
-        "quality_score": 0.44999999999999996,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-11T03:42:17Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/a659f45a409af2b8de60699d8179baa95bfca8e27a7f8c5c8e62a641096a16c6/ranahaani/autogram"
-        ],
-        "homepage": "",
-        "readme_summary": "AutoGram is an AI agent that automatically collects and filters AI & tech news, generates branded images, posts to Instagram, and analyzes performance.  It uses Python, Google Gemini, Replicate SANA, and various APIs to manage the entire process, learning and improving content selection over time.",
-        "key_features": [
-            "Smart News Aggregation",
-            "AI-Powered Content Creation",
-            "Automated Instagram Management",
-            "Performance Analytics",
-            "Self-Learning",
-            "Brand Consistency"
-        ],
-        "primary_use_case": "Automates AI news curation and Instagram content management",
-        "open_issues": 0
-    },
-    {
-        "id": 926034958,
-        "name": "DeepSeekPin",
-        "description": "This lightweight Chrome extension lets you pin and manage your most important Deepseek chats for improved productivity, keeping them easily accessible at the top of your sidebar so you never have to scroll through your chat history again.",
-        "url": "https://github.com/shadowxdgamer/DeepSeekPin",
-        "language": "JavaScript",
-        "stars": 7,
-        "forks": 1,
-        "created_at": "2025-02-02T11:46:58Z",
-        "updated_at": "2025-02-19T05:59:13Z",
-        "topics": [
-            "chat-management",
-            "chrome-extension",
-            "deepseek",
-            "deepseek-chat",
-            "deepseek-r1",
-            "javascript",
-            "pin",
-            "pin-chats",
-            "pin-message",
-            "productivity"
-        ],
-        "quality_score": 0.7,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-04T13:45:54Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/8bb9bbecac7a9d53750391556c1841ab2bbf6db84dbcdc93a62295e7984af544/shadowxdgamer/DeepSeekPin"
-        ],
-        "homepage": "",
-        "readme_summary": "This Chrome extension enhances chat management in Deepseek by allowing users to pin important conversations for quick access.  It features a simple user interface and is lightweight for seamless integration. The extension improves efficiency by eliminating the need to repeatedly search for specific chats.",
-        "key_features": [
-            "Pin important chats for quick access",
-            "Simple and intuitive user interface",
-            "Lightweight and easy to use",
-            "Works seamlessly with Deepseek"
-        ],
-        "primary_use_case": "Pinning chats in Deepseek for easy access",
-        "open_issues": 2
-    },
-    {
-        "id": 925496510,
-        "name": "gridt",
-        "description": "Gridt - A highly customizable CSS Grid overlay for web developers",
-        "url": "https://github.com/gavink97/gridt",
-        "language": "TypeScript",
-        "stars": 12,
-        "forks": 0,
-        "created_at": "2025-02-01T02:16:43Z",
-        "updated_at": "2025-02-19T08:52:55Z",
-        "topics": [
-            "css-grid",
-            "firefox-extension",
-            "web-extension"
-        ],
-        "quality_score": 0.44999999999999996,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-03T18:00:42Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/2dd876437c8defc1f5027eac1d469958969a4734a1cc873f321a0039d877b7d7/gavink97/gridt"
-        ],
-        "homepage": "https://addons.mozilla.org/en-US/firefox/addon/gridt",
-        "readme_summary": "Gridt is a customizable CSS grid overlay that allows developers to adjust various grid properties, attach it to different elements, and maintain its state during hot reloads.  It supports both even and uneven grids and offers options for visual customization.  The tool is designed to simplify the process of creating and managing grid-based layouts.",
-        "key_features": [
-            "Customizable columns, rows, grid gaps, and outside margin",
-            "Attachment to window or HTML element via CSS selectors",
-            "Support for custom grid-template-columns/rows for uneven grids",
-            "Persistence during hot reload",
-            "Adjustable line color and stroke width",
-            "Light and developer modes"
-        ],
-        "primary_use_case": "Providing a customizable CSS grid overlay for web developers to aid in grid-based layout design.",
-        "open_issues": 0
-    },
-    {
-        "id": 589189,
-        "name": "python-magic",
-        "description": "A python wrapper for libmagic",
-        "url": "https://github.com/ahupp/python-magic",
-        "language": "Python",
-        "stars": 2705,
-        "forks": 286,
-        "created_at": "2010-03-31T22:40:33Z",
-        "updated_at": "2025-02-19T06:49:41Z",
-        "topics": [],
-        "quality_score": 0.65,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-11T17:52:38Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/993a41c4d43b104697136208c9ef3032c0b1bac8e373a10cf65dc6b9b8c32506/ahupp/python-magic"
-        ],
-        "homepage": "",
-        "readme_summary": "This Python library provides a wrapper around the libmagic library, enabling file type identification.  It offers functions to identify file types from files or buffers, supporting mime type detection and file uncompression.  Advanced options are available for direct control over the process, though not recommended for general use.",
-        "key_features": [
-            "File type identification using libmagic",
-            "Python interface for libmagic",
-            "Support for mime type detection",
-            "Option to uncompress files before identification",
-            "Direct control over magic database and character encoding detection (Magic class)",
-            "Error handling for various scenarios including mismatched library versions and incorrect magic file paths"
-        ],
-        "primary_use_case": "Identifying file types based on their content",
-        "open_issues": 21
     }
 ]
