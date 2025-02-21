@@ -9,35 +9,66 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
+MAX_RETRIES = 3
+RETRY_DELAY = 10  # seconds
+
 async def publish_post(client, post, session, channel_id):
     """Публикует пост в указанный канал Telegram"""
     try:
         channel = PeerChannel(int(channel_id.replace("-100", "")))
 
         # Логирование содержимого перед отправкой
-        logging.info(f"Preparing to send message to channel {channel_id}:")
-        logging.info(f"Content: {post['content']}")
+        logging.info(f"Подготовка к отправке сообщения в канал {channel_id}:")
+        logging.info(f"Содержимое: {post['content']}")
 
+        media_file = None  # Инициализируем media_file в None
         if post.get("media_url"):
-            async with session.get(post["media_url"]) as response:
-                if response.status == 200:
-                    temp_file = "temp_image.jpg"
-                    with open(temp_file, "wb") as f:
-                        f.write(await response.read())
+            for attempt in range(MAX_RETRIES):
+                try:
+                    async with session.get(post["media_url"]) as response:
+                        if response.status == 200:
+                            media_file = "temp_image.jpg"
+                            with open(media_file, "wb") as f:
+                                f.write(await response.read())
+                            break  # Загрузка успешна, выходим из цикла повтора
+                        else:
+                            logging.error(f"Попытка {attempt + 1} не удалась: Загрузка медиа из {post['media_url']}. Статус: {response.status}, Текст: {await response.text()}")
+                except aiohttp.ClientError as e:
+                    logging.error(f"Попытка {attempt + 1} не удалась: Загрузка медиа из {post['media_url']}. Ошибка клиента: {e}")
 
+                if attempt < MAX_RETRIES - 1:
+                    logging.info(f"Повторная попытка через {RETRY_DELAY} секунд...")
+                    await asyncio.sleep(RETRY_DELAY)  # Используем asyncio.sleep для асинхронной задержки
+
+            if media_file:
+                # Отправляем медиа с подписью
+                try:
                     await client.send_file(
                         channel,
-                        temp_file,
+                        media_file,
                         caption=post["content"],
                         parse_mode='html',
                         force_document=False,
                         link_preview=False  # Отключаем предпросмотр ссылок
                     )
-
-                    os.remove(temp_file)
-                else:
-                    logging.error("Failed to download media, skipping post.")
+                except Exception as e:
+                    logging.error(f"Ошибка при отправке медиа с подписью в канал {channel_id}: {e}")
+                    if media_file and os.path.exists(media_file):  # Check if file exists before removing
+                        os.remove(media_file)
                     return False
+                finally:
+                    if media_file and os.path.exists(media_file):  # Check if file exists before removing
+                        os.remove(media_file)  # Очищаем временный файл
+
+            else:
+                logging.warning(f"Не удалось загрузить медиа после {MAX_RETRIES} попыток, отправляем только текст.")
+                await client.send_message(
+                    channel,
+                    post["content"],
+                    parse_mode='html',
+                    link_preview=False  # Отключаем предпросмотр ссылок
+                )
+
         else:
             await client.send_message(
                 channel,
@@ -47,19 +78,19 @@ async def publish_post(client, post, session, channel_id):
             )
         return True
     except Exception as e:
-        logging.error(f"Error publishing post to channel {channel_id}: {e}")
+        logging.error(f"Ошибка при публикации поста в канал {channel_id}: {e}")
         return False
 
 async def main():
     try:
         queue_dir = "data/queue"
         if not os.path.exists(queue_dir):
-            logging.info("No queue directory found")
+            logging.info("Директория очереди не найдена")
             return
 
         posts = sorted([f for f in os.listdir(queue_dir) if f.endswith('.json')])
         if not posts:
-            logging.info("No posts in queue")
+            logging.info("В очереди нет постов")
             return
 
         next_post_file = posts[0]
@@ -81,23 +112,9 @@ async def main():
                 if main_channel_id:
                     success = await publish_post(client, post, session, main_channel_id)
 
-                # Публикация в дополнительные каналы, только если основной успешен
-                if success:
-                    additional_channels = os.getenv("ADDITIONAL_CHANNELS", "").split(",")
-                    channel_names = json.loads(os.getenv("CHANNEL_NAMES", "{}"))
-
-                    for channel_key in additional_channels:
-                        channel_config = channel_names.get(channel_key.strip())
-                        if channel_config:
-                            channel_id = channel_config.get("id")
-                            if channel_id:
-                                success = await publish_post(client, post, session, channel_id)
-                                if not success:
-                                    break
-
                 # Удаление поста из очереди, если публикация не удалась
                 if not success:
-                    logging.info(f"Removing post {next_post_file} due to publication failure.")
+                    logging.info(f"Удаление поста {next_post_file} из-за неудачи при публикации.")
                 else:
                     # Обновление списка опубликованных постов
                     published = []
@@ -112,10 +129,10 @@ async def main():
                         json.dump(published, f)
 
                 os.remove(next_post_path)
-                logging.info(f"Successfully processed and removed {next_post_file}")
+                logging.info(f"Успешно обработан и удален {next_post_file}")
 
     except Exception as e:
-        logging.error(f"Error in main: {e}")
+        logging.error(f"Ошибка в main: {e}")
 
 if __name__ == "__main__":
     asyncio.run(main())
