@@ -10,6 +10,8 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s')
 
+MAX_TELEGRAM_CAPTION_LENGTH = 1024  # Максимальная длина подписи в Telegram
+
 def slice_filter(value, count):
     """Фильтр для обрезки списка до определенного количества элементов"""
     return value[:count]
@@ -89,6 +91,17 @@ def format_post(project, template_env, additional_channels=None):
 
         # Убираем двойные пустые строки и лишние пробелы
         content = '\n'.join(line.strip() for line in content.split('\n') if line.strip())
+
+        # Обрезаем key_features, если необходимо
+        while len(content) > MAX_TELEGRAM_CAPTION_LENGTH and key_features:
+            key_features.pop()
+            context["key_features"] = key_features  # Обновляем context с обрезанными key_features
+            content = template.render(context)
+            content = '\n'.join(line.strip() for line in content.split('\n') if line.strip()) # Reformat after trimming
+
+        if len(content) > MAX_TELEGRAM_CAPTION_LENGTH:
+            logging.warning(f"Skipping project {project.get('name', 'unknown')}: Content too long even after removing all key features.")
+            return None # Skip the post if key_features trimming wasn't enough
 
         return {
             "content": content,
