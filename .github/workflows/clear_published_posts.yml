@@ -1,24 +1,48 @@
-name: Clear Published Posts Monthly
+name: Keep Last 10 Published Posts Monthly
 on:
   schedule:
     - cron: '0 0 1 * *' # Первое число каждого месяца в 00:00 UTC
   workflow_dispatch:
 
 jobs:
-  clear_published_posts:
+  keep_last_published_posts:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      - name: Clear published posts
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Keep last 10 entries in published posts files
         run: |
-          echo "[]" > data/published_posts.json
-          echo "[]" > data/published_posts_dev.json
-          echo "[]" > data/published_posts_hashnode.json
+          # Function to keep the last 10 entries
+          keep_last_10() {
+            file="$1"
+            if [ -f "$file" ]; then
+              # Read the file, keep the last 10 elements, and write back
+              jq 'if length > 10 then .[length-10:length] else . end' "$file" > temp.json && mv temp.json "$file"
+              echo "Successfully kept last 10 entries in $file"
+            else
+              echo "File $file not found. Creating an empty array."
+              echo "[]" > "$file"
+            fi
+          }
+
+          # Apply the function to each file
+          keep_last_10 "data/published_posts.json"
+          keep_last_10 "data/published_posts_dev.json"
+          keep_last_10 "data/published_posts_hashnode.json"
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/
-          git commit -m "Clear published posts" || exit 0
+          git commit -m "Keep last 10 published posts" || exit 0
           git push
