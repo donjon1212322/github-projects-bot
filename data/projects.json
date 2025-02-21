@@ -1,23 +1,60 @@
 [
     {
+        "id": 908068887,
+        "name": "google_photos_mobile_client",
+        "description": "Reverse engineered Google Photos mobile API client.",
+        "url": "https://github.com/xob0t/google_photos_mobile_client",
+        "language": "Python",
+        "stars": 28,
+        "forks": 5,
+        "created_at": "2024-12-25T03:29:35Z",
+        "updated_at": "2025-02-21T07:12:43Z",
+        "topics": [
+            "android",
+            "google-photos",
+            "httptoolkit",
+            "pyhton",
+            "reverse-engineering",
+            "unlimited-storage",
+            "unofficial"
+        ],
+        "quality_score": 0.65,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-18T20:23:55Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/a9b904fb09ebfc533c2c3ff5fbabd687d8ba1321f9130b2564ca2e4d401e4f44/xob0t/google_photos_mobile_client"
+        ],
+        "homepage": "",
+        "readme_summary": "This repository provides a command-line interface and Python client for uploading files to Google Photos using reverse-engineered mobile API.  It bypasses the need for an Android device by using authentication data obtained from a rooted device or emulator.  The tool offers features like progress tracking, recursive uploads, and options to manage albums and storage quota.",
+        "key_features": [
+            "Uploads files to Google Photos as if from a Pixel XL device",
+            "Provides both Python client and CLI interfaces",
+            "Supports various options like progress display, recursive directory upload, multi-threading, and more",
+            "Allows specifying album for uploaded media",
+            "Handles authentication using `auth_data` or environment variable `GP_AUTH_DATA`"
+        ],
+        "primary_use_case": "Uploading files to Google Photos without using a physical Android device or emulator",
+        "open_issues": 2
+    },
+    {
         "id": 930729355,
         "name": "Step-Audio",
         "description": null,
         "url": "https://github.com/stepfun-ai/Step-Audio",
         "language": "Python",
-        "stars": 2541,
-        "forks": 187,
+        "stars": 2623,
+        "forks": 197,
         "created_at": "2025-02-11T05:35:12Z",
-        "updated_at": "2025-02-21T00:57:53Z",
+        "updated_at": "2025-02-21T07:15:14Z",
         "topics": [],
         "quality_score": 0.8500000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-20T07:29:35Z",
+        "last_commit_date": "2025-02-21T06:29:30Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/1e0bc04b04423b85a3826302234f1e9bd878d320b5d93a0cdf1a0f3b6de94618/stepfun-ai/Step-Audio"
+            "https://opengraph.githubassets.com/7136e067308cb2475b75a81b56fdf346aeed0725d0fd4609ecf8693b1226557d/stepfun-ai/Step-Audio"
         ],
         "homepage": null,
-        "readme_summary": "Step-Audio is an open-source framework for intelligent speech interaction.  It features a 130B parameter multimodal model and a generative data engine for high-quality audio, enabling granular voice control and enhanced intelligence through tool integration and role-playing.  This framework supports various languages, tones, and styles for diverse speech generation needs.",
+        "readme_summary": "Step-Audio is an open-source framework for intelligent speech interaction.  It features a 130B parameter multimodal model and a generative data engine for high-quality audio, enabling granular voice control and improved performance in complex tasks through ToolCall and role-playing.  The framework supports multilingual conversations, various emotional tones, dialects, and speech styles.",
         "key_features": [
             "130B-Parameter Multimodal Model integrating speech recognition, semantic understanding, dialogue, voice cloning, and speech synthesis",
             "Generative Data Engine for high-quality audio generation",
@@ -26,45 +63,55 @@
             "Dual-codebook framework for audio tokenization combining semantic and acoustic tokenizers"
         ],
         "primary_use_case": "Intelligent speech interaction supporting multilingual conversations, emotional tones, regional dialects, adjustable speech rates, and prosodic styles",
-        "open_issues": 26
+        "open_issues": 27
     },
     {
-        "id": 931248460,
-        "name": "open-cuak",
-        "description": "Reliable Automation Agents at Scale",
-        "url": "https://github.com/Aident-AI/open-cuak",
-        "language": "TypeScript",
-        "stars": 202,
-        "forks": 12,
-        "created_at": "2025-02-12T00:42:03Z",
-        "updated_at": "2025-02-21T00:57:47Z",
+        "id": 139199684,
+        "name": "prefect",
+        "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+        "url": "https://github.com/PrefectHQ/prefect",
+        "language": "Python",
+        "stars": 18323,
+        "forks": 1710,
+        "created_at": "2018-06-29T21:59:26Z",
+        "updated_at": "2025-02-21T07:25:35Z",
         "topics": [
-            "agent",
-            "aiagents",
             "automation",
-            "llm",
-            "remote-browser",
-            "remote-desktop",
-            "rpa",
-            "vlm"
+            "data",
+            "data-engineering",
+            "data-ops",
+            "data-science",
+            "infrastructure",
+            "ml-ops",
+            "observability",
+            "orchestration",
+            "pipeline",
+            "prefect",
+            "python",
+            "workflow",
+            "workflow-engine"
         ],
-        "quality_score": 0.9500000000000001,
+        "quality_score": 1.05,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-20T19:03:07Z",
+        "last_commit_date": "2025-02-20T22:39:48Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/852cba4465496ce3e5b64023757c7deecd526ecab466a6a8668f9ae87b6339eb/Aident-AI/open-cuak"
+            "https://opengraph.githubassets.com/538bd6be7b0485ffaa252b378ac0d3e8d85c9127dad78528433d09f448c7ffe8/PrefectHQ/prefect"
         ],
-        "homepage": "https://aident.ai",
-        "readme_summary": "Open-CUAK is a platform for managing automation agents at scale, focusing on reliability.  It allows users to run automation workflows locally, utilize vision-based automation, and integrate with various vision-compatible models.  Key features include a dedicated remote browser for security and a browser extension for enhanced functionality.",
+        "homepage": "https://prefect.io",
+        "readme_summary": "Prefect is a Python framework for building data pipelines.  It offers features like scheduling, caching, and retries to create resilient workflows.  These workflows can be monitored via a self-hosted server or Prefect Cloud.",
         "key_features": [
-            "Run Operator-like automation workflows locally, ensuring full privacy",
-            "Use vision-based automation with more flexibility and reliability, just like a human",
-            "Turn any browser into an Operator-companion, with a browser extension",
-            "Utilize a dedicated remote browser to mitigate risks associated, without sharing your own",
-            "Use any vision-compatible model, whether frontier or open-source (Claude, Gemini, LLaVA, etc.)"
+            "workflow orchestration",
+            "data pipeline building",
+            "scheduling",
+            "caching",
+            "retries",
+            "event-based automations",
+            "monitoring",
+            "self-hosted server",
+            "Prefect Cloud integration"
         ],
-        "primary_use_case": "Managing automation agents at scale, starting with browsers",
-        "open_issues": 6
+        "primary_use_case": "Building and managing data pipelines in Python",
+        "open_issues": 954
     },
     {
         "id": 577623124,
@@ -72,10 +119,10 @@
         "description": "虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序",
         "url": "https://github.com/LorisYounger/VPet",
         "language": "C#",
-        "stars": 5082,
+        "stars": 5089,
         "forks": 508,
         "created_at": "2022-12-13T06:37:41Z",
-        "updated_at": "2025-02-21T00:47:25Z",
+        "updated_at": "2025-02-21T06:36:24Z",
         "topics": [
             "desktop-pet",
             "wpf"
@@ -84,19 +131,19 @@
         "contributors_count": 0,
         "last_commit_date": "2025-02-17T12:15:09Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/83738b5b4171edb5a4ddae47630c881ff335a39dc377d51de5efdd8f7dc7a3fe/LorisYounger/VPet"
+            "https://opengraph.githubassets.com/5a4a965c6e908157b7e162dfb4962496764968d7c19ef31f259f29526fccee2e/LorisYounger/VPet"
         ],
         "homepage": "",
-        "readme_summary": "VPet-Simulator is an open-source virtual pet software that integrates with WPF applications.  It features a wide array of animations and interactions, supports modding through Steam Workshop and a dedicated tool, and allows for extensive customization via code plugins.  Users can create and share custom pets and interactions.",
+        "readme_summary": "The VPet-Simulator is an open-source virtual pet software that supports various interactions and animations.  It's designed for easy integration into WPF applications via a provided core library and allows users to create and share custom content through Steam Workshop and a dedicated mod maker.  The project also includes tools to simplify the creation of custom animations and assets.",
         "key_features": [
             "Open-source virtual pet simulator",
             "Integrates with WPF applications",
             "Supports modding via Steam Workshop and a dedicated mod maker",
-            "Offers extensive interaction and animation options (32 types * 4 states * 3 categories)",
-            "Provides tools for creating custom pet animations and interactions",
-            "Allows for code plugins to extend functionality (e.g., adding new animation logic, features like alarms or notepads)"
+            "Provides extensive animation and interaction features",
+            "Offers a core library (VPet-Simulator.Core) for easy integration into other WPF projects",
+            "Includes tools for creating custom animations and assets"
         ],
-        "primary_use_case": "To provide a virtual pet simulator that can be integrated into WPF applications or used as a standalone application.",
+        "primary_use_case": "To provide a virtual pet simulator that can be integrated into other WPF applications or used as a standalone application.",
         "open_issues": 24
     },
     {
@@ -105,10 +152,10 @@
         "description": "A high-performance observability data pipeline.",
         "url": "https://github.com/vectordotdev/vector",
         "language": "Rust",
-        "stars": 18802,
+        "stars": 18810,
         "forks": 1667,
         "created_at": "2018-08-27T16:57:34Z",
-        "updated_at": "2025-02-21T00:56:22Z",
+        "updated_at": "2025-02-21T07:22:01Z",
         "topics": [
             "events",
             "forwarder",
@@ -129,7 +176,7 @@
             "https://repository-images.githubusercontent.com/146327667/79b84380-28db-11eb-9bb0-13be8f3541cc"
         ],
         "homepage": "https://vector.dev",
-        "readme_summary": "Vector is a high-performance data pipeline written in Rust that collects, transforms, and routes logs and metrics.  It supports various sources and destinations, enabling users to manage and reduce observability costs, transition vendors, and improve data quality.  Vector functions as both an agent and aggregator for a complete observability platform.",
+        "readme_summary": "Vector is a high-performance data pipeline written in Rust that collects, transforms, and routes logs and metrics.  It's designed for reliability and supports various sources and destinations, enabling users to manage their observability data efficiently and reduce costs.  Vector handles logs and metrics, with trace support planned.",
         "key_features": [
             "High-performance observability data pipeline",
             "End-to-end data processing (agent & aggregator)",
@@ -147,10 +194,10 @@
         "description": "🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。",
         "url": "https://github.com/dataease/dataease",
         "language": "Java",
-        "stars": 19377,
-        "forks": 3465,
+        "stars": 19382,
+        "forks": 3467,
         "created_at": "2021-02-02T04:10:21Z",
-        "updated_at": "2025-02-21T00:43:12Z",
+        "updated_at": "2025-02-21T07:19:50Z",
         "topics": [
             "apache-doris",
             "business-intelligence",
@@ -163,12 +210,12 @@
         ],
         "quality_score": 0.85,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-20T12:19:25Z",
+        "last_commit_date": "2025-02-21T05:43:12Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/0880d4815dce048530767a4e271359601996688529f97b2bbbd55e9705085ba6/dataease/dataease"
+            "https://opengraph.githubassets.com/7d291bb3ed45bcc82423e5084c2c25c2d705eb15113a88b1478d3a4a5252cc04/dataease/dataease"
         ],
         "homepage": "https://dataease.io/",
-        "readme_summary": "DataEase is an open-source BI tool enabling users to analyze data and gain insights.  It supports diverse data sources and offers a user-friendly drag-and-drop interface for creating charts, facilitating data sharing.  DataEase is available for both desktop and server deployments.",
+        "readme_summary": "DataEase is an open-source BI tool enabling users to analyze data and gain insights.  It supports numerous data sources and offers a user-friendly drag-and-drop interface for creating charts, along with secure data sharing features.  DataEase is available for both desktop and server deployments.",
         "key_features": [
             "Open-source BI tool",
             "Supports various data sources (OLTP, OLAP databases, data warehouses, data lakes, data files, APIs)",
@@ -177,8 +224,8 @@
             "Available as desktop and server versions",
             "Supports multiple platforms and embedding options"
         ],
-        "primary_use_case": "Business intelligence and data analysis",
-        "open_issues": 401
+        "primary_use_case": "Data analysis and business intelligence",
+        "open_issues": 399
     },
     {
         "id": 156939672,
@@ -186,10 +233,10 @@
         "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
         "url": "https://github.com/microsoft/onnxruntime",
         "language": "C++",
-        "stars": 15678,
+        "stars": 15682,
         "forks": 3052,
         "created_at": "2018-11-10T02:22:53Z",
-        "updated_at": "2025-02-21T00:21:18Z",
+        "updated_at": "2025-02-21T07:24:23Z",
         "topics": [
             "ai-framework",
             "deep-learning",
@@ -203,12 +250,12 @@
         ],
         "quality_score": 0.9500000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-21T00:21:13Z",
+        "last_commit_date": "2025-02-21T04:04:59Z",
         "media_urls": [
             "https://repository-images.githubusercontent.com/156939672/37b1cb00-864b-11eb-8220-76153935f7da"
         ],
         "homepage": "https://onnxruntime.ai",
-        "readme_summary": "ONNX Runtime accelerates machine learning model inference and training.  It supports multiple frameworks and hardware, optimizing performance through hardware acceleration and graph optimizations.  It's designed for cross-platform compatibility and ease of use.",
+        "readme_summary": "ONNX Runtime accelerates machine learning model inference and training.  It supports multiple frameworks and hardware, optimizing performance through hardware acceleration and graph optimizations.  Key features include cross-platform compatibility and support for various model types.",
         "key_features": [
             "Cross-platform inference and training accelerator",
             "Supports models from PyTorch, TensorFlow/Keras, scikit-learn, LightGBM, XGBoost",
@@ -217,7 +264,7 @@
             "Accelerates model training time on multi-node NVIDIA GPUs for transformer models"
         ],
         "primary_use_case": "Machine learning model inference and training acceleration",
-        "open_issues": 2534
+        "open_issues": 2536
     },
     {
         "id": 3678731,
@@ -226,7 +273,7 @@
         "url": "https://github.com/webpack/webpack",
         "language": "JavaScript",
         "stars": 65045,
-        "forks": 8947,
+        "forks": 8948,
         "created_at": "2012-03-10T10:08:14Z",
         "updated_at": "2025-02-20T22:06:49Z",
         "topics": [
@@ -254,7 +301,7 @@
             "https://opengraph.githubassets.com/b5587590917288a873faa0fbbd1858c1bbdbad928271c2cc99e078f52c0f803d/webpack/webpack"
         ],
         "homepage": "https://webpack.js.org",
-        "readme_summary": "Webpack is a module bundler primarily used for bundling JavaScript files for browsers.  It supports various module systems and can create optimized bundles, asynchronously loaded chunks, and preprocesses files using loaders.  Its modular plugin system allows for extensive customization.",
+        "readme_summary": "Webpack is a module bundler primarily used for bundling JavaScript files for browsers.  It supports various module types and offers features like asynchronous chunk loading, dependency resolution, and file preprocessing via loaders.  A highly modular plugin system allows for extensive customization.",
         "key_features": [
             "Bundles ES Modules, CommonJS, and AMD modules",
             "Creates single or multiple asynchronously loaded chunks",
@@ -271,10 +318,10 @@
         "description": "Production-grade Turborepo template for Next.js apps.",
         "url": "https://github.com/haydenbleasel/next-forge",
         "language": "TypeScript",
-        "stars": 5426,
+        "stars": 5427,
         "forks": 432,
         "created_at": "2023-01-02T04:19:54Z",
-        "updated_at": "2025-02-21T00:54:12Z",
+        "updated_at": "2025-02-21T04:20:41Z",
         "topics": [
             "betterstack",
             "boilerplate",
@@ -299,7 +346,7 @@
             "https://repository-images.githubusercontent.com/584272649/d35ce933-0c9b-48b2-b389-d5b1485225ca"
         ],
         "homepage": "https://www.next-forge.com/",
-        "readme_summary": "next-forge is a Next.js boilerplate designed for building modern web applications.  It offers a solid foundation with minimal configuration, using Turborepo for enhanced build performance.  This template streamlines the initial setup of new Next.js projects.",
+        "readme_summary": "next-forge is a Next.js boilerplate designed for building modern web applications.  It offers a comprehensive starting point with minimal configuration, utilizing Turborepo for enhanced build performance.  The template provides a solid foundation to jumpstart new projects.",
         "key_features": [
             "Production-grade Turborepo template",
             "Next.js project boilerplate",
@@ -307,48 +354,5 @@
         ],
         "primary_use_case": "Creating modern web applications with Next.js",
         "open_issues": 36
-    },
-    {
-        "id": 560299175,
-        "name": "teable",
-        "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
-        "url": "https://github.com/teableio/teable",
-        "language": "TypeScript",
-        "stars": 16587,
-        "forks": 765,
-        "created_at": "2022-11-01T07:02:49Z",
-        "updated_at": "2025-02-21T00:45:11Z",
-        "topics": [
-            "airtable",
-            "airtable-alternative",
-            "app-builder",
-            "database",
-            "internal-tool",
-            "low-code",
-            "no-code",
-            "nocode",
-            "postgres",
-            "postgresql",
-            "realtime",
-            "spreadsheet",
-            "sqlite"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-20T02:52:02Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/560299175/c5166694-8a98-4e19-91f6-09c3d73cb46c"
-        ],
-        "homepage": "https://teable.io",
-        "readme_summary": "Teable offers a user-friendly spreadsheet interface to build powerful database applications.  It enables real-time collaboration among team members and scales efficiently to handle large datasets.  Users can leverage pre-built templates and access a comprehensive API.",
-        "key_features": [
-            "spreadsheet-like interface for database applications",
-            "real-time team collaboration",
-            "scalability to millions of rows",
-            "API access",
-            "templates"
-        ],
-        "primary_use_case": "Managing data and connecting teams through a collaborative, spreadsheet-like database application.",
-        "open_issues": 80
     }
 ]
