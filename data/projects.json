@@ -1,14 +1,49 @@
 [
     {
+        "id": 800632485,
+        "name": "subtrace",
+        "description": "Wireshark for Docker containers",
+        "url": "https://github.com/subtrace/subtrace",
+        "language": "Go",
+        "stars": 1475,
+        "forks": 27,
+        "created_at": "2024-05-14T17:44:49Z",
+        "updated_at": "2025-02-21T15:13:26Z",
+        "topics": [
+            "backend",
+            "devtools",
+            "monitoring",
+            "observability"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-20T03:22:59Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/7d155d1abb81d514e59f9eb5237b674841baac5b6652ef0e2b8da2730fd43a85/subtrace/subtrace"
+        ],
+        "homepage": "https://subtrace.dev",
+        "readme_summary": "Subtrace is a tool to debug Docker containers by viewing network requests.  It supports all major programming languages and requires no code changes.  It provides detailed request information with minimal performance overhead.",
+        "key_features": [
+            "Works out-of-the-box",
+            "No code changes needed",
+            "Supports all languages (Python + Node + Go + everything else)",
+            "See full payload, headers, status code, and latency",
+            "Less than 100µs performance overhead",
+            "Built on Clickhouse"
+        ],
+        "primary_use_case": "View incoming and outgoing requests in Docker containers to resolve production issues faster",
+        "open_issues": 10
+    },
+    {
         "id": 908068887,
         "name": "google_photos_mobile_client",
         "description": "Reverse engineered Google Photos mobile API client.",
         "url": "https://github.com/xob0t/google_photos_mobile_client",
         "language": "Python",
-        "stars": 28,
+        "stars": 31,
         "forks": 5,
         "created_at": "2024-12-25T03:29:35Z",
-        "updated_at": "2025-02-21T07:12:43Z",
+        "updated_at": "2025-02-21T10:00:02Z",
         "topics": [
             "android",
             "google-photos",
@@ -22,48 +57,154 @@
         "contributors_count": 0,
         "last_commit_date": "2025-02-18T20:23:55Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/a9b904fb09ebfc533c2c3ff5fbabd687d8ba1321f9130b2564ca2e4d401e4f44/xob0t/google_photos_mobile_client"
+            "https://opengraph.githubassets.com/6d37f3f32ef67e90e1ef675ff48715320de5e7f918e728bce4b0e445104e4eb3/xob0t/google_photos_mobile_client"
         ],
         "homepage": "",
-        "readme_summary": "This repository provides a command-line interface and Python client for uploading files to Google Photos using reverse-engineered mobile API.  It bypasses the need for an Android device by using authentication data obtained from a rooted device or emulator.  The tool offers features like progress tracking, recursive uploads, and options to manage albums and storage quota.",
+        "readme_summary": "This repository provides a command-line interface and Python client for uploading files to Google Photos using reverse-engineered API.  It bypasses the need for a physical device or emulator, offering features like progress tracking, recursive uploads, and options for managing storage quota and post-upload file deletion. Authentication is handled using an androidId and app parameters obtained from a rooted Android device or emulator.",
         "key_features": [
             "Uploads files to Google Photos as if from a Pixel XL device",
             "Provides both Python client and CLI interfaces",
-            "Supports various options like progress display, recursive directory upload, multi-threading, and more",
+            "Supports various options like progress display, recursive directory uploads, and multi-threading",
             "Allows specifying album for uploaded media",
-            "Handles authentication using `auth_data` or environment variable `GP_AUTH_DATA`"
+            "Offers options for handling storage quota and file deletion after upload",
+            "Handles authentication using androidId and app parameters"
         ],
-        "primary_use_case": "Uploading files to Google Photos without using a physical Android device or emulator",
+        "primary_use_case": "Uploading files to Google Photos without using a physical device or emulator",
         "open_issues": 2
     },
     {
-        "id": 930729355,
-        "name": "Step-Audio",
-        "description": null,
-        "url": "https://github.com/stepfun-ai/Step-Audio",
-        "language": "Python",
-        "stars": 2623,
-        "forks": 197,
-        "created_at": "2025-02-11T05:35:12Z",
-        "updated_at": "2025-02-21T07:15:14Z",
-        "topics": [],
-        "quality_score": 0.8500000000000001,
+        "id": 249331466,
+        "name": "laplace",
+        "description": "Laplace is an open-source project to enable screen sharing directly via browser. Based on WebRTC for low latency peer-to-peer connections, and WebSocket implemented in golang for signaling.",
+        "url": "https://github.com/adamyordan/laplace",
+        "language": "JavaScript",
+        "stars": 303,
+        "forks": 31,
+        "created_at": "2020-03-23T03:58:55Z",
+        "updated_at": "2025-02-21T15:11:06Z",
+        "topics": [
+            "peer-to-peer",
+            "screencast",
+            "screensharing",
+            "webrtc",
+            "webrtc-signaling",
+            "websocket"
+        ],
+        "quality_score": 0.5,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-21T06:29:30Z",
+        "last_commit_date": "2020-03-28T07:57:27Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/7136e067308cb2475b75a81b56fdf346aeed0725d0fd4609ecf8693b1226557d/stepfun-ai/Step-Audio"
+            "https://opengraph.githubassets.com/ce26d5c7332a7303970994d5c2b677a86c6abfaaca2cc8e2cc94812c3ee74046/adamyordan/laplace"
         ],
-        "homepage": null,
-        "readme_summary": "Step-Audio is an open-source framework for intelligent speech interaction.  It features a 130B parameter multimodal model and a generative data engine for high-quality audio, enabling granular voice control and improved performance in complex tasks through ToolCall and role-playing.  The framework supports multilingual conversations, various emotional tones, dialects, and speech styles.",
+        "homepage": "https://laplace.adamjordan.id/",
+        "readme_summary": "Laplace enables screen sharing via browser using WebRTC for low-latency peer-to-peer connections and a Golang-based WebSocket for signaling.  It offers a simple, installation-free solution for screen sharing with low server costs, suitable for various use cases such as game streaming and remote collaboration.",
         "key_features": [
-            "130B-Parameter Multimodal Model integrating speech recognition, semantic understanding, dialogue, voice cloning, and speech synthesis",
-            "Generative Data Engine for high-quality audio generation",
-            "Granular Voice Control enabling regulation of emotions, dialects, and vocal styles",
-            "ToolCall mechanism and role-playing enhancements for improved agent performance in complex tasks",
-            "Dual-codebook framework for audio tokenization combining semantic and acoustic tokenizers"
+            "WebRTC for low latency peer-to-peer connections",
+            "WebSocket implemented in golang for WebRTC signaling",
+            "Screen sharing directly via browser",
+            "No installation or registration required",
+            "Low server cost because encoding and transmission are done on client browsers"
         ],
-        "primary_use_case": "Intelligent speech interaction supporting multilingual conversations, emotional tones, regional dialects, adjustable speech rates, and prosodic styles",
-        "open_issues": 27
+        "primary_use_case": "Screen sharing directly via browser without requiring software installations or plugins",
+        "open_issues": 5
+    },
+    {
+        "id": 853917967,
+        "name": "fast-music-remover",
+        "description": "A C++ based, lightweight music and noise remover for YouTube and other internet media, using DeepFilterNet for audio enhancement.",
+        "url": "https://github.com/omeryusufyagci/fast-music-remover",
+        "language": "C++",
+        "stars": 547,
+        "forks": 39,
+        "created_at": "2024-09-07T22:35:11Z",
+        "updated_at": "2025-02-21T13:30:42Z",
+        "topics": [
+            "audio-cleaner",
+            "audio-enhancement",
+            "audio-extractor",
+            "audio-processing",
+            "cpp",
+            "deepfilternet",
+            "ffmpeg",
+            "flask",
+            "machine-learning",
+            "media-editor",
+            "media-processing",
+            "music-remover",
+            "noise-removal",
+            "processing",
+            "realtime",
+            "speech-extractor",
+            "vocal-extractor",
+            "youtube",
+            "yt-dlp"
+        ],
+        "quality_score": 0.95,
+        "contributors_count": 0,
+        "last_commit_date": "2024-12-27T11:42:35Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/d2f6dde957786f1317781fb6f6d3a21aa98eba5b3d13d18d480ea5f191b8b9e2/omeryusufyagci/fast-music-remover"
+        ],
+        "homepage": "",
+        "readme_summary": "Fast Music Remover is a media processor that filters background music and noise to enhance audio quality.  It offers a web UI and is available as a container on GHCR, supporting cross-platform use. Future development includes real-time processing and additional ML models.",
+        "key_features": [
+            "background music filtering",
+            "noise removal",
+            "audio quality enhancement",
+            "cross-platform support (Linux, macOS, Windows)",
+            "containerized on GHCR",
+            "Web UI",
+            "project launcher to manage dependency installation, project configuration, and starting the web application",
+            "future support for more ML models and DSP modules",
+            "future support for real-time processing"
+        ],
+        "primary_use_case": "Removing background music and noise from audio",
+        "open_issues": 22
+    },
+    {
+        "id": 49876476,
+        "name": "shardingsphere",
+        "description": "Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.",
+        "url": "https://github.com/apache/shardingsphere",
+        "language": "Java",
+        "stars": 20066,
+        "forks": 6792,
+        "created_at": "2016-01-18T12:49:26Z",
+        "updated_at": "2025-02-21T15:11:11Z",
+        "topics": [
+            "bigdata",
+            "data-encryption",
+            "data-pipeline",
+            "database",
+            "database-cluster",
+            "database-gateway",
+            "database-middleware",
+            "distributed-database",
+            "distributed-sql-database",
+            "distributed-transaction",
+            "encrypt",
+            "mysql",
+            "postgresql",
+            "read-write-splitting",
+            "shard",
+            "sql"
+        ],
+        "quality_score": 1.1,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-21T15:11:05Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/ad2d3e83c4b99a362156675d394030af08fa5d028e34d9e2fcc5b837f99ab9e7/apache/shardingsphere"
+        ],
+        "homepage": "",
+        "readme_summary": "ShardingSphere is a distributed SQL transaction and query engine.  It's designed for data sharding, scaling, and encryption across various databases.  This allows for improved performance and security in database management.",
+        "key_features": [
+            "Distributed SQL transaction",
+            "query engine for data sharding",
+            "scaling",
+            "encryption"
+        ],
+        "primary_use_case": "Data sharding, scaling, and encryption on any database",
+        "open_issues": 477
     },
     {
         "id": 139199684,
@@ -71,10 +212,10 @@
         "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
         "url": "https://github.com/PrefectHQ/prefect",
         "language": "Python",
-        "stars": 18323,
+        "stars": 18340,
         "forks": 1710,
         "created_at": "2018-06-29T21:59:26Z",
-        "updated_at": "2025-02-21T07:25:35Z",
+        "updated_at": "2025-02-21T15:04:42Z",
         "topics": [
             "automation",
             "data",
@@ -95,7 +236,7 @@
         "contributors_count": 0,
         "last_commit_date": "2025-02-20T22:39:48Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/538bd6be7b0485ffaa252b378ac0d3e8d85c9127dad78528433d09f448c7ffe8/PrefectHQ/prefect"
+            "https://opengraph.githubassets.com/38de807adfe98381b0087a33f30edb1c970041a86974a07cc246dda449466126/PrefectHQ/prefect"
         ],
         "homepage": "https://prefect.io",
         "readme_summary": "Prefect is a Python framework for building data pipelines.  It offers features like scheduling, caching, and retries to create resilient workflows.  These workflows can be monitored via a self-hosted server or Prefect Cloud.",
@@ -110,8 +251,8 @@
             "self-hosted server",
             "Prefect Cloud integration"
         ],
-        "primary_use_case": "Building and managing data pipelines in Python",
-        "open_issues": 954
+        "primary_use_case": "building and managing data pipelines in Python",
+        "open_issues": 956
     },
     {
         "id": 577623124,
@@ -119,32 +260,32 @@
         "description": "虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序",
         "url": "https://github.com/LorisYounger/VPet",
         "language": "C#",
-        "stars": 5089,
+        "stars": 5093,
         "forks": 508,
         "created_at": "2022-12-13T06:37:41Z",
-        "updated_at": "2025-02-21T06:36:24Z",
+        "updated_at": "2025-02-21T12:56:29Z",
         "topics": [
             "desktop-pet",
             "wpf"
         ],
         "quality_score": 0.8500000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-17T12:15:09Z",
+        "last_commit_date": "2025-02-21T09:56:32Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/5a4a965c6e908157b7e162dfb4962496764968d7c19ef31f259f29526fccee2e/LorisYounger/VPet"
+            "https://opengraph.githubassets.com/5be308fee9ac5c84cc38e26bd6d90e080d8528389102db907941b6e3a7be45ab/LorisYounger/VPet"
         ],
         "homepage": "",
-        "readme_summary": "The VPet-Simulator is an open-source virtual pet software that supports various interactions and animations.  It's designed for easy integration into WPF applications via a provided core library and allows users to create and share custom content through Steam Workshop and a dedicated mod maker.  The project also includes tools to simplify the creation of custom animations and assets.",
+        "readme_summary": "VPet-Simulator is an open-source virtual pet simulator that can be integrated into WPF applications.  It features extensive animation and interaction capabilities, and supports modding through Steam Workshop and a dedicated mod maker for creating custom content and extending functionality.  Users can create custom pets, animations, and even add new features via code plugins.",
         "key_features": [
             "Open-source virtual pet simulator",
             "Integrates with WPF applications",
             "Supports modding via Steam Workshop and a dedicated mod maker",
-            "Provides extensive animation and interaction features",
-            "Offers a core library (VPet-Simulator.Core) for easy integration into other WPF projects",
-            "Includes tools for creating custom animations and assets"
+            "Features numerous animations and interactions",
+            "Provides tools for creating custom pet animations and interactions",
+            "Offers code plugins for advanced functionality extensions"
         ],
-        "primary_use_case": "To provide a virtual pet simulator that can be integrated into other WPF applications or used as a standalone application.",
-        "open_issues": 24
+        "primary_use_case": "To provide a virtual pet simulator that can be integrated into WPF applications or used as a standalone application.",
+        "open_issues": 22
     },
     {
         "id": 146327667,
@@ -152,10 +293,10 @@
         "description": "A high-performance observability data pipeline.",
         "url": "https://github.com/vectordotdev/vector",
         "language": "Rust",
-        "stars": 18810,
+        "stars": 18816,
         "forks": 1667,
         "created_at": "2018-08-27T16:57:34Z",
-        "updated_at": "2025-02-21T07:22:01Z",
+        "updated_at": "2025-02-21T14:45:30Z",
         "topics": [
             "events",
             "forwarder",
@@ -176,17 +317,17 @@
             "https://repository-images.githubusercontent.com/146327667/79b84380-28db-11eb-9bb0-13be8f3541cc"
         ],
         "homepage": "https://vector.dev",
-        "readme_summary": "Vector is a high-performance data pipeline written in Rust that collects, transforms, and routes logs and metrics.  It's designed for reliability and supports various sources and destinations, enabling users to manage their observability data efficiently and reduce costs.  Vector handles logs and metrics, with trace support planned.",
+        "readme_summary": "Vector is a high-performance data pipeline written in Rust that collects, transforms, and routes logs and metrics.  It supports various sources and destinations, enabling users to manage observability data efficiently and reduce costs.  Vector is designed for reliability and offers both agent and aggregator deployment options.",
         "key_features": [
             "High-performance observability data pipeline",
-            "End-to-end data processing (agent & aggregator)",
             "Collects, transforms, and routes logs and metrics",
             "Supports various data sources and destinations",
             "Built in Rust for reliability",
+            "End-to-end agent and aggregator deployment",
             "Unified handling of logs, metrics, and traces"
         ],
-        "primary_use_case": "Collecting, transforming, and routing observability data (logs and metrics) to various destinations.",
-        "open_issues": 1828
+        "primary_use_case": "Collecting, transforming, and routing observability data (logs and metrics) to various vendors.",
+        "open_issues": 1829
     },
     {
         "id": 335164964,
@@ -194,10 +335,10 @@
         "description": "🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。",
         "url": "https://github.com/dataease/dataease",
         "language": "Java",
-        "stars": 19382,
-        "forks": 3467,
+        "stars": 19385,
+        "forks": 3468,
         "created_at": "2021-02-02T04:10:21Z",
-        "updated_at": "2025-02-21T07:19:50Z",
+        "updated_at": "2025-02-21T14:58:49Z",
         "topics": [
             "apache-doris",
             "business-intelligence",
@@ -210,12 +351,12 @@
         ],
         "quality_score": 0.85,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-21T05:43:12Z",
+        "last_commit_date": "2025-02-21T10:43:52Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/7d291bb3ed45bcc82423e5084c2c25c2d705eb15113a88b1478d3a4a5252cc04/dataease/dataease"
+            "https://opengraph.githubassets.com/9202c1ff4c6b3479a324a880be6bb0798efc14b0ea737b729e7dd36d59e7e1c5/dataease/dataease"
         ],
         "homepage": "https://dataease.io/",
-        "readme_summary": "DataEase is an open-source BI tool enabling users to analyze data and gain insights.  It supports numerous data sources and offers a user-friendly drag-and-drop interface for creating charts, along with secure data sharing features.  DataEase is available for both desktop and server deployments.",
+        "readme_summary": "DataEase is an open-source BI tool that allows users to analyze data and gain insights into business trends.  It supports a wide range of data sources and offers a user-friendly drag-and-drop interface for creating charts and sharing data.  DataEase is available as both desktop and server versions, providing flexibility for various deployment scenarios.",
         "key_features": [
             "Open-source BI tool",
             "Supports various data sources (OLTP, OLAP databases, data warehouses, data lakes, data files, APIs)",
@@ -225,134 +366,6 @@
             "Supports multiple platforms and embedding options"
         ],
         "primary_use_case": "Data analysis and business intelligence",
-        "open_issues": 399
-    },
-    {
-        "id": 156939672,
-        "name": "onnxruntime",
-        "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-        "url": "https://github.com/microsoft/onnxruntime",
-        "language": "C++",
-        "stars": 15682,
-        "forks": 3052,
-        "created_at": "2018-11-10T02:22:53Z",
-        "updated_at": "2025-02-21T07:24:23Z",
-        "topics": [
-            "ai-framework",
-            "deep-learning",
-            "hardware-acceleration",
-            "machine-learning",
-            "neural-networks",
-            "onnx",
-            "pytorch",
-            "scikit-learn",
-            "tensorflow"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-21T04:04:59Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/156939672/37b1cb00-864b-11eb-8220-76153935f7da"
-        ],
-        "homepage": "https://onnxruntime.ai",
-        "readme_summary": "ONNX Runtime accelerates machine learning model inference and training.  It supports multiple frameworks and hardware, optimizing performance through hardware acceleration and graph optimizations.  Key features include cross-platform compatibility and support for various model types.",
-        "key_features": [
-            "Cross-platform inference and training accelerator",
-            "Supports models from PyTorch, TensorFlow/Keras, scikit-learn, LightGBM, XGBoost",
-            "Compatible with various hardware, drivers, and operating systems",
-            "Leverages hardware accelerators for optimal performance",
-            "Accelerates model training time on multi-node NVIDIA GPUs for transformer models"
-        ],
-        "primary_use_case": "Machine learning model inference and training acceleration",
-        "open_issues": 2536
-    },
-    {
-        "id": 3678731,
-        "name": "webpack",
-        "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
-        "url": "https://github.com/webpack/webpack",
-        "language": "JavaScript",
-        "stars": 65045,
-        "forks": 8948,
-        "created_at": "2012-03-10T10:08:14Z",
-        "updated_at": "2025-02-20T22:06:49Z",
-        "topics": [
-            "amd",
-            "build-tool",
-            "commonjs",
-            "compiler",
-            "es2015",
-            "es6",
-            "esm",
-            "javascript",
-            "javascript-compiler",
-            "javascript-modules",
-            "loaders",
-            "module-bundler",
-            "plugins",
-            "web",
-            "web-performance",
-            "webpack"
-        ],
-        "quality_score": 1.1,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-19T23:32:22Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/b5587590917288a873faa0fbbd1858c1bbdbad928271c2cc99e078f52c0f803d/webpack/webpack"
-        ],
-        "homepage": "https://webpack.js.org",
-        "readme_summary": "Webpack is a module bundler primarily used for bundling JavaScript files for browsers.  It supports various module types and offers features like asynchronous chunk loading, dependency resolution, and file preprocessing via loaders.  A highly modular plugin system allows for extensive customization.",
-        "key_features": [
-            "Bundles ES Modules, CommonJS, and AMD modules",
-            "Creates single or multiple asynchronously loaded chunks",
-            "Resolves dependencies during compilation",
-            "Uses loaders to preprocess files (e.g., TypeScript to JavaScript, images to Base64)",
-            "Highly modular plugin system"
-        ],
-        "primary_use_case": "Bundling JavaScript files for browser usage and transforming, bundling, or packaging any resource or asset",
-        "open_issues": 135
-    },
-    {
-        "id": 584272649,
-        "name": "next-forge",
-        "description": "Production-grade Turborepo template for Next.js apps.",
-        "url": "https://github.com/haydenbleasel/next-forge",
-        "language": "TypeScript",
-        "stars": 5427,
-        "forks": 432,
-        "created_at": "2023-01-02T04:19:54Z",
-        "updated_at": "2025-02-21T04:20:41Z",
-        "topics": [
-            "betterstack",
-            "boilerplate",
-            "clerk",
-            "dark-mode",
-            "feature-flags",
-            "neon",
-            "nextjs",
-            "posthog",
-            "prisma",
-            "react",
-            "sentry",
-            "seo",
-            "stripe",
-            "tailwindcss",
-            "typescript"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-17T16:33:49Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/584272649/d35ce933-0c9b-48b2-b389-d5b1485225ca"
-        ],
-        "homepage": "https://www.next-forge.com/",
-        "readme_summary": "next-forge is a Next.js boilerplate designed for building modern web applications.  It offers a comprehensive starting point with minimal configuration, utilizing Turborepo for enhanced build performance.  The template provides a solid foundation to jumpstart new projects.",
-        "key_features": [
-            "Production-grade Turborepo template",
-            "Next.js project boilerplate",
-            "Minimal configuration"
-        ],
-        "primary_use_case": "Creating modern web applications with Next.js",
-        "open_issues": 36
+        "open_issues": 402
     }
 ]
