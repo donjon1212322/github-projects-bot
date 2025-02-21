@@ -1,7 +1,0 @@
-{
-    "project_id": 908068887,
-    "content": "💡 <b>google_photos_mobile_client</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nUploading files to Google Photos without using a physical Android device or emulator\n<br>\n✨ <b>Key Features:</b>\n• Uploads files to Google Photos as if from a Pixel XL device\n• Provides both Python client and CLI interfaces\n• Supports various options like progress display, recursive directory upload, multi-threading, and more\n• Allows specifying album for uploaded media\n• Handles authentication using `auth_data` or environment variable `GP_AUTH_DATA`\n<br>\n📖 <b>Summary:</b>\nThis repository provides a command-line interface and Python client for uploading files to Google Photos using reverse-engineered mobile API.  It bypasses the need for an Android device by using authentication data obtained from a rooted device or emulator.  The tool offers features like progress tracking, recursive uploads, and options to manage albums and storage quota.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/xob0t/google_photos_mobile_client?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/a9b904fb09ebfc533c2c3ff5fbabd687d8ba1321f9130b2564ca2e4d401e4f44/xob0t/google_photos_mobile_client",
-    "platform": "telegram",
-    "quality_score": 0.65
-}
