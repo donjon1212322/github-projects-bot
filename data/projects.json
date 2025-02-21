@@ -5,10 +5,10 @@
         "description": "Wireshark for Docker containers",
         "url": "https://github.com/subtrace/subtrace",
         "language": "Go",
-        "stars": 1475,
-        "forks": 27,
+        "stars": 1503,
+        "forks": 28,
         "created_at": "2024-05-14T17:44:49Z",
-        "updated_at": "2025-02-21T15:13:26Z",
+        "updated_at": "2025-02-21T19:02:18Z",
         "topics": [
             "backend",
             "devtools",
@@ -19,7 +19,7 @@
         "contributors_count": 0,
         "last_commit_date": "2025-02-20T03:22:59Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/7d155d1abb81d514e59f9eb5237b674841baac5b6652ef0e2b8da2730fd43a85/subtrace/subtrace"
+            "https://opengraph.githubassets.com/e984b68ac82f42290a7dc889ba75246a202742be8de941b5d4ed4e39777e18bf/subtrace/subtrace"
         ],
         "homepage": "https://subtrace.dev",
         "readme_summary": "Subtrace is a tool to debug Docker containers by viewing network requests.  It supports all major programming languages and requires no code changes.  It provides detailed request information with minimal performance overhead.",
@@ -31,7 +31,7 @@
             "Less than 100µs performance overhead",
             "Built on Clickhouse"
         ],
-        "primary_use_case": "View incoming and outgoing requests in Docker containers to resolve production issues faster",
+        "primary_use_case": "View all incoming and outgoing requests in Docker containers to resolve backend server production issues faster",
         "open_issues": 10
     },
     {
@@ -60,17 +60,66 @@
             "https://opengraph.githubassets.com/6d37f3f32ef67e90e1ef675ff48715320de5e7f918e728bce4b0e445104e4eb3/xob0t/google_photos_mobile_client"
         ],
         "homepage": "",
-        "readme_summary": "This repository provides a command-line interface and Python client for uploading files to Google Photos using reverse-engineered API.  It bypasses the need for a physical device or emulator, offering features like progress tracking, recursive uploads, and options for managing storage quota and post-upload file deletion. Authentication is handled using an androidId and app parameters obtained from a rooted Android device or emulator.",
+        "readme_summary": "This repository provides a command-line interface and Python client for uploading files to Google Photos, mimicking a Pixel XL device.  It offers features such as progress tracking, recursive directory uploads, and options for managing storage quota and deleting source files after upload.  The tool requires obtaining authentication data from a rooted Android device or emulator.",
         "key_features": [
             "Uploads files to Google Photos as if from a Pixel XL device",
             "Provides both Python client and CLI interfaces",
-            "Supports various options like progress display, recursive directory uploads, and multi-threading",
+            "Supports various options like progress display, recursive directory upload, multi-threading, and more",
             "Allows specifying album for uploaded media",
-            "Offers options for handling storage quota and file deletion after upload",
-            "Handles authentication using androidId and app parameters"
+            "Offers options for handling storage quota and file deletion after upload"
         ],
         "primary_use_case": "Uploading files to Google Photos without using a physical device or emulator",
         "open_issues": 2
+    },
+    {
+        "id": 914092741,
+        "name": "ClatScope",
+        "description": "ClatScope Info Tool – The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (60 features). Perfect for investigators, pentesters, or anyone looking for an effective reconnaissance / OSINT tool. CLI version is always released before the GUI version.",
+        "url": "https://github.com/Clats97/ClatScope",
+        "language": "Python",
+        "stars": 449,
+        "forks": 56,
+        "created_at": "2025-01-08T23:54:32Z",
+        "updated_at": "2025-02-21T18:55:50Z",
+        "topics": [
+            "intelligence",
+            "investigation",
+            "osint",
+            "osint-python",
+            "osint-reconnaissance",
+            "osint-resources",
+            "osint-tool",
+            "trending",
+            "trending-repositories"
+        ],
+        "quality_score": 0.8,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-16T10:15:45Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/a98af2311eca76d15af11d303ce54aaad9334a788d6d3e7bc40002b880541e42/Clats97/ClatScope"
+        ],
+        "homepage": "",
+        "readme_summary": "ClatScope Info Tool is a versatile OSINT utility for gathering information from various online sources.  It offers features such as IP geolocation, deep account searches, phone number analysis, email verification, and more, making it suitable for investigators and security professionals.  The tool leverages multiple APIs and public resources to provide comprehensive results.",
+        "key_features": [
+            "IP geolocation, ISP, and Google Maps link extraction",
+            "Deep account search across 250+ websites",
+            "Phone number validation, carrier identification, and region determination",
+            "DNS record retrieval (A, CNAME, MX, NS) and PTR records",
+            "Email MX record checks, format validation, and header parsing",
+            "Email breach check using Have I Been Pwned",
+            "Email header analysis and data extraction",
+            "Public person details lookup",
+            "WHOIS lookup for domain registration details",
+            "Password strength check",
+            "Username search across various websites",
+            "Reverse phone search using Google",
+            "Robots.txt and Sitemap.xml file retrieval",
+            "SSL certificate information retrieval",
+            "DNSBL search for blacklist information",
+            "Website metadata retrieval"
+        ],
+        "primary_use_case": "OSINT (Open-Source Intelligence) investigations and reconnaissance",
+        "open_issues": 0
     },
     {
         "id": 249331466,
@@ -78,10 +127,10 @@
         "description": "Laplace is an open-source project to enable screen sharing directly via browser. Based on WebRTC for low latency peer-to-peer connections, and WebSocket implemented in golang for signaling.",
         "url": "https://github.com/adamyordan/laplace",
         "language": "JavaScript",
-        "stars": 303,
+        "stars": 309,
         "forks": 31,
         "created_at": "2020-03-23T03:58:55Z",
-        "updated_at": "2025-02-21T15:11:06Z",
+        "updated_at": "2025-02-21T19:01:37Z",
         "topics": [
             "peer-to-peer",
             "screencast",
@@ -94,10 +143,10 @@
         "contributors_count": 0,
         "last_commit_date": "2020-03-28T07:57:27Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/ce26d5c7332a7303970994d5c2b677a86c6abfaaca2cc8e2cc94812c3ee74046/adamyordan/laplace"
+            "https://opengraph.githubassets.com/aca4e75c8b55048725c260334a7368453c380fdc447ca8f7d234f8c2a0c983a8/adamyordan/laplace"
         ],
         "homepage": "https://laplace.adamjordan.id/",
-        "readme_summary": "Laplace enables screen sharing via browser using WebRTC for low-latency peer-to-peer connections and a Golang-based WebSocket for signaling.  It offers a simple, installation-free solution for screen sharing with low server costs, suitable for various use cases such as game streaming and remote collaboration.",
+        "readme_summary": "Laplace enables screen sharing via browser using WebRTC for low-latency peer-to-peer connections and a Go-based WebSocket for signaling.  It avoids the need for installations or registrations, minimizing server costs by performing encoding and transmission on the client side.  This is useful for game streaming, collaborative work, and presentations.",
         "key_features": [
             "WebRTC for low latency peer-to-peer connections",
             "WebSocket implemented in golang for WebRTC signaling",
@@ -146,14 +195,14 @@
             "https://opengraph.githubassets.com/d2f6dde957786f1317781fb6f6d3a21aa98eba5b3d13d18d480ea5f191b8b9e2/omeryusufyagci/fast-music-remover"
         ],
         "homepage": "",
-        "readme_summary": "Fast Music Remover is a media processor that filters background music and noise to enhance audio quality.  It offers a web UI and is available as a container on GHCR, supporting cross-platform use. Future development includes real-time processing and additional ML models.",
+        "readme_summary": "Fast Music Remover is a media processor that filters background music and noise to enhance audio quality.  It offers cross-platform support and a web UI, with future plans for real-time processing and additional ML models.  The project is containerized for easy deployment.",
         "key_features": [
             "background music filtering",
             "noise removal",
             "audio quality enhancement",
             "cross-platform support (Linux, macOS, Windows)",
             "containerized on GHCR",
-            "Web UI",
+            "web UI",
             "project launcher to manage dependency installation, project configuration, and starting the web application",
             "future support for more ML models and DSP modules",
             "future support for real-time processing"
@@ -167,10 +216,10 @@
         "description": "Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.",
         "url": "https://github.com/apache/shardingsphere",
         "language": "Java",
-        "stars": 20066,
+        "stars": 20068,
         "forks": 6792,
         "created_at": "2016-01-18T12:49:26Z",
-        "updated_at": "2025-02-21T15:11:11Z",
+        "updated_at": "2025-02-21T17:18:11Z",
         "topics": [
             "bigdata",
             "data-encryption",
@@ -191,12 +240,12 @@
         ],
         "quality_score": 1.1,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-21T15:11:05Z",
+        "last_commit_date": "2025-02-21T17:18:04Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/ad2d3e83c4b99a362156675d394030af08fa5d028e34d9e2fcc5b837f99ab9e7/apache/shardingsphere"
+            "https://opengraph.githubassets.com/78e7b2c80f42400cb4a97a7b06c2776004f83d9e18646ea3d6429a728c0caa90/apache/shardingsphere"
         ],
         "homepage": "",
-        "readme_summary": "ShardingSphere is a distributed SQL transaction and query engine.  It's designed for data sharding, scaling, and encryption across various databases.  This allows for improved performance and security in database management.",
+        "readme_summary": "ShardingSphere is a distributed database middleware that provides features for data sharding, scaling, and encryption.  It acts as a query engine, handling distributed SQL transactions across various databases.  This allows for improved performance and manageability of large datasets.",
         "key_features": [
             "Distributed SQL transaction",
             "query engine for data sharding",
@@ -212,10 +261,10 @@
         "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
         "url": "https://github.com/PrefectHQ/prefect",
         "language": "Python",
-        "stars": 18340,
+        "stars": 18341,
         "forks": 1710,
         "created_at": "2018-06-29T21:59:26Z",
-        "updated_at": "2025-02-21T15:04:42Z",
+        "updated_at": "2025-02-21T18:36:47Z",
         "topics": [
             "automation",
             "data",
@@ -234,9 +283,9 @@
         ],
         "quality_score": 1.05,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-20T22:39:48Z",
+        "last_commit_date": "2025-02-21T18:36:38Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/38de807adfe98381b0087a33f30edb1c970041a86974a07cc246dda449466126/PrefectHQ/prefect"
+            "https://opengraph.githubassets.com/7e550298185c6ee66d8b907a0e91d68fc3ea8df13e3517c34f8dac5f20320cf6/PrefectHQ/prefect"
         ],
         "homepage": "https://prefect.io",
         "readme_summary": "Prefect is a Python framework for building data pipelines.  It offers features like scheduling, caching, and retries to create resilient workflows.  These workflows can be monitored via a self-hosted server or Prefect Cloud.",
@@ -252,7 +301,7 @@
             "Prefect Cloud integration"
         ],
         "primary_use_case": "building and managing data pipelines in Python",
-        "open_issues": 956
+        "open_issues": 957
     },
     {
         "id": 577623124,
@@ -260,10 +309,10 @@
         "description": "虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序",
         "url": "https://github.com/LorisYounger/VPet",
         "language": "C#",
-        "stars": 5093,
+        "stars": 5092,
         "forks": 508,
         "created_at": "2022-12-13T06:37:41Z",
-        "updated_at": "2025-02-21T12:56:29Z",
+        "updated_at": "2025-02-21T15:25:36Z",
         "topics": [
             "desktop-pet",
             "wpf"
@@ -272,19 +321,19 @@
         "contributors_count": 0,
         "last_commit_date": "2025-02-21T09:56:32Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/5be308fee9ac5c84cc38e26bd6d90e080d8528389102db907941b6e3a7be45ab/LorisYounger/VPet"
+            "https://opengraph.githubassets.com/687fda15083eea9c5910a247dd7a35f548f4936a0f4fa710924be80989359b60/LorisYounger/VPet"
         ],
         "homepage": "",
-        "readme_summary": "VPet-Simulator is an open-source virtual pet simulator that can be integrated into WPF applications.  It features extensive animation and interaction capabilities, and supports modding through Steam Workshop and a dedicated mod maker for creating custom content and extending functionality.  Users can create custom pets, animations, and even add new features via code plugins.",
+        "readme_summary": "VPet-Simulator is an open-source virtual pet software that can be integrated into WPF applications.  It offers a wide variety of interactions and animations, and supports modding through a dedicated tool and Steam Workshop.  Users can create and share custom pets, animations, and functionalities.",
         "key_features": [
-            "Open-source virtual pet simulator",
-            "Integrates with WPF applications",
-            "Supports modding via Steam Workshop and a dedicated mod maker",
-            "Features numerous animations and interactions",
-            "Provides tools for creating custom pet animations and interactions",
-            "Offers code plugins for advanced functionality extensions"
+            "Open-source virtual pet simulator software",
+            "Integratable into any WPF application via NuGet",
+            "Supports various interactions and animations (32 types * 4 states * 3 categories)",
+            "Features a modding system with support for custom animations, items, and functionalities via code plugins",
+            "Includes a dedicated MOD maker tool",
+            "Supports Steam Workshop for sharing custom content"
         ],
-        "primary_use_case": "To provide a virtual pet simulator that can be integrated into WPF applications or used as a standalone application.",
+        "primary_use_case": "To provide a virtual pet simulator that can be integrated into other WPF applications or used as a standalone desktop application.",
         "open_issues": 22
     },
     {
@@ -293,10 +342,10 @@
         "description": "A high-performance observability data pipeline.",
         "url": "https://github.com/vectordotdev/vector",
         "language": "Rust",
-        "stars": 18816,
-        "forks": 1667,
+        "stars": 18818,
+        "forks": 1668,
         "created_at": "2018-08-27T16:57:34Z",
-        "updated_at": "2025-02-21T14:45:30Z",
+        "updated_at": "2025-02-21T18:18:59Z",
         "topics": [
             "events",
             "forwarder",
@@ -312,60 +361,21 @@
         ],
         "quality_score": 1.05,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-20T22:20:59Z",
+        "last_commit_date": "2025-02-21T17:17:46Z",
         "media_urls": [
             "https://repository-images.githubusercontent.com/146327667/79b84380-28db-11eb-9bb0-13be8f3541cc"
         ],
         "homepage": "https://vector.dev",
-        "readme_summary": "Vector is a high-performance data pipeline written in Rust that collects, transforms, and routes logs and metrics.  It supports various sources and destinations, enabling users to manage observability data efficiently and reduce costs.  Vector is designed for reliability and offers both agent and aggregator deployment options.",
+        "readme_summary": "Vector is a high-performance data pipeline written in Rust, designed for reliable collection, transformation, and routing of logs and metrics.  It supports various data sources and destinations, enabling users to manage and reduce observability costs while improving data quality and insights.  Vector functions as both an agent and aggregator, offering flexibility in deployment.",
         "key_features": [
-            "High-performance observability data pipeline",
+            "High-performance, end-to-end observability data pipeline",
             "Collects, transforms, and routes logs and metrics",
-            "Supports various data sources and destinations",
             "Built in Rust for reliability",
-            "End-to-end agent and aggregator deployment",
-            "Unified handling of logs, metrics, and traces"
+            "Unified handling of logs, metrics, and traces",
+            "Agent and aggregator deployment modes",
+            "Supports various sources and sinks"
         ],
         "primary_use_case": "Collecting, transforming, and routing observability data (logs and metrics) to various vendors.",
         "open_issues": 1829
-    },
-    {
-        "id": 335164964,
-        "name": "dataease",
-        "description": "🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。",
-        "url": "https://github.com/dataease/dataease",
-        "language": "Java",
-        "stars": 19385,
-        "forks": 3468,
-        "created_at": "2021-02-02T04:10:21Z",
-        "updated_at": "2025-02-21T14:58:49Z",
-        "topics": [
-            "apache-doris",
-            "business-intelligence",
-            "data-analysis",
-            "data-visualization",
-            "echarts",
-            "kettle",
-            "superset",
-            "tableau"
-        ],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-21T10:43:52Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/9202c1ff4c6b3479a324a880be6bb0798efc14b0ea737b729e7dd36d59e7e1c5/dataease/dataease"
-        ],
-        "homepage": "https://dataease.io/",
-        "readme_summary": "DataEase is an open-source BI tool that allows users to analyze data and gain insights into business trends.  It supports a wide range of data sources and offers a user-friendly drag-and-drop interface for creating charts and sharing data.  DataEase is available as both desktop and server versions, providing flexibility for various deployment scenarios.",
-        "key_features": [
-            "Open-source BI tool",
-            "Supports various data sources (OLTP, OLAP databases, data warehouses, data lakes, data files, APIs)",
-            "Drag-and-drop interface for chart creation",
-            "Data sharing capabilities",
-            "Available as desktop and server versions",
-            "Supports multiple platforms and embedding options"
-        ],
-        "primary_use_case": "Data analysis and business intelligence",
-        "open_issues": 402
     }
 ]
