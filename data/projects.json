@@ -5,10 +5,10 @@
         "description": "Wireshark for Docker containers",
         "url": "https://github.com/subtrace/subtrace",
         "language": "Go",
-        "stars": 1475,
+        "stars": 1477,
         "forks": 27,
         "created_at": "2024-05-14T17:44:49Z",
-        "updated_at": "2025-02-21T15:13:26Z",
+        "updated_at": "2025-02-21T15:37:28Z",
         "topics": [
             "backend",
             "devtools",
@@ -19,10 +19,10 @@
         "contributors_count": 0,
         "last_commit_date": "2025-02-20T03:22:59Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/7d155d1abb81d514e59f9eb5237b674841baac5b6652ef0e2b8da2730fd43a85/subtrace/subtrace"
+            "https://opengraph.githubassets.com/9d999d33320461f5c1da2de5798bb63b09fdc16ffbc1dce34ff309c5f18a5260/subtrace/subtrace"
         ],
         "homepage": "https://subtrace.dev",
-        "readme_summary": "Subtrace is a tool to debug Docker containers by viewing network requests.  It supports all major programming languages and requires no code changes.  It provides detailed request information with minimal performance overhead.",
+        "readme_summary": "Subtrace is a tool to debug docker containers, providing insights into network requests without code changes.  It supports multiple languages and offers low performance overhead, leveraging Clickhouse for data management.  This allows developers to quickly identify and resolve issues in their backend servers.",
         "key_features": [
             "Works out-of-the-box",
             "No code changes needed",
@@ -31,7 +31,7 @@
             "Less than 100µs performance overhead",
             "Built on Clickhouse"
         ],
-        "primary_use_case": "View incoming and outgoing requests in Docker containers to resolve production issues faster",
+        "primary_use_case": "See all incoming and outgoing requests in backend servers to resolve production issues faster",
         "open_issues": 10
     },
     {
@@ -60,14 +60,13 @@
             "https://opengraph.githubassets.com/6d37f3f32ef67e90e1ef675ff48715320de5e7f918e728bce4b0e445104e4eb3/xob0t/google_photos_mobile_client"
         ],
         "homepage": "",
-        "readme_summary": "This repository provides a command-line interface and Python client for uploading files to Google Photos using reverse-engineered API.  It bypasses the need for a physical device or emulator, offering features like progress tracking, recursive uploads, and options for managing storage quota and post-upload file deletion. Authentication is handled using an androidId and app parameters obtained from a rooted Android device or emulator.",
+        "readme_summary": "This repository provides a command-line interface and Python client for uploading files to Google Photos, mimicking the behavior of a Pixel XL device.  It offers features such as progress tracking, recursive directory uploads, and options for managing storage quota and file deletion. The tool requires authentication data, which can be obtained using HTTP Toolkit to intercept requests from the Google Photos app.",
         "key_features": [
             "Uploads files to Google Photos as if from a Pixel XL device",
             "Provides both Python client and CLI interfaces",
-            "Supports various options like progress display, recursive directory uploads, and multi-threading",
-            "Allows specifying album for uploaded media",
-            "Offers options for handling storage quota and file deletion after upload",
-            "Handles authentication using androidId and app parameters"
+            "Supports various options like progress display, recursive directory uploads, and album creation",
+            "Allows specifying authentication data or using an environment variable",
+            "Handles upload progress and offers options for managing storage quota and file deletion"
         ],
         "primary_use_case": "Uploading files to Google Photos without using a physical device or emulator",
         "open_issues": 2
@@ -78,10 +77,10 @@
         "description": "Laplace is an open-source project to enable screen sharing directly via browser. Based on WebRTC for low latency peer-to-peer connections, and WebSocket implemented in golang for signaling.",
         "url": "https://github.com/adamyordan/laplace",
         "language": "JavaScript",
-        "stars": 303,
+        "stars": 304,
         "forks": 31,
         "created_at": "2020-03-23T03:58:55Z",
-        "updated_at": "2025-02-21T15:11:06Z",
+        "updated_at": "2025-02-21T15:29:05Z",
         "topics": [
             "peer-to-peer",
             "screencast",
@@ -94,10 +93,10 @@
         "contributors_count": 0,
         "last_commit_date": "2020-03-28T07:57:27Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/ce26d5c7332a7303970994d5c2b677a86c6abfaaca2cc8e2cc94812c3ee74046/adamyordan/laplace"
+            "https://opengraph.githubassets.com/d19eb95f75e2935060e9415e57d31bd69a756933f3a7a422c2d5c12874cab017/adamyordan/laplace"
         ],
         "homepage": "https://laplace.adamjordan.id/",
-        "readme_summary": "Laplace enables screen sharing via browser using WebRTC for low-latency peer-to-peer connections and a Golang-based WebSocket for signaling.  It offers a simple, installation-free solution for screen sharing with low server costs, suitable for various use cases such as game streaming and remote collaboration.",
+        "readme_summary": "Laplace enables screen sharing via browser using WebRTC for low-latency peer-to-peer connections and a Golang-based WebSocket for signaling.  It offers a simple, installation-free solution for screen sharing with low server costs, ideal for various use cases including game streaming and remote collaboration.",
         "key_features": [
             "WebRTC for low latency peer-to-peer connections",
             "WebSocket implemented in golang for WebRTC signaling",
@@ -153,7 +152,7 @@
             "audio quality enhancement",
             "cross-platform support (Linux, macOS, Windows)",
             "containerized on GHCR",
-            "Web UI",
+            "web UI",
             "project launcher to manage dependency installation, project configuration, and starting the web application",
             "future support for more ML models and DSP modules",
             "future support for real-time processing"
@@ -167,10 +166,10 @@
         "description": "Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.",
         "url": "https://github.com/apache/shardingsphere",
         "language": "Java",
-        "stars": 20066,
+        "stars": 20067,
         "forks": 6792,
         "created_at": "2016-01-18T12:49:26Z",
-        "updated_at": "2025-02-21T15:11:11Z",
+        "updated_at": "2025-02-21T15:42:28Z",
         "topics": [
             "bigdata",
             "data-encryption",
@@ -193,10 +192,10 @@
         "contributors_count": 0,
         "last_commit_date": "2025-02-21T15:11:05Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/ad2d3e83c4b99a362156675d394030af08fa5d028e34d9e2fcc5b837f99ab9e7/apache/shardingsphere"
+            "https://opengraph.githubassets.com/6d04dc0777cf276f0548ae361f240422189deab822f87f2b87719c7cdf033f93/apache/shardingsphere"
         ],
         "homepage": "",
-        "readme_summary": "ShardingSphere is a distributed SQL transaction and query engine.  It's designed for data sharding, scaling, and encryption across various databases.  This allows for improved performance and security in database management.",
+        "readme_summary": "ShardingSphere is a distributed database middleware that provides features for data sharding, scaling, and encryption.  It acts as a query engine, handling distributed SQL transactions across multiple databases.  This allows for improved performance and manageability of large-scale database systems.",
         "key_features": [
             "Distributed SQL transaction",
             "query engine for data sharding",
@@ -239,7 +238,7 @@
             "https://opengraph.githubassets.com/38de807adfe98381b0087a33f30edb1c970041a86974a07cc246dda449466126/PrefectHQ/prefect"
         ],
         "homepage": "https://prefect.io",
-        "readme_summary": "Prefect is a Python framework for building data pipelines.  It offers features like scheduling, caching, and retries to create resilient workflows.  These workflows can be monitored via a self-hosted server or Prefect Cloud.",
+        "readme_summary": "Prefect is a Python framework for building data pipelines.  It offers features like scheduling, caching, and retries to create resilient workflows, and integrates with a self-hosted server or Prefect Cloud for monitoring.  Data teams can automate data processes with minimal code.",
         "key_features": [
             "workflow orchestration",
             "data pipeline building",
@@ -252,7 +251,7 @@
             "Prefect Cloud integration"
         ],
         "primary_use_case": "building and managing data pipelines in Python",
-        "open_issues": 956
+        "open_issues": 958
     },
     {
         "id": 577623124,
@@ -260,10 +259,10 @@
         "description": "虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序",
         "url": "https://github.com/LorisYounger/VPet",
         "language": "C#",
-        "stars": 5093,
+        "stars": 5092,
         "forks": 508,
         "created_at": "2022-12-13T06:37:41Z",
-        "updated_at": "2025-02-21T12:56:29Z",
+        "updated_at": "2025-02-21T15:25:36Z",
         "topics": [
             "desktop-pet",
             "wpf"
@@ -272,19 +271,20 @@
         "contributors_count": 0,
         "last_commit_date": "2025-02-21T09:56:32Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/5be308fee9ac5c84cc38e26bd6d90e080d8528389102db907941b6e3a7be45ab/LorisYounger/VPet"
+            "https://opengraph.githubassets.com/687fda15083eea9c5910a247dd7a35f548f4936a0f4fa710924be80989359b60/LorisYounger/VPet"
         ],
         "homepage": "",
-        "readme_summary": "VPet-Simulator is an open-source virtual pet simulator that can be integrated into WPF applications.  It features extensive animation and interaction capabilities, and supports modding through Steam Workshop and a dedicated mod maker for creating custom content and extending functionality.  Users can create custom pets, animations, and even add new features via code plugins.",
+        "readme_summary": "VPet-Simulator is an open-source virtual pet software that integrates into WPF applications.  It offers extensive animation options, a mod maker for customization, and Steam Workshop support for sharing creations.  Users can create and share new pets, animations, and even add new features via code plugins.",
         "key_features": [
-            "Open-source virtual pet simulator",
-            "Integrates with WPF applications",
-            "Supports modding via Steam Workshop and a dedicated mod maker",
-            "Features numerous animations and interactions",
-            "Provides tools for creating custom pet animations and interactions",
-            "Offers code plugins for advanced functionality extensions"
+            "Open-source virtual pet simulator software",
+            "Integrates with WPF applications via NuGet",
+            "Supports interactions such as feeding and petting",
+            "Features a large number of animations (32 types * 4 states * 3 categories)",
+            "Includes a mod maker for creating custom pets and animations",
+            "Supports Steam Workshop for sharing user-created content",
+            "Allows for code plugins to extend functionality (e.g., adding new animation logic, features like alarms or notepads)"
         ],
-        "primary_use_case": "To provide a virtual pet simulator that can be integrated into WPF applications or used as a standalone application.",
+        "primary_use_case": "To provide a virtual pet simulator that can be integrated into other WPF applications or used as a standalone desktop application.",
         "open_issues": 22
     },
     {
@@ -294,7 +294,7 @@
         "url": "https://github.com/vectordotdev/vector",
         "language": "Rust",
         "stars": 18816,
-        "forks": 1667,
+        "forks": 1668,
         "created_at": "2018-08-27T16:57:34Z",
         "updated_at": "2025-02-21T14:45:30Z",
         "topics": [
@@ -317,16 +317,16 @@
             "https://repository-images.githubusercontent.com/146327667/79b84380-28db-11eb-9bb0-13be8f3541cc"
         ],
         "homepage": "https://vector.dev",
-        "readme_summary": "Vector is a high-performance data pipeline written in Rust that collects, transforms, and routes logs and metrics.  It supports various sources and destinations, enabling users to manage observability data efficiently and reduce costs.  Vector is designed for reliability and offers both agent and aggregator deployment options.",
+        "readme_summary": "Vector is a high-performance data pipeline written in Rust that collects, transforms, and routes logs and metrics.  It supports various sources and destinations, enabling users to manage and reduce observability costs, transition vendors, and improve data quality.  Vector functions as both an agent and aggregator for a complete observability platform.",
         "key_features": [
             "High-performance observability data pipeline",
+            "End-to-end data processing (agent & aggregator)",
             "Collects, transforms, and routes logs and metrics",
             "Supports various data sources and destinations",
             "Built in Rust for reliability",
-            "End-to-end agent and aggregator deployment",
             "Unified handling of logs, metrics, and traces"
         ],
-        "primary_use_case": "Collecting, transforming, and routing observability data (logs and metrics) to various vendors.",
+        "primary_use_case": "Collecting, transforming, and routing observability data (logs and metrics) to various destinations.",
         "open_issues": 1829
     },
     {
@@ -356,7 +356,7 @@
             "https://opengraph.githubassets.com/9202c1ff4c6b3479a324a880be6bb0798efc14b0ea737b729e7dd36d59e7e1c5/dataease/dataease"
         ],
         "homepage": "https://dataease.io/",
-        "readme_summary": "DataEase is an open-source BI tool that allows users to analyze data and gain insights into business trends.  It supports a wide range of data sources and offers a user-friendly drag-and-drop interface for creating charts and sharing data.  DataEase is available as both desktop and server versions, providing flexibility for various deployment scenarios.",
+        "readme_summary": "DataEase is an open-source BI tool that allows users to analyze data and gain insights into business trends.  It supports a wide range of data sources and offers a user-friendly drag-and-drop interface for creating charts and sharing data.  DataEase is available as both a desktop and server application, providing flexibility for various deployment scenarios.",
         "key_features": [
             "Open-source BI tool",
             "Supports various data sources (OLTP, OLAP databases, data warehouses, data lakes, data files, APIs)",
