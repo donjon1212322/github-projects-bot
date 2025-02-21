@@ -5,24 +5,24 @@
         "description": null,
         "url": "https://github.com/stepfun-ai/Step-Audio",
         "language": "Python",
-        "stars": 2512,
-        "forks": 185,
+        "stars": 2541,
+        "forks": 187,
         "created_at": "2025-02-11T05:35:12Z",
-        "updated_at": "2025-02-20T18:35:40Z",
+        "updated_at": "2025-02-21T00:57:53Z",
         "topics": [],
         "quality_score": 0.8500000000000001,
         "contributors_count": 0,
         "last_commit_date": "2025-02-20T07:29:35Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/5b14a9cded32fe32f14f1c5a6fa419bfef28f5e372d2df2f864211303ab14779/stepfun-ai/Step-Audio"
+            "https://opengraph.githubassets.com/1e0bc04b04423b85a3826302234f1e9bd878d320b5d93a0cdf1a0f3b6de94618/stepfun-ai/Step-Audio"
         ],
         "homepage": null,
-        "readme_summary": "Step-Audio is an open-source framework for intelligent speech interaction.  It features a 130B parameter multimodal model and a generative data engine for high-quality audio, enabling granular voice control and enhanced intelligence through tool integration.  The framework supports multilingual conversations with various emotional tones, dialects, and speech styles.",
+        "readme_summary": "Step-Audio is an open-source framework for intelligent speech interaction.  It features a 130B parameter multimodal model and a generative data engine for high-quality audio, enabling granular voice control and enhanced intelligence through tool integration and role-playing.  This framework supports various languages, tones, and styles for diverse speech generation needs.",
         "key_features": [
             "130B-Parameter Multimodal Model integrating speech recognition, semantic understanding, dialogue, voice cloning, and speech synthesis",
             "Generative Data Engine for high-quality audio generation",
             "Granular Voice Control enabling regulation of emotions, dialects, and vocal styles",
-            "Enhanced Intelligence through ToolCall mechanism and role-playing enhancements",
+            "ToolCall mechanism and role-playing enhancements for improved agent performance in complex tasks",
             "Dual-codebook framework for audio tokenization combining semantic and acoustic tokenizers"
         ],
         "primary_use_case": "Intelligent speech interaction supporting multilingual conversations, emotional tones, regional dialects, adjustable speech rates, and prosodic styles",
@@ -34,10 +34,10 @@
         "description": "Reliable Automation Agents at Scale",
         "url": "https://github.com/Aident-AI/open-cuak",
         "language": "TypeScript",
-        "stars": 177,
-        "forks": 11,
+        "stars": 202,
+        "forks": 12,
         "created_at": "2025-02-12T00:42:03Z",
-        "updated_at": "2025-02-20T18:39:24Z",
+        "updated_at": "2025-02-21T00:57:47Z",
         "topics": [
             "agent",
             "aiagents",
@@ -50,12 +50,12 @@
         ],
         "quality_score": 0.9500000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-20T16:45:02Z",
+        "last_commit_date": "2025-02-20T19:03:07Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/95a48364f67a36550d71498cf29c38ce57b1d20bf7e512f08e7433de5a569677/Aident-AI/open-cuak"
+            "https://opengraph.githubassets.com/852cba4465496ce3e5b64023757c7deecd526ecab466a6a8668f9ae87b6339eb/Aident-AI/open-cuak"
         ],
         "homepage": "https://aident.ai",
-        "readme_summary": "Open-CUAK is a platform for managing automation agents at scale, focusing on reliability.  It allows users to run automation workflows locally, utilize vision-based automation, and integrate with various vision-compatible models.  Key features include a dedicated remote browser for security and browser extension integration.",
+        "readme_summary": "Open-CUAK is a platform for managing automation agents at scale, focusing on reliability.  It allows users to run automation workflows locally, utilize vision-based automation, and integrate with various vision-compatible models.  Key features include a dedicated remote browser for security and a browser extension for enhanced functionality.",
         "key_features": [
             "Run Operator-like automation workflows locally, ensuring full privacy",
             "Use vision-based automation with more flexibility and reliability, just like a human",
@@ -67,15 +67,90 @@
         "open_issues": 6
     },
     {
+        "id": 577623124,
+        "name": "VPet",
+        "description": "虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序",
+        "url": "https://github.com/LorisYounger/VPet",
+        "language": "C#",
+        "stars": 5082,
+        "forks": 508,
+        "created_at": "2022-12-13T06:37:41Z",
+        "updated_at": "2025-02-21T00:47:25Z",
+        "topics": [
+            "desktop-pet",
+            "wpf"
+        ],
+        "quality_score": 0.8500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-17T12:15:09Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/83738b5b4171edb5a4ddae47630c881ff335a39dc377d51de5efdd8f7dc7a3fe/LorisYounger/VPet"
+        ],
+        "homepage": "",
+        "readme_summary": "VPet-Simulator is an open-source virtual pet software that integrates with WPF applications.  It features a wide array of animations and interactions, supports modding through Steam Workshop and a dedicated tool, and allows for extensive customization via code plugins.  Users can create and share custom pets and interactions.",
+        "key_features": [
+            "Open-source virtual pet simulator",
+            "Integrates with WPF applications",
+            "Supports modding via Steam Workshop and a dedicated mod maker",
+            "Offers extensive interaction and animation options (32 types * 4 states * 3 categories)",
+            "Provides tools for creating custom pet animations and interactions",
+            "Allows for code plugins to extend functionality (e.g., adding new animation logic, features like alarms or notepads)"
+        ],
+        "primary_use_case": "To provide a virtual pet simulator that can be integrated into WPF applications or used as a standalone application.",
+        "open_issues": 24
+    },
+    {
+        "id": 146327667,
+        "name": "vector",
+        "description": "A high-performance observability data pipeline.",
+        "url": "https://github.com/vectordotdev/vector",
+        "language": "Rust",
+        "stars": 18802,
+        "forks": 1667,
+        "created_at": "2018-08-27T16:57:34Z",
+        "updated_at": "2025-02-21T00:56:22Z",
+        "topics": [
+            "events",
+            "forwarder",
+            "logs",
+            "metrics",
+            "observability",
+            "parser",
+            "pipeline",
+            "router",
+            "rust",
+            "stream-processing",
+            "vector"
+        ],
+        "quality_score": 1.05,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-20T22:20:59Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/146327667/79b84380-28db-11eb-9bb0-13be8f3541cc"
+        ],
+        "homepage": "https://vector.dev",
+        "readme_summary": "Vector is a high-performance data pipeline written in Rust that collects, transforms, and routes logs and metrics.  It supports various sources and destinations, enabling users to manage and reduce observability costs, transition vendors, and improve data quality.  Vector functions as both an agent and aggregator for a complete observability platform.",
+        "key_features": [
+            "High-performance observability data pipeline",
+            "End-to-end data processing (agent & aggregator)",
+            "Collects, transforms, and routes logs and metrics",
+            "Supports various data sources and destinations",
+            "Built in Rust for reliability",
+            "Unified handling of logs, metrics, and traces"
+        ],
+        "primary_use_case": "Collecting, transforming, and routing observability data (logs and metrics) to various destinations.",
+        "open_issues": 1828
+    },
+    {
         "id": 335164964,
         "name": "dataease",
         "description": "🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。",
         "url": "https://github.com/dataease/dataease",
         "language": "Java",
-        "stars": 19369,
+        "stars": 19377,
         "forks": 3465,
         "created_at": "2021-02-02T04:10:21Z",
-        "updated_at": "2025-02-20T18:16:50Z",
+        "updated_at": "2025-02-21T00:43:12Z",
         "topics": [
             "apache-doris",
             "business-intelligence",
@@ -90,10 +165,10 @@
         "contributors_count": 0,
         "last_commit_date": "2025-02-20T12:19:25Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/7234437350be40d2b840e0e2f7d59f51c4eb62657021df0e6f7cc56336d5739c/dataease/dataease"
+            "https://opengraph.githubassets.com/0880d4815dce048530767a4e271359601996688529f97b2bbbd55e9705085ba6/dataease/dataease"
         ],
         "homepage": "https://dataease.io/",
-        "readme_summary": "DataEase is an open-source BI tool enabling users to analyze data and gain insights.  It supports diverse data sources and offers a user-friendly drag-and-drop interface for creating charts, facilitating data sharing.  DataEase is available as both desktop and server versions, adaptable to various platforms.",
+        "readme_summary": "DataEase is an open-source BI tool enabling users to analyze data and gain insights.  It supports diverse data sources and offers a user-friendly drag-and-drop interface for creating charts, facilitating data sharing.  DataEase is available for both desktop and server deployments.",
         "key_features": [
             "Open-source BI tool",
             "Supports various data sources (OLTP, OLAP databases, data warehouses, data lakes, data files, APIs)",
@@ -102,7 +177,7 @@
             "Available as desktop and server versions",
             "Supports multiple platforms and embedding options"
         ],
-        "primary_use_case": "Data analysis and business intelligence",
+        "primary_use_case": "Business intelligence and data analysis",
         "open_issues": 401
     },
     {
@@ -111,10 +186,10 @@
         "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
         "url": "https://github.com/microsoft/onnxruntime",
         "language": "C++",
-        "stars": 15670,
+        "stars": 15678,
         "forks": 3052,
         "created_at": "2018-11-10T02:22:53Z",
-        "updated_at": "2025-02-20T18:50:38Z",
+        "updated_at": "2025-02-21T00:21:18Z",
         "topics": [
             "ai-framework",
             "deep-learning",
@@ -128,12 +203,12 @@
         ],
         "quality_score": 0.9500000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-20T18:50:32Z",
+        "last_commit_date": "2025-02-21T00:21:13Z",
         "media_urls": [
             "https://repository-images.githubusercontent.com/156939672/37b1cb00-864b-11eb-8220-76153935f7da"
         ],
         "homepage": "https://onnxruntime.ai",
-        "readme_summary": "ONNX Runtime accelerates machine learning model inference and training.  It supports multiple frameworks and hardware, optimizing performance through hardware acceleration and graph optimizations.  It's designed for cross-platform compatibility and offers features for both inference and training workloads.",
+        "readme_summary": "ONNX Runtime accelerates machine learning model inference and training.  It supports multiple frameworks and hardware, optimizing performance through hardware acceleration and graph optimizations.  It's designed for cross-platform compatibility and ease of use.",
         "key_features": [
             "Cross-platform inference and training accelerator",
             "Supports models from PyTorch, TensorFlow/Keras, scikit-learn, LightGBM, XGBoost",
@@ -142,7 +217,7 @@
             "Accelerates model training time on multi-node NVIDIA GPUs for transformer models"
         ],
         "primary_use_case": "Machine learning model inference and training acceleration",
-        "open_issues": 2531
+        "open_issues": 2534
     },
     {
         "id": 3678731,
@@ -153,7 +228,7 @@
         "stars": 65045,
         "forks": 8947,
         "created_at": "2012-03-10T10:08:14Z",
-        "updated_at": "2025-02-20T15:45:23Z",
+        "updated_at": "2025-02-20T22:06:49Z",
         "topics": [
             "amd",
             "build-tool",
@@ -176,15 +251,15 @@
         "contributors_count": 0,
         "last_commit_date": "2025-02-19T23:32:22Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/179a2c6d1db0846f69d743e9b307e7e825ccc746d40d5e7e98791edc92623735/webpack/webpack"
+            "https://opengraph.githubassets.com/b5587590917288a873faa0fbbd1858c1bbdbad928271c2cc99e078f52c0f803d/webpack/webpack"
         ],
         "homepage": "https://webpack.js.org",
-        "readme_summary": "Webpack is a module bundler that primarily bundles JavaScript files for browsers.  It supports various module types (ES Modules, CommonJS, AMD), allows for asynchronous loading of chunks, and offers loaders for preprocessing assets.  Its modular plugin system enables extensive customization.",
+        "readme_summary": "Webpack is a module bundler primarily used for bundling JavaScript files for browsers.  It supports various module systems and can create optimized bundles, asynchronously loaded chunks, and preprocesses files using loaders.  Its modular plugin system allows for extensive customization.",
         "key_features": [
             "Bundles ES Modules, CommonJS, and AMD modules",
             "Creates single or multiple asynchronously loaded chunks",
             "Resolves dependencies during compilation",
-            "Uses loaders for preprocessing files (e.g., TypeScript to JavaScript, images to Base64)",
+            "Uses loaders to preprocess files (e.g., TypeScript to JavaScript, images to Base64)",
             "Highly modular plugin system"
         ],
         "primary_use_case": "Bundling JavaScript files for browser usage and transforming, bundling, or packaging any resource or asset",
@@ -196,10 +271,10 @@
         "description": "Production-grade Turborepo template for Next.js apps.",
         "url": "https://github.com/haydenbleasel/next-forge",
         "language": "TypeScript",
-        "stars": 5423,
+        "stars": 5426,
         "forks": 432,
         "created_at": "2023-01-02T04:19:54Z",
-        "updated_at": "2025-02-20T18:49:22Z",
+        "updated_at": "2025-02-21T00:54:12Z",
         "topics": [
             "betterstack",
             "boilerplate",
@@ -224,7 +299,7 @@
             "https://repository-images.githubusercontent.com/584272649/d35ce933-0c9b-48b2-b389-d5b1485225ca"
         ],
         "homepage": "https://www.next-forge.com/",
-        "readme_summary": "next-forge is a Next.js boilerplate designed for building modern web applications.  It offers a comprehensive starting point with minimal configuration, utilizing Turborepo for enhanced build performance.  The template provides a solid foundation to jumpstart new projects.",
+        "readme_summary": "next-forge is a Next.js boilerplate designed for building modern web applications.  It offers a solid foundation with minimal configuration, using Turborepo for enhanced build performance.  This template streamlines the initial setup of new Next.js projects.",
         "key_features": [
             "Production-grade Turborepo template",
             "Next.js project boilerplate",
@@ -239,10 +314,10 @@
         "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
         "url": "https://github.com/teableio/teable",
         "language": "TypeScript",
-        "stars": 16583,
+        "stars": 16587,
         "forks": 765,
         "created_at": "2022-11-01T07:02:49Z",
-        "updated_at": "2025-02-20T18:35:30Z",
+        "updated_at": "2025-02-21T00:45:11Z",
         "topics": [
             "airtable",
             "airtable-alternative",
@@ -265,7 +340,7 @@
             "https://repository-images.githubusercontent.com/560299175/c5166694-8a98-4e19-91f6-09c3d73cb46c"
         ],
         "homepage": "https://teable.io",
-        "readme_summary": "Teable offers a user-friendly spreadsheet interface to build powerful database applications.  It enables real-time collaboration among team members and scales efficiently to handle large datasets (millions of rows).  The platform provides an API and pre-built templates to streamline development and deployment.",
+        "readme_summary": "Teable offers a user-friendly spreadsheet interface to build powerful database applications.  It enables real-time collaboration among team members and scales efficiently to handle large datasets.  Users can leverage pre-built templates and access a comprehensive API.",
         "key_features": [
             "spreadsheet-like interface for database applications",
             "real-time team collaboration",
@@ -273,52 +348,7 @@
             "API access",
             "templates"
         ],
-        "primary_use_case": "Managing data and connecting teams through a collaborative, spreadsheet-like database interface.",
+        "primary_use_case": "Managing data and connecting teams through a collaborative, spreadsheet-like database application.",
         "open_issues": 80
-    },
-    {
-        "id": 179163124,
-        "name": "hummingbot",
-        "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-        "url": "https://github.com/hummingbot/hummingbot",
-        "language": "Python",
-        "stars": 11110,
-        "forks": 3196,
-        "created_at": "2019-04-02T21:41:52Z",
-        "updated_at": "2025-02-20T18:53:28Z",
-        "topics": [
-            "algotrading",
-            "arbitrage",
-            "backtesting",
-            "bitcoin",
-            "bot",
-            "crypto",
-            "cryptocurrency",
-            "cython",
-            "dex",
-            "docker",
-            "ethereum",
-            "hft",
-            "marketmaking",
-            "orderbook",
-            "python",
-            "trading"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-03T16:27:59Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/179163124/7fd92800-eb15-11ea-9c00-e48d8a17b594"
-        ],
-        "homepage": "https://hummingbot.org",
-        "readme_summary": "Hummingbot is an open-source framework enabling the creation and deployment of automated trading bots across multiple centralized and decentralized exchanges.  It offers standardized connectors for different market types (CLOB Spot, CLOB Perp, AMM) using REST and WebSocket APIs.  This allows users to build sophisticated trading strategies adaptable to various exchange platforms.",
-        "key_features": [
-            "Open-source framework for automated trading strategies",
-            "Connectors to centralized (CEX) and decentralized (DEX) exchanges",
-            "Support for various market types: CLOB Spot, CLOB Perp, AMM",
-            "REST and WebSocket API interfaces"
-        ],
-        "primary_use_case": "Design and deploy automated trading bots on various exchanges",
-        "open_issues": 291
     }
 ]
