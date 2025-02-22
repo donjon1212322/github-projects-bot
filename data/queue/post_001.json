@@ -1,7 +1,0 @@
-{
-    "project_id": 916662373,
-    "content": "🚀 <b>audiblez</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting ebooks to audiobooks\n<br>\n✨ <b>Key Features:</b>\n• Generates .m4b audiobooks from .epub ebooks using Kokoro's text-to-speech model\n• Supports multiple languages (🇺🇸 🇬🇧 🇪🇸 🇫🇷 🇮🇳 🇮🇹 🇯🇵 🇧🇷 🇨🇳)\n• Offers both command-line and GUI interfaces\n• Provides CUDA support for GPU acceleration\n• Allows adjusting audio speed (0.5x to 2.0x)\n<br>\n📖 <b>Summary:</b>\nAudiblez converts ebooks (.epub) into audiobooks (.m4b) using Kokoro's text-to-speech model.  It offers command-line and GUI interfaces, supports multiple languages and CUDA acceleration, and allows for speed adjustment.  The process involves generating individual chapter WAV files and then combining them into a final M4B file using ffmpeg.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/santinic/audiblez?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/0701332fab7d83b4bcbd691b750fbe9f2c2824d6b85da670eb65b472716107ce/santinic/audiblez",
-    "platform": "telegram",
-    "quality_score": 0.85
-}
