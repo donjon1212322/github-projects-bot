@@ -1,0 +1,7 @@
+{
+    "project_id": 128937968,
+    "content": "🚀 <b>graftcp</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nRedirecting TCP connections of a given program to SOCKS5 or HTTP proxies for network traffic routing and anonymization\n<br>\n✨ <b>Key Features:</b>\n• TCP connection redirection to SOCKS5 or HTTP proxy\n• Uses ptrace(2) for hooking connect(2), enabling support for any program (unlike LD_PRELOAD-based solutions)\n• Offers command-line options for configuration and customization\n<br>\n📖 <b>Summary:</b>\ngraftcp is a command-line tool that redirects TCP connections made by any program to SOCKS5 or HTTP proxies using ptrace(2).  It supports various configuration options and installation methods, including systemd service integration.  This allows users to route network traffic through proxies for applications that are not compatible with traditional proxy solutions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hmgle/graftcp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/e1d6f3471e712f4163635fc304363bff7ca9b8e8124a700518d4c35d3a91274f/hmgle/graftcp",
+    "platform": "telegram",
+    "quality_score": 0.7000000000000001
+}
