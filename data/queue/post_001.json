@@ -1,7 +1,0 @@
-{
-    "project_id": 910461113,
-    "content": "✨ <b>Godot-Pie</b> | GDScript\n<br>\n🎯 <b>Primary Use Case:</b>\nQuickly launch applications via a customizable pie menu\n<br>\n✨ <b>Key Features:</b>\n• A pie menu implemented in Godot Engine\n• Uses a configuration file (~/.config/godot-pie/config.cfg) to define menu items and actions\n• Launches applications via a daemon (godot-pie-daemon.py) that executes specified commands\n• Supports submenus and custom icons\n• Automatic click on nearest button for faster launching\n<br>\n📖 <b>Summary:</b>\nThis Godot Engine project creates a pie menu for application launching.  It's configured via a config file specifying applications and their associated commands, and uses a daemon for execution.  The menu features automatic selection of the nearest button for enhanced speed.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/InterstellarDragonDev/Godot-Pie?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/e45ff430edb46ac986e30da09425987193a012a430c97cbd088e3218ab137464/InterstellarDragonDev/Godot-Pie",
-    "platform": "telegram",
-    "quality_score": 0.44999999999999996
-}
