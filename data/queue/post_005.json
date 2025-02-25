@@ -1,0 +1,7 @@
+{
+    "project_id": 222316111,
+    "content": "🔥 <b>rusty-hog</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nDetecting secrets and sensitive information in various systems and data sources\n<br>\n✨ <b>Key Features:</b>\n• Scans for secrets in various locations (Google Docs, S3 buckets, Git repositories, files, directories, archives, Confluence wikis, Jira issues, Slack channels)\n• Uses regular expressions to detect sensitive information (API keys, passwords, personal information)\n• Provides custom regular expression support via JSON object\n<br>\n📖 <b>Summary:</b>\nRusty Hog is a secret scanner built in Rust.  It offers multiple binaries to scan various locations (e.g., Google Docs, S3, Git) for secrets using regular expressions, including custom ones.  It supports building from source and provides pre-built binaries and Docker images for ease of use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/newrelic/rusty-hog?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/4dce83eb1cb246e18beb720f3a394b700c5e5b958b1d4d973cdef67d3a0d744f/newrelic/rusty-hog",
+    "platform": "telegram",
+    "quality_score": 0.95
+}
