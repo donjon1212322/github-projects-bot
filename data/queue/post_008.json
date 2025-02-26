@@ -1,7 +1,0 @@
-{
-    "project_id": 902818578,
-    "content": "💡 <b>vps-audit</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurity and performance auditing of a VPS (Virtual Private Server)\n<br>\n✨ <b>Key Features:</b>\n• SSH Configuration audit (root login, password authentication, port usage)\n• Firewall (UFW) status check\n• Fail2ban configuration analysis\n• Failed login attempt detection\n• System update status check\n<br>\n📖 <b>Summary:</b>\nThis repository provides a Bash script for auditing the security and performance of a VPS.  It checks various security aspects, monitors system resource usage, and generates a detailed report with recommendations. The script is designed for Debian/Ubuntu systems and requires root or sudo privileges.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vernu/vps-audit?embed=0\">View Project</a>\n• <a href=\"https://vpsaudit.vernu.dev?ref=github?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://repository-images.githubusercontent.com/902818578/efa33dfe-1433-4125-83d5-71e47fce099f",
-    "platform": "telegram",
-    "quality_score": 0.9000000000000001
-}
