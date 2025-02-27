@@ -1,7 +1,0 @@
-{
-    "project_id": 930695967,
-    "content": "🌟 <b>voice-transcribe-summarize-telegram-bot</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTranscribe and summarize voice notes from Telegram using AI models\n<br>\n✨ <b>Key Features:</b>\n• Transcribe voice notes from forwarded messages\n• Handle direct voice note recordings\n• Generate accurate transcriptions using Whisper\n• Provide concise summaries of the transcribed content using Llama 3\n• Support for multiple audio formats\n<br>\n📖 <b>Summary:</b>\nThis Telegram bot uses Groq's API with Whisper and Llama 3 to transcribe and summarize voice notes.  It supports both forwarded and directly sent voice notes and provides well-formatted output to the user. The bot is built with Python and requires a Telegram Bot Token and Groq API Key.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aviaryan/voice-transcribe-summarize-telegram-bot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/33a0e1a376c037593089a27eabc2ca001ba4e4d9fb2734df39a454ffe04832c4/aviaryan/voice-transcribe-summarize-telegram-bot",
-    "platform": "telegram",
-    "quality_score": 0.44999999999999996
-}
