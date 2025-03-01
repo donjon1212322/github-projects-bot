@@ -1,58 +1,65 @@
 [
     {
-        "project_id": 909375197,
-        "content": "💡 <b>s3-file-share-for-free</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging files across multiple cloud storage providers\n<br>\n✨ <b>Key Features:</b>\n• Intuitive file and folder management\n• Drag-and-drop file uploads\n• Secure file sharing with temporary URLs\n• Responsive design for mobile and desktop\n• Real-time upload progress tracking\n<br>\n📖 <b>Summary:</b>\nThis web application provides a user-friendly interface for managing files across various cloud storage providers.  Key features include drag-and-drop uploads, secure sharing, and real-time progress tracking. It supports multiple providers like AWS S3, Google Cloud Storage, Cloudflare R2, Wasabi, Backblaze B2, DigitalOcean Spaces, and Hetzner Storage.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rohitg00/s3-file-share-for-free?embed=0\">View Project</a>\n• <a href=\"https://s3-file-share-for-free-35n2u.kinsta.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4d29f14a63741a69de4ba229219b4c6a54a0319d277166904ed7c101cfb88119/rohitg00/s3-file-share-for-free",
+        "project_id": 912509222,
+        "content": "🚀 <b>reddit-tui</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nBrowsing Reddit from the command line\n<br>\n✨ <b>Key Features:</b>\n• Subreddit browsing\n• Post viewing with comments\n• Keyboard navigation (vim/standard)\n• Configuration file support (caching, subreddit filters)\n• Post link opening in browser\n<br>\n📖 <b>Summary:</b>\nReddittui is a terminal application for browsing Reddit using keyboard navigation.  It supports viewing posts and comments, offers configuration options for caching and filtering, and allows opening post links in a web browser. The application uses the bubbletea framework and provides various keyboard shortcuts for navigation and actions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tonymajestro/reddit-tui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b54cedc4bd5b823a4101ecbfe82de0a7781c5332e366852d035244e6423780f8/tonymajestro/reddit-tui",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 926901987,
+        "content": "💡 <b>LLMDog</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nPrepare files for LLM consumption by selecting files and directories, generating a Markdown report of their structure and contents, and copying the output to the clipboard.\n<br>\n✨ <b>Key Features:</b>\n• Interactive TUI for file navigation\n• Recursive file and directory selection\n• Gitignore support\n• Markdown output generation\n• Clipboard integration\n<br>\n📖 <b>Summary:</b>\nLLMDog is a command-line tool that helps prepare files for large language models.  It features an interactive terminal UI for easy file selection, supports recursive selection and .gitignore rules, and outputs a well-formatted Markdown report copied to the clipboard. This streamlines the process of providing files to LLMs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/doganarif/LLMDog?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a9a2df6d7d87710311a5285c65f748a9ab0b6ff319f5c5eb555fa4bd71094c06/doganarif/LLMDog",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 933691861,
+        "content": "🔥 <b>Notemod</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nNote-taking application\n<br>\n✨ <b>Key Features:</b>\n• Easy Note-Taking\n• Creating Tasks\n• Rich Text Editor\n• Localstorage Data Saving\n• Export/Import Features\n<br>\n📖 <b>Summary:</b>\nNotemod is an open-source note-taking app that allows users to create and manage notes with rich text formatting, tasks, and local data storage.  It supports offline access and offers export/import functionality for data management.  The application is designed for ease of use and accessibility.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/orayemre/Notemod?embed=0\">View Project</a>\n• <a href=\"https://app-notemod.blogspot.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/933691861/82497131-238f-462c-9080-278e9019594f",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 278061250,
+        "content": "🔥 <b>steam-miniprofile</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nEmbedding a Steam miniprofile on a website\n<br>\n✨ <b>Key Features:</b>\n• Loads Steam miniprofile with animated background and frame as an HTML entity\n• Supports multiple languages via query parameter 'lang'\n• Displays featured game with playtime using query parameter 'appId'\n• Allows interactive miniprofile with click to open Steam profile using parameters 'interactive' and 'vanityId'\n<br>\n📖 <b>Summary:</b>\nThis tool embeds a user's public Steam miniprofile onto a website.  It supports various languages, featured games, and interactive elements, all without needing an API key. The miniprofile is loaded as an HTML entity and can be customized with CSS.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gamer2810/steam-miniprofile?embed=0\">View Project</a>\n• <a href=\"https://gamer2810.github.io/steam-miniprofile?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/278061250/6811c000-c299-11ea-95cb-5c75268688b2",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 916376760,
+        "content": "🚀 <b>WebRover</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-powered web agent for autonomous browsing, task automation, and deep research\n<br>\n✨ <b>Key Features:</b>\n• Three specialized agents (Task, Research, Deep Research) with dynamic selection based on task complexity\n• Real-time agent state visualization and streaming actions/thoughts\n• Local browser instance for privacy and control, multi-tab management, PDF handling, secure sessions\n<br>\n📖 <b>Summary:</b>\nWebRover is an AI agent combining autonomous web browsing with advanced research capabilities.  It features three specialized agents for various tasks,  a modern chat interface, and tools for deep research including academic paper generation.  The system uses cutting-edge LLMs and browser automation for reliable and efficient web interaction.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hrithikkoduri/WebRover?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d818a322527e56483f730fee5c74aa2ab1185c95a1a2d7b61af6bf9f913acee6/hrithikkoduri/WebRover",
+        "platform": "telegram",
+        "quality_score": 1.0
+    },
+    {
+        "project_id": 930948415,
+        "content": "🚀 <b>audiobook-creator</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAudiobook generation from various text formats (EPUB, PDF, etc.) using NLP, LLMs, and TTS technologies.\n<br>\n✨ <b>Key Features:</b>\n• M4B Audiobook Creation\n• Multi-Format Input Support (EPUB, PDF, etc.)\n• Multi-Format Output Support (AAC, M4A, MP3, WAV, OPUS, FLAC, PCM, M4B)\n• Text Cleaning\n• Character Identification (Gender, Age)\n<br>\n📖 <b>Summary:</b>\nThis repository provides tools to convert text books into audiobooks.  It supports multiple input and output formats, offers single and multi-voice narration options, and uses NLP for character identification and metadata generation.  The generated audiobooks are in M4B format, including cover and chapter timestamps.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/prakharsr/audiobook-creator?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4237ed92ed8517deeefe9519033618b34e2696588fcc2d372ed3b3a6771fed5b/prakharsr/audiobook-creator",
         "platform": "telegram",
         "quality_score": 0.7
     },
     {
-        "project_id": 920612709,
-        "content": "🌟 <b>variable-inspector</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and tracking variables within Jupyter Notebooks\n<br>\n✨ <b>Key Features:</b>\n• Display variables in a list\n• Display DataFrames as interactive tables\n• Automatic or manual refresh of variable list\n• Customizable displayed columns\n• Dark theme support\n<br>\n📖 <b>Summary:</b>\nThe Jupyter Variable Inspector is a JupyterLab extension that displays all variables in a notebook, including their names, values, types, shapes, and sizes.  It supports interactive DataFrame previews and allows for customization of displayed columns and refresh options.  This extension simplifies variable management and tracking within the Jupyter environment.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mljar/variable-inspector?embed=0\">View Project</a>\n• <a href=\"https://mljar.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6ffb290f0af787ba26eb32296f1bcedffb07ecd590a179004f0e13a5430fd10c/mljar/variable-inspector",
+        "project_id": 929620155,
+        "content": "🚀 <b>DeeperSeek</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nUsing the DeepSeek website as an alternative API to the DeepSeek paid API\n<br>\n✨ <b>Key Features:</b>\n• Automates message sending and response retrieval in DeepSeek\n• Supports login via token or email/password authentication\n• Allows regenerating responses\n• Enables session management (reset chat, log out, retrieve token)\n• Supports bypassing Cloudflare protection\n<br>\n📖 <b>Summary:</b>\nDeeperSeek is a Python library that automates interactions with the DeepSeek website.  It supports various authentication methods, session management, and advanced features like bypassing Cloudflare and using proxies, all while providing detailed logging.  This allows users to interact with DeepSeek without needing the paid API.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/theAbdoSabbagh/DeeperSeek?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/db480de052b04c6b468b94c3ad8c92c160f97bbbd742218068e8052db2b1137a/theAbdoSabbagh/DeeperSeek",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.55
     },
     {
-        "project_id": 914381428,
-        "content": "🚀 <b>go-haystack</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTracking personal Bluetooth devices using Apple's Find My network without requiring Apple hardware\n<br>\n✨ <b>Key Features:</b>\n• Track personal Bluetooth devices via Apple's Find My network\n• Build custom Find My network without Apple hardware\n• Firmware for various microcontrollers (Adafruit Bluefruit, BBC Microbit, Seeed Studio XIAO, etc.)\n• Beacon code for Linux systems (Raspberry Pi, etc.)\n• TinyScan hardware scanner for local devices\n<br>\n📖 <b>Summary:</b>\nThis repository provides tools and firmware to build a custom Find My network using various microcontrollers and Linux systems.  It includes a hardware scanner (TinyScan) for local devices and integrates with OpenHaystack and Macless-Haystack.  No Apple hardware is required.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hybridgroup/go-haystack?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7ad4dfe3e63ab49d2d34030d31bea7451eec84eed58b3ef8980d9961d7e8e8f7/hybridgroup/go-haystack",
+        "project_id": 870760326,
+        "content": "💡 <b>bananas</b> | Svelte\n<br>\n🎯 <b>Primary Use Case:</b>\nScreen sharing\n<br>\n✨ <b>Key Features:</b>\n• Peer-to-peer screen sharing\n• No account required\n• Supports Mac, Windows, and Linux\n• Uses stun, turn, and signaling servers for initial connection\n<br>\n📖 <b>Summary:</b>\nBananas Screen Sharing is a peer-to-peer screen sharing application for Mac, Windows, and Linux.  It does not require an account and uses stun, turn, and signaling servers only for initial connection establishment.  Users can download releases from GitHub or install via Homebrew on macOS.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mistweaverco/bananas?embed=0\">View Project</a>\n• <a href=\"https://getbananas.net?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/870760326/5ff53546-331d-44f7-bb4c-09e30c1a492a",
         "platform": "telegram",
         "quality_score": 0.8
     },
     {
-        "project_id": 926285456,
-        "content": "🔥 <b>chaplin</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTranscribing silently mouthed words in real-time using lip reading\n<br>\n✨ <b>Key Features:</b>\n• Visual speech recognition (VSR)\n• Real-time lip reading\n• Local execution\n• Uses pre-trained model\n<br>\n📖 <b>Summary:</b>\nChaplin is a visual speech recognition tool that transcribes silently spoken words by reading lips in real time.  It runs locally and uses a pre-trained model for accurate transcription.  The user mouths words while the application records and transcribes the input.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/amanvirparhar/chaplin?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c8fc28f5ea9e126457fca69e11ec2325f8868808306aa25564b5265824c90484/amanvirparhar/chaplin",
+        "project_id": 894346372,
+        "content": "🚀 <b>StableAnimator</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nHigh-quality, identity-preserving human image animation\n<br>\n✨ <b>Key Features:</b>\n• End-to-end identity-preserving video diffusion framework\n• Synthesizes high-quality videos without post-processing\n• Conditioned on a reference image and pose sequence\n• Uses image and face embeddings with off-the-shelf extractors\n• Global content-aware Face Encoder refines face embeddings\n<br>\n📖 <b>Summary:</b>\nStableAnimator is a novel framework for generating high-fidelity human image animations while preserving identity.  It uses a video diffusion model with several key modules to ensure ID consistency, including a Face Encoder and ID Adapter.  The model also incorporates HJB equation-based optimization for enhanced face quality during inference.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Francis-Rings/StableAnimator?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c20eb4f1ac30e1bb0c07f10faf86085e74a694b7ef1da7eb4a2786406c64bd35/Francis-Rings/StableAnimator",
         "platform": "telegram",
-        "quality_score": 0.6499999999999999
-    },
-    {
-        "project_id": 893223568,
-        "content": "🚀 <b>StegaShade</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEncoding and decoding messages within images using steganography techniques, with options for simple or password-protected embedding.\n<br>\n✨ <b>Key Features:</b>\n• Simple and protected steganography\n• AES encryption for protected mode\n• User-friendly command-line interface\n• Error handling\n• Image-based steganography\n<br>\n📖 <b>Summary:</b>\nStega Shade CLI is a command-line tool for image steganography.  It offers both simple encoding/decoding and password-protected methods using AES encryption, providing flexibility for various security needs.  The tool is designed with a user-friendly interface and robust error handling.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/merwin-asm/StegaShade?embed=0\">View Project</a>\n• <a href=\"https://pypi.org/project/stegashade/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d07ec1050f1c63aafc865a2876aba957566c26462b684dff234d20587988c108/merwin-asm/StegaShade",
-        "platform": "telegram",
-        "quality_score": 0.3
-    },
-    {
-        "project_id": 865656561,
-        "content": "💡 <b>podcastfy</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating engaging, conversational audio content from various multi-modal sources\n<br>\n✨ <b>Key Features:</b>\n• Transforms multi-modal content (text, images, websites, PDFs, YouTube videos) into multi-lingual audio conversations\n• Uses GenAI for audio generation\n• Open-source Python package\n• Available as a CLI and web app\n• Programmatic and customizable audio generation\n<br>\n📖 <b>Summary:</b>\nPodcastfy is an open-source Python package that leverages GenAI to convert text, images, and other content types into multilingual audio conversations.  It offers a command-line interface and a web application, enabling users to customize and scale audio content generation from diverse sources.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/souzatharsis/podcastfy?embed=0\">View Project</a>\n• <a href=\"https://www.podcastfy.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/865656561/1751c62d-5f4e-4057-91c7-5061931f49a5",
-        "platform": "telegram",
-        "quality_score": 1.2000000000000002
-    },
-    {
-        "project_id": 20034746,
-        "content": "🌟 <b>phpsploit</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPost-exploitation framework for web servers\n<br>\n✨ <b>Key Features:</b>\n• Polymorphic PHP one-liner backdoor\n• Obfuscates communication using HTTP headers\n• 20+ plugins for privilege escalation\n• Command execution and file system browsing\n• File upload/download\n<br>\n📖 <b>Summary:</b>\nPhpSploit is a command and control (C2) framework that uses a polymorphic PHP one-liner for stealthy persistence on web servers.  It offers numerous plugins to automate privilege escalation tasks, including command execution, file manipulation, database interaction, and reverse shell generation.  This allows for efficient post-exploitation activities within a compromised web server environment.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nil0x42/phpsploit?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/20034746/7c75e000-ef0b-11ea-962b-20016ceac913",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 509436902,
-        "content": "🌟 <b>TabPFN</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nMachine learning on tabular data, offering both classification and regression capabilities.\n<br>\n✨ <b>Key Features:</b>\n• Foundation model for tabular data\n• PyTorch implementation with CUDA optimization\n• High performance and speed\n• Handles classification and regression tasks\n• Available as a local deployment and via cloud-based inference API\n<br>\n📖 <b>Summary:</b>\nTabPFN is a high-performance foundation model designed for tabular data, implemented in PyTorch with CUDA optimization.  It provides both classification and regression functionalities, and is available for local deployment or via a cloud-based inference API.  Model weights can be downloaded for offline use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/PriorLabs/TabPFN?embed=0\">View Project</a>\n• <a href=\"http://priorlabs.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/34527670102ac5625ef36621f953fd28f1c0a4a457dce515cef8b1eb45699a60/PriorLabs/TabPFN",
-        "platform": "telegram",
-        "quality_score": 1.05
+        "quality_score": 1.0
     }
 ]
