@@ -1,7 +1,0 @@
-{
-    "project_id": 894346372,
-    "content": "🚀 <b>StableAnimator</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nHigh-quality, identity-preserving human image animation\n<br>\n✨ <b>Key Features:</b>\n• End-to-end identity-preserving video diffusion framework\n• Synthesizes high-quality videos without post-processing\n• Conditioned on a reference image and pose sequence\n• Uses image and face embeddings with off-the-shelf extractors\n• Global content-aware Face Encoder refines face embeddings\n<br>\n📖 <b>Summary:</b>\nStableAnimator is a novel framework for generating high-fidelity human image animations while preserving identity.  It uses a video diffusion model with several key modules to ensure ID consistency, including a Face Encoder and ID Adapter.  The model also incorporates HJB equation-based optimization for enhanced face quality during inference.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Francis-Rings/StableAnimator?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/c20eb4f1ac30e1bb0c07f10faf86085e74a694b7ef1da7eb4a2786406c64bd35/Francis-Rings/StableAnimator",
-    "platform": "telegram",
-    "quality_score": 1.0
-}
