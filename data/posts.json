@@ -1,58 +1,65 @@
 [
     {
-        "project_id": 931467507,
-        "content": "🔥 <b>openator</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating browser actions based on natural language instructions using large language models.\n<br>\n✨ <b>Key Features:</b>\n• Browser automation using natural language instructions\n• Support for multiple LLM providers (OpenAI, Ollama, Google Generative AI)\n• Variable and secret management for context injection\n• Customizable LLM parameters (temperature, maxRetries, maxConcurrency)\n<br>\n📖 <b>Summary:</b>\nOpenator is a browser automation tool that allows users to define tasks in natural language.  It supports various LLMs like OpenAI, Ollama, and Google Generative AI, enabling flexible configuration and parameter tuning.  Users can define variables and secrets for enhanced context and control during task execution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/agentlabs-dev/openator?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/73468037d430c2423c19e2d8c710002aaa3a3cb62c473522eee00f4d2a4254d0/agentlabs-dev/openator",
-        "platform": "telegram",
-        "quality_score": 0.5499999999999999
-    },
-    {
-        "project_id": 301793434,
-        "content": "🌟 <b>focalboard</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProject management and task organization for individuals and teams\n<br>\n✨ <b>Key Features:</b>\n• Standalone project management tool\n• Self-hosted\n• Multilingual\n• Available as desktop app (macOS, Windows, Linux) and server edition\n• API access\n<br>\n📖 <b>Summary:</b>\nFocalboard is an open-source, self-hosted project management tool offering desktop apps and a server edition.  It provides features for defining, organizing, tracking, and managing work, serving as an alternative to platforms like Trello, Notion, and Asana.  The API allows for programmatic interaction.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mattermost-community/focalboard?embed=0\">View Project</a>\n• <a href=\"https://www.focalboard.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0bb8fd6c662c1cc4464b57746c28746157eed0ed9877f0f39cbd0bc08f3653c9/mattermost-community/focalboard",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 599320067,
-        "content": "🔥 <b>langflow</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding RAG and multi-agent AI applications\n<br>\n✨ <b>Key Features:</b>\n• Python-based, model/API/database agnostic\n• Visual IDE for drag-and-drop workflow building and testing\n• Playground for immediate workflow testing and iteration\n• Multi-agent orchestration and conversation management\n• Free cloud service for quick setup\n<br>\n📖 <b>Summary:</b>\nLangflow is a low-code application builder for creating RAG and multi-agent AI applications.  It features a visual IDE, a testing playground, and supports various integrations.  Users can build and deploy applications as APIs or Python applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/langflow-ai/langflow?embed=0\">View Project</a>\n• <a href=\"http://www.langflow.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/599320067/a9637c6a-7347-4a7a-8bf3-7bbdae6974b6",
-        "platform": "telegram",
-        "quality_score": 1.1
-    },
-    {
-        "project_id": 33258973,
-        "content": "🌟 <b>telegraf</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nCollecting, processing, and writing metrics and other data\n<br>\n✨ <b>Key Features:</b>\n• Collects, processes, aggregates, and writes metrics, logs, and other data\n• Offers over 300 plugins for various functionalities (system monitoring, cloud services, message passing)\n• Supports user-defined code for data collection and transformation\n• Compiles into a standalone static binary without external dependencies\n<br>\n📖 <b>Summary:</b>\nTelegraf is an agent for collecting and processing various types of data.  It boasts a wide array of plugins and allows for user-defined code integration, simplifying data handling.  Its standalone binary and TOML configuration ensure streamlined deployment and ease of use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/influxdata/telegraf?embed=0\">View Project</a>\n• <a href=\"https://influxdata.com/telegraf?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/19bd562f2fd9c269c816cf1d86e0fe239cedc573572bc88b991bc4fe69a4a345/influxdata/telegraf",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 74175805,
-        "content": "🌟 <b>istio</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and securing microservices in distributed applications\n<br>\n✨ <b>Key Features:</b>\n• Service mesh\n• Microservices integration\n• Traffic management\n• Policy enforcement\n• Telemetry data aggregation\n<br>\n📖 <b>Summary:</b>\nIstio is an open-source service mesh that provides a uniform way to integrate, manage, and secure microservices.  It offers features like traffic management, policy enforcement, and telemetry data aggregation, simplifying the complexities of communication and security in distributed systems. Istio uses Envoy as a sidecar proxy for each microservice and Istiod as its control plane, which includes components like Pilot, Citadel, and Galley for various control functions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/istio/istio?embed=0\">View Project</a>\n• <a href=\"https://istio.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/74175805/ed825500-65ad-11e9-821c-f6148eadb7c8",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 138547797,
-        "content": "✨ <b>mkcert</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating locally trusted development certificates for testing and development purposes\n<br>\n✨ <b>Key Features:</b>\n• Generates locally-trusted development certificates\n• Installs a local CA in the system root store\n• Supports various operating systems and browsers\n• Provides options for customizing output paths and key types\n<br>\n📖 <b>Summary:</b>\nmkcert simplifies local development by generating and installing self-signed certificates trusted by the system and major browsers.  It supports various operating systems and offers advanced options for certificate customization and client authentication.  This eliminates trust errors associated with self-signed certificates in development environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/FiloSottile/mkcert?embed=0\">View Project</a>\n• <a href=\"https://mkcert.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/138547797/1779e880-6164-11e9-971a-09791e669578",
-        "platform": "telegram",
-        "quality_score": 0.7999999999999999
-    },
-    {
-        "project_id": 916524168,
-        "content": "💡 <b>MarketMonk</b> | Dart\n<br>\n🎯 <b>Primary Use Case:</b>\nTracking stocks and managing investment portfolios\n<br>\n✨ <b>Key Features:</b>\n• Line graph stocks (with Yahoo Finance Data)\n• Portfolio building and monitoring\n• Customization options\n<br>\n📖 <b>Summary:</b>\nMarketMonk is an application for tracking stocks using data from Yahoo Finance.  It allows users to build and monitor their investment portfolios and offers customization features.  The app is available on Google Play, F-Droid, Apple App Store, and the Microsoft Store.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/brandonp2412/MarketMonk?embed=0\">View Project</a>\n• <a href=\"https://codesail.co.nz/lessons?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/916524168/b46a1c7e-a2f7-4eaa-b257-eae0061d4867",
+        "project_id": 937562089,
+        "content": "✨ <b>map3d</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\n3D building map generation\n<br>\n✨ <b>Key Features:</b>\n• 3D building mapping\n• GLB export\n• OpenStreetMap data integration\n<br>\n📖 <b>Summary:</b>\nThis repository provides a 3D building mapping service using React-Three-Fiber and OpenStreetMap data.  It allows exporting maps as GLB files and has potential applications in digital twin creation, drone surveying, and GPS marker integration.  The accuracy of the data depends on OpenStreetMap, and future improvements include manual data correction and enhanced customization options.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cartesiancs/map3d?embed=0\">View Project</a>\n• <a href=\"https://map.fleet.im?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/afd9ac16caf90bd1a1b638418df89b753ce0d84989f93a87e1b7d35010c454ad/cartesiancs/map3d",
         "platform": "telegram",
         "quality_score": 0.55
     },
     {
-        "project_id": 60667730,
-        "content": "✨ <b>lvgl</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating embedded graphical user interfaces (GUIs) for various microcontrollers and microprocessors\n<br>\n✨ <b>Key Features:</b>\n• Fully portable C (C++ compatible) library with no external dependencies\n• Compilable to any MCU or MPU, with any (RT)OS\n• Supports monochrome, ePaper, OLED or TFT displays\n• Distributed under the MIT license\n• Requires only 32kB RAM and 128 kB Flash, a frame buffer, and at least an 1/10 screen sized buffer for rendering\n<br>\n📖 <b>Summary:</b>\nLVGL is a free and open-source embedded graphics library for creating UIs.  It supports a wide range of hardware and features, including various displays, input devices, and advanced rendering capabilities.  The library is highly portable and suitable for resource-constrained devices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lvgl/lvgl?embed=0\">View Project</a>\n• <a href=\"https://lvgl.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b0a225ebd29f0b8af4673f807a1af0e5ddf665f8c32d181a58745135f0a49793/lvgl/lvgl",
+        "project_id": 476427476,
+        "content": "💡 <b>Maestro</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nUI testing framework for mobile and web applications\n<br>\n✨ <b>Key Features:</b>\n• Built-in tolerance to flakiness in UI elements and screen taps\n• Built-in tolerance to delays without needing `sleep()` calls\n• Blazingly fast iteration with interpreted tests and continuous monitoring\n• Declarative YAML syntax for test definition\n• Single binary for cross-platform compatibility\n<br>\n📖 <b>Summary:</b>\nMaestro is a UI testing framework designed for mobile and web applications.  It addresses common testing challenges like flakiness and delays with built-in tolerance mechanisms and uses a declarative YAML syntax for efficient test definition.  Its single binary architecture ensures easy setup and cross-platform compatibility.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mobile-dev-inc/Maestro?embed=0\">View Project</a>\n• <a href=\"https://maestro.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/205168549c814b0334cf4a258605f823195f761d683c726fc053cf36a56bd251/mobile-dev-inc/Maestro",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 25397675,
+        "content": "🌟 <b>nfcgate</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurity research: reverse engineering and security assessment of NFC protocols\n<br>\n✨ <b>Key Features:</b>\n• On-device NFC traffic capture\n• NFC traffic relay between two devices using a server\n• Replay of captured NFC traffic\n• Cloning of initial tag information\n• Export of captured traffic in pcapng format readable by Wireshark\n<br>\n📖 <b>Summary:</b>\nNFCGate is an Android application for capturing, analyzing, and modifying NFC traffic.  It supports various modes including relay, replay, and cloning, and allows exporting data in the pcapng format for further analysis with tools like Wireshark.  This application is intended for security research purposes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nfcgate/nfcgate?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/91033c5f5fd225b8276b4d75cffc174fcebbd7fc6870481b0e1e40c3a79ebaf7/nfcgate/nfcgate",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 81227005,
+        "content": "🔥 <b>faiss</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nSimilarity search and clustering of dense vectors\n<br>\n✨ <b>Key Features:</b>\n• Efficient similarity search and clustering of dense vectors\n• Handles vectors of any size, including those that don't fit in RAM\n• Algorithms implemented on GPU for faster processing\n• Supports L2 distance, dot products, and cosine similarity\n<br>\n📖 <b>Summary:</b>\nFaiss is a library for efficient similarity search and clustering of dense vectors.  It supports various algorithms, including GPU-accelerated options, and offers a range of indexing structures to optimize for different performance needs.  It's designed to handle datasets of any size and provides interfaces in both C++ and Python.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/facebookresearch/faiss?embed=0\">View Project</a>\n• <a href=\"https://faiss.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f16ed130818fd378fb54db231b5d5b6c85dad31fd0ea79319a45b1f4731d7c26/facebookresearch/faiss",
         "platform": "telegram",
         "quality_score": 1.05
+    },
+    {
+        "project_id": 806342999,
+        "content": "🚀 <b>pensieve</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPrivacy-focused screen recording and retrieval system\n<br>\n✨ <b>Key Features:</b>\n• Passive screen recording\n• Local data storage\n• Full-text and vector search\n• Ollama integration\n• OpenAI API compatibility\n<br>\n📖 <b>Summary:</b>\nPensieve is a privacy-focused application that records screen activity, indexes it for searching, and provides a web interface for access.  It uses local storage to maintain user data privacy and integrates with Ollama and OpenAI APIs for enhanced functionality.  Supports full-text and vector search for efficient retrieval of recorded content.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/arkohut/pensieve?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e4e3356a40fcf70593067230ca7de2c25e79776fa359be3bb2429cf23f810d63/arkohut/pensieve",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 610260322,
+        "content": "💡 <b>chatbox</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProvides a desktop and mobile client for interacting with large language models like ChatGPT and Claude.\n<br>\n✨ <b>Key Features:</b>\n• Desktop client for ChatGPT, Claude and other LLMs\n• Available on Windows, Mac, Linux\n• iOS and Android apps available\n<br>\n📖 <b>Summary:</b>\nChatbox is a desktop and mobile application that allows users to interact with various large language models.  It offers versions for Windows, macOS, and Linux desktops, as well as iOS and Android mobile platforms.  The application aims to provide a user-friendly interface for accessing the capabilities of LLMs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Bin-Huang/chatbox?embed=0\">View Project</a>\n• <a href=\"https://chatboxai.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8d5dbac158c652720a06dee98f48ce083b221a890fb73b97d6166a1ee1f2cc70/Bin-Huang/chatbox",
+        "platform": "telegram",
+        "quality_score": 0.8500000000000001
+    },
+    {
+        "project_id": 463027648,
+        "content": "✨ <b>afrog</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nA security tool for vulnerability research and exploitation\n<br>\n✨ <b>Key Features:</b>\n• Bug Bounty\n• Pentest\n• Red Teaming\n<br>\n📖 <b>Summary:</b>\nAfrog is a security tool designed for bug bounty hunting, penetration testing, and red teaming activities.  It helps in identifying and exploiting vulnerabilities.  The tool is actively developed and maintained, with contributions from multiple developers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/zan8in/afrog?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e2db2df932098566e063ed3df4e2243d46c61d7485b252f05e96a936ed5f056c/zan8in/afrog",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 330008801,
+        "content": "🔥 <b>SDL</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nDevelopment of multimedia software, such as games and emulators\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform compatibility\n• Ease of use for multimedia software development\n• Support for game and emulator development\n<br>\n📖 <b>Summary:</b>\nThe Simple DirectMedia Layer (SDL) is a cross-platform library designed to simplify the creation of multimedia applications, including games and emulators.  It offers ease of use and broad compatibility across different operating systems.  SDL's primary purpose is to provide a streamlined interface for handling various multimedia tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/libsdl-org/SDL?embed=0\">View Project</a>\n• <a href=\"https://libsdl.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/330008801/e466ed80-576b-11eb-93f8-bcb1604b399f",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 661850205,
+        "content": "✨ <b>docuseal</b> | Ruby\n<br>\n🎯 <b>Primary Use Case:</b>\nOpen source document filling and signing\n<br>\n✨ <b>Key Features:</b>\n• PDF form fields builder (WYSIWYG)\n• 12 field types available (Signature, Date, File, Checkbox etc.)\n• Multiple submitters per document\n• Automated emails via SMTP\n• Files storage on disk or AWS S3, Google Storage, Azure Cloud\n<br>\n📖 <b>Summary:</b>\nDocuSeal is an open-source platform for secure digital document signing and processing.  It allows users to create and manage fillable PDF forms with various field types, supports multiple submitters, and offers integrations via API and webhooks.  Deployment is simplified through Docker and various cloud platforms.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/docusealco/docuseal?embed=0\">View Project</a>\n• <a href=\"https://www.docuseal.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/661850205/377ad724-388b-487b-a27a-a3c5373b4d65",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
     }
 ]
