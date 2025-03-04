@@ -1,341 +1,291 @@
 [
     {
-        "id": 937562089,
-        "name": "map3d",
-        "description": "🗺️ Generate City 3D map with R3F. Include building and road information.",
-        "url": "https://github.com/cartesiancs/map3d",
-        "language": "TypeScript",
-        "stars": 174,
-        "forks": 18,
-        "created_at": "2025-02-23T11:20:41Z",
-        "updated_at": "2025-03-03T00:16:36Z",
+        "id": 600475150,
+        "name": "Cosmos-Server",
+        "description": "☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)",
+        "url": "https://github.com/azukaar/Cosmos-Server",
+        "language": "JavaScript",
+        "stars": 4291,
+        "forks": 153,
+        "created_at": "2023-02-11T16:00:46Z",
+        "updated_at": "2025-03-03T19:30:17Z",
         "topics": [
-            "map",
-            "r3f",
-            "react",
-            "threejs",
-            "typescript"
+            "authentication",
+            "cloud",
+            "cosmos",
+            "reverse-proxy",
+            "security",
+            "self-hosted",
+            "self-hosting",
+            "selfhosted",
+            "selfhosting",
+            "server",
+            "sso"
         ],
+        "quality_score": 1.0,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-21T20:41:22Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/ed0b2bae0ac48212c9d5b9f9c13f7601a4642401b9f5fea48cbc1093f92405c5/azukaar/Cosmos-Server"
+        ],
+        "homepage": "https://cosmos-cloud.io",
+        "readme_summary": "Cosmos is a secure gateway and server manager designed to protect self-hosted applications.  It features an app store, storage management, network storage capabilities, a reverse proxy, and a robust authentication server.  This allows users to easily install, manage, and secure their applications from a centralized, customizable dashboard.",
+        "key_features": [
+            "App Store for easy application installation and management with automatic updates and security checks",
+            "Storage Manager for managing disks, including Parity Disks and MergerFS",
+            "Network Storages based on RClone for managing remote storages and sharing NFS/FTP",
+            "Reverse-Proxy with automatic HTTPS and UI for containers, servers, and static folders/SPA",
+            "Authentication Server with multi-factor authentication and multiple strategies (OpenID, forward headers, HTML)",
+            "Customizable Homepage to access all applications from a single place"
+        ],
+        "primary_use_case": "Secure self-hosting of applications and personal servers",
+        "open_issues": 101
+    },
+    {
+        "id": 400920341,
+        "name": "Shell",
+        "description": "Powerful context menu manager for Windows File Explorer",
+        "url": "https://github.com/moudey/Shell",
+        "language": "C++",
+        "stars": 4525,
+        "forks": 155,
+        "created_at": "2021-08-29T00:51:19Z",
+        "updated_at": "2025-03-04T00:41:53Z",
+        "topics": [
+            "context-menu",
+            "file-explorer",
+            "nilesoft-shell",
+            "right-click",
+            "shell-extension"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-06T15:55:56Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/d0179e6043262f2c88d97bc59b5a5a0fdcfa7e6f72e369a522684db9ed0d4c71/moudey/Shell"
+        ],
+        "homepage": "https://nilesoft.org",
+        "readme_summary": "Shell is a Windows context menu extender that allows users to add, modify, or remove context menu items.  It supports custom commands, various icon types, and a simple configuration file.  This enables users to create a highly personalized and efficient file management experience.",
+        "key_features": [
+            "Lightweight and portable",
+            "Customizable appearance",
+            "Add custom context menu items (sub-menus, menu items, separators)",
+            "Modify or remove existing context menu items",
+            "Supports files, folders, desktop, taskbar",
+            "Supports expression syntax with built-in functions and variables",
+            "Supports colors, glyphs, SVG, icons (.ico, .png, .bmp)",
+            "Supports search and filter",
+            "Supports complex nested menus",
+            "Supports multiple columns",
+            "Easy configuration via plain text file",
+            "Minimal resource usage"
+        ],
+        "primary_use_case": "Extend and customize the Windows File Explorer context menu",
+        "open_issues": 161
+    },
+    {
+        "id": 718379614,
+        "name": "gpt-crawler",
+        "description": "Crawl a site to generate knowledge files to create your own custom GPT from a URL",
+        "url": "https://github.com/BuilderIO/gpt-crawler",
+        "language": "TypeScript",
+        "stars": 20958,
+        "forks": 2230,
+        "created_at": "2023-11-14T00:31:11Z",
+        "updated_at": "2025-03-03T23:36:35Z",
+        "topics": [
+            "ai"
+        ],
+        "quality_score": 0.8,
+        "contributors_count": 0,
+        "last_commit_date": "2025-01-23T00:18:49Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/384301a5d2d37be56f1d72fcdf20eb93d271d286e7f0842593cfe4536bbe88c1/BuilderIO/gpt-crawler"
+        ],
+        "homepage": "https://www.builder.io/blog/custom-gpt",
+        "readme_summary": "This repository provides a crawler to extract data from websites, which can then be used to create custom GPTs or assistants on OpenAI.  It allows for configuration of the crawl parameters such as URL, selectors, and maximum pages. The extracted data is outputted as a JSON file.",
+        "key_features": [
+            "Crawl websites to generate knowledge files",
+            "Supports configuration via a config.ts file",
+            "Allows specifying selectors for content extraction",
+            "Provides options for limiting the number of crawled pages",
+            "Outputs data to a JSON file",
+            "Can be run locally, via Docker, or as an API",
+            "Supports uploading data to OpenAI to create custom GPTs or assistants"
+        ],
+        "primary_use_case": "Creating custom GPTs and assistants from website content",
+        "open_issues": 90
+    },
+    {
+        "id": 125883928,
+        "name": "youtube_channel_archiver",
+        "description": "Starting point for archiving entire YouTube channels using yt-dlp (originally youtube-dl)",
+        "url": "https://github.com/dmn001/youtube_channel_archiver",
+        "language": "Shell",
+        "stars": 477,
+        "forks": 71,
+        "created_at": "2018-03-19T15:58:06Z",
+        "updated_at": "2025-03-03T21:22:03Z",
+        "topics": [],
         "quality_score": 0.55,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-26T13:57:31Z",
+        "last_commit_date": "2022-09-04T22:59:25Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/afd9ac16caf90bd1a1b638418df89b753ce0d84989f93a87e1b7d35010c454ad/cartesiancs/map3d"
-        ],
-        "homepage": "https://map.fleet.im",
-        "readme_summary": "This repository provides a 3D building mapping service using React-Three-Fiber and OpenStreetMap data.  It allows exporting maps as GLB files and has potential applications in digital twin creation, drone surveying, and GPS marker integration.  The accuracy of the data depends on OpenStreetMap, and future improvements include manual data correction and enhanced customization options.",
-        "key_features": [
-            "3D building mapping",
-            "GLB export",
-            "OpenStreetMap data integration"
-        ],
-        "primary_use_case": "3D building map generation",
-        "open_issues": 1
-    },
-    {
-        "id": 476427476,
-        "name": "Maestro",
-        "description": "Painless E2E Automation for Mobile and Web",
-        "url": "https://github.com/mobile-dev-inc/Maestro",
-        "language": "Kotlin",
-        "stars": 6923,
-        "forks": 338,
-        "created_at": "2022-03-31T18:17:40Z",
-        "updated_at": "2025-03-03T00:46:00Z",
-        "topics": [
-            "android",
-            "blackbox-testing",
-            "ios",
-            "ui-automation"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-02T19:16:40Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/205168549c814b0334cf4a258605f823195f761d683c726fc053cf36a56bd251/mobile-dev-inc/Maestro"
-        ],
-        "homepage": "https://maestro.dev",
-        "readme_summary": "Maestro is a UI testing framework designed for mobile and web applications.  It addresses common testing challenges like flakiness and delays with built-in tolerance mechanisms and uses a declarative YAML syntax for efficient test definition.  Its single binary architecture ensures easy setup and cross-platform compatibility.",
-        "key_features": [
-            "Built-in tolerance to flakiness in UI elements and screen taps",
-            "Built-in tolerance to delays without needing `sleep()` calls",
-            "Blazingly fast iteration with interpreted tests and continuous monitoring",
-            "Declarative YAML syntax for test definition",
-            "Single binary for cross-platform compatibility"
-        ],
-        "primary_use_case": "UI testing framework for mobile and web applications",
-        "open_issues": 382
-    },
-    {
-        "id": 25397675,
-        "name": "nfcgate",
-        "description": "An NFC research toolkit application for Android",
-        "url": "https://github.com/nfcgate/nfcgate",
-        "language": "Java",
-        "stars": 1432,
-        "forks": 180,
-        "created_at": "2014-10-18T13:12:05Z",
-        "updated_at": "2025-03-02T22:21:03Z",
-        "topics": [
-            "android",
-            "android-nfc",
-            "cloning",
-            "hacktoberfest",
-            "hce",
-            "nfc",
-            "relay",
-            "replay",
-            "security",
-            "security-audit"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-05T22:26:33Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/91033c5f5fd225b8276b4d75cffc174fcebbd7fc6870481b0e1e40c3a79ebaf7/nfcgate/nfcgate"
+            "https://opengraph.githubassets.com/6ddc407f8367fc75589bff71b76bf87044a3333afb21588037e4c78afd28b701/dmn001/youtube_channel_archiver"
         ],
         "homepage": "",
-        "readme_summary": "NFCGate is an Android application for capturing, analyzing, and modifying NFC traffic.  It supports various modes including relay, replay, and cloning, and allows exporting data in the pcapng format for further analysis with tools like Wireshark.  This application is intended for security research purposes.",
+        "readme_summary": "This repository provides configuration files and scripts to download and update YouTube channels using yt-dlp.  It tracks downloaded videos to prevent duplicates and supports both Linux and Windows.  The primary use case is creating a local archive of YouTube channels.",
         "key_features": [
-            "On-device NFC traffic capture",
-            "NFC traffic relay between two devices using a server",
-            "Replay of captured NFC traffic",
-            "Cloning of initial tag information",
-            "Export of captured traffic in pcapng format readable by Wireshark"
+            "Download entire YouTube channels",
+            "Update channel downloads without re-downloading existing videos",
+            "Uses yt-dlp for video downloading",
+            "Supports Linux and Windows",
+            "Maintains a list of downloaded video IDs to avoid duplicates"
         ],
-        "primary_use_case": "Security research: reverse engineering and security assessment of NFC protocols",
-        "open_issues": 13
-    },
-    {
-        "id": 81227005,
-        "name": "faiss",
-        "description": "A library for efficient similarity search and clustering of dense vectors.",
-        "url": "https://github.com/facebookresearch/faiss",
-        "language": "C++",
-        "stars": 33362,
-        "forks": 3775,
-        "created_at": "2017-02-07T16:07:05Z",
-        "updated_at": "2025-03-02T23:46:59Z",
-        "topics": [],
-        "quality_score": 1.05,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-01T06:09:17Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/f16ed130818fd378fb54db231b5d5b6c85dad31fd0ea79319a45b1f4731d7c26/facebookresearch/faiss"
-        ],
-        "homepage": "https://faiss.ai",
-        "readme_summary": "Faiss is a library for efficient similarity search and clustering of dense vectors.  It supports various algorithms, including GPU-accelerated options, and offers a range of indexing structures to optimize for different performance needs.  It's designed to handle datasets of any size and provides interfaces in both C++ and Python.",
-        "key_features": [
-            "Efficient similarity search and clustering of dense vectors",
-            "Handles vectors of any size, including those that don't fit in RAM",
-            "Algorithms implemented on GPU for faster processing",
-            "Supports L2 distance, dot products, and cosine similarity",
-            "Provides various indexing structures with different trade-offs between search time, quality, memory usage, and training time",
-            "Includes exact and approximate nearest neighbor search",
-            "Offers Python and C++ interfaces",
-            "Supports CUDA, AMD ROCm, and cuVS for GPU acceleration"
-        ],
-        "primary_use_case": "Similarity search and clustering of dense vectors",
-        "open_issues": 224
-    },
-    {
-        "id": 806342999,
-        "name": "pensieve",
-        "description": "A passive recording project allows you to have complete control over your data. Automatically take screenshots of all your screens, index them, and save them locally.",
-        "url": "https://github.com/arkohut/pensieve",
-        "language": "Python",
-        "stars": 1214,
-        "forks": 58,
-        "created_at": "2024-05-27T02:29:20Z",
-        "updated_at": "2025-03-02T21:12:42Z",
-        "topics": [],
-        "quality_score": 1.0000000000000002,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-21T10:24:56Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/e4e3356a40fcf70593067230ca7de2c25e79776fa359be3bb2429cf23f810d63/arkohut/pensieve"
-        ],
-        "homepage": "",
-        "readme_summary": "Pensieve is a privacy-focused application that records screen activity, indexes it for searching, and provides a web interface for access.  It uses local storage to maintain user data privacy and integrates with Ollama and OpenAI APIs for enhanced functionality.  Supports full-text and vector search for efficient retrieval of recorded content.",
-        "key_features": [
-            "Passive screen recording",
-            "Local data storage",
-            "Full-text and vector search",
-            "Ollama integration",
-            "OpenAI API compatibility",
-            "Mac and Windows support (Linux in development)",
-            "Extensible plugin architecture",
-            "Intelligent idle processing",
-            "PostgreSQL database support"
-        ],
-        "primary_use_case": "Privacy-focused screen recording and retrieval system",
+        "primary_use_case": "Archiving YouTube channels by downloading all videos",
         "open_issues": 5
     },
     {
-        "id": 610260322,
-        "name": "chatbox",
-        "description": "User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)",
-        "url": "https://github.com/Bin-Huang/chatbox",
-        "language": "TypeScript",
-        "stars": 32608,
-        "forks": 3096,
-        "created_at": "2023-03-06T12:22:15Z",
-        "updated_at": "2025-03-03T00:52:29Z",
-        "topics": [
-            "assistant",
-            "chatbot",
-            "chatgpt",
-            "copilot",
-            "gpt",
-            "gpt-4",
-            "ollama",
-            "openai"
-        ],
-        "quality_score": 0.8500000000000001,
+        "id": 889646003,
+        "name": "diagram-as-code",
+        "description": "A tutorial on how to create a documentation project using the 'Doc as diagram' methodology",
+        "url": "https://github.com/r0mymendez/diagram-as-code",
+        "language": "Jupyter Notebook",
+        "stars": 278,
+        "forks": 12,
+        "created_at": "2024-11-16T21:15:07Z",
+        "updated_at": "2025-03-03T20:43:23Z",
+        "topics": [],
+        "quality_score": 0.15,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-13T13:09:37Z",
+        "last_commit_date": "2024-11-19T00:19:31Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/8d5dbac158c652720a06dee98f48ce083b221a890fb73b97d6166a1ee1f2cc70/Bin-Huang/chatbox"
+            "https://opengraph.githubassets.com/5b4e8ddad3e1352b9e0af5a7bf3c12d3e437ca3633990bc26f7b197166aaf212/r0mymendez/diagram-as-code"
         ],
-        "homepage": "https://chatboxai.app",
-        "readme_summary": "Chatbox is a desktop and mobile application that allows users to interact with various large language models.  It offers versions for Windows, macOS, and Linux desktops, as well as iOS and Android mobile platforms.  The application aims to provide a user-friendly interface for accessing the capabilities of LLMs.",
+        "homepage": null,
+        "readme_summary": "The Diagrams Python library implements a Diagram as Code approach, allowing users to generate various diagrams (including cloud infrastructure diagrams) from code.  This enables automated documentation, change control, and easy integration into software development workflows.  The library supports major cloud providers like AWS, Azure, and GCP.",
         "key_features": [
-            "Desktop client for ChatGPT, Claude and other LLMs",
-            "Available on Windows, Mac, Linux",
-            "iOS and Android apps available"
+            "Diagram as Code approach",
+            "Python library",
+            "creation of architectural infrastructure diagrams",
+            "support for AWS, Azure, and GCP components",
+            "generation of graphical images from code",
+            "automated documentation",
+            "change control",
+            "customizable visuals for cloud infrastructures, workflows, or data pipelines"
         ],
-        "primary_use_case": "Provides a desktop and mobile client for interacting with large language models like ChatGPT and Claude.",
-        "open_issues": 552
+        "primary_use_case": "Creating and managing diagrams for software projects, particularly architectural and flow diagrams, programmatically.",
+        "open_issues": 0
     },
     {
-        "id": 463027648,
-        "name": "afrog",
-        "description": "A Security Tool for Bug Bounty, Pentest and Red Teaming.",
-        "url": "https://github.com/zan8in/afrog",
-        "language": "Go",
-        "stars": 3693,
-        "forks": 413,
-        "created_at": "2022-02-24T06:00:32Z",
-        "updated_at": "2025-03-03T00:31:11Z",
+        "id": 242139417,
+        "name": "slowapi",
+        "description": "A rate limiter for Starlette and FastAPI",
+        "url": "https://github.com/laurentS/slowapi",
+        "language": "Python",
+        "stars": 1369,
+        "forks": 87,
+        "created_at": "2020-02-21T12:56:20Z",
+        "updated_at": "2025-03-03T19:07:20Z",
         "topics": [
-            "afrog",
-            "bug-bounty",
-            "penetration-testing",
-            "pentest",
-            "poc",
-            "red-teaming",
-            "vulnerability-scanner",
-            "vulnerability-scanning-tools"
+            "asgi",
+            "fastapi",
+            "python",
+            "rate-limiter",
+            "starlette",
+            "uvicorn"
+        ],
+        "quality_score": 0.75,
+        "contributors_count": 0,
+        "last_commit_date": "2024-06-27T18:02:44Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/b81ce7beebe309dbcfef06e3e19de2b53d327dcab8ebaebf8c4c5b9e15184f1f/laurentS/slowapi"
+        ],
+        "homepage": "https://pypi.org/project/slowapi/",
+        "readme_summary": "SlowAPI is a rate-limiting library built for Starlette and FastAPI frameworks.  It supports various backends for tracking limits and allows applying limits to individual endpoints or groups of endpoints.  The library is designed to handle high request volumes and offers both synchronous and asynchronous support.",
+        "key_features": [
+            "Rate limiting for Starlette and FastAPI",
+            "Support for sync and async HTTP endpoints",
+            "Redis, memcached, and memory backends",
+            "Single and multiple limit decorators",
+            "Shared limits across routes"
+        ],
+        "primary_use_case": "Rate limiting for Starlette and FastAPI applications",
+        "open_issues": 39
+    },
+    {
+        "id": 610292163,
+        "name": "mail-server",
+        "description": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)",
+        "url": "https://github.com/stalwartlabs/mail-server",
+        "language": "Rust",
+        "stars": 6493,
+        "forks": 294,
+        "created_at": "2023-03-06T13:37:23Z",
+        "updated_at": "2025-03-03T23:29:30Z",
+        "topics": [
+            "imap",
+            "jmap",
+            "mail",
+            "pop3",
+            "rust",
+            "server",
+            "smtp"
+        ],
+        "quality_score": 1.05,
+        "contributors_count": 0,
+        "last_commit_date": "2025-03-02T16:04:46Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/7f6f5e4969f06b8d1808181b6ab81f62df95cd9e0dc73f8c866c42fd3b612b88/stalwartlabs/mail-server"
+        ],
+        "homepage": "https://stalw.art",
+        "readme_summary": "This repository provides an open-source mail server solution supporting JMAP, IMAP4, POP3, and SMTP protocols.  It features robust security measures, spam filtering, and advanced functionalities like distributed queues and message modification, making it suitable for various email handling needs.",
+        "key_features": [
+            "JMAP server with Sieve scripts, WebSocket, Blob Management, and Quotas extensions",
+            "IMAP4rev2 and IMAP4rev1 server with numerous extensions",
+            "POP3 server with extensions, STLS, and SASL support",
+            "ManageSieve server for managing Sieve scripts",
+            "SMTP server with built-in DMARC, DKIM, SPF, and ARC support",
+            "Strong transport security through DANE, MTA-STS, and SMTP TLS reporting",
+            "Inbound throttling and filtering with granular configuration rules, sieve scripting, MTA hooks, and milter integration",
+            "Distributed virtual queues with delayed delivery, priority delivery, quotas, routing rules, and throttling support",
+            "Envelope rewriting and message modification",
+            "Built-in Spam and Phishing filter with rules, LLM-driven filtering, statistical spam classifier, and DNS Blocklists checking"
+        ],
+        "primary_use_case": "Secure and modern all-in-one mail server",
+        "open_issues": 146
+    },
+    {
+        "id": 873824041,
+        "name": "rustowl",
+        "description": "Visualize Ownership and Lifetimes in Rust",
+        "url": "https://github.com/cordx56/rustowl",
+        "language": "Rust",
+        "stars": 4012,
+        "forks": 78,
+        "created_at": "2024-10-16T19:28:48Z",
+        "updated_at": "2025-03-04T01:02:48Z",
+        "topics": [
+            "lifetime",
+            "ownership",
+            "rust",
+            "visualization"
         ],
         "quality_score": 0.9500000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-25T09:26:05Z",
+        "last_commit_date": "2025-03-03T02:06:55Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/e2db2df932098566e063ed3df4e2243d46c61d7485b252f05e96a936ed5f056c/zan8in/afrog"
+            "https://opengraph.githubassets.com/99e8a78231baa669287d8675963cde9800884cc67fd87a40cfec0e261c8a47b0/cordx56/rustowl"
         ],
         "homepage": "",
-        "readme_summary": "Afrog is a security tool designed for bug bounty hunting, penetration testing, and red teaming activities.  It helps in identifying and exploiting vulnerabilities.  The tool is actively developed and maintained, with contributions from multiple developers.",
+        "readme_summary": "RustOwl is a tool that visualizes ownership and lifetimes in Rust code to aid debugging and optimization.  It uses color-coded underlines to represent different states of variables and integrates with various editors via VSCode extension, Neovim plugin, Emacs package, or a custom LSP client.  The tool analyzes Rust source code and provides visualizations upon hovering over variables or function calls.",
         "key_features": [
-            "Bug Bounty",
-            "Pentest",
-            "Red Teaming"
+            "Visualizes Rust ownership and lifetimes",
+            "Provides underlines to represent variable lifetimes (green: actual, blue: immutable borrow, purple: mutable borrow, orange: moved/function call, red: lifetime error)",
+            "Offers VSCode extension, Neovim plugin, and Emacs package",
+            "Uses an LSP server (cargo owlsp) for integration with other editors"
         ],
-        "primary_use_case": "A security tool for vulnerability research and exploitation",
-        "open_issues": 66
-    },
-    {
-        "id": 330008801,
-        "name": "SDL",
-        "description": "Simple Directmedia Layer",
-        "url": "https://github.com/libsdl-org/SDL",
-        "language": "C",
-        "stars": 11557,
-        "forks": 2025,
-        "created_at": "2021-01-15T19:55:54Z",
-        "updated_at": "2025-03-03T00:28:07Z",
-        "topics": [
-            "sdl",
-            "sdl2",
-            "sdl3"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-02T17:12:48Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/330008801/e466ed80-576b-11eb-93f8-bcb1604b399f"
-        ],
-        "homepage": "https://libsdl.org",
-        "readme_summary": "The Simple DirectMedia Layer (SDL) is a cross-platform library designed to simplify the creation of multimedia applications, including games and emulators.  It offers ease of use and broad compatibility across different operating systems.  SDL's primary purpose is to provide a streamlined interface for handling various multimedia tasks.",
-        "key_features": [
-            "Cross-platform compatibility",
-            "Ease of use for multimedia software development",
-            "Support for game and emulator development"
-        ],
-        "primary_use_case": "Development of multimedia software, such as games and emulators",
-        "open_issues": 509
-    },
-    {
-        "id": 661850205,
-        "name": "docuseal",
-        "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-        "url": "https://github.com/docusealco/docuseal",
-        "language": "Ruby",
-        "stars": 8751,
-        "forks": 599,
-        "created_at": "2023-07-03T19:54:54Z",
-        "updated_at": "2025-03-02T21:53:16Z",
-        "topics": [
-            "daisyui",
-            "document-signing",
-            "documents",
-            "e-signature",
-            "github-catalyst",
-            "hotwired-turbo",
-            "legaltech",
-            "open-source",
-            "pdf",
-            "pdf-sign",
-            "pdf-signature",
-            "ruby-on-rails",
-            "self-hosted",
-            "tailwindcss",
-            "vuejs",
-            "webpack"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-02T13:37:12Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/661850205/377ad724-388b-487b-a27a-a3c5373b4d65"
-        ],
-        "homepage": "https://www.docuseal.com",
-        "readme_summary": "DocuSeal is an open-source platform for secure digital document signing and processing.  It allows users to create and manage fillable PDF forms with various field types, supports multiple submitters, and offers integrations via API and webhooks.  Deployment is simplified through Docker and various cloud platforms.",
-        "key_features": [
-            "PDF form fields builder (WYSIWYG)",
-            "12 field types available (Signature, Date, File, Checkbox etc.)",
-            "Multiple submitters per document",
-            "Automated emails via SMTP",
-            "Files storage on disk or AWS S3, Google Storage, Azure Cloud",
-            "Automatic PDF eSignature",
-            "PDF signature verification",
-            "Users management",
-            "Mobile-optimized",
-            "6 UI languages with signing available in 13 languages",
-            "API and Webhooks for integrations",
-            "Easy to deploy in minutes",
-            "Company logo and white-label",
-            "User roles",
-            "Automated reminders",
-            "Invitation and identify verification via SMS",
-            "Conditional fields and formulas",
-            "Bulk send with CSV, XLSX spreadsheet import",
-            "SSO / SAML",
-            "Template creation with HTML API",
-            "Template creation with PDF or DOCX and field tags API",
-            "Embedded signing form",
-            "Embedded document form builder"
-        ],
-        "primary_use_case": "Open source document filling and signing",
-        "open_issues": 46
+        "primary_use_case": "Debugging and optimization of Rust code by visualizing ownership and lifetimes",
+        "open_issues": 18
     }
 ]

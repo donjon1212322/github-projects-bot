@@ -1,0 +1,7 @@
+{
+    "project_id": 873824041,
+    "content": "💡 <b>rustowl</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nDebugging and optimization of Rust code by visualizing ownership and lifetimes\n<br>\n✨ <b>Key Features:</b>\n• Visualizes Rust ownership and lifetimes\n• Provides underlines to represent variable lifetimes (green: actual, blue: immutable borrow, purple: mutable borrow, orange: moved/function call, red: lifetime error)\n<br>\n📖 <b>Summary:</b>\nRustOwl is a tool that visualizes ownership and lifetimes in Rust code to aid debugging and optimization.  It uses color-coded underlines to represent different states of variables and integrates with various editors via VSCode extension, Neovim plugin, Emacs package, or a custom LSP client.  The tool analyzes Rust source code and provides visualizations upon hovering over variables or function calls.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cordx56/rustowl?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/99e8a78231baa669287d8675963cde9800884cc67fd87a40cfec0e261c8a47b0/cordx56/rustowl",
+    "platform": "telegram",
+    "quality_score": 0.9500000000000001
+}
