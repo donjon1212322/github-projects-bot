@@ -1,7 +1,0 @@
-{
-    "project_id": 718379614,
-    "content": "🌟 <b>gpt-crawler</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating custom GPTs and assistants from website content\n<br>\n✨ <b>Key Features:</b>\n• Crawl websites to generate knowledge files\n• Supports configuration via a config.ts file\n• Allows specifying selectors for content extraction\n• Provides options for limiting the number of crawled pages\n• Outputs data to a JSON file\n<br>\n📖 <b>Summary:</b>\nThis repository provides a crawler to extract data from websites, which can then be used to create custom GPTs or assistants on OpenAI.  It allows for configuration of the crawl parameters such as URL, selectors, and maximum pages. The extracted data is outputted as a JSON file.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BuilderIO/gpt-crawler?embed=0\">View Project</a>\n• <a href=\"https://www.builder.io/blog/custom-gpt?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/384301a5d2d37be56f1d72fcdf20eb93d271d286e7f0842593cfe4536bbe88c1/BuilderIO/gpt-crawler",
-    "platform": "telegram",
-    "quality_score": 0.8
-}
