@@ -1,0 +1,7 @@
+{
+    "project_id": 495863734,
+    "content": "💡 <b>readyset</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nImproving the performance and scalability of database reads by caching query results\n<br>\n✨ <b>Key Features:</b>\n• Transparent database cache for Postgres & MySQL\n• Performance and scalability of an in-memory key-value store\n• Automatic cache invalidation\n• Synchronization of cached query results with the database using database replication stream\n• Wire-compatible with Postgres and MySQL\n<br>\n📖 <b>Summary:</b>\nReadySet is a database cache that enhances the speed and scalability of Postgres and MySQL databases.  It automatically handles cache invalidation and synchronization, working seamlessly with existing applications and tools.  This is achieved by leveraging the database's replication stream for efficient cache management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/readysettech/readyset?embed=0\">View Project</a>\n• <a href=\"https://readyset.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/91f0efb40900e19190ffaa0967d6d80ed9f723f2a5a4a15e869beb5b74856c74/readysettech/readyset",
+    "platform": "telegram",
+    "quality_score": 1.0
+}
