@@ -1,7 +1,0 @@
-{
-    "project_id": 16005513,
-    "content": "✨ <b>wireless-ids</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nWireless Intrusion Detection System (IDS)\n<br>\n✨ <b>Key Features:</b>\n• Detect mass deauthentication packets indicating WPA attacks\n• Detect continuous data sent to access point using broadcast MAC address (WEP attacks)\n<br>\n📖 <b>Summary:</b>\nThis Python-based Wireless IDS sniffs air traffic for suspicious activities like WEP/WPA/WPS attacks.  It detects various attack types, including deauthentication floods, rogue access points, and specific attack packets from tools like Aircrack-NG and MDK3.  The system offers logging and customizable settings for enhanced monitoring.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SYWorks/wireless-ids?embed=0\">View Project</a>\n• <a href=\"https://www.facebook.com/media/set/?set=a.767725556588881.1073741830.281645261863582?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/d499eb92ce7a63be01fd38d947725fd3860a277ab29a6e4e11543b4e2ee8c763/SYWorks/wireless-ids",
-    "platform": "telegram",
-    "quality_score": 0.4
-}
