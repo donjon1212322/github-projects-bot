@@ -1,0 +1,7 @@
+{
+    "project_id": 92297825,
+    "content": "🔥 <b>Shizuku</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling apps to perform privileged operations without requiring root access directly, by leveraging ADB or root to run a server process.\n<br>\n✨ <b>Key Features:</b>\n• Allows normal apps to use system APIs with adb/root privileges.\n• Acts as a middleman to forward requests from apps to the system server.\n<br>\n📖 <b>Summary:</b>\nShizuku enables applications to access system APIs with elevated privileges, typically requiring root, by acting as an intermediary. It achieves this by running a server process with ADB or root permissions, allowing apps to bypass certain permission restrictions and perform privileged operations without direct root access. This approach offers a more reliable and flexible alternative to traditional methods that involve executing commands in a su shell.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/RikkaApps/Shizuku?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/56cf9e429fc1e05d2edb18d64b8708271950560b186335cd19d193fbea7218bd/RikkaApps/Shizuku",
+    "platform": "telegram",
+    "quality_score": 1.1
+}

@@ -1,65 +1,23 @@
 [
     {
-        "project_id": 939559421,
-        "content": "🌟 <b>chirp</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTransmit and receive data through sound using a simple encoding scheme to convert text into audio frequencies\n<br>\n✨ <b>Key Features:</b>\n• Real-time frequency visualization of audio input\n• Send messages by converting text to sound\n• Receive messages by listening to sound and decoding it back to text\n• Distinctive start and end signatures to mark transmissions\n<br>\n📖 <b>Summary:</b>\nThis application enables real-time data transmission via sound.  It encodes text into audio frequencies, transmits them, and decodes the received frequencies back into text, using start and end signatures for message demarcation.  A real-time frequency visualization aids in monitoring the process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/solst-ice/chirp?embed=0\">View Project</a>\n• <a href=\"http://chirp.hex.dance/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4d21081b5c9390f9f20eed376902cbeb609cf092371a4351d5ee0915770f47a7/solst-ice/chirp",
+        "project_id": 92297825,
+        "content": "🔥 <b>Shizuku</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling apps to perform privileged operations without requiring root access directly, by leveraging ADB or root to run a server process.\n<br>\n✨ <b>Key Features:</b>\n• Allows normal apps to use system APIs with adb/root privileges.\n• Acts as a middleman to forward requests from apps to the system server.\n<br>\n📖 <b>Summary:</b>\nShizuku enables applications to access system APIs with elevated privileges, typically requiring root, by acting as an intermediary. It achieves this by running a server process with ADB or root permissions, allowing apps to bypass certain permission restrictions and perform privileged operations without direct root access. This approach offers a more reliable and flexible alternative to traditional methods that involve executing commands in a su shell.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/RikkaApps/Shizuku?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/56cf9e429fc1e05d2edb18d64b8708271950560b186335cd19d193fbea7218bd/RikkaApps/Shizuku",
         "platform": "telegram",
-        "quality_score": 0.7499999999999999
-    },
-    {
-        "project_id": 942254700,
-        "content": "🚀 <b>anon-kode</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTerminal-based AI coding assistant\n<br>\n✨ <b>Key Features:</b>\n• Fixes code\n• Explains code functionality\n• Runs tests and shell commands\n• Uses OpenAI-style API compatible models\n<br>\n📖 <b>Summary:</b>\nAnon Kode is a terminal-based AI coding tool utilizing OpenAI-style APIs.  It offers code fixing, functionality explanation, and execution of tests and shell commands.  The tool supports custom model selection and provides a built-in bug reporting mechanism.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dnakov/anon-kode?embed=0\">View Project</a>\n• <a href=\"https://github.com/dnakov/anon-kode?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/942254700/fa61901c-b698-44cc-ab15-e5881426596a",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 899058096,
-        "content": "🔥 <b>Leffa</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating high-quality person images with precise control over appearance and pose, minimizing distortion of fine-grained details.\n<br>\n✨ <b>Key Features:</b>\n• Controllable person image generation\n• Virtual try-on\n• Pose transfer\n• Diffusion-based model\n• Attention mechanism\n<br>\n📖 <b>Summary:</b>\nLeffa is a unified framework for controllable person image generation, enabling precise manipulation of appearance and pose.  It uses a novel flow field regularization in the attention layer to reduce distortion in virtual try-on and pose transfer tasks.  The model supports float16 inference for faster generation and is designed to be model-agnostic, improving performance of other diffusion models.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/franciszzj/Leffa?embed=0\">View Project</a>\n• <a href=\"https://huggingface.co/spaces/franciszzj/Leffa?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e47544b390e9ead69f77a8b7e1cfc3729dd99f1c457de70130e219a52cacb6b2/franciszzj/Leffa",
-        "platform": "telegram",
-        "quality_score": 0.8500000000000001
-    },
-    {
-        "project_id": 96237042,
-        "content": "✨ <b>revive</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nLinting Go code\n<br>\n✨ <b>Key Features:</b>\n• Configurable rules via TOML file\n• Rule enabling/disabling\n• Fast performance (2x faster than golint)\n• Per-file/line-range linter disabling\n• Optional type checking for performance optimization\n<br>\n📖 <b>Summary:</b>\nRevive is a fast and highly configurable linter for Go code, offering features like rule customization, per-file disabling, optional type checking, and extensibility.  It serves as a drop-in replacement for golint, providing enhanced performance and flexibility for code review and development processes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mgechev/revive?embed=0\">View Project</a>\n• <a href=\"https://revive.run?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/96237042/02654200-7410-11e9-8fd2-f9e53ad47330",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 453983760,
-        "content": "💡 <b>tweet-machine</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nOSINT (Open-Source Intelligence) investigation to recover deleted Twitter data\n<br>\n✨ <b>Key Features:</b>\n• Retrieves deleted tweets and replies from any Twitter user, even suspended accounts\n<br>\n📖 <b>Summary:</b>\nTweet-Machine is a Twitter OSINT tool that retrieves deleted tweets and replies.  It produces three output files containing direct links, Wayback Machine links (for unavailable direct links), and a tweet timeline. This is useful for investigations where deleted Twitter data is relevant.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/0xcyberpj/tweet-machine?embed=0\">View Project</a>\n• <a href=\"https://github.com/0xcyberpj/tweet-machine?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9aa49a8100a73984b33422a7c42e0564fe3ae24a84c349ab4e36635ca895a477/0xcyberpj/tweet-machine",
-        "platform": "telegram",
-        "quality_score": 0.7
+        "quality_score": 1.1
     },
     {
         "project_id": 774468912,
-        "content": "💡 <b>superfile</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nFile management and operations\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform support (Linux, macOS, Windows)\n• Customizable themes\n• Customizable hotkeys\n• Plugin support\n• Installation via bash script (Linux/macOS), PowerShell script (Windows), and Scoop (Windows)\n<br>\n📖 <b>Summary:</b>\nSuperfile is a cross-platform file management tool with support for Linux, macOS, and Windows.  It offers extensive customization options, including themes and hotkeys, and allows for extension via plugins. Installation is straightforward using various methods depending on the operating system.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yorukot/superfile?embed=0\">View Project</a>\n• <a href=\"https://superfile.netlify.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "content": "🌟 <b>superfile</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nModern terminal-based file management for improved efficiency and organization.\n<br>\n✨ <b>Key Features:</b>\n• Terminal-based file management\n• Cross-platform support (Linux, MacOS, Windows)\n• Customizable themes\n• Plugin support\n• Hotkey customization\n<br>\n📖 <b>Summary:</b>\nSuperfile is a terminal-based file manager written in Go, designed to provide a modern and efficient way to navigate and manage files. It supports cross-platform usage (Linux, MacOS, and Windows) and offers features like customizable themes, plugin support, and hotkey customization to enhance the user experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yorukot/superfile?embed=0\">View Project</a>\n• <a href=\"https://superfile.netlify.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
         "media_url": "https://repository-images.githubusercontent.com/774468912/db3881a5-05bd-4493-93b3-4da939b858ed",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
         "project_id": 872550457,
-        "content": "💡 <b>Director</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding video agents to perform complex video tasks such as search, editing, compilation, and generation, and instantly streaming the results.\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\nDirector is a framework for building video agents that can process complex video tasks.  It features a chat-based interface, integrates with various AI APIs, and offers pre-built agents for tasks like summarization, editing, and generation.  The framework is built on VideoDB's video-as-data infrastructure.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/video-db/Director?embed=0\">View Project</a>\n• <a href=\"https://chat.videodb.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e33f4de7886e27ddbd01aa3dedb62e9552b83e0ee6e7696f9aab53f8fbc8a2d7/video-db/Director",
+        "content": "✨ <b>Director</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding video agents that can reason through complex video tasks like search, editing, compilation, and generation, and instantly stream the results.\n<br>\n✨ <b>Key Features:</b>\n• 20+ pre-built video agents that you can customize\n• Sleek, chat-based interface with built-in video playback\n<br>\n📖 <b>Summary:</b>\nDirector is a framework for building AI-powered video agents that can automate complex video tasks. It leverages VideoDB's 'video-as-data' infrastructure and offers features like pre-built agents, a chat-based interface, and seamless integration with various AI tools, enabling users to simplify media workflows and unlock new possibilities in video processing and editing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/video-db/Director?embed=0\">View Project</a>\n• <a href=\"https://chat.videodb.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4ffadb4ce76eb2edc0463a238c6d81987efa6e2abc5b139b821ba5ef48c30bf1/video-db/Director",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 488620801,
-        "content": "🚀 <b>fingerprint-suite</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating and injecting realistic browser fingerprints to bypass website anti-scraping measures\n<br>\n✨ <b>Key Features:</b>\n• Browser fingerprint generation\n• HTTP header generation\n• Browser fingerprint injection into Playwright and Puppeteer\n• Modular design with separate npm packages\n• Bayesian generative network for realistic fingerprint generation\n<br>\n📖 <b>Summary:</b>\nThe fingerprint-suite is a collection of npm packages for creating and injecting browser fingerprints.  It helps avoid detection by websites using fingerprinting techniques by generating realistic HTTP headers and browser fingerprints for use with Playwright or Puppeteer.  The suite includes tools for generating fingerprints, headers, and injecting them into a browser instance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/apify/fingerprint-suite?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6f0b07170340d066dfd822b927f1f6ed8ddfc8a7b322b8b4bd47a2e42addd9ac/apify/fingerprint-suite",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 798970840,
-        "content": "✨ <b>Flexbox-Labs</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nVisual tool for creating CSS Flexbox layouts\n<br>\n✨ <b>Key Features:</b>\n• Live Preview\n• Playground Customization\n• Undo and Redo Changes\n• Edit Flex Properties\n• Save/Load Layouts\n<br>\n📖 <b>Summary:</b>\nFlexbox Labs is a visual tool that helps you create layouts using CSS Flexbox.  It offers an intuitive interface with real-time previews, allowing for easy experimentation and learning.  Users can add, delete, or duplicate items, edit properties, save layouts, and export the generated HTML and CSS code.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/prazzon/Flexbox-Labs?embed=0\">View Project</a>\n• <a href=\"https://flexboxlabs.netlify.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/798970840/004d7be1-43db-46d2-942b-672aa5f0a7fb",
-        "platform": "telegram",
-        "quality_score": 0.75
     }
 ]

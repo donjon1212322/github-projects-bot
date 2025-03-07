@@ -1,169 +1,31 @@
 [
     {
-        "id": 939559421,
-        "name": "chirp",
-        "description": "Send data with sound",
-        "url": "https://github.com/solst-ice/chirp",
-        "language": "TypeScript",
-        "stars": 375,
-        "forks": 37,
-        "created_at": "2025-02-26T18:27:03Z",
-        "updated_at": "2025-03-06T23:49:22Z",
+        "id": 92297825,
+        "name": "Shizuku",
+        "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
+        "url": "https://github.com/RikkaApps/Shizuku",
+        "language": "Kotlin",
+        "stars": 12991,
+        "forks": 787,
+        "created_at": "2017-05-24T13:53:49Z",
+        "updated_at": "2025-03-07T09:00:45Z",
         "topics": [],
-        "quality_score": 0.7499999999999999,
+        "quality_score": 1.1,
         "contributors_count": 0,
-        "last_commit_date": "2025-03-02T18:18:39Z",
+        "last_commit_date": "2025-02-14T00:36:46Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/4d21081b5c9390f9f20eed376902cbeb609cf092371a4351d5ee0915770f47a7/solst-ice/chirp"
+            "https://opengraph.githubassets.com/56cf9e429fc1e05d2edb18d64b8708271950560b186335cd19d193fbea7218bd/RikkaApps/Shizuku"
         ],
-        "homepage": "http://chirp.hex.dance/",
-        "readme_summary": "This application enables real-time data transmission via sound.  It encodes text into audio frequencies, transmits them, and decodes the received frequencies back into text, using start and end signatures for message demarcation.  A real-time frequency visualization aids in monitoring the process.",
+        "homepage": "",
+        "readme_summary": "Shizuku enables applications to access system APIs with elevated privileges, typically requiring root, by acting as an intermediary. It achieves this by running a server process with ADB or root permissions, allowing apps to bypass certain permission restrictions and perform privileged operations without direct root access. This approach offers a more reliable and flexible alternative to traditional methods that involve executing commands in a su shell.",
         "key_features": [
-            "Real-time frequency visualization of audio input",
-            "Send messages by converting text to sound",
-            "Receive messages by listening to sound and decoding it back to text",
-            "Distinctive start and end signatures to mark transmissions"
+            "Allows normal apps to use system APIs with adb/root privileges.",
+            "Acts as a middleman to forward requests from apps to the system server.",
+            "Provides a way to bypass permission limitations for certain operations."
         ],
-        "primary_use_case": "Transmit and receive data through sound using a simple encoding scheme to convert text into audio frequencies",
-        "open_issues": 1
-    },
-    {
-        "id": 942254700,
-        "name": "anon-kode",
-        "description": "koding with any LLMs",
-        "url": "https://github.com/dnakov/anon-kode",
-        "language": "JavaScript",
-        "stars": 791,
-        "forks": 302,
-        "created_at": "2025-03-03T20:25:47Z",
-        "updated_at": "2025-03-07T00:53:14Z",
-        "topics": [
-            "ai",
-            "code",
-            "llm",
-            "ollama",
-            "openai"
-        ],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-06T15:02:15Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/942254700/fa61901c-b698-44cc-ab15-e5881426596a"
-        ],
-        "homepage": "https://github.com/dnakov/anon-kode",
-        "readme_summary": "Anon Kode is a terminal-based AI coding tool utilizing OpenAI-style APIs.  It offers code fixing, functionality explanation, and execution of tests and shell commands.  The tool supports custom model selection and provides a built-in bug reporting mechanism.",
-        "key_features": [
-            "Fixes code",
-            "Explains code functionality",
-            "Runs tests and shell commands",
-            "Uses OpenAI-style API compatible models"
-        ],
-        "primary_use_case": "Terminal-based AI coding assistant",
-        "open_issues": 1
-    },
-    {
-        "id": 899058096,
-        "name": "Leffa",
-        "description": "[CVPR 2025] Learning Flow Fields in Attention for Controllable Person Image Generation",
-        "url": "https://github.com/franciszzj/Leffa",
-        "language": "Python",
-        "stars": 1324,
-        "forks": 144,
-        "created_at": "2024-12-05T14:45:51Z",
-        "updated_at": "2025-03-06T23:22:19Z",
-        "topics": [],
-        "quality_score": 0.8500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-07T11:52:54Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/e47544b390e9ead69f77a8b7e1cfc3729dd99f1c457de70130e219a52cacb6b2/franciszzj/Leffa"
-        ],
-        "homepage": "https://huggingface.co/spaces/franciszzj/Leffa",
-        "readme_summary": "Leffa is a unified framework for controllable person image generation, enabling precise manipulation of appearance and pose.  It uses a novel flow field regularization in the attention layer to reduce distortion in virtual try-on and pose transfer tasks.  The model supports float16 inference for faster generation and is designed to be model-agnostic, improving performance of other diffusion models.",
-        "key_features": [
-            "Controllable person image generation",
-            "Virtual try-on",
-            "Pose transfer",
-            "Diffusion-based model",
-            "Attention mechanism",
-            "Flow field regularization",
-            "Float16 inference (6 seconds on A100)",
-            "Model-agnostic loss function"
-        ],
-        "primary_use_case": "Generating high-quality person images with precise control over appearance and pose, minimizing distortion of fine-grained details.",
-        "open_issues": 17
-    },
-    {
-        "id": 96237042,
-        "name": "revive",
-        "description": "🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint",
-        "url": "https://github.com/mgechev/revive",
-        "language": "Go",
-        "stars": 4986,
-        "forks": 290,
-        "created_at": "2017-07-04T16:36:32Z",
-        "updated_at": "2025-03-06T23:43:12Z",
-        "topics": [
-            "go",
-            "golang",
-            "golint",
-            "hacktoberfest",
-            "linter",
-            "static-analysis",
-            "static-code-analysis"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-06T21:47:09Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/96237042/02654200-7410-11e9-8fd2-f9e53ad47330"
-        ],
-        "homepage": "https://revive.run",
-        "readme_summary": "Revive is a fast and highly configurable linter for Go code, offering features like rule customization, per-file disabling, optional type checking, and extensibility.  It serves as a drop-in replacement for golint, providing enhanced performance and flexibility for code review and development processes.",
-        "key_features": [
-            "Configurable rules via TOML file",
-            "Rule enabling/disabling",
-            "Fast performance (2x faster than golint)",
-            "Per-file/line-range linter disabling",
-            "Optional type checking for performance optimization",
-            "Multiple output formatters",
-            "Customizable return codes",
-            "Extensible with custom rules and formatters",
-            "More rules compared to golint"
-        ],
-        "primary_use_case": "Linting Go code",
-        "open_issues": 35
-    },
-    {
-        "id": 453983760,
-        "name": "tweet-machine",
-        "description": "This tool can retrieve :  1.Deleted tweets and replies ,Even if The account is suspended  2 .Old bios and Timestamp of The tweets",
-        "url": "https://github.com/0xcyberpj/tweet-machine",
-        "language": "Shell",
-        "stars": 207,
-        "forks": 23,
-        "created_at": "2022-01-31T11:43:06Z",
-        "updated_at": "2025-03-06T22:01:36Z",
-        "topics": [
-            "ctf",
-            "osint",
-            "osint-tool",
-            "socmint"
-        ],
-        "quality_score": 0.7,
-        "contributors_count": 0,
-        "last_commit_date": "2023-03-11T14:53:16Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/9aa49a8100a73984b33422a7c42e0564fe3ae24a84c349ab4e36635ca895a477/0xcyberpj/tweet-machine"
-        ],
-        "homepage": "https://github.com/0xcyberpj/tweet-machine",
-        "readme_summary": "Tweet-Machine is a Twitter OSINT tool that retrieves deleted tweets and replies.  It produces three output files containing direct links, Wayback Machine links (for unavailable direct links), and a tweet timeline. This is useful for investigations where deleted Twitter data is relevant.",
-        "key_features": [
-            "Retrieves deleted tweets and replies from any Twitter user, even suspended accounts",
-            "Generates three output files: a text file with tweet and reply direct links, a text file with Wayback Machine links for tweets with broken direct links, and a text file containing the timeline of each tweet"
-        ],
-        "primary_use_case": "OSINT (Open-Source Intelligence) investigation to recover deleted Twitter data",
-        "open_issues": 1
+        "primary_use_case": "Enabling apps to perform privileged operations without requiring root access directly, by leveraging ADB or root to run a server process.",
+        "open_issues": 173,
+        "cover_image_prompt": "Imagine a skilled artisan crafting intricate puppets, each representing an Android application. The artisan uses special threads, symbolizing system APIs, to control the puppets with precision and power beyond their normal reach. A grand stage represents the Android system, where the puppets perform feats impossible without the artisan's guidance. Subtle UI elements and glowing data streams weave around the scene, connecting the puppets to the digital world. The repository name, 'Shizuku,' is subtly etched onto the artisan's workbench. The image should be in a vibrant, detailed 3D isometric illustration style with a warm, inviting color scheme."
     },
     {
         "id": 774468912,
@@ -171,10 +33,10 @@
         "description": "Pretty fancy and modern terminal file manager",
         "url": "https://github.com/yorukot/superfile",
         "language": "Go",
-        "stars": 12884,
+        "stars": 12896,
         "forks": 310,
         "created_at": "2024-03-19T15:49:52Z",
-        "updated_at": "2025-03-07T00:06:56Z",
+        "updated_at": "2025-03-07T08:50:30Z",
         "topics": [
             "bubbletea",
             "cli",
@@ -195,16 +57,17 @@
             "https://repository-images.githubusercontent.com/774468912/db3881a5-05bd-4493-93b3-4da939b858ed"
         ],
         "homepage": "https://superfile.netlify.app",
-        "readme_summary": "Superfile is a cross-platform file management tool with support for Linux, macOS, and Windows.  It offers extensive customization options, including themes and hotkeys, and allows for extension via plugins. Installation is straightforward using various methods depending on the operating system.",
+        "readme_summary": "Superfile is a terminal-based file manager written in Go, designed to provide a modern and efficient way to navigate and manage files. It supports cross-platform usage (Linux, MacOS, and Windows) and offers features like customizable themes, plugin support, and hotkey customization to enhance the user experience.",
         "key_features": [
-            "Cross-platform support (Linux, macOS, Windows)",
+            "Terminal-based file management",
+            "Cross-platform support (Linux, MacOS, Windows)",
             "Customizable themes",
-            "Customizable hotkeys",
             "Plugin support",
-            "Installation via bash script (Linux/macOS), PowerShell script (Windows), and Scoop (Windows)"
+            "Hotkey customization"
         ],
-        "primary_use_case": "File management and operations",
-        "open_issues": 76
+        "primary_use_case": "Modern terminal-based file management for improved efficiency and organization.",
+        "open_issues": 76,
+        "cover_image_prompt": "A skilled cartographer in a high-tech workshop, meticulously organizing scattered files and documents into a beautifully structured, interactive map displayed on a large holographic table. The cartographer uses advanced tools to categorize and link files, creating a seamless and intuitive file management system. Small screens around the table show file paths and directory structures. The scene is set in a brightly lit, modern workspace with a clean and organized aesthetic. The image should be in a 3D isometric illustration style with vibrant colors and sharp details."
     },
     {
         "id": 872550457,
@@ -212,10 +75,10 @@
         "description": "AI video agents framework for next-gen video interactions and workflows.",
         "url": "https://github.com/video-db/Director",
         "language": "Python",
-        "stars": 782,
+        "stars": 783,
         "forks": 98,
         "created_at": "2024-10-14T16:22:12Z",
-        "updated_at": "2025-03-06T22:47:47Z",
+        "updated_at": "2025-03-07T01:46:56Z",
         "topics": [
             "agent",
             "agent-framework",
@@ -234,89 +97,17 @@
         "contributors_count": 0,
         "last_commit_date": "2025-03-05T05:38:09Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/e33f4de7886e27ddbd01aa3dedb62e9552b83e0ee6e7696f9aab53f8fbc8a2d7/video-db/Director"
+            "https://opengraph.githubassets.com/4ffadb4ce76eb2edc0463a238c6d81987efa6e2abc5b139b821ba5ef48c30bf1/video-db/Director"
         ],
         "homepage": "https://chat.videodb.io",
-        "readme_summary": "Director is a framework for building video agents that can process complex video tasks.  It features a chat-based interface, integrates with various AI APIs, and offers pre-built agents for tasks like summarization, editing, and generation.  The framework is built on VideoDB's video-as-data infrastructure.",
+        "readme_summary": "Director is a framework for building AI-powered video agents that can automate complex video tasks. It leverages VideoDB's 'video-as-data' infrastructure and offers features like pre-built agents, a chat-based interface, and seamless integration with various AI tools, enabling users to simplify media workflows and unlock new possibilities in video processing and editing.",
         "key_features": [
-            "20+ pre-built video agents customizable for video summarization, movie generation with voiceovers, media library search and indexing, content organization and clipping, audio/video dubbing and editing, subtitle translation and addition",
-            "Chat-based interface with built-in video playback and intuitive controls",
-            "Integration with LLMs, databases, and GenAI APIs via VideoDB video infrastructure"
+            "20+ pre-built video agents that you can customize",
+            "Sleek, chat-based interface with built-in video playback",
+            "Seamless connection with powerful AI tools like LLMs, databases, and GenAI APIs"
         ],
-        "primary_use_case": "Building video agents to perform complex video tasks such as search, editing, compilation, and generation, and instantly streaming the results.",
-        "open_issues": 13
-    },
-    {
-        "id": 488620801,
-        "name": "fingerprint-suite",
-        "description": "Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.",
-        "url": "https://github.com/apify/fingerprint-suite",
-        "language": "TypeScript",
-        "stars": 1232,
-        "forks": 125,
-        "created_at": "2022-05-04T14:25:01Z",
-        "updated_at": "2025-03-07T00:52:39Z",
-        "topics": [
-            "fingerprinting",
-            "playwright",
-            "puppeteer",
-            "scraping",
-            "typescript"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-03T05:06:20Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/6f0b07170340d066dfd822b927f1f6ed8ddfc8a7b322b8b4bd47a2e42addd9ac/apify/fingerprint-suite"
-        ],
-        "homepage": "",
-        "readme_summary": "The fingerprint-suite is a collection of npm packages for creating and injecting browser fingerprints.  It helps avoid detection by websites using fingerprinting techniques by generating realistic HTTP headers and browser fingerprints for use with Playwright or Puppeteer.  The suite includes tools for generating fingerprints, headers, and injecting them into a browser instance.",
-        "key_features": [
-            "Browser fingerprint generation",
-            "HTTP header generation",
-            "Browser fingerprint injection into Playwright and Puppeteer",
-            "Modular design with separate npm packages",
-            "Bayesian generative network for realistic fingerprint generation"
-        ],
-        "primary_use_case": "Generating and injecting realistic browser fingerprints to bypass website anti-scraping measures",
-        "open_issues": 22
-    },
-    {
-        "id": 798970840,
-        "name": "Flexbox-Labs",
-        "description": "A web app for creating flexible layouts with the power of CSS Flexbox.",
-        "url": "https://github.com/prazzon/Flexbox-Labs",
-        "language": "TypeScript",
-        "stars": 2327,
-        "forks": 222,
-        "created_at": "2024-05-10T21:25:13Z",
-        "updated_at": "2025-03-06T21:05:33Z",
-        "topics": [
-            "framer-motion",
-            "react",
-            "sass",
-            "typescript",
-            "typescript-react",
-            "vite"
-        ],
-        "quality_score": 0.75,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-08T22:37:14Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/798970840/004d7be1-43db-46d2-942b-672aa5f0a7fb"
-        ],
-        "homepage": "https://flexboxlabs.netlify.app/",
-        "readme_summary": "Flexbox Labs is a visual tool that helps you create layouts using CSS Flexbox.  It offers an intuitive interface with real-time previews, allowing for easy experimentation and learning.  Users can add, delete, or duplicate items, edit properties, save layouts, and export the generated HTML and CSS code.",
-        "key_features": [
-            "Live Preview",
-            "Playground Customization",
-            "Undo and Redo Changes",
-            "Edit Flex Properties",
-            "Save/Load Layouts",
-            "Pre-build Layouts",
-            "Export HTML and CSS Code"
-        ],
-        "primary_use_case": "Visual tool for creating CSS Flexbox layouts",
-        "open_issues": 1
+        "primary_use_case": "Building video agents that can reason through complex video tasks like search, editing, compilation, and generation, and instantly stream the results.",
+        "open_issues": 13,
+        "cover_image_prompt": "Imagine a film director standing on a bustling movie set, orchestrating various scenes with multiple video screens displaying different clips. The director uses a tablet to issue natural language commands, which are instantly translated into complex video editing tasks being performed by AI assistants. The set is filled with subtle tech elements like glowing data streams and small code snippets overlaid on the video screens. The scene is set in a modern, high-tech studio with bright, focused lighting. The image should be in a 3D isometric illustration style with vibrant colors and crisp details, conveying a sense of seamless video creation and control."
     }
 ]
