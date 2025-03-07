@@ -1,31 +1,87 @@
 [
     {
-        "id": 92297825,
-        "name": "Shizuku",
-        "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
-        "url": "https://github.com/RikkaApps/Shizuku",
-        "language": "Kotlin",
-        "stars": 12991,
-        "forks": 787,
-        "created_at": "2017-05-24T13:53:49Z",
-        "updated_at": "2025-03-07T09:00:45Z",
-        "topics": [],
-        "quality_score": 1.1,
+        "id": 910418754,
+        "name": "nanobrowser",
+        "description": "Open-source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
+        "url": "https://github.com/nanobrowser/nanobrowser",
+        "language": "TypeScript",
+        "stars": 91,
+        "forks": 11,
+        "created_at": "2024-12-31T08:11:27Z",
+        "updated_at": "2025-03-07T10:06:08Z",
+        "topics": [
+            "agent",
+            "ai",
+            "ai-agents",
+            "ai-tools",
+            "artificial-intelligence",
+            "automation",
+            "browser-extension",
+            "browser-use",
+            "chrome-extension",
+            "langchain",
+            "llm",
+            "multi-agent",
+            "open-source",
+            "openai",
+            "operator",
+            "web-automation"
+        ],
+        "quality_score": 0.7,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-14T00:36:46Z",
+        "last_commit_date": "2025-03-07T07:20:07Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/56cf9e429fc1e05d2edb18d64b8708271950560b186335cd19d193fbea7218bd/RikkaApps/Shizuku"
+            "https://opengraph.githubassets.com/e6809ddbbb5fb2bfaf2f74c00dd14adbcdbdeb5137f366b8b7afdccba32022ed/nanobrowser/nanobrowser"
         ],
         "homepage": "",
-        "readme_summary": "Shizuku enables applications to access system APIs with elevated privileges, typically requiring root, by acting as an intermediary. It achieves this by running a server process with ADB or root permissions, allowing apps to bypass certain permission restrictions and perform privileged operations without direct root access. This approach offers a more reliable and flexible alternative to traditional methods that involve executing commands in a su shell.",
+        "readme_summary": "Nanobrowser is an open-source Chrome extension that enables AI-driven web automation using a multi-agent system. It allows users to automate tasks, interact with web content through an interactive side panel, and connect to various LLM providers, all while maintaining privacy by running locally in the browser.",
         "key_features": [
-            "Allows normal apps to use system APIs with adb/root privileges.",
-            "Acts as a middleman to forward requests from apps to the system server.",
-            "Provides a way to bypass permission limitations for certain operations."
+            "Multi-agent System",
+            "Interactive Side Panel",
+            "Task Automation",
+            "Follow-up Questions",
+            "Conversation History",
+            "Multiple LLM Support"
         ],
-        "primary_use_case": "Enabling apps to perform privileged operations without requiring root access directly, by leveraging ADB or root to run a server process.",
-        "open_issues": 173,
-        "cover_image_prompt": "Imagine a skilled artisan crafting intricate puppets, each representing an Android application. The artisan uses special threads, symbolizing system APIs, to control the puppets with precision and power beyond their normal reach. A grand stage represents the Android system, where the puppets perform feats impossible without the artisan's guidance. Subtle UI elements and glowing data streams weave around the scene, connecting the puppets to the digital world. The repository name, 'Shizuku,' is subtly etched onto the artisan's workbench. The image should be in a vibrant, detailed 3D isometric illustration style with a warm, inviting color scheme."
+        "primary_use_case": "AI-powered web automation within a browser environment.",
+        "open_issues": 1,
+        "cover_image_prompt": "Imagine a team of tiny robot assistants meticulously navigating a vast, interconnected web of information, represented by glowing nodes and pathways. One robot, the 'Planner,' analyzes a complex blueprint projected onto a holographic screen, while another, the 'Navigator,' deftly clicks and scrolls through a website displayed on a nearby monitor. A 'Validator' robot double-checks the Navigator's work, ensuring accuracy. The scene is set in a miniature control room filled with subtle UI elements and data visualizations. The repository's name, 'Nanobrowser,' is subtly displayed on a control panel. The illustration should be in a clean, 3D isometric style with vibrant colors and clear details, conveying the concept of AI-powered web automation."
+    },
+    {
+        "id": 5152285,
+        "name": "okhttp",
+        "description": "Square’s meticulous HTTP client for the JVM, Android, and GraalVM.",
+        "url": "https://github.com/square/okhttp",
+        "language": "Kotlin",
+        "stars": 46188,
+        "forks": 9194,
+        "created_at": "2012-07-23T13:42:55Z",
+        "updated_at": "2025-03-07T08:32:52Z",
+        "topics": [
+            "android",
+            "graalvm",
+            "java",
+            "kotlin"
+        ],
+        "quality_score": 0.9500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-03-04T12:37:52Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/9872d8577c00adb78e22406d3b562288eca5f92dfe6ba430251035174802b3a5/square/okhttp"
+        ],
+        "homepage": "https://square.github.io/okhttp/",
+        "readme_summary": "OkHttp is an HTTP client designed for efficiency and reliability. It supports modern HTTP features like HTTP/2 and TLS 1.3, and automatically handles connection pooling, GZIP compression, and response caching. OkHttp is designed to improve application performance and resilience when interacting with networked services.",
+        "key_features": [
+            "HTTP/2 support for socket sharing",
+            "Connection pooling for reduced latency",
+            "Transparent GZIP for download size reduction",
+            "Response caching to avoid network requests",
+            "Automatic recovery from connection problems",
+            "Support for modern TLS features (TLS 1.3, ALPN, certificate pinning)"
+        ],
+        "primary_use_case": "An efficient HTTP client for JVM, Android, and GraalVM applications.",
+        "open_issues": 145,
+        "cover_image_prompt": "A skilled architect meticulously inspecting the blueprints of a towering skyscraper, ensuring each connection is flawless and secure. The architect uses a magnifying glass that reveals intricate network pathways within the building's structure, highlighting efficient data flow. Digital particles representing data packets stream seamlessly through the building's network. Small UI elements displaying HTTP requests and responses float subtly in the background. The scene is set in a modern architectural studio with soft, diffused lighting. The image should be in a clean, 3D isometric illustration style with a focus on clarity and precision."
     },
     {
         "id": 774468912,
@@ -57,57 +113,15 @@
             "https://repository-images.githubusercontent.com/774468912/db3881a5-05bd-4493-93b3-4da939b858ed"
         ],
         "homepage": "https://superfile.netlify.app",
-        "readme_summary": "Superfile is a terminal-based file manager written in Go, designed to provide a modern and efficient way to navigate and manage files. It supports cross-platform usage (Linux, MacOS, and Windows) and offers features like customizable themes, plugin support, and hotkey customization to enhance the user experience.",
+        "readme_summary": "Superfile is a terminal-based file manager written in Go, designed to provide a modern and efficient way to navigate and manipulate files. It offers cross-platform support, customizable themes and hotkeys, and plugin capabilities, enhancing the user's file management experience directly within the terminal.",
         "key_features": [
             "Terminal-based file management",
             "Cross-platform support (Linux, MacOS, Windows)",
-            "Customizable themes",
-            "Plugin support",
-            "Hotkey customization"
+            "Customizable themes and hotkeys",
+            "Plugin support"
         ],
-        "primary_use_case": "Modern terminal-based file management for improved efficiency and organization.",
+        "primary_use_case": "Efficiently manage files and directories within a terminal environment.",
         "open_issues": 76,
-        "cover_image_prompt": "A skilled cartographer in a high-tech workshop, meticulously organizing scattered files and documents into a beautifully structured, interactive map displayed on a large holographic table. The cartographer uses advanced tools to categorize and link files, creating a seamless and intuitive file management system. Small screens around the table show file paths and directory structures. The scene is set in a brightly lit, modern workspace with a clean and organized aesthetic. The image should be in a 3D isometric illustration style with vibrant colors and sharp details."
-    },
-    {
-        "id": 872550457,
-        "name": "Director",
-        "description": "AI video agents framework for next-gen video interactions and workflows.",
-        "url": "https://github.com/video-db/Director",
-        "language": "Python",
-        "stars": 783,
-        "forks": 98,
-        "created_at": "2024-10-14T16:22:12Z",
-        "updated_at": "2025-03-07T01:46:56Z",
-        "topics": [
-            "agent",
-            "agent-framework",
-            "ai-agents",
-            "framework",
-            "llm",
-            "openai",
-            "rag",
-            "search",
-            "text-to-video",
-            "video-editing",
-            "video-processing",
-            "videodb"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-05T05:38:09Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/4ffadb4ce76eb2edc0463a238c6d81987efa6e2abc5b139b821ba5ef48c30bf1/video-db/Director"
-        ],
-        "homepage": "https://chat.videodb.io",
-        "readme_summary": "Director is a framework for building AI-powered video agents that can automate complex video tasks. It leverages VideoDB's 'video-as-data' infrastructure and offers features like pre-built agents, a chat-based interface, and seamless integration with various AI tools, enabling users to simplify media workflows and unlock new possibilities in video processing and editing.",
-        "key_features": [
-            "20+ pre-built video agents that you can customize",
-            "Sleek, chat-based interface with built-in video playback",
-            "Seamless connection with powerful AI tools like LLMs, databases, and GenAI APIs"
-        ],
-        "primary_use_case": "Building video agents that can reason through complex video tasks like search, editing, compilation, and generation, and instantly stream the results.",
-        "open_issues": 13,
-        "cover_image_prompt": "Imagine a film director standing on a bustling movie set, orchestrating various scenes with multiple video screens displaying different clips. The director uses a tablet to issue natural language commands, which are instantly translated into complex video editing tasks being performed by AI assistants. The set is filled with subtle tech elements like glowing data streams and small code snippets overlaid on the video screens. The scene is set in a modern, high-tech studio with bright, focused lighting. The image should be in a 3D isometric illustration style with vibrant colors and crisp details, conveying a sense of seamless video creation and control."
+        "cover_image_prompt": "Imagine a skilled clockmaker meticulously assembling intricate gears within a grand clock tower. Each gear represents a file, and the clock tower symbolizes the file system. The clockmaker, with focused precision, arranges and connects these gears, ensuring the smooth and efficient operation of the entire system. Subtle UI elements are integrated into the clock face, displaying file paths and directory structures. The scene is bathed in warm, golden light, creating a sense of order and precision. The image should be in a detailed 3D isometric illustration style with vibrant colors and sharp focus."
     }
 ]
