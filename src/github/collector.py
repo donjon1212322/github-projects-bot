@@ -32,7 +32,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # Initialize Gemini model
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel("gemini-1.5-flash")
+model = genai.GenerativeModel("gemini-2.0-flash")
 
 async def fetch_telegram_posts(api_id, api_hash, channel_username, session_string):
     try:
@@ -58,7 +58,7 @@ async def fetch_telegram_posts(api_id, api_hash, channel_username, session_strin
             elif message.date and message.date <= last_day:
                 logging.info(f"Достигнут предел в 24 часов на сообщении от {message.date}")
                 break # Если сообщение старше двух суток, то выходим из цикла
-            if len(messages) > 10:
+            if len(messages) > 1:
                 logging.info("Достигнут лимит в 10 сообщений, прекращаем получение")
                 break # Ограничение на количество сообщений
         
@@ -68,9 +68,7 @@ async def fetch_telegram_posts(api_id, api_hash, channel_username, session_strin
         logging.error(f"Error fetching Telegram posts with Telethon: {e}")
         return []
 
-
 async def fetch_github_data(session, query):
-   
     url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=1"
     headers = {"Authorization": f"token {GH_API_TOKEN}"}
     logging.info(f"Fetching data from: {url}")
@@ -84,7 +82,6 @@ async def fetch_github_data(session, query):
             raise
 
 async def fetch_github_graphql(session, query):
-    
     url = "https://api.github.com/graphql"
     headers = {"Authorization": f"token {GH_API_TOKEN}"}
     logging.info(f"Fetching data from: {url}")
@@ -98,7 +95,6 @@ async def fetch_github_graphql(session, query):
             raise
 
 def analyze_project(repo):
-    
     score = 0
     if repo.description and len(repo.description) > 100:
         score += 0.15
@@ -134,7 +130,6 @@ def analyze_project(repo):
     return score
 
 async def extract_media_urls(repo):
-   
     try:
         graphql_query = f"""
             query {{
@@ -148,6 +143,7 @@ async def extract_media_urls(repo):
             graphql_data = await fetch_github_graphql(session, graphql_query)
             media_url = graphql_data.get("data", {}).get("repository", {}).get("openGraphImageUrl")
             homepage_url = graphql_data.get("data", {}).get("repository", {}).get("homepageUrl")
+            
             if media_url:
                 logging.info(f"Found media URL from GraphQL: {media_url}")
                 return [media_url], homepage_url
@@ -159,17 +155,74 @@ async def extract_media_urls(repo):
         return [], None
 
 async def generate_summary(repo, readme):
-   
     try:
         prompt = (
             "Analyze the following GitHub repository README and provide a structured response "
-            "focusing only on relevant technical information. Ignore any marketing content, "
-            "badges, or non-technical information.\n\n"
+            "focusing only on relevant technical information.\n\n"
+            f"Repository: {repo.name}\n"
+            f"Description: {repo.description}\n"
+            f"Language: {repo.language}\n"
+            f"Topics: {', '.join(repo.get_topics()) if repo.get_topics() else 'None'}\n\n"
             f"README content:\n{readme[:4000]}\n\n"
-            "Provide response in JSON format according to the specified schema. "
-            "Focus only on concrete technical features and actual use cases."
+            
+            "CRITICAL INSTRUCTION FOR LEONARDO.AI IMAGE PROMPT CREATION:\n\n"
+            
+            "You are tasked with creating a prompt for Leonardo.AI that will generate a CONCEPTUAL ILLUSTRATION "
+            "that clearly shows what this repository does in a SINGLE, CLEAR VISUAL METAPHOR.\n\n"
+            
+            "DO NOT create a technical diagram, code screen, or abstract tech visualization. "
+            "Instead, create a prompt for a CONCEPTUAL ILLUSTRATION that shows what the repository does "
+            "through a clear, intuitive visual metaphor that anyone could understand.\n\n"
+            
+            "Follow these steps:\n\n"
+            
+            "1. IDENTIFY THE CORE PURPOSE: What is the single most important thing this repository does? "
+            "Example: 'This repository helps developers test their APIs' or 'This repository converts PDFs to text'\n\n"
+            
+            "2. CREATE A VISUAL METAPHOR: Think of a clear, intuitive visual metaphor that represents this function. "
+            "Example: For an API testing tool, the metaphor could be 'a scientist in a lab testing different chemicals' "
+            "or for a PDF converter, 'a translator reading a book and writing down notes'\n\n"
+            
+            "3. DESCRIBE A SINGLE SCENE: Describe a single, clear scene that shows this metaphor in action. Focus on:\n"
+            "   - A main character or object performing the core function\n"
+            "   - Clear visual indicators of the input and output\n"
+            "   - Simple, intuitive visual elements that anyone can understand\n"
+            "   - A clean, focused composition with minimal distractions\n\n"
+            
+            "4. ADD SUBTLE TECH ELEMENTS: Add subtle tech elements that connect the metaphor to software, such as:\n"
+            "   - Small UI elements or screens showing the actual function\n"
+            "   - Digital particles or glowing elements\n"
+            "   - Small code snippets or data visualizations as secondary elements\n"
+            "   - The repository name subtly incorporated into the scene\n\n"
+            
+            "5. SPECIFY ARTISTIC STYLE: Request a specific artistic style that enhances understanding, such as:\n"
+            "   - 3D isometric illustration\n"
+            "   - Flat design with clear iconography\n"
+            "   - Digital painting with clear outlines\n"
+            "   - Technical illustration with labeled parts\n\n"
+            
+            "EXAMPLE PROMPT STRUCTURE:\n"
+            "\"A [SPECIFIC CHARACTER/OBJECT] [PERFORMING THE CORE FUNCTION] with [INPUT] and transforming it into [OUTPUT]. "
+            "The scene shows [VISUAL METAPHOR DETAILS] in a [SETTING] with [LIGHTING/MOOD]. Small digital elements like "
+            "[TECH ELEMENT 1] and [TECH ELEMENT 2] subtly connect the metaphor to software. The composition is [COMPOSITION DETAILS] "
+            "with [COLOR SCHEME]. The image should be in [ARTISTIC STYLE] style with [QUALITY DETAILS].\"\n\n"
+            
+            "EXAMPLES OF GOOD PROMPTS:\n"
+            "- For a data visualization library: \"A wizard standing before a blank canvas, transforming scrolls of numbers into "
+            "vibrant, floating charts and graphs. The wizard's wand emits particles of data that flow onto the canvas, creating "
+            "beautiful visualizations. Small screens around the scene show actual code and the resulting charts. The scene is set "
+            "in a modern study with warm lighting. The image should be in 3D isometric illustration style with rich details and vibrant colors.\"\n\n"
+            
+            "- For a security scanning tool: \"A vigilant guardian with a glowing shield inspecting packages before they enter a "
+            "futuristic city gate. The guardian uses a special lens to see inside each package, revealing hidden threats that glow red. "
+            "Successfully scanned packages emit a green aura as they pass through. Small monitors around the gate show scanning logs "
+            "and security metrics. The scene has a blue and purple color scheme with dramatic lighting. The image should be in digital "
+            "painting style with clean lines and clear details.\"\n\n"
+            
+            "The Leonardo.AI prompt should be 100-150 words, focused on creating a SINGLE, CLEAR VISUAL METAPHOR "
+            "that immediately communicates what the repository does to anyone who sees it."
         )
-
+        
         response = model.generate_content(
             prompt,
             generation_config = genai.GenerationConfig(
@@ -194,9 +247,13 @@ async def generate_summary(repo, readme):
                         "primary_use_case": {
                             "type": "string",
                             "description": "The primary intended use case of the repository"
+                        },
+                        "cover_image_prompt": {
+                            "type": "string",
+                            "description": "A 100-150 word prompt for Leonardo.AI that will generate a conceptual illustration showing what the repository does through a clear visual metaphor"
                         }
                     },
-                    "required": ["summary", "key_features", "primary_use_case"]
+                    "required": ["summary", "key_features", "primary_use_case", "cover_image_prompt"]
                 }
             )
         )
@@ -213,8 +270,10 @@ async def generate_summary(repo, readme):
         logging.warning(f"Couldn't process README: {str(e)}")
         return None
 
+
+
+
 async def main():
-    
     telegram_posts = await fetch_telegram_posts(TELEGRAM_API_ID, TELEGRAM_API_HASH, TELEGRAM_CHANNEL_USERNAME, TELEGRAM_SESSION_STRING)
     telegram_posts_2 = await fetch_telegram_posts(TELEGRAM_API_ID, TELEGRAM_API_HASH, TELEGRAM_CHANNEL_USERNAME_2, TELEGRAM_SESSION_STRING)
     
@@ -232,10 +291,26 @@ async def main():
     g = Github(GH_API_TOKEN)
     async with aiohttp.ClientSession() as session:
         projects = []
+        # Load published post IDs from file
+        published_posts = []
+        try:
+            with open("data/published_posts.json", "r") as f:
+                published_posts = json.load(f)
+            logging.info(f"Loaded published post IDs: {published_posts}")
+        except FileNotFoundError:
+            logging.warning("data/published_posts.json not found.  Starting with an empty list.")
+        except json.JSONDecodeError:
+            logging.error("Error decoding data/published_posts.json. Starting with an empty list.")
+        
         for link in github_links:
             try:
                 repo_name = link.replace("https://github.com/", "")
                 repo = g.get_repo(repo_name)
+                
+                # Check if the post is already published
+                if repo.id in published_posts:
+                    logging.info(f"Skipping already published repository: {repo_name} (ID: {repo.id})")
+                    continue
                 
                 query = f"repo:{repo_name} has:readme"
                 encoded_query = urllib.parse.quote(query)
@@ -272,11 +347,10 @@ async def main():
                                 }}
                             }}
                             """
-                            
+                        
                         graphql_data = await fetch_github_graphql(session, graphql_query)
-                            
                         contributors_count = graphql_data.get("data", {}).get("repository", {}).get("collaborators", {}).get("totalCount", 0) if graphql_data and graphql_data.get("data", {}).get("repository", {}).get("collaborators") else 0
-                            
+                        
                         last_commit_date = None
                         
                         if graphql_data and graphql_data.get("data", {}).get("repository", {}).get("defaultBranchRef", {}):
@@ -285,7 +359,6 @@ async def main():
                                 last_commit_date = edges[0].get("node", {}).get("committedDate")
                         
                         open_issues_count = graphql_data.get("data", {}).get("repository", {}).get("openIssues", {}).get("totalCount", 0)
-
                         media_urls, homepage_url = await extract_media_urls(repo)
                         
                         readme = repo.get_readme().decoded_content.decode()
@@ -310,15 +383,18 @@ async def main():
                             "readme_summary": summary_data.get("summary") if summary_data else None,
                             "key_features": summary_data.get("key_features") if summary_data else [],
                             "primary_use_case": summary_data.get("primary_use_case") if summary_data else None,
-                            "open_issues": open_issues_count
+                            "open_issues": open_issues_count,
+                            "cover_image_prompt": summary_data.get("cover_image_prompt") if summary_data else None
                         })
             except Exception as e:
                 logging.error(f"Error processing link {link}: {e}")
-
+        
         # Сохраняем данные в файл
         with open("data/projects.json", "w", encoding="utf-8") as f:
             json.dump(projects, f, indent=4, ensure_ascii=False, default=str)
+        
         print("Data collected and saved to data/projects.json")
 
 if __name__ == "__main__":
     asyncio.run(main())
+

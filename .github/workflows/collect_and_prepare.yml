@@ -1,7 +1,8 @@
 name: Collect and Prepare Posts
+
 on:
   schedule:
-    - cron: '0 0 * * *' # Каждый день в полночь UTC
+    - cron: '0 10 * * *' # 6:00 AM New York time (10:00 UTC)
   workflow_dispatch:
 
 jobs:
@@ -10,12 +11,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
+
       - name: Install dependencies
         run: pip install -r requirements.txt
+
       - name: Run collector
         run: python src/github/collector.py
         env:
@@ -26,22 +30,49 @@ jobs:
           TELEGRAM_CHANNEL_USERNAME: ${{ secrets.TELEGRAM_CHANNEL_USERNAME }}
           TELEGRAM_CHANNEL_USERNAME_2: ${{ secrets.TELEGRAM_CHANNEL_USERNAME_2 }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
       - name: Run formatter
         run: python src/bot/formatter.py
         env:
           CHANNEL_NAMES: ${{ secrets.CHANNEL_NAMES }}
           ADDITIONAL_CHANNELS: ${{ secrets.ADDITIONAL_CHANNELS }}
+
       - name: Run split_posts
         run: python src/bot/split_posts.py
+
       - name: Run collector_post
         run: python src/github/collector_post.py
         env:
           GH_API_TOKEN: ${{ secrets.GH_API_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
       - name: Run formated_dev
         run: python src/bot/formated_dev.py
+
       - name: Run formated_hashnode
         run: python src/bot/formated_hashnode.py
+
+      - name: Run formated_facebook
+        run: python src/bot/formated_facebook.py
+
+      - name: Run generateImage
+        run: python src/bot/generateImage.py
+        env:
+          SESSION_TOKEN_0: ${{ secrets.SESSION_TOKEN_0 }}
+          SESSION_TOKEN_1: ${{ secrets.SESSION_TOKEN_1 }}
+          USER_ID: ${{ secrets.USER_ID }}
+
+      - name: Run imageDown
+        run: python src/bot/imageDown.py
+        env:
+          API_KEY_ibb: ${{ secrets.API_KEY_ibb }}
+
+      - name: Run google_sheets
+        run: python src/bot/google_sheets.py
+        env:
+          GOOGLE_SPREADSHEET_ID: ${{ secrets.GOOGLE_SPREADSHEET_ID }}
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
