@@ -275,7 +275,9 @@ def format_facebook_post(project: Dict[str, Any], template_env: Environment) -> 
 
         # Process topics (tags)
         topics = normalize_list(project.get("topics", []))
-        topics = [f"#{re.sub(r'[^\w]', '_', str(t))}" for t in topics[:5]]  # Limit to 5 tags
+        pattern = r'[^\w]'
+        topics = [f"#{re.sub(pattern, '_', str(t))}" for t in topics[:5]]  # Limit to 5 tags
+
 
         # Normalize language
         language = project.get("language", "Not specified")
