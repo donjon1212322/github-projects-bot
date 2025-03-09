@@ -1,65 +1,51 @@
 [
     {
-        "project_id": 161323362,
-        "content": "✨ <b>retrogram-plutosdr</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time spectrum analysis and visualization on a terminal or SSH console using ASCII art, primarily intended for use with the ADALM PLUTO SDR.\n<br>\n✨ <b>Key Features:</b>\n• Wideband spectrum analysis\n• Terminal/SSH console display\n• ASCII art visualization\n• Keyboard controls for pan, zoom, and parameter adjustment\n<br>\n📖 <b>Summary:</b>\nThe retrogram-plutosdr repository provides a wideband spectrum analyzer that runs directly in a terminal or SSH console. It uses ASCII art to visualize the spectrum, allowing users to monitor radio frequencies without a graphical interface. The application supports keyboard controls for adjusting parameters like frequency, bandwidth, and gain, making it suitable for remote or resource-constrained environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/r4d10n/retrogram-plutosdr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ca339be26db1d19e68cb8dcd2b247f0f1160988ccf7cf2d0d8a9fcaa0de696c7/r4d10n/retrogram-plutosdr",
-        "platform": "telegram",
-        "quality_score": 0.45
-    },
-    {
-        "project_id": 904467755,
-        "content": "✨ <b>purrcrypt</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nEncrypting files and messages with a layer of security and a playful disguise.\n<br>\n✨ <b>Key Features:</b>\n• Encrypts data using elliptic curve cryptography\n• Encodes encrypted data as cat and dog sounds\n• Provides a command-line interface for key generation, encryption, and decryption\n• Supports setting a cat or dog 'dialect' for the output\n• Offers a playful and fun approach to cryptography\n<br>\n📖 <b>Summary:</b>\nPurrCrypt is an encryption tool that uses elliptic curve cryptography to secure data. It uniquely encodes the encrypted data as cat and dog sounds, providing a playful and less conspicuous way to transmit sensitive information. The tool offers a command-line interface for key management, encryption, and decryption, making cryptography more approachable and fun.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vxfemboy/purrcrypt?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c87defce872f2f1d49f2e4091b03bae7ccb44058f8ee40ae6c05ff3ba4280c4e/vxfemboy/purrcrypt",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 314995099,
-        "content": "🚀 <b>jira-cli</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a feature-rich command-line interface for interacting with Atlassian Jira, improving day-to-day workflow by avoiding the Jira UI for common tasks.\n<br>\n✨ <b>Key Features:</b>\n• Interactive command-line interface\n• Issue search and navigation\n• Issue creation\n• Issue cloning\n• Issue linking\n<br>\n📖 <b>Summary:</b>\nJiraCLI is a command-line tool for interacting with Atlassian Jira. It provides features such as issue searching, creation, cloning, linking, and ticket transitioning, all accessible through an interactive terminal interface. The tool aims to improve developer workflow by offering a faster alternative to the Jira UI for common tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ankitpokhrel/jira-cli?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/544499ee533cddd62c4493c86f70733550d4e529af0c26329af5957e86ff0b63/ankitpokhrel/jira-cli",
-        "platform": "telegram",
-        "quality_score": 0.8
-    },
-    {
-        "project_id": 99253773,
-        "content": "💡 <b>ots</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely sharing sensitive information one time only.\n<br>\n✨ <b>Key Features:</b>\n• AES 256bit encryption\n• Server never gets the password\n• Secret is deleted on first read\n<br>\n📖 <b>Summary:</b>\nOTS is a one-time-secret sharing platform that uses AES 256-bit encryption in the browser to protect secrets. The server never receives the password, and the secret is deleted after the first read, ensuring maximum security for sensitive information.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Luzifer/ots?embed=0\">View Project</a>\n• <a href=\"https://ots.fyi?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6cff249eacc62cba1649641d4b2c74e2f29d539f240882c2dfe0e179aa40b537/Luzifer/ots",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 804241290,
-        "content": "🚀 <b>pyper</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nETL Systems, Data Microservices, and Data Collection\n<br>\n✨ <b>Key Features:</b>\n• Intuitive API for concurrent and parallel data-processing\n• Functional programming paradigm\n• Safety: Hides task execution and resource clean-up complexities\n• Efficiency: Lazy execution using queues, workers, and generators\n• Pure Python: Lightweight with zero sub-dependencies\n<br>\n📖 <b>Summary:</b>\nPyper is a Python framework designed to simplify concurrent and parallel data processing using functional programming patterns. It provides an intuitive API for building data pipelines, abstracting away the complexities of threading, multiprocessing, and asynchronous execution. Pyper is suitable for ETL systems, data microservices, and data collection applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pyper-dev/pyper?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/de4e2d512be6b3d60059dfa6583adbb84a09bab09102669334551ca4eea713ce/pyper-dev/pyper",
-        "platform": "telegram",
-        "quality_score": 0.7999999999999999
-    },
-    {
-        "project_id": 63892846,
-        "content": "💡 <b>arq</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAsynchronous task processing and job queuing using Redis as a message broker.\n<br>\n✨ <b>Key Features:</b>\n• Job queuing\n• RPC (Remote Procedure Call)\n• Asynchronous task processing\n• Redis integration\n<br>\n📖 <b>Summary:</b>\nArq is a Python library for fast job queuing and RPC using asyncio and Redis. It enables developers to offload tasks to background workers for asynchronous processing, improving application responsiveness and scalability. Arq leverages Redis for message brokering and asyncio for concurrent execution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/python-arq/arq?embed=0\">View Project</a>\n• <a href=\"https://arq-docs.helpmanual.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/140a7d06aeaf01e18bafa62d6ffb3798fc63bd7cb66c24451b79303f51c01e40/python-arq/arq",
-        "platform": "telegram",
-        "quality_score": 0.9
-    },
-    {
-        "project_id": 646480766,
-        "content": "✨ <b>roop</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nReplacing faces in videos with a desired face using a single image, without requiring datasets or training.\n<br>\n✨ <b>Key Features:</b>\n• One-click face swap\n• Requires only one image of the desired face\n• No dataset or training required\n• Headless mode support\n• Various frame processors (face_swapper, face_enhancer, etc.)\n<br>\n📖 <b>Summary:</b>\nRoop is a one-click face-swapping tool that allows users to replace faces in videos with a desired face using only a single image. It offers various customization options, including frame processors, video encoding settings, and memory management. The tool supports headless mode and provides options for processing multiple faces and fine-tuning the face-swapping process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/s0md3v/roop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/024a9254a1bee893b0fc0cf768b5177138d208ea5668a4d2f86593b9dd84aca9/s0md3v/roop",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 36692681,
-        "content": "💡 <b>BruteX</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated brute-forcing of services running on a target system to identify vulnerabilities.\n<br>\n✨ <b>Key Features:</b>\n• Open port discovery\n• Username brute-forcing\n• Password brute-forcing\n• Docker support\n<br>\n📖 <b>Summary:</b>\nBruteX is a shell script designed to automatically brute-force various services running on a target. It focuses on identifying open ports and then attempting to crack usernames and passwords. The tool can be installed via a shell script or run within a Docker container.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/1N3/BruteX?embed=0\">View Project</a>\n• <a href=\"https://sn1persecurity.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fcc6353d78be051bdc35d86794a07d9a5c5c937ebf62c1ebe3b29cc84680ec2e/1N3/BruteX",
+        "project_id": 734573996,
+        "content": "🌟 <b>InstantStyle</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nStyle transfer in text-to-image generation\n<br>\n✨ <b>Key Features:</b>\n• Style-content disentanglement\n• Style injection into specific attention blocks\n• Support for diffusers\n• High-resolution image generation support\n• Distributed inference\n<br>\n📖 <b>Summary:</b>\nInstantStyle is a framework for style-preserving text-to-image generation. It achieves style-content disentanglement by subtracting content features from image features and injecting style into specific attention blocks of a deep network. The framework supports integration with diffusers and enables high-resolution image generation and distributed inference.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/instantX-research/InstantStyle?embed=0\">View Project</a>\n• <a href=\"https://instantstyle.github.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/aeea73c48c7b93c8050f1b9f46fe61396dfbbdd4180be861c06cb09cab8929b8/instantX-research/InstantStyle",
         "platform": "telegram",
         "quality_score": 0.55
     },
     {
-        "project_id": 705280022,
-        "content": "🔥 <b>sagemode</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDigital Investigations\n<br>\n✨ <b>Key Features:</b>\n• Easy to Use\n• Real-time Feedback\n• Curated List of sites\n<br>\n📖 <b>Summary:</b>\nSagemode is an OSINT username search tool designed for simplicity and efficiency. It allows users to search for specific usernames across various online platforms, providing real-time feedback on positive search results. The tool is intended for digital investigations, cybersecurity research, and online reputation management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/senran101604/sagemode?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a607b28c42512ec88dd5ed1049ea04e30758e75cd9093323814bb20ab6c781a8/senran101604/sagemode",
+        "project_id": 245013110,
+        "content": "🔥 <b>myDrive</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nOpen source cloud file storage server, similar to Google Drive, allowing users to host their own file storage solution.\n<br>\n✨ <b>Key Features:</b>\n• Upload Files\n• Download Files\n• Upload Folders\n• Download Folders (Automatically converts to zip)\n• Multiple DB Support (Amazon S3, Filesystem)\n<br>\n📖 <b>Summary:</b>\nMyDrive is an open-source cloud file storage server built with Node.js and MongoDB. It offers features similar to Google Drive, including file and folder uploading/downloading, multiple database support (Amazon S3, Filesystem), media viewing, file sharing, and security features like AES256 encryption. It allows users to host their own cloud storage solution, providing control over their data.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/subnub/myDrive?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/245013110/2e1e5191-ea32-471d-b997-fdb8bce98dee",
         "platform": "telegram",
-        "quality_score": 0.25
+        "quality_score": 1.05
+    },
+    {
+        "project_id": 62712899,
+        "content": "🔥 <b>AdGuardHome</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nBlocking ads and trackers for all devices on a home network.\n<br>\n✨ <b>Key Features:</b>\n• Network-wide ad and tracker blocking\n• DNS server functionality\n• Open-source and free\n• No client-side software required\n<br>\n📖 <b>Summary:</b>\nAdGuard Home is a network-wide DNS server that blocks ads and trackers for all devices on your home network without requiring client-side software. It operates by re-routing tracking domains to a 'black hole', preventing devices from connecting to those servers, thus enhancing privacy and security.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AdguardTeam/AdGuardHome?embed=0\">View Project</a>\n• <a href=\"https://adguard.com/adguard-home/overview.html?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ede3db6d8eb7dd6e016f8c9bdb0e236f1192c9ac58c276bd16e961cc39387641/AdguardTeam/AdGuardHome",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 742435425,
+        "content": "🔥 <b>first2apply</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCentralizing job listings from various platforms to help job seekers find opportunities faster.\n<br>\n✨ <b>Key Features:</b>\n• Job board aggregation from multiple platforms (LinkedIn, Indeed, Dice, etc.)\n• Supabase backend\n• Desktop probe application\n• Automated updates for MacOS, Windows, and Linux\n<br>\n📖 <b>Summary:</b>\nFirst 2 Apply is an open-source job board aggregator that consolidates listings from platforms like LinkedIn and Indeed. It consists of a Supabase backend and a desktop probe application. The project aims to streamline the job search process for users by providing a centralized view of available opportunities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/beastx-ro/first2apply?embed=0\">View Project</a>\n• <a href=\"https://first2apply-blog.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5515a6c0c6a2dc24e526030178458fc849a9e441b392a2a74fb15233472fedd8/beastx-ro/first2apply",
+        "platform": "telegram",
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 21244505,
+        "content": "💡 <b>qutebrowser</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nKeyboard-focused web browsing with a minimal GUI.\n<br>\n✨ <b>Key Features:</b>\n• Keyboard-driven navigation\n• Vim-like keybindings\n• Minimal GUI\n• Based on Python and Qt\n• Customizable\n<br>\n📖 <b>Summary:</b>\nqutebrowser is a keyboard-driven web browser with a minimal GUI, inspired by Vim. It's built using Python and Qt, offering a highly customizable and efficient browsing experience for users who prefer keyboard navigation. The browser focuses on speed and control, providing a unique alternative to traditional mouse-driven browsers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/qutebrowser/qutebrowser?embed=0\">View Project</a>\n• <a href=\"https://www.qutebrowser.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/21244505/05003600-fa48-11e9-8128-34e0a03b0734",
+        "platform": "telegram",
+        "quality_score": 1.05
+    },
+    {
+        "project_id": 33614304,
+        "content": "🌟 <b>thefuck</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCorrecting errors in console commands to improve command-line efficiency.\n<br>\n✨ <b>Key Features:</b>\n• Corrects previous console commands\n• Supports various shells (Bash, Zsh, Fish, Powershell, tcsh)\n• Customizable rules for command correction\n• Experimental instant mode for faster corrections\n<br>\n📖 <b>Summary:</b>\nThe Fuck is a command-line tool that corrects errors in previously executed commands. It analyzes the failed command and suggests corrections based on predefined rules and user input. This tool aims to improve command-line efficiency by reducing the need to retype commands after making mistakes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nvbn/thefuck?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/47357f37564199c2471ff1a9828877658482056387eceb19ae6b3a9f6e7c5560/nvbn/thefuck",
+        "platform": "telegram",
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 756058516,
+        "content": "✨ <b>zane-ops</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosting web services, web applications, databases, and CRON jobs.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted PaaS\n• Hosting static sites\n• Hosting web apps\n• Hosting databases\n• CRON jobs\n<br>\n📖 <b>Summary:</b>\nZaneOps is a self-hosted PaaS that allows users to host static sites, web apps, databases, and CRON jobs. It leverages Docker Swarm for orchestration, providing a platform for managing various application components.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/zane-ops/zane-ops?embed=0\">View Project</a>\n• <a href=\"https://zaneops.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a07920ae9655db32bd90e7db56d977e3253375730cc518668ede5fa8902dbacc/zane-ops/zane-ops",
+        "platform": "telegram",
+        "quality_score": 1.1
     }
 ]

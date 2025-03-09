@@ -1,26 +1,26 @@
 {
-    "article": "Ever wished you could share sensitive information securely without trusting a central server?  Meet OTS, the One-Time Secret Sharing platform!  This isn't your typical secret-sharing service; OTS prioritizes your privacy by encrypting your secrets *before* they ever hit the server.  Think of it as a secure digital envelope that self-destructs after the recipient opens it. \n\nHere's the magic: OTS uses robust 256-bit AES encryption. This means your secrets are scrambled using a powerful algorithm, making them practically unreadable without the correct key.  The crucial part?  You, and only you, hold the key. The server receives only the encrypted data and a unique identifier; it never sees the actual secret, eliminating the risk of a data breach on the server side. Once someone retrieves the secret using the unique URL and password you've provided, the secret is immediately deleted from the server.\n\nOTS is incredibly versatile. You can use it for sharing passwords, API keys, license codes, or any sensitive data you need to transmit securely. The system is designed to be easily integrated into your existing workflows. You can create and retrieve secrets using the CLI (command-line interface), making it perfect for scripting and automation.   The CLI tool is also highly configurable, allowing you to specify options like the secret's expiry time, or even attach files to your secret.\n\nThe platform supports various backend storage options, including an in-memory option for testing and a Redis option for persistent storage. This flexibility ensures you can adapt OTS to your infrastructure needs.  Whether you're a solo developer or part of a large team, OTS provides a secure and convenient way to handle sensitive information. The benefits are clear: increased security, improved workflow efficiency, and peace of mind knowing your secrets are protected.\n\nThe project's open-source nature allows for community contributions and ensures transparency. It's a testament to the power of decentralized security and a great example of how we can build more secure systems.  Give it a try – you might be surprised at how simple and effective it is!",
+    "article": "Tired of juggling multiple platforms for your web projects?  Wish there was a single, streamlined solution to manage your static sites, web apps, databases, and CRON jobs? Then get ready to be blown away by ZaneOps! This self-hosted, open-source platform is a game-changer for developers who crave simplicity and control.  Imagine a world where deploying and managing your entire application stack is as easy as a few clicks. That's the promise of ZaneOps.\n\nZaneOps leverages the power of Docker Swarm, a container orchestration tool, to handle the heavy lifting.  This means that your projects are packaged neatly into containers, making deployment, scaling, and management a breeze. No more wrestling with complex server configurations or dealing with the headache of managing dependencies across different systems. ZaneOps abstracts away all that complexity, presenting you with a clean, intuitive interface.\n\nThe platform's architecture is remarkably elegant.  It's built around the concept of 'projects,' each representing a self-contained application or service.  Within each project, you can define your application's containers, databases (like PostgreSQL, MySQL, or MongoDB), and CRON jobs, all managed through the user-friendly web interface. This modular approach allows for easy scaling and management of individual components without impacting others.\n\nOne of the biggest benefits for developers is the time saved.  Setting up a new project is incredibly fast and straightforward.  The intuitive interface guides you through the process, and the Docker Swarm integration ensures seamless deployment and scaling.  Gone are the days of endless configuration files and manual deployments.  Need to scale your database?  Just a few clicks in ZaneOps and it's done.  Need to add a new CRON job?  Just configure it through the interface.\n\nBut ZaneOps is more than just convenience; it's about control.  Since it's self-hosted, you retain full ownership and control over your data and applications.  You're not locked into a specific vendor or platform.  This is crucial for developers who value security, privacy, and flexibility.  Plus, the open-source nature of ZaneOps means you can contribute to the project, customize it to your needs, and be part of a growing community of developers.\n\nIn short, ZaneOps is a powerful, user-friendly platform that simplifies the complexities of managing modern web applications.  It's a must-have tool for any developer who wants to streamline their workflow, save time, and maintain full control over their projects.  Give it a try – you won't be disappointed!",
     "key_takeaways": [
-        "Client-side encryption ensures the server never sees your secrets.",
-        "One-time access means your secret is deleted immediately after retrieval.",
-        "Flexible backend options allow for easy integration into existing infrastructure.",
-        "Simple and intuitive CLI tool for easy creation and retrieval of secrets.",
-        "Open-source and community-driven, fostering transparency and collaboration"
+        "Streamlined management of static sites, web apps, databases, and CRON jobs from a single platform.",
+        "Simplified deployment and scaling using Docker Swarm.",
+        "User-friendly interface for easy project setup and management.",
+        "Enhanced control and security through self-hosting.",
+        "Active open-source community for collaboration and customization."
     ],
     "tags": [
-        "security",
-        "encryption",
-        "secret sharing",
-        "cli",
-        "open-source"
+        "Docker",
+        "Swarm",
+        "Self-Hosted",
+        "Open-Source",
+        "DevOps"
     ],
-    "title": "OTS: Your One-Time Secret Sharing Solution - Secure, Simple, and Self-Destructing!",
-    "stars": 519,
-    "forks": 72,
-    "open_issues": 7,
-    "languages": "Go",
-    "readme_summary": "OTS is a one-time-secret sharing platform that uses AES 256-bit encryption in the browser to protect secrets. The server never receives the password, and the secret is deleted after the first read, ensuring maximum security for sensitive information.",
-    "project_id": 99253773,
-    "url": "https://github.com/Luzifer/ots",
-    "description": "One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser"
+    "title": "Revolutionize Your Workflow with ZaneOps: The All-in-One Platform for Modern Web Development",
+    "stars": 374,
+    "forks": 10,
+    "open_issues": 2,
+    "languages": "Python",
+    "readme_summary": "ZaneOps is a self-hosted PaaS that allows users to host static sites, web apps, databases, and CRON jobs. It leverages Docker Swarm for orchestration, providing a platform for managing various application components.",
+    "project_id": 756058516,
+    "url": "https://github.com/zane-ops/zane-ops",
+    "description": "A self-hosted PaaS for your web services, web apps, databases and everything you need for your next startup."
 }
