@@ -1,30 +1,30 @@
 {
-    "title": "Dashy: Your Self-Hosted Services, Beautifully Organized",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nDashy is a self-hosted dashboard application that allows users to organize their self-hosted services and applications in one central location. It offers features such as real-time status monitoring, widgets for displaying dynamic content, customizable themes and layouts, and various authentication options. Dashy aims to provide a user-friendly and efficient way to manage and access various self-hosted services.\n\n## 🔑 Key Takeaways\n\n- ✅ Centralized access to all your self-hosted services.\n\n- ✅ Real-time status monitoring and customizable widgets.\n\n- ✅ Extensive customization options for appearance and functionality.\n\n- ✅ Optional authentication for enhanced security.\n\n- ✅ Active community and ongoing development with regular updates and new features\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 19991\n- 🍴 Forks: 1485\n- ❗ Open Issues: 121\n\n\n## 🛠 Tech Stack\n- ✅ Vue\n\n\nEver feel overwhelmed managing all your self-hosted services?  Do you find yourself constantly searching through bookmarks or struggling to remember the exact URL for that one specific app?  Then Dashy is the project you've been waiting for!  It's a fantastic open-source tool that acts as a central hub for all your self-hosted applications and services. Think of it as a personalized dashboard, but way more powerful and customizable.\n\nDashy's magic lies in its simplicity and flexibility.  It's designed to be incredibly user-friendly.  You simply configure a single YAML file (or use the built-in UI editor), adding your apps, their URLs, and any other relevant details.  Dashy then beautifully displays all your services in a clean, organized interface.  No more hunting through endless bookmarks or remembering complicated URLs!\n\nBut Dashy is far more than just a pretty face. It's packed with features that make managing your self-hosted world a breeze.  It supports real-time status monitoring, so you can see at a glance if your services are up and running.  You can add custom widgets to display dynamic information, such as system stats or weather updates.  And if security is a concern, Dashy offers optional authentication, allowing you to control access to your dashboard.\n\nThe beauty of Dashy lies in its extensive customization options. You can tweak the colors, add custom icons, and even write custom CSS to perfectly match your personal style.  It supports multiple pages, making it easy to organize your services into logical groups.  Need a dark mode?  No problem! Dashy's got you covered.  The level of control you have over the look and feel is simply incredible.\n\nBeyond aesthetics, Dashy offers practical benefits for developers.  It saves you time and improves your workflow by centralizing access to all your services.  Imagine the convenience of having everything you need just a click away.  It also promotes better organization and reduces the mental overhead of managing multiple URLs and logins.  And because it's open-source, you can contribute to its development, ensuring it continues to evolve and improve.\n\nDashy isn't just a project; it's a community.  The developers are actively working on new features and improvements, responding to feedback, and fostering a welcoming environment for contributors.  This ensures Dashy stays at the forefront of self-hosted service management, continuously adapting to the needs of its users.  With its ease of use, powerful features, and active community, Dashy is a must-have tool for any developer serious about managing their self-hosted infrastructure.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/Lissy93/dashy)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Hercules: Your Superhero for Effortless Test Automation",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nHercules is an open-source testing agent that enables codeless automation of UI, API, Security, Accessibility, and Visual validations. It allows users to write tests in simple Gherkin steps, which are then automatically executed, making end-to-end testing more accessible and efficient. Hercules aims to democratize test automation and empower teams to deliver better software.\n\n## 🔑 Key Takeaways\n\n- ✅ Write tests in plain English using Gherkin, no coding required.\n\n- ✅ Seamless integration with CI/CD pipelines for automated testing.\n\n- ✅ Handles dynamic test data for comprehensive test coverage.\n\n- ✅ Active community support and constant improvements.\n\n- ✅ Open-source and transparent, fostering collaboration and innovation\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 445\n- 🍴 Forks: 58\n- ❗ Open Issues: 12\n\n\n## 🛠 Tech Stack\n- ✅ Python\n\n\nTired of wrestling with complex test automation frameworks?  Meet Hercules, the open-source testing agent that's changing the game!  Forget mountains of code and endless debugging sessions; Hercules lets you write tests in plain English using Gherkin, a simple, readable language.  This means anyone on your team, regardless of their coding skills, can contribute to testing. Imagine describing your test scenarios in simple, human-readable steps, and Hercules automatically translates them into robust, executable tests.  It's like having a superhero on your testing team, handling all the heavy lifting for you. \n\nHercules isn't just about ease of use; it's about power and flexibility. It seamlessly integrates with popular CI/CD pipelines, allowing you to automate your testing process from start to finish.  Whether you're testing a simple web app or a complex Salesforce implementation, Hercules adapts to your specific needs.  It handles the intricacies of browser interactions, data management, and test reporting, so you can focus on what truly matters: delivering high-quality software.  One of Hercules's standout features is its ability to handle dynamic test data. This means you can easily run the same test multiple times with different inputs, ensuring comprehensive test coverage. No more hardcoding values or manually creating test data; Hercules manages it all for you.\n\nBut Hercules is more than just a tool; it's a community.  Backed by TestZeus, a company dedicated to democratizing test automation, Hercules benefits from a vibrant community of developers who are constantly contributing and improving the project.  This ensures that Hercules remains up-to-date with the latest technologies and best practices.  Join the community, share your ideas, and help shape the future of test automation. Hercules's open-source nature ensures transparency and allows for collaborative development, ensuring a constantly evolving and improving toolset.  The active community provides invaluable support and resources, fostering a collaborative environment for problem-solving and knowledge sharing.  This collaborative environment ensures that Hercules remains a robust and reliable testing solution for years to come.  So, are you ready to experience the power of simple, yet powerful, test automation? Check out Hercules today and see how it can revolutionize your testing workflow!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/test-zeus-ai/testzeus-hercules)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "self-hosted",
-            "slug": "self-hosted"
+            "name": "test automation",
+            "slug": "test-automation"
         },
         {
-            "name": "dashboard",
-            "slug": "dashboard"
+            "name": "gherkin",
+            "slug": "gherkin"
         },
         {
-            "name": "yaml",
-            "slug": "yaml"
+            "name": "bdd",
+            "slug": "bdd"
         },
         {
-            "name": "open-source",
+            "name": "ci/cd",
+            "slug": "ci/cd"
+        },
+        {
+            "name": "open source",
             "slug": "open-source"
-        },
-        {
-            "name": "productivity",
-            "slug": "productivity"
         }
     ],
-    "slug": "dashy-your-self-hosted-services-beautifully-organized",
-    "project_id": 343078060,
+    "slug": "hercules-your-superhero-for-effortless-test-automation",
+    "project_id": 888701643,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false

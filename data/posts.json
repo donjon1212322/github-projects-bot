@@ -1,65 +1,51 @@
 [
     {
-        "project_id": 923474048,
-        "content": "✨ <b>Catime</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nA simple Windows countdown timer tool with Pomodoro clock functionality.\n<br>\n✨ <b>Key Features:</b>\n• Transparent interface\n• Pomodoro clock functionality\n• Customizable options (fonts, colors)\n• Flexible timing (countdown, count up)\n• Timeout actions (notification, lock screen, shutdown)\n<br>\n📖 <b>Summary:</b>\nCatime is a simple and customizable countdown timer tool for Windows, designed with a transparent interface and Pomodoro clock functionality. It offers flexible timing options, a variety of customization settings for fonts and colors, and configurable timeout actions such as notifications, screen locking, or system shutdown. It is intended to improve focus and productivity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vladelaina/Catime?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9200becbe83badba208b8435bf567e6d5ae9f0c0ee2d96854553640c0597458e/vladelaina/Catime",
+        "project_id": 937727966,
+        "content": "🌟 <b>VisualCrypto</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nImage-based secret sharing using Visual Secret Sharing (VSS) schemes, primarily (2,2)-VSS, where a secret image is split into two shares.\n<br>\n✨ <b>Key Features:</b>\n• Support for Visual Cryptography (VC) & Random Grid (RG) techniques\n• Web-based & script-based execution\n<br>\n📖 <b>Summary:</b>\nVisualCrypto is a Python toolkit for image-based secret sharing using Visual Cryptography and Random Grid techniques. It allows splitting a secret image into multiple shares, which appear as random noise individually but reveal the original image when combined. The toolkit supports both web-based and script-based execution and is designed to be easily extensible with new cryptographic schemes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/coduri/VisualCrypto?embed=0\">View Project</a>\n• <a href=\"https://coduri.github.io/VisualCrypto/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b15b6e6cba8d1be95add326ed8852132fed14478ba09fb462bc0ed0bd855f34e/coduri/VisualCrypto",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.65
     },
     {
-        "project_id": 441756043,
-        "content": "✨ <b>wolf</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nStreaming virtual desktops and games running in Docker to multiple remote clients using Moonlight.\n<br>\n✨ <b>Key Features:</b>\n• Multi-user streaming of different content from a single host\n• On-demand creation of virtual desktops with custom resolution/FPS\n<br>\n📖 <b>Summary:</b>\nWolf is a streaming server designed for Moonlight that enables multiple users to stream different games or virtual desktops from a single server. It supports on-demand virtual desktop creation, multi-GPU utilization, and low-latency streaming, all within a Linux and Docker-centric environment. The project prioritizes configurability, allowing users to customize encoding pipelines and GPU settings.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/games-on-whales/wolf?embed=0\">View Project</a>\n• <a href=\"https://games-on-whales.github.io/wolf/stable/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b30e5bc7d04fe14319c9067f85e139dd5b49ec7d254e1bc8d514558ba163db03/games-on-whales/wolf",
+        "project_id": 935680941,
+        "content": "🚀 <b>wallendar</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTurn a wallpaper into a customizable calendar.\n<br>\n✨ <b>Key Features:</b>\n• Easy to use\n• Smart layout\n• Customizable\n<br>\n📖 <b>Summary:</b>\nWallendar transforms your desktop wallpaper into a visually appealing and functional calendar. It offers easy setup, smart layout adjustments to fit your wallpaper, and extensive customization options for font, color, and positioning. Users can highlight specific dates and personalize the calendar to their preferences.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/felixZmn/wallendar?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/cf7d20c2397c734feb9d5b4c2e552fe2e36ef59ba026da485deb234a7857b77e/felixZmn/wallendar",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 234739976,
+        "content": "🔥 <b>medusa</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding custom commerce applications, including B2B, DTC ecommerce stores, marketplaces, and PoS systems.\n<br>\n✨ <b>Key Features:</b>\n• Customizable commerce applications\n• Modular architecture\n• Open-source commerce modules\n• Building blocks for digital commerce\n<br>\n📖 <b>Summary:</b>\nMedusa is a flexible commerce platform that provides building blocks for creating custom ecommerce applications. It offers a modular architecture and open-source commerce modules, allowing developers to build advanced B2B or DTC ecommerce stores, marketplaces, PoS systems, or any product that needs foundational commerce primitives.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/medusajs/medusa?embed=0\">View Project</a>\n• <a href=\"https://medusajs.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/234739976/3c61a11d-3161-4a40-955a-c99e1b7a2094",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 438803890,
+        "content": "🌟 <b>Sunshine</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosting game streams for remote access via Moonlight.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted game stream host\n• Compatible with Moonlight\n• Supports multiple platforms (Docker, Winget, Homebrew, Pacman, Flathub)\n<br>\n📖 <b>Summary:</b>\nSunshine is a self-hosted game stream host designed for use with Moonlight. It allows users to stream games from their own machines to remote devices. The project supports various platforms, including Docker, Winget, Homebrew, and Flathub, making it accessible across different operating systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/LizardByte/Sunshine?embed=0\">View Project</a>\n• <a href=\"http://app.lizardbyte.dev/Sunshine/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/438803890/cee99a24-0230-411e-b444-3e261c8b01d3",
         "platform": "telegram",
         "quality_score": 1.05
     },
     {
-        "project_id": 659450105,
-        "content": "🔥 <b>jetson-intro-to-distillation</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nOptimizing large models for deployment on NVIDIA Jetson devices using knowledge distillation.\n<br>\n✨ <b>Key Features:</b>\n• Knowledge distillation from OpenCLIP to ResNet18\n• Classification on the STL10 dataset\n• Model profiling and optimization for NVIDIA Jetson\n• TensorRT optimization\n<br>\n📖 <b>Summary:</b>\nThis repository provides a tutorial on knowledge distillation, demonstrating how to transfer knowledge from a large OpenCLIP model to a smaller ResNet18 model for image classification on the STL10 dataset. It explores the impact of various factors like data, distillation methods, and model architecture on the final accuracy. The tutorial also covers model optimization using TensorRT for deployment on NVIDIA Jetson devices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/NVIDIA-AI-IOT/jetson-intro-to-distillation?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/25323c2744bd56cfb6fa8f795c3740d809b28412ba0e2df7784c885c30f61354/NVIDIA-AI-IOT/jetson-intro-to-distillation",
+        "project_id": 423339082,
+        "content": "🔥 <b>nwinfo</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nObtaining system and hardware information on Windows systems.\n<br>\n✨ <b>Key Features:</b>\n• Obtain detailed information about SMBIOS, CPUID, S.M.A.R.T., PCI, EDID, and more.\n• Support exporting in JSON, YAML, and LUA table formats.\n• Gathers information directly without relying on WMI.\n• Compatible with Windows XP.\n<br>\n📖 <b>Summary:</b>\nNWinfo is a Win32 program designed to gather comprehensive system and hardware information. It provides detailed insights into components like SMBIOS, CPUID, S.M.A.R.T., PCI, and EDID, and supports exporting data in various formats such as JSON, YAML, and LUA. NWinfo directly accesses hardware information without relying on WMI and maintains compatibility with older Windows versions like XP.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/a1ive/nwinfo?embed=0\">View Project</a>\n• <a href=\"https://a1ive.github.io/nwinfo/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/08f97fc4aeb21207a24b75419fe1651987a90b339377e2ecd56666507948c4ad/a1ive/nwinfo",
         "platform": "telegram",
-        "quality_score": 0.4
+        "quality_score": 0.85
     },
     {
-        "project_id": 343078060,
-        "content": "🚀 <b>dashy</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nA self-hosted personal dashboard for organizing and accessing self-hosted services.\n<br>\n✨ <b>Key Features:</b>\n• Multiple page support\n• Real-time status monitoring\n• Widgets for dynamic content\n• Instant search and customizable hotkeys\n• Built-in color themes and UI editor\n<br>\n📖 <b>Summary:</b>\nDashy is a self-hosted dashboard application that allows users to organize their self-hosted services and applications in one central location. It offers features such as real-time status monitoring, widgets for displaying dynamic content, customizable themes and layouts, and various authentication options. Dashy aims to provide a user-friendly and efficient way to manage and access various self-hosted services.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lissy93/dashy?embed=0\">View Project</a>\n• <a href=\"https://dashy.to?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/343078060/82f850a2-b1af-4e9f-9245-c92700d74856",
+        "project_id": 33315835,
+        "content": "✨ <b>pixiewps</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nEducational tool for demonstrating and testing WPS vulnerabilities.\n<br>\n✨ <b>Key Features:</b>\n• Offline WPS PIN brute-forcing\n• Exploits low entropy in WPS implementations (Pixie-Dust attack)\n• Fast PIN recovery (seconds or minutes if vulnerable)\n• WPA-PSK recovery from passive captures (limited device support)\n• Multi-threading support\n<br>\n📖 <b>Summary:</b>\nPixiewps is a C-based utility designed for offline brute-forcing WPS PINs, exploiting vulnerabilities like the Pixie-Dust attack. It aims to quickly recover WPS PINs and, in some cases, WPA-PSK keys from vulnerable devices, serving as an educational tool for understanding Wi-Fi security weaknesses.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wiire-a/pixiewps?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/dd9170e49088bded9433ce300fb514bcafb309cf8dc844fdaf28cae56989b25c/wiire-a/pixiewps",
         "platform": "telegram",
-        "quality_score": 1.1
+        "quality_score": 0.55
     },
     {
-        "project_id": 11397939,
-        "content": "💡 <b>goaccess</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time web log analysis and interactive viewing for system administrators.\n<br>\n✨ <b>Key Features:</b>\n• Real-time web log analysis\n• Terminal and browser-based interface\n• Minimal configuration\n• Application response time tracking\n• Support for various web log formats\n<br>\n📖 <b>Summary:</b>\nGoAccess is a real-time web log analyzer that runs in a terminal or browser, providing fast and valuable HTTP statistics. It supports nearly all web log formats, offers incremental log processing, and requires minimal configuration. Its primary use case is to provide system administrators with a visual server report on the fly.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/allinurl/goaccess?embed=0\">View Project</a>\n• <a href=\"https://goaccess.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/11397939/13256b00-8d79-11ea-80b0-e79990000a34",
+        "project_id": 888701643,
+        "content": "💡 <b>testzeus-hercules</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating software testing across various domains (UI, API, Security, Accessibility, Visual) without requiring coding skills.\n<br>\n✨ <b>Key Features:</b>\n• Open-source testing agent\n• UI testing\n• API testing\n• Security testing\n• Accessibility testing\n<br>\n📖 <b>Summary:</b>\nHercules is an open-source testing agent that enables codeless automation of UI, API, Security, Accessibility, and Visual validations. It allows users to write tests in simple Gherkin steps, which are then automatically executed, making end-to-end testing more accessible and efficient. Hercules aims to democratize test automation and empower teams to deliver better software.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/test-zeus-ai/testzeus-hercules?embed=0\">View Project</a>\n• <a href=\"https://testzeus.com/hercules?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/888701643/6a207d9f-f373-4407-96a2-7e3155827066",
         "platform": "telegram",
-        "quality_score": 1.1
-    },
-    {
-        "project_id": 624156003,
-        "content": "💡 <b>tenere</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a TUI interface for interacting with various LLMs (ChatGPT, llama.cpp, ollama) from the command line.\n<br>\n✨ <b>Key Features:</b>\n• Syntax highlighting\n• Chat history\n• Save chats to files\n• Vim keybindings\n• Clipboard support\n<br>\n📖 <b>Summary:</b>\nTenere is a Rust-based application that offers a terminal user interface (TUI) for interacting with Large Language Models (LLMs). It supports multiple backends like ChatGPT, llama.cpp, and ollama, and provides features like syntax highlighting, chat history, vim keybindings and configuration options for a streamlined command-line LLM experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pythops/tenere?embed=0\">View Project</a>\n• <a href=\"https://crates.io/crates/tenere?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/63125fb97c1efd3d16e3199da62627dbce91bfeb9bae65aaa1746b066f29779b/pythops/tenere",
-        "platform": "telegram",
-        "quality_score": 0.8
-    },
-    {
-        "project_id": 496595154,
-        "content": "💡 <b>sshclick</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and organizing SSH configuration files in a terminal environment.\n<br>\n✨ <b>Key Features:</b>\n• Terminal-based SSH config management\n• List, filter, modify, and view SSH host entries\n• Supports grouping and metadata via comments\n• Textual User Interface (TUI) via `ssht` command\n<br>\n📖 <b>Summary:</b>\nSSHClick is a terminal-based tool for managing SSH configuration files. It allows users to easily list, filter, modify, and view SSH host entries. The tool supports grouping and metadata through comments and provides a TUI for interactive management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/karlot/sshclick?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/92e957bfd979c80b317fdf3d4f54001bd1ce1eaa8412fc86e86533ee3fc272b6/karlot/sshclick",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 436297812,
-        "content": "🔥 <b>memos</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosted note-taking\n<br>\n✨ <b>Key Features:</b>\n• Privacy First: Local data storage\n• Create at Speed: Plain text with Markdown support\n• Lightweight but Powerful: Go and React.js based\n• Customizable: Server name, icon, theme customization\n• Open Source: Fully open source\n<br>\n📖 <b>Summary:</b>\nMemos is an open-source, self-hosted note-taking solution built with Go and React.js. It emphasizes privacy by storing data locally and offers a lightweight yet powerful experience with Markdown support, customization options, and a completely free-to-use model.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/usememos/memos?embed=0\">View Project</a>\n• <a href=\"https://usememos.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/436297812/02a4fe19-4a8b-4d8b-bd1f-be120b90737a",
-        "platform": "telegram",
-        "quality_score": 1.1
-    },
-    {
-        "project_id": 416278604,
-        "content": "🚀 <b>pwru</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nDebugging network connectivity issues in the Linux kernel.\n<br>\n✨ <b>Key Features:</b>\n• eBPF-based network packet tracing\n• Advanced filtering capabilities\n• Fine-grained introspection of kernel state\n• Support for kprobe and kprobe-multi backends\n• Filtering by function name, ifname, netns, mark\n<br>\n📖 <b>Summary:</b>\npwru is an eBPF-based tool designed for tracing network packets within the Linux kernel. It provides advanced filtering options and allows for detailed inspection of kernel state, enabling users to effectively debug network connectivity problems. The tool supports various kernel versions and tracing backends, offering flexibility in how packets are tracked and analyzed.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cilium/pwru?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/416278604/c51a3364-fa02-4e56-b811-749293f72e9d",
-        "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 1.2000000000000002
     }
 ]
