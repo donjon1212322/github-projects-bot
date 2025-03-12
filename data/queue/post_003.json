@@ -1,7 +1,0 @@
-{
-    "project_id": 5764651,
-    "content": "💡 <b>tzlocal</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDetermining the local timezone of a system, even when the system's configuration is incomplete or non-standard.\n<br>\n✨ <b>Key Features:</b>\n• Returns the IANA time zone name for the local time zone.\n• Provides a tzinfo object with local timezone information.\n• Works on Unix and Windows systems.\n• Attempts to fix the lack of local timezone detection in pytz and zoneinfo.\n<br>\n📖 <b>Summary:</b>\nThe tzlocal Python module aims to provide a reliable way to determine the local timezone of a system, regardless of the underlying operating system (Windows or Unix-like). It addresses the challenge of accurately identifying the local timezone when standard libraries like pytz and zoneinfo fall short due to incomplete system configurations, offering both the timezone name and a tzinfo object.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/regebro/tzlocal?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/c2928aa67f8afa6d7dc4f735017b1f3b8cb75a260b3ab2b4125bc26b2a77d670/regebro/tzlocal",
-    "platform": "telegram",
-    "quality_score": 0.95
-}
