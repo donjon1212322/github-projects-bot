@@ -1,287 +1,322 @@
 [
     {
-        "id": 745749489,
-        "name": "autoMate",
-        "description": "Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves",
-        "url": "https://github.com/yuruotong1/autoMate",
-        "language": "Python",
-        "stars": 1404,
-        "forks": 181,
-        "created_at": "2024-01-20T03:04:09Z",
-        "updated_at": "2025-03-12T10:11:19Z",
+        "id": 683837120,
+        "name": "presenterm",
+        "description": "A markdown terminal slideshow tool",
+        "url": "https://github.com/mfontanini/presenterm",
+        "language": "Rust",
+        "stars": 4651,
+        "forks": 97,
+        "created_at": "2023-08-27T21:15:15Z",
+        "updated_at": "2025-03-13T10:10:40Z",
         "topics": [
-            "agent",
-            "ai",
-            "deepseek",
-            "ollama",
-            "omniparser",
-            "rpa"
-        ],
-        "quality_score": 0.9000000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-11T23:30:42Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/a45bcc1db27518127df2be118a98cf09e78726581fa6d48c3eba4d37ea8ea6ef/yuruotong1/autoMate"
-        ],
-        "homepage": "",
-        "readme_summary": "autoMate is an AI-powered local automation tool that allows users to automate complex computer tasks using natural language. It leverages large language models to understand task descriptions and operate the computer interface, simulating human vision and actions. The tool supports local deployment to ensure data security and aims to free users from repetitive work.",
-        "key_features": [
-            "No-Code Automation using natural language",
-            "Full Interface Control",
-            "Simplified Installation",
-            "Local Operation for data security",
-            "Multi-Model Support for LLMs",
-            "Continuous Learning and Adaptation"
-        ],
-        "primary_use_case": "AI-driven local automation assistant that uses natural language to automate computer tasks and workflows.",
-        "open_issues": 14,
-        "cover_image_prompt": "An industrious robot tailor meticulously crafting custom-fit suits for busy professionals. The robot uses natural language instructions displayed on a holographic screen to automate the tailoring process, seamlessly integrating digital patterns with physical fabric. Finished suits emerge, representing time reclaimed from tedious tasks. The scene is set in a bright, modern workshop filled with spools of thread, digital measuring tools, and subtle UI elements displaying automation workflows. The repository name, 'autoMate,' is subtly stitched into a label on one of the suits. The image should be in a 3D isometric illustration style with vibrant colors and clean, precise details."
-    },
-    {
-        "id": 930391165,
-        "name": "Memory",
-        "description": "A self-hosted editor and note taking app.",
-        "url": "https://github.com/yousboot/Memory",
-        "language": "JavaScript",
-        "stars": 187,
-        "forks": 7,
-        "created_at": "2025-02-10T15:03:17Z",
-        "updated_at": "2025-03-12T05:30:37Z",
-        "topics": [],
-        "quality_score": 0.55,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-11T11:02:46Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/eda6089f0ab2175999e915f52a37d56424fbe52703d30acc6afae6fe55bf8759/yousboot/Memory"
-        ],
-        "homepage": null,
-        "readme_summary": "Memory is a minimalist, open-source note-taking application designed for simplicity and efficiency. It provides a straightforward interface for taking and organizing notes in folders, featuring keyboard shortcuts, instant URL formatting, and local media storage. The goal is to offer a frictionless note-taking experience without unnecessary features.",
-        "key_features": [
-            "Simple UI",
-            "Folder and note creation with <enter>",
-            "Keyboard shortcuts",
-            "Instant URL formatting",
-            "Local media storage"
-        ],
-        "primary_use_case": "Simple, efficient note-taking and organization.",
-        "open_issues": 1,
-        "cover_image_prompt": "A writer sitting at a minimalist desk, organizing thoughts represented as glowing orbs into labeled folders. The desk is clean and uncluttered, symbolizing the app's simplicity. The orbs represent individual notes, and the folders are clearly marked with titles. A subtle UI element floats nearby, displaying a simplified version of the note-taking interface. The scene is bathed in soft, natural light, creating a calm and focused atmosphere. Small code snippets related to data organization are subtly visible as background textures. The image should be in a flat design style with clear iconography and a pastel color scheme."
-    },
-    {
-        "id": 906150015,
-        "name": "Validoopsie",
-        "description": "A simple and easy to use Data Validation library for Python.",
-        "url": "https://github.com/akmalsoliev/Validoopsie",
-        "language": "Python",
-        "stars": 55,
-        "forks": 0,
-        "created_at": "2024-12-20T09:14:52Z",
-        "updated_at": "2025-03-12T09:53:00Z",
-        "topics": [
-            "data-contracts",
-            "data-engineering",
-            "data-testing",
-            "data-validation",
-            "python"
-        ],
-        "quality_score": 0.75,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-10T15:02:25Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/e89d93cfcdfae55396b208311166334c625a84ef6ebb1f663616e1d07d15a70b/akmalsoliev/Validoopsie"
-        ],
-        "homepage": "https://akmalsoliev.github.io/Validoopsie/",
-        "readme_summary": "Validoopsie is a Python data validation library designed for ease of use and flexibility. It allows users to define validation rules and chain them together in a manner similar to DataFrame libraries. The library incorporates the 'Bring Your Own DataFrame' concept, supporting various DataFrame types for data validation tasks.",
-        "key_features": [
-            "Data validation",
-            "BYOD (Bring Your Own DataFrame) concept",
-            "Easy to use syntax",
-            "Chainable validation methods"
-        ],
-        "primary_use_case": "Validating data using a simple and chainable API.",
-        "open_issues": 1,
-        "cover_image_prompt": "A meticulous architect meticulously reviewing blueprints spread across a large table, ensuring every detail aligns with a master plan. The blueprints represent data structures, and the architect uses specialized tools that highlight inconsistencies and errors. Subtle digital overlays display validation rules and data types on the blueprints. The scene is set in a brightly lit, modern design studio with a large window overlooking a cityscape. The repository name, 'Validoopsie,' is subtly etched into the architect's drafting tools. The image should be in a clean, technical illustration style with labeled parts and a focus on clarity and precision."
-    },
-    {
-        "id": 5764651,
-        "name": "tzlocal",
-        "description": "A Python module that tries to figure out what your local timezone is",
-        "url": "https://github.com/regebro/tzlocal",
-        "language": "Python",
-        "stars": 196,
-        "forks": 58,
-        "created_at": "2012-09-11T12:34:21Z",
-        "updated_at": "2025-03-12T07:47:05Z",
-        "topics": [],
-        "quality_score": 0.95,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-05T21:17:44Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/c2928aa67f8afa6d7dc4f735017b1f3b8cb75a260b3ab2b4125bc26b2a77d670/regebro/tzlocal"
-        ],
-        "homepage": null,
-        "readme_summary": "The tzlocal Python module aims to provide a reliable way to determine the local timezone of a system, regardless of the underlying operating system (Windows or Unix-like). It addresses the challenge of accurately identifying the local timezone when standard libraries like pytz and zoneinfo fall short due to incomplete system configurations, offering both the timezone name and a tzinfo object.",
-        "key_features": [
-            "Returns the IANA time zone name for the local time zone.",
-            "Provides a tzinfo object with local timezone information.",
-            "Works on Unix and Windows systems.",
-            "Attempts to fix the lack of local timezone detection in pytz and zoneinfo.",
-            "Provides get_localzone_name() to get only the timezone name."
-        ],
-        "primary_use_case": "Determining the local timezone of a system, even when the system's configuration is incomplete or non-standard.",
-        "open_issues": 2,
-        "cover_image_prompt": "A cartographer meticulously piecing together a world map from fragmented location data, using a magical compass that always points to the user's current location. The map is filled with glowing time zone lines, and the cartographer's desk is adorned with subtle UI elements showing timezone settings and code snippets. The scene is set in a cozy, sunlit study filled with globes and antique clocks. The image should be in a detailed 3D isometric illustration style with warm colors and soft lighting."
-    },
-    {
-        "id": 689299900,
-        "name": "langwatch",
-        "description": "The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨",
-        "url": "https://github.com/langwatch/langwatch",
-        "language": "TypeScript",
-        "stars": 1202,
-        "forks": 69,
-        "created_at": "2023-09-09T11:33:18Z",
-        "updated_at": "2025-03-12T09:24:27Z",
-        "topics": [
-            "ai",
-            "analytics",
-            "datasets",
-            "dspy",
-            "evaluation",
-            "gpt",
-            "llm",
-            "llmops",
-            "low-code",
-            "observability",
-            "openai",
-            "prompt-engineering"
-        ],
-        "quality_score": 1.1,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-11T11:42:32Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/ea19d65a16b6ff0768b07b82866d75a40841ab9d63db34fc9d787aa953c2d758/langwatch/langwatch"
-        ],
-        "homepage": "https://langwatch.ai",
-        "readme_summary": "LangWatch is an LLM Ops platform designed to monitor, experiment with, and optimize LLM pipelines. It offers features such as a drag-and-drop optimization studio, quality assurance tools with evaluators and dataset management, and monitoring and analytics dashboards for cost, performance, and user behavior. It supports integration with both Python and TypeScript.",
-        "key_features": [
-            "Optimization Studio (Drag-and-drop interface, DSPy framework, Prompt and few-shot generation, Experiment tracking)",
-            "Quality Assurance (30+ evaluators, Custom evaluation builder, Dataset management, Compliance and safety checks, DSPy Visualizer)",
-            "Monitoring & Analytics (Cost and performance tracking, Real-time debugging, User analytics, Custom dashboards and alerts)"
-        ],
-        "primary_use_case": "LLM monitoring, experimentation, measurement, and improvement of LLM pipelines.",
-        "open_issues": 16,
-        "cover_image_prompt": "Imagine a skilled conductor leading an orchestra of LLMs. The conductor, representing LangWatch, stands on a platform with a clear dashboard displaying metrics and controls. Each instrument in the orchestra symbolizes a different LLM, playing in harmony under the conductor's guidance. The music they create represents optimized LLM pipelines. Subtle tech elements like glowing data streams and UI overlays are woven into the scene. The setting is a modern, brightly lit concert hall. The composition is dynamic and focused on the conductor. The image should be in a 3D isometric illustration style with vibrant colors and rich details, conveying control and optimization."
-    },
-    {
-        "id": 285134677,
-        "name": "viztracer",
-        "description": "A debugging and profiling tool that can trace and visualize python code execution",
-        "url": "https://github.com/gaogaotiantian/viztracer",
-        "language": "Python",
-        "stars": 6158,
-        "forks": 423,
-        "created_at": "2020-08-05T00:29:56Z",
-        "updated_at": "2025-03-12T09:54:29Z",
-        "topics": [
-            "debugging",
-            "flamegraph",
-            "logging",
-            "profiling",
-            "python",
-            "python3",
-            "tracer",
-            "visualization"
-        ],
-        "quality_score": 1.05,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-11T03:43:46Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/866599b00218a9d4b352604a221004460e26d0b7e7a5e60993c573a510b381fd/gaogaotiantian/viztracer"
-        ],
-        "homepage": "https://viztracer.readthedocs.io/",
-        "readme_summary": "VizTracer is a low-overhead debugging and profiling tool for Python code. It provides detailed function-level tracing with a powerful front-end for visualization, supporting various execution models like threading, multiprocessing, and async. It aims to be easy to use with minimal overhead.",
-        "key_features": [
-            "Detailed function entry/exit information on timeline with source code",
-            "Easy to use, no source code change for most features, no package dependency",
-            "Low overhead",
-            "Supports threading, multiprocessing, subprocess, async and PyTorch",
-            "Powerful front-end, able to render GB-level trace smoothly",
-            "Works on Linux/MacOS/Windows"
-        ],
-        "primary_use_case": "Debugging and profiling Python code execution.",
-        "open_issues": 10,
-        "cover_image_prompt": "Imagine a detective meticulously examining a complex clockwork mechanism representing a Python program. The detective uses a magnifying glass that reveals glowing threads of code and data flowing through the gears. The clockwork is encased in a transparent dome, allowing a clear view of its inner workings. Small screens display performance metrics and function call timelines. The detective wears a fedora and trench coat, exuding an air of focused investigation. The scene is set in a dimly lit, high-tech laboratory with a blue and purple color scheme. The image should be in a digital painting style with clean lines and clear details, emphasizing the detective's scrutiny and the program's intricate structure."
-    },
-    {
-        "id": 93882897,
-        "name": "slang",
-        "description": "Making it easier to work with shaders",
-        "url": "https://github.com/shader-slang/slang",
-        "language": "C++",
-        "stars": 3700,
-        "forks": 259,
-        "created_at": "2017-06-09T17:42:49Z",
-        "updated_at": "2025-03-12T09:57:17Z",
-        "topics": [
-            "cuda",
-            "d3d12",
-            "glsl",
-            "hlsl",
-            "shaders",
-            "vulkan"
-        ],
-        "quality_score": 1.05,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-12T07:55:19Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/37455275c3b62bfc140ed214cac2109992324840d3989a047350885a39c40344/shader-slang/slang"
-        ],
-        "homepage": "http://shader-slang.com",
-        "readme_summary": "Slang is a shading language designed to simplify the development and maintenance of large-scale shader codebases. It offers cross-platform compilation, automatic differentiation, a module system, and generics, enabling developers to write shaders once and run them on multiple platforms like D3D12, Vulkan, and CUDA. Slang also provides compatibility with HLSL and GLSL, facilitating easier adoption for existing projects.",
-        "key_features": [
-            "Cross-platform shader compilation (D3D12, Vulkan, Metal, D3D11, OpenGL, CUDA, CPU)",
-            "Automatic differentiation for neural graphics",
-            "Module system for scalable shader development",
-            "Generics and interfaces for code specialization",
-            "HLSL and GLSL compatibility",
-            "Capability system for managing feature set differences across platforms"
-        ],
-        "primary_use_case": "Building and maintaining large shader codebases in a modular and extensible fashion while maintaining high performance across various platforms.",
-        "open_issues": 322,
-        "cover_image_prompt": "A skilled architect standing before a complex blueprint, effortlessly translating its intricate details into various miniature city models representing different platforms (D3D12, Vulkan, Metal, CUDA). Each model glows with a distinct color, showcasing its unique features. The architect uses a special tool that emits digital particles, seamlessly converting the blueprint into the city models. Small UI elements displaying shader code and platform logos float subtly in the background. The scene is set in a bright, modern design studio with clean lines. The image should be in 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 603535454,
-        "name": "langchaingo",
-        "description": "LangChain for Go, the easiest way to write LLM-based programs in Go",
-        "url": "https://github.com/tmc/langchaingo",
-        "language": "Go",
-        "stars": 6004,
-        "forks": 750,
-        "created_at": "2023-02-18T20:04:54Z",
-        "updated_at": "2025-03-12T06:10:51Z",
-        "topics": [
-            "ai",
-            "go",
-            "golang",
-            "langchain"
+            "cli",
+            "markdown",
+            "markdown-slides",
+            "presentation",
+            "rust",
+            "slides",
+            "slideshow",
+            "terminal"
         ],
         "quality_score": 0.9500000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2025-02-13T04:46:59Z",
+        "last_commit_date": "2025-03-13T02:46:08Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/74c8c5e65adcf3c0a0d147393f26f60d46aceedb26eff892563efaee180ed3c9/tmc/langchaingo"
+            "https://opengraph.githubassets.com/94b7bed9b49d37847bdc103e319cff0d836cfeb75232ebaf1cb4d76ef3a3f5ab/mfontanini/presenterm"
         ],
-        "homepage": "https://tmc.github.io/langchaingo/",
-        "readme_summary": "LangChain Go is a Go language implementation of LangChain, designed to facilitate the creation of LLM-powered applications through composable components. The repository provides examples to help developers get started with building their own applications.",
+        "homepage": "https://mfontanini.github.io/presenterm/",
+        "readme_summary": "Presenterm is a Rust-based tool that allows users to create and deliver presentations directly from the terminal using markdown. It supports a wide range of features, including image and GIF integration, customizable themes, code highlighting, and PDF exporting. Presenterm aims to provide a flexible and efficient way to present information in a terminal environment.",
         "key_features": [
-            "Go language implementation of LangChain",
-            "Building applications with LLMs through composability",
-            "Examples provided for usage"
+            "Markdown-based presentations",
+            "Image and animated GIF support",
+            "Customizable themes",
+            "Code highlighting",
+            "PDF export",
+            "Selective code highlighting",
+            "Column layouts",
+            "Mermaid graph rendering",
+            "LaTeX and typst formula rendering",
+            "Snippet execution",
+            "Speaker notes",
+            "Hot reload"
         ],
-        "primary_use_case": "Building applications with LLMs using Go.",
-        "open_issues": 188,
-        "cover_image_prompt": "A skilled Go programmer, depicted as an architect, meticulously assembling intricate structures from Lego-like blocks representing LLM components. Each block glows with digital energy, connecting to form complex AI applications. The architect consults blueprints displaying LangChain Go code snippets. The scene is set in a bright, modern workshop filled with floating data particles and holographic projections of AI models. The composition is clean and focused, with a vibrant color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
+        "primary_use_case": "Creating and running terminal-based slideshow presentations from markdown files.",
+        "open_issues": 8,
+        "cover_image_prompt": "A skilled stage director standing in a grand, yet minimalist, theater. The director holds a markdown document as a script, which magically transforms into a dynamic slideshow projected onto the stage's large screen. The stage is subtly decorated with terminal-like elements, such as command-line symbols and stylized code snippets integrated into the backdrop. The audience seats are empty, implying the presentation is ready to begin. The scene is bathed in soft, focused stage lighting, creating a sense of anticipation and clarity. The image should be in a 3D isometric illustration style with clean lines and a vibrant color scheme."
+    },
+    {
+        "id": 333536823,
+        "name": "algorithmica",
+        "description": "A computer science textbook",
+        "url": "https://github.com/algorithmica-org/algorithmica",
+        "language": "Jupyter Notebook",
+        "stars": 3959,
+        "forks": 382,
+        "created_at": "2021-01-27T19:28:30Z",
+        "updated_at": "2025-03-13T09:44:30Z",
+        "topics": [
+            "computer-science",
+            "education",
+            "markdown"
+        ],
+        "quality_score": 0.55,
+        "contributors_count": 0,
+        "last_commit_date": "2022-12-11T08:40:56Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/dc8bb5d1acd97bdeafbb2c9587b047b6df8f89532ac58ac1a12c12fe15ff9300/algorithmica-org/algorithmica"
+        ],
+        "homepage": "https://algorithmica.org/",
+        "readme_summary": "Algorithmica is an open-access computer science textbook designed to teach algorithms and data structures. It supports contributions via Prose or GitHub using a Markdown dialect. Key features include rich metadata, automated table of contents, theming, and search functionality.",
+        "key_features": [
+            "Open-access web book",
+            "Contribution via Prose or GitHub",
+            "Markdown dialect with Hugo support",
+            "Rich metadata support",
+            "Automated global table of contents",
+            "Theming support",
+            "Search support (Lunr)"
+        ],
+        "primary_use_case": "Education in computer science algorithms and data structures.",
+        "open_issues": 36,
+        "cover_image_prompt": "A wise librarian meticulously organizing knowledge within a vast, glowing digital library. The librarian carefully shelves books representing different algorithms, each book radiating a soft light. A grand, central table displays an open book titled 'Algorithmica,' its pages filled with elegant mathematical formulas and diagrams. Subtle UI elements float around the scene, showcasing code snippets and interactive visualizations. The library is bathed in warm, inviting light, creating an atmosphere of learning and discovery. The image should be in a 3D isometric illustration style with rich details and a vibrant color scheme."
+    },
+    {
+        "id": 304836585,
+        "name": "ezbookkeeping",
+        "description": "A lightweight personal bookkeeping app hosted by yourself.",
+        "url": "https://github.com/mayswind/ezbookkeeping",
+        "language": "Go",
+        "stars": 520,
+        "forks": 68,
+        "created_at": "2020-10-17T08:54:02Z",
+        "updated_at": "2025-03-13T10:08:30Z",
+        "topics": [
+            "account-book",
+            "accounting",
+            "app",
+            "bookkeeping",
+            "financial",
+            "golang",
+            "javascript",
+            "mobile",
+            "money",
+            "money-management",
+            "money-manager",
+            "personal",
+            "personal-finance",
+            "self-hosted",
+            "vue"
+        ],
+        "quality_score": 0.9500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-03-10T16:29:22Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/304836585/b54a8e74-4f66-4f6a-95ec-91940bb9f3d7"
+        ],
+        "homepage": "https://ezbookkeeping.mayswind.net",
+        "readme_summary": "ezBookkeeping is a self-hosted, lightweight personal bookkeeping application. It supports multiple databases and platforms, including mobile devices. Key features include Docker support, multi-currency support, two-factor authentication, and data export/import capabilities.",
+        "key_features": [
+            "Self-hosted",
+            "Docker support",
+            "Multiple database support (SQLite, MySQL, PostgreSQL)",
+            "Multi-platform support (Windows, macOS, Linux & x86, amd64, ARM)",
+            "Mobile UI",
+            "Multiple currency support",
+            "Two-factor authentication",
+            "Data export & import (OFX, QFX, QIF, IIF, CSV, GnuCash, FireFly III)"
+        ],
+        "primary_use_case": "Lightweight personal bookkeeping",
+        "open_issues": 13,
+        "cover_image_prompt": "A meticulous librarian meticulously balancing a towering stack of books representing personal finances. Each book is labeled with categories like 'Income,' 'Expenses,' and 'Savings.' The librarian uses a magnifying glass to examine the books, revealing subtle digital interfaces overlaid on the pages, displaying charts and graphs. A warm, inviting library setting with soft lighting. Small UI elements showing transaction details subtly float around the scene. The composition is balanced and focused, with a muted color scheme. The image should be in a 3D isometric illustration style with rich details and a sense of calm organization."
+    },
+    {
+        "id": 254202848,
+        "name": "florisboard",
+        "description": "An open-source keyboard for Android which respects your privacy. Currently in early-beta.",
+        "url": "https://github.com/florisboard/florisboard",
+        "language": "Kotlin",
+        "stars": 6627,
+        "forks": 428,
+        "created_at": "2020-04-08T21:18:23Z",
+        "updated_at": "2025-03-13T09:20:34Z",
+        "topics": [
+            "android",
+            "input-method",
+            "keyboard",
+            "kotlin",
+            "kotlin-android"
+        ],
+        "quality_score": 0.9500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-03-11T23:26:12Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/254202848/81799060-9b89-4aa6-b68b-54a12ab3b3ff"
+        ],
+        "homepage": "https://florisboard.org",
+        "readme_summary": "FlorisBoard is an open-source keyboard for Android that prioritizes user privacy and customization. It offers features like a clipboard manager, advanced theming, extension support, and an emoji keyboard. The project is currently in early-beta and aims to be a modern and user-friendly alternative to proprietary keyboards.",
+        "key_features": [
+            "Integrated clipboard manager/history",
+            "Advanced theming support and customization",
+            "Integrated extension support",
+            "Emoji keyboard/history/suggestions"
+        ],
+        "primary_use_case": "An open-source, customizable, and privacy-focused keyboard for Android devices.",
+        "open_issues": 480,
+        "cover_image_prompt": "A skilled artisan meticulously crafting a keyboard from various components, each representing a different feature or customization option. The artisan uses a digital sculpting tool to shape the keys and layout, with small code snippets and UI elements floating around the workspace. The finished keyboard glows with a soft, customizable light, reflecting the user's personal preferences. The scene is set in a modern, well-lit workshop with a clean and focused composition. The image should be in 3D isometric illustration style with rich details and vibrant colors, emphasizing the open-source nature and user-centric design."
+    },
+    {
+        "id": 6417181,
+        "name": "afwall",
+        "description": "AFWall+ (Android Firewall +) - iptables based firewall for Android ",
+        "url": "https://github.com/ukanth/afwall",
+        "language": "Java",
+        "stars": 2951,
+        "forks": 462,
+        "created_at": "2012-10-27T13:20:30Z",
+        "updated_at": "2025-03-13T06:31:35Z",
+        "topics": [
+            "afwall",
+            "android",
+            "android-firewall",
+            "block",
+            "crowdin",
+            "firewall",
+            "iptables"
+        ],
+        "quality_score": 0.65,
+        "contributors_count": 0,
+        "last_commit_date": "2024-11-12T16:34:24Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/f1a7de5a131f1b17088ad69c8bc4e8beb4479b8eac02cb4995bde168842c5ec7/ukanth/afwall"
+        ],
+        "homepage": "",
+        "readme_summary": "AFWall+ is an Android firewall application that provides fine-grained control over which apps can access the network. It uses iptables to manage network traffic and offers features like multi-user support, Tasker integration, and IPv6 compatibility. The application is designed to be easy to use and provides a simple interface for managing complex firewall rules.",
+        "key_features": [
+            "iptables based firewall",
+            "Fine-grained control over network access for Android apps",
+            "Support for Android versions 5.x to 11.x",
+            "Compatible with Magisk and LineageOS su",
+            "IPv4 & IPv6 support",
+            "Tasker and Locale plugin support"
+        ],
+        "primary_use_case": "Providing a GUI for managing iptables rules on Android devices, allowing users to control network access for individual applications.",
+        "open_issues": 298,
+        "cover_image_prompt": "A gatekeeper meticulously inspecting network traffic flowing through a digital city's entrance. The gatekeeper, representing AFWall+, uses a magnifying glass to examine data packets, represented as glowing envelopes, blocking any suspicious or unauthorized ones. Some packets are allowed through, symbolized by a green checkmark, while others are blocked, indicated by a red 'X'. Small UI elements displaying firewall rules and logs are subtly integrated into the city's architecture. The scene is set against a futuristic cityscape with a clean, focused composition and a blue and green color scheme. The image should be in a flat design style with clear iconography and vibrant colors."
+    },
+    {
+        "id": 477116300,
+        "name": "bonsai",
+        "description": ":deciduous_tree: A multiplatform tree view for Jetpack Compose",
+        "url": "https://github.com/adrielcafe/bonsai",
+        "language": "Kotlin",
+        "stars": 382,
+        "forks": 16,
+        "created_at": "2022-04-02T16:54:02Z",
+        "updated_at": "2025-03-12T17:48:54Z",
+        "topics": [
+            "android",
+            "android-library",
+            "android-ui",
+            "compose",
+            "desktop",
+            "expandable",
+            "jetpack-compose",
+            "kotlin",
+            "kotlin-android",
+            "kotlin-dsl",
+            "kotlin-multiplatform",
+            "selectable",
+            "tree",
+            "tree-structure",
+            "treeview"
+        ],
+        "quality_score": 0.55,
+        "contributors_count": 0,
+        "last_commit_date": "2024-02-07T16:03:16Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/6a5a8411086b91956b899d17f6b93b6b590f84c329a63432cce26fc098dd5b56/adrielcafe/bonsai"
+        ],
+        "homepage": "",
+        "readme_summary": "Bonsai is a multiplatform Jetpack Compose library for creating tree view components. It offers a DSL for easy tree construction, supports features like lazy loading, state management, and styling, and provides integrations for file system and JSON data. It simplifies the display and interaction with hierarchical data in Compose-based applications.",
+        "key_features": [
+            "Multiplatform (Android, Desktop)",
+            "State-aware recomposition",
+            "Unlimited depth",
+            "Lazy loaded nodes",
+            "Built-in DSL",
+            "File System integration",
+            "JSON integration",
+            "Expandable/Collapsible nodes",
+            "Selectable nodes",
+            "Clickable nodes",
+            "Styleable nodes",
+            "Extendable nodes"
+        ],
+        "primary_use_case": "Creating and managing tree view structures in Jetpack Compose applications for Android and Desktop platforms.",
+        "open_issues": 10,
+        "cover_image_prompt": "Imagine a skilled gardener carefully tending to a bonsai tree, meticulously shaping its branches and leaves. The tree represents a complex data structure, with each branch symbolizing a different category or element. The gardener, representing the Bonsai library, uses specialized tools (DSL) to effortlessly navigate, expand, and style the tree. A subtle UI overlay shows a tree view interface with expandable nodes and selectable items. The scene is set in a serene Japanese garden with soft, diffused lighting. The image should be in a 3D isometric illustration style with clean lines and vibrant colors, emphasizing the ease and control the library provides over tree structures."
+    },
+    {
+        "id": 915158079,
+        "name": "Instagram-AI-Agent",
+        "description": "Instagram Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟",
+        "url": "https://github.com/David-patrick-chuks/Instagram-AI-Agent",
+        "language": "TypeScript",
+        "stars": 2945,
+        "forks": 463,
+        "created_at": "2025-01-11T05:45:37Z",
+        "updated_at": "2025-03-13T08:22:07Z",
+        "topics": [],
+        "quality_score": 0.9000000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-25T17:20:57Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/8e4b32c730f19b7df9c50ecd03d81421948a23952a2469028b9ba783f22ea015/David-patrick-chuks/Instagram-AI-Agent"
+        ],
+        "homepage": "",
+        "readme_summary": "The Instagram-AI-Agent is designed to automate social media interactions on Instagram, such as posting, liking, and commenting. It uses AI to generate engaging content and provides features like proxy support and cookie management for efficient account management. The tool aims to streamline Instagram activities through automation and AI-driven content creation.",
+        "key_features": [
+            "Instagram Automation",
+            "AI-Powered Content Generation",
+            "Proxy Support",
+            "Cookie Management"
+        ],
+        "primary_use_case": "Automating Instagram interactions and content generation using AI.",
+        "open_issues": 27,
+        "cover_image_prompt": "A diligent gardener tending to a thriving Instagram garden, carefully planting seeds of AI-generated content and pruning away spam. The gardener uses a watering can labeled 'AI Agent' to nourish the plants, which blossom into engaging posts, likes, and comments. Small screens display snippets of code and data visualizations related to Instagram automation. The garden is surrounded by a futuristic cityscape with glowing digital elements. The scene is set in the early morning with soft, diffused lighting. The image should be in a 3D isometric illustration style with vibrant colors and rich details."
+    },
+    {
+        "id": 828545688,
+        "name": "ChromeStealer",
+        "description": "ChromeStealer is a tool for educational purposes to demonstrate how to extract and decrypt stored passwords from Google Chrome on a Windows system using C/C++. ",
+        "url": "https://github.com/BernKing/ChromeStealer",
+        "language": "C++",
+        "stars": 133,
+        "forks": 18,
+        "created_at": "2024-07-14T13:27:30Z",
+        "updated_at": "2025-03-13T08:53:00Z",
+        "topics": [
+            "decryption",
+            "malware-development",
+            "password-safety",
+            "windows"
+        ],
+        "quality_score": 0.4,
+        "contributors_count": 0,
+        "last_commit_date": "2024-07-25T08:27:10Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/287d4d91403459e3fd18630578a0536067a8789f3caca3a16dae210b127a7b11/BernKing/ChromeStealer"
+        ],
+        "homepage": "https://bernking.github.io//2024/chrome-stealer/",
+        "readme_summary": "ChromeStealer is a C++ tool designed for educational purposes, demonstrating how to extract and decrypt stored passwords from Google Chrome on Windows systems. It utilizes libraries like libsodium, nlohmann/json, and sqlite3 to access and decrypt password data. The repository provides a practical example of password security vulnerabilities and extraction techniques.",
+        "key_features": [
+            "Extracts stored passwords from Google Chrome on Windows",
+            "Decrypts stored passwords",
+            "Educational tool for demonstrating password extraction techniques"
+        ],
+        "primary_use_case": "Educational demonstration of password extraction and decryption from Google Chrome for security awareness and learning purposes.",
+        "open_issues": 1,
+        "cover_image_prompt": "A locksmith meticulously picking the lock of a gleaming, futuristic Chrome browser safe. Inside the safe, digital passwords float like glowing butterflies, some already captured in the locksmith's net. The locksmith's tools subtly display UI elements of a password extraction tool. The scene is set in a brightly lit, minimalist workshop with subtle code snippets projected onto the walls. The composition is focused and clean, with a color scheme of blues, silvers, and glowing accents. The image should be in a 3D isometric illustration style with high detail and a sense of precision."
     }
 ]

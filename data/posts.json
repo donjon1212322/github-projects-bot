@@ -1,58 +1,58 @@
 [
     {
-        "project_id": 745749489,
-        "content": "🔥 <b>autoMate</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-driven local automation assistant that uses natural language to automate computer tasks and workflows.\n<br>\n✨ <b>Key Features:</b>\n• No-Code Automation using natural language\n• Full Interface Control\n• Simplified Installation\n• Local Operation for data security\n• Multi-Model Support for LLMs\n<br>\n📖 <b>Summary:</b>\nautoMate is an AI-powered local automation tool that allows users to automate complex computer tasks using natural language. It leverages large language models to understand task descriptions and operate the computer interface, simulating human vision and actions. The tool supports local deployment to ensure data security and aims to free users from repetitive work.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yuruotong1/autoMate?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a45bcc1db27518127df2be118a98cf09e78726581fa6d48c3eba4d37ea8ea6ef/yuruotong1/autoMate",
+        "project_id": 683837120,
+        "content": "🚀 <b>presenterm</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and running terminal-based slideshow presentations from markdown files.\n<br>\n✨ <b>Key Features:</b>\n• Markdown-based presentations\n• Image and animated GIF support\n• Customizable themes\n• Code highlighting\n• PDF export\n<br>\n📖 <b>Summary:</b>\nPresenterm is a Rust-based tool that allows users to create and deliver presentations directly from the terminal using markdown. It supports a wide range of features, including image and GIF integration, customizable themes, code highlighting, and PDF exporting. Presenterm aims to provide a flexible and efficient way to present information in a terminal environment.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mfontanini/presenterm?embed=0\">View Project</a>\n• <a href=\"https://mfontanini.github.io/presenterm/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/94b7bed9b49d37847bdc103e319cff0d836cfeb75232ebaf1cb4d76ef3a3f5ab/mfontanini/presenterm",
         "platform": "telegram",
-        "quality_score": 0.9000000000000001
+        "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 930391165,
-        "content": "🔥 <b>Memory</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSimple, efficient note-taking and organization.\n<br>\n✨ <b>Key Features:</b>\n• Simple UI\n• Folder and note creation with <enter>\n• Keyboard shortcuts\n• Instant URL formatting\n• Local media storage\n<br>\n📖 <b>Summary:</b>\nMemory is a minimalist, open-source note-taking application designed for simplicity and efficiency. It provides a straightforward interface for taking and organizing notes in folders, featuring keyboard shortcuts, instant URL formatting, and local media storage. The goal is to offer a frictionless note-taking experience without unnecessary features.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yousboot/Memory?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/eda6089f0ab2175999e915f52a37d56424fbe52703d30acc6afae6fe55bf8759/yousboot/Memory",
+        "project_id": 333536823,
+        "content": "🌟 <b>algorithmica</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nEducation in computer science algorithms and data structures.\n<br>\n✨ <b>Key Features:</b>\n• Open-access web book\n• Contribution via Prose or GitHub\n• Markdown dialect with Hugo support\n• Rich metadata support\n• Automated global table of contents\n<br>\n📖 <b>Summary:</b>\nAlgorithmica is an open-access computer science textbook designed to teach algorithms and data structures. It supports contributions via Prose or GitHub using a Markdown dialect. Key features include rich metadata, automated table of contents, theming, and search functionality.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/algorithmica-org/algorithmica?embed=0\">View Project</a>\n• <a href=\"https://algorithmica.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/dc8bb5d1acd97bdeafbb2c9587b047b6df8f89532ac58ac1a12c12fe15ff9300/algorithmica-org/algorithmica",
         "platform": "telegram",
         "quality_score": 0.55
     },
     {
-        "project_id": 906150015,
-        "content": "🔥 <b>Validoopsie</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nValidating data using a simple and chainable API.\n<br>\n✨ <b>Key Features:</b>\n• Data validation\n• BYOD (Bring Your Own DataFrame) concept\n• Easy to use syntax\n• Chainable validation methods\n<br>\n📖 <b>Summary:</b>\nValidoopsie is a Python data validation library designed for ease of use and flexibility. It allows users to define validation rules and chain them together in a manner similar to DataFrame libraries. The library incorporates the 'Bring Your Own DataFrame' concept, supporting various DataFrame types for data validation tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/akmalsoliev/Validoopsie?embed=0\">View Project</a>\n• <a href=\"https://akmalsoliev.github.io/Validoopsie/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e89d93cfcdfae55396b208311166334c625a84ef6ebb1f663616e1d07d15a70b/akmalsoliev/Validoopsie",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 5764651,
-        "content": "💡 <b>tzlocal</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDetermining the local timezone of a system, even when the system's configuration is incomplete or non-standard.\n<br>\n✨ <b>Key Features:</b>\n• Returns the IANA time zone name for the local time zone.\n• Provides a tzinfo object with local timezone information.\n• Works on Unix and Windows systems.\n• Attempts to fix the lack of local timezone detection in pytz and zoneinfo.\n<br>\n📖 <b>Summary:</b>\nThe tzlocal Python module aims to provide a reliable way to determine the local timezone of a system, regardless of the underlying operating system (Windows or Unix-like). It addresses the challenge of accurately identifying the local timezone when standard libraries like pytz and zoneinfo fall short due to incomplete system configurations, offering both the timezone name and a tzinfo object.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/regebro/tzlocal?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c2928aa67f8afa6d7dc4f735017b1f3b8cb75a260b3ab2b4125bc26b2a77d670/regebro/tzlocal",
-        "platform": "telegram",
-        "quality_score": 0.95
-    },
-    {
-        "project_id": 689299900,
-        "content": "💡 <b>langwatch</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nLLM monitoring, experimentation, measurement, and improvement of LLM pipelines.\n<br>\n✨ <b>Key Features:</b>\n• Optimization Studio (Drag-and-drop interface, DSPy framework, Prompt and few-shot generation, Experiment tracking)\n<br>\n📖 <b>Summary:</b>\nLangWatch is an LLM Ops platform designed to monitor, experiment with, and optimize LLM pipelines. It offers features such as a drag-and-drop optimization studio, quality assurance tools with evaluators and dataset management, and monitoring and analytics dashboards for cost, performance, and user behavior. It supports integration with both Python and TypeScript.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/langwatch/langwatch?embed=0\">View Project</a>\n• <a href=\"https://langwatch.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ea19d65a16b6ff0768b07b82866d75a40841ab9d63db34fc9d787aa953c2d758/langwatch/langwatch",
-        "platform": "telegram",
-        "quality_score": 1.1
-    },
-    {
-        "project_id": 285134677,
-        "content": "✨ <b>viztracer</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDebugging and profiling Python code execution.\n<br>\n✨ <b>Key Features:</b>\n• Detailed function entry/exit information on timeline with source code\n• Easy to use, no source code change for most features, no package dependency\n• Low overhead\n• Supports threading, multiprocessing, subprocess, async and PyTorch\n• Powerful front-end, able to render GB-level trace smoothly\n<br>\n📖 <b>Summary:</b>\nVizTracer is a low-overhead debugging and profiling tool for Python code. It provides detailed function-level tracing with a powerful front-end for visualization, supporting various execution models like threading, multiprocessing, and async. It aims to be easy to use with minimal overhead.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gaogaotiantian/viztracer?embed=0\">View Project</a>\n• <a href=\"https://viztracer.readthedocs.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/866599b00218a9d4b352604a221004460e26d0b7e7a5e60993c573a510b381fd/gaogaotiantian/viztracer",
-        "platform": "telegram",
-        "quality_score": 1.05
-    },
-    {
-        "project_id": 93882897,
-        "content": "🌟 <b>slang</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding and maintaining large shader codebases in a modular and extensible fashion while maintaining high performance across various platforms.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform shader compilation (D3D12, Vulkan, Metal, D3D11, OpenGL, CUDA, CPU)\n<br>\n📖 <b>Summary:</b>\nSlang is a shading language designed to simplify the development and maintenance of large-scale shader codebases. It offers cross-platform compilation, automatic differentiation, a module system, and generics, enabling developers to write shaders once and run them on multiple platforms like D3D12, Vulkan, and CUDA. Slang also provides compatibility with HLSL and GLSL, facilitating easier adoption for existing projects.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/shader-slang/slang?embed=0\">View Project</a>\n• <a href=\"http://shader-slang.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/37455275c3b62bfc140ed214cac2109992324840d3989a047350885a39c40344/shader-slang/slang",
-        "platform": "telegram",
-        "quality_score": 1.05
-    },
-    {
-        "project_id": 603535454,
-        "content": "💡 <b>langchaingo</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding applications with LLMs using Go.\n<br>\n✨ <b>Key Features:</b>\n• Go language implementation of LangChain\n• Building applications with LLMs through composability\n• Examples provided for usage\n<br>\n📖 <b>Summary:</b>\nLangChain Go is a Go language implementation of LangChain, designed to facilitate the creation of LLM-powered applications through composable components. The repository provides examples to help developers get started with building their own applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tmc/langchaingo?embed=0\">View Project</a>\n• <a href=\"https://tmc.github.io/langchaingo/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/74c8c5e65adcf3c0a0d147393f26f60d46aceedb26eff892563efaee180ed3c9/tmc/langchaingo",
+        "project_id": 304836585,
+        "content": "💡 <b>ezbookkeeping</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nLightweight personal bookkeeping\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted\n• Docker support\n• Multiple database support (SQLite, MySQL, PostgreSQL)\n• Multi-platform support (Windows, macOS, Linux & x86, amd64, ARM)\n• Mobile UI\n<br>\n📖 <b>Summary:</b>\nezBookkeeping is a self-hosted, lightweight personal bookkeeping application. It supports multiple databases and platforms, including mobile devices. Key features include Docker support, multi-currency support, two-factor authentication, and data export/import capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mayswind/ezbookkeeping?embed=0\">View Project</a>\n• <a href=\"https://ezbookkeeping.mayswind.net?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/304836585/b54a8e74-4f66-4f6a-95ec-91940bb9f3d7",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 254202848,
+        "content": "🔥 <b>florisboard</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nAn open-source, customizable, and privacy-focused keyboard for Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Integrated clipboard manager/history\n• Advanced theming support and customization\n• Integrated extension support\n• Emoji keyboard/history/suggestions\n<br>\n📖 <b>Summary:</b>\nFlorisBoard is an open-source keyboard for Android that prioritizes user privacy and customization. It offers features like a clipboard manager, advanced theming, extension support, and an emoji keyboard. The project is currently in early-beta and aims to be a modern and user-friendly alternative to proprietary keyboards.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/florisboard/florisboard?embed=0\">View Project</a>\n• <a href=\"https://florisboard.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/254202848/81799060-9b89-4aa6-b68b-54a12ab3b3ff",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 6417181,
+        "content": "🚀 <b>afwall</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a GUI for managing iptables rules on Android devices, allowing users to control network access for individual applications.\n<br>\n✨ <b>Key Features:</b>\n• iptables based firewall\n• Fine-grained control over network access for Android apps\n• Support for Android versions 5.x to 11.x\n• Compatible with Magisk and LineageOS su\n• IPv4 & IPv6 support\n<br>\n📖 <b>Summary:</b>\nAFWall+ is an Android firewall application that provides fine-grained control over which apps can access the network. It uses iptables to manage network traffic and offers features like multi-user support, Tasker integration, and IPv6 compatibility. The application is designed to be easy to use and provides a simple interface for managing complex firewall rules.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ukanth/afwall?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f1a7de5a131f1b17088ad69c8bc4e8beb4479b8eac02cb4995bde168842c5ec7/ukanth/afwall",
+        "platform": "telegram",
+        "quality_score": 0.65
+    },
+    {
+        "project_id": 477116300,
+        "content": "🚀 <b>bonsai</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and managing tree view structures in Jetpack Compose applications for Android and Desktop platforms.\n<br>\n✨ <b>Key Features:</b>\n• Multiplatform (Android, Desktop)\n• State-aware recomposition\n• Unlimited depth\n• Lazy loaded nodes\n• Built-in DSL\n<br>\n📖 <b>Summary:</b>\nBonsai is a multiplatform Jetpack Compose library for creating tree view components. It offers a DSL for easy tree construction, supports features like lazy loading, state management, and styling, and provides integrations for file system and JSON data. It simplifies the display and interaction with hierarchical data in Compose-based applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/adrielcafe/bonsai?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6a5a8411086b91956b899d17f6b93b6b590f84c329a63432cce26fc098dd5b56/adrielcafe/bonsai",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 915158079,
+        "content": "🚀 <b>Instagram-AI-Agent</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating Instagram interactions and content generation using AI.\n<br>\n✨ <b>Key Features:</b>\n• Instagram Automation\n• AI-Powered Content Generation\n• Proxy Support\n• Cookie Management\n<br>\n📖 <b>Summary:</b>\nThe Instagram-AI-Agent is designed to automate social media interactions on Instagram, such as posting, liking, and commenting. It uses AI to generate engaging content and provides features like proxy support and cookie management for efficient account management. The tool aims to streamline Instagram activities through automation and AI-driven content creation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/David-patrick-chuks/Instagram-AI-Agent?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8e4b32c730f19b7df9c50ecd03d81421948a23952a2469028b9ba783f22ea015/David-patrick-chuks/Instagram-AI-Agent",
+        "platform": "telegram",
+        "quality_score": 0.9000000000000001
+    },
+    {
+        "project_id": 828545688,
+        "content": "💡 <b>ChromeStealer</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nEducational demonstration of password extraction and decryption from Google Chrome for security awareness and learning purposes.\n<br>\n✨ <b>Key Features:</b>\n• Extracts stored passwords from Google Chrome on Windows\n• Decrypts stored passwords\n• Educational tool for demonstrating password extraction techniques\n<br>\n📖 <b>Summary:</b>\nChromeStealer is a C++ tool designed for educational purposes, demonstrating how to extract and decrypt stored passwords from Google Chrome on Windows systems. It utilizes libraries like libsodium, nlohmann/json, and sqlite3 to access and decrypt password data. The repository provides a practical example of password security vulnerabilities and extraction techniques.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BernKing/ChromeStealer?embed=0\">View Project</a>\n• <a href=\"https://bernking.github.io//2024/chrome-stealer/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/287d4d91403459e3fd18630578a0536067a8789f3caca3a16dae210b127a7b11/BernKing/ChromeStealer",
+        "platform": "telegram",
+        "quality_score": 0.4
     }
 ]

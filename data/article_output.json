@@ -1,26 +1,26 @@
 {
-    "article": "Hey fellow developers! Ever felt lost in the wild world of LLMs, struggling to optimize your pipelines and ensure top-notch performance?  Well, hold onto your hats, because I've stumbled upon a project that's a total game-changer: LangWatch! This isn't just another monitoring tool; it's an entire LLM Ops platform designed to streamline your workflow from start to finish. Imagine a visual interface where you can drag-and-drop components to build, optimize, and monitor your LLM pipelines – that's LangWatch in a nutshell.  It leverages the power of Stanford's DSPy framework, making complex tasks surprisingly simple.  No more wrestling with endless lines of code just to tweak a prompt or track performance! LangWatch handles all of that for you. One of the coolest features is the built-in optimization studio.  Need to generate better prompts or find the perfect few-shot examples? LangWatch has you covered. It automates that process, saving you hours of tedious experimentation.  And the results? You'll see significant improvements in your LLM's accuracy and efficiency. But it's not just about optimization; LangWatch also excels at quality assurance. It comes with over 30 off-the-shelf evaluators to assess your LLM's output, plus the ability to create custom ones.  This ensures your models meet the highest standards of accuracy, compliance, and safety.  Think of it as a comprehensive quality control system for your LLM projects.  Beyond optimization and quality assurance, LangWatch provides powerful monitoring and analytics capabilities.  You get real-time insights into your LLM's performance, cost, and usage patterns.  This allows for proactive problem-solving and informed decision-making.  No more surprises; you'll always know exactly what's happening with your LLMs.  The platform also offers custom dashboards and alerts, so you can stay on top of key metrics and get notified immediately if something goes wrong. LangWatch also offers a cloud-based solution, so you can get started quickly and easily. There's a free account available, making it accessible to everyone.  For those who prefer a local setup, LangWatch supports Docker for a smooth installation process.  The documentation is comprehensive and easy to follow, making it simple to get up and running, regardless of your experience level.  The community is also incredibly active and supportive, with a vibrant Discord server where you can connect with other users and get help when needed.  So, if you're serious about building and deploying high-performing LLMs, LangWatch is an absolute must-have.  It simplifies complex tasks, improves efficiency, and ensures quality, all while providing a user-friendly experience.  It's the ultimate all-in-one solution for LLM Ops, and I'm incredibly excited about its potential.",
+    "article": "Tired of clunky presentation software?  Wish you could create presentations directly from your terminal, using a format you already know and love? Then get ready to meet Presenterm! This amazing GitHub project lets you build presentations in simple Markdown, then run them directly from your terminal.  No more PowerPoint hassles! \n\nPresenterm's genius lies in its simplicity. You write your presentation as a Markdown file – that's it.  Headings become slides, images and GIFs are easily embedded, and you can even include code blocks with syntax highlighting.  It's incredibly intuitive, and you probably already know Markdown if you're a developer. \n\nBut it's not just plain text. Presenterm supports a surprising number of advanced features. You can customize the look and feel with themes (several built-in ones are available!), adjust font sizes, create column layouts, and even render Mermaid diagrams and LaTeX formulas directly within your slides.  Imagine seamlessly integrating charts and complex equations into your terminal presentations! \n\nFor developers, the benefits are huge.  First, the workflow is incredibly streamlined.  No more switching between apps – you create and present all within your terminal. Second, the use of Markdown makes content creation quick and easy. Third, the support for code highlighting and execution makes it perfect for technical presentations, allowing you to demonstrate code snippets directly within your presentation.  Finally, Presenterm lets you export your presentation as a PDF, useful for sharing with colleagues or clients who might not have the same terminal setup. \n\nBeyond the core features, Presenterm also provides speaker notes, custom key bindings for navigation, and even a hot-reload feature for rapid development.  This means that every time you save changes to your Markdown file, the presentation automatically updates!  It's like having a live, interactive presentation editor right in your terminal.\n\nOverall, Presenterm is a game-changer for anyone who gives technical presentations. Its blend of simplicity, power, and developer-centric features makes it a must-have tool.  Say goodbye to PowerPoint and hello to the future of terminal presentations!",
     "key_takeaways": [
-        "Streamlined LLM pipeline optimization with a drag-and-drop interface",
-        "Automated prompt and few-shot example generation",
-        "Comprehensive quality assurance with 30+ evaluators and custom options",
-        "Real-time monitoring and analytics for cost, performance, and usage",
-        "Easy setup with cloud-based and local Docker options"
+        "Create presentations in Markdown, directly from your terminal.",
+        "Supports images, GIFs, code highlighting, and advanced features like Mermaid diagrams and LaTeX.",
+        "Streamlined workflow, eliminating the need to switch between applications.",
+        "Export presentations as PDFs for easy sharing.",
+        "Hot-reload feature enables rapid development and iteration."
     ],
     "tags": [
-        "LLM",
-        "Optimization",
-        "Monitoring",
-        "DSPy",
-        "LangChain"
+        "Markdown",
+        "Terminal",
+        "Presentations",
+        "Code Highlighting",
+        "PDF Export"
     ],
-    "title": "Revolutionizing LLM Development: LangWatch - Your All-in-One LLM Ops Platform",
-    "stars": 1202,
-    "forks": 69,
-    "open_issues": 16,
-    "languages": "TypeScript",
-    "readme_summary": "LangWatch is an LLM Ops platform designed to monitor, experiment with, and optimize LLM pipelines. It offers features such as a drag-and-drop optimization studio, quality assurance tools with evaluators and dataset management, and monitoring and analytics dashboards for cost, performance, and user behavior. It supports integration with both Python and TypeScript.",
-    "project_id": 689299900,
-    "url": "https://github.com/langwatch/langwatch",
-    "description": "The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨"
+    "title": "Revolutionize Your Presentations with Presenterm: Markdown Meets the Terminal!",
+    "stars": 4651,
+    "forks": 97,
+    "open_issues": 8,
+    "languages": "Rust",
+    "readme_summary": "Presenterm is a Rust-based tool that allows users to create and deliver presentations directly from the terminal using markdown. It supports a wide range of features, including image and GIF integration, customizable themes, code highlighting, and PDF exporting. Presenterm aims to provide a flexible and efficient way to present information in a terminal environment.",
+    "project_id": 683837120,
+    "url": "https://github.com/mfontanini/presenterm",
+    "description": "A markdown terminal slideshow tool"
 }
