@@ -1,30 +1,30 @@
 {
-    "title": "Revolutionize Your Presentations with Presenterm: Markdown Meets the Terminal!",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nPresenterm is a Rust-based tool that allows users to create and deliver presentations directly from the terminal using markdown. It supports a wide range of features, including image and GIF integration, customizable themes, code highlighting, and PDF exporting. Presenterm aims to provide a flexible and efficient way to present information in a terminal environment.\n\n## 🔑 Key Takeaways\n\n- ✅ Create presentations in Markdown, directly from your terminal.\n\n- ✅ Supports images, GIFs, code highlighting, and advanced features like Mermaid diagrams and LaTeX.\n\n- ✅ Streamlined workflow, eliminating the need to switch between applications.\n\n- ✅ Export presentations as PDFs for easy sharing.\n\n- ✅ Hot-reload feature enables rapid development and iteration.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 4651\n- 🍴 Forks: 97\n- ❗ Open Issues: 8\n\n\n## 🛠 Tech Stack\n- ✅ Rust\n\n\nTired of clunky presentation software?  Wish you could create presentations directly from your terminal, using a format you already know and love? Then get ready to meet Presenterm! This amazing GitHub project lets you build presentations in simple Markdown, then run them directly from your terminal.  No more PowerPoint hassles! \n\nPresenterm's genius lies in its simplicity. You write your presentation as a Markdown file – that's it.  Headings become slides, images and GIFs are easily embedded, and you can even include code blocks with syntax highlighting.  It's incredibly intuitive, and you probably already know Markdown if you're a developer. \n\nBut it's not just plain text. Presenterm supports a surprising number of advanced features. You can customize the look and feel with themes (several built-in ones are available!), adjust font sizes, create column layouts, and even render Mermaid diagrams and LaTeX formulas directly within your slides.  Imagine seamlessly integrating charts and complex equations into your terminal presentations! \n\nFor developers, the benefits are huge.  First, the workflow is incredibly streamlined.  No more switching between apps – you create and present all within your terminal. Second, the use of Markdown makes content creation quick and easy. Third, the support for code highlighting and execution makes it perfect for technical presentations, allowing you to demonstrate code snippets directly within your presentation.  Finally, Presenterm lets you export your presentation as a PDF, useful for sharing with colleagues or clients who might not have the same terminal setup. \n\nBeyond the core features, Presenterm also provides speaker notes, custom key bindings for navigation, and even a hot-reload feature for rapid development.  This means that every time you save changes to your Markdown file, the presentation automatically updates!  It's like having a live, interactive presentation editor right in your terminal.\n\nOverall, Presenterm is a game-changer for anyone who gives technical presentations. Its blend of simplicity, power, and developer-centric features makes it a must-have tool.  Say goodbye to PowerPoint and hello to the future of terminal presentations!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/mfontanini/presenterm)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Revolutionizing Remote Coding Interviews: A React Vite Template",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nQdrant is a high-performance vector similarity search engine and database written in Rust. It allows users to store, search, and manage vector embeddings with associated payloads, enabling applications like neural network-based matching, faceted search, and recommendations. Qdrant offers client libraries in multiple languages and a cloud deployment option.\n\n## 🔑 Key Takeaways\n\n- ✅ Streamlined remote coding interviews with CodeTogether Live.\n\n- ✅ Fast and minimal React Vite template.\n\n- ✅ Built-in tools for code quality and security.\n\n- ✅ Easy setup and customization.\n\n- ✅ Improved collaboration and efficiency for both interviewers and candidates\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 22473\n- 🍴 Forks: 1539\n- ❗ Open Issues: 313\n\n\n## 🛠 Tech Stack\n- ✅ Rust\n\n\nHey fellow developers! Ever wished for a super-smooth, collaborative coding interview experience?  I just stumbled upon this amazing GitHub project, and I'm so excited I had to share it. It's a React Vite template designed specifically to make remote technical interviews a breeze. Forget about the usual hassle of setting up shared coding environments – this template streamlines the whole process.\n\nThe magic happens with the `CodeTogether Live` extension for VS Code.  The interviewer hosts a session, and the candidate simply joins using a shared link.  No more juggling multiple screens or dealing with complicated setup instructions.  The interviewer can run the project locally using `npm run vite.dev`, and the candidate accesses the live SPA remotely. It's seamless and intuitive.\n\nWhat makes this template truly special is its simplicity and speed.  It's built on Vite, so everything is lightning-fast.  The project is minimal, focusing on essential features like Prettier for code formatting, built-in HTTPS for security, and even ESLint and commitlint for code quality.  This means less time fiddling with configurations and more time focusing on what really matters: the interview itself.\n\nFor candidates, it's a fantastic experience. They can focus on showcasing their skills without getting bogged down in technical setup. For interviewers, it's a huge time saver, eliminating the overhead of managing complex shared environments.  The built-in tools also help maintain a consistent and professional interview process.\n\nBut wait, there's more! The project is easily customizable. It provides a solid foundation that you can expand upon.  You can add more complex features or tailor it to your specific interview needs.  The `README.md` is clear and concise, making it easy to get started. The use of Vite ensures rapid development cycles, allowing for quick prototyping and iterations.\n\nThis project isn't just about technical interviews. It's a testament to how streamlined collaborative coding can be. It's a great example of how well-designed tools can make a significant difference in our daily workflow.  It's efficient, user-friendly, and frankly, a game-changer for anyone involved in remote coding collaborations. Go check it out; you won't regret it!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/qdrant/qdrant)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "markdown",
-            "slug": "markdown"
+            "name": "react",
+            "slug": "react"
         },
         {
-            "name": "terminal",
-            "slug": "terminal"
+            "name": "vite",
+            "slug": "vite"
         },
         {
-            "name": "presentations",
-            "slug": "presentations"
+            "name": "codetogether live",
+            "slug": "codetogether-live"
         },
         {
-            "name": "code highlighting",
-            "slug": "code-highlighting"
+            "name": "remote interview",
+            "slug": "remote-interview"
         },
         {
-            "name": "pdf export",
-            "slug": "pdf-export"
+            "name": "collaboration",
+            "slug": "collaboration"
         }
     ],
-    "slug": "revolutionize-your-presentations-with-presenterm-markdown-meets-the-terminal",
-    "project_id": 683837120,
+    "slug": "revolutionizing-remote-coding-interviews-a-react-vite-template",
+    "project_id": 268163609,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
