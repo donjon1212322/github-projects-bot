@@ -9,6 +9,7 @@ logging.basicConfig(level=logging.INFO)
 
 # Загрузка переменных окружения
 load_dotenv()
+
 DEV_API_KEY = os.getenv("DEV_API_KEY")
 
 def load_published_posts():
@@ -31,17 +32,17 @@ def publish_to_dev(article_data):
         article = article_data["article"]
     else:
         article = article_data
-
+    
     project_id = article.get("project_id")
     if not project_id:
         logging.error("No project ID found in the article data.")
         return
-
+    
     published_posts = load_published_posts()
     if project_id in published_posts:
         logging.info(f"Article with project ID {project_id} has already been published. Skipping.")
         return
-
+    
     api_endpoint = "https://dev.to/api/articles"
     headers = {
         "Content-Type": "application/json",
@@ -50,25 +51,33 @@ def publish_to_dev(article_data):
     
     tags = ", ".join(article["tags"]) if isinstance(article["tags"], list) else article["tags"]
     
+    # Базовая структура payload
     payload = {
         "article": {
             "title": article["title"],
             "body_markdown": article["body_markdown"],
-            "published": True,
+            "published": False,  # Устанавливаем в False для сохранения в черновик
             "tags": tags,
             "description": article.get("description", "No description provided")
         }
     }
-
+    
+    # Проверяем наличие URL изображения и добавляем его, если есть
+    if "media_urls" in article and article["media_urls"]:
+        main_image_url = article["media_urls"][0]  # Берем первое изображение
+        payload["article"]["main_image"] = main_image_url
+        logging.info(f"Adding main image: {main_image_url}")
+    else:
+        logging.info("No image found for the article. Publishing without main image.")
+    
     logging.info("Request Payload:")
     logging.info(json.dumps(payload, indent=4))
-
     logging.info("Data being sent to DEV.to API:")
     logging.info(f"Title: {payload['article']['title']}")
     logging.info(f"Body Markdown (first 200 chars): {payload['article']['body_markdown'][:200]}...")
     logging.info(f"Tags: {payload['article']['tags']}")
     logging.info(f"Description: {payload['article']['description']}")
-
+    
     try:
         response = requests.post(api_endpoint, headers=headers, json=payload)
         if response.status_code == 201:
@@ -89,11 +98,11 @@ def main():
     except FileNotFoundError:
         print("Error: data/dev_post.json not found. Please run formated.py first.")
         return
-
+    
     if not DEV_API_KEY:
         print("Error: DEV_API_KEY not found in environment variables. Set it before running this script.")
         return
-
+    
     publish_to_dev(article_data)
 
 if __name__ == "__main__":
