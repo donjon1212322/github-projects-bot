@@ -31,4 +31,12 @@ tags: {% for tag in tags %}{{ tag }}{% if not loop.last %}, {% endif %}{% endfor
 [View the Project on GitHub]({{ url }})
 
 ---
-🌟 **Enjoyed this project?** Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! ✨
+## 🌟 Stay Connected with GitHub Open Source!
+
+> 📱 **Join us on Telegram**  
+> Get daily updates on the best open-source projects  
+> [GitHub Open Source](https://t.me/GitHub_Open_Source)
+
+> 👥 **Follow us on Facebook**  
+> Connect with our community and never miss a discovery  
+> [GitHub Open Source](https://www.facebook.com/people/GitHub-Open-Source/61571925474856/)
