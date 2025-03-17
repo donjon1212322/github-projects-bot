@@ -1,58 +1,65 @@
 [
     {
-        "project_id": 939470275,
-        "content": "💡 <b>csm</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConversational speech generation\n<br>\n✨ <b>Key Features:</b>\n• Generates RVQ audio codes from text and audio inputs\n• Employs a Llama backbone and a smaller audio decoder\n• Uses Mimi audio codes\n• Can be fine-tuned for specific voices\n• Supports contextual audio generation\n<br>\n📖 <b>Summary:</b>\nThe CSM repository provides a conversational speech generation model capable of generating realistic audio from text and audio inputs. It utilizes a Llama backbone and a smaller audio decoder to produce RVQ audio codes, enabling the creation of diverse voices and contextual speech. The model can be fine-tuned for specific voices and supports prompting and context using audio segments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SesameAILabs/csm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/336805f9b6dcdc2383b877de2db9e224ad2a749548f1e8141b09502245ec63b4/SesameAILabs/csm",
+        "project_id": 94889537,
+        "content": "🌟 <b>webscrapbook</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCapturing and archiving web pages for offline access, organization, and annotation.\n<br>\n✨ <b>Key Features:</b>\n• Web page capture\n• Archive formats\n• Customizable configurations\n• Future retrieval\n• Organization\n<br>\n📖 <b>Summary:</b>\nWebScrapBook is a browser extension for capturing web pages with customizable archive formats. It allows users to save web content locally or on a server for future retrieval, organization, annotation, and editing. The project is based on the legacy Firefox add-on ScrapBook X.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/danny0838/webscrapbook?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d4b66b81353c691588b2a902002687f50e741c0298d64d1e2e78029fd9c8dbb1/danny0838/webscrapbook",
         "platform": "telegram",
-        "quality_score": 0.8500000000000001
+        "quality_score": 1.0
     },
     {
-        "project_id": 947345888,
-        "content": "💡 <b>vimtea</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding Vim-like text editors in terminal applications.\n<br>\n✨ <b>Key Features:</b>\n• Multiple editing modes (Normal, Insert, Visual, Command)\n• Vim-like keybindings and commands\n• Line numbers (absolute and relative)\n• Count-based movement commands\n• Undo/redo functionality\n<br>\n📖 <b>Summary:</b>\nVimTea is a lightweight, Vim-inspired text editor for the terminal, built with Go and the Bubble Tea TUI framework. It offers a modular and extensible foundation, enabling developers to create Vim-like text editors within their terminal applications, complete with features like multiple editing modes, custom keybindings, and customizable highlighting.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kujtimiihoxha/vimtea?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/702a3ac94f31258447d5c94560f11bd67358b30d16a7bf93b57a4ca63b4e5245/kujtimiihoxha/vimtea",
-        "platform": "telegram",
-        "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 220809393,
-        "content": "🌟 <b>rich</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing terminal output with rich text, formatting, and visual elements for improved readability and aesthetics.\n<br>\n✨ <b>Key Features:</b>\n• Rich text formatting in the terminal\n• Pretty tables\n• Progress bars\n• Markdown rendering\n• Syntax highlighting\n<br>\n📖 <b>Summary:</b>\nRich is a Python library designed to enhance the appearance and readability of terminal output. It provides a simple API for adding color, styles, tables, progress bars, syntax highlighting, and more to command-line applications. Rich aims to make terminal-based applications more visually appealing and user-friendly.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Textualize/rich?embed=0\">View Project</a>\n• <a href=\"https://rich.readthedocs.io/en/latest/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/220809393/12627680-30c7-11eb-8f70-7dc307a33ce0",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 556491507,
-        "content": "🔥 <b>audio-share</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nSharing computer audio to an Android phone over a network.\n<br>\n✨ <b>Key Features:</b>\n• Audio streaming from Windows/Linux to Android\n• Network-based audio sharing\n• Turns Android phone into a computer speaker\n<br>\n📖 <b>Summary:</b>\nAudio Share allows users to stream audio from their Windows or Linux computer to their Android phone, effectively turning the phone into a wireless speaker. This eliminates the need for dedicated speakers by leveraging the user's existing mobile device. The application utilizes network connectivity for audio transmission.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mkckr0/audio-share?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/10a79ec18faebdea5aee72730d0896140346ffbc67fa06ace7db162e5fd5689e/mkckr0/audio-share",
-        "platform": "telegram",
-        "quality_score": 1.1
-    },
-    {
-        "project_id": 772264663,
-        "content": "✨ <b>MindGame</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nIntegrating local Large Language Models (LLMs) into Godot 4.3 game projects for in-game AI and interactive experiences.\n<br>\n✨ <b>Key Features:</b>\n• Enables local LLM integration in Godot 4.3 games.\n• Uses LLamaSharp C# library for fast, local chat models.\n• Provides easy configuration for LLM models within the game engine.\n• Supports various LLM families like Llama, Phi, and Mistral.\n<br>\n📖 <b>Summary:</b>\nMind Game is a C# plugin for Godot 4.3 that allows developers to run LLMs locally within their games. It leverages the LLamaSharp library to provide fast, in-engine chat models with easy configuration. The plugin supports various LLM families and offers a MindManager autoload for simplified model management and a MindAgent node for seamless interaction with the loaded model.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/adammikulis/MindGame?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/772264663/523ea66e-1194-4fe6-bd1f-71c64f000a1e",
-        "platform": "telegram",
-        "quality_score": 0.25
-    },
-    {
-        "project_id": 907966119,
-        "content": "🚀 <b>twice</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nReduce mindless social media scrolling by prompting users to think twice before visiting social media sites.\n<br>\n✨ <b>Key Features:</b>\n• Displays a gentle reminder when visiting social media sites\n• Promotes mindful internet usage\n• Helps reduce impulsive social media checking\n<br>\n📖 <b>Summary:</b>\nThe Twice Chrome extension helps users be more mindful of their social media usage. It displays a reminder when a user attempts to visit a social media site, encouraging them to pause and reflect on their browsing habits, promoting intentional internet usage.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/chaosprint/twice?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/49c39b1c43edd94b7ef50b83207f4ca1c4439b920ad650024005aaa3488f7bbe/chaosprint/twice",
-        "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 908941738,
-        "content": "🌟 <b>nPassword</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nPassword management for Windows Active Directory environments.\n<br>\n✨ <b>Key Features:</b>\n• Pure Front-End (local storage)\n• Domain-Specific Account Management\n• One-Click Export/Import\n• Local Account Support\n• Add Notes to Accounts\n<br>\n📖 <b>Summary:</b>\nnPassword is a front-end password manager designed for Windows Active Directory. It stores data locally and offers features like domain-specific account management, one-click export/import, local account support, and command template integration. It is intended for research and educational purposes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Vincent550102/nPassword?embed=0\">View Project</a>\n• <a href=\"https://pw.pornhub.mov?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8031c9910b9b9d5659a1718223ce1b14fd79af805c0e0c4c3ca850d49efc83fc/Vincent550102/nPassword",
+        "project_id": 738314904,
+        "content": "✨ <b>wrtag</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated music tagging and organization based on the MusicBrainz database.\n<br>\n✨ <b>Key Features:</b>\n• Fast music tagging using Go\n• Filesystem organization of music files\n• Cover art fetching from Cover Art Archive\n• Concurrent processing with filesystem locking\n• Addons for lyrics, ReplayGain, and subprocesses\n<br>\n📖 <b>Summary:</b>\nwrtag is a fast and automated music tagging and organization tool built in Go, leveraging the MusicBrainz database. It provides a suite of tools for various use cases, including tagging, organizing, and fetching cover art, with a focus on speed and composability. The tool supports addons for extended functionality and offers a web interface for remote importing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sentriz/wrtag?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/244c67327bbde91fb798864ca8139ee63a11afe4ea0ad65f0af604bf223adc86/sentriz/wrtag",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 477528511,
-        "content": "💡 <b>bore</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nExposing local ports to a remote server, bypassing NAT firewalls for development and testing purposes.\n<br>\n✨ <b>Key Features:</b>\n• TCP Tunneling\n• Local Port Forwarding\n• Self-Hosting\n• Bypasses NAT Firewalls\n<br>\n📖 <b>Summary:</b>\nBore is a simple CLI tool written in Rust for creating TCP tunnels to localhost. It allows users to expose local ports to a remote server, bypassing standard NAT connection firewalls. Bore can be self-hosted, offering an alternative to services like localtunnel and ngrok, with a focus on efficiency and ease of use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ekzhang/bore?embed=0\">View Project</a>\n• <a href=\"http://bore.pub?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b5dbf368fad7ba38ae9f16943880acf9569aec24ed63250158d84f0029fa39f6/ekzhang/bore",
+        "project_id": 529956444,
+        "content": "🔥 <b>SubSeven</b> | Pascal\n<br>\n🎯 <b>Primary Use Case:</b>\nRemote access and control, reminiscent of the original SubSeven Backdoor but without malicious features, primarily for nostalgic or educational purposes.\n<br>\n✨ <b>Key Features:</b>\n• SubSeven 2.2.X branch UX theme in pure VCL/WinAPI\n• Pure Socket API with support of latest OpenSSL version\n• Multi-Threaded / Concurrency\n• File Manager (Reactive)\n<br>\n📖 <b>Summary:</b>\nSubSeven Legacy is a Delphi-based project recreating the look and feel of the original SubSeven remote access tool. It provides features like file and process management, remote terminal access, and Windows session management, all within a classic SubSeven 2.2.X themed interface. The project aims to evoke nostalgia and demonstrate remote access capabilities without including any malicious functionalities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DarkCoderSc/SubSeven?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/059e8e53b12e28e5e7c9e15b7387f11c83d2accd4f7a73da7c88487611025d76/DarkCoderSc/SubSeven",
         "platform": "telegram",
-        "quality_score": 0.9
+        "quality_score": 0.15
+    },
+    {
+        "project_id": 886008786,
+        "content": "🚀 <b>fileserver</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nServing static files and Single-Page Applications (SPAs) with features like ETag generation and gzip compression.\n<br>\n✨ <b>Key Features:</b>\n• ETag header generation\n• gzip compression\n• Static file serving\n• SPA serving\n<br>\n📖 <b>Summary:</b>\nThe fileserver repository provides a simple way to serve static files and SPAs in Go applications. It enhances file serving with features like ETag header generation for efficient caching and gzip compression to reduce file sizes. The repository offers convenient methods for mounting the file server to existing HTTP routers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ffss92/fileserver?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/709db72429c2a148e02919ba786a3481215f0d302faa8ece51332bb8155fff71/ffss92/fileserver",
+        "platform": "telegram",
+        "quality_score": 0.5499999999999999
+    },
+    {
+        "project_id": 690120202,
+        "content": "💡 <b>misconfig-mapper</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDetecting security misconfigurations in third-party services used by companies and bug bounty targets.\n<br>\n✨ <b>Key Features:</b>\n• Template-based CLI tool for detecting misconfigurations\n• Automatic permutation generation based on company name for service discovery\n<br>\n📖 <b>Summary:</b>\nMisconfig Mapper is a Go-based tool designed to identify and resolve common security misconfigurations in various services and SaaS solutions. It utilizes a template-based CLI tool to automate the testing process, allowing users to detect service presence, generate permutations for company-specific service discovery, and perform detailed misconfiguration checks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/intigriti/misconfig-mapper?embed=0\">View Project</a>\n• <a href=\"https://bugology.intigriti.io/misconfig-mapper-docs?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f88ed3d2bee22a259f67a8525af1b23241e408fc97d34b96a664614e26062873/intigriti/misconfig-mapper",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 930466730,
+        "content": "🚀 <b>go-tmdb-cli</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nFetching and displaying movie data from TMDB via a command-line interface.\n<br>\n✨ <b>Key Features:</b>\n• Fetches movie data from TMDB\n• Displays data in a command-line interface\n• Supports filtering by language, year, genres, rating, etc.\n• Provides curated lists (now playing, popular, top rated, upcoming)\n<br>\n📖 <b>Summary:</b>\nThe go-tmdb-cli is a command-line tool for fetching and displaying movie data from The Movie Database (TMDB). It allows users to retrieve curated lists of movies and filter results based on various criteria like language, year, and genre. The tool is designed to provide a simple interface for accessing TMDB data directly from the terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alnah/go-tmdb-cli?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e82f7127cf7698e798e8ac79cfd972932340bef059897cdb5696dacee6147258/alnah/go-tmdb-cli",
+        "platform": "telegram",
+        "quality_score": 0.3
+    },
+    {
+        "project_id": 905998319,
+        "content": "🚀 <b>pixie</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying Java object creation and configuration using annotations and a properties-based or builder API.\n<br>\n✨ <b>Key Features:</b>\n• Configuration\n• Dependency Injection\n• Events\n• Constructor Injection\n<br>\n📖 <b>Summary:</b>\nPixie is a lightweight Java library designed to streamline object creation and configuration. It offers dependency injection, configuration management, and event handling capabilities within a small 100k jar. Pixie utilizes constructor injection with annotations and can be configured via properties files or a fluent builder API.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tomitribe/pixie?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/077158ee9fe3fd08a825b948e70fa27caa935b7959db1325bbd48fead2f0bc57/tomitribe/pixie",
+        "platform": "telegram",
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 844920178,
+        "content": "✨ <b>reactify-core</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nDeveloping reactive backend systems in microservices using Java and Spring Boot.\n<br>\n✨ <b>Key Features:</b>\n• Reactive programming with reactor-core\n• Keycloak integration for security\n• Trace logging\n• Caching (Redis)\n• MinIO server support\n<br>\n📖 <b>Summary:</b>\nReactify-core is a Java library designed to simplify the development of reactive microservices using Spring Boot and reactor-core. It provides features such as Keycloak integration, trace logging, caching, and MinIO server support, enabling developers to build robust and scalable backend systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hoangtien2k3/reactify-core?embed=0\">View Project</a>\n• <a href=\"https://reactify-sand.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7b9fb09e21e1b5f68ed2f8545700930c8602f467f54f142b825730db8c7b4fa0/hoangtien2k3/reactify-core",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 910583288,
+        "content": "🚀 <b>openldk</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nIntegrating Java libraries into a Lisp-based workflow without the need for an out-of-process Java runtime environment.\n<br>\n✨ <b>Key Features:</b>\n• Java Bytecode to Lisp Translation\n• Native Machine Code Compilation\n• CLOS Integration\n• OpenJDK Runtime Libraries\n<br>\n📖 <b>Summary:</b>\nOpenLDK is a JIT compiler and runtime for Java implemented in Common Lisp. It translates Java bytecode into Lisp code, which is then compiled into native machine code. This allows for seamless integration of Java libraries into Lisp projects, mapping Java classes to CLOS classes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/atgreen/openldk?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b68cccc7b2f4439667c20fdc2b31f5488f648cacb76943d2e8d24166284581e7/atgreen/openldk",
+        "platform": "telegram",
+        "quality_score": 0.65
     }
 ]
