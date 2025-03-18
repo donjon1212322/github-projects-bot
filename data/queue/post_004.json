@@ -1,7 +1,0 @@
-{
-    "project_id": 901680517,
-    "content": "✨ <b>CAG</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAccelerating language model inference by preloading knowledge into the context and caching runtime parameters, offering a faster and simpler alternative to Retrieval-Augmented Generation (RAG) for tasks where the knowledge base fits within the model's context window.\n<br>\n✨ <b>Key Features:</b>\n• Eliminates real-time retrieval for faster inference\n<br>\n📖 <b>Summary:</b>\nThe CAG repository provides an alternative to RAG by preloading all relevant resources into the LLM's context and caching runtime parameters, eliminating real-time retrieval and reducing latency. It is suitable for scenarios where the knowledge base fits within the model's context window, offering a simplified design and improved reliability compared to traditional RAG.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hhhuang/CAG?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/05d33b49cd1e8265d84bcdad1098b2f4c035f7796eae739867bee58b16c46e50/hhhuang/CAG",
-    "platform": "telegram",
-    "quality_score": 0.75
-}
