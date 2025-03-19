@@ -1,30 +1,30 @@
 {
-    "title": "Unstract: Your No-Code Gateway to Unstructured Data Nirvana",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nUnstract is a no-code LLM platform designed to structure unstructured documents. It provides tools to launch APIs and ETL pipelines, enabling users to automate complex business processes involving documents. The platform features a Prompt Studio for efficient prompt engineering and a Workflow Studio for building automated workflows with human-in-the-loop capabilities.\n\n## 🔑 Key Takeaways\n\n- ✅ No-code platform for LLM-powered data extraction\n\n- ✅ Intuitive visual interface (Prompt Studio) simplifies prompt engineering\n\n- ✅ Deploy as APIs or ETL pipelines for seamless integration\n\n- ✅ Accelerates development, reduces manual work, improves data quality\n\n- ✅ Empowers collaboration between developers and non-developers\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 4911\n- 🍴 Forks: 418\n- ❗ Open Issues: 19\n\n\n## 🛠 Tech Stack\n- ✅ Python\n\n\nUnstract: Revolutionizing Unstructured Data with No-Code LLMs\n\nTired of wrestling with unstructured data?  Wish there was a simpler way to extract valuable insights from documents, PDFs, and more? Then get ready to meet Unstract—the no-code LLM platform that's about to change your workflow!\n\nUnstract tackles the messy world of unstructured data head-on.  Think of all those documents sitting in your file system, PDFs piling up, and emails overflowing your inbox.  Unstract empowers you to unlock the information hidden within, without needing to write complex code.\n\nAt its core, Unstract is built around a powerful, yet intuitive, visual interface called Prompt Studio. This is where the magic happens. You don't need to be an LLM expert; just use Prompt Studio to create simple prompts to guide the AI in extracting the information you need. It's like teaching a smart assistant to read your documents and neatly organize the key data points.\n\nOnce you've defined your prompts, Unstract offers two powerful deployment options: APIs and ETL pipelines.  If you need to integrate data extraction into a larger application, simply deploy your work as a robust API.  Need to automate data movement between systems?  Unstract's ETL pipelines make it a breeze to connect to various data sources and destinations. This flexibility allows you to seamlessly integrate Unstract into your existing infrastructure, making it a versatile tool for various applications.\n\nThe beauty of Unstract lies in its simplicity.  It abstracts away the complexities of LLM integration and prompt engineering, allowing you to focus on the data itself.  Forget about spending hours writing and debugging code—Unstract empowers you to create powerful data extraction solutions in minutes.  It's like having a team of data scientists at your fingertips, all without the hefty price tag.\n\nBeyond its ease of use, Unstract offers a range of benefits for developers.  It accelerates development cycles, reduces the need for manual data entry, and improves data quality.  By automating data extraction, Unstract frees up your time to focus on more strategic tasks, ultimately boosting your productivity and the efficiency of your entire team.  It also promotes collaboration, allowing developers and non-developers to work together seamlessly on data projects.\n\nUnstract is more than just a tool; it's a paradigm shift in how we approach unstructured data. It's a game-changer that's poised to revolutionize the way developers interact with information.  It's time to say goodbye to tedious manual processes and hello to automated data extraction with Unstract.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/Zipstack/unstract)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Revolutionizing Data Apps: Build Interactive Dashboards with Just Python!",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nPreswald is a framework that enables developers to build interactive data applications from Python scripts without writing frontend code. It offers pre-built UI components, stateful execution, and a DAG-based execution model. Preswald allows for one-command deployment, enabling easy sharing and hosting of applications locally or in the cloud.\n\n## 🔑 Key Takeaways\n\n- ✅ Build interactive data apps with just Python, no frontend code needed.\n\n- ✅ Pre-built UI components for charts, tables, and more.\n\n- ✅ Stateful execution for efficient and responsive apps.\n\n- ✅ One-command deployment for easy sharing and collaboration.\n\n- ✅ Seamless integration with various data sources\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 2126\n- 🍴 Forks: 524\n- ❗ Open Issues: 25\n\n\n## 🛠 Tech Stack\n- ✅ Python\n\n\nEver wished you could whip up a stunning data app as easily as writing a Python script?  Meet Preswald! This open-source framework lets you build interactive dashboards and internal tools using nothing but your Python skills. No more wrestling with complex frontend frameworks – Preswald handles the UI for you, allowing you to focus on the logic and data.  Imagine creating a dynamic dashboard displaying real-time stock prices, or an internal tool to streamline your team's workflow, all powered by clean, readable Python. That's the magic of Preswald.\n\nPreswald provides a set of pre-built UI components like charts, tables, and input forms. You simply integrate these components into your Python scripts, and Preswald takes care of connecting them to your data and rendering them in a user-friendly interface.  It's like having a built-in UI designer for your Python code.  No more tedious HTML, CSS, or JavaScript – just pure Python elegance.\n\nBut Preswald is more than just a pretty face. It's smart too!  It automatically tracks dependencies and updates only the necessary parts of your app when the data changes, ensuring a smooth and responsive user experience. This stateful execution model, using a workflow DAG (Directed Acyclic Graph), means your app runs efficiently, avoiding unnecessary recalculations.  Say goodbye to slow, clunky apps and hello to lightning-fast responsiveness.\n\nDeployment is a breeze. Preswald's single-command deployment lets you share your app online in seconds, making collaboration and sharing a simple process.  No more complex server configurations or deployment pipelines; just one command and your app is ready to go.  You can even run it locally on your laptop for testing and development.\n\nPreswald's versatility extends to various data sources.  It seamlessly integrates with databases and local files, allowing you to create interactive reports and dashboards that dynamically update based on the latest data. This empowers you to build data-driven applications that are both insightful and easy to use.  Preswald also allows you to share your application with a simple URL, eliminating the need to send scripts or install dependencies for others to use your application.\n\nIn essence, Preswald bridges the gap between data science and application development. It empowers developers to build sophisticated data applications without the overhead of mastering frontend technologies.  It's a game-changer for anyone looking to create interactive data experiences quickly and efficiently.  It's time to ditch the frontend complexity and embrace the power of Python with Preswald!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/StructuredLabs/preswald)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "llm",
-            "slug": "llm"
+            "name": "python",
+            "slug": "python"
         },
         {
-            "name": "no-code",
-            "slug": "no-code"
+            "name": "data apps",
+            "slug": "data-apps"
         },
         {
-            "name": "data extraction",
-            "slug": "data-extraction"
+            "name": "dashboard",
+            "slug": "dashboard"
         },
         {
-            "name": "api",
-            "slug": "api"
+            "name": "ui",
+            "slug": "ui"
         },
         {
-            "name": "etl",
-            "slug": "etl"
+            "name": "deployment",
+            "slug": "deployment"
         }
     ],
-    "slug": "unstract-your-no-code-gateway-to-unstructured-data-nirvana",
-    "project_id": 761150311,
+    "slug": "revolutionizing-data-apps-build-interactive-dashboards-with-just-python",
+    "project_id": 903304373,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false

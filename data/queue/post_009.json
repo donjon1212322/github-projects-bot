@@ -1,0 +1,7 @@
+{
+    "project_id": 927981080,
+    "content": "✨ <b>ScrapeServ</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nProgrammatically capture website screenshots and data via an API.\n<br>\n✨ <b>Key Features:</b>\n• Takes screenshots of different sections of a webpage by scrolling\n• Runs in a Docker container\n• Browser-based (runs website Javascript)\n• Returns HTTP status code and headers\n• Handles redirects automatically\n<br>\n📖 <b>Summary:</b>\nScrapeServ is a self-hosted API that allows users to send a URL and receive website data and screenshots. It utilizes Playwright to launch a Firefox browser, enabling the execution of Javascript and proper handling of redirects and downloads. The API provides a simple way to automate website scraping and screenshot generation, with configurable options for browser dimensions, wait times, and the number of screenshots.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/goodreasonai/ScrapeServ?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/bd8d855d781410d4b5ba20e4979fc14176c376a21ad01b038c79f05167980408/goodreasonai/ScrapeServ",
+    "platform": "telegram",
+    "quality_score": 0.75
+}
