@@ -1,7 +1,0 @@
-{
-    "project_id": 73701496,
-    "content": "🚀 <b>me_cleaner</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nModifying Intel ME firmware to reduce its functionality and potential privacy concerns.\n<br>\n✨ <b>Key Features:</b>\n• Modifies Intel ME firmware images\n• Reduces the ability of Intel ME to interact with the system\n• Partially deblob Intel ME/TXE firmware images\n• Works on most Intel platforms\n• Removes or reduces Intel ME firmware size\n<br>\n📖 <b>Summary:</b>\nme_cleaner is a Python script designed to modify Intel ME firmware images, aiming to reduce the firmware's ability to interact with the system. It achieves this by removing unnecessary modules, effectively disabling Intel ME during normal operation while retaining essential boot functions. The tool supports various Intel platforms and generations, adapting its approach based on the ME version.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/corna/me_cleaner?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/0e907c4c681b811dced4ee61139bfa69223be08b57a132fba5e111e9c43eda90/corna/me_cleaner",
-    "platform": "telegram",
-    "quality_score": 0.55
-}
