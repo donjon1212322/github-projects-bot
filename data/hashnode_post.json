@@ -1,30 +1,30 @@
 {
-    "title": "Revolutionizing Data Apps: Build Interactive Dashboards with Just Python!",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nPreswald is a framework that enables developers to build interactive data applications from Python scripts without writing frontend code. It offers pre-built UI components, stateful execution, and a DAG-based execution model. Preswald allows for one-command deployment, enabling easy sharing and hosting of applications locally or in the cloud.\n\n## 🔑 Key Takeaways\n\n- ✅ Build interactive data apps with just Python, no frontend code needed.\n\n- ✅ Pre-built UI components for charts, tables, and more.\n\n- ✅ Stateful execution for efficient and responsive apps.\n\n- ✅ One-command deployment for easy sharing and collaboration.\n\n- ✅ Seamless integration with various data sources\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 2126\n- 🍴 Forks: 524\n- ❗ Open Issues: 25\n\n\n## 🛠 Tech Stack\n- ✅ Python\n\n\nEver wished you could whip up a stunning data app as easily as writing a Python script?  Meet Preswald! This open-source framework lets you build interactive dashboards and internal tools using nothing but your Python skills. No more wrestling with complex frontend frameworks – Preswald handles the UI for you, allowing you to focus on the logic and data.  Imagine creating a dynamic dashboard displaying real-time stock prices, or an internal tool to streamline your team's workflow, all powered by clean, readable Python. That's the magic of Preswald.\n\nPreswald provides a set of pre-built UI components like charts, tables, and input forms. You simply integrate these components into your Python scripts, and Preswald takes care of connecting them to your data and rendering them in a user-friendly interface.  It's like having a built-in UI designer for your Python code.  No more tedious HTML, CSS, or JavaScript – just pure Python elegance.\n\nBut Preswald is more than just a pretty face. It's smart too!  It automatically tracks dependencies and updates only the necessary parts of your app when the data changes, ensuring a smooth and responsive user experience. This stateful execution model, using a workflow DAG (Directed Acyclic Graph), means your app runs efficiently, avoiding unnecessary recalculations.  Say goodbye to slow, clunky apps and hello to lightning-fast responsiveness.\n\nDeployment is a breeze. Preswald's single-command deployment lets you share your app online in seconds, making collaboration and sharing a simple process.  No more complex server configurations or deployment pipelines; just one command and your app is ready to go.  You can even run it locally on your laptop for testing and development.\n\nPreswald's versatility extends to various data sources.  It seamlessly integrates with databases and local files, allowing you to create interactive reports and dashboards that dynamically update based on the latest data. This empowers you to build data-driven applications that are both insightful and easy to use.  Preswald also allows you to share your application with a simple URL, eliminating the need to send scripts or install dependencies for others to use your application.\n\nIn essence, Preswald bridges the gap between data science and application development. It empowers developers to build sophisticated data applications without the overhead of mastering frontend technologies.  It's a game-changer for anyone looking to create interactive data experiences quickly and efficiently.  It's time to ditch the frontend complexity and embrace the power of Python with Preswald!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/StructuredLabs/preswald)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Kyanos: Your Network's New Best Friend",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nKyanos is an eBPF-based network analysis tool designed to efficiently troubleshoot network issues. It offers powerful traffic filtering, advanced analysis capabilities through aggregated packet metrics, and in-depth kernel-level latency details. Kyanos aims to simplify network troubleshooting by providing a lightweight, dependency-free solution.\n\n## 🔑 Key Takeaways\n\n- ✅ Single binary, easy setup and use.\n\n- ✅ Powerful filtering by various dimensions (PID, container ID, L7 protocols, etc.).\n\n- ✅ Advanced analysis: aggregated metrics, clear overview of network performance.\n\n- ✅ In-depth kernel-level latency details for precise bottleneck identification.\n\n- ✅ Automatic SSL handling for seamless analysis of encrypted traffic.  \n\n\n## 📊 Project Statistics\n- ⭐ Stars: 3980\n- 🍴 Forks: 143\n- ❗ Open Issues: 36\n\n\n## 🛠 Tech Stack\n- ✅ C\n\n\nDive into Kyanos: Your New Best Friend for Network Troubleshooting! Ever spent hours wrestling with slow network requests, wishing you had a magic wand to pinpoint the culprit?  Kyanos is that magic wand. This incredible eBPF-based tool lets you capture and analyze network traffic with unparalleled ease and speed. Forget sifting through endless logs; Kyanos gives you the insights you need in seconds.  It's like having X-ray vision for your network! \n\nSo, what makes Kyanos so special? First off, its simplicity. It's a single binary file—no complex setup or dependencies required. Just download, run, and you're ready to go. This is a huge time saver compared to traditional methods that involve multiple tools and configurations.  The command-line interface is intuitive and easy to master, even for developers who aren't network gurus. \n\nSecondly, Kyanos offers powerful filtering capabilities.  Need to isolate requests from a specific process, container, or even based on L7 protocol information (like HTTP or Redis)?  No problem!  Kyanos lets you filter by process ID, container ID, specific keys (in Redis, for example), response byte size, latency, and much more. This precision targeting allows you to focus on the relevant traffic, ignoring the noise, and quickly zeroing in on the source of the problem. \n\nThirdly, and this is where Kyanos really shines, its advanced analysis capabilities.  It goes far beyond simple packet capture.  It aggregates metrics across various dimensions, giving you a clear, concise overview of your network's performance.  Imagine your HTTP service suddenly maxing out bandwidth.  With Kyanos, you use a single command to find out which IPs and requests are consuming the most resources. It's that efficient! \n\nKyanos also provides in-depth kernel-level latency details.  Slow queries to remote services can be incredibly frustrating to debug.  Kyanos traces the request from arrival at the network card all the way to the kernel socket buffer, visually highlighting any bottlenecks.  This level of detail allows you to pinpoint the exact cause of delays, saving you countless hours of guesswork. \n\nFinally, Kyanos handles SSL traffic automatically.  No more fiddling with certificates or worrying about decryption; it just works.  This seamless integration makes it a truly comprehensive solution for network troubleshooting.  All of this, combined with its lightweight design and ease of use, makes Kyanos an indispensable tool for any developer working with network-intensive applications.  It's a game-changer for network performance analysis and debugging!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/hengyoush/kyanos)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "python",
-            "slug": "python"
+            "name": "ebpf",
+            "slug": "ebpf"
         },
         {
-            "name": "data apps",
-            "slug": "data-apps"
+            "name": "network troubleshooting",
+            "slug": "network-troubleshooting"
         },
         {
-            "name": "dashboard",
-            "slug": "dashboard"
+            "name": "performance analysis",
+            "slug": "performance-analysis"
         },
         {
-            "name": "ui",
-            "slug": "ui"
+            "name": "command-line tool",
+            "slug": "command-line-tool"
         },
         {
-            "name": "deployment",
-            "slug": "deployment"
+            "name": "debugging",
+            "slug": "debugging"
         }
     ],
-    "slug": "revolutionizing-data-apps-build-interactive-dashboards-with-just-python",
-    "project_id": 903304373,
+    "slug": "kyanos-your-networks-new-best-friend",
+    "project_id": 793985221,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
