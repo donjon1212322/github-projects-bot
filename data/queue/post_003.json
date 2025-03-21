@@ -1,7 +1,0 @@
-{
-    "project_id": 564975433,
-    "content": "🔥 <b>wa-tunnel</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTunneling internet traffic through Whatsapp, especially useful in situations with restricted network access but unlimited Whatsapp data.\n<br>\n✨ <b>Key Features:</b>\n• TCP Tunneling through Whatsapp\n• Uses Baileys library for Whatsapp communication\n• Sends TCP packets as text or file messages\n• Caches TCP socket responses to improve performance\n• Brotli compression for data reduction\n<br>\n📖 <b>Summary:</b>\nThe wa-tunnel repository enables TCP tunneling over the Whatsapp network using the Baileys library. It sends TCP packets as text or file messages, caches responses, and uses Brotli compression to optimize performance and reduce data usage. This is particularly useful for bypassing network restrictions where Whatsapp data is unlimited.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aleixrodriala/wa-tunnel?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/7af7cca670c06b6bb217410260f08ae64b5e686cf4313929381d65bc7574185a/aleixrodriala/wa-tunnel",
-    "platform": "telegram",
-    "quality_score": 0.45
-}
