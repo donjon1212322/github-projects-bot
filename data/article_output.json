@@ -1,26 +1,26 @@
 {
-    "article": "Hey fellow developers! Ever wished there was an easier way to visualize and analyze complex data from your projects, especially if they involve things like images, 3D points, or sensor readings?  I just stumbled upon Rerun, and it's a game-changer!  This open-source project offers a powerful, time-aware multimodal data stack and visualization tools, and it's surprisingly easy to use. Forget wrestling with custom visualization scripts – Rerun handles all the heavy lifting.  It lets you log various data types (images, tensors, point clouds, you name it) using simple SDKs for C++, Python, and Rust.  Then, you can stream this data directly to a viewer or save it to disk for later analysis.  The best part?  It's all beautifully visualized in a user-friendly interface, making it easy to spot trends, identify issues, and gain valuable insights from your data.  Imagine debugging a robotics project and being able to see the robot's movements, sensor data, and camera feed all synchronized in a single, interactive view. That's the power of Rerun. It's not just pretty visuals; it's about efficient data management and analysis. Rerun's architecture is designed for speed and scalability, so you can handle large datasets without performance bottlenecks. Plus, the community is active and helpful, making it easy to get started and find answers to your questions.  Whether you're working on robotics, AI, simulation, or any project that generates multimodal data, Rerun is worth exploring.  It can drastically improve your workflow by simplifying data visualization and analysis, saving you countless hours of debugging and data wrangling. The ability to query the logged data through a DataFrame API is a huge plus, allowing for advanced analysis and manipulation. This is more than just a visualization tool; it's a comprehensive data management and analysis solution tailored to the needs of modern projects.",
+    "article": "Hey fellow developers! Ever wished for a pixel art editor that's both powerful and intuitive?  Let me introduce you to Aseprite, a game-changer for pixel artists and game developers alike.  Forget clunky, outdated tools; Aseprite is a modern marvel that streamlines the sprite creation process.  It's not just an editor; it's a complete animation powerhouse.\n\nWhat makes Aseprite so special?  Well, it's all about the layers and frames. Think of it like this: layers are like separate sheets of acetate you can stack on top of each other, and frames are like snapshots of your animation at different points in time. Aseprite lets you manage both with incredible ease.  Need to tweak a single element in a complex animation?  No problem. Aseprite's layer system makes it a breeze.\n\nBeyond the core functionality, Aseprite is packed with features designed to boost your productivity.  We're talking onion skinning for smooth animation, real-time preview so you see your changes instantly, and support for a wide range of export formats, including sprite sheets, GIFs, and sequences of PNG files.  It even supports color profiles and different color modes, giving you ultimate control over your palette.\n\nBut it doesn't stop there.  Aseprite offers a treasure trove of pixel-art specific tools.  Imagine a pixel-perfect freehand mode that makes drawing crisp, clean lines a joy.  Or the shading ink tool, which adds depth and dimension to your sprites with incredible ease.  There are also custom brushes, outlines, and even a symmetry tool to help you create perfectly balanced designs. And if you're into patterns, the tiled mode is a lifesaver.\n\nFor those who like automation, Aseprite provides a command-line interface (CLI) and Lua scripting capabilities. This allows you to automate repetitive tasks, saving you precious time and energy.  Plus, the program features a customizable keyboard layout and mouse wheel controls, so you can work efficiently in the way that suits you best.  Beyond the features, Aseprite also has a fantastic community and support system. You can find help through their active online forums and Discord server.\n\nSo, why should you care?  Aseprite saves you time, improves your workflow, and ultimately helps you create stunning pixel art.  It's the perfect tool for game developers, indie artists, and anyone who wants to create beautiful, pixel-perfect animations.  Whether you're a seasoned pro or just starting out, Aseprite has something to offer you.  Give it a try; you won't regret it!",
     "key_takeaways": [
-        "Rerun simplifies visualization and analysis of complex, multimodal data.",
-        "It supports C++, Python, and Rust SDKs for easy integration.",
-        "Its time-aware architecture allows for synchronized visualization of various data types.",
-        "The user-friendly viewer makes it easy to spot trends and debug issues.",
-        "Rerun offers a powerful DataFrame API for advanced data manipulation and analysis."
+        "Intuitive layer and frame system for efficient animation",
+        "Powerful pixel-art specific tools for precise control",
+        "Wide range of export options for seamless integration",
+        "Command-line interface and Lua scripting for automation",
+        "Active community and readily available support"
     ],
     "tags": [
-        "data visualization",
-        "multimodal data",
-        "robotics",
-        "AI",
-        "open source"
+        "pixel art",
+        "animation",
+        "game development",
+        "sprite editor",
+        "Lua scripting"
     ],
-    "title": "Rerun: Revolutionizing Data Visualization for Modern Projects",
-    "stars": 7967,
-    "forks": 416,
-    "open_issues": 1210,
-    "languages": "Rust",
-    "readme_summary": "Rerun is a visualization tool and data stack for multimodal data, offering SDKs in C++, Python, and Rust. It allows users to log and visualize data streams like images, point clouds, and text in real-time. The tool also provides a dataframe API for querying logged data, making it suitable for robotics, AI, and other data-intensive applications.",
-    "project_id": 479289739,
-    "url": "https://github.com/rerun-io/rerun",
-    "description": "Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust."
+    "title": "Aseprite: Revolutionizing Pixel Art and Animation",
+    "stars": 31274,
+    "forks": 6829,
+    "open_issues": 1699,
+    "languages": "C++",
+    "readme_summary": "Aseprite is a C++ based animated sprite editor and pixel art tool. It provides features for creating and editing sprites with layers, frames, color profiles, and animation tools. It supports exporting to various formats and offers pixel-art specific tools, Lua scripting, and a command-line interface.",
+    "project_id": 23129458,
+    "url": "https://github.com/aseprite/aseprite",
+    "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)"
 }
