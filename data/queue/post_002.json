@@ -1,0 +1,7 @@
+{
+    "project_id": 191318242,
+    "content": "💡 <b>googlemaps-scraper</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting and monitoring Google Maps reviews for a specific Point Of Interest (POI).\n<br>\n✨ <b>Key Features:</b>\n• Scrapes Google Maps reviews from a given URL.\n• Allows specifying the number of reviews to retrieve.\n• Offers options to scrape POI metadata instead of reviews.\n• Provides a monitoring functionality for incremental scraping and storage in MongoDB.\n• Sort reviews by relevance, date, or rating.\n<br>\n📖 <b>Summary:</b>\nThe googlemaps-scraper repository provides tools to scrape reviews from Google Maps places. It allows users to extract a specified number of the most recent reviews and offers a monitoring feature to incrementally store reviews in MongoDB. The scraper can also extract POI metadata and sort reviews based on different criteria.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gaspa93/googlemaps-scraper?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/a54b8f917efd202715b24be90544bbf6d128de54909f5d98cd8fd2db60745aba/gaspa93/googlemaps-scraper",
+    "platform": "telegram",
+    "quality_score": 0.55
+}

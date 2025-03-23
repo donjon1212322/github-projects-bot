@@ -1,72 +1,58 @@
 [
     {
-        "project_id": 940004912,
-        "content": "🔥 <b>ClipboardShield</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nProtecting the system clipboard from unauthorized access by malicious applications.\n<br>\n✨ <b>Key Features:</b>\n• Protection of clipboard content against unauthorized access\n• Implementation of hooks for event detection\n• Inter-process communication (IPC) for security management\n• Use of custom threads to optimize performance\n• Logging capabilities for security auditing\n<br>\n📖 <b>Summary:</b>\nClipboard Shield is designed to monitor and protect sensitive data copied to the system clipboard, preventing unauthorized access from malicious applications. It utilizes features like event hooks, inter-process communication, custom threads, logging, and Windows service integration to provide continuous protection and security auditing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/CoinFabrik/ClipboardShield?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/af46b52c35cd45cbe30cef14fc128e3131c1748853b389e74096550ff54f3521/CoinFabrik/ClipboardShield",
+        "project_id": 919835586,
+        "content": "🚀 <b>Hunyuan3D-2</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating high-resolution 3D assets from images and text using diffusion models.\n<br>\n✨ <b>Key Features:</b>\n• High-Resolution 3D Asset Generation\n• Image-to-3D Conversion\n• Text-to-3D Conversion\n• Texture Generation\n• Diffusion Models for 3D Generation\n<br>\n📖 <b>Summary:</b>\nThe Hunyuan3D-2 repository provides tools and models for generating high-resolution 3D assets. It supports both image-to-3D and text-to-3D conversion, leveraging diffusion models for shape and texture generation. The repository also includes turbo models for faster inference.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Tencent/Hunyuan3D-2?embed=0\">View Project</a>\n• <a href=\"https://3d.hunyuan.tencent.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7aea39897f0b11251222783e2d4db2a1084dc3c188c6748d012edd7fdc914d26/Tencent/Hunyuan3D-2",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.8500000000000001
     },
     {
-        "project_id": 5616877,
-        "content": "🚀 <b>Thrive</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nDevelopment of an open-source evolution simulation game called Thrive.\n<br>\n✨ <b>Key Features:</b>\n• Evolution simulation game development\n• C# codebase with Godot Engine integration\n• Asset management using Git LFS\n• Extensive documentation and contribution guidelines\n• Community-driven development with forums and translation support\n<br>\n📖 <b>Summary:</b>\nThrive is an open-source evolution simulation game developed in C# using the Godot Engine. The repository contains the game's source code, assets, and documentation, and it encourages community contributions through coding, art, translation, and testing. It uses Git LFS for managing large asset files.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Revolutionary-Games/Thrive?embed=0\">View Project</a>\n• <a href=\"https://revolutionarygamesstudio.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/5616877/23434400-d399-11eb-9a83-a0ece3bc9269",
+        "project_id": 950065302,
+        "content": "💡 <b>bambot</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding and experimenting with a low-cost humanoid robot.\n<br>\n✨ <b>Key Features:</b>\n• Hardware designs for a low-cost humanoid robot\n• Software for controlling the robot\n• Demo video showcasing the robot's capabilities\n<br>\n📖 <b>Summary:</b>\nBambot is an open-source project providing the hardware and software designs for building a low-cost humanoid robot. The project includes hardware schematics, software for controlling the robot, and a demo video. It is intended for hobbyists, researchers, and educators interested in robotics.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/timqian/bambot?embed=0\">View Project</a>\n• <a href=\"https://bambot.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5043fe12cfa24a452710e3f4b2b35e1970b8fd1d92dd1eb3708ac88855e5b641/timqian/bambot",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 191318242,
+        "content": "💡 <b>googlemaps-scraper</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting and monitoring Google Maps reviews for a specific Point Of Interest (POI).\n<br>\n✨ <b>Key Features:</b>\n• Scrapes Google Maps reviews from a given URL.\n• Allows specifying the number of reviews to retrieve.\n• Offers options to scrape POI metadata instead of reviews.\n• Provides a monitoring functionality for incremental scraping and storage in MongoDB.\n• Sort reviews by relevance, date, or rating.\n<br>\n📖 <b>Summary:</b>\nThe googlemaps-scraper repository provides tools to scrape reviews from Google Maps places. It allows users to extract a specified number of the most recent reviews and offers a monitoring feature to incrementally store reviews in MongoDB. The scraper can also extract POI metadata and sort reviews based on different criteria.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gaspa93/googlemaps-scraper?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a54b8f917efd202715b24be90544bbf6d128de54909f5d98cd8fd2db60745aba/gaspa93/googlemaps-scraper",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 377310071,
+        "content": "🌟 <b>photo-video-watermark</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating watermarks on photos and videos via a Telegram bot.\n<br>\n✨ <b>Key Features:</b>\n• Telegram bot integration\n• Video conversion\n• Watermark addition to photos\n• Watermark addition to videos\n<br>\n📖 <b>Summary:</b>\nThis repository provides a Telegram bot that allows users to add watermarks to both photos and videos. It includes video conversion capabilities and leverages libraries like aiogram, Pillow, and ffmpeg. The bot is designed to be easily accessible and user-friendly through the Telegram interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/h1w/photo-video-watermark?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/09c33de50a33824a8b7ebfcb47f94de94223550e024e4e3a7376febd0b4d15c0/h1w/photo-video-watermark",
+        "platform": "telegram",
+        "quality_score": 0.15
+    },
+    {
+        "project_id": 875351091,
+        "content": "🔥 <b>jinsp</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nVisually inspect JSON data from the terminal.\n<br>\n✨ <b>Key Features:</b>\n• Terminal-based JSON data inspection\n• Miller columns for navigation\n• Read-only preview of selected element\n• Keyboard and mouse navigation\n• Search functionality\n<br>\n📖 <b>Summary:</b>\njinsp is a terminal-based tool for browsing and inspecting JSON data. It uses Miller columns for navigation, providing a visual representation of the JSON tree structure. The tool allows users to navigate the JSON data using keyboard or mouse, preview selected elements, and search for specific keywords.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/simeonkr/jinsp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7a1c7a2a4b0fbd8be29e2887e6b6f1c71d8c79c4d83a6e66405bc690c2e702b9/simeonkr/jinsp",
+        "platform": "telegram",
+        "quality_score": 0.25
+    },
+    {
+        "project_id": 507135376,
+        "content": "🔥 <b>waymore</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nFinding more URLs and information from various web archives and intelligence sources than other existing tools, particularly for bug bounty hunting and reconnaissance.\n<br>\n✨ <b>Key Features:</b>\n• Finds URLs from Wayback Machine, Common Crawl, Alien Vault OTX, URLScan, VirusTotal, and Intelligence X.\n<br>\n📖 <b>Summary:</b>\nWaymore is a Python tool designed to discover a comprehensive set of URLs from various sources, including the Wayback Machine, Common Crawl, and security intelligence platforms. It distinguishes itself by downloading archived responses from the Wayback Machine, enabling deeper analysis for hidden links and parameters. The tool also manages rate limiting issues, ensuring more complete results compared to other similar tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/xnl-h4ck3r/waymore?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/def1228d6a69570c650910be2e15bc69057dd1f618d954129c64750d906198ac/xnl-h4ck3r/waymore",
+        "platform": "telegram",
+        "quality_score": 0.9000000000000001
+    },
+    {
+        "project_id": 699540469,
+        "content": "💡 <b>bitmagnet</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosted BitTorrent indexing and searching\n<br>\n✨ <b>Key Features:</b>\n• BitTorrent indexer\n• DHT crawler\n• Content classifier\n• Torrent search engine\n• Web UI\n<br>\n📖 <b>Summary:</b>\nBitmagnet is a self-hosted BitTorrent indexer that crawls the DHT network, classifies content, and provides a torrent search engine. It features a web UI and GraphQL API for easy access and integrates with the Servarr stack for automated media management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bitmagnet-io/bitmagnet?embed=0\">View Project</a>\n• <a href=\"https://bitmagnet.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4ca4a1fca1d84d78fc56d37db2815b6f3889928f7fe417a8c1541735f6f61cce/bitmagnet-io/bitmagnet",
+        "platform": "telegram",
+        "quality_score": 1.1
+    },
+    {
+        "project_id": 805155266,
+        "content": "🚀 <b>cherry-studio</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA desktop client for interacting with multiple LLM providers and AI assistants.\n<br>\n✨ <b>Key Features:</b>\n• Diverse LLM Provider Support (OpenAI, Gemini, Anthropic, Claude, Peplexity, Poe, Ollama, LM Studio)\n<br>\n📖 <b>Summary:</b>\nCherry Studio is a cross-platform desktop application designed to simplify interactions with various LLMs. It supports a wide range of providers, including OpenAI, Gemini, Anthropic, and local models. The application offers features such as pre-configured AI assistants, document processing, and practical tools integration, enhancing the user experience for both casual users and developers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/CherryHQ/cherry-studio?embed=0\">View Project</a>\n• <a href=\"https://cherry-ai.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/805155266/692d7ac1-0787-4b91-99b3-a9231ed6151d",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 17420614,
-        "content": "🌟 <b>SeleniumBase</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nWeb automation, testing, and bypassing bot-detection.\n<br>\n✨ <b>Key Features:</b>\n• Web automation\n• Web testing\n• Web scraping\n• Bot detection bypass\n• End-to-end testing\n<br>\n📖 <b>Summary:</b>\nSeleniumBase is a Python framework for web automation and end-to-end testing. It provides APIs for browser automation, web crawling, web scraping, and bypassing bot detection. It integrates with pytest and offers features for creating robust and reliable web tests.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/seleniumbase/SeleniumBase?embed=0\">View Project</a>\n• <a href=\"https://seleniumbase.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/17420614/88f045f8-d20b-4d5e-9e71-fa03242f5654",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 930695967,
-        "content": "🌟 <b>voice-transcribe-summarize-telegram-bot</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTranscribing and summarizing voice notes received via Telegram.\n<br>\n✨ <b>Key Features:</b>\n• Transcribes voice notes from Telegram messages\n• Summarizes transcribed content\n• Uses Whisper for transcription\n• Uses Llama 3 for summarization\n• Supports multiple audio formats\n<br>\n📖 <b>Summary:</b>\nThis repository provides a Telegram bot that transcribes voice notes using Whisper and summarizes them using Llama 3, both powered by Groq's API. It allows users to easily convert spoken audio into text and receive concise summaries directly within Telegram, supporting various audio formats.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aviaryan/voice-transcribe-summarize-telegram-bot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c3b74d898009af7e3a9a30db552bddde521f19d1574012eeb86454e0b3d196f9/aviaryan/voice-transcribe-summarize-telegram-bot",
-        "platform": "telegram",
-        "quality_score": 0.3
-    },
-    {
-        "project_id": 23129458,
-        "content": "🚀 <b>aseprite</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating animated sprites and pixel art.\n<br>\n✨ <b>Key Features:</b>\n• Layer and frame-based sprite composition\n• Color profile and mode support (RGBA, Indexed, Grayscale)\n• Animation facilities with real-time preview and onion skinning\n• Export/import to sprite sheets, GIF, PNG, and other formats\n• Pixel-art specific tools (Pixel Perfect, Shading, Custom Brushes)\n<br>\n📖 <b>Summary:</b>\nAseprite is a C++ based animated sprite editor and pixel art tool. It provides features for creating and editing sprites with layers, frames, color profiles, and animation tools. It supports exporting to various formats and offers pixel-art specific tools, Lua scripting, and a command-line interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aseprite/aseprite?embed=0\">View Project</a>\n• <a href=\"https://www.aseprite.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/23129458/bc7e1a00-4beb-11ea-965b-60f3458721df",
-        "platform": "telegram",
-        "quality_score": 1.05
-    },
-    {
-        "project_id": 869724660,
-        "content": "🌟 <b>quicky</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nStreamlining the deployment and management of self-hosted Next.js and Node.js applications.\n<br>\n✨ <b>Key Features:</b>\n• GitHub Integration for project deployment and management\n• Automated process management using PM2\n• Simplified project updates and removal\n• Automated domain and SSL certificate configuration with Nginx\n<br>\n📖 <b>Summary:</b>\nQuicky CLI is a tool designed to simplify the deployment and management of self-hosted Next.js and Node.js applications. It offers features such as GitHub integration, automated process management with PM2, domain and SSL configuration, webhook management, and a dashboard for monitoring, aiming to streamline the entire application lifecycle on remote servers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alohe/quicky?embed=0\">View Project</a>\n• <a href=\"https://quicky.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/869724660/b437114b-eb86-48eb-83ba-5d9befc76813",
-        "platform": "telegram",
-        "quality_score": 0.35
-    },
-    {
-        "project_id": 869660918,
-        "content": "🔥 <b>mle-bench</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nBenchmarking AI agents' performance in machine learning engineering tasks.\n<br>\n✨ <b>Key Features:</b>\n• Dataset construction code\n• Evaluation logic\n• Evaluated agents\n• Benchmarking setup recommendations\n• Lite evaluation using Low complexity split\n<br>\n📖 <b>Summary:</b>\nMLE-bench is a benchmark designed to evaluate how well AI agents perform in machine learning engineering. It provides code for dataset construction, evaluation logic, and pre-evaluated agents. The repository also offers a recommended benchmarking setup and a 'lite' evaluation option using a low-complexity dataset split for faster and more cost-effective assessments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/openai/mle-bench?embed=0\">View Project</a>\n• <a href=\"https://openai.com/index/mle-bench/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/42ef58cb97aafe10f05810e7f6d71a4e1269f69cfdf06f3899bf06ff83ed3cd9/openai/mle-bench",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 481398639,
-        "content": "🚀 <b>caps-log</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nPersonal journaling with organization and habit tracking features.\n<br>\n✨ <b>Key Features:</b>\n• Terminal-based journaling\n• Markdown log storage\n• Section and tag-based organization\n• Calendar highlighting based on tags/sections\n• External editor integration via $EDITOR\n<br>\n📖 <b>Summary:</b>\nCaps-Log is a terminal-based journaling tool that stores entries as Markdown files. It allows users to organize their entries using sections and tags, and provides a calendar view that highlights dates based on selected tags or sections. The tool also supports external editor integration and git-based remote storage, and AES encryption.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/NikolaDucak/caps-log?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/481398639/83241f34-7d7d-4024-b922-2e4246aaa2e7",
-        "platform": "telegram",
-        "quality_score": 0.35
-    },
-    {
-        "project_id": 764979648,
-        "content": "🔥 <b>godoxy</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nReverse proxy with Docker integration for microservices.\n<br>\n✨ <b>Key Features:</b>\n• Easy to use with effortless configuration\n• Auto SSL with Let's Encrypt and DNS-01\n• Auto hot-reload on container state/config file changes\n• Dynamic route creation from Docker containers\n• idlesleeper: stop containers on idle, wake up on traffic\n<br>\n📖 <b>Summary:</b>\nGoDoxy is a lightweight reverse proxy designed for easy integration with Docker. It automates SSL certificate management, dynamically creates routes based on Docker containers, and offers features like idle container management and a comprehensive Web UI. It simplifies the management and routing of microservices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yusing/godoxy?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e24388148d9192228f547efb3ff1100c93731cc57a683fb476d98d17202c64bf/yusing/godoxy",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 825279449,
-        "content": "✨ <b>ai-renamer</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nIntelligently renaming files (images, videos, documents) based on their content using AI models to improve organization and searchability.\n<br>\n✨ <b>Key Features:</b>\n• Intelligently renames files based on their content using AI models.\n• Supports Ollama, LM Studio, and OpenAI providers.\n• Configurable model selection (Llava, Gemma, Llama, gpt-4o, etc.).\n<br>\n📖 <b>Summary:</b>\nThe ai-renamer is a Node.js CLI tool that leverages AI models from Ollama, LM Studio, or OpenAI to intelligently rename files based on their content. It supports various models and offers customization options for case style, character limits, and language, making file management more efficient and intuitive.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ozgrozer/ai-renamer?embed=0\">View Project</a>\n• <a href=\"https://airenamer.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/83fb4b31f6c233c3764bfbe6c67c1e0838e94264d2f7f1b4e954085155973264/ozgrozer/ai-renamer",
-        "platform": "telegram",
-        "quality_score": 0.7500000000000001
     }
 ]

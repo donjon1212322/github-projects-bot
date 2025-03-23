@@ -1,30 +1,30 @@
 {
-    "title": "Aseprite: Revolutionizing Pixel Art and Animation",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nAseprite is a C++ based animated sprite editor and pixel art tool. It provides features for creating and editing sprites with layers, frames, color profiles, and animation tools. It supports exporting to various formats and offers pixel-art specific tools, Lua scripting, and a command-line interface.\n\n## 🔑 Key Takeaways\n\n- ✅ Intuitive layer and frame system for efficient animation\n\n- ✅ Powerful pixel-art specific tools for precise control\n\n- ✅ Wide range of export options for seamless integration\n\n- ✅ Command-line interface and Lua scripting for automation\n\n- ✅ Active community and readily available support\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 31274\n- 🍴 Forks: 6829\n- ❗ Open Issues: 1699\n\n\n## 🛠 Tech Stack\n- ✅ C++\n\n\nHey fellow developers! Ever wished for a pixel art editor that's both powerful and intuitive?  Let me introduce you to Aseprite, a game-changer for pixel artists and game developers alike.  Forget clunky, outdated tools; Aseprite is a modern marvel that streamlines the sprite creation process.  It's not just an editor; it's a complete animation powerhouse.\n\nWhat makes Aseprite so special?  Well, it's all about the layers and frames. Think of it like this: layers are like separate sheets of acetate you can stack on top of each other, and frames are like snapshots of your animation at different points in time. Aseprite lets you manage both with incredible ease.  Need to tweak a single element in a complex animation?  No problem. Aseprite's layer system makes it a breeze.\n\nBeyond the core functionality, Aseprite is packed with features designed to boost your productivity.  We're talking onion skinning for smooth animation, real-time preview so you see your changes instantly, and support for a wide range of export formats, including sprite sheets, GIFs, and sequences of PNG files.  It even supports color profiles and different color modes, giving you ultimate control over your palette.\n\nBut it doesn't stop there.  Aseprite offers a treasure trove of pixel-art specific tools.  Imagine a pixel-perfect freehand mode that makes drawing crisp, clean lines a joy.  Or the shading ink tool, which adds depth and dimension to your sprites with incredible ease.  There are also custom brushes, outlines, and even a symmetry tool to help you create perfectly balanced designs. And if you're into patterns, the tiled mode is a lifesaver.\n\nFor those who like automation, Aseprite provides a command-line interface (CLI) and Lua scripting capabilities. This allows you to automate repetitive tasks, saving you precious time and energy.  Plus, the program features a customizable keyboard layout and mouse wheel controls, so you can work efficiently in the way that suits you best.  Beyond the features, Aseprite also has a fantastic community and support system. You can find help through their active online forums and Discord server.\n\nSo, why should you care?  Aseprite saves you time, improves your workflow, and ultimately helps you create stunning pixel art.  It's the perfect tool for game developers, indie artists, and anyone who wants to create beautiful, pixel-perfect animations.  Whether you're a seasoned pro or just starting out, Aseprite has something to offer you.  Give it a try; you won't regret it!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/aseprite/aseprite)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Bitmagnet: Your Self-Hosted Torrent Powerhouse",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nBitmagnet is a self-hosted BitTorrent indexer that crawls the DHT network, classifies content, and provides a torrent search engine. It features a web UI and GraphQL API for easy access and integrates with the Servarr stack for automated media management.\n\n## 🔑 Key Takeaways\n\n- ✅ Self-hosted for ultimate control and privacy\n\n- ✅ Seamless integration with Servarr applications (Radarr, Sonarr, etc.)\n\n- ✅ Intuitive web UI and powerful GraphQL API for easy use and customization\n\n- ✅ Open-source, allowing for community contribution and adaptation\n\n- ✅ Automates torrent management and media library organization, saving significant time and effort\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 2834\n- 🍴 Forks: 117\n- ❗ Open Issues: 36\n\n\n## 🛠 Tech Stack\n- ✅ Go\n\n\nHey fellow developers! Ever wished you had a supercharged, self-hosted torrent search engine right at your fingertips? Well, hold onto your hats, because I've stumbled upon something truly amazing: bitmagnet! This isn't your grandpappy's torrent indexer; it's a whole ecosystem packed into one sleek package.  Imagine a system that crawls the DHT network, indexes torrents, classifies content, and even integrates with your favorite Servarr apps (like Radarr and Sonarr).  That's bitmagnet in a nutshell. But let's dive a little deeper. \n\nAt its core, bitmagnet is a self-hosted application. This means you have complete control over your data and privacy. No more relying on potentially unreliable or questionable public trackers. You're in charge! The system works by crawling the Distributed Hash Table (DHT) network, which is a peer-to-peer network used by BitTorrent clients to discover torrents. bitmagnet intelligently sifts through this massive amount of data, indexing relevant torrents and classifying them based on their content. This means you can easily search for exactly what you need, without sifting through endless irrelevant results. \n\nBut what truly sets bitmagnet apart is its integration with the Servarr suite of applications. If you're a fan of automating your media library management, this will blow your mind. bitmagnet seamlessly integrates with Radarr (for movies), Sonarr (for TV shows), and other similar apps. This means that once you've found a torrent, you can automatically import it into your media management system, saving you hours of manual work.  It's like having a personal torrent librarian working 24/7. \n\nBeyond the core functionality, bitmagnet offers a beautiful web UI and a powerful GraphQL API. The UI is intuitive and easy to navigate, even for those not familiar with torrenting.  The GraphQL API allows for seamless integration with other applications and custom scripts, opening up a world of possibilities for automation and customization. You can build custom dashboards, integrate it with your home automation system – the possibilities are endless! \n\nFor developers, the benefits are numerous.  Imagine the time saved by automating torrent management and media library organization.  The ability to build custom integrations and extend bitmagnet's functionality is a game-changer.  The project's open-source nature means you can contribute to its development, learn from the codebase, and even adapt it to your specific needs.  It's a powerful tool, a fascinating project, and a great opportunity to contribute to the open-source community.  It's not just a torrent indexer; it's a platform for innovation!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/bitmagnet-io/bitmagnet)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "pixel art",
-            "slug": "pixel-art"
+            "name": "bittorrent",
+            "slug": "bittorrent"
         },
         {
-            "name": "animation",
-            "slug": "animation"
+            "name": "indexer",
+            "slug": "indexer"
         },
         {
-            "name": "game development",
-            "slug": "game-development"
+            "name": "dht",
+            "slug": "dht"
         },
         {
-            "name": "sprite editor",
-            "slug": "sprite-editor"
+            "name": "graphql",
+            "slug": "graphql"
         },
         {
-            "name": "lua scripting",
-            "slug": "lua-scripting"
+            "name": "servarr",
+            "slug": "servarr"
         }
     ],
-    "slug": "aseprite-revolutionizing-pixel-art-and-animation",
-    "project_id": 23129458,
+    "slug": "bitmagnet-your-self-hosted-torrent-powerhouse",
+    "project_id": 699540469,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
