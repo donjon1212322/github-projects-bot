@@ -1,58 +1,65 @@
 [
     {
-        "project_id": 919835586,
-        "content": "🚀 <b>Hunyuan3D-2</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating high-resolution 3D assets from images and text using diffusion models.\n<br>\n✨ <b>Key Features:</b>\n• High-Resolution 3D Asset Generation\n• Image-to-3D Conversion\n• Text-to-3D Conversion\n• Texture Generation\n• Diffusion Models for 3D Generation\n<br>\n📖 <b>Summary:</b>\nThe Hunyuan3D-2 repository provides tools and models for generating high-resolution 3D assets. It supports both image-to-3D and text-to-3D conversion, leveraging diffusion models for shape and texture generation. The repository also includes turbo models for faster inference.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Tencent/Hunyuan3D-2?embed=0\">View Project</a>\n• <a href=\"https://3d.hunyuan.tencent.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7aea39897f0b11251222783e2d4db2a1084dc3c188c6748d012edd7fdc914d26/Tencent/Hunyuan3D-2",
-        "platform": "telegram",
-        "quality_score": 0.8500000000000001
-    },
-    {
-        "project_id": 950065302,
-        "content": "💡 <b>bambot</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding and experimenting with a low-cost humanoid robot.\n<br>\n✨ <b>Key Features:</b>\n• Hardware designs for a low-cost humanoid robot\n• Software for controlling the robot\n• Demo video showcasing the robot's capabilities\n<br>\n📖 <b>Summary:</b>\nBambot is an open-source project providing the hardware and software designs for building a low-cost humanoid robot. The project includes hardware schematics, software for controlling the robot, and a demo video. It is intended for hobbyists, researchers, and educators interested in robotics.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/timqian/bambot?embed=0\">View Project</a>\n• <a href=\"https://bambot.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5043fe12cfa24a452710e3f4b2b35e1970b8fd1d92dd1eb3708ac88855e5b641/timqian/bambot",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 191318242,
-        "content": "💡 <b>googlemaps-scraper</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting and monitoring Google Maps reviews for a specific Point Of Interest (POI).\n<br>\n✨ <b>Key Features:</b>\n• Scrapes Google Maps reviews from a given URL.\n• Allows specifying the number of reviews to retrieve.\n• Offers options to scrape POI metadata instead of reviews.\n• Provides a monitoring functionality for incremental scraping and storage in MongoDB.\n• Sort reviews by relevance, date, or rating.\n<br>\n📖 <b>Summary:</b>\nThe googlemaps-scraper repository provides tools to scrape reviews from Google Maps places. It allows users to extract a specified number of the most recent reviews and offers a monitoring feature to incrementally store reviews in MongoDB. The scraper can also extract POI metadata and sort reviews based on different criteria.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gaspa93/googlemaps-scraper?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a54b8f917efd202715b24be90544bbf6d128de54909f5d98cd8fd2db60745aba/gaspa93/googlemaps-scraper",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 377310071,
-        "content": "🌟 <b>photo-video-watermark</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating watermarks on photos and videos via a Telegram bot.\n<br>\n✨ <b>Key Features:</b>\n• Telegram bot integration\n• Video conversion\n• Watermark addition to photos\n• Watermark addition to videos\n<br>\n📖 <b>Summary:</b>\nThis repository provides a Telegram bot that allows users to add watermarks to both photos and videos. It includes video conversion capabilities and leverages libraries like aiogram, Pillow, and ffmpeg. The bot is designed to be easily accessible and user-friendly through the Telegram interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/h1w/photo-video-watermark?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/09c33de50a33824a8b7ebfcb47f94de94223550e024e4e3a7376febd0b4d15c0/h1w/photo-video-watermark",
-        "platform": "telegram",
-        "quality_score": 0.15
-    },
-    {
-        "project_id": 875351091,
-        "content": "🔥 <b>jinsp</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nVisually inspect JSON data from the terminal.\n<br>\n✨ <b>Key Features:</b>\n• Terminal-based JSON data inspection\n• Miller columns for navigation\n• Read-only preview of selected element\n• Keyboard and mouse navigation\n• Search functionality\n<br>\n📖 <b>Summary:</b>\njinsp is a terminal-based tool for browsing and inspecting JSON data. It uses Miller columns for navigation, providing a visual representation of the JSON tree structure. The tool allows users to navigate the JSON data using keyboard or mouse, preview selected elements, and search for specific keywords.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/simeonkr/jinsp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7a1c7a2a4b0fbd8be29e2887e6b6f1c71d8c79c4d83a6e66405bc690c2e702b9/simeonkr/jinsp",
-        "platform": "telegram",
-        "quality_score": 0.25
-    },
-    {
-        "project_id": 507135376,
-        "content": "🔥 <b>waymore</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nFinding more URLs and information from various web archives and intelligence sources than other existing tools, particularly for bug bounty hunting and reconnaissance.\n<br>\n✨ <b>Key Features:</b>\n• Finds URLs from Wayback Machine, Common Crawl, Alien Vault OTX, URLScan, VirusTotal, and Intelligence X.\n<br>\n📖 <b>Summary:</b>\nWaymore is a Python tool designed to discover a comprehensive set of URLs from various sources, including the Wayback Machine, Common Crawl, and security intelligence platforms. It distinguishes itself by downloading archived responses from the Wayback Machine, enabling deeper analysis for hidden links and parameters. The tool also manages rate limiting issues, ensuring more complete results compared to other similar tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/xnl-h4ck3r/waymore?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/def1228d6a69570c650910be2e15bc69057dd1f618d954129c64750d906198ac/xnl-h4ck3r/waymore",
-        "platform": "telegram",
-        "quality_score": 0.9000000000000001
-    },
-    {
-        "project_id": 699540469,
-        "content": "💡 <b>bitmagnet</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosted BitTorrent indexing and searching\n<br>\n✨ <b>Key Features:</b>\n• BitTorrent indexer\n• DHT crawler\n• Content classifier\n• Torrent search engine\n• Web UI\n<br>\n📖 <b>Summary:</b>\nBitmagnet is a self-hosted BitTorrent indexer that crawls the DHT network, classifies content, and provides a torrent search engine. It features a web UI and GraphQL API for easy access and integrates with the Servarr stack for automated media management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bitmagnet-io/bitmagnet?embed=0\">View Project</a>\n• <a href=\"https://bitmagnet.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4ca4a1fca1d84d78fc56d37db2815b6f3889928f7fe417a8c1541735f6f61cce/bitmagnet-io/bitmagnet",
+        "project_id": 441537080,
+        "content": "💡 <b>shellfirm</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nPreventing accidental or malicious execution of dangerous shell commands.\n<br>\n✨ <b>Key Features:</b>\n• Intercepts risky shell commands.\n• Prompts users with a challenge for verification.\n• Provides a captcha-like system for the terminal.\n• Supports multiple shells (Zsh, Bash, Fish).\n• Uses customizable risky patterns.\n<br>\n📖 <b>Summary:</b>\nShellfirm is a security tool that intercepts potentially dangerous shell commands and prompts the user with a verification challenge before execution. It acts as a safety net, preventing accidental or malicious actions in the terminal. Shellfirm supports various shells and allows customization of risky command patterns.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kaplanelad/shellfirm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/25b1fb5fca9ae7a200933520bf49b2a4a096da13f930b937005442864f598fcb/kaplanelad/shellfirm",
         "platform": "telegram",
         "quality_score": 1.1
     },
     {
-        "project_id": 805155266,
-        "content": "🚀 <b>cherry-studio</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA desktop client for interacting with multiple LLM providers and AI assistants.\n<br>\n✨ <b>Key Features:</b>\n• Diverse LLM Provider Support (OpenAI, Gemini, Anthropic, Claude, Peplexity, Poe, Ollama, LM Studio)\n<br>\n📖 <b>Summary:</b>\nCherry Studio is a cross-platform desktop application designed to simplify interactions with various LLMs. It supports a wide range of providers, including OpenAI, Gemini, Anthropic, and local models. The application offers features such as pre-configured AI assistants, document processing, and practical tools integration, enhancing the user experience for both casual users and developers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/CherryHQ/cherry-studio?embed=0\">View Project</a>\n• <a href=\"https://cherry-ai.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/805155266/692d7ac1-0787-4b91-99b3-a9231ed6151d",
+        "project_id": 515232049,
+        "content": "🚀 <b>captcha-solver-on-Adroid</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSolving CAPTCHAs on Android devices using external CAPTCHA solving services.\n<br>\n✨ <b>Key Features:</b>\n• Android-based CAPTCHA solving client\n• Supports reCAPTCHA and funCAPTCHA\n• Uses CAPTCHA solving services like Deathbycaptcha and 2captcha\n• Provides a user-friendly Android interface for CAPTCHA solving\n<br>\n📖 <b>Summary:</b>\nThis repository provides an Android client for solving CAPTCHAs, specifically reCAPTCHA and funCAPTCHA, by leveraging external CAPTCHA solving services like Deathbycaptcha and 2captcha. It aims to offer a user-friendly interface for Android users who need to automate CAPTCHA solving tasks, filling the gap where service providers only offer APIs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lilerjee/captcha-solver-on-Adroid?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4c843881b5c966c266a64e70e6c3a8591f706e99b6341ebdbadc96be5934cdcc/lilerjee/captcha-solver-on-Adroid",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
+        "quality_score": 0.15
+    },
+    {
+        "project_id": 27954927,
+        "content": "🚀 <b>caffeine</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nHigh-performance, near-optimal caching of data in Java applications.\n<br>\n✨ <b>Key Features:</b>\n• In-memory cache\n• Automatic loading of entries\n• Size-based eviction\n• Time-based expiration\n• Asynchronous refresh\n<br>\n📖 <b>Summary:</b>\nCaffeine is a high-performance caching library for Java that provides an in-memory cache with features like automatic loading, size-based eviction, time-based expiration, and asynchronous refresh. It offers flexible configuration options and extensions for JCache, Guava, and simulation, making it suitable for various caching scenarios in Java applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ben-manes/caffeine?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/51b9d688776ade79ae8dd097beea22f4540a01fa89c1dece16e9e469d1e05838/ben-manes/caffeine",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 527215876,
+        "content": "🚀 <b>osgint</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nOSINT (Open Source Intelligence) gathering on GitHub users, specifically finding usernames from emails and vice versa, and retrieving profile information.\n<br>\n✨ <b>Key Features:</b>\n• Find GitHub username from an email\n• Find email from GitHub username\n• Find information about a profile (account creation date, public gists, id, public pgp, public ssh)\n<br>\n📖 <b>Summary:</b>\nOSGINT is a Python tool designed for gathering information about GitHub users. It allows users to find a GitHub username given an email address, and attempt to find an email address given a username. It also retrieves various profile details such as account creation date, public gists, and public SSH keys.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hippiiee/osgint?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/eb0a4e96b54587df3b7f9270659b0732bb43a6878678958c122e92b8e40b145a/hippiiee/osgint",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 574162425,
+        "content": "💡 <b>chatgpt-chrome-extension</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing text input across the internet using ChatGPT for tasks like writing, revising, and debugging.\n<br>\n✨ <b>Key Features:</b>\n• Integrates ChatGPT into every text box on the internet\n• Plugin system for greater control over ChatGPT behavior\n• Ability to interact with 3rd party APIs\n<br>\n📖 <b>Summary:</b>\nThis Chrome extension seamlessly integrates ChatGPT into any text box, enabling users to leverage its capabilities for various writing and editing tasks directly within their browser. It also features a plugin system, allowing for customized behavior and interaction with external APIs, extending its functionality.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gragland/chatgpt-chrome-extension?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e0cf8e7c4256e9d736477e79c302445dbcf6a426882ba61bf73a3e0a8ad574b6/gragland/chatgpt-chrome-extension",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 904249963,
+        "content": "🚀 <b>clickclickclick</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating tasks on Android and computers using LLMs.\n<br>\n✨ <b>Key Features:</b>\n• Autonomous Android and computer use\n• LLM integration (local or remote)\n• Web interface (Gradio)\n• CLI tool\n• API access\n<br>\n📖 <b>Summary:</b>\nClickClickClick is a framework that enables autonomous control of Android devices and computers using Large Language Models. It supports local and remote LLMs, including Ollama, Gemini, and GPT 4o. The framework can be used via a web interface (Gradio), a command-line interface, or through scripting, providing flexible options for automating various tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BandarLabs/clickclickclick?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/dad4271e37b7961e4ab2b2c87ce8f2cf347dfc08cf526a3db2883e740b370cf1/BandarLabs/clickclickclick",
+        "platform": "telegram",
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 180137089,
+        "content": "🔥 <b>FinanceToolkit</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTransparent and efficient financial analysis, enabling users to calculate financial ratios and metrics with clear, auditable methodologies.\n<br>\n✨ <b>Key Features:</b>\n• Financial ratio calculations (150+)\n<br>\n📖 <b>Summary:</b>\nFinanceToolkit is a Python library designed for transparent financial analysis. It provides a comprehensive set of tools for calculating financial ratios, retrieving historical data for various asset classes, and measuring performance and risk. The toolkit emphasizes transparency by providing clear methodologies for all calculations, allowing users to avoid reliance on opaque, proprietary data sources.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/JerBouma/FinanceToolkit?embed=0\">View Project</a>\n• <a href=\"https://www.jeroenbouma.com/projects/financetoolkit?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/180137089/9188f19e-d896-4f68-9571-5603de08e4da",
+        "platform": "telegram",
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 902707659,
+        "content": "🔥 <b>minecraft</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating a Minecraft clone from scratch using OpenGL and Go, without relying on game engines or frameworks.\n<br>\n✨ <b>Key Features:</b>\n• Infinite and procedurally generated terrain\n• Physics engine with collision detection\n• Day/night cycle\n• Dynamic lighting\n• Block placement and destruction\n<br>\n📖 <b>Summary:</b>\nThis repository provides a from-scratch implementation of Minecraft using Go and OpenGL. It features procedurally generated terrain, a physics engine, dynamic lighting, and block manipulation. The project demonstrates how to build a 3D voxel game engine from the ground up, focusing on performance and custom implementations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/GianlucaP106/minecraft?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/43d4912bf32b2207118ec5a5632a7f95510026cbf0265868440bb1d4c4f838df/GianlucaP106/minecraft",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 679304431,
+        "content": "🌟 <b>ophiuchi-desktop</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging local HTTPS proxy servers using Docker containers.\n<br>\n✨ <b>Key Features:</b>\n• Local HTTPS proxy server management\n• Docker-based proxy server creation and management\n• GUI for managing proxy settings\n<br>\n📖 <b>Summary:</b>\nOphiuchi Desktop is a tool for managing local HTTPS proxy servers. It leverages Docker to create and manage isolated proxy environments, providing a user-friendly interface for configuring and controlling these proxies.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cheeselemon/ophiuchi-desktop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/679304431/3532db97-fb20-4836-9c36-2401933be995",
+        "platform": "telegram",
+        "quality_score": 0.65
     }
 ]
