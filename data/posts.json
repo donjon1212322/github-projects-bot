@@ -1,65 +1,65 @@
 [
     {
-        "project_id": 441537080,
-        "content": "💡 <b>shellfirm</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nPreventing accidental or malicious execution of dangerous shell commands.\n<br>\n✨ <b>Key Features:</b>\n• Intercepts risky shell commands.\n• Prompts users with a challenge for verification.\n• Provides a captcha-like system for the terminal.\n• Supports multiple shells (Zsh, Bash, Fish).\n• Uses customizable risky patterns.\n<br>\n📖 <b>Summary:</b>\nShellfirm is a security tool that intercepts potentially dangerous shell commands and prompts the user with a verification challenge before execution. It acts as a safety net, preventing accidental or malicious actions in the terminal. Shellfirm supports various shells and allows customization of risky command patterns.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kaplanelad/shellfirm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/25b1fb5fca9ae7a200933520bf49b2a4a096da13f930b937005442864f598fcb/kaplanelad/shellfirm",
+        "project_id": 196274912,
+        "content": "🔥 <b>IronRDP</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nImplementing the Microsoft Remote Desktop Protocol (RDP) in Rust.\n<br>\n✨ <b>Key Features:</b>\n• Uncompressed raw bitmap support\n• Interleaved Run-Length Encoding (RLE) Bitmap Codec support\n• RDP 6.0 Bitmap Compression support\n• Microsoft RemoteFX (RFX) support\n• Asynchronous I/O RDP client example\n<br>\n📖 <b>Summary:</b>\nIronRDP is a collection of Rust crates that provide an implementation of the Microsoft Remote Desktop Protocol (RDP), with a focus on security. It offers support for various video codecs and provides examples of both asynchronous and synchronous RDP clients, showcasing its versatility in different application scenarios.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Devolutions/IronRDP?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/40d4e1140f6080fa9408e5e09752fe9e6934bbd10ec0494e47c69cfee8c68b7b/Devolutions/IronRDP",
         "platform": "telegram",
-        "quality_score": 1.1
+        "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 515232049,
-        "content": "🚀 <b>captcha-solver-on-Adroid</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSolving CAPTCHAs on Android devices using external CAPTCHA solving services.\n<br>\n✨ <b>Key Features:</b>\n• Android-based CAPTCHA solving client\n• Supports reCAPTCHA and funCAPTCHA\n• Uses CAPTCHA solving services like Deathbycaptcha and 2captcha\n• Provides a user-friendly Android interface for CAPTCHA solving\n<br>\n📖 <b>Summary:</b>\nThis repository provides an Android client for solving CAPTCHAs, specifically reCAPTCHA and funCAPTCHA, by leveraging external CAPTCHA solving services like Deathbycaptcha and 2captcha. It aims to offer a user-friendly interface for Android users who need to automate CAPTCHA solving tasks, filling the gap where service providers only offer APIs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lilerjee/captcha-solver-on-Adroid?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4c843881b5c966c266a64e70e6c3a8591f706e99b6341ebdbadc96be5934cdcc/lilerjee/captcha-solver-on-Adroid",
-        "platform": "telegram",
-        "quality_score": 0.15
-    },
-    {
-        "project_id": 27954927,
-        "content": "🚀 <b>caffeine</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nHigh-performance, near-optimal caching of data in Java applications.\n<br>\n✨ <b>Key Features:</b>\n• In-memory cache\n• Automatic loading of entries\n• Size-based eviction\n• Time-based expiration\n• Asynchronous refresh\n<br>\n📖 <b>Summary:</b>\nCaffeine is a high-performance caching library for Java that provides an in-memory cache with features like automatic loading, size-based eviction, time-based expiration, and asynchronous refresh. It offers flexible configuration options and extensions for JCache, Guava, and simulation, making it suitable for various caching scenarios in Java applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ben-manes/caffeine?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/51b9d688776ade79ae8dd097beea22f4540a01fa89c1dece16e9e469d1e05838/ben-manes/caffeine",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 527215876,
-        "content": "🚀 <b>osgint</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nOSINT (Open Source Intelligence) gathering on GitHub users, specifically finding usernames from emails and vice versa, and retrieving profile information.\n<br>\n✨ <b>Key Features:</b>\n• Find GitHub username from an email\n• Find email from GitHub username\n• Find information about a profile (account creation date, public gists, id, public pgp, public ssh)\n<br>\n📖 <b>Summary:</b>\nOSGINT is a Python tool designed for gathering information about GitHub users. It allows users to find a GitHub username given an email address, and attempt to find an email address given a username. It also retrieves various profile details such as account creation date, public gists, and public SSH keys.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hippiiee/osgint?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/eb0a4e96b54587df3b7f9270659b0732bb43a6878678958c122e92b8e40b145a/hippiiee/osgint",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 574162425,
-        "content": "💡 <b>chatgpt-chrome-extension</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing text input across the internet using ChatGPT for tasks like writing, revising, and debugging.\n<br>\n✨ <b>Key Features:</b>\n• Integrates ChatGPT into every text box on the internet\n• Plugin system for greater control over ChatGPT behavior\n• Ability to interact with 3rd party APIs\n<br>\n📖 <b>Summary:</b>\nThis Chrome extension seamlessly integrates ChatGPT into any text box, enabling users to leverage its capabilities for various writing and editing tasks directly within their browser. It also features a plugin system, allowing for customized behavior and interaction with external APIs, extending its functionality.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gragland/chatgpt-chrome-extension?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e0cf8e7c4256e9d736477e79c302445dbcf6a426882ba61bf73a3e0a8ad574b6/gragland/chatgpt-chrome-extension",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 904249963,
-        "content": "🚀 <b>clickclickclick</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating tasks on Android and computers using LLMs.\n<br>\n✨ <b>Key Features:</b>\n• Autonomous Android and computer use\n• LLM integration (local or remote)\n• Web interface (Gradio)\n• CLI tool\n• API access\n<br>\n📖 <b>Summary:</b>\nClickClickClick is a framework that enables autonomous control of Android devices and computers using Large Language Models. It supports local and remote LLMs, including Ollama, Gemini, and GPT 4o. The framework can be used via a web interface (Gradio), a command-line interface, or through scripting, providing flexible options for automating various tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BandarLabs/clickclickclick?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/dad4271e37b7961e4ab2b2c87ce8f2cf347dfc08cf526a3db2883e740b370cf1/BandarLabs/clickclickclick",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 180137089,
-        "content": "🔥 <b>FinanceToolkit</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTransparent and efficient financial analysis, enabling users to calculate financial ratios and metrics with clear, auditable methodologies.\n<br>\n✨ <b>Key Features:</b>\n• Financial ratio calculations (150+)\n<br>\n📖 <b>Summary:</b>\nFinanceToolkit is a Python library designed for transparent financial analysis. It provides a comprehensive set of tools for calculating financial ratios, retrieving historical data for various asset classes, and measuring performance and risk. The toolkit emphasizes transparency by providing clear methodologies for all calculations, allowing users to avoid reliance on opaque, proprietary data sources.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/JerBouma/FinanceToolkit?embed=0\">View Project</a>\n• <a href=\"https://www.jeroenbouma.com/projects/financetoolkit?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/180137089/9188f19e-d896-4f68-9571-5603de08e4da",
-        "platform": "telegram",
-        "quality_score": 0.95
-    },
-    {
-        "project_id": 902707659,
-        "content": "🔥 <b>minecraft</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating a Minecraft clone from scratch using OpenGL and Go, without relying on game engines or frameworks.\n<br>\n✨ <b>Key Features:</b>\n• Infinite and procedurally generated terrain\n• Physics engine with collision detection\n• Day/night cycle\n• Dynamic lighting\n• Block placement and destruction\n<br>\n📖 <b>Summary:</b>\nThis repository provides a from-scratch implementation of Minecraft using Go and OpenGL. It features procedurally generated terrain, a physics engine, dynamic lighting, and block manipulation. The project demonstrates how to build a 3D voxel game engine from the ground up, focusing on performance and custom implementations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/GianlucaP106/minecraft?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/43d4912bf32b2207118ec5a5632a7f95510026cbf0265868440bb1d4c4f838df/GianlucaP106/minecraft",
+        "project_id": 927096917,
+        "content": "🌟 <b>tray-tui</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nDisplaying system tray menus as interactive trees within a terminal user interface.\n<br>\n✨ <b>Key Features:</b>\n• System tray integration in a terminal\n• Interactive tree-based menu navigation\n• Built using Rust and ratatui\n<br>\n📖 <b>Summary:</b>\ntray-tui brings system tray functionality to the terminal, allowing users to interact with tray menus through an interactive tree-based navigation system. It is built using Rust and the ratatui library, providing a seamless TUI experience for managing system tray items and actions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Levizor/tray-tui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6316bcea309bc48df4c1a39c18d9b01694e21c35a4987b8660be93bb54fda925/Levizor/tray-tui",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 679304431,
-        "content": "🌟 <b>ophiuchi-desktop</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging local HTTPS proxy servers using Docker containers.\n<br>\n✨ <b>Key Features:</b>\n• Local HTTPS proxy server management\n• Docker-based proxy server creation and management\n• GUI for managing proxy settings\n<br>\n📖 <b>Summary:</b>\nOphiuchi Desktop is a tool for managing local HTTPS proxy servers. It leverages Docker to create and manage isolated proxy environments, providing a user-friendly interface for configuring and controlling these proxies.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cheeselemon/ophiuchi-desktop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/679304431/3532db97-fb20-4836-9c36-2401933be995",
+        "project_id": 929156152,
+        "content": "🌟 <b>groovy</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTranspiling Python code to JavaScript for client-side execution, particularly within the Gradio library.\n<br>\n✨ <b>Key Features:</b>\n• Converts Python functions to JavaScript equivalents.\n• Supports a subset of the Python standard library.\n• Provides complete error reporting for unsupported Python code.\n<br>\n📖 <b>Summary:</b>\nGroovy is a Python-to-JavaScript transpiler designed for use in the Gradio library. It converts Python functions into their JavaScript equivalents, enabling developers to write Python code that runs efficiently on the client-side. Groovy prioritizes clear error reporting for unsupported Python code, making it easier for developers to adapt their functions accordingly.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gradio-app/groovy?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a9291289a5c4a40a30d8e8aeda53bcbc822a7c1d6f50492f33eab82d435fbb9f/gradio-app/groovy",
         "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 515647260,
+        "content": "🌟 <b>1Panel</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nLinux server management through a web interface.\n<br>\n✨ <b>Key Features:</b>\n• Web-based Linux server management\n• Website deployment\n• Application store\n• Security and reliability\n<br>\n📖 <b>Summary:</b>\n1Panel is a web-based control panel designed to simplify Linux server management. It offers features such as website deployment, an application store for easy installation of open-source tools, and focuses on security and reliability through containerization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/1Panel-dev/1Panel?embed=0\">View Project</a>\n• <a href=\"https://1panel.pro?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0bf6fb2fd30131bee364e23ef3a06621e2f9ac606811129c56db9ac17e85528d/1Panel-dev/1Panel",
+        "platform": "telegram",
+        "quality_score": 1.1
+    },
+    {
+        "project_id": 831420946,
+        "content": "✨ <b>bunster</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nCompiling shell scripts into standalone, portable, and secure static binaries that can run in environments without a shell.\n<br>\n✨ <b>Key Features:</b>\n• Compiles shell scripts to static binaries\n• Transpiles shell scripts to Go code\n• Aims for bash compatibility\n• Provides improved error handling and messages\n<br>\n📖 <b>Summary:</b>\nBunster is a shell compiler that converts bash scripts into Go code and then compiles them into static binaries. This allows the scripts to run in environments where a shell is not available, improving security and portability. Bunster aims to provide modern language features like improved error handling, a module system, and support for .env files.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yassinebenaid/bunster?embed=0\">View Project</a>\n• <a href=\"https://bunster.netlify.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ec542a65976afde95878ff3bdfcb53d3578330674e516f7bcae84a1d756567f0/yassinebenaid/bunster",
+        "platform": "telegram",
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 774716772,
+        "content": "🚀 <b>heyform</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating conversational forms for surveys, questionnaires, quizzes, and polls without coding.\n<br>\n✨ <b>Key Features:</b>\n• Versatile Inputs (text, email, phone, picture choices, date pickers, file uploads)\n• Smart Logic (conditional logic, URL redirections)\n• Powerful Integrations (webhooks, analytics, marketing platforms, Zapier, Make.com)\n<br>\n📖 <b>Summary:</b>\nHeyForm is an open-source form builder that simplifies the creation of engaging conversational forms. It offers a wide array of input types, smart logic, powerful integrations, and extensive customization options. Users can analyze data collected through insightful analytics and export results for further analysis.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/heyform/heyform?embed=0\">View Project</a>\n• <a href=\"https://heyform.net?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/774716772/96c47530-c0b6-4d26-9b97-a0c10c4b83e8",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 660603097,
+        "content": "✨ <b>zebar</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating customizable and cross-platform taskbars, desktop widgets, and popups.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform support (Windows, MacOS, Linux)\n• Customizable desktop widgets\n• Taskbar creation\n• Popup creation\n• Uses native webviews for widgets (lightweight alternative to Electron)\n<br>\n📖 <b>Summary:</b>\nZebar is a Rust-based tool for creating customizable and cross-platform desktop widgets, taskbars, and popups. It leverages native webviews for lightweight widget rendering and exposes system information through reactive providers. Zebar supports various frontend frameworks, allowing users to build widgets with their preferred technology.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/glzr-io/zebar?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/bfd0c2a39fbdd1bcf87d14c69a2b8be9e7ea9aaa215ac4f6169c59e7ae4445fa/glzr-io/zebar",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 916618403,
+        "content": "🌟 <b>baitroute</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDetect vulnerability scans and mislead attackers by providing false positive results, acting as an early warning system and wasting attackers' time.\n<br>\n✨ <b>Key Features:</b>\n• Easy Integration with Go, Python, and Javascript web frameworks\n• Ready-to-use vulnerability/misconfiguration rules\n<br>\n📖 <b>Summary:</b>\nBaitroute is a web honeypot library designed to detect and mislead attackers by creating realistic, vulnerable-looking endpoints. It integrates seamlessly with Go, Python, and Javascript web frameworks and offers ready-to-use rules that can be configured to create custom decoys. The library aims to provide an early warning system for potential attacks and waste attackers' time by presenting them with false positive vulnerabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/utkusen/baitroute?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ac7324209b5b8a663de377b9f73285f5fd02bd8082303d4fbdf44e705d60b883/utkusen/baitroute",
+        "platform": "telegram",
+        "quality_score": 0.7000000000000001
+    },
+    {
+        "project_id": 233472199,
+        "content": "🚀 <b>Microsoft-Activation-Scripts</b> | Batchfile\n<br>\n🎯 <b>Primary Use Case:</b>\nWindows and Office activation\n<br>\n✨ <b>Key Features:</b>\n• HWID Activation\n• Ohook Activation\n• TSforge Activation\n• KMS38 Activation\n• Online KMS Activation\n<br>\n📖 <b>Summary:</b>\nThe Microsoft Activation Scripts repository provides open-source tools for activating Windows and Office using various methods like HWID, Ohook, TSforge, KMS38, and Online KMS. It also includes advanced troubleshooting capabilities to assist users in resolving activation issues. The repository aims to simplify and streamline the activation process for Microsoft products.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/massgravel/Microsoft-Activation-Scripts?embed=0\">View Project</a>\n• <a href=\"https://massgrave.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/233472199/7f86712b-fee6-4659-a2cf-c967d6b0d733",
+        "platform": "telegram",
+        "quality_score": 0.9000000000000001
     }
 ]
