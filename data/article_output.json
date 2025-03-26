@@ -1,26 +1,26 @@
 {
-    "article": "Ever accidentally deleted a crucial file with `rm -rf`? Or wiped your Git history with a reckless `git reset --hard`?  Yeah, we've all been there.  That sinking feeling in your stomach when you realize the irreversible damage you've done?  Shellfirm is here to rescue you from your own impulsive coding moments! This amazing GitHub project acts like a safety net for your terminal, preventing those dreaded 'oops' moments that can cost you hours, or even days, of work. \n\nShellfirm works by intercepting potentially risky commands before they execute.  Think of it as a super-powered, terminal-based CAPTCHA.  If it detects a command that could cause significant damage (like deleting a directory tree or resetting your Git repository), it pauses and prompts you to solve a simple math problem or confirm your action. This tiny pause is all it takes to give you a moment of reflection before you unleash havoc on your project.  It’s a small step to prevent a huge disaster. \n\nThe setup is straightforward.  Whether you're a Bash, Zsh, Fish, or even using Docker, Shellfirm provides easy-to-follow instructions to integrate it into your workflow.  It's a breeze to install via Homebrew or by downloading the binary directly.  Once installed, it simply hooks into your shell's pre-execution process.  No complex configurations or deep dives into your shell's inner workings are needed. \n\nThe benefits for developers are clear.  First and foremost, it saves you from accidental data loss.  We've all been there - a typo, a misplaced command, and suddenly hours of work vanish.  Shellfirm eliminates that risk.  Secondly, it improves your workflow by adding an extra layer of security without slowing you down.  The verification process is quick and painless.  Finally, it fosters better coding habits by encouraging more thoughtful command execution. You'll start to double-check your commands instinctively, preventing future mistakes. \n\nShellfirm isn't about slowing you down; it's about preventing catastrophic errors.  It's a lightweight, unobtrusive tool that provides a significant boost in security and peace of mind.  It's the little guardian angel watching over your terminal, ensuring that your next 'oops' moment remains just that – a moment, not a disaster.",
+    "article": "Hey fellow developers! Ever wished for a super easy-to-use, multi-platform chatbot framework that's also incredibly flexible?  Well, hold onto your hats because AstrBot is here to blow your minds! This isn't your average chatbot project; it's a game-changer.  AstrBot lets you build and deploy chatbots across multiple messaging platforms – think QQ, Telegram, WeChat, and more – with minimal effort.  It's designed to be incredibly modular, meaning you can easily add new features and integrations without rewriting the whole thing.  Imagine the possibilities! Want to add image recognition?  Easy peasy. Need to integrate with a specific API?  AstrBot makes it a breeze.\n\nWhat makes AstrBot truly special is its support for a wide range of Large Language Models (LLMs).  Whether you're using OpenAI's API, Google Gemini, Llama, or even a locally hosted model, AstrBot seamlessly integrates with them.  This means you can choose the LLM that best suits your needs and budget, without being locked into a single provider.  And the best part?  It handles the complex interactions between your chatbot and the LLM, so you can focus on building amazing applications instead of wrestling with low-level details.\n\nThe architecture is beautifully designed.  It uses an asynchronous, event-driven system, which makes it incredibly efficient and scalable.  This means your chatbot can handle many simultaneous conversations without breaking a sweat.  Plus, the plugin system is a developer's dream.  Want to add a new feature?  Just create a plugin!  AstrBot's plugin system is incredibly intuitive and well-documented, so you can get up and running in minutes.  No more endless hours spent fighting with complex APIs or frameworks.  This is truly plug-and-play LLM integration at its finest.\n\nBut the benefits don't stop there.  AstrBot comes with a user-friendly web-based management panel, allowing you to easily configure your chatbot, manage plugins, and monitor logs – all from a single, intuitive interface.  Forget fiddling with complex configuration files; AstrBot's management panel makes everything simple and straightforward.  This also includes a built-in web chat for testing your LLM integrations directly from the panel, a huge time saver!\n\nAstrBot is not just about ease of use. It also boasts high stability and modularity. Its architecture, built on an event bus and pipeline design, ensures high efficiency and low coupling.  The result?  A robust, reliable chatbot that can handle even the most demanding workloads.  And with its support for multiple platforms and LLMs, AstrBot offers unparalleled flexibility and scalability.  It's the perfect solution for developers looking to build cutting-edge chatbots without the headaches.\n\nDeployment is a breeze, with support for Docker, a Windows one-click installer, and even deployment via the Replit platform.  AstrBot caters to all deployment preferences.  The comprehensive documentation guides you through every step of the process, regardless of your chosen method.  No matter your background or experience level, you'll find AstrBot accessible and easy to get started with.\n\nSo, what are you waiting for?  Dive into the world of AstrBot and experience the future of chatbot development today! This project is a true testament to elegant design and developer-friendly practices.  AstrBot isn't just another chatbot framework; it's a complete ecosystem designed to empower you to build the next generation of conversational AI applications.",
     "key_takeaways": [
-        "Prevents accidental data loss from risky terminal commands.",
-        "Easy setup and integration with various shells.",
-        "Adds a layer of security without impacting workflow.",
-        "Promotes better coding habits and reduces errors.",
-        "Lightweight and unobtrusive"
+        "Easy multi-platform chatbot deployment",
+        "Seamless integration with various LLMs",
+        "Intuitive plugin system for easy extension",
+        "User-friendly web-based management panel",
+        "High stability and modular architecture"
     ],
     "tags": [
-        "shell",
-        "security",
-        "terminal",
-        "bash",
-        "zsh"
+        "chatbot",
+        "LLM",
+        "multi-platform",
+        "plugin",
+        "AI"
     ],
-    "title": "Shellfirm: Your Terminal's New Best Friend (and Accidental Data Loss Savior!)",
-    "stars": 840,
-    "forks": 25,
-    "open_issues": 0,
-    "languages": "Rust",
-    "readme_summary": "Shellfirm is a security tool that intercepts potentially dangerous shell commands and prompts the user with a verification challenge before execution. It acts as a safety net, preventing accidental or malicious actions in the terminal. Shellfirm supports various shells and allows customization of risky command patterns.",
-    "project_id": 441537080,
-    "url": "https://github.com/kaplanelad/shellfirm",
-    "description": "Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification"
+    "title": "AstrBot: Revolutionizing Chatbot Development with Ease and Flexibility",
+    "stars": 6620,
+    "forks": 400,
+    "open_issues": 170,
+    "languages": "Python",
+    "readme_summary": "AstrBot is a versatile chatbot framework that simplifies the creation of multi-platform conversational AI applications. It supports integration with various LLMs and messaging platforms, offering a plugin system for extensibility and a visual management panel for easy configuration. AstrBot enables developers to quickly build and deploy intelligent chatbots across different channels.",
+    "project_id": 575865240,
+    "url": "https://github.com/Soulter/AstrBot",
+    "description": "✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。"
 }

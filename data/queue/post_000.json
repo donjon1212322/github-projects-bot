@@ -1,0 +1,7 @@
+{
+    "project_id": 953873439,
+    "content": "✨ <b>csswaf</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nProtecting web applications from bot traffic using CSS and honeypot techniques.\n<br>\n✨ <b>Key Features:</b>\n• CSS-based anti-bot protection\n• Honeypot implementation using empty.gif files and invisible links\n• Backend measures image loading order to detect bots\n<br>\n📖 <b>Summary:</b>\nCSSWAF is a proof-of-concept anti-bot web application firewall that uses CSS to detect bots by analyzing the loading order of hidden images. It also employs honeypot techniques, such as invisible links and non-loading images, to further identify and block malicious bots. This project is intended for demonstration purposes only and should not be used in production environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yzqzss/csswaf?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/dab04722f730c074dda455198255df3e8bb304e8b7832dd085bb2a92d9e3bebb/yzqzss/csswaf",
+    "platform": "telegram",
+    "quality_score": 0.55
+}
