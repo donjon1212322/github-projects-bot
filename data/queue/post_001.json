@@ -1,0 +1,7 @@
+{
+    "project_id": 909870795,
+    "content": "🌟 <b>doom-captcha</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nA DOOM-based CAPTCHA for web applications, leveraging the game's environment for user verification.\n<br>\n✨ <b>Key Features:</b>\n• WebAssembly compilation of a minimal Doom port\n• Intercommunication between C game loop and JavaScript CAPTCHA UI\n• Custom process flags for game customization (-nomenu, -autoreborn)\n<br>\n📖 <b>Summary:</b>\nThe doom-captcha repository implements a CAPTCHA system using a WebAssembly-compiled version of Doom. It allows for user verification by requiring interaction with the game, communicating events like player birth, death, and enemy kills to a JavaScript-based CAPTCHA UI. Custom flags and configurations are used to tailor the game's difficulty and behavior for CAPTCHA purposes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rauchg/doom-captcha?embed=0\">View Project</a>\n• <a href=\"https://doom-captcha.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/7747564ea2e7ea6d25e5693f0b108ecf56dfed5c1a5bf046613cc44d31b518a6/rauchg/doom-captcha",
+    "platform": "telegram",
+    "quality_score": 0.5
+}
