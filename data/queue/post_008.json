@@ -1,7 +1,0 @@
-{
-    "project_id": 4468869,
-    "content": "💡 <b>hickle</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nStoring Python variables, especially large NumPy arrays, in HDF5 files for faster read/write and cross-language compatibility.\n<br>\n✨ <b>Key Features:</b>\n• HDF5-based pickle replacement\n• Faster than pickle and cPickle\n• Data compression (LZF/GZIP)\n• Stores data in HDF5 format\n• Drop-in replacement for pickle\n<br>\n📖 <b>Summary:</b>\nHickle is a Python library that serves as a drop-in replacement for the pickle module, but instead of serializing to pickle files, it dumps data into HDF5 files. It offers faster performance, data compression, and cross-language compatibility, making it particularly suitable for storing large NumPy arrays.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/telegraphic/hickle?embed=0\">View Project</a>\n• <a href=\"http://telegraphic.github.io/hickle/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/baf689f219e2bd50bf04ab776e79883697be0ceb08f2ad625b5f3f3f1180721d/telegraphic/hickle",
-    "platform": "telegram",
-    "quality_score": 0.65
-}
