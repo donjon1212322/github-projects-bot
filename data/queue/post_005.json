@@ -1,7 +1,0 @@
-{
-    "project_id": 908197385,
-    "content": "🚀 <b>nativewebp</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nEncoding images to WebP format in Go applications without external dependencies.\n<br>\n✨ <b>Key Features:</b>\n• Native WebP encoding in Go\n• No dependencies on libwebp\n• WebP lossless (VP8L) support\n• Decoding support via golang.org/x/image/webp wrapper\n• Faster and smaller files compared to standard PNG encoder\n<br>\n📖 <b>Summary:</b>\nThe nativewebp repository provides a native Go WebP encoder, eliminating the need for libwebp. It focuses on performance and efficiency, producing smaller files and encoding faster than the standard Go PNG encoder. Currently, it supports WebP lossless images (VP8L) and offers decoding support via a wrapper around the golang.org/x/image/webp package.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HugoSmits86/nativewebp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/2e3ab90a9d4c02bfbabd288fa221a0f6896c546419ac1e995faaa2ea157eb306/HugoSmits86/nativewebp",
-    "platform": "telegram",
-    "quality_score": 0.7499999999999999
-}
