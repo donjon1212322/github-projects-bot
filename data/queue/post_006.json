@@ -1,7 +1,0 @@
-{
-    "project_id": 19463625,
-    "content": "🚀 <b>nginx-proxy</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomatically configure Nginx as a reverse proxy for Docker containers, simplifying the process of routing traffic to different containers based on their VIRTUAL_HOST environment variables.\n<br>\n✨ <b>Key Features:</b>\n• Automated reverse proxy configuration for Docker containers\n• Dynamic configuration updates based on container start/stop events\n• Uses docker-gen to generate nginx configurations\n<br>\n📖 <b>Summary:</b>\nThe nginx-proxy repository provides an automated Nginx reverse proxy solution for Docker containers. It leverages docker-gen to dynamically generate Nginx configurations based on container start and stop events, routing traffic based on the VIRTUAL_HOST environment variable. The repository offers both Debian and Alpine-based images for flexibility.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nginx-proxy/nginx-proxy?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/57fa65ea5927060c8490eaebea3f7b223cbc03a25e82493def7889b9cb29772f/nginx-proxy/nginx-proxy",
-    "platform": "telegram",
-    "quality_score": 0.9500000000000001
-}
