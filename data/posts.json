@@ -1,65 +1,58 @@
 [
     {
-        "project_id": 952968209,
-        "content": "🔥 <b>thundery</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nFetching and displaying weather information from the command line.\n<br>\n✨ <b>Key Features:</b>\n• Fetches weather information from OpenWeatherMap API\n• Command-line interface\n• Configuration file for API key, city, units, and timezone adjustments\n• AUR package available\n<br>\n📖 <b>Summary:</b>\nThundery is a command-line weather application written in Rust. It fetches weather data from the OpenWeatherMap API and displays it in the terminal. The application is configurable via a TOML file, allowing users to set their API key, city, units, and timezone preferences.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/loefey/thundery?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/381ef612d521c3105f57f2bed67c9b3d2035be52b88fa778f42a2c3ba9f8d282/loefey/thundery",
+        "project_id": 22067521,
+        "content": "✨ <b>imgui</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating content creation tools, visualization tools, and debug tools within game engines, real-time 3D applications, and embedded systems.\n<br>\n✨ <b>Key Features:</b>\n• Bloat-free graphical user interface library for C++\n• Fast iterations and programmer empowerment\n• Renderer agnostic and self-contained\n• Minimal state synchronization\n• Easy to use for dynamic UI creation\n<br>\n📖 <b>Summary:</b>\nDear ImGui is a bloat-free C++ graphical user interface library designed for rapid development of tools and visualizations. It prioritizes simplicity, portability, and efficiency, making it suitable for integration into game engines, real-time applications, and embedded systems. It empowers programmers to create dynamic UIs with minimal dependencies.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ocornut/imgui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/22067521/01b5ff00-53d7-11ea-86fa-52aee7e335a2",
         "platform": "telegram",
-        "quality_score": 0.6499999999999999
+        "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 956930773,
-        "content": "🔥 <b>mcp-link</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nConvert OpenAPI V3 APIs to MCP Servers for seamless integration with AI Agents.\n<br>\n✨ <b>Key Features:</b>\n• Automatic Conversion: Generate complete MCP Servers based on OpenAPI Schema\n• Seamless Integration: Make existing RESTful APIs immediately compatible with AI Agent calling standards\n<br>\n📖 <b>Summary:</b>\nMCP Link automates the conversion of OpenAPI specifications into MCP Servers, enabling easy integration of any API with AI agents. It eliminates manual interface creation, ensures complete functionality mapping, and requires no modification to the original API implementation, streamlining the process of making APIs compatible with AI-driven applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/automation-ai-labs/mcp-link?embed=0\">View Project</a>\n• <a href=\"https://mcp-link.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c5035f158459fb09d7115850c5334db6238ec8571d919f60a7e05a05546fbf0b/automation-ai-labs/mcp-link",
+        "project_id": 720853375,
+        "content": "🔥 <b>data-engineer-handbook</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a comprehensive collection of resources for learning and navigating the field of data engineering.\n<br>\n✨ <b>Key Features:</b>\n• Roadmap for breaking into data engineering\n• Curated list of data engineering projects\n• Collection of resources for interview preparation\n• List of high-quality data engineering books\n• List of data engineering communities\n<br>\n📖 <b>Summary:</b>\nThis repository serves as a handbook for data engineers, offering a curated collection of resources, including roadmaps, projects, interview advice, books, and communities. It aims to provide a comprehensive guide for individuals looking to learn about or advance their careers in data engineering by providing links to external resources.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DataExpert-io/data-engineer-handbook?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/44c1c2f0637bcb51c6412089283a2b15bc2678f6c7e073e2b11f65208eabcc7d/DataExpert-io/data-engineer-handbook",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.7000000000000001
     },
     {
-        "project_id": 153479320,
-        "content": "💡 <b>wick-editor</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating games, animations, and interactive multimedia projects within a web browser.\n<br>\n✨ <b>Key Features:</b>\n• Game creation\n• Animation creation\n• Multimedia project creation\n• Web-based accessibility\n• Open-source\n<br>\n📖 <b>Summary:</b>\nThe Wick Editor is a free and open-source web-based tool designed for creating games, animations, and other multimedia projects. It aims to provide an accessible platform for users to develop interactive content directly in their browsers, without the need for complex software installations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Wicklets/wick-editor?embed=0\">View Project</a>\n• <a href=\"https://www.wickeditor.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/44d2f0322eab8670c4e388652b6651a4af32a248100f1c9fa090e4f2704b3d1a/Wicklets/wick-editor",
+        "project_id": 600886023,
+        "content": "🔥 <b>ratatui</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating interactive command-line applications and dashboards with terminal-based user interfaces.\n<br>\n✨ <b>Key Features:</b>\n• Terminal User Interface (TUI) creation\n• Widget-based UI components\n• Templates for quickstart\n• Cross-platform compatibility (Rust)\n• Customizable and flexible layout system\n<br>\n📖 <b>Summary:</b>\nRatatui is a Rust crate that provides a flexible and simple way to build terminal user interfaces (TUIs). It offers a collection of widgets and layout components to create interactive console applications, dashboards, and other terminal-based programs. Ratatui also provides templates to help developers quickly get started with new projects.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ratatui/ratatui?embed=0\">View Project</a>\n• <a href=\"https://ratatui.rs?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/600886023/a11e3051-89a6-482e-b9b6-d03254f77e00",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 231919177,
+        "content": "✨ <b>scitopdf</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nQuickly fetching and downloading scientific papers from the command line.\n<br>\n✨ <b>Key Features:</b>\n• Fetches scientific papers using various search engines and databases (Crossref, Sci-Hub, Libgen).\n• Accepts various inputs like DOI, URL, title, authors, etc.\n• Offers command-line options for customization (download directory, quiet mode, etc.).\n• Supports batch downloading from bibliography files.\n<br>\n📖 <b>Summary:</b>\nSciToPDF is a shell script designed to simplify the process of obtaining scientific papers. It leverages multiple search engines and databases, accepting various forms of input to locate and download papers. The script offers a range of command-line options for customization, including batch downloading and directory management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dougy147/scitopdf?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/cc06753a0426366d5e125a2964d4644e548961c3e1070f61f4ee8e21f8ccb7b8/dougy147/scitopdf",
+        "platform": "telegram",
+        "quality_score": 0.35
+    },
+    {
+        "project_id": 397401267,
+        "content": "💡 <b>audiobookshelf</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosting an audiobook and podcast server for personal or multi-user use.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted audiobook and podcast server\n• Open-source with Android & iOS app\n• Audio streaming\n• Podcast search and auto-download\n• Multi-user support\n<br>\n📖 <b>Summary:</b>\nAudiobookshelf is a self-hosted server for managing and streaming audiobooks and podcasts. It offers features such as multi-user support, progress syncing, automatic library updates, and metadata management. It also supports ebook formats and provides an API for building custom tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/advplyr/audiobookshelf?embed=0\">View Project</a>\n• <a href=\"https://audiobookshelf.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/397401267/6aea7743-b3b5-4271-8a25-86df97ce2d39",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 895245856,
+        "content": "🚀 <b>videoseal</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nOpen and efficient video watermarking for protecting video content.\n<br>\n✨ <b>Key Features:</b>\n• Image and video watermarking\n• Pre-trained models\n• Training code\n• Inference code\n• Evaluation tools\n<br>\n📖 <b>Summary:</b>\nThe VideoSeal repository provides an open and efficient solution for video watermarking. It includes pre-trained models, training and inference code, and evaluation tools. The repository also offers baselines of state-of-the-art image watermarking models adapted for video, enabling users to easily embed and detect watermarks in video content.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/facebookresearch/videoseal?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a850541553331467aa580729b3c01b1bc68e715973f4d553887f7252616833bb/facebookresearch/videoseal",
+        "platform": "telegram",
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 256300799,
+        "content": "✨ <b>browservice</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nBrowsing modern websites on older, historical web browsers by acting as a proxy server that renders the content into images.\n<br>\n✨ <b>Key Features:</b>\n• Enables browsing the modern web on historical browsers\n• Renders browser viewport into images\n• Uses JavaScript application on the client browser to display images\n<br>\n📖 <b>Summary:</b>\nBrowservice is a web proxy server that allows users to browse modern websites on historical browsers. It achieves this by rendering the browser viewport into images and displaying them on the client browser using a JavaScript application. The project provides up-to-date builds with the latest Chromium versions and offers various command-line options for customization and control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ttalvitie/browservice?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1338779f8c6df41446a31472e245674f62436d412ef406cf59c76ceef3992bd4/ttalvitie/browservice",
         "platform": "telegram",
         "quality_score": 0.55
     },
     {
-        "project_id": 515647260,
-        "content": "🚀 <b>1Panel</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nLinux server management through a web interface.\n<br>\n✨ <b>Key Features:</b>\n• Web-based Linux server management\n• Website deployment (WordPress)\n• Application store\n• Container management\n• LLMs management\n<br>\n📖 <b>Summary:</b>\n1Panel is a web-based Linux server management tool that provides an intuitive interface for managing websites, files, containers, databases, and LLMs. It simplifies server administration, website deployment, and application installation, making it easier to manage Linux servers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/1Panel-dev/1Panel?embed=0\">View Project</a>\n• <a href=\"https://1panel.pro?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0511633597ad3094a7862e4ac2321ad18f277989e7fd9124f821578df898c85e/1Panel-dev/1Panel",
+        "project_id": 905430829,
+        "content": "🚀 <b>keep-alive</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nPreventing system sleep for uninterrupted downloads, active connections, or long-running tasks.\n<br>\n✨ <b>Key Features:</b>\n• Configurable keep-alive duration\n• Cross-platform support (macOS, Windows, Linux)\n• Lightweight and efficient\n• Simple and intuitive to use\n• Zero configuration required\n<br>\n📖 <b>Summary:</b>\nKeep-Alive is a lightweight, cross-platform utility designed to prevent systems from going to sleep. It supports macOS, Windows, and Linux, offering configurable keep-alive durations and a simple, intuitive interface. The tool is ideal for maintaining active connections, ensuring uninterrupted downloads, and supporting long-running tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/stigoleg/keep-alive?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f7092d1c0894a4e9273b34858993972ca5537f58bc67d6c994e43998d0a91f4f/stigoleg/keep-alive",
         "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 5772041,
-        "content": "🔥 <b>Solaar</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nLinux device management for Logitech devices\n<br>\n✨ <b>Key Features:</b>\n• Pairing/unpairing of devices with receivers\n• Configuring device settings\n• Custom button configuration\n• Running rules in response to special messages from devices\n<br>\n📖 <b>Summary:</b>\nSolaar is a Linux device manager for Logitech devices that connect wirelessly or via USB/Bluetooth. It allows users to pair/unpair devices, configure settings, customize buttons, and create rules based on device messages. Solaar supports Unifying, Bolt, Lightspeed, and Nano receivers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pwr-Solaar/Solaar?embed=0\">View Project</a>\n• <a href=\"https://pwr-solaar.github.io/Solaar?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/dafab33ceb76de72445b262e0e35f7223bc0347df2d576e23f1d21a16d48dc5c/pwr-Solaar/Solaar",
-        "platform": "telegram",
-        "quality_score": 1.05
-    },
-    {
-        "project_id": 854455730,
-        "content": "🚀 <b>vim-ollama</b> | Vim Script\n<br>\n🎯 <b>Primary Use Case:</b>\nIntegrating Ollama based LLMs into Vim for code completion, code review, and automated code editing, providing a privacy-focused alternative to cloud-based AI coding assistants.\n<br>\n✨ <b>Key Features:</b>\n• Intelligent AI-based code completion\n• Integrated chat support for code reviews\n• Automatic code editing based on natural language\n<br>\n📖 <b>Summary:</b>\nThe vim-ollama plugin brings Copilot-like code completion and AI-powered features to Vim by leveraging locally run Ollama LLMs. It offers intelligent code completion, chat support for code reviews, and automatic code editing based on natural language, all while preserving user privacy by avoiding cloud services. The plugin also includes Python virtual environment support for simplified installation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gergap/vim-ollama?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9fe25281694df020d71604f6bee43a67c51e2fb910d90a14e33091778e65f2f2/gergap/vim-ollama",
-        "platform": "telegram",
-        "quality_score": 0.8500000000000001
-    },
-    {
-        "project_id": 904199028,
-        "content": "💡 <b>ColorFlow</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomatic black-and-white image sequence colorization, particularly for industrial applications like cartoon or comic series colorization.\n<br>\n✨ <b>Key Features:</b>\n• Retrieval-Augmented Colorization\n• Three-stage diffusion-based framework\n<br>\n📖 <b>Summary:</b>\nColorFlow is a retrieval-augmented image sequence colorization framework designed for industrial applications. It utilizes a three-stage diffusion-based approach with a dual-branch design to extract color identity and perform colorization. The framework introduces ColorFlow-Bench, a benchmark for reference-based colorization, and demonstrates superior performance compared to existing models.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TencentARC/ColorFlow?embed=0\">View Project</a>\n• <a href=\"https://zhuang2002.github.io/ColorFlow/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/65f18e054b0aa3447ebeb0caff87d6b70c5813efcd93ab23a22eac1f9a0dc945/TencentARC/ColorFlow",
-        "platform": "telegram",
-        "quality_score": 0.25
-    },
-    {
-        "project_id": 33242423,
-        "content": "🔥 <b>flowblade</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and editing videos from various media sources using a non-linear, multitrack approach.\n<br>\n✨ <b>Key Features:</b>\n• Multitrack non-linear video editing\n• Image compositing with blend modes and wipes\n• Extensive image and audio filters\n• Media generator plugin framework\n• Batch encoding and media re-linking\n<br>\n📖 <b>Summary:</b>\nFlowblade is a multitrack non-linear video editor for Linux that allows users to compose movies from video, audio, and graphics files. It offers a range of editing tools, image compositing features, and audio/video filters. The editor supports various media formats and provides advanced features like media generation, batch encoding, and USB shuttle control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jliljebl/flowblade?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/77e30fcd43fe33dfce64b9746cf44126a065043aac38cb590bf5c25e6b6f6e6b/jliljebl/flowblade",
-        "platform": "telegram",
-        "quality_score": 0.8500000000000001
-    },
-    {
-        "project_id": 1553944,
-        "content": "🔥 <b>csvkit</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting and manipulating CSV files via command-line tools.\n<br>\n✨ <b>Key Features:</b>\n• Converting to CSV\n• Working with CSV\n• Command-line tools\n<br>\n📖 <b>Summary:</b>\ncsvkit is a suite of command-line tools designed for converting to and working with CSV files. It provides utilities for manipulating and transforming CSV data, making it easier to process and analyze tabular data from the command line.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wireservice/csvkit?embed=0\">View Project</a>\n• <a href=\"https://csvkit.readthedocs.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/053eb211f42b656847321a7062d9063fd93624775d335e6b6edd88ecde69b83c/wireservice/csvkit",
-        "platform": "telegram",
-        "quality_score": 0.9
+        "quality_score": 0.65
     }
 ]
