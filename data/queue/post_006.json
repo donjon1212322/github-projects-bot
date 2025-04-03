@@ -1,7 +1,0 @@
-{
-    "project_id": 659537006,
-    "content": "💡 <b>GeoPincer</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nFinding locations based on proximity to a set of known establishments or points of interest using OpenStreetMap data.\n<br>\n✨ <b>Key Features:</b>\n• Leverages OpenStreetMap's Overpass API\n• Searches for locations based on a set of nodes (establishments)\n• Allows specifying a base area to search within\n• Uses a default range of 500 meters between nodes, adjustable with the `--distance` argument\n<br>\n📖 <b>Summary:</b>\nGeoPincer is a Python script that utilizes the OpenStreetMap Overpass API to identify locations based on their proximity to a given set of nodes, such as establishments or notable places. It allows users to specify a search area and a distance range to refine the search, returning the results as Google Maps URLs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tloja/GeoPincer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/b825336c5711a1f7054efb22bc00e0002bf29cd440c161c0e06b4e585231b483/tloja/GeoPincer",
-    "platform": "telegram",
-    "quality_score": 0.15
-}
