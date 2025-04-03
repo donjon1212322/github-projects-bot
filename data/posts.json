@@ -1,58 +1,58 @@
 [
     {
-        "project_id": 22067521,
-        "content": "✨ <b>imgui</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating content creation tools, visualization tools, and debug tools within game engines, real-time 3D applications, and embedded systems.\n<br>\n✨ <b>Key Features:</b>\n• Bloat-free graphical user interface library for C++\n• Fast iterations and programmer empowerment\n• Renderer agnostic and self-contained\n• Minimal state synchronization\n• Easy to use for dynamic UI creation\n<br>\n📖 <b>Summary:</b>\nDear ImGui is a bloat-free C++ graphical user interface library designed for rapid development of tools and visualizations. It prioritizes simplicity, portability, and efficiency, making it suitable for integration into game engines, real-time applications, and embedded systems. It empowers programmers to create dynamic UIs with minimal dependencies.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ocornut/imgui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/22067521/01b5ff00-53d7-11ea-86fa-52aee7e335a2",
+        "project_id": 300549409,
+        "content": "✨ <b>goshs</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nServing files over HTTP/S with enhanced features like authentication, WebDAV support, and ACLs, acting as a replacement for Python's SimpleHTTPServer.\n<br>\n✨ <b>Key Features:</b>\n• Download and upload files via HTTP/S\n• Basic and certificate-based authentication\n• WebDAV support\n• Read-Only and Upload-Only modes\n• File-based ACLs\n<br>\n📖 <b>Summary:</b>\nGoshs is a Go-based HTTP server designed as a more feature-rich alternative to Python's SimpleHTTPServer. It supports secure file sharing with HTTPS, authentication, WebDAV, and fine-grained access control through ACLs. It offers various modes of operation, including read-only and upload-only, and can be customized with themes and command-line options.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/patrickhener/goshs?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/300549409/d75bac15-6aea-482c-b7fb-353acda1f1dd",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
+        "quality_score": 0.7499999999999999
     },
     {
-        "project_id": 720853375,
-        "content": "🔥 <b>data-engineer-handbook</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a comprehensive collection of resources for learning and navigating the field of data engineering.\n<br>\n✨ <b>Key Features:</b>\n• Roadmap for breaking into data engineering\n• Curated list of data engineering projects\n• Collection of resources for interview preparation\n• List of high-quality data engineering books\n• List of data engineering communities\n<br>\n📖 <b>Summary:</b>\nThis repository serves as a handbook for data engineers, offering a curated collection of resources, including roadmaps, projects, interview advice, books, and communities. It aims to provide a comprehensive guide for individuals looking to learn about or advance their careers in data engineering by providing links to external resources.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DataExpert-io/data-engineer-handbook?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/44c1c2f0637bcb51c6412089283a2b15bc2678f6c7e073e2b11f65208eabcc7d/DataExpert-io/data-engineer-handbook",
+        "project_id": 953415105,
+        "content": "🔥 <b>neo146</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nEmergency network connection via SMS for accessing information during internet outages or censorship.\n<br>\n✨ <b>Key Features:</b>\n• HTTP-SMS gateway\n• HTTP-Markdown gateway\n• URL to Markdown conversion\n• Twitter user timeline retrieval\n• Web search using DuckDuckGo\n<br>\n📖 <b>Summary:</b>\nneo146 is a minimal information gateway providing emergency network access via SMS. It offers functionalities like converting web pages to Markdown, retrieving Twitter feeds, searching the web, accessing Wikipedia summaries, and providing weather forecasts, all accessible through SMS commands and HTTP endpoints. The project aims to provide a low-bandwidth communication channel inspired by dial-up services.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ooguz/neo146?embed=0\">View Project</a>\n• <a href=\"https://neo146.net?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a380b963cf492514609f38d9ad8deac94f5fddd20c256af78fd2b4e3f8bf3580/ooguz/neo146",
         "platform": "telegram",
-        "quality_score": 0.7000000000000001
+        "quality_score": 0.6
     },
     {
-        "project_id": 600886023,
-        "content": "🔥 <b>ratatui</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating interactive command-line applications and dashboards with terminal-based user interfaces.\n<br>\n✨ <b>Key Features:</b>\n• Terminal User Interface (TUI) creation\n• Widget-based UI components\n• Templates for quickstart\n• Cross-platform compatibility (Rust)\n• Customizable and flexible layout system\n<br>\n📖 <b>Summary:</b>\nRatatui is a Rust crate that provides a flexible and simple way to build terminal user interfaces (TUIs). It offers a collection of widgets and layout components to create interactive console applications, dashboards, and other terminal-based programs. Ratatui also provides templates to help developers quickly get started with new projects.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ratatui/ratatui?embed=0\">View Project</a>\n• <a href=\"https://ratatui.rs?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/600886023/a11e3051-89a6-482e-b9b6-d03254f77e00",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 231919177,
-        "content": "✨ <b>scitopdf</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nQuickly fetching and downloading scientific papers from the command line.\n<br>\n✨ <b>Key Features:</b>\n• Fetches scientific papers using various search engines and databases (Crossref, Sci-Hub, Libgen).\n• Accepts various inputs like DOI, URL, title, authors, etc.\n• Offers command-line options for customization (download directory, quiet mode, etc.).\n• Supports batch downloading from bibliography files.\n<br>\n📖 <b>Summary:</b>\nSciToPDF is a shell script designed to simplify the process of obtaining scientific papers. It leverages multiple search engines and databases, accepting various forms of input to locate and download papers. The script offers a range of command-line options for customization, including batch downloading and directory management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dougy147/scitopdf?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/cc06753a0426366d5e125a2964d4644e548961c3e1070f61f4ee8e21f8ccb7b8/dougy147/scitopdf",
-        "platform": "telegram",
-        "quality_score": 0.35
-    },
-    {
-        "project_id": 397401267,
-        "content": "💡 <b>audiobookshelf</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosting an audiobook and podcast server for personal or multi-user use.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted audiobook and podcast server\n• Open-source with Android & iOS app\n• Audio streaming\n• Podcast search and auto-download\n• Multi-user support\n<br>\n📖 <b>Summary:</b>\nAudiobookshelf is a self-hosted server for managing and streaming audiobooks and podcasts. It offers features such as multi-user support, progress syncing, automatic library updates, and metadata management. It also supports ebook formats and provides an API for building custom tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/advplyr/audiobookshelf?embed=0\">View Project</a>\n• <a href=\"https://audiobookshelf.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/397401267/6aea7743-b3b5-4271-8a25-86df97ce2d39",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 895245856,
-        "content": "🚀 <b>videoseal</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nOpen and efficient video watermarking for protecting video content.\n<br>\n✨ <b>Key Features:</b>\n• Image and video watermarking\n• Pre-trained models\n• Training code\n• Inference code\n• Evaluation tools\n<br>\n📖 <b>Summary:</b>\nThe VideoSeal repository provides an open and efficient solution for video watermarking. It includes pre-trained models, training and inference code, and evaluation tools. The repository also offers baselines of state-of-the-art image watermarking models adapted for video, enabling users to easily embed and detect watermarks in video content.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/facebookresearch/videoseal?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a850541553331467aa580729b3c01b1bc68e715973f4d553887f7252616833bb/facebookresearch/videoseal",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 256300799,
-        "content": "✨ <b>browservice</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nBrowsing modern websites on older, historical web browsers by acting as a proxy server that renders the content into images.\n<br>\n✨ <b>Key Features:</b>\n• Enables browsing the modern web on historical browsers\n• Renders browser viewport into images\n• Uses JavaScript application on the client browser to display images\n<br>\n📖 <b>Summary:</b>\nBrowservice is a web proxy server that allows users to browse modern websites on historical browsers. It achieves this by rendering the browser viewport into images and displaying them on the client browser using a JavaScript application. The project provides up-to-date builds with the latest Chromium versions and offers various command-line options for customization and control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ttalvitie/browservice?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1338779f8c6df41446a31472e245674f62436d412ef406cf59c76ceef3992bd4/ttalvitie/browservice",
+        "project_id": 191318242,
+        "content": "🚀 <b>googlemaps-scraper</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting and monitoring Google Maps reviews for specific points of interest.\n<br>\n✨ <b>Key Features:</b>\n• Scrapes Google Maps reviews from specified URLs.\n• Allows retrieval of a specified number of reviews.\n• Offers incremental scraping and storage of reviews in MongoDB.\n• Provides options to scrape POI metadata and sort reviews by relevance, date, or rating.\n<br>\n📖 <b>Summary:</b>\nThe googlemaps-scraper repository provides tools to scrape reviews from Google Maps places. It allows users to extract a defined number of the most recent reviews or incrementally monitor reviews by storing them in MongoDB. The scraper supports sorting reviews and scraping POI metadata.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gaspa93/googlemaps-scraper?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/70b6e7efdcc7a303dafd61168a1d184348f51db87fd8c7558b4dffbdcf264768/gaspa93/googlemaps-scraper",
         "platform": "telegram",
         "quality_score": 0.55
     },
     {
-        "project_id": 905430829,
-        "content": "🚀 <b>keep-alive</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nPreventing system sleep for uninterrupted downloads, active connections, or long-running tasks.\n<br>\n✨ <b>Key Features:</b>\n• Configurable keep-alive duration\n• Cross-platform support (macOS, Windows, Linux)\n• Lightweight and efficient\n• Simple and intuitive to use\n• Zero configuration required\n<br>\n📖 <b>Summary:</b>\nKeep-Alive is a lightweight, cross-platform utility designed to prevent systems from going to sleep. It supports macOS, Windows, and Linux, offering configurable keep-alive durations and a simple, intuitive interface. The tool is ideal for maintaining active connections, ensuring uninterrupted downloads, and supporting long-running tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/stigoleg/keep-alive?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f7092d1c0894a4e9273b34858993972ca5537f58bc67d6c994e43998d0a91f4f/stigoleg/keep-alive",
+        "project_id": 606695903,
+        "content": "🚀 <b>DataSurgeon</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nIncident response, DLP, penetration testing, and CTF challenges by extracting sensitive information from text and files.\n<br>\n✨ <b>Key Features:</b>\n• Supports Windows, Linux, and MacOS\n• Recursive file analysis within directories\n• Plugin Support\n• CSV Output\n<br>\n📖 <b>Summary:</b>\nDataSurgeon is a versatile tool written in Rust designed for extracting sensitive information like emails, IPs, credit card numbers, and more from various file types and text. It supports multiple operating systems, offers plugin support for extending functionality, and can output data in CSV format. The tool is primarily used for incident response, data loss prevention, penetration testing, and CTF challenges.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Drew-Alleman/DataSurgeon?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/606695903/b3f3c1e9-0ca9-42d2-9283-86c5e454a2f2",
         "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 0.4
+    },
+    {
+        "project_id": 914092741,
+        "content": "🔥 <b>ClatScope</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nOSINT (Open-Source Intelligence) data gathering and analysis for investigators and pentesters.\n<br>\n✨ <b>Key Features:</b>\n• IP Information (Geolocation, ISP)\n• Deep Account & Username Search\n• Phone Number Parsing\n• DNS & Reverse DNS Lookup\n• Email Lookup & Header Analysis\n<br>\n📖 <b>Summary:</b>\nClatScope Info Tool is a Python-based OSINT utility designed for gathering and analyzing information from various online resources. It provides a range of features, including IP geolocation, DNS lookups, email analysis, phone number parsing, and data breach checks, making it suitable for investigators and pentesters needing reconnaissance capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Clats97/ClatScope?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8ce34a8ed83850ee5bfaa408c44c44717d8ee09963a03a95c04fdc145408d3f4/Clats97/ClatScope",
+        "platform": "telegram",
+        "quality_score": 0.8
+    },
+    {
+        "project_id": 872988980,
+        "content": "🔥 <b>Z</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nDebugging Linux applications that employ anti-debugging techniques.\n<br>\n✨ <b>Key Features:</b>\n• Bypasses anti-debugging mechanisms\n• Provides explicit control over program execution\n• Supports custom LD_PRELOAD libraries with marker function\n• Offers general and execution control commands\n• Includes breakpoint management (software and hardware)\n<br>\n📖 <b>Summary:</b>\nZ Anti-Anti-Debugger is a Linux debugger designed to bypass anti-debugging mechanisms. It provides precise control over program execution and supports custom LD_PRELOAD libraries. The debugger offers a range of commands for execution control, breakpoint management, and general debugging tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/JavaHammes/Z?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f14a740d18d144d93e8a1aa36758d0e8ec6f51b2b81e572fe323cb6966acea1f/JavaHammes/Z",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 659537006,
+        "content": "💡 <b>GeoPincer</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nFinding locations based on proximity to a set of known establishments or points of interest using OpenStreetMap data.\n<br>\n✨ <b>Key Features:</b>\n• Leverages OpenStreetMap's Overpass API\n• Searches for locations based on a set of nodes (establishments)\n• Allows specifying a base area to search within\n• Uses a default range of 500 meters between nodes, adjustable with the `--distance` argument\n<br>\n📖 <b>Summary:</b>\nGeoPincer is a Python script that utilizes the OpenStreetMap Overpass API to identify locations based on their proximity to a given set of nodes, such as establishments or notable places. It allows users to specify a search area and a distance range to refine the search, returning the results as Google Maps URLs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tloja/GeoPincer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b825336c5711a1f7054efb22bc00e0002bf29cd440c161c0e06b4e585231b483/tloja/GeoPincer",
+        "platform": "telegram",
+        "quality_score": 0.15
+    },
+    {
+        "project_id": 808015120,
+        "content": "🌟 <b>PromptWizard</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTask-aware agent-driven prompt optimization for Large Language Models (LLMs).\n<br>\n✨ <b>Key Features:</b>\n• Feedback-driven refinement of prompts and examples by LLMs\n• Generation of diverse and robust synthetic examples\n• Self-generated Chain of Thought (CoT) steps with positive, negative, and synthetic examples\n<br>\n📖 <b>Summary:</b>\nPromptWizard is a framework for optimizing prompts using a self-evolving mechanism where the LLM generates, critiques, and refines its own prompts and examples. It leverages feedback-driven refinement, diverse example generation, and self-generated Chain of Thought to improve task performance. The framework supports optimizing prompts with and without examples or training data.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/microsoft/PromptWizard?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/82bf99e42030b87fd693367f2b93634956f16bd0dfb3a80950bf5c345af02e15/microsoft/PromptWizard",
+        "platform": "telegram",
+        "quality_score": 0.7000000000000001
     }
 ]
