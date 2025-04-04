@@ -1,58 +1,51 @@
 [
     {
-        "project_id": 300549409,
-        "content": "✨ <b>goshs</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nServing files over HTTP/S with enhanced features like authentication, WebDAV support, and ACLs, acting as a replacement for Python's SimpleHTTPServer.\n<br>\n✨ <b>Key Features:</b>\n• Download and upload files via HTTP/S\n• Basic and certificate-based authentication\n• WebDAV support\n• Read-Only and Upload-Only modes\n• File-based ACLs\n<br>\n📖 <b>Summary:</b>\nGoshs is a Go-based HTTP server designed as a more feature-rich alternative to Python's SimpleHTTPServer. It supports secure file sharing with HTTPS, authentication, WebDAV, and fine-grained access control through ACLs. It offers various modes of operation, including read-only and upload-only, and can be customized with themes and command-line options.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/patrickhener/goshs?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/300549409/d75bac15-6aea-482c-b7fb-353acda1f1dd",
+        "project_id": 958228271,
+        "content": "🚀 <b>WattWise</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring power usage from smart plugs in real-time via the command line.\n<br>\n✨ <b>Key Features:</b>\n• Real-time power usage monitoring (wattage and current)\n• Multiple connection options (TP-Link Kasa, Home Assistant)\n• Dynamic color-coded power display\n• Continuous monitoring with charts and historical data\n• Simple command-line interface\n<br>\n📖 <b>Summary:</b>\nWattWise is a command-line tool for monitoring power usage from smart plugs. It supports direct connection to TP-Link Kasa plugs or integration with Home Assistant, providing real-time power data with color-coded displays and historical charts. The tool offers a simple interface for monitoring wattage and current, making it easy to track energy consumption.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/naveenkul/WattWise?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9387081a5c051b13a1d96b6b0008b8760a1fa87ab6684febd7c4416234f9e3ed/naveenkul/WattWise",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 832458987,
+        "content": "💡 <b>ImageIndexer</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automatically generate and add metadata tags (keywords and descriptions) to images using a local AI model, enabling local indexing, searching, and organization of images without relying on cloud services or databases.\n<br>\n✨ <b>Key Features:</b>\n• Image Analysis using a local AI model\n• Automatic metadata tagging\n• Local processing\n• Multi-format support\n• User-friendly GUI\n<br>\n📖 <b>Summary:</b>\nThe ImageIndexer repository provides a tool for automatically tagging images with metadata using a local AI model. It analyzes images, generates keywords and captions, and writes this information to the image's metadata. This allows users to index, search, and organize their images locally without relying on external services.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jabberjabberjabber/ImageIndexer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ab3afc688d90c0036c252fa2f4a965fd3c2b79cd9e9ae996cb5d4da07a9ae2e3/jabberjabberjabber/ImageIndexer",
+        "platform": "telegram",
+        "quality_score": 0.8500000000000001
+    },
+    {
+        "project_id": 98595746,
+        "content": "🚀 <b>Sickle</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPayload development and shellcode analysis.\n<br>\n✨ <b>Key Features:</b>\n• Assembly to machine code conversion\n• Bytecode execution\n• Opcode formatting\n• Bad character identification\n• Linear disassembly\n<br>\n📖 <b>Summary:</b>\nSickle is a payload development framework designed to assist in developing and understanding shellcode. It offers features such as assembly to machine code conversion, shellcode execution, opcode formatting, bad character identification, disassembly, and diffing. The framework supports shellcode generation via the Keystone Engine and aims to simplify the process of testing and analyzing shellcode.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wetw0rk/Sickle?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/36e52f40d3011330323a20213bda9877edd112986d8124ccd6659818d81580e4/wetw0rk/Sickle",
         "platform": "telegram",
         "quality_score": 0.7499999999999999
     },
     {
-        "project_id": 953415105,
-        "content": "🔥 <b>neo146</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nEmergency network connection via SMS for accessing information during internet outages or censorship.\n<br>\n✨ <b>Key Features:</b>\n• HTTP-SMS gateway\n• HTTP-Markdown gateway\n• URL to Markdown conversion\n• Twitter user timeline retrieval\n• Web search using DuckDuckGo\n<br>\n📖 <b>Summary:</b>\nneo146 is a minimal information gateway providing emergency network access via SMS. It offers functionalities like converting web pages to Markdown, retrieving Twitter feeds, searching the web, accessing Wikipedia summaries, and providing weather forecasts, all accessible through SMS commands and HTTP endpoints. The project aims to provide a low-bandwidth communication channel inspired by dial-up services.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ooguz/neo146?embed=0\">View Project</a>\n• <a href=\"https://neo146.net?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a380b963cf492514609f38d9ad8deac94f5fddd20c256af78fd2b4e3f8bf3580/ooguz/neo146",
+        "project_id": 887984411,
+        "content": "🔥 <b>DCOMUploadExec</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nLateral movement and remote code execution in Windows environments by exploiting the DCOM IMsiServer interface.\n<br>\n✨ <b>Key Features:</b>\n• Lateral movement via DCOM\n• Remote payload upload and execution\n• Abuse of IMsiServer interface\n• Payload configuration via PayloadConfig.h\n• Supports strong-named .NET assemblies\n<br>\n📖 <b>Summary:</b>\nThe DCOMUploadExec repository provides a proof-of-concept tool for lateral movement by abusing the DCOM IMsiServer interface. It allows uploading and executing a .NET assembly payload on a remote machine. The tool requires a strong-named assembly and configuration of payload details in PayloadConfig.h.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/deepinstinct/DCOMUploadExec?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8f4d274efb8cdb70173826daa7e4691ca5ae0d3f2dbf0344a1879528871e2249/deepinstinct/DCOMUploadExec",
+        "platform": "telegram",
+        "quality_score": 0.3
+    },
+    {
+        "project_id": 43695474,
+        "content": "🚀 <b>quasar</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding high-performance VueJS user interfaces for multiple platforms (web, mobile, desktop) from a single codebase.\n<br>\n✨ <b>Key Features:</b>\n• Build responsive Single Page Apps (SPAs)\n• Server-Side Rendered (SSR) Apps\n• Progressive Web Apps (PWAs)\n• Browser extensions\n• Hybrid Mobile Apps\n<br>\n📖 <b>Summary:</b>\nQuasar Framework enables developers to rapidly build high-performance VueJS user interfaces that can be deployed across various platforms, including web, mobile, and desktop. It supports SPAs, SSR apps, PWAs, browser extensions, and hybrid mobile/Electron applications, all from a single codebase. This allows for efficient development and maintenance of cross-platform applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/quasarframework/quasar?embed=0\">View Project</a>\n• <a href=\"https://quasar.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0dd014f69271374c25f419ad9da7a4c74a24f5e97d856d04dd9d6084c2b6f2d7/quasarframework/quasar",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 597179753,
+        "content": "🔥 <b>MinerSearch</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nSearching for and removing hidden cryptocurrency miners from a Windows system.\n<br>\n✨ <b>Key Features:</b>\n• Detects and removes hidden miners\n• Scans for suspicious files, directories, and processes\n• Blocks malicious service files and scheduled tasks\n• Removes miners with valid signatures\n• Improved registry debugger handling\n<br>\n📖 <b>Summary:</b>\nMinerSearch is a C# program designed to detect and eliminate hidden cryptocurrency miners on Windows systems. It functions as an auxiliary tool, scanning for suspicious files, processes, and registry entries associated with mining malware. The program offers various command-line options for customized scans and includes features for blocking malicious services and scheduled tasks, as well as removing miners with valid signatures.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BlendLog/MinerSearch?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/289261f1fda03081d54ecf0f51ffd007c968a8c602af568832999c3ff5eebd83/BlendLog/MinerSearch",
+        "platform": "telegram",
+        "quality_score": 0.8500000000000001
+    },
+    {
+        "project_id": 112235591,
+        "content": "💡 <b>hacker101</b> | SCSS\n<br>\n🎯 <b>Primary Use Case:</b>\nLearning web and mobile security concepts and techniques.\n<br>\n✨ <b>Key Features:</b>\n• Free web security class\n• Teaches web and mobile security\n• Provides hands-on hacking experience\n<br>\n📖 <b>Summary:</b>\nHacker101 is a free online web security class designed for programmers and security professionals. It provides a learning environment to understand and practice web and mobile security concepts, including common vulnerabilities like XSS, SQL injection, and CSRF. The repository contains the source code for the Hacker101 website.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Hacker0x01/hacker101?embed=0\">View Project</a>\n• <a href=\"https://www.hacker101.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/cf81efaf1071f8353c5a3fb140d226df2ed2c397615de90dc7402201cd3f8a87/Hacker0x01/hacker101",
         "platform": "telegram",
         "quality_score": 0.6
-    },
-    {
-        "project_id": 191318242,
-        "content": "🚀 <b>googlemaps-scraper</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting and monitoring Google Maps reviews for specific points of interest.\n<br>\n✨ <b>Key Features:</b>\n• Scrapes Google Maps reviews from specified URLs.\n• Allows retrieval of a specified number of reviews.\n• Offers incremental scraping and storage of reviews in MongoDB.\n• Provides options to scrape POI metadata and sort reviews by relevance, date, or rating.\n<br>\n📖 <b>Summary:</b>\nThe googlemaps-scraper repository provides tools to scrape reviews from Google Maps places. It allows users to extract a defined number of the most recent reviews or incrementally monitor reviews by storing them in MongoDB. The scraper supports sorting reviews and scraping POI metadata.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gaspa93/googlemaps-scraper?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/70b6e7efdcc7a303dafd61168a1d184348f51db87fd8c7558b4dffbdcf264768/gaspa93/googlemaps-scraper",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 606695903,
-        "content": "🚀 <b>DataSurgeon</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nIncident response, DLP, penetration testing, and CTF challenges by extracting sensitive information from text and files.\n<br>\n✨ <b>Key Features:</b>\n• Supports Windows, Linux, and MacOS\n• Recursive file analysis within directories\n• Plugin Support\n• CSV Output\n<br>\n📖 <b>Summary:</b>\nDataSurgeon is a versatile tool written in Rust designed for extracting sensitive information like emails, IPs, credit card numbers, and more from various file types and text. It supports multiple operating systems, offers plugin support for extending functionality, and can output data in CSV format. The tool is primarily used for incident response, data loss prevention, penetration testing, and CTF challenges.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Drew-Alleman/DataSurgeon?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/606695903/b3f3c1e9-0ca9-42d2-9283-86c5e454a2f2",
-        "platform": "telegram",
-        "quality_score": 0.4
-    },
-    {
-        "project_id": 914092741,
-        "content": "🔥 <b>ClatScope</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nOSINT (Open-Source Intelligence) data gathering and analysis for investigators and pentesters.\n<br>\n✨ <b>Key Features:</b>\n• IP Information (Geolocation, ISP)\n• Deep Account & Username Search\n• Phone Number Parsing\n• DNS & Reverse DNS Lookup\n• Email Lookup & Header Analysis\n<br>\n📖 <b>Summary:</b>\nClatScope Info Tool is a Python-based OSINT utility designed for gathering and analyzing information from various online resources. It provides a range of features, including IP geolocation, DNS lookups, email analysis, phone number parsing, and data breach checks, making it suitable for investigators and pentesters needing reconnaissance capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Clats97/ClatScope?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8ce34a8ed83850ee5bfaa408c44c44717d8ee09963a03a95c04fdc145408d3f4/Clats97/ClatScope",
-        "platform": "telegram",
-        "quality_score": 0.8
-    },
-    {
-        "project_id": 872988980,
-        "content": "🔥 <b>Z</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nDebugging Linux applications that employ anti-debugging techniques.\n<br>\n✨ <b>Key Features:</b>\n• Bypasses anti-debugging mechanisms\n• Provides explicit control over program execution\n• Supports custom LD_PRELOAD libraries with marker function\n• Offers general and execution control commands\n• Includes breakpoint management (software and hardware)\n<br>\n📖 <b>Summary:</b>\nZ Anti-Anti-Debugger is a Linux debugger designed to bypass anti-debugging mechanisms. It provides precise control over program execution and supports custom LD_PRELOAD libraries. The debugger offers a range of commands for execution control, breakpoint management, and general debugging tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/JavaHammes/Z?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f14a740d18d144d93e8a1aa36758d0e8ec6f51b2b81e572fe323cb6966acea1f/JavaHammes/Z",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 659537006,
-        "content": "💡 <b>GeoPincer</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nFinding locations based on proximity to a set of known establishments or points of interest using OpenStreetMap data.\n<br>\n✨ <b>Key Features:</b>\n• Leverages OpenStreetMap's Overpass API\n• Searches for locations based on a set of nodes (establishments)\n• Allows specifying a base area to search within\n• Uses a default range of 500 meters between nodes, adjustable with the `--distance` argument\n<br>\n📖 <b>Summary:</b>\nGeoPincer is a Python script that utilizes the OpenStreetMap Overpass API to identify locations based on their proximity to a given set of nodes, such as establishments or notable places. It allows users to specify a search area and a distance range to refine the search, returning the results as Google Maps URLs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tloja/GeoPincer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b825336c5711a1f7054efb22bc00e0002bf29cd440c161c0e06b4e585231b483/tloja/GeoPincer",
-        "platform": "telegram",
-        "quality_score": 0.15
-    },
-    {
-        "project_id": 808015120,
-        "content": "🌟 <b>PromptWizard</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTask-aware agent-driven prompt optimization for Large Language Models (LLMs).\n<br>\n✨ <b>Key Features:</b>\n• Feedback-driven refinement of prompts and examples by LLMs\n• Generation of diverse and robust synthetic examples\n• Self-generated Chain of Thought (CoT) steps with positive, negative, and synthetic examples\n<br>\n📖 <b>Summary:</b>\nPromptWizard is a framework for optimizing prompts using a self-evolving mechanism where the LLM generates, critiques, and refines its own prompts and examples. It leverages feedback-driven refinement, diverse example generation, and self-generated Chain of Thought to improve task performance. The framework supports optimizing prompts with and without examples or training data.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/microsoft/PromptWizard?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/82bf99e42030b87fd693367f2b93634956f16bd0dfb3a80950bf5c345af02e15/microsoft/PromptWizard",
-        "platform": "telegram",
-        "quality_score": 0.7000000000000001
     }
 ]

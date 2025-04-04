@@ -1,0 +1,7 @@
+{
+    "project_id": 887984411,
+    "content": "🔥 <b>DCOMUploadExec</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nLateral movement and remote code execution in Windows environments by exploiting the DCOM IMsiServer interface.\n<br>\n✨ <b>Key Features:</b>\n• Lateral movement via DCOM\n• Remote payload upload and execution\n• Abuse of IMsiServer interface\n• Payload configuration via PayloadConfig.h\n• Supports strong-named .NET assemblies\n<br>\n📖 <b>Summary:</b>\nThe DCOMUploadExec repository provides a proof-of-concept tool for lateral movement by abusing the DCOM IMsiServer interface. It allows uploading and executing a .NET assembly payload on a remote machine. The tool requires a strong-named assembly and configuration of payload details in PayloadConfig.h.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/deepinstinct/DCOMUploadExec?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/8f4d274efb8cdb70173826daa7e4691ca5ae0d3f2dbf0344a1879528871e2249/deepinstinct/DCOMUploadExec",
+    "platform": "telegram",
+    "quality_score": 0.3
+}
