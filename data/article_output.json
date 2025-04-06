@@ -1,26 +1,26 @@
 {
-    "article": "Hey fellow developers! Ever wished for a Swiss Army knife for OSINT investigations?  Meet ClatScope Info Tool – a powerful command-line and GUI-based utility that's revolutionizing how we gather information online. Forget endless manual searches; ClatScope consolidates multiple OSINT techniques into one streamlined package.  Imagine needing to quickly check an IP address's location, find out if an email has been compromised, or validate a phone number. ClatScope handles all of this and more, providing results in a clean, easy-to-read format. It leverages various APIs (you'll need to provide your own keys or subscribe for a hassle-free experience) to perform deep dives into data, giving you comprehensive insights.\n\nThe tool's architecture is designed for efficiency. It uses a modular approach, allowing you to easily add or remove functionalities as needed. The CLI version is perfect for scripting and automation, while the GUI provides a user-friendly interface for those who prefer a visual experience. The interface itself is very intuitive, clearly guiding you through the process of data input and result viewing.  The output is styled for readability, with clear sections for each data point extracted.\n\nSo, what's in it for you?  First, it massively saves time. Instead of bouncing between different websites and tools, you get all the relevant information in one place. Second, it improves your workflow.  The tool's automation capabilities let you focus on the analysis rather than the tedious task of data collection. Third, it's versatile. Whether you're a security researcher, pentester, or just curious about online information, ClatScope provides invaluable insights.  Its features cover a wide range of needs, from basic IP geolocation to advanced email header analysis and password strength checks.  It also offers username searches across numerous websites, helping identify potential accounts linked to a particular username. You can even check for data breaches associated with a given email address.\n\nBut that's not all! ClatScope also includes functionalities for DNS lookups, WHOIS information retrieval, and even a reverse phone search.  This broad spectrum of capabilities makes it an essential tool for anyone involved in digital investigations or online security. The combination of CLI and GUI options caters to a wider range of preferences, ensuring accessibility for all. This tool is a must-have for anyone serious about open-source intelligence gathering.  The subscription service is well-priced and provides a streamlined experience. Even without a subscription, the tool's capabilities are impressive.\n\nUltimately, ClatScope Info Tool is more than just a script; it's a powerful ally in your digital investigations, streamlining your workflow and providing a wealth of valuable information at your fingertips.  Give it a try; you won't be disappointed!",
+    "article": "Hey fellow developers! Ever wished you had a super-fast, lightweight browser specifically designed for web automation?  Say hello to Lightpanda! This open-source project is a game-changer for anyone working with headless browsers, especially if you're dealing with large-scale tasks like AI agent development, LLM training, web scraping, or automated testing. Forget about the memory hog that is Chrome; Lightpanda boasts an incredibly low memory footprint – a mind-blowing 9 times less than Chrome!  That's massive savings, especially when running numerous instances.\n\nWhat makes Lightpanda so special?  It's built for speed and efficiency.  We're talking 11 times faster execution than Chrome in some benchmarks.  Imagine the time you'll save!  This is partly achieved through its lean architecture. It focuses on headless usage, meaning it runs without a graphical user interface, making it perfect for background tasks.  It supports Javascript execution and is progressively adding support for Web APIs, making it compatible with popular automation tools like Playwright and Puppeteer. The integration with these tools is still a work in progress (WIP), but the progress is exciting!\n\nLightpanda's core functionality revolves around fetching and processing web pages. You can use it to fetch the content of a webpage and dump it, similar to using `curl` but with the added benefit of Javascript execution.  Furthermore, Lightpanda includes a built-in CDP (Chrome DevTools Protocol) server.  This allows you to connect and control it using existing Puppeteer or Playwright scripts with minimal changes. This is especially great for developers who are already familiar with these tools. No need to rewrite your existing automation scripts from scratch! Just point your automation tool to Lightpanda's CDP server and you are good to go.\n\nBut the benefits don't stop there.  Lightpanda's low resource consumption translates directly to cost savings, particularly when running automation tasks on cloud servers. Imagine the reduction in your cloud bills! The instant startup time further enhances productivity, letting you get started with your automation tasks immediately. While still in beta, the project is actively developed and updated, promising an even more robust and feature-rich browser in the future.\n\nInstallation is straightforward.  Nightly builds are available for Linux and MacOS, and the project provides clear instructions on how to get up and running in minutes.  The project's documentation provides a simple guide to fetch a URL, start the CDP server, and connect to it using puppeteer.  The team behind Lightpanda is actively working on improving compatibility with various websites and adding more Web APIs. Give it a try and see how much faster and more efficiently you can run your web automation tasks!",
     "key_takeaways": [
-        "Streamlines OSINT investigations by consolidating multiple tools into one.",
-        "Saves time by providing comprehensive information in a single, easy-to-read format.",
-        "Improves workflow through automation and a user-friendly interface (both CLI and GUI).",
-        "Offers a wide range of functionalities, from basic lookups to advanced analysis.",
-        "Versatile and useful for various applications, including security research and digital investigations."
+        "Ultra-low memory footprint (9x less than Chrome)",
+        "Exceptionally fast execution (11x faster than Chrome)",
+        "Instant startup",
+        "Compatible with Playwright and Puppeteer via CDP",
+        "Cost-effective for large-scale automation"
     ],
     "tags": [
-        "OSINT",
-        "Python",
-        "Security",
-        "Penetration Testing",
-        "Open Source Intelligence"
+        "headless browser",
+        "web automation",
+        "puppeteer",
+        "playwright",
+        "open-source"
     ],
-    "title": "ClatScope Info Tool: Your New OSINT Powerhouse",
-    "stars": 925,
-    "forks": 135,
-    "open_issues": 0,
-    "languages": "Python",
-    "readme_summary": "ClatScope Info Tool is a Python-based OSINT utility designed for gathering and analyzing information from various online resources. It provides a range of features, including IP geolocation, DNS lookups, email analysis, phone number parsing, and data breach checks, making it suitable for investigators and pentesters needing reconnaissance capabilities.",
-    "project_id": 914092741,
-    "url": "https://github.com/Clats97/ClatScope",
-    "description": "ClatScope Info Tool – The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (60 features). Perfect for investigators, pentesters, or anyone looking for an effective reconnaissance / OSINT tool. CLI version is always released before the GUI version."
+    "title": "Lightpanda: The Blazing-Fast Headless Browser You Need!",
+    "stars": 7930,
+    "forks": 178,
+    "open_issues": 62,
+    "languages": "Zig",
+    "readme_summary": "Lightpanda Browser is an open-source, headless browser designed for AI and automation tasks. It emphasizes fast execution, low memory footprint, and compatibility with tools like Playwright and Puppeteer through the Chrome DevTools Protocol (CDP). It's intended for use cases such as AI agent development, LLM training, web scraping, and testing.",
+    "project_id": 598667202,
+    "url": "https://github.com/lightpanda-io/browser",
+    "description": "Lightpanda: the headless browser designed for AI and automation"
 }

@@ -1,51 +1,58 @@
 [
     {
-        "project_id": 748568485,
-        "content": "💡 <b>whoBIRD</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nIdentifying bird sounds in real-time using an Android app, without requiring an internet connection.\n<br>\n✨ <b>Key Features:</b>\n• Real-time bird sound identification\n• Offline functionality (no internet required)\n• Extensive database of over 6,000 bird species\n• Customization options (ignore date/place, show images, audio source selection, high pass filter, threshold setting, save .wav files)\n<br>\n📖 <b>Summary:</b>\nwhoBIRD is an Android application that identifies bird sounds in real-time using the BirdNET framework. It boasts an extensive database of over 6,000 bird species and operates offline. The app provides various customization options, including audio source selection, noise filtering, and threshold adjustments for detection sensitivity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/woheller69/whoBIRD?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/446ab1e132a74a8113d95bd7c138afc71293fe4cdeecd8ad3f6c9fd5b6c9a28b/woheller69/whoBIRD",
+        "project_id": 957959030,
+        "content": "🌟 <b>ghostmark</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nLeak detection in confidential messages by embedding subtle watermarks using language variations.\n<br>\n✨ <b>Key Features:</b>\n• Generates unique language variants of text for each recipient.\n• Embeds watermarks into text using subtle wording changes powered by Gemini.\n• Enables tracing leaks back to the source by comparing leaked text to generated variants.\n<br>\n📖 <b>Summary:</b>\nGhostmark is a tool for detecting leaks in confidential messages. It generates unique language variants of a message for each recipient, embedding subtle watermarks powered by Gemini. By comparing leaked text to the generated variants, the source of the leak can be identified.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/adrian-kong/ghostmark?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ad1a5b711ae3bc7c670582754a724654923e12a74bfdbe671dfd5ad730cceab5/adrian-kong/ghostmark",
         "platform": "telegram",
-        "quality_score": 0.9000000000000001
+        "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 94530674,
-        "content": "🚀 <b>nvtop</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring GPU and accelerator usage and processes on Linux systems.\n<br>\n✨ <b>Key Features:</b>\n• Monitors GPU and accelerator processes\n• Supports multiple GPUs\n• Provides htop-like interface\n• Supports AMD, Apple, Huawei, Intel, NVIDIA, Qualcomm, and Broadcom GPUs\n• Interactive setup utility\n<br>\n📖 <b>Summary:</b>\nNVTOP is a command-line tool that provides a real-time, htop-like interface for monitoring GPU and accelerator processes. It supports a wide range of vendors, including AMD, Apple, Huawei, Intel, NVIDIA, and Qualcomm. NVTOP allows users to monitor multiple GPUs, customize the interface, and save preferences for future use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Syllo/nvtop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ee7f2b8eab3234d4203b79a645a6fe3d458c5a12f4b57e218bbbe2c72b33893b/Syllo/nvtop",
+        "project_id": 873617127,
+        "content": "💡 <b>igatha</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nOffline emergency communication in war zones and disaster areas where traditional networks are unavailable.\n<br>\n✨ <b>Key Features:</b>\n• Offline SOS signaling using Bluetooth Low Energy (BLE)\n• Disaster detection using device sensors (accelerometer, gyroscope, barometer)\n• Manual and automatic SOS signal sending\n• Recovery mode for helping others\n• Audible siren generation\n<br>\n📖 <b>Summary:</b>\nIgatha is an open-source SOS signaling and recovery app designed for offline emergency communication. It utilizes Bluetooth Low Energy and device sensors for distress detection and signaling, enabling users to send SOS signals and assist others in war zones and disaster areas without relying on traditional networks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nizarmah/igatha?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/873617127/2a869e32-2e16-488a-9d69-ca799e7a2491",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 872380225,
+        "content": "💡 <b>aya</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nControlling Android devices from a desktop environment\n<br>\n✨ <b>Key Features:</b>\n• Screen mirror\n• File explorer\n• Application manager\n• Process monitor\n• Layout inspector\n<br>\n📖 <b>Summary:</b>\nAYA is a desktop application that provides a GUI wrapper for ADB, allowing users to easily control Android devices. It offers features such as screen mirroring, file exploration, application management, and performance monitoring. The application supports Windows, macOS, and Linux.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/liriliri/aya?embed=0\">View Project</a>\n• <a href=\"https://aya.liriliri.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/defe064c2318a4dfb0d78e2ee8874f56d823c25f67ab055db8feb7819f7493b8/liriliri/aya",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 906490557,
+        "content": "🌟 <b>telegram-files</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated and unattended downloading of files from Telegram channels and groups.\n<br>\n✨ <b>Key Features:</b>\n• Downloads files from Telegram channels and groups\n• Supports multiple Telegram accounts\n• Supports suspending and resuming downloads\n• Auto-transfers files to other destinations\n• Provides preview of downloaded videos and pictures\n<br>\n📖 <b>Summary:</b>\nThe telegram-files repository provides a self-hosted solution for automatically downloading files from Telegram channels and groups. It supports multiple accounts, allows pausing and resuming downloads, and can automatically transfer files to other locations. The application also offers a responsive design with preview capabilities for downloaded media.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jarvis2f/telegram-files?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ab0740633050711cdf7d2ec33756e46f741fa4577e81c0691cebdd72693c2688/jarvis2f/telegram-files",
+        "platform": "telegram",
+        "quality_score": 0.65
+    },
+    {
+        "project_id": 626145619,
+        "content": "🚀 <b>textual-paint</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTerminal-based image editing inspired by MS Paint.\n<br>\n✨ <b>Key Features:</b>\n• Open and save images\n• MS Paint toolset\n• Color palette\n• Efficient screen updates and undo/redo history\n• SSH compatibility\n<br>\n📖 <b>Summary:</b>\nTextual Paint is a terminal-based image editor that brings the classic MS Paint experience to the command line. It offers a comprehensive set of tools, file format support, and features like undo/redo, localization, and dark mode, enabling users to create and edit images directly within their terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/1j01/textual-paint?embed=0\">View Project</a>\n• <a href=\"https://pypi.org/project/textual-paint/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/626145619/c71d0c14-c3e4-42ec-9ed5-512d8babc664",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 924856571,
+        "content": "🌟 <b>deepseek-r1-chat</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-powered coding assistance, debugging help, and programming guidance running locally.\n<br>\n✨ <b>Key Features:</b>\n• Python Expert\n• Debugging Assistant\n• Code Documentation\n• Solution Design\n• Runs 100% locally\n<br>\n📖 <b>Summary:</b>\nDeepSeek Code Companion is an AI-powered coding assistant that runs completely locally. It leverages the DeepSeek-r1 language model through Ollama and provides features such as Python expertise, debugging assistance, code documentation, and solution design, all while ensuring privacy.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Rizwankaka/deepseek-r1-chat?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1c658ed6c0769da4b87a84176528e7665a8415a4e2ebcb38457f59776bb9e87f/Rizwankaka/deepseek-r1-chat",
+        "platform": "telegram",
+        "quality_score": 0.5
+    },
+    {
+        "project_id": 598667202,
+        "content": "✨ <b>browser</b> | Zig\n<br>\n🎯 <b>Primary Use Case:</b>\nFast web automation for AI agents, LLM training, scraping and testing.\n<br>\n✨ <b>Key Features:</b>\n• Javascript execution\n• Support of Web APIs (partial, WIP)\n• Compatible with Playwright, Puppeteer through CDP (WIP)\n• Ultra-low memory footprint\n• Exceptionally fast execution\n<br>\n📖 <b>Summary:</b>\nLightpanda Browser is an open-source, headless browser designed for AI and automation tasks. It emphasizes fast execution, low memory footprint, and compatibility with tools like Playwright and Puppeteer through the Chrome DevTools Protocol (CDP). It's intended for use cases such as AI agent development, LLM training, web scraping, and testing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lightpanda-io/browser?embed=0\">View Project</a>\n• <a href=\"https://lightpanda.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3fa3a38f7639e411a9c58008ac14857a586df0ff4c37cf48f9ab1ec5464b1b72/lightpanda-io/browser",
         "platform": "telegram",
         "quality_score": 1.05
     },
     {
-        "project_id": 319112812,
-        "content": "✨ <b>privtracker</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nPrivate file sharing among trusted groups, avoiding public networks and centralized services.\n<br>\n✨ <b>Key Features:</b>\n• Private BitTorrent tracker generation\n• Peer sharing within a defined group\n• Simplified setup with one-click generation\n• Automatic TLS/HTTPS support via Let's Encrypt\n• Docker Compose support\n<br>\n📖 <b>Summary:</b>\nPrivTracker is a tool for generating private BitTorrent trackers, enabling users to share files exclusively within a defined group. It simplifies the process of creating a private tracker, offering features like automatic TLS/HTTPS support and Docker Compose integration. This allows for secure and efficient file sharing without relying on public trackers or centralized services.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/meehow/privtracker?embed=0\">View Project</a>\n• <a href=\"https://privtracker.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1f0202197a7288457cc740ae00de5ad48cbd5a0b56e20ec5d2c886314067b898/meehow/privtracker",
+        "project_id": 646480766,
+        "content": "✨ <b>roop</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nReplacing faces in videos with a face of the user's choice.\n<br>\n✨ <b>Key Features:</b>\n• One-click face swapping\n• No dataset or training required\n• Headless mode support\n• Various frame processors (face_swapper, face_enhancer)\n• Options for controlling output video quality and encoding\n<br>\n📖 <b>Summary:</b>\nRoop is a one-click face-swapping tool that allows users to replace faces in videos with a single image, eliminating the need for datasets or training. It supports various frame processors and offers options to control output video quality and encoding. The tool can be used in headless mode for automated processing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/s0md3v/roop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d55690fce8a75edb3c4342df17e65745e55dfae6784454f98842bccdcd2f6986/s0md3v/roop",
         "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 880240067,
-        "content": "💡 <b>lada</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRestoring pixelated or mosaic scenes in adult videos to improve visual quality.\n<br>\n✨ <b>Key Features:</b>\n• Recover Pixelated Videos\n• Watch/Export Videos (CLI or GUI)\n<br>\n📖 <b>Summary:</b>\nLada is a tool designed to recover pixelated adult videos. It offers features to restore mosaic scenes and allows users to watch or export the restored videos using either a command-line interface or a graphical user interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ladaapp/lada?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6d8714ec49d94cd77cf0d76737d2e92364fe50af8bbd139ace3f392c13295a58/ladaapp/lada",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 681566005,
-        "content": "🔥 <b>magika</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDetecting file content types for improved security and content policy enforcement.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered file type detection\n• Deep learning model for accurate detection\n• Small model size (a few MBs)\n• Fast identification (milliseconds on a single CPU)\n• Trained on ~100M samples across 200+ content types\n<br>\n📖 <b>Summary:</b>\nMagika is an AI-powered file type detection tool that uses a deep learning model to accurately identify file types within milliseconds. It is trained on a large dataset and achieves high accuracy, making it suitable for improving security and content policy enforcement in applications like email, cloud storage, and web browsing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/google/magika?embed=0\">View Project</a>\n• <a href=\"https://google.github.io/magika/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a95cdc02aa40658f7dd3f73659936121bbc6fe1476d7afd825f8517d858c4366/google/magika",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 270910423,
-        "content": "🔥 <b>FlareSolverr</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nBypassing Cloudflare and DDoS-GUARD protection for web scraping and automation tasks.\n<br>\n✨ <b>Key Features:</b>\n• Bypasses Cloudflare and DDoS-GUARD protection\n• Uses Selenium and undetected-chromedriver to solve challenges\n• Provides HTML code and cookies for bypassing Cloudflare\n• Supports Docker installation\n<br>\n📖 <b>Summary:</b>\nFlareSolverr is a proxy server designed to bypass Cloudflare and DDoS-GUARD protection. It utilizes Selenium and undetected-chromedriver to solve challenges, providing HTML code and cookies that can be used to access protected resources. The project offers Docker installation, precompiled binaries, and source code installation options, catering to various user preferences and system architectures.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/FlareSolverr/FlareSolverr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/df8d02eb503d83e3d38e0ee70eb601f477158226eaf09d96a0f2ae82f185044d/FlareSolverr/FlareSolverr",
-        "platform": "telegram",
-        "quality_score": 0.8
-    },
-    {
-        "project_id": 783044221,
-        "content": "🔥 <b>tryharder</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nLoading and executing shellcode with evasion techniques, primarily intended for use with the Sliver C2 framework but adaptable to other shellcode sources.\n<br>\n✨ <b>Key Features:</b>\n• Staged shellcode loading\n• Evasion capabilities\n• Compatibility with Sliver C2 framework\n• Cobalt Strike shellcode compatibility\n<br>\n📖 <b>Summary:</b>\nThe tryharder repository provides a C++ staged shellcode loader with evasion capabilities. It is designed to work seamlessly with the Sliver C2 framework, allowing for the execution of shellcode on target systems while bypassing security measures. The loader is also demonstrated to be compatible with Cobalt Strike shellcode, offering flexibility in payload selection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tehstoni/tryharder?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4f27a9828b8696a70f36a958125251977f66ed3e733c5392a3a673c2db04db84/tehstoni/tryharder",
-        "platform": "telegram",
-        "quality_score": 0.15
+        "quality_score": 0.65
     }
 ]
