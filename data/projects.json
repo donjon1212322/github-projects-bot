@@ -1,310 +1,325 @@
 [
     {
-        "id": 957959030,
-        "name": "ghostmark",
-        "description": null,
-        "url": "https://github.com/adrian-kong/ghostmark",
-        "language": "TypeScript",
-        "stars": 11,
-        "forks": 0,
-        "created_at": "2025-03-31T12:13:34Z",
-        "updated_at": "2025-04-06T07:17:11Z",
+        "id": 958900638,
+        "name": "choof",
+        "description": "Choof is a fast and minimal CLI tool for managing files, built with Bubble Tea for Linux",
+        "url": "https://github.com/elParadigm/choof",
+        "language": "Go",
+        "stars": 14,
+        "forks": 1,
+        "created_at": "2025-04-02T00:22:12Z",
+        "updated_at": "2025-04-07T08:27:47Z",
         "topics": [],
-        "quality_score": 0.44999999999999996,
+        "quality_score": 0.6499999999999999,
         "contributors_count": 0,
-        "last_commit_date": "2025-04-01T09:43:58Z",
+        "last_commit_date": "2025-04-07T00:58:07Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/ad1a5b711ae3bc7c670582754a724654923e12a74bfdbe671dfd5ad730cceab5/adrian-kong/ghostmark"
+            "https://opengraph.githubassets.com/9bbf50dc8f0dfe7c99d5e7182b5b568bb7195e780aec1d5dfcef1f89d28829bc/elParadigm/choof"
         ],
         "homepage": null,
-        "readme_summary": "Ghostmark is a tool for detecting leaks in confidential messages. It generates unique language variants of a message for each recipient, embedding subtle watermarks powered by Gemini. By comparing leaked text to the generated variants, the source of the leak can be identified.",
+        "readme_summary": "Choof is a CLI tool for Linux that provides a user-friendly interface for viewing and managing file information. It allows users to inspect file details, delete, rename, and open files directly from the terminal using simple keybindings.",
         "key_features": [
-            "Generates unique language variants of text for each recipient.",
-            "Embeds watermarks into text using subtle wording changes powered by Gemini.",
-            "Enables tracing leaks back to the source by comparing leaked text to generated variants."
+            "Detailed File Info (size, creation/modification dates, permissions, hashes)",
+            "File Operations (delete, rename, open)",
+            "User-Friendly Interface",
+            "Keyboard Shortcuts"
         ],
-        "primary_use_case": "Leak detection in confidential messages by embedding subtle watermarks using language variations.",
+        "primary_use_case": "Managing files efficiently from the command line.",
         "open_issues": 0,
-        "cover_image_prompt": "Imagine a skilled calligrapher meticulously crafting identical letters, each subtly different, on a stack of parchment. A shadowy figure attempts to copy one of the letters, but a faint, glowing watermark reveals the original author. The calligrapher's desk is adorned with glowing screens displaying code snippets and data visualizations of text variations. The scene is set in a dimly lit study with a single spotlight illuminating the parchment. The image should be in a digital painting style with clear outlines and a focus on detail, emphasizing the subtle differences and the revealing watermark."
+        "cover_image_prompt": "A meticulous librarian, surrounded by towering shelves of disorganized files, uses a special magnifying glass to instantly sort and organize them. The magnifying glass projects a clean, colorful UI onto each file, displaying key metadata like size, dates, and permissions. As the librarian examines each file, they can effortlessly rename, delete, or open it with simple gestures. Subtle digital particles float around the files, representing the underlying data. The scene is set in a bright, modern library with a clean, focused composition. The image should be in a flat design style with clear iconography and a vibrant color scheme."
     },
     {
-        "id": 873617127,
-        "name": "igatha",
-        "description": "Offline SOS signaling and recovery app for wars and disasters (iOS & Android).",
-        "url": "https://github.com/nizarmah/igatha",
-        "language": "Kotlin",
-        "stars": 220,
-        "forks": 4,
-        "created_at": "2024-10-16T13:17:30Z",
-        "updated_at": "2025-04-06T06:46:39Z",
+        "id": 959972299,
+        "name": "regname",
+        "description": "Mass renamer TUI written in Rust",
+        "url": "https://github.com/linkdd/regname",
+        "language": "Rust",
+        "stars": 71,
+        "forks": 2,
+        "created_at": "2025-04-03T16:45:56Z",
+        "updated_at": "2025-04-07T06:54:53Z",
         "topics": [
-            "android",
-            "bluetooth-le",
-            "disaster-recovery",
-            "disaster-response",
-            "distress-detection",
-            "distress-signal",
-            "ios",
-            "offline",
-            "sos"
-        ],
-        "quality_score": 0.55,
-        "contributors_count": 0,
-        "last_commit_date": "2025-04-02T01:05:56Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/873617127/2a869e32-2e16-488a-9d69-ca799e7a2491"
-        ],
-        "homepage": "",
-        "readme_summary": "Igatha is an open-source SOS signaling and recovery app designed for offline emergency communication. It utilizes Bluetooth Low Energy and device sensors for distress detection and signaling, enabling users to send SOS signals and assist others in war zones and disaster areas without relying on traditional networks.",
-        "key_features": [
-            "Offline SOS signaling using Bluetooth Low Energy (BLE)",
-            "Disaster detection using device sensors (accelerometer, gyroscope, barometer)",
-            "Manual and automatic SOS signal sending",
-            "Recovery mode for helping others",
-            "Audible siren generation",
-            "Pseudonymized identifier broadcasting"
-        ],
-        "primary_use_case": "Offline emergency communication in war zones and disaster areas where traditional networks are unavailable.",
-        "open_issues": 6,
-        "cover_image_prompt": "A lone figure in a war-torn landscape uses a handheld device to send a distress signal represented by a beam of light piercing through the smoke and debris. The signal connects with other figures in the distance, symbolizing rescue and aid. The device displays a simple UI with an SOS button and Bluetooth icon. Subtle tech elements include glowing digital particles forming a network around the figures and the word 'Igatha' subtly integrated into the device's design. The scene is set in a desaturated environment with a hopeful, warm light emanating from the signal. The image should be in a digital painting style with clear outlines and a focus on conveying hope and resilience."
-    },
-    {
-        "id": 872380225,
-        "name": "aya",
-        "description": "Android ADB desktop app",
-        "url": "https://github.com/liriliri/aya",
-        "language": "TypeScript",
-        "stars": 1701,
-        "forks": 71,
-        "created_at": "2024-10-14T10:39:33Z",
-        "updated_at": "2025-04-06T09:53:15Z",
-        "topics": [
-            "adb",
-            "android",
-            "electron",
-            "electron-app"
-        ],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-04-03T09:11:22Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/defe064c2318a4dfb0d78e2ee8874f56d823c25f67ab055db8feb7819f7493b8/liriliri/aya"
-        ],
-        "homepage": "https://aya.liriliri.io",
-        "readme_summary": "AYA is a desktop application that provides a GUI wrapper for ADB, allowing users to easily control Android devices. It offers features such as screen mirroring, file exploration, application management, and performance monitoring. The application supports Windows, macOS, and Linux.",
-        "key_features": [
-            "Screen mirror",
-            "File explorer",
-            "Application manager",
-            "Process monitor",
-            "Layout inspector",
-            "CPU, memory and FPS monitor",
-            "Logcat viewer",
-            "Interactive shell"
-        ],
-        "primary_use_case": "Controlling Android devices from a desktop environment",
-        "open_issues": 17,
-        "cover_image_prompt": "A skilled mechanic in a high-tech garage, tuning an Android robot with a digital wrench. The robot's chest displays a screen mirroring an Android phone's interface, showing apps and system settings. Cables connect the robot to a desktop computer displaying ADB commands and logs. The garage is filled with glowing digital particles and UI elements, subtly connecting the scene to software. The repository name, 'AYA,' is subtly displayed on a tool cabinet. The scene is brightly lit and energetic. The image should be in 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 906490557,
-        "name": "telegram-files",
-        "description": "A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.",
-        "url": "https://github.com/jarvis2f/telegram-files",
-        "language": "Java",
-        "stars": 1274,
-        "forks": 75,
-        "created_at": "2024-12-21T03:49:33Z",
-        "updated_at": "2025-04-06T10:01:06Z",
-        "topics": [
-            "docker",
-            "downloader",
-            "nextjs",
-            "self-hosted",
-            "shadcn-ui",
-            "tdlib",
-            "telegram",
-            "unraid",
-            "vertx"
-        ],
-        "quality_score": 0.65,
-        "contributors_count": 0,
-        "last_commit_date": "2025-04-03T03:33:52Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/ab0740633050711cdf7d2ec33756e46f741fa4577e81c0691cebdd72693c2688/jarvis2f/telegram-files"
-        ],
-        "homepage": "",
-        "readme_summary": "The telegram-files repository provides a self-hosted solution for automatically downloading files from Telegram channels and groups. It supports multiple accounts, allows pausing and resuming downloads, and can automatically transfer files to other locations. The application also offers a responsive design with preview capabilities for downloaded media.",
-        "key_features": [
-            "Downloads files from Telegram channels and groups",
-            "Supports multiple Telegram accounts",
-            "Supports suspending and resuming downloads",
-            "Auto-transfers files to other destinations",
-            "Provides preview of downloaded videos and pictures",
-            "Responsive design for mobile and PWA support"
-        ],
-        "primary_use_case": "Automated and unattended downloading of files from Telegram channels and groups.",
-        "open_issues": 12,
-        "cover_image_prompt": "A diligent librarian meticulously organizing telegram messages into labeled file cabinets. The librarian is surrounded by glowing streams of data representing telegram messages flowing into the cabinets. Each cabinet is clearly labeled with file types like 'videos', 'pictures', and 'documents'. A small UI screen hovers nearby, displaying a file download progress bar. The scene is set in a bright, modern library with a clean and organized aesthetic. The image should be in 3D isometric illustration style with soft lighting and pastel colors."
-    },
-    {
-        "id": 626145619,
-        "name": "textual-paint",
-        "description": ":art: MS Paint in your terminal.",
-        "url": "https://github.com/1j01/textual-paint",
-        "language": "Python",
-        "stars": 1009,
-        "forks": 15,
-        "created_at": "2023-04-10T22:26:49Z",
-        "updated_at": "2025-04-06T06:33:50Z",
-        "topics": [
-            "ansi-art",
-            "ansi-editor",
-            "artscene",
-            "ascii-art",
-            "bbs",
-            "drawing",
-            "image",
-            "image-editor",
-            "irc",
-            "mirc",
-            "mspaint",
-            "paint",
-            "pixel-art",
-            "pixel-editor",
+            "rust",
             "terminal",
-            "text-art",
-            "textual",
+            "tool",
             "tui"
         ],
         "quality_score": 0.44999999999999996,
         "contributors_count": 0,
-        "last_commit_date": "2024-11-11T04:37:52Z",
+        "last_commit_date": "2025-04-03T16:46:23Z",
         "media_urls": [
-            "https://repository-images.githubusercontent.com/626145619/c71d0c14-c3e4-42ec-9ed5-512d8babc664"
-        ],
-        "homepage": "https://pypi.org/project/textual-paint/",
-        "readme_summary": "Textual Paint is a terminal-based image editor that brings the classic MS Paint experience to the command line. It offers a comprehensive set of tools, file format support, and features like undo/redo, localization, and dark mode, enabling users to create and edit images directly within their terminal.",
-        "key_features": [
-            "Open and save images",
-            "MS Paint toolset",
-            "Color palette",
-            "Efficient screen updates and undo/redo history",
-            "SSH compatibility",
-            "Brush previews",
-            "Status bar",
-            "Menu bar",
-            "Keyboard shortcuts",
-            "Flip/Rotate, Stretch/Skew, Edit Colors, Set As Wallpaper",
-            "Localization into 26 languages",
-            "Dark mode",
-            "Zooming"
-        ],
-        "primary_use_case": "Terminal-based image editing inspired by MS Paint.",
-        "open_issues": 4,
-        "cover_image_prompt": "Imagine an artist sitting at a vintage computer terminal, using it as a digital easel. Instead of traditional paint tools, the artist wields a keyboard and mouse, creating pixel art directly within the terminal window. The screen displays a vibrant, detailed image reminiscent of classic MS Paint creations, showcasing the terminal's ability to function as a canvas. The artist's face is illuminated by the glow of the screen, reflecting their creative passion. Small code snippets and UI elements float subtly around the scene, connecting the art to the underlying software. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 924856571,
-        "name": "deepseek-r1-chat",
-        "description": "chatbot made with gradio using opensource deepseek-r1 running locally",
-        "url": "https://github.com/Rizwankaka/deepseek-r1-chat",
-        "language": "Python",
-        "stars": 282,
-        "forks": 44,
-        "created_at": "2025-01-30T19:14:20Z",
-        "updated_at": "2025-04-06T09:01:16Z",
-        "topics": [],
-        "quality_score": 0.5,
-        "contributors_count": 0,
-        "last_commit_date": "2025-01-30T19:33:01Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/1c658ed6c0769da4b87a84176528e7665a8415a4e2ebcb38457f59776bb9e87f/Rizwankaka/deepseek-r1-chat"
-        ],
-        "homepage": null,
-        "readme_summary": "DeepSeek Code Companion is an AI-powered coding assistant that runs completely locally. It leverages the DeepSeek-r1 language model through Ollama and provides features such as Python expertise, debugging assistance, code documentation, and solution design, all while ensuring privacy.",
-        "key_features": [
-            "Python Expert",
-            "Debugging Assistant",
-            "Code Documentation",
-            "Solution Design",
-            "Runs 100% locally",
-            "Privacy-focused"
-        ],
-        "primary_use_case": "AI-powered coding assistance, debugging help, and programming guidance running locally.",
-        "open_issues": 1,
-        "cover_image_prompt": "A skilled Python programmer, depicted as a modern-day alchemist, sits at a glowing workstation, surrounded by bubbling beakers filled with code. The programmer is using a magical interface (Gradio) to query a wise, ancient AI oracle (DeepSeek-r1) residing within a crystal ball. The oracle provides insightful answers and debugging solutions, which the programmer carefully transcribes onto digital scrolls. The scene is set in a futuristic workshop filled with subtle tech elements like glowing data streams and holographic code snippets. The composition is clean and focused with a vibrant, yet calming color scheme. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 598667202,
-        "name": "browser",
-        "description": "Lightpanda: the headless browser designed for AI and automation",
-        "url": "https://github.com/lightpanda-io/browser",
-        "language": "Zig",
-        "stars": 7930,
-        "forks": 178,
-        "created_at": "2023-02-07T15:19:34Z",
-        "updated_at": "2025-04-06T07:22:39Z",
-        "topics": [
-            "browser",
-            "browser-automation",
-            "cdp",
-            "headless",
-            "playwright",
-            "puppeteer",
-            "zig"
-        ],
-        "quality_score": 1.05,
-        "contributors_count": 0,
-        "last_commit_date": "2025-04-04T08:06:48Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/3fa3a38f7639e411a9c58008ac14857a586df0ff4c37cf48f9ab1ec5464b1b72/lightpanda-io/browser"
-        ],
-        "homepage": "https://lightpanda.io",
-        "readme_summary": "Lightpanda Browser is an open-source, headless browser designed for AI and automation tasks. It emphasizes fast execution, low memory footprint, and compatibility with tools like Playwright and Puppeteer through the Chrome DevTools Protocol (CDP). It's intended for use cases such as AI agent development, LLM training, web scraping, and testing.",
-        "key_features": [
-            "Javascript execution",
-            "Support of Web APIs (partial, WIP)",
-            "Compatible with Playwright, Puppeteer through CDP (WIP)",
-            "Ultra-low memory footprint",
-            "Exceptionally fast execution",
-            "Instant startup"
-        ],
-        "primary_use_case": "Fast web automation for AI agents, LLM training, scraping and testing.",
-        "open_issues": 62,
-        "cover_image_prompt": "A skilled clockmaker meticulously assembling intricate gears within a giant, transparent browser window. Each gear represents a different web technology (JavaScript, HTML, Web APIs) fitting perfectly together to drive the browser. The clockmaker wears a futuristic headset displaying performance metrics like memory usage and execution speed. Digital particles flow around the gears, visualizing data processing. The repository name, 'Lightpanda Browser,' is subtly etched onto the largest gear. The scene is set in a clean, brightly lit workshop with a focus on precision and efficiency. The image should be in a 3D isometric illustration style with vibrant colors and sharp details."
-    },
-    {
-        "id": 646480766,
-        "name": "roop",
-        "description": "one-click face swap",
-        "url": "https://github.com/s0md3v/roop",
-        "language": "Python",
-        "stars": 29578,
-        "forks": 6701,
-        "created_at": "2023-05-28T14:37:54Z",
-        "updated_at": "2025-04-06T07:03:48Z",
-        "topics": [
-            "ai",
-            "face-swap"
-        ],
-        "quality_score": 0.65,
-        "contributors_count": 0,
-        "last_commit_date": "2024-03-25T04:01:32Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/d55690fce8a75edb3c4342df17e65745e55dfae6784454f98842bccdcd2f6986/s0md3v/roop"
+            "https://opengraph.githubassets.com/e2b743518b1b9c008b3b8783f4ab3a53e9ca03f6cfcc8499da269008871653a0/linkdd/regname"
         ],
         "homepage": "",
-        "readme_summary": "Roop is a one-click face-swapping tool that allows users to replace faces in videos with a single image, eliminating the need for datasets or training. It supports various frame processors and offers options to control output video quality and encoding. The tool can be used in headless mode for automated processing.",
+        "readme_summary": "Regname is a Rust-based tool that provides a terminal user interface for mass renaming files. It allows users to interactively select files based on a pattern and rename them in batch, offering a convenient way to manage large numbers of files.",
         "key_features": [
-            "One-click face swapping",
-            "No dataset or training required",
-            "Headless mode support",
-            "Various frame processors (face_swapper, face_enhancer)",
-            "Options for controlling output video quality and encoding"
+            "Mass renaming of files",
+            "Terminal User Interface (TUI)",
+            "Interactive selection of files to rename",
+            "Pattern matching for file selection"
         ],
-        "primary_use_case": "Replacing faces in videos with a face of the user's choice.",
+        "primary_use_case": "Batch renaming files in a directory using a terminal-based interface.",
         "open_issues": 0,
-        "cover_image_prompt": "An artist in a digital studio, seamlessly swapping faces on a film reel using a high-tech brush. The original film shows a generic actor, while the artist's tablet displays a portrait of a new face. The transformed film reel emerges with the new face perfectly integrated. Subtle UI elements on the tablet show face detection and swapping algorithms. The studio is bathed in soft, cinematic lighting with a focus on the artist's focused expression. The image should be in a digital painting style with clean lines and realistic textures."
+        "cover_image_prompt": "A skilled artisan meticulously reshaping a collection of clay pots on a potter's wheel. Each pot is labeled with a different file name, and the artisan carefully adjusts their forms to match a master template displayed on a nearby screen. The screen shows a simple user interface with input fields for 'Match' and 'Rename'. Digital particles swirl around the pots, representing the transformation process. The scene is set in a bright, modern workshop with natural lighting. The image should be in a flat design style with clear iconography and a vibrant color scheme."
+    },
+    {
+        "id": 33783491,
+        "name": "reaver-wps-fork-t6x",
+        "description": null,
+        "url": "https://github.com/t6x/reaver-wps-fork-t6x",
+        "language": "C",
+        "stars": 1781,
+        "forks": 419,
+        "created_at": "2015-04-11T16:36:37Z",
+        "updated_at": "2025-04-07T09:26:09Z",
+        "topics": [],
+        "quality_score": 0.55,
+        "contributors_count": 0,
+        "last_commit_date": "2024-12-12T14:35:48Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/dba77533bcf156a380e5b28d6013ea7bc6d9e880d80351fab9f20929e4863de0/t6x/reaver-wps-fork-t6x"
+        ],
+        "homepage": null,
+        "readme_summary": "The reaver-wps-fork-t6x repository is a community-maintained fork of the Reaver tool, designed for brute-forcing WPS PINs to recover WPA/WPA2 passphrases. It includes bug fixes, new features like the Pixie Dust attack, and aims to be a robust solution for testing the security of WPS implementations.",
+        "key_features": [
+            "Brute-force attack against Wifi Protected Setup (WPS) registrar PINs",
+            "Recovery of WPA/WPA2 passphrases",
+            "Offline Pixie Dust attack",
+            "Bug fixes and new features compared to original Reaver",
+            "Compatibility with various access points and WPS implementations"
+        ],
+        "primary_use_case": "Recovering WPA/WPA2 passphrases by exploiting vulnerabilities in Wi-Fi Protected Setup (WPS) implementations.",
+        "open_issues": 22,
+        "cover_image_prompt": "A locksmith meticulously picking a complex lock on a Wi-Fi router, revealing a treasure chest overflowing with WPA/WPA2 passphrases. The locksmith uses specialized tools emitting digital particles, and small UI elements display WPS PINs being cracked. The scene is set in a brightly lit, futuristic workshop with a clean, focused composition. The image should be in a 3D isometric illustration style with vibrant colors and rich details, subtly incorporating the 'reaver-wps-fork-t6x' name on a tool."
+    },
+    {
+        "id": 59782406,
+        "name": "CloudFail",
+        "description": "Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network",
+        "url": "https://github.com/m0rtem/CloudFail",
+        "language": "Python",
+        "stars": 2326,
+        "forks": 486,
+        "created_at": "2016-05-26T20:49:20Z",
+        "updated_at": "2025-04-07T08:54:07Z",
+        "topics": [
+            "bruteforce",
+            "cloudflare",
+            "cloudflare-ip",
+            "database",
+            "ip",
+            "pentest",
+            "pentesting",
+            "python3",
+            "recon",
+            "scanner",
+            "tor"
+        ],
+        "quality_score": 0.55,
+        "contributors_count": 0,
+        "last_commit_date": "2023-12-11T16:48:14Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/47f2b3f928bbe497940e0ee4f8a3827dcb6757c7196e57c6427e69e739e3b39c/m0rtem/CloudFail"
+        ],
+        "homepage": "",
+        "readme_summary": "CloudFail is a reconnaissance tool designed to uncover the original IP addresses of servers protected by Cloudflare. It achieves this by employing techniques such as scanning for misconfigured DNS records, searching the Crimeflare.com database, and performing brute-force subdomain enumeration, optionally using Tor for anonymity.",
+        "key_features": [
+            "Misconfigured DNS scan using DNSDumpster.com",
+            "Crimeflare.com database scan",
+            "Bruteforce scan over 2500 subdomains",
+            "Tor support for anonymized scanning"
+        ],
+        "primary_use_case": "Discovering the real IP addresses of servers hidden behind Cloudflare.",
+        "open_issues": 44,
+        "cover_image_prompt": "A detective meticulously piecing together fragments of DNS records and database entries to reveal a hidden server behind a shimmering, distorted Cloudflare shield. The detective uses a magnifying glass to examine digital clues, with faint code snippets and IP addresses subtly overlaid on the scene. The background shows a cityscape partially obscured by clouds, representing the hidden infrastructure. The scene is illuminated by a single spotlight, creating a noir atmosphere. The image should be in a digital painting style with sharp details and a dark, moody color palette."
+    },
+    {
+        "id": 909145061,
+        "name": "pgdog",
+        "description": "Horizontal scaling for PostgreSQL with automatic sharding.",
+        "url": "https://github.com/pgdogdev/pgdog",
+        "language": "Rust",
+        "stars": 588,
+        "forks": 10,
+        "created_at": "2024-12-27T21:10:04Z",
+        "updated_at": "2025-04-07T08:27:20Z",
+        "topics": [
+            "load-balancer",
+            "pooler",
+            "postgresql",
+            "rust",
+            "sharding"
+        ],
+        "quality_score": 0.9500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-04-04T15:25:20Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/b75cb9fa2e4ce1b12692b9b0c08ea576dbb4a4ab29316d08046c272f304296f3/pgdogdev/pgdog"
+        ],
+        "homepage": "https://pgdog.dev",
+        "readme_summary": "PgDog is a Rust-based transaction pooler and logical replication manager designed for horizontal scaling of PostgreSQL. It offers features like load balancing, transaction pooling, and automatic sharding, enabling efficient management of numerous databases and connections. PgDog supports healthchecks, failover, and runtime configuration, ensuring high availability and adaptability.",
+        "key_features": [
+            "Load balancer with healthchecks and failover",
+            "Transaction pooling",
+            "Sharding with COPY command support",
+            "Logical replication",
+            "Runtime configuration"
+        ],
+        "primary_use_case": "Horizontal scaling of PostgreSQL databases with automatic sharding.",
+        "open_issues": 9,
+        "cover_image_prompt": "A skilled architect meticulously managing a city skyline where each building represents a database shard. The architect uses a control panel displaying real-time traffic flow, rerouting connections to ensure smooth operations. Some buildings glow brighter, indicating higher activity, while others are dimmed for maintenance. A subtle overlay of network cables connects the buildings, symbolizing the sharding and load balancing. The scene is set at dusk with a futuristic cityscape backdrop. The image should be in a 3D isometric illustration style with vibrant colors and sharp details."
+    },
+    {
+        "id": 912948166,
+        "name": "RustPotato",
+        "description": "A Rust implementation of GodPotato — abusing SeImpersonate to gain SYSTEM privileges. Includes a TCP-based reverse shell and indirect NTAPI for various operations.",
+        "url": "https://github.com/safedv/RustPotato",
+        "language": "Rust",
+        "stars": 263,
+        "forks": 27,
+        "created_at": "2025-01-06T18:10:14Z",
+        "updated_at": "2025-04-07T10:00:44Z",
+        "topics": [
+            "offensive-security",
+            "privilege-escalation",
+            "red-team"
+        ],
+        "quality_score": 0.3,
+        "contributors_count": 0,
+        "last_commit_date": "2025-01-06T18:10:08Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/d788b8024c1497a37b5463a74206b3d3815d55a786dbc89d2e35e458ceb2ee67/safedv/RustPotato"
+        ],
+        "homepage": "",
+        "readme_summary": "RustPotato is a Rust-based privilege escalation tool that implements the GodPotato technique. It leverages DCOM and RPC to exploit SeImpersonatePrivilege and gain SYSTEM privileges, featuring a TCP-based reverse shell and indirect NTAPI calls for token manipulation.",
+        "key_features": [
+            "TCP-based Reverse Shell",
+            "Indirect NTAPI"
+        ],
+        "primary_use_case": "Privilege escalation on Windows systems by abusing SeImpersonatePrivilege.",
+        "open_issues": 0,
+        "cover_image_prompt": "A skilled locksmith, representing RustPotato, meticulously picks the lock of a heavily fortified vault labeled 'Windows System'. Inside the vault, glowing tokens of privilege are scattered. The locksmith holds a blueprint labeled 'SeImpersonatePrivilege' and a small screen displays 'RPCSS Connection Established'. Digital particles flow from the lock into the locksmith's tools, visualizing the exploitation process. The scene is set in a dimly lit, high-tech security room with a blue and green color scheme. The image should be in a 3D isometric illustration style with sharp focus and detailed textures."
+    },
+    {
+        "id": 133827809,
+        "name": "tbls",
+        "description": "tbls is a CI-Friendly tool to document a database, written in Go.",
+        "url": "https://github.com/k1LoW/tbls",
+        "language": "Go",
+        "stars": 3707,
+        "forks": 174,
+        "created_at": "2018-05-17T14:47:27Z",
+        "updated_at": "2025-04-07T08:24:40Z",
+        "topics": [
+            "bigquery",
+            "continuous-integration",
+            "database-document",
+            "database-schema",
+            "documentation-tool",
+            "dynamodb",
+            "er-diagram",
+            "excel",
+            "hacktoberfest",
+            "mariadb",
+            "markdown",
+            "mermaid",
+            "mysql",
+            "plantuml",
+            "postgresql",
+            "redshift",
+            "snowflake",
+            "spanner",
+            "sqlite",
+            "sqlserver"
+        ],
+        "quality_score": 0.9500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-04-02T21:00:39Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/133827809/40610100-6fdf-11e9-9f08-7f73d6741c26"
+        ],
+        "homepage": "",
+        "readme_summary": "tbls is a CI-friendly tool written in Go that automatically documents databases in various formats, including GFM. It supports a wide range of databases and functions as a linter, ensuring database structure quality. Its single-binary design makes it ideal for continuous integration environments.",
+        "key_features": [
+            "Automatic database documentation in GFM format",
+            "Single binary for CI-friendliness",
+            "Support for many databases",
+            "Database linting capabilities"
+        ],
+        "primary_use_case": "Documenting databases in a CI-friendly manner.",
+        "open_issues": 34,
+        "cover_image_prompt": "Imagine a meticulous architect meticulously drafting blueprints for a grand library, each book representing a database schema. The architect uses a special lens that automatically translates the complex blueprints into easily understandable diagrams and documentation. Digital particles flow from the lens, forming clear, labeled ER diagrams and markdown documents that surround the architect. The library's foundation is solid and well-organized, symbolizing the robust database structure. Small UI elements display database connection strings and schema details. The scene is set in a bright, modern studio with a clean, focused composition. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 22486533,
+        "name": "shattered-pixel-dungeon",
+        "description": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
+        "url": "https://github.com/00-Evan/shattered-pixel-dungeon",
+        "language": "Java",
+        "stars": 5136,
+        "forks": 1206,
+        "created_at": "2014-07-31T21:56:31Z",
+        "updated_at": "2025-04-07T07:08:29Z",
+        "topics": [
+            "android",
+            "game",
+            "game-development",
+            "ios",
+            "java",
+            "libgdx"
+        ],
+        "quality_score": 0.9000000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-03-20T18:45:26Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/74c4fa354c215e3da7ace84a723cac8e01569111b927d6ca84dcc9b11599374a/00-Evan/shattered-pixel-dungeon"
+        ],
+        "homepage": "https://shatteredpixel.com/shatteredpd/",
+        "readme_summary": "Shattered Pixel Dungeon is an open-source, cross-platform roguelike game based on Pixel Dungeon. It features randomized levels, enemies, and items, providing a unique gameplay experience each time. The repository provides the source code for users to play, modify, and compile the game for various platforms.",
+        "key_features": [
+            "Open-source",
+            "Roguelike dungeon crawler",
+            "Randomized levels and enemies",
+            "Hundreds of items to collect and use",
+            "Cross-platform (Android, iOS, Desktop)"
+        ],
+        "primary_use_case": "Playing and modifying a traditional roguelike game.",
+        "open_issues": 4,
+        "cover_image_prompt": "A lone adventurer carefully navigating a multi-layered dungeon, each level procedurally generated and filled with diverse monsters and treasures. The adventurer holds a glowing pixelated sword and shield, representing the game's roguelike nature. Above the dungeon, a subtle interface displays code snippets and game parameters, connecting the adventure to its open-source roots. The scene is set in a dimly lit, cavernous environment with a sense of mystery and exploration. The composition is isometric, providing a clear view of the dungeon's layout. The image should be in a 3D isometric illustration style with vibrant colors and sharp details."
+    },
+    {
+        "id": 903631539,
+        "name": "squish",
+        "description": "Squish - Batch Browser-based Image Compression",
+        "url": "https://github.com/addyosmani/squish",
+        "language": "TypeScript",
+        "stars": 858,
+        "forks": 82,
+        "created_at": "2024-12-15T05:43:22Z",
+        "updated_at": "2025-04-07T03:34:30Z",
+        "topics": [
+            "batch",
+            "batch-processing",
+            "image-compression",
+            "image-processing"
+        ],
+        "quality_score": 0.7000000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-01-16T02:56:23Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/903631539/4ccbb78c-4501-4749-ad9c-81a81f2e5f71"
+        ],
+        "homepage": "https://squish.addy.ie",
+        "readme_summary": "Squish is a browser-based image compression tool that allows users to compress images in various formats (AVIF, JPEG, JPEG XL, PNG, and WebP) without server uploads. It supports batch processing, format conversion, and quality adjustment, leveraging WebAssembly for high-performance image optimization.",
+        "key_features": [
+            "Browser-based compression",
+            "Batch processing",
+            "Multiple image format support (AVIF, JPEG, JPEG XL, PNG, WebP)",
+            "Quality adjustment",
+            "Format conversion"
+        ],
+        "primary_use_case": "Batch browser-based image compression and format conversion.",
+        "open_issues": 8,
+        "cover_image_prompt": "Imagine a skilled artisan meticulously sculpting a collection of raw stone blocks (various image formats) into perfectly polished gems (compressed images) using a magical browser-based workstation. The artisan carefully adjusts dials representing quality settings, while a real-time preview screen displays the transformation. Digital particles representing compression algorithms swirl around the workstation, enhancing the process. The scene is set in a bright, modern studio with a clean, focused composition. The image should be in a 3D isometric illustration style with vibrant colors and sharp details, subtly incorporating the 'Squish' logo."
     }
 ]

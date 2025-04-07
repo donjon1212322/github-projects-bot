@@ -1,26 +1,26 @@
 {
-    "article": "Hey fellow developers! Ever wished you had a super-fast, lightweight browser specifically designed for web automation?  Say hello to Lightpanda! This open-source project is a game-changer for anyone working with headless browsers, especially if you're dealing with large-scale tasks like AI agent development, LLM training, web scraping, or automated testing. Forget about the memory hog that is Chrome; Lightpanda boasts an incredibly low memory footprint – a mind-blowing 9 times less than Chrome!  That's massive savings, especially when running numerous instances.\n\nWhat makes Lightpanda so special?  It's built for speed and efficiency.  We're talking 11 times faster execution than Chrome in some benchmarks.  Imagine the time you'll save!  This is partly achieved through its lean architecture. It focuses on headless usage, meaning it runs without a graphical user interface, making it perfect for background tasks.  It supports Javascript execution and is progressively adding support for Web APIs, making it compatible with popular automation tools like Playwright and Puppeteer. The integration with these tools is still a work in progress (WIP), but the progress is exciting!\n\nLightpanda's core functionality revolves around fetching and processing web pages. You can use it to fetch the content of a webpage and dump it, similar to using `curl` but with the added benefit of Javascript execution.  Furthermore, Lightpanda includes a built-in CDP (Chrome DevTools Protocol) server.  This allows you to connect and control it using existing Puppeteer or Playwright scripts with minimal changes. This is especially great for developers who are already familiar with these tools. No need to rewrite your existing automation scripts from scratch! Just point your automation tool to Lightpanda's CDP server and you are good to go.\n\nBut the benefits don't stop there.  Lightpanda's low resource consumption translates directly to cost savings, particularly when running automation tasks on cloud servers. Imagine the reduction in your cloud bills! The instant startup time further enhances productivity, letting you get started with your automation tasks immediately. While still in beta, the project is actively developed and updated, promising an even more robust and feature-rich browser in the future.\n\nInstallation is straightforward.  Nightly builds are available for Linux and MacOS, and the project provides clear instructions on how to get up and running in minutes.  The project's documentation provides a simple guide to fetch a URL, start the CDP server, and connect to it using puppeteer.  The team behind Lightpanda is actively working on improving compatibility with various websites and adding more Web APIs. Give it a try and see how much faster and more efficiently you can run your web automation tasks!",
+    "article": "Hey fellow developers! Ever wished you could effortlessly manage and scale your PostgreSQL databases?  Meet PgDog, a game-changing project that's making waves in the database world.  Think of it as a supercharged, multi-talented assistant for your PostgreSQL setup.  It tackles a bunch of common headaches, from load balancing and health checks to the often-daunting task of database sharding.\n\nPgDog acts as a smart intermediary between your applications and your PostgreSQL databases.  It's written in Rust, meaning it's blazing fast and incredibly robust.  Instead of connecting directly to individual database instances, your apps connect to PgDog.  PgDog then intelligently routes your queries to the most appropriate database, ensuring optimal performance and high availability.  This is especially useful if you're working with multiple PostgreSQL replicas or have implemented sharding.\n\nOne of PgDog's standout features is its load balancing capabilities.  It can distribute incoming queries across multiple database instances using various strategies, ensuring no single database gets overloaded.  It also performs real-time health checks on your databases. If a database goes down, PgDog automatically reroutes traffic to healthy instances, minimizing downtime and maximizing application availability.  This is like having a built-in failover system that keeps your application running smoothly, even during unexpected outages.\n\nBut PgDog doesn't stop there.  It also shines when it comes to sharding.  Sharding is a technique that splits your database across multiple smaller databases, improving performance and scalability.  PgDog makes sharding incredibly easy, automatically routing queries to the correct shard based on the data you're accessing.  It even handles the complexities of cross-shard queries, assembling results from multiple shards seamlessly, all without requiring any changes to your application code. This means you can scale your database horizontally without major architectural refactoring.\n\nFurthermore, PgDog boasts efficient transaction pooling.  This minimizes the number of database connections needed, allowing you to handle a massive number of concurrent client connections without bogging down your database servers.  Think of it as a smart connection manager that optimizes resource usage.  This is crucial for applications with a large number of users or high traffic loads.\n\nFinally, PgDog is incredibly configurable.  You can fine-tune its behavior to perfectly match your needs, all without requiring restarts or interrupting your database connections.  The configuration options are well-documented and user-friendly, making it easy to customize PgDog to your specific requirements.  This means less downtime, more control, and a smoother development experience.\n\nIn short, PgDog is a powerful and versatile tool that simplifies database management and enhances scalability.  It's easy to set up, highly efficient, and provides a robust solution for a wide range of database challenges.  If you're working with PostgreSQL and want to take your database management to the next level, PgDog is definitely worth checking out!",
     "key_takeaways": [
-        "Ultra-low memory footprint (9x less than Chrome)",
-        "Exceptionally fast execution (11x faster than Chrome)",
-        "Instant startup",
-        "Compatible with Playwright and Puppeteer via CDP",
-        "Cost-effective for large-scale automation"
+        "Effortless PostgreSQL management and scaling",
+        "Intelligent query routing for optimal performance",
+        "Built-in load balancing and failover for high availability",
+        "Simplified database sharding for improved scalability",
+        "Efficient transaction pooling for optimized resource usage"
     ],
     "tags": [
-        "headless browser",
-        "web automation",
-        "puppeteer",
-        "playwright",
-        "open-source"
+        "PostgreSQL",
+        "database",
+        "sharding",
+        "load balancing",
+        "Rust"
     ],
-    "title": "Lightpanda: The Blazing-Fast Headless Browser You Need!",
-    "stars": 7930,
-    "forks": 178,
-    "open_issues": 62,
-    "languages": "Zig",
-    "readme_summary": "Lightpanda Browser is an open-source, headless browser designed for AI and automation tasks. It emphasizes fast execution, low memory footprint, and compatibility with tools like Playwright and Puppeteer through the Chrome DevTools Protocol (CDP). It's intended for use cases such as AI agent development, LLM training, web scraping, and testing.",
-    "project_id": 598667202,
-    "url": "https://github.com/lightpanda-io/browser",
-    "description": "Lightpanda: the headless browser designed for AI and automation"
+    "title": "PgDog: Your New Best Friend for PostgreSQL Management",
+    "stars": 588,
+    "forks": 10,
+    "open_issues": 9,
+    "languages": "Rust",
+    "readme_summary": "PgDog is a Rust-based transaction pooler and logical replication manager designed for horizontal scaling of PostgreSQL. It offers features like load balancing, transaction pooling, and automatic sharding, enabling efficient management of numerous databases and connections. PgDog supports healthchecks, failover, and runtime configuration, ensuring high availability and adaptability.",
+    "project_id": 909145061,
+    "url": "https://github.com/pgdogdev/pgdog",
+    "description": "Horizontal scaling for PostgreSQL with automatic sharding."
 }
