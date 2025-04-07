@@ -1,7 +1,0 @@
-{
-    "project_id": 59782406,
-    "content": "✨ <b>CloudFail</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDiscovering the real IP addresses of servers hidden behind Cloudflare.\n<br>\n✨ <b>Key Features:</b>\n• Misconfigured DNS scan using DNSDumpster.com\n• Crimeflare.com database scan\n• Bruteforce scan over 2500 subdomains\n• Tor support for anonymized scanning\n<br>\n📖 <b>Summary:</b>\nCloudFail is a reconnaissance tool designed to uncover the original IP addresses of servers protected by Cloudflare. It achieves this by employing techniques such as scanning for misconfigured DNS records, searching the Crimeflare.com database, and performing brute-force subdomain enumeration, optionally using Tor for anonymity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/m0rtem/CloudFail?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/47f2b3f928bbe497940e0ee4f8a3827dcb6757c7196e57c6427e69e739e3b39c/m0rtem/CloudFail",
-    "platform": "telegram",
-    "quality_score": 0.55
-}
