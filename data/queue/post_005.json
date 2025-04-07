@@ -1,7 +1,0 @@
-{
-    "project_id": 912948166,
-    "content": "🔥 <b>RustPotato</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nPrivilege escalation on Windows systems by abusing SeImpersonatePrivilege.\n<br>\n✨ <b>Key Features:</b>\n• TCP-based Reverse Shell\n• Indirect NTAPI\n<br>\n📖 <b>Summary:</b>\nRustPotato is a Rust-based privilege escalation tool that implements the GodPotato technique. It leverages DCOM and RPC to exploit SeImpersonatePrivilege and gain SYSTEM privileges, featuring a TCP-based reverse shell and indirect NTAPI calls for token manipulation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/safedv/RustPotato?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/d788b8024c1497a37b5463a74206b3d3815d55a786dbc89d2e35e458ceb2ee67/safedv/RustPotato",
-    "platform": "telegram",
-    "quality_score": 0.3
-}
