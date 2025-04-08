@@ -1,65 +1,72 @@
 [
     {
-        "project_id": 958900638,
-        "content": "💡 <b>choof</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging files efficiently from the command line.\n<br>\n✨ <b>Key Features:</b>\n• Detailed File Info (size, creation/modification dates, permissions, hashes)\n• File Operations (delete, rename, open)\n• User-Friendly Interface\n• Keyboard Shortcuts\n<br>\n📖 <b>Summary:</b>\nChoof is a CLI tool for Linux that provides a user-friendly interface for viewing and managing file information. It allows users to inspect file details, delete, rename, and open files directly from the terminal using simple keybindings.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/elParadigm/choof?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9bbf50dc8f0dfe7c99d5e7182b5b568bb7195e780aec1d5dfcef1f89d28829bc/elParadigm/choof",
+        "project_id": 847536268,
+        "content": "🌟 <b>ggh</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nQuickly recall and execute SSH sessions from history or SSH config file.\n<br>\n✨ <b>Key Features:</b>\n• Recalls SSH sessions\n• Searches SSH config file\n• Interactive list of previous sessions\n• Interactive filtered list of SSH config listings\n• Non-interactive list of history and config\n<br>\n📖 <b>Summary:</b>\nGGH is a Go-based utility that helps users quickly recall and execute SSH sessions. It allows users to search their SSH history and SSH config file, providing an interactive list of previous sessions and config listings. GGH acts as a wrapper around SSH, streamlining the process of connecting to remote servers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/byawitz/ggh?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/847536268/2d789280-a752-4a1d-a53c-0e834801e475",
         "platform": "telegram",
-        "quality_score": 0.6499999999999999
+        "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 959972299,
-        "content": "✨ <b>regname</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nBatch renaming files in a directory using a terminal-based interface.\n<br>\n✨ <b>Key Features:</b>\n• Mass renaming of files\n• Terminal User Interface (TUI)\n• Interactive selection of files to rename\n• Pattern matching for file selection\n<br>\n📖 <b>Summary:</b>\nRegname is a Rust-based tool that provides a terminal user interface for mass renaming files. It allows users to interactively select files based on a pattern and rename them in batch, offering a convenient way to manage large numbers of files.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/linkdd/regname?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e2b743518b1b9c008b3b8783f4ab3a53e9ca03f6cfcc8499da269008871653a0/linkdd/regname",
+        "project_id": 957782869,
+        "content": "🚀 <b>KeyForge3D</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nReplicating keys using 3D printing based on a photo.\n<br>\n✨ <b>Key Features:</b>\n• Key Shape Extraction from photo\n• Bitting Analysis\n• 3D Model Generation\n• STL Export\n• User-Friendly GUI\n<br>\n📖 <b>Summary:</b>\nKeyForge3D is an application that allows users to create 3D-printable models of keys from photographs. It extracts the key's shape, analyzes the bitting pattern, generates a 3D model, and exports it as an STL file, making it useful for locksmiths and hobbyists who need to quickly replicate keys.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/makalin/KeyForge3D?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a3b95e1b3b0ed6adc8df1c9f6b5edabb09d3738ba9caca3cc83050f3304d490b/makalin/KeyForge3D",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 958975943,
+        "content": "✨ <b>bird-photos-classifier</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nOrganizing bird photos by species using AI.\n<br>\n✨ <b>Key Features:</b>\n• Identifies bird species in photos using Google's Gemini AI\n• Organizes photos into folders based on identified bird species\n<br>\n📖 <b>Summary:</b>\nThis repository provides a Python script that leverages Google's Gemini AI to identify bird species within photographs. It then automatically organizes these photos into distinct folders, each named after the identified bird species. This tool is particularly useful for bird photographers who need assistance in managing and categorizing their extensive collections of bird photos.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/madhavanmalolan/bird-photos-classifier?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/dff227102155dd00f6f3246be348c6986bccc0f5961a5d3587472f554b8b08e9/madhavanmalolan/bird-photos-classifier",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 33783491,
-        "content": "🚀 <b>reaver-wps-fork-t6x</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nRecovering WPA/WPA2 passphrases by exploiting vulnerabilities in Wi-Fi Protected Setup (WPS) implementations.\n<br>\n✨ <b>Key Features:</b>\n• Brute-force attack against Wifi Protected Setup (WPS) registrar PINs\n• Recovery of WPA/WPA2 passphrases\n• Offline Pixie Dust attack\n• Bug fixes and new features compared to original Reaver\n• Compatibility with various access points and WPS implementations\n<br>\n📖 <b>Summary:</b>\nThe reaver-wps-fork-t6x repository is a community-maintained fork of the Reaver tool, designed for brute-forcing WPS PINs to recover WPA/WPA2 passphrases. It includes bug fixes, new features like the Pixie Dust attack, and aims to be a robust solution for testing the security of WPS implementations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/t6x/reaver-wps-fork-t6x?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/dba77533bcf156a380e5b28d6013ea7bc6d9e880d80351fab9f20929e4863de0/t6x/reaver-wps-fork-t6x",
+        "project_id": 836259792,
+        "content": "💡 <b>netnscli</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and managing local network testbeds for testing and experimentation.\n<br>\n✨ <b>Key Features:</b>\n• Creates local network testbeds\n• Manages network namespaces\n• Uses YAML configurations\n• Generates shell scripts from YAML\n<br>\n📖 <b>Summary:</b>\nNetNSCLI is a Go-based CLI tool that simplifies the creation and management of local network testbeds. It uses YAML configurations to define network namespaces and their interconnections, allowing users to easily create, delete, and manage complex network environments for testing and development purposes. It can also generate shell scripts from YAML configurations for manual setup.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pinoOgni/netnscli?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/836259792/0ab3f486-43ff-4504-8a8d-c9db409ff9c7",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.65
     },
     {
-        "project_id": 59782406,
-        "content": "✨ <b>CloudFail</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDiscovering the real IP addresses of servers hidden behind Cloudflare.\n<br>\n✨ <b>Key Features:</b>\n• Misconfigured DNS scan using DNSDumpster.com\n• Crimeflare.com database scan\n• Bruteforce scan over 2500 subdomains\n• Tor support for anonymized scanning\n<br>\n📖 <b>Summary:</b>\nCloudFail is a reconnaissance tool designed to uncover the original IP addresses of servers protected by Cloudflare. It achieves this by employing techniques such as scanning for misconfigured DNS records, searching the Crimeflare.com database, and performing brute-force subdomain enumeration, optionally using Tor for anonymity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/m0rtem/CloudFail?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/47f2b3f928bbe497940e0ee4f8a3827dcb6757c7196e57c6427e69e739e3b39c/m0rtem/CloudFail",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 909145061,
-        "content": "🌟 <b>pgdog</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nHorizontal scaling of PostgreSQL databases with automatic sharding.\n<br>\n✨ <b>Key Features:</b>\n• Load balancer with healthchecks and failover\n• Transaction pooling\n• Sharding with COPY command support\n• Logical replication\n• Runtime configuration\n<br>\n📖 <b>Summary:</b>\nPgDog is a Rust-based transaction pooler and logical replication manager designed for horizontal scaling of PostgreSQL. It offers features like load balancing, transaction pooling, and automatic sharding, enabling efficient management of numerous databases and connections. PgDog supports healthchecks, failover, and runtime configuration, ensuring high availability and adaptability.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pgdogdev/pgdog?embed=0\">View Project</a>\n• <a href=\"https://pgdog.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b75cb9fa2e4ce1b12692b9b0c08ea576dbb4a4ab29316d08046c272f304296f3/pgdogdev/pgdog",
+        "project_id": 15019962,
+        "content": "💡 <b>tldr</b> | Markdown\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding concise and practical examples for command-line tools to simplify their usage and make them more accessible to users of all levels.\n<br>\n✨ <b>Key Features:</b>\n• Community-maintained help pages for command-line tools\n• Simpler and more approachable alternative to traditional man pages\n<br>\n📖 <b>Summary:</b>\nThe tldr-pages repository offers a community-driven collection of simplified help pages for command-line tools, serving as a more approachable alternative to traditional man pages. It provides practical examples for common commands across various operating systems, accessible through multiple client options, making command-line usage easier for both beginners and experienced users.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tldr-pages/tldr?embed=0\">View Project</a>\n• <a href=\"https://tldr.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/15019962/aa6a8d00-b4a3-11ea-92f4-5cca1da75be2",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 912948166,
-        "content": "🔥 <b>RustPotato</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nPrivilege escalation on Windows systems by abusing SeImpersonatePrivilege.\n<br>\n✨ <b>Key Features:</b>\n• TCP-based Reverse Shell\n• Indirect NTAPI\n<br>\n📖 <b>Summary:</b>\nRustPotato is a Rust-based privilege escalation tool that implements the GodPotato technique. It leverages DCOM and RPC to exploit SeImpersonatePrivilege and gain SYSTEM privileges, featuring a TCP-based reverse shell and indirect NTAPI calls for token manipulation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/safedv/RustPotato?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d788b8024c1497a37b5463a74206b3d3815d55a786dbc89d2e35e458ceb2ee67/safedv/RustPotato",
+        "project_id": 917864037,
+        "content": "🚀 <b>isd</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nInteractive management of systemd units.\n<br>\n✨ <b>Key Features:</b>\n• Quickly switch between system and user units\n• Fuzzy search units\n• Auto refresh previews\n• Quickly open outputs in a pager or editor\n• Auto sudo prefixing if required\n<br>\n📖 <b>Summary:</b>\nThe `isd` repository provides an interactive TUI for managing systemd units, offering features like fuzzy searching, auto-refreshing previews, and customizable keybindings. It simplifies systemd management for both power users and newcomers by providing a more intuitive and efficient way to interact with systemd.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/isd-project/isd?embed=0\">View Project</a>\n• <a href=\"https://isd-project.github.io/isd/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7b888b00147055af91a73f886f5a27c38f137129796d012772708742269d1501/isd-project/isd",
         "platform": "telegram",
-        "quality_score": 0.3
+        "quality_score": 0.95
     },
     {
-        "project_id": 133827809,
-        "content": "🔥 <b>tbls</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDocumenting databases in a CI-friendly manner.\n<br>\n✨ <b>Key Features:</b>\n• Automatic database documentation in GFM format\n• Single binary for CI-friendliness\n• Support for many databases\n• Database linting capabilities\n<br>\n📖 <b>Summary:</b>\ntbls is a CI-friendly tool written in Go that automatically documents databases in various formats, including GFM. It supports a wide range of databases and functions as a linter, ensuring database structure quality. Its single-binary design makes it ideal for continuous integration environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/k1LoW/tbls?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/133827809/40610100-6fdf-11e9-9f08-7f73d6741c26",
+        "project_id": 724970183,
+        "content": "✨ <b>FlexibleBottomSheet</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating flexible and customizable bottom sheet components in Jetpack Compose Multiplatform applications.\n<br>\n✨ <b>Key Features:</b>\n• Segmented sizing\n• Non-modal type\n• Interaction behind the bottom sheet\n• Customizable sheet sizes\n• Sheet state monitoring\n<br>\n📖 <b>Summary:</b>\nFlexibleBottomSheet is a Kotlin library that provides an advanced Compose Multiplatform bottom sheet implementation. It offers features like segmented sizing, a non-modal behavior allowing interaction behind the sheet, and extensive customization options for sheet sizes and state management. The library is designed for Android applications using Jetpack Compose and Kotlin Multiplatform.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/skydoves/FlexibleBottomSheet?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/724970183/09de9bcc-777e-4ee9-959c-0b2205dc8be6",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
+        "quality_score": 0.8500000000000001
     },
     {
-        "project_id": 22486533,
-        "content": "✨ <b>shattered-pixel-dungeon</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying and modifying a traditional roguelike game.\n<br>\n✨ <b>Key Features:</b>\n• Open-source\n• Roguelike dungeon crawler\n• Randomized levels and enemies\n• Hundreds of items to collect and use\n• Cross-platform (Android, iOS, Desktop)\n<br>\n📖 <b>Summary:</b>\nShattered Pixel Dungeon is an open-source, cross-platform roguelike game based on Pixel Dungeon. It features randomized levels, enemies, and items, providing a unique gameplay experience each time. The repository provides the source code for users to play, modify, and compile the game for various platforms.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/00-Evan/shattered-pixel-dungeon?embed=0\">View Project</a>\n• <a href=\"https://shatteredpixel.com/shatteredpd/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/74c4fa354c215e3da7ace84a723cac8e01569111b927d6ca84dcc9b11599374a/00-Evan/shattered-pixel-dungeon",
-        "platform": "telegram",
-        "quality_score": 0.9000000000000001
-    },
-    {
-        "project_id": 903631539,
-        "content": "🌟 <b>squish</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBatch browser-based image compression and format conversion.\n<br>\n✨ <b>Key Features:</b>\n• Browser-based compression\n• Batch processing\n• Multiple image format support (AVIF, JPEG, JPEG XL, PNG, WebP)\n• Quality adjustment\n• Format conversion\n<br>\n📖 <b>Summary:</b>\nSquish is a browser-based image compression tool that allows users to compress images in various formats (AVIF, JPEG, JPEG XL, PNG, and WebP) without server uploads. It supports batch processing, format conversion, and quality adjustment, leveraging WebAssembly for high-performance image optimization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/addyosmani/squish?embed=0\">View Project</a>\n• <a href=\"https://squish.addy.ie?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/903631539/4ccbb78c-4501-4749-ad9c-81a81f2e5f71",
+        "project_id": 90507660,
+        "content": "🚀 <b>java-interview</b> | Batchfile\n<br>\n🎯 <b>Primary Use Case:</b>\nPreparing for Java developer interviews\n<br>\n✨ <b>Key Features:</b>\n• Java interview questions and answers\n• Covers topics like OOP, JVM, Java Core, Collections, Multithreading, Databases, and more\n• Includes questions on design patterns, web technologies, and testing\n<br>\n📖 <b>Summary:</b>\nThis repository provides a comprehensive collection of Java interview questions and answers, covering a wide range of topics relevant to Java development. It serves as a valuable resource for Java developers preparing for job interviews, helping them to review key concepts and practice answering common interview questions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/enhorse/java-interview?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e0fdcebc909a922705879550e1241902954e67d0a138a890ce67a2cc6bf345fd/enhorse/java-interview",
         "platform": "telegram",
         "quality_score": 0.7000000000000001
+    },
+    {
+        "project_id": 855638312,
+        "content": "✨ <b>segmantix</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling granular data access control on the user/role/tenant level in Java applications.\n<br>\n✨ <b>Key Features:</b>\n• Multi-Tenancy Support\n• Role-Based Access Control\n• User-Level Permissions\n• Instance Group Management\n• Wildcard Access\n<br>\n📖 <b>Summary:</b>\nSegmantiX is a Java library that provides robust multi-tenancy and data access control. It offers fine-grained security controls for managing permissions across users, roles, tenants, and instance groups. The library supports features like wildcard access, restricted data access, and operation-specific access, making it suitable for applications requiring secure and isolated environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wizzdi/segmantix?embed=0\">View Project</a>\n• <a href=\"https://wizzdi.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/750ba9d102a93a092e5330d4fc21f0f784ba050ad6add94abebbb8b136a08900/wizzdi/segmantix",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 5389577,
+        "content": "🌟 <b>jsfuck</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEsoteric and educational programming using a limited character set.\n<br>\n✨ <b>Key Features:</b>\n• Write JavaScript code using only six characters: `[]()!+`\n• Can be run in Node.js environment\n• Educational programming style\n<br>\n📖 <b>Summary:</b>\nJSFuck is an esoteric JavaScript programming style that allows developers to write and execute code using only six characters. It is intended for educational purposes and can be run in environments like Node.js. The project demonstrates the flexibility and underlying mechanics of the JavaScript language.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aemkei/jsfuck?embed=0\">View Project</a>\n• <a href=\"jsfuck.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c2d8f87930bb99d05f0858806a88144a9accf9da523a4697a8b317b3b3081f80/aemkei/jsfuck",
+        "platform": "telegram",
+        "quality_score": 0.8500000000000001
     }
 ]

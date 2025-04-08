@@ -1,325 +1,357 @@
 [
     {
-        "id": 958900638,
-        "name": "choof",
-        "description": "Choof is a fast and minimal CLI tool for managing files, built with Bubble Tea for Linux",
-        "url": "https://github.com/elParadigm/choof",
+        "id": 847536268,
+        "name": "ggh",
+        "description": "Recall your SSH sessions (also search your SSH config file)",
+        "url": "https://github.com/byawitz/ggh",
         "language": "Go",
-        "stars": 14,
-        "forks": 1,
-        "created_at": "2025-04-02T00:22:12Z",
-        "updated_at": "2025-04-07T08:27:47Z",
-        "topics": [],
-        "quality_score": 0.6499999999999999,
+        "stars": 663,
+        "forks": 20,
+        "created_at": "2024-08-26T03:51:16Z",
+        "updated_at": "2025-04-08T09:25:18Z",
+        "topics": [
+            "ggh",
+            "go",
+            "ssh"
+        ],
+        "quality_score": 0.9500000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2025-04-07T00:58:07Z",
+        "last_commit_date": "2025-03-27T18:29:02Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/9bbf50dc8f0dfe7c99d5e7182b5b568bb7195e780aec1d5dfcef1f89d28829bc/elParadigm/choof"
+            "https://repository-images.githubusercontent.com/847536268/2d789280-a752-4a1d-a53c-0e834801e475"
         ],
-        "homepage": null,
-        "readme_summary": "Choof is a CLI tool for Linux that provides a user-friendly interface for viewing and managing file information. It allows users to inspect file details, delete, rename, and open files directly from the terminal using simple keybindings.",
+        "homepage": "",
+        "readme_summary": "GGH is a Go-based utility that helps users quickly recall and execute SSH sessions. It allows users to search their SSH history and SSH config file, providing an interactive list of previous sessions and config listings. GGH acts as a wrapper around SSH, streamlining the process of connecting to remote servers.",
         "key_features": [
-            "Detailed File Info (size, creation/modification dates, permissions, hashes)",
-            "File Operations (delete, rename, open)",
-            "User-Friendly Interface",
-            "Keyboard Shortcuts"
+            "Recalls SSH sessions",
+            "Searches SSH config file",
+            "Interactive list of previous sessions",
+            "Interactive filtered list of SSH config listings",
+            "Non-interactive list of history and config"
         ],
-        "primary_use_case": "Managing files efficiently from the command line.",
-        "open_issues": 0,
-        "cover_image_prompt": "A meticulous librarian, surrounded by towering shelves of disorganized files, uses a special magnifying glass to instantly sort and organize them. The magnifying glass projects a clean, colorful UI onto each file, displaying key metadata like size, dates, and permissions. As the librarian examines each file, they can effortlessly rename, delete, or open it with simple gestures. Subtle digital particles float around the files, representing the underlying data. The scene is set in a bright, modern library with a clean, focused composition. The image should be in a flat design style with clear iconography and a vibrant color scheme."
+        "primary_use_case": "Quickly recall and execute SSH sessions from history or SSH config file.",
+        "open_issues": 10,
+        "cover_image_prompt": "A seasoned librarian, surrounded by towering shelves filled with SSH configuration files represented as ancient tomes, effortlessly retrieves a specific session from memory. The librarian uses a glowing 'GGH' bookmark to instantly locate the correct tome, which then projects a holographic terminal window displaying the SSH session details. Subtle digital particles flow from the bookmark, connecting the physical books to the digital representation. The scene is set in a grand, yet modern library with soft, warm lighting. The image should be in a 3D isometric illustration style with rich details and a slightly whimsical feel."
     },
     {
-        "id": 959972299,
-        "name": "regname",
-        "description": "Mass renamer TUI written in Rust",
-        "url": "https://github.com/linkdd/regname",
-        "language": "Rust",
-        "stars": 71,
-        "forks": 2,
-        "created_at": "2025-04-03T16:45:56Z",
-        "updated_at": "2025-04-07T06:54:53Z",
-        "topics": [
-            "rust",
-            "terminal",
-            "tool",
-            "tui"
+        "id": 957782869,
+        "name": "KeyForge3D",
+        "description": "KeyForge3D is an app that turns a photo of a key into a 3D-printable STL file. Ideal for locksmiths and hobbyists, it analyzes the key's bitting pattern using image processing and generates an accurate 3D model for quick replication.",
+        "url": "https://github.com/makalin/KeyForge3D",
+        "language": "Python",
+        "stars": 68,
+        "forks": 9,
+        "created_at": "2025-03-31T05:55:17Z",
+        "updated_at": "2025-04-08T10:01:59Z",
+        "topics": [],
+        "quality_score": 0.7,
+        "contributors_count": 0,
+        "last_commit_date": "2025-04-04T03:30:09Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/a3b95e1b3b0ed6adc8df1c9f6b5edabb09d3738ba9caca3cc83050f3304d490b/makalin/KeyForge3D"
         ],
+        "homepage": null,
+        "readme_summary": "KeyForge3D is an application that allows users to create 3D-printable models of keys from photographs. It extracts the key's shape, analyzes the bitting pattern, generates a 3D model, and exports it as an STL file, making it useful for locksmiths and hobbyists who need to quickly replicate keys.",
+        "key_features": [
+            "Key Shape Extraction from photo",
+            "Bitting Analysis",
+            "3D Model Generation",
+            "STL Export",
+            "User-Friendly GUI",
+            "Scalability"
+        ],
+        "primary_use_case": "Replicating keys using 3D printing based on a photo.",
+        "open_issues": 1,
+        "cover_image_prompt": "A skilled artisan meticulously crafting a key from a digital blueprint displayed on a holographic screen. The artisan uses specialized tools that convert the digital design into a physical key with precise bitting. The scene is set in a modern workshop filled with 3D printers and digital calipers. Subtle UI elements on the screen show the key's bitting code and 3D model. The workshop has soft, diffused lighting with a focus on the artisan's hands and the key being crafted. The image should be in a detailed digital painting style with realistic textures and vibrant colors."
+    },
+    {
+        "id": 958975943,
+        "name": "bird-photos-classifier",
+        "description": null,
+        "url": "https://github.com/madhavanmalolan/bird-photos-classifier",
+        "language": "Python",
+        "stars": 5,
+        "forks": 0,
+        "created_at": "2025-04-02T04:17:49Z",
+        "updated_at": "2025-04-08T03:43:53Z",
+        "topics": [],
         "quality_score": 0.44999999999999996,
         "contributors_count": 0,
-        "last_commit_date": "2025-04-03T16:46:23Z",
+        "last_commit_date": "2025-04-05T03:04:43Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/e2b743518b1b9c008b3b8783f4ab3a53e9ca03f6cfcc8499da269008871653a0/linkdd/regname"
-        ],
-        "homepage": "",
-        "readme_summary": "Regname is a Rust-based tool that provides a terminal user interface for mass renaming files. It allows users to interactively select files based on a pattern and rename them in batch, offering a convenient way to manage large numbers of files.",
-        "key_features": [
-            "Mass renaming of files",
-            "Terminal User Interface (TUI)",
-            "Interactive selection of files to rename",
-            "Pattern matching for file selection"
-        ],
-        "primary_use_case": "Batch renaming files in a directory using a terminal-based interface.",
-        "open_issues": 0,
-        "cover_image_prompt": "A skilled artisan meticulously reshaping a collection of clay pots on a potter's wheel. Each pot is labeled with a different file name, and the artisan carefully adjusts their forms to match a master template displayed on a nearby screen. The screen shows a simple user interface with input fields for 'Match' and 'Rename'. Digital particles swirl around the pots, representing the transformation process. The scene is set in a bright, modern workshop with natural lighting. The image should be in a flat design style with clear iconography and a vibrant color scheme."
-    },
-    {
-        "id": 33783491,
-        "name": "reaver-wps-fork-t6x",
-        "description": null,
-        "url": "https://github.com/t6x/reaver-wps-fork-t6x",
-        "language": "C",
-        "stars": 1781,
-        "forks": 419,
-        "created_at": "2015-04-11T16:36:37Z",
-        "updated_at": "2025-04-07T09:26:09Z",
-        "topics": [],
-        "quality_score": 0.55,
-        "contributors_count": 0,
-        "last_commit_date": "2024-12-12T14:35:48Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/dba77533bcf156a380e5b28d6013ea7bc6d9e880d80351fab9f20929e4863de0/t6x/reaver-wps-fork-t6x"
+            "https://opengraph.githubassets.com/dff227102155dd00f6f3246be348c6986bccc0f5961a5d3587472f554b8b08e9/madhavanmalolan/bird-photos-classifier"
         ],
         "homepage": null,
-        "readme_summary": "The reaver-wps-fork-t6x repository is a community-maintained fork of the Reaver tool, designed for brute-forcing WPS PINs to recover WPA/WPA2 passphrases. It includes bug fixes, new features like the Pixie Dust attack, and aims to be a robust solution for testing the security of WPS implementations.",
+        "readme_summary": "This repository provides a Python script that leverages Google's Gemini AI to identify bird species within photographs. It then automatically organizes these photos into distinct folders, each named after the identified bird species. This tool is particularly useful for bird photographers who need assistance in managing and categorizing their extensive collections of bird photos.",
         "key_features": [
-            "Brute-force attack against Wifi Protected Setup (WPS) registrar PINs",
-            "Recovery of WPA/WPA2 passphrases",
-            "Offline Pixie Dust attack",
-            "Bug fixes and new features compared to original Reaver",
-            "Compatibility with various access points and WPS implementations"
+            "Identifies bird species in photos using Google's Gemini AI",
+            "Organizes photos into folders based on identified bird species"
         ],
-        "primary_use_case": "Recovering WPA/WPA2 passphrases by exploiting vulnerabilities in Wi-Fi Protected Setup (WPS) implementations.",
-        "open_issues": 22,
-        "cover_image_prompt": "A locksmith meticulously picking a complex lock on a Wi-Fi router, revealing a treasure chest overflowing with WPA/WPA2 passphrases. The locksmith uses specialized tools emitting digital particles, and small UI elements display WPS PINs being cracked. The scene is set in a brightly lit, futuristic workshop with a clean, focused composition. The image should be in a 3D isometric illustration style with vibrant colors and rich details, subtly incorporating the 'reaver-wps-fork-t6x' name on a tool."
-    },
-    {
-        "id": 59782406,
-        "name": "CloudFail",
-        "description": "Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network",
-        "url": "https://github.com/m0rtem/CloudFail",
-        "language": "Python",
-        "stars": 2326,
-        "forks": 486,
-        "created_at": "2016-05-26T20:49:20Z",
-        "updated_at": "2025-04-07T08:54:07Z",
-        "topics": [
-            "bruteforce",
-            "cloudflare",
-            "cloudflare-ip",
-            "database",
-            "ip",
-            "pentest",
-            "pentesting",
-            "python3",
-            "recon",
-            "scanner",
-            "tor"
-        ],
-        "quality_score": 0.55,
-        "contributors_count": 0,
-        "last_commit_date": "2023-12-11T16:48:14Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/47f2b3f928bbe497940e0ee4f8a3827dcb6757c7196e57c6427e69e739e3b39c/m0rtem/CloudFail"
-        ],
-        "homepage": "",
-        "readme_summary": "CloudFail is a reconnaissance tool designed to uncover the original IP addresses of servers protected by Cloudflare. It achieves this by employing techniques such as scanning for misconfigured DNS records, searching the Crimeflare.com database, and performing brute-force subdomain enumeration, optionally using Tor for anonymity.",
-        "key_features": [
-            "Misconfigured DNS scan using DNSDumpster.com",
-            "Crimeflare.com database scan",
-            "Bruteforce scan over 2500 subdomains",
-            "Tor support for anonymized scanning"
-        ],
-        "primary_use_case": "Discovering the real IP addresses of servers hidden behind Cloudflare.",
-        "open_issues": 44,
-        "cover_image_prompt": "A detective meticulously piecing together fragments of DNS records and database entries to reveal a hidden server behind a shimmering, distorted Cloudflare shield. The detective uses a magnifying glass to examine digital clues, with faint code snippets and IP addresses subtly overlaid on the scene. The background shows a cityscape partially obscured by clouds, representing the hidden infrastructure. The scene is illuminated by a single spotlight, creating a noir atmosphere. The image should be in a digital painting style with sharp details and a dark, moody color palette."
-    },
-    {
-        "id": 909145061,
-        "name": "pgdog",
-        "description": "Horizontal scaling for PostgreSQL with automatic sharding.",
-        "url": "https://github.com/pgdogdev/pgdog",
-        "language": "Rust",
-        "stars": 588,
-        "forks": 10,
-        "created_at": "2024-12-27T21:10:04Z",
-        "updated_at": "2025-04-07T08:27:20Z",
-        "topics": [
-            "load-balancer",
-            "pooler",
-            "postgresql",
-            "rust",
-            "sharding"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-04-04T15:25:20Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/b75cb9fa2e4ce1b12692b9b0c08ea576dbb4a4ab29316d08046c272f304296f3/pgdogdev/pgdog"
-        ],
-        "homepage": "https://pgdog.dev",
-        "readme_summary": "PgDog is a Rust-based transaction pooler and logical replication manager designed for horizontal scaling of PostgreSQL. It offers features like load balancing, transaction pooling, and automatic sharding, enabling efficient management of numerous databases and connections. PgDog supports healthchecks, failover, and runtime configuration, ensuring high availability and adaptability.",
-        "key_features": [
-            "Load balancer with healthchecks and failover",
-            "Transaction pooling",
-            "Sharding with COPY command support",
-            "Logical replication",
-            "Runtime configuration"
-        ],
-        "primary_use_case": "Horizontal scaling of PostgreSQL databases with automatic sharding.",
-        "open_issues": 9,
-        "cover_image_prompt": "A skilled architect meticulously managing a city skyline where each building represents a database shard. The architect uses a control panel displaying real-time traffic flow, rerouting connections to ensure smooth operations. Some buildings glow brighter, indicating higher activity, while others are dimmed for maintenance. A subtle overlay of network cables connects the buildings, symbolizing the sharding and load balancing. The scene is set at dusk with a futuristic cityscape backdrop. The image should be in a 3D isometric illustration style with vibrant colors and sharp details."
-    },
-    {
-        "id": 912948166,
-        "name": "RustPotato",
-        "description": "A Rust implementation of GodPotato — abusing SeImpersonate to gain SYSTEM privileges. Includes a TCP-based reverse shell and indirect NTAPI for various operations.",
-        "url": "https://github.com/safedv/RustPotato",
-        "language": "Rust",
-        "stars": 263,
-        "forks": 27,
-        "created_at": "2025-01-06T18:10:14Z",
-        "updated_at": "2025-04-07T10:00:44Z",
-        "topics": [
-            "offensive-security",
-            "privilege-escalation",
-            "red-team"
-        ],
-        "quality_score": 0.3,
-        "contributors_count": 0,
-        "last_commit_date": "2025-01-06T18:10:08Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/d788b8024c1497a37b5463a74206b3d3815d55a786dbc89d2e35e458ceb2ee67/safedv/RustPotato"
-        ],
-        "homepage": "",
-        "readme_summary": "RustPotato is a Rust-based privilege escalation tool that implements the GodPotato technique. It leverages DCOM and RPC to exploit SeImpersonatePrivilege and gain SYSTEM privileges, featuring a TCP-based reverse shell and indirect NTAPI calls for token manipulation.",
-        "key_features": [
-            "TCP-based Reverse Shell",
-            "Indirect NTAPI"
-        ],
-        "primary_use_case": "Privilege escalation on Windows systems by abusing SeImpersonatePrivilege.",
+        "primary_use_case": "Organizing bird photos by species using AI.",
         "open_issues": 0,
-        "cover_image_prompt": "A skilled locksmith, representing RustPotato, meticulously picks the lock of a heavily fortified vault labeled 'Windows System'. Inside the vault, glowing tokens of privilege are scattered. The locksmith holds a blueprint labeled 'SeImpersonatePrivilege' and a small screen displays 'RPCSS Connection Established'. Digital particles flow from the lock into the locksmith's tools, visualizing the exploitation process. The scene is set in a dimly lit, high-tech security room with a blue and green color scheme. The image should be in a 3D isometric illustration style with sharp focus and detailed textures."
+        "cover_image_prompt": "A birdwatcher, surrounded by a flurry of diverse bird photos, uses a magical magnifying glass powered by the Gemini AI to identify each species. As the AI identifies a bird, the photo is automatically sorted into a corresponding folder labeled with the bird's name. The scene is set in a bright, organized digital workspace with floating UI elements displaying bird names and folder structures. Small code snippets and data visualizations subtly connect the metaphor to the software. The composition is clean and focused with a vibrant color scheme. The image should be in a flat design style with clear iconography and rich details."
     },
     {
-        "id": 133827809,
-        "name": "tbls",
-        "description": "tbls is a CI-Friendly tool to document a database, written in Go.",
-        "url": "https://github.com/k1LoW/tbls",
+        "id": 836259792,
+        "name": "netnscli",
+        "description": "NetNSCLI is a lightweight Go-based CLI tool, built with Cobra, designed to create and manage local network testbeds effortlessly from YAML configurations.",
+        "url": "https://github.com/pinoOgni/netnscli",
         "language": "Go",
-        "stars": 3707,
-        "forks": 174,
-        "created_at": "2018-05-17T14:47:27Z",
-        "updated_at": "2025-04-07T08:24:40Z",
+        "stars": 23,
+        "forks": 2,
+        "created_at": "2024-07-31T13:25:53Z",
+        "updated_at": "2025-04-08T08:28:59Z",
         "topics": [
-            "bigquery",
-            "continuous-integration",
-            "database-document",
-            "database-schema",
-            "documentation-tool",
-            "dynamodb",
-            "er-diagram",
-            "excel",
-            "hacktoberfest",
-            "mariadb",
-            "markdown",
-            "mermaid",
-            "mysql",
-            "plantuml",
-            "postgresql",
-            "redshift",
-            "snowflake",
-            "spanner",
-            "sqlite",
-            "sqlserver"
+            "cli",
+            "linux",
+            "local",
+            "namespace",
+            "network"
         ],
-        "quality_score": 0.9500000000000001,
+        "quality_score": 0.65,
         "contributors_count": 0,
-        "last_commit_date": "2025-04-02T21:00:39Z",
+        "last_commit_date": "2025-02-28T16:14:50Z",
         "media_urls": [
-            "https://repository-images.githubusercontent.com/133827809/40610100-6fdf-11e9-9f08-7f73d6741c26"
+            "https://repository-images.githubusercontent.com/836259792/0ab3f486-43ff-4504-8a8d-c9db409ff9c7"
         ],
         "homepage": "",
-        "readme_summary": "tbls is a CI-friendly tool written in Go that automatically documents databases in various formats, including GFM. It supports a wide range of databases and functions as a linter, ensuring database structure quality. Its single-binary design makes it ideal for continuous integration environments.",
+        "readme_summary": "NetNSCLI is a Go-based CLI tool that simplifies the creation and management of local network testbeds. It uses YAML configurations to define network namespaces and their interconnections, allowing users to easily create, delete, and manage complex network environments for testing and development purposes. It can also generate shell scripts from YAML configurations for manual setup.",
         "key_features": [
-            "Automatic database documentation in GFM format",
-            "Single binary for CI-friendliness",
-            "Support for many databases",
-            "Database linting capabilities"
+            "Creates local network testbeds",
+            "Manages network namespaces",
+            "Uses YAML configurations",
+            "Generates shell scripts from YAML"
         ],
-        "primary_use_case": "Documenting databases in a CI-friendly manner.",
-        "open_issues": 34,
-        "cover_image_prompt": "Imagine a meticulous architect meticulously drafting blueprints for a grand library, each book representing a database schema. The architect uses a special lens that automatically translates the complex blueprints into easily understandable diagrams and documentation. Digital particles flow from the lens, forming clear, labeled ER diagrams and markdown documents that surround the architect. The library's foundation is solid and well-organized, symbolizing the robust database structure. Small UI elements display database connection strings and schema details. The scene is set in a bright, modern studio with a clean, focused composition. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+        "primary_use_case": "Creating and managing local network testbeds for testing and experimentation.",
+        "open_issues": 0,
+        "cover_image_prompt": "A skilled network engineer orchestrating a miniature city made of interconnected servers and routers on a tabletop. The engineer uses a control panel with YAML configurations displayed on a screen to effortlessly create and manage the network infrastructure. Each building represents a network namespace, and glowing data streams flow between them. The scene is set in a brightly lit, modern lab with subtle code snippets and network diagrams in the background. The image should be in 3D isometric illustration style with clean lines, vibrant colors, and a focus on clarity and ease of understanding."
     },
     {
-        "id": 22486533,
-        "name": "shattered-pixel-dungeon",
-        "description": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
-        "url": "https://github.com/00-Evan/shattered-pixel-dungeon",
-        "language": "Java",
-        "stars": 5136,
-        "forks": 1206,
-        "created_at": "2014-07-31T21:56:31Z",
-        "updated_at": "2025-04-07T07:08:29Z",
+        "id": 15019962,
+        "name": "tldr",
+        "description": "📚 Collaborative cheatsheets for console commands",
+        "url": "https://github.com/tldr-pages/tldr",
+        "language": "Markdown",
+        "stars": 54653,
+        "forks": 4407,
+        "created_at": "2013-12-08T07:34:43Z",
+        "updated_at": "2025-04-08T10:08:51Z",
         "topics": [
             "android",
-            "game",
-            "game-development",
-            "ios",
-            "java",
-            "libgdx"
+            "bsd",
+            "cheatsheet",
+            "cheatsheets",
+            "command-line",
+            "console",
+            "documentation",
+            "examples",
+            "hacktoberfest",
+            "help",
+            "linux",
+            "macos",
+            "man-page",
+            "manpages",
+            "manual",
+            "osx",
+            "shell",
+            "terminal",
+            "tldr",
+            "windows"
         ],
-        "quality_score": 0.9000000000000001,
+        "quality_score": 0.9500000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2025-03-20T18:45:26Z",
+        "last_commit_date": "2025-04-07T14:38:24Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/74c4fa354c215e3da7ace84a723cac8e01569111b927d6ca84dcc9b11599374a/00-Evan/shattered-pixel-dungeon"
+            "https://repository-images.githubusercontent.com/15019962/aa6a8d00-b4a3-11ea-92f4-5cca1da75be2"
         ],
-        "homepage": "https://shatteredpixel.com/shatteredpd/",
-        "readme_summary": "Shattered Pixel Dungeon is an open-source, cross-platform roguelike game based on Pixel Dungeon. It features randomized levels, enemies, and items, providing a unique gameplay experience each time. The repository provides the source code for users to play, modify, and compile the game for various platforms.",
+        "homepage": "https://tldr.sh",
+        "readme_summary": "The tldr-pages repository offers a community-driven collection of simplified help pages for command-line tools, serving as a more approachable alternative to traditional man pages. It provides practical examples for common commands across various operating systems, accessible through multiple client options, making command-line usage easier for both beginners and experienced users.",
         "key_features": [
-            "Open-source",
-            "Roguelike dungeon crawler",
-            "Randomized levels and enemies",
-            "Hundreds of items to collect and use",
-            "Cross-platform (Android, iOS, Desktop)"
+            "Community-maintained help pages for command-line tools",
+            "Simpler and more approachable alternative to traditional man pages",
+            "Collection of practical examples for common command-line tools across various operating systems (UNIX, Linux, macOS, Windows, etc.)",
+            "Multiple client options for accessing the pages (Node.js, Python, Rust)"
         ],
-        "primary_use_case": "Playing and modifying a traditional roguelike game.",
-        "open_issues": 4,
-        "cover_image_prompt": "A lone adventurer carefully navigating a multi-layered dungeon, each level procedurally generated and filled with diverse monsters and treasures. The adventurer holds a glowing pixelated sword and shield, representing the game's roguelike nature. Above the dungeon, a subtle interface displays code snippets and game parameters, connecting the adventure to its open-source roots. The scene is set in a dimly lit, cavernous environment with a sense of mystery and exploration. The composition is isometric, providing a clear view of the dungeon's layout. The image should be in a 3D isometric illustration style with vibrant colors and sharp details."
+        "primary_use_case": "Providing concise and practical examples for command-line tools to simplify their usage and make them more accessible to users of all levels.",
+        "open_issues": 168,
+        "cover_image_prompt": "Imagine a friendly librarian standing amidst towering shelves filled with dusty, complex manuals. The librarian holds a glowing tablet displaying concise, clear examples of command-line usage, instantly illuminating the relevant information. Digital particles representing simplified instructions float from the tablet, replacing the overwhelming text in the manuals. The repository name, 'tldr-pages,' is subtly etched on the librarian's desk. The scene is bathed in warm, inviting light, creating a sense of approachability. The image should be in a 3D isometric illustration style with vibrant colors and a focus on clarity."
     },
     {
-        "id": 903631539,
-        "name": "squish",
-        "description": "Squish - Batch Browser-based Image Compression",
-        "url": "https://github.com/addyosmani/squish",
-        "language": "TypeScript",
-        "stars": 858,
-        "forks": 82,
-        "created_at": "2024-12-15T05:43:22Z",
-        "updated_at": "2025-04-07T03:34:30Z",
+        "id": 917864037,
+        "name": "isd",
+        "description": "isd (interactive systemd) – a better way to work with systemd units",
+        "url": "https://github.com/isd-project/isd",
+        "language": "Python",
+        "stars": 1540,
+        "forks": 16,
+        "created_at": "2025-01-16T19:37:15Z",
+        "updated_at": "2025-04-08T09:52:46Z",
         "topics": [
-            "batch",
-            "batch-processing",
-            "image-compression",
-            "image-processing"
+            "cli",
+            "systemctl",
+            "systemd",
+            "textual",
+            "tui"
+        ],
+        "quality_score": 0.95,
+        "contributors_count": 0,
+        "last_commit_date": "2025-03-26T12:44:14Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/7b888b00147055af91a73f886f5a27c38f137129796d012772708742269d1501/isd-project/isd"
+        ],
+        "homepage": "https://isd-project.github.io/isd/",
+        "readme_summary": "The `isd` repository provides an interactive TUI for managing systemd units, offering features like fuzzy searching, auto-refreshing previews, and customizable keybindings. It simplifies systemd management for both power users and newcomers by providing a more intuitive and efficient way to interact with systemd.",
+        "key_features": [
+            "Quickly switch between system and user units",
+            "Fuzzy search units",
+            "Auto refresh previews",
+            "Quickly open outputs in a pager or editor",
+            "Auto sudo prefixing if required",
+            "Auto rescale depending on terminal window size (fluid design)",
+            "Extensive command palette with many keyboard shortcuts",
+            "Fully configurable keybindings",
+            "Optional input state caching for common inputs",
+            "Theme support",
+            "YAML configuration file with auto-complete"
+        ],
+        "primary_use_case": "Interactive management of systemd units.",
+        "open_issues": 9,
+        "cover_image_prompt": "Imagine a skilled orchestra conductor meticulously managing a complex system of interconnected instruments. Each instrument represents a systemd unit, and the conductor uses an interactive control panel with glowing buttons and a clear display to start, stop, and monitor them. The conductor's movements are fluid and precise, reflecting the ease of use and control provided by the isd tool. Subtle UI elements float around the conductor, displaying unit status and logs. The scene is set in a modern, minimalist concert hall with soft, focused lighting. The image should be in a 3D isometric illustration style with vibrant colors and sharp details."
+    },
+    {
+        "id": 724970183,
+        "name": "FlexibleBottomSheet",
+        "description": "🐬 Advanced Compose Multiplatform bottom sheet for segmented sizing, non-modal type, and allows interaction behind the bottom sheet similar to Google Maps.",
+        "url": "https://github.com/skydoves/FlexibleBottomSheet",
+        "language": "Kotlin",
+        "stars": 880,
+        "forks": 41,
+        "created_at": "2023-11-29T06:57:18Z",
+        "updated_at": "2025-04-08T05:59:46Z",
+        "topics": [
+            "android",
+            "animation",
+            "bottomsheet",
+            "jetpack-compose",
+            "modal",
+            "modal-bottom-sheets",
+            "skydoves"
+        ],
+        "quality_score": 0.8500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-01-21T00:43:14Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/724970183/09de9bcc-777e-4ee9-959c-0b2205dc8be6"
+        ],
+        "homepage": "",
+        "readme_summary": "FlexibleBottomSheet is a Kotlin library that provides an advanced Compose Multiplatform bottom sheet implementation. It offers features like segmented sizing, a non-modal behavior allowing interaction behind the sheet, and extensive customization options for sheet sizes and state management. The library is designed for Android applications using Jetpack Compose and Kotlin Multiplatform.",
+        "key_features": [
+            "Segmented sizing",
+            "Non-modal type",
+            "Interaction behind the bottom sheet",
+            "Customizable sheet sizes",
+            "Sheet state monitoring"
+        ],
+        "primary_use_case": "Creating flexible and customizable bottom sheet components in Jetpack Compose Multiplatform applications.",
+        "open_issues": 23,
+        "cover_image_prompt": "A skilled architect meticulously adjusting the height of a multi-tiered building using a digital interface. Each tier represents a different level of expansion for a bottom sheet, from slightly raised to fully extended. The building's foundation allows interaction with the city behind it, symbolizing the non-modal nature of the bottom sheet. Subtle UI elements and code snippets are integrated into the building's design. The scene is set in a brightly lit, modern cityscape. The image should be in 3D isometric illustration style with clean lines and vibrant colors."
+    },
+    {
+        "id": 90507660,
+        "name": "java-interview",
+        "description": "Вопросы и ответы к интервью Java разработчика",
+        "url": "https://github.com/enhorse/java-interview",
+        "language": "Batchfile",
+        "stars": 5571,
+        "forks": 1985,
+        "created_at": "2017-05-07T04:00:38Z",
+        "updated_at": "2025-04-08T09:25:41Z",
+        "topics": [
+            "interview",
+            "interview-questions",
+            "java"
         ],
         "quality_score": 0.7000000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2025-01-16T02:56:23Z",
+        "last_commit_date": "2025-01-30T14:52:49Z",
         "media_urls": [
-            "https://repository-images.githubusercontent.com/903631539/4ccbb78c-4501-4749-ad9c-81a81f2e5f71"
+            "https://opengraph.githubassets.com/e0fdcebc909a922705879550e1241902954e67d0a138a890ce67a2cc6bf345fd/enhorse/java-interview"
         ],
-        "homepage": "https://squish.addy.ie",
-        "readme_summary": "Squish is a browser-based image compression tool that allows users to compress images in various formats (AVIF, JPEG, JPEG XL, PNG, and WebP) without server uploads. It supports batch processing, format conversion, and quality adjustment, leveraging WebAssembly for high-performance image optimization.",
+        "homepage": "",
+        "readme_summary": "This repository provides a comprehensive collection of Java interview questions and answers, covering a wide range of topics relevant to Java development. It serves as a valuable resource for Java developers preparing for job interviews, helping them to review key concepts and practice answering common interview questions.",
         "key_features": [
-            "Browser-based compression",
-            "Batch processing",
-            "Multiple image format support (AVIF, JPEG, JPEG XL, PNG, WebP)",
-            "Quality adjustment",
-            "Format conversion"
+            "Java interview questions and answers",
+            "Covers topics like OOP, JVM, Java Core, Collections, Multithreading, Databases, and more",
+            "Includes questions on design patterns, web technologies, and testing"
         ],
-        "primary_use_case": "Batch browser-based image compression and format conversion.",
-        "open_issues": 8,
-        "cover_image_prompt": "Imagine a skilled artisan meticulously sculpting a collection of raw stone blocks (various image formats) into perfectly polished gems (compressed images) using a magical browser-based workstation. The artisan carefully adjusts dials representing quality settings, while a real-time preview screen displays the transformation. Digital particles representing compression algorithms swirl around the workstation, enhancing the process. The scene is set in a bright, modern studio with a clean, focused composition. The image should be in a 3D isometric illustration style with vibrant colors and sharp details, subtly incorporating the 'Squish' logo."
+        "primary_use_case": "Preparing for Java developer interviews",
+        "open_issues": 22,
+        "cover_image_prompt": "A seasoned Java instructor stands before a class of eager students, holding a glowing Java coffee cup that projects interview questions onto a holographic screen. The questions cover topics like OOP, JVM, and Java Core. The instructor gestures towards the screen, guiding students through the concepts. Subtle UI elements displaying code snippets and data structures float around the scene. The setting is a modern, minimalist classroom with warm, inviting lighting. The image should be in a 3D isometric illustration style with clean lines, vibrant colors, and a focus on clarity."
+    },
+    {
+        "id": 855638312,
+        "name": "segmantix",
+        "description": "SegmantiX is a library that enables granular data access control on the user/role/tenant level",
+        "url": "https://github.com/wizzdi/segmantix",
+        "language": "Java",
+        "stars": 7,
+        "forks": 0,
+        "created_at": "2024-09-11T07:55:36Z",
+        "updated_at": "2025-04-08T00:21:12Z",
+        "topics": [
+            "access-control",
+            "java",
+            "multitenancy",
+            "permissions"
+        ],
+        "quality_score": 0.6,
+        "contributors_count": 0,
+        "last_commit_date": "2025-03-03T21:51:33Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/750ba9d102a93a092e5330d4fc21f0f784ba050ad6add94abebbb8b136a08900/wizzdi/segmantix"
+        ],
+        "homepage": "https://wizzdi.com",
+        "readme_summary": "SegmantiX is a Java library that provides robust multi-tenancy and data access control. It offers fine-grained security controls for managing permissions across users, roles, tenants, and instance groups. The library supports features like wildcard access, restricted data access, and operation-specific access, making it suitable for applications requiring secure and isolated environments.",
+        "key_features": [
+            "Multi-Tenancy Support",
+            "Role-Based Access Control",
+            "User-Level Permissions",
+            "Instance Group Management",
+            "Wildcard Access",
+            "Restricted Data Access",
+            "Operation-Specific Access",
+            "Data Set Management"
+        ],
+        "primary_use_case": "Enabling granular data access control on the user/role/tenant level in Java applications.",
+        "open_issues": 0,
+        "cover_image_prompt": "Imagine a master locksmith standing before a massive vault door, meticulously crafting keys for different compartments within. Each key represents access for a specific user, role, or tenant. The vault door glows with a soft, secure light, and digital streams of data flow into and out of the compartments. Small screens display user roles and permissions. The scene is set in a futuristic data center with a clean, organized layout. The composition is focused and clear, with a blue and gold color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 5389577,
+        "name": "jsfuck",
+        "description": "Write any JavaScript with 6 Characters: []()!+",
+        "url": "https://github.com/aemkei/jsfuck",
+        "language": "JavaScript",
+        "stars": 8351,
+        "forks": 675,
+        "created_at": "2012-08-12T15:46:14Z",
+        "updated_at": "2025-04-08T07:36:49Z",
+        "topics": [],
+        "quality_score": 0.8500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-03-10T08:15:33Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/c2d8f87930bb99d05f0858806a88144a9accf9da523a4697a8b317b3b3081f80/aemkei/jsfuck"
+        ],
+        "homepage": "jsfuck.com",
+        "readme_summary": "JSFuck is an esoteric JavaScript programming style that allows developers to write and execute code using only six characters. It is intended for educational purposes and can be run in environments like Node.js. The project demonstrates the flexibility and underlying mechanics of the JavaScript language.",
+        "key_features": [
+            "Write JavaScript code using only six characters: `[]()!+`",
+            "Can be run in Node.js environment",
+            "Educational programming style"
+        ],
+        "primary_use_case": "Esoteric and educational programming using a limited character set.",
+        "open_issues": 28,
+        "cover_image_prompt": "Imagine a skilled calligrapher meticulously writing a complex message on ancient parchment using only a set of six unique symbols. The calligrapher's brow is furrowed in concentration as they transform a modern digital message into this cryptic form. The parchment rests on a high-tech desk displaying a glowing JavaScript code snippet, subtly hinting at the underlying technology. The scene is bathed in soft, warm light, emphasizing the intricate details of the calligraphy. The illustration should be in a detailed digital painting style, reminiscent of classical art with a modern twist."
     }
 ]
