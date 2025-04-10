@@ -1,7 +1,0 @@
-{
-    "project_id": 942675228,
-    "content": "🔥 <b>prompp</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nReplacing Prometheus to reduce memory consumption while maintaining full compatibility.\n<br>\n✨ <b>Key Features:</b>\n• Drastically reduced memory usage (up to 10x)\n• Full compatibility with Prometheus (configuration files, API endpoints, storage block format)\n• Effortless migration (drop-in replacement)\n<br>\n📖 <b>Summary:</b>\nProm++ is a high-performance fork of Prometheus designed to significantly reduce memory consumption. It achieves this by rewriting resource-intensive components in C++, specifically in-memory block construction and Write-Ahead Log (WAL) management. Prom++ is a drop-in replacement for Prometheus, ensuring effortless migration and full compatibility with existing configurations and data.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/deckhouse/prompp?embed=0\">View Project</a>\n• <a href=\"https://deckhouse.ru/products/prompp/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/24579f2416e44dd6f28fc5b1a486a6f3158cc5d0d55c749903b8b2196e00dee3/deckhouse/prompp",
-    "platform": "telegram",
-    "quality_score": 1.0000000000000002
-}
