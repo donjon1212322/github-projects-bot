@@ -1,7 +1,0 @@
-{
-    "project_id": 80726665,
-    "content": "🔥 <b>Chromium-Gost</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling secure connections using GOST cryptographic algorithms in the Chromium web browser.\n<br>\n✨ <b>Key Features:</b>\n• Supports GOST cryptographic algorithms\n• Uses msspi interface for GOST support\n• Transparently switches to msspi when GOST is required\n• Available for Windows, Linux, and MacOS\n<br>\n📖 <b>Summary:</b>\nChromium-Gost is a modified version of the Chromium browser that adds support for GOST cryptographic algorithms. It achieves this by utilizing the msspi interface when a website requests a GOST-based connection, seamlessly switching from the default BoringSSL library. This allows users in regions requiring GOST standards to access websites with enhanced security.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/deemru/Chromium-Gost?embed=0\">View Project</a>\n• <a href=\"https://www.cryptopro.ru/forum2/default.aspx?g=posts&t=9991?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/8770c59629fdd5f9cbfffcc54a233b219f78d8f01ca48f779046ff6b5a04aab6/deemru/Chromium-Gost",
-    "platform": "telegram",
-    "quality_score": 0.85
-}
