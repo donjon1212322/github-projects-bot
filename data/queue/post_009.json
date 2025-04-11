@@ -1,7 +1,0 @@
-{
-    "project_id": 283549473,
-    "content": "🔥 <b>turbine</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nTesting Kotlin Coroutines Flows to ensure they emit the expected values, complete successfully, or throw expected errors.\n<br>\n✨ <b>Key Features:</b>\n• Simplifies testing of Kotlin Coroutines Flows.\n• Provides methods like `awaitItem()`, `awaitComplete()`, and `awaitError()` for asserting flow behavior.\n<br>\n📖 <b>Summary:</b>\nTurbine is a Kotlin library designed to simplify testing `kotlinx.coroutines` Flows. It provides a set of functions to assert the behavior of flows, such as awaiting emitted items, completion, or errors. Turbine offers extensions for testing single or multiple flows and ensures that all events are consumed during testing to prevent hanging tests.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cashapp/turbine?embed=0\">View Project</a>\n• <a href=\"https://cashapp.github.io/turbine/docs/1.x/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/ec505cb5af8c7e3b974d8c45257c776e019eefd47ab321c8e4353f4f25ca2f85/cashapp/turbine",
-    "platform": "telegram",
-    "quality_score": 0.85
-}
