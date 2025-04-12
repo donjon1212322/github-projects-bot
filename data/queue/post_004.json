@@ -1,7 +1,0 @@
-{
-    "project_id": 314763206,
-    "content": "🌟 <b>urlhunter</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nReconnaissance for cyber intelligence and bug bounty hunting by identifying URLs containing specific keywords within shortened URL services.\n<br>\n✨ <b>Key Features:</b>\n• Searches for URLs exposed via shortener services.\n• Downloads and analyzes URLTeam collections.\n• Supports keyword-based searching (single, multiple with AND logic, regex).\n<br>\n📖 <b>Summary:</b>\nurlhunter is a Go-based recon tool designed to discover URLs exposed through shortener services. It leverages the URLTeam's collections to enable users to search for specific keywords, date ranges, and patterns within shortened URLs, aiding in cyber intelligence and bug bounty efforts. The tool supports various keyword search methods, including single keywords, multiple keywords with AND logic, and regular expressions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/utkusen/urlhunter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://repository-images.githubusercontent.com/314763206/b8466780-2cfa-11eb-874f-c28a74c678b0",
-    "platform": "telegram",
-    "quality_score": 0.5
-}
