@@ -1,30 +1,30 @@
 {
-    "title": "Wazuh: Your Open-Source Security Superhero",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nWazuh is an open-source security platform that provides XDR and SIEM capabilities. It uses agents deployed on monitored systems to collect and analyze data, integrated with the Elastic Stack for visualization. Key features include intrusion detection, log analysis, file integrity monitoring, vulnerability detection, configuration assessment, and incident response, enabling comprehensive security monitoring and threat management.\n\n## 🔑 Key Takeaways\n\n- ✅ Wazuh is a free and open-source security platform for threat prevention, detection, and response.\n\n- ✅ It uses agents to collect data from various systems and a central server to analyze this data, identifying potential threats.\n\n- ✅ The platform integrates with the Elastic Stack for easy data visualization and management.\n\n- ✅ Wazuh offers active responses to automatically mitigate threats.\n\n- ✅ It helps developers save time, improve security posture, and focus on building software instead of firefighting security incidents\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 12147\n- 🍴 Forks: 1804\n- ❗ Open Issues: 2485\n\n\n## 🛠 Tech Stack\n- ✅ C++\n\n\nHey fellow developers! Ever wished for a security superhero to watch over your systems, alerting you to threats before they cause mayhem?  Meet Wazuh, the open-source security platform that's changing the game.  Forget complex setups and cryptic logs; Wazuh makes security monitoring intuitive and accessible.  It's like having a dedicated security team working 24/7, without the hefty price tag.\n\nAt its core, Wazuh is a two-part system: agents and a central server.  Think of the agents as your security spies, quietly residing on your servers, endpoints, and containers, collecting data on everything from system logs to file integrity.  This data is then sent to the central server, which acts as the brains of the operation. Using a powerful rule engine, it analyzes this data, looking for suspicious activity and potential threats.  This is where the magic happens—Wazuh is incredibly versatile. It can detect intrusions, analyze logs for anomalies, monitor file integrity, scan for vulnerabilities, and even assess your system configurations for security best practices.\n\nWhat makes Wazuh stand out?  It's not just about detection; it's about response. Wazuh provides active responses, allowing you to automatically take action when threats are identified.  This could be anything from blocking malicious connections to quarantining infected files, all without manual intervention. It's proactive security at its finest.\n\nBut here's the best part: Wazuh integrates seamlessly with the Elastic Stack (ELK). This means you can visualize your security data, creating dashboards to monitor threats in real-time, giving you unprecedented insights into your system's security posture.  No more sifting through endless log files—Wazuh presents everything in a clear, concise manner, giving you the information you need, when you need it.  This integration also boosts Wazuh's scalability, allowing it to handle the demands of even the largest organizations.\n\nFor developers, Wazuh offers several key advantages. First, it saves you countless hours spent manually monitoring logs and searching for security vulnerabilities.  It automates many tedious tasks, allowing you to focus on building amazing software, instead of firefighting security incidents.  Second, it improves your security posture significantly, helping you identify and mitigate threats before they cause damage. Third, it's open-source, meaning it's free to use, highly customizable, and supported by a vibrant community.  And finally, the integration with the Elastic Stack makes it incredibly easy to manage and visualize your security data.\n\nWazuh isn't just another security tool; it's a game-changer. It's a must-have for any developer serious about securing their applications and infrastructure. Give it a try, and I promise you won't be disappointed!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/wazuh/wazuh)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Simba: Unleash the Power of Your Knowledge with this Open-Source KMS",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nSimba is an open-source Knowledge Management System (KMS) designed for easy integration with RAG systems. It offers a Python SDK, modular architecture, and a user-friendly interface to simplify knowledge management. Simba allows developers to connect their knowledge base to any RAG system, facilitating the creation of advanced AI solutions.\n\n## 🔑 Key Takeaways\n\n- ✅ Seamless integration with any RAG system\n\n- ✅ User-friendly interface and powerful Python SDK\n\n- ✅ Modular architecture for flexible customization\n\n- ✅ Open-source and community-driven\n\n- ✅ Simplifies complex knowledge management tasks for faster development\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 1168\n- 🍴 Forks: 87\n- ❗ Open Issues: 2\n\n\n## 🛠 Tech Stack\n- ✅ Jupyter Notebook\n\n\nTired of juggling different knowledge bases and struggling to integrate them with your AI projects?  Say hello to Simba, the open-source Knowledge Management System (KMS) that's changing the game! Simba makes it incredibly easy to connect your knowledge to any Retrieval-Augmented Generation (RAG) system. Think of it as a central hub for all your documents, neatly organized and readily accessible for your AI applications. \n\nSimba's beauty lies in its simplicity.  It's designed with developers in mind, offering a user-friendly interface and a powerful Python SDK.  No more wrestling with complex integrations – Simba handles the heavy lifting, allowing you to focus on building amazing AI solutions.  The modular architecture means you can easily swap out components like vector databases or embedding models to fit your specific needs. Need to change your vector store?  No problem!  Simba's flexibility makes it a breeze.\n\nOne of the coolest features is the seamless integration with RAG systems.  RAG, or Retrieval-Augmented Generation, is a powerful technique that combines the strengths of large language models (LLMs) with the precision of information retrieval.  Simba acts as the bridge, connecting your knowledge base to your LLM, ensuring your AI has access to the most relevant information when generating responses.  Imagine building a chatbot that's not only conversational but also incredibly knowledgeable, drawing on a vast collection of internal documents and external data sources—that's the power of Simba!\n\nBut Simba is more than just a connector; it's a complete KMS.  It offers a modern, intuitive UI for managing your document chunks, making it easy to organize, review, and update your knowledge base.  And because it's open-source, you can customize and extend it to fit your specific workflow.  Want to add a new feature?  Go ahead!  The community is vibrant and welcoming, ready to help you contribute and shape the future of Simba.\n\nFor developers, the benefits are clear: faster development cycles, improved workflow efficiency, and the ability to build more sophisticated AI applications.  Simba eliminates the hassle of managing knowledge bases, freeing you to concentrate on what you do best: building innovative solutions.  It's a game-changer for anyone working with LLMs and RAG systems, offering a streamlined, efficient, and powerful solution for knowledge management.  So, what are you waiting for? Check out Simba today and experience the future of knowledge management!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/GitHamza0206/simba)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "security",
-            "slug": "security"
+            "name": "knowledge management",
+            "slug": "knowledge-management"
+        },
+        {
+            "name": "rag",
+            "slug": "rag"
+        },
+        {
+            "name": "llm",
+            "slug": "llm"
+        },
+        {
+            "name": "python",
+            "slug": "python"
         },
         {
             "name": "open source",
             "slug": "open-source"
-        },
-        {
-            "name": "threat detection",
-            "slug": "threat-detection"
-        },
-        {
-            "name": "elastic stack",
-            "slug": "elastic-stack"
-        },
-        {
-            "name": "intrusion detection",
-            "slug": "intrusion-detection"
         }
     ],
-    "slug": "wazuh-your-open-source-security-superhero",
-    "project_id": 40556106,
+    "slug": "simba-unleash-the-power-of-your-knowledge-with-this-open-source-kms",
+    "project_id": 906326388,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
