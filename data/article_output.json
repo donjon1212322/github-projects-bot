@@ -1,26 +1,26 @@
 {
-    "article": "Tired of juggling different knowledge bases and struggling to integrate them with your AI projects?  Say hello to Simba, the open-source Knowledge Management System (KMS) that's changing the game! Simba makes it incredibly easy to connect your knowledge to any Retrieval-Augmented Generation (RAG) system. Think of it as a central hub for all your documents, neatly organized and readily accessible for your AI applications. \n\nSimba's beauty lies in its simplicity.  It's designed with developers in mind, offering a user-friendly interface and a powerful Python SDK.  No more wrestling with complex integrations – Simba handles the heavy lifting, allowing you to focus on building amazing AI solutions.  The modular architecture means you can easily swap out components like vector databases or embedding models to fit your specific needs. Need to change your vector store?  No problem!  Simba's flexibility makes it a breeze.\n\nOne of the coolest features is the seamless integration with RAG systems.  RAG, or Retrieval-Augmented Generation, is a powerful technique that combines the strengths of large language models (LLMs) with the precision of information retrieval.  Simba acts as the bridge, connecting your knowledge base to your LLM, ensuring your AI has access to the most relevant information when generating responses.  Imagine building a chatbot that's not only conversational but also incredibly knowledgeable, drawing on a vast collection of internal documents and external data sources—that's the power of Simba!\n\nBut Simba is more than just a connector; it's a complete KMS.  It offers a modern, intuitive UI for managing your document chunks, making it easy to organize, review, and update your knowledge base.  And because it's open-source, you can customize and extend it to fit your specific workflow.  Want to add a new feature?  Go ahead!  The community is vibrant and welcoming, ready to help you contribute and shape the future of Simba.\n\nFor developers, the benefits are clear: faster development cycles, improved workflow efficiency, and the ability to build more sophisticated AI applications.  Simba eliminates the hassle of managing knowledge bases, freeing you to concentrate on what you do best: building innovative solutions.  It's a game-changer for anyone working with LLMs and RAG systems, offering a streamlined, efficient, and powerful solution for knowledge management.  So, what are you waiting for? Check out Simba today and experience the future of knowledge management!",
+    "article": "Tired of juggling multiple platforms to deploy your apps? Wish there was a single, self-hosted solution that could handle everything from static sites to complex web apps? Then get ready to meet ZaneOps, the all-in-one platform that's about to revolutionize your deployment workflow! ZaneOps is an open-source project that lets you host practically anything – static sites, web apps, databases, services (like Supabase, WordPress, or Ghost), and even serverless functions – all from one beautifully designed dashboard.  Imagine a world where deploying your next big project is as simple as a few clicks, without the headaches of managing multiple servers or wrestling with complicated configurations. That's the promise of ZaneOps.  It leverages the power of Docker Swarm for scalability and Caddy for flexibility, giving you the best of both worlds.  Think of it as your own personal, infinitely customizable cloud, running right on your infrastructure.  No more vendor lock-in, no more expensive monthly bills – just pure, unadulterated control over your deployments.  The setup is surprisingly straightforward.  A simple command-line interface guides you through the process, and the comprehensive documentation makes troubleshooting a breeze.  Once it's up and running, the intuitive dashboard makes managing your projects a joy.  You'll be able to monitor your apps, scale resources, and even manage your users all from a single, centralized location.  ZaneOps isn't just about ease of use, though.  It's about empowering developers with the tools they need to build and deploy amazing applications without the hassle.  This is a game-changer for anyone who's ever felt bogged down by the complexities of modern deployment.  By streamlining the process and providing a unified platform, ZaneOps frees you up to focus on what matters most: building incredible software.  And because it's open-source, you have complete transparency and the ability to customize and extend the platform to meet your specific needs.  So, if you're tired of the complexities of managing multiple deployment platforms, or if you're looking for a powerful, flexible, and self-hosted solution that puts you in control, then ZaneOps is the answer. Check it out today and experience the zen of effortless deployments!",
     "key_takeaways": [
-        "Seamless integration with any RAG system",
-        "User-friendly interface and powerful Python SDK",
-        "Modular architecture for flexible customization",
-        "Open-source and community-driven",
-        "Simplifies complex knowledge management tasks for faster development"
+        "Self-hosted, all-in-one platform for deploying various applications.",
+        "Streamlines deployment workflow with an intuitive dashboard.",
+        "Leverages Docker Swarm and Caddy for scalability and flexibility.",
+        "Open-source and customizable to meet specific needs.",
+        "Reduces costs and eliminates vendor lock-in associated with cloud providers"
     ],
     "tags": [
-        "Knowledge Management",
-        "RAG",
-        "LLM",
-        "Python",
-        "Open Source"
+        "Docker",
+        "Swarm",
+        "Caddy",
+        "Self-hosted",
+        "Deployment"
     ],
-    "title": "Simba: Unleash the Power of Your Knowledge with this Open-Source KMS",
-    "stars": 1168,
-    "forks": 87,
-    "open_issues": 2,
-    "languages": "Jupyter Notebook",
-    "readme_summary": "Simba is an open-source Knowledge Management System (KMS) designed for easy integration with RAG systems. It offers a Python SDK, modular architecture, and a user-friendly interface to simplify knowledge management. Simba allows developers to connect their knowledge base to any RAG system, facilitating the creation of advanced AI solutions.",
-    "project_id": 906326388,
-    "url": "https://github.com/GitHamza0206/simba",
-    "description": " Portable KMS (knowledge management system) designed to integrate seamlessly with any Retrieval-Augmented Generation (RAG) system"
+    "title": "ZaneOps: Your All-in-One Self-Hosted Deployment Platform",
+    "stars": 485,
+    "forks": 17,
+    "open_issues": 9,
+    "languages": "Python",
+    "readme_summary": "ZaneOps is a self-hosted, open-source platform designed to simplify the deployment and management of web services, applications, and databases. It offers a free alternative to platforms like Heroku and Railway by leveraging Docker Swarm for scalability and Caddy for flexibility, making it suitable for both startups and enterprises.",
+    "project_id": 756058516,
+    "url": "https://github.com/zane-ops/zane-ops",
+    "description": "A self-hosted PaaS for your web services, web apps, databases and everything you need for your next startup."
 }

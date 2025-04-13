@@ -1,0 +1,7 @@
+{
+    "project_id": 5624155,
+    "content": "🔥 <b>iSniff-GPS</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPassive sniffing and geolocation of iOS devices based on WiFi network information disclosure.\n<br>\n✨ <b>Key Features:</b>\n• Passive sniffing of WiFi data (SSID probes, ARPs, MDNS packets)\n• Geolocation of devices based on previously joined WiFi networks\n• Database storage of captured data\n• Web interface for viewing and analyzing data\n• Querying Apple's WiFi location service for BSSID coordinates\n<br>\n📖 <b>Summary:</b>\niSniff GPS is a passive sniffing tool that captures WiFi data broadcast by iOS devices to determine their previous geographical locations. It collects SSID probes, ARPs, and MDNS packets, extracts BSSIDs and SSIDs, and queries Apple's WiFi location service and wigle.net to obtain GPS coordinates, providing a web interface for data analysis and visualization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hubert3/iSniff-GPS?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/75939e5be0f10f71c9ffcf793bedbc1e22688ece70d55ddd3da0ad298200468e/hubert3/iSniff-GPS",
+    "platform": "telegram",
+    "quality_score": 0.45
+}
