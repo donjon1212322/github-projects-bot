@@ -1,26 +1,26 @@
 {
-    "article": "Tired of juggling multiple platforms to deploy your apps? Wish there was a single, self-hosted solution that could handle everything from static sites to complex web apps? Then get ready to meet ZaneOps, the all-in-one platform that's about to revolutionize your deployment workflow! ZaneOps is an open-source project that lets you host practically anything – static sites, web apps, databases, services (like Supabase, WordPress, or Ghost), and even serverless functions – all from one beautifully designed dashboard.  Imagine a world where deploying your next big project is as simple as a few clicks, without the headaches of managing multiple servers or wrestling with complicated configurations. That's the promise of ZaneOps.  It leverages the power of Docker Swarm for scalability and Caddy for flexibility, giving you the best of both worlds.  Think of it as your own personal, infinitely customizable cloud, running right on your infrastructure.  No more vendor lock-in, no more expensive monthly bills – just pure, unadulterated control over your deployments.  The setup is surprisingly straightforward.  A simple command-line interface guides you through the process, and the comprehensive documentation makes troubleshooting a breeze.  Once it's up and running, the intuitive dashboard makes managing your projects a joy.  You'll be able to monitor your apps, scale resources, and even manage your users all from a single, centralized location.  ZaneOps isn't just about ease of use, though.  It's about empowering developers with the tools they need to build and deploy amazing applications without the hassle.  This is a game-changer for anyone who's ever felt bogged down by the complexities of modern deployment.  By streamlining the process and providing a unified platform, ZaneOps frees you up to focus on what matters most: building incredible software.  And because it's open-source, you have complete transparency and the ability to customize and extend the platform to meet your specific needs.  So, if you're tired of the complexities of managing multiple deployment platforms, or if you're looking for a powerful, flexible, and self-hosted solution that puts you in control, then ZaneOps is the answer. Check it out today and experience the zen of effortless deployments!",
+    "article": "Ghostty: The Blazing-Fast, Feature-Rich Terminal Emulator You've Been Waiting For!  Tired of terminal emulators that make you compromise between speed, features, or a native feel?  Ghostty changes the game. This isn't just another terminal; it's a powerful, customizable tool designed to elevate your command-line experience. Forget sluggish performance and limited functionality. Ghostty delivers a native experience across platforms, boasting impressive speed and a rich feature set that's sure to impress even the most seasoned developers. At its core, Ghostty's architecture prioritizes performance.  It utilizes advanced rendering techniques like OpenGL on Linux and Metal on macOS, ensuring smooth, responsive interactions regardless of the workload. This translates to a noticeably snappier experience compared to many other emulators, especially when dealing with large outputs or complex applications. But speed isn't everything. Ghostty also packs a punch in terms of features.  We're talking multi-window support, tabbed browsing, customizable panes – all the things you'd expect from a modern terminal, and more.  This level of customization allows you to tailor your workspace to perfectly match your workflow. Beyond the standard features, Ghostty is designed to be extensible. The developers are pushing the boundaries of what's possible with a terminal emulator, exposing modern features that enable CLI tool developers to build even more interactive and powerful applications. This means a more vibrant and innovative CLI ecosystem in the years to come.  For developers, the benefits are clear: increased productivity, a more enjoyable development experience, and access to cutting-edge features that enhance your command-line interactions.  Ghostty is not just a replacement for your current terminal; it's an upgrade.  It's a tool that empowers you to work smarter, not harder.  Give it a try and experience the difference a truly modern terminal emulator can make.  The project is actively developed and the community is growing, so you can expect continued improvements and new features in the future.",
     "key_takeaways": [
-        "Self-hosted, all-in-one platform for deploying various applications.",
-        "Streamlines deployment workflow with an intuitive dashboard.",
-        "Leverages Docker Swarm and Caddy for scalability and flexibility.",
-        "Open-source and customizable to meet specific needs.",
-        "Reduces costs and eliminates vendor lock-in associated with cloud providers"
+        "Blazing-fast performance thanks to OpenGL and Metal rendering.",
+        "Rich feature set including multi-window support, tabs, and customizable panes.",
+        "Native experience across platforms for seamless integration.",
+        "Extensible architecture enabling developers to build more powerful CLI applications.",
+        "Active development and a growing community ensuring continued improvements and new features."
     ],
     "tags": [
-        "Docker",
-        "Swarm",
-        "Caddy",
-        "Self-hosted",
-        "Deployment"
+        "terminal emulator",
+        "command line",
+        "CLI",
+        "macOS",
+        "Linux"
     ],
-    "title": "ZaneOps: Your All-in-One Self-Hosted Deployment Platform",
-    "stars": 485,
-    "forks": 17,
-    "open_issues": 9,
-    "languages": "Python",
-    "readme_summary": "ZaneOps is a self-hosted, open-source platform designed to simplify the deployment and management of web services, applications, and databases. It offers a free alternative to platforms like Heroku and Railway by leveraging Docker Swarm for scalability and Caddy for flexibility, making it suitable for both startups and enterprises.",
-    "project_id": 756058516,
-    "url": "https://github.com/zane-ops/zane-ops",
-    "description": "A self-hosted PaaS for your web services, web apps, databases and everything you need for your next startup."
+    "title": "Ghostty: Revolutionizing the Command Line Experience",
+    "stars": 29489,
+    "forks": 784,
+    "open_issues": 141,
+    "languages": "Zig",
+    "readme_summary": "Ghostty is a terminal emulator written in Zig that aims to provide a fast, feature-rich, and cross-platform experience by leveraging native UI and GPU acceleration. It strives for standards compliance and competitive performance, with a roadmap that includes advanced features and broader platform support. The project aims to be a drop-in replacement for existing terminal emulators while pushing the boundaries of what's possible with modern terminal features.",
+    "project_id": 475553026,
+    "url": "https://github.com/ghostty-org/ghostty",
+    "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration."
 }
