@@ -1,0 +1,7 @@
+{
+    "project_id": 445594012,
+    "content": "💡 <b>Hunt-Sleeping-Beacons</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nIdentifying sleeping beacons in C2 agents by analyzing callstacks and enumerating timers.\n<br>\n✨ <b>Key Features:</b>\n• Identifies unbacked memory regions in callstacks, indicative of unpacked or injected code.\n• Detects non-executable memory pages, a common sleepmask technique.\n<br>\n📖 <b>Summary:</b>\nHunt-Sleeping-Beacons is a callstack scanner designed to identify Indicators of Compromise (IOCs) associated with unpacked or injected C2 agents. It analyzes callstacks for suspicious memory regions, module stomping, abnormal intermodular calls, and return address spoofing. The tool also enumerates timers and their callbacks to detect timer-based sleepmasks, providing a comprehensive approach to detecting sleeping beacons.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/thefLink/Hunt-Sleeping-Beacons?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/3ea3902262f1b225c60f0fb72feaf988d9665180e2e7e589ed0864218b2857ff/thefLink/Hunt-Sleeping-Beacons",
+    "platform": "telegram",
+    "quality_score": 0.35
+}

@@ -1,26 +1,26 @@
 {
-    "article": "Ghostty: The Blazing-Fast, Feature-Rich Terminal Emulator You've Been Waiting For!  Tired of terminal emulators that make you compromise between speed, features, or a native feel?  Ghostty changes the game. This isn't just another terminal; it's a powerful, customizable tool designed to elevate your command-line experience. Forget sluggish performance and limited functionality. Ghostty delivers a native experience across platforms, boasting impressive speed and a rich feature set that's sure to impress even the most seasoned developers. At its core, Ghostty's architecture prioritizes performance.  It utilizes advanced rendering techniques like OpenGL on Linux and Metal on macOS, ensuring smooth, responsive interactions regardless of the workload. This translates to a noticeably snappier experience compared to many other emulators, especially when dealing with large outputs or complex applications. But speed isn't everything. Ghostty also packs a punch in terms of features.  We're talking multi-window support, tabbed browsing, customizable panes – all the things you'd expect from a modern terminal, and more.  This level of customization allows you to tailor your workspace to perfectly match your workflow. Beyond the standard features, Ghostty is designed to be extensible. The developers are pushing the boundaries of what's possible with a terminal emulator, exposing modern features that enable CLI tool developers to build even more interactive and powerful applications. This means a more vibrant and innovative CLI ecosystem in the years to come.  For developers, the benefits are clear: increased productivity, a more enjoyable development experience, and access to cutting-edge features that enhance your command-line interactions.  Ghostty is not just a replacement for your current terminal; it's an upgrade.  It's a tool that empowers you to work smarter, not harder.  Give it a try and experience the difference a truly modern terminal emulator can make.  The project is actively developed and the community is growing, so you can expect continued improvements and new features in the future.",
+    "article": "Tired of clunky file managers slowing you down?  Meet `lf`, a blazing-fast, cross-platform file manager built in Go that's going to revolutionize how you interact with your files.  Think of it as Ranger, but even leaner and meaner.  It's designed for speed and efficiency, making navigating your file system a breeze.  The project's core is its asynchronous I/O operations, meaning the UI stays responsive even when dealing with massive directories.  You won't experience those frustrating freezes and lags that plague other file managers.  It's incredibly lightweight; it runs as a single binary without any external dependencies, making installation a snap.  Whether you're on Linux, macOS, BSD, or even Windows, `lf` will feel right at home.  The developers have cleverly avoided bloating it with unnecessary features.  Instead of built-in editors or pagers, it integrates seamlessly with your preferred tools.  This minimalist approach makes `lf` incredibly efficient and fast.  Customization is another strong point.  You can tailor keybindings to your liking, using either vi-style or readline defaults.  This level of control lets you optimize your workflow and maximize productivity.  The server/client architecture is a game changer.  It allows you to manage multiple instances remotely, offering a level of flexibility and control you won't find in other file managers.  The community is also active and welcoming, making it easy to get help and contribute.  This is a project that truly puts the power back into your hands.  It's not just a tool; it's an experience.  It's a testament to efficient coding and a deep understanding of user needs.  If you're looking for a file manager that's fast, lightweight, customizable, and a joy to use, `lf` is a must-try.",
     "key_takeaways": [
-        "Blazing-fast performance thanks to OpenGL and Metal rendering.",
-        "Rich feature set including multi-window support, tabs, and customizable panes.",
-        "Native experience across platforms for seamless integration.",
-        "Extensible architecture enabling developers to build more powerful CLI applications.",
-        "Active development and a growing community ensuring continued improvements and new features."
+        "Blazing-fast performance thanks to asynchronous I/O and a lean design.",
+        "Cross-platform compatibility (Linux, macOS, BSDs, Windows).",
+        "Highly customizable keybindings and integrations.",
+        "Lightweight single binary with no external dependencies.",
+        "Active community and welcoming environment for contributions and support"
     ],
     "tags": [
-        "terminal emulator",
-        "command line",
-        "CLI",
-        "macOS",
-        "Linux"
+        "Go",
+        "file manager",
+        "terminal",
+        "cross-platform",
+        "lightweight"
     ],
-    "title": "Ghostty: Revolutionizing the Command Line Experience",
-    "stars": 29489,
-    "forks": 784,
-    "open_issues": 141,
-    "languages": "Zig",
-    "readme_summary": "Ghostty is a terminal emulator written in Zig that aims to provide a fast, feature-rich, and cross-platform experience by leveraging native UI and GPU acceleration. It strives for standards compliance and competitive performance, with a roadmap that includes advanced features and broader platform support. The project aims to be a drop-in replacement for existing terminal emulators while pushing the boundaries of what's possible with modern terminal features.",
-    "project_id": 475553026,
-    "url": "https://github.com/ghostty-org/ghostty",
-    "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration."
+    "title": "LF: The Blazing-Fast File Manager You Need to Check Out!",
+    "stars": 8111,
+    "forks": 330,
+    "open_issues": 126,
+    "languages": "Go",
+    "readme_summary": "LF is a terminal file manager written in Go, designed for efficient file system navigation and management. It offers cross-platform compatibility, a small footprint, and asynchronous operations. LF is highly customizable and extendable through shell commands, making it a powerful tool for users who prefer a terminal-based workflow.",
+    "project_id": 65616765,
+    "url": "https://github.com/gokcehan/lf",
+    "description": "Terminal file manager"
 }

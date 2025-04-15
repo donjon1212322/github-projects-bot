@@ -1,58 +1,58 @@
 [
     {
-        "project_id": 923171092,
-        "content": "🔥 <b>rss-launchpad</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nQuickly add new RSS/Atom subscriptions from websites.\n<br>\n✨ <b>Key Features:</b>\n• Extracts RSS/Atom feeds from the active tab.\n• Opens feeds with an RSS reader app or custom web service.\n• Supports unofficial feeds for some popular websites (e.g., YouTube).\n• Indicates whether a website offers RSS/Atom feeds.\n• Basic integration with 3rd-party readers via buildable URLs.\n<br>\n📖 <b>Summary:</b>\nThe RSS Launchpad extension simplifies RSS subscription management by extracting available feeds from websites. It allows users to easily subscribe to these feeds using their preferred RSS reader application or web service. The extension also supports unofficial feeds for certain websites, enhancing its versatility.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ilya-m32/rss-launchpad?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e9b599a343fb3ae3f9921eb145e3176413d8f222d21cfe937e392cd9fd1469b4/ilya-m32/rss-launchpad",
+        "project_id": 65616765,
+        "content": "🚀 <b>lf</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTerminal-based file management.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform compatibility\n• Single binary with no runtime dependencies\n• Fast startup and low memory footprint\n• Asynchronous IO operations\n• Server/client architecture and remote commands\n<br>\n📖 <b>Summary:</b>\nLF is a terminal file manager written in Go, designed for efficient file system navigation and management. It offers cross-platform compatibility, a small footprint, and asynchronous operations. LF is highly customizable and extendable through shell commands, making it a powerful tool for users who prefer a terminal-based workflow.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gokcehan/lf?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8fe586f3fc233413cd8f0c1aaef84c92137fc4ae97b4c830eed014faba2edc0b/gokcehan/lf",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 964909544,
+        "content": "🚀 <b>telegram-scraper-TeleGraphite</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nScraping and archiving posts from public Telegram channels, including extracting contact information and media.\n<br>\n✨ <b>Key Features:</b>\n• Fetches posts from multiple Telegram channels\n• Saves posts as JSON files with contact exports\n• Downloads and saves media files\n• Deduplicates posts\n• Runs once or continuously\n<br>\n📖 <b>Summary:</b>\nTeleGraphite is a Python-based Telegram channel scraper that fetches posts from public channels and exports them to JSON format. It supports features like media downloading, deduplication, filtering, and scheduled execution. The tool is designed for archiving and analyzing Telegram channel content.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hamodywe/telegram-scraper-TeleGraphite?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5b8a325394e680a15a0ad7208f8bdd082d8804fecce713743231a853007e8c9d/hamodywe/telegram-scraper-TeleGraphite",
         "platform": "telegram",
         "quality_score": 0.5499999999999999
     },
     {
-        "project_id": 879210867,
-        "content": "✨ <b>the-mouse-is-lava</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nMinimize mouse usage by providing keyboard shortcuts for web navigation.\n<br>\n✨ <b>Key Features:</b>\n• Keyboard shortcuts for website navigation\n• Universal shortcuts (Ctrl+B to focus input, Ctrl+I to find links)\n• Website-specific shortcuts (e.g., Google search navigation)\n• Customizable keyboard shortcuts\n<br>\n📖 <b>Summary:</b>\nThe Mouse is Lava is a Chrome extension that provides keyboard shortcuts to navigate websites, reducing the need for mouse interaction. It offers universal shortcuts for common actions like focusing input fields and finding links, as well as website-specific shortcuts for popular sites like Google. All shortcuts are customizable, allowing users to tailor the extension to their specific needs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gruns/the-mouse-is-lava?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e22a3c97a81cb79db46fa535bf2d363cdf01d0a400e6c6c7d52ab7e21f088025/gruns/the-mouse-is-lava",
+        "project_id": 445594012,
+        "content": "💡 <b>Hunt-Sleeping-Beacons</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nIdentifying sleeping beacons in C2 agents by analyzing callstacks and enumerating timers.\n<br>\n✨ <b>Key Features:</b>\n• Identifies unbacked memory regions in callstacks, indicative of unpacked or injected code.\n• Detects non-executable memory pages, a common sleepmask technique.\n<br>\n📖 <b>Summary:</b>\nHunt-Sleeping-Beacons is a callstack scanner designed to identify Indicators of Compromise (IOCs) associated with unpacked or injected C2 agents. It analyzes callstacks for suspicious memory regions, module stomping, abnormal intermodular calls, and return address spoofing. The tool also enumerates timers and their callbacks to detect timer-based sleepmasks, providing a comprehensive approach to detecting sleeping beacons.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/thefLink/Hunt-Sleeping-Beacons?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3ea3902262f1b225c60f0fb72feaf988d9665180e2e7e589ed0864218b2857ff/thefLink/Hunt-Sleeping-Beacons",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.35
     },
     {
-        "project_id": 42008209,
-        "content": "🔥 <b>Sn1per</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated penetration testing and attack surface management to discover vulnerabilities and hidden assets.\n<br>\n✨ <b>Key Features:</b>\n• Attack Surface Management\n• Vulnerability Scanning Automation\n• Hidden Asset Discovery\n• Risk Prioritization\n<br>\n📖 <b>Summary:</b>\nSn1per is an attack surface management platform designed to automate penetration testing and vulnerability scanning. It integrates with various open-source and commercial tools to discover hidden assets, prioritize risks, and provide continuous security for organizations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/1N3/Sn1per?embed=0\">View Project</a>\n• <a href=\"https://sn1persecurity.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/42008209/5b970e00-32f3-11eb-8b89-58d512afda44",
+        "project_id": 880183057,
+        "content": "🌟 <b>JShunter</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAnalyzing JavaScript files to extract endpoints and identify sensitive data.\n<br>\n✨ <b>Key Features:</b>\n• Endpoint Extraction\n• Sensitive Data Detection\n• Customizable Options\n• Flexible Input\n• Output Options\n<br>\n📖 <b>Summary:</b>\nJShunter is a command-line tool designed for analyzing JavaScript files and extracting endpoints. It specializes in identifying sensitive data, such as API endpoints and potential security vulnerabilities. The tool supports flexible input options, customizable parameters, and output saving, making it an essential resource for bug bounty hunters and security researchers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cc1a2b/JShunter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f86f1ee8a81e1c4e9dd17c2fee65f5f6f53b014408c7ef8639d28a99df0a289a/cc1a2b/JShunter",
+        "platform": "telegram",
+        "quality_score": 0.5
+    },
+    {
+        "project_id": 907686106,
+        "content": "🔥 <b>TransPixar</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating RGBA videos with transparency for visual effects (VFX) and interactive content creation.\n<br>\n✨ <b>Key Features:</b>\n• RGBA video generation\n• Transparency support in text-to-video models\n• Diffusion transformer (DiT) architecture\n• LoRA-based fine-tuning\n• Joint RGB and alpha channel generation\n<br>\n📖 <b>Summary:</b>\nTransPixeler is a method for extending pretrained video models to generate RGBA videos, which include alpha channels for transparency. It uses a diffusion transformer architecture and LoRA-based fine-tuning to jointly generate RGB and alpha channels with high consistency, enabling the creation of diverse and realistic visual effects.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wileewang/TransPixar?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/367ca86b0f12815ff89625dd230b0fccd8991defe5c5278a71f4e6d36b1ddc65/wileewang/TransPixar",
+        "platform": "telegram",
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 34707448,
+        "content": "✨ <b>wpsploit</b> | Ruby\n<br>\n🎯 <b>Primary Use Case:</b>\nExploiting WordPress vulnerabilities using Metasploit modules.\n<br>\n✨ <b>Key Features:</b>\n• WordPress exploitation using Metasploit\n• Collection of exploit and auxiliary modules\n• Based on WPScan Vulnerability Database\n<br>\n📖 <b>Summary:</b>\nWPSploit is a repository containing Metasploit modules designed for exploiting WordPress vulnerabilities. It provides a collection of both exploit and auxiliary modules, leveraging the WPScan Vulnerability Database to target known weaknesses in WordPress installations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/espreto/wpsploit?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8e60ccf8680c15e00a76f0f45fa7de9ed29bbb658b686393ad5491f311ea3433/espreto/wpsploit",
+        "platform": "telegram",
+        "quality_score": 0.45
+    },
+    {
+        "project_id": 382835373,
+        "content": "🔥 <b>hoard</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nOrganizing and retrieving frequently used, complex command-line commands.\n<br>\n✨ <b>Key Features:</b>\n• Saves commands with name, description, namespace, and tags\n• Customizable parameter tokens\n• ChatGPT integration\n• Shell plugin for autocomplete (bash, zsh, fish)\n<br>\n📖 <b>Summary:</b>\nHoard is a command-line tool written in Rust that helps users organize and save frequently used commands. It allows users to store commands with names, descriptions, namespaces, and tags for easy retrieval. Hoard also offers features like customizable parameter tokens, ChatGPT integration, and shell plugins for autocomplete.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Hyde46/hoard?embed=0\">View Project</a>\n• <a href=\"https://hyde46.github.io/hoard/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c17a7ae21b05f946739666c3ac4a253aceefcae019a8006217622bf22561891f/Hyde46/hoard",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 491527855,
+        "content": "🔥 <b>xdg-ninja</b> | Haskell\n<br>\n🎯 <b>Primary Use Case:</b>\nAuditing and cleaning up a user's $HOME directory to ensure compliance with the XDG Base Directory Specification.\n<br>\n✨ <b>Key Features:</b>\n• Checks $HOME directory for non-XDG-compliant files and directories.\n• Provides instructions on how to move files to appropriate XDG locations.\n<br>\n📖 <b>Summary:</b>\nxdg-ninja is a shell script designed to scan your $HOME directory for files and directories that do not conform to the XDG Base Directory Specification. It identifies these misplaced items and provides instructions on how to relocate them to their proper XDG-compliant locations, helping users maintain a clean and organized home directory. The tool supports various installation methods and offers a configuration generator for x86_64 Linux systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/b3nj5m1n/xdg-ninja?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/48633b7186369bef1ccd05e86f22dee507d008e75f771b4d8c3de9c42f75d7f6/b3nj5m1n/xdg-ninja",
         "platform": "telegram",
         "quality_score": 0.7
-    },
-    {
-        "project_id": 519577891,
-        "content": "🚀 <b>upscayl</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nUpscaling and enhancing the resolution of images using AI.\n<br>\n✨ <b>Key Features:</b>\n• AI Image Upscaling\n• Open Source\n• Cross-Platform (Linux, MacOS, Windows)\n• ESRGAN support\n• Gigapixel image upscaling\n<br>\n📖 <b>Summary:</b>\nUpscayl is a free and open-source AI image upscaler designed for Linux, MacOS, and Windows. It allows users to enhance the resolution of images using AI algorithms like ESRGAN, effectively turning low-resolution images into high-resolution ones. The primary use case is to improve the quality and detail of images, making them suitable for various applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/upscayl/upscayl?embed=0\">View Project</a>\n• <a href=\"https://upscayl.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f6671af0b01f0ae0df869f79c9c0c435ce3285b5c140ebae96ffcf60710d752d/upscayl/upscayl",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 475553026,
-        "content": "🌟 <b>ghostty</b> | Zig\n<br>\n🎯 <b>Primary Use Case:</b>\nA cross-platform terminal emulator designed for developers and users who require a fast, feature-rich, and standards-compliant terminal experience.\n<br>\n✨ <b>Key Features:</b>\n• Fast terminal emulation\n• Feature-rich terminal emulation\n<br>\n📖 <b>Summary:</b>\nGhostty is a terminal emulator written in Zig that aims to provide a fast, feature-rich, and cross-platform experience by leveraging native UI and GPU acceleration. It strives for standards compliance and competitive performance, with a roadmap that includes advanced features and broader platform support. The project aims to be a drop-in replacement for existing terminal emulators while pushing the boundaries of what's possible with modern terminal features.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ghostty-org/ghostty?embed=0\">View Project</a>\n• <a href=\"https://ghostty.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0f8cca9e4aa73ebd406aea405e8dfaaf07cdd04e75a44464e806107d9da8e689/ghostty-org/ghostty",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 708506677,
-        "content": "🚀 <b>newspaper4k</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nScraping and curation of news articles from various websites.\n<br>\n✨ <b>Key Features:</b>\n• Article extraction from news websites\n• Title extraction from news websites\n• Metadata extraction from news websites\n• CLI tool for command-line usage\n• Python API for programmatic access\n<br>\n📖 <b>Summary:</b>\nNewspaper4k is a Python library and CLI tool designed for extracting articles, titles, and metadata from news websites. It is a fork of the newspaper3k project, continuing its functionality with added features and bug fixes. The library provides both a command-line interface and a Python API for easy integration into various applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AndyTheFactory/newspaper4k?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/708506677/33136b19-ce22-44bf-a11f-f8f9691c0f92",
-        "platform": "telegram",
-        "quality_score": 0.8
-    },
-    {
-        "project_id": 120575426,
-        "content": "🔥 <b>blackcandy</b> | Ruby\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosting a personal music streaming server.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted music streaming server\n• Docker-based installation\n• Mobile app availability (iOS and Android)\n• Media file mounting\n• PostgreSQL database support\n<br>\n📖 <b>Summary:</b>\nBlack Candy is a self-hosted music streaming server that allows users to create their own personal music center. It offers easy installation via Docker, supports media file mounting, and provides mobile apps for convenient access. The system can be configured to use either SQLite or PostgreSQL as a database.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/blackcandy-org/blackcandy?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8e2195ea11ff21def02be430c102647f5ed46bcd91f47c2aa784e1fc133cf513/blackcandy-org/blackcandy",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 738860139,
-        "content": "🚀 <b>poco</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating collector classes to extract specific data types from complex object structures, particularly useful in scenarios like inventory management where only certain data from orders, stocks, or returns is needed.\n<br>\n✨ <b>Key Features:</b>\n• Generates collector classes for nested object types.\n• Eliminates the need for runtime reflection, improving performance.\n<br>\n📖 <b>Summary:</b>\nThe PoCo framework generates collector classes for plain old Java objects (POJOs), enabling efficient extraction of specific data types from complex, nested object structures. By generating classes at build time, PoCo eliminates the need for runtime reflection, resulting in improved performance and easier error tracing. A Gradle plugin is provided for seamless integration into build processes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/LumpyTales/poco?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c63f2f0c310ab7029529f1af3e9c1e94c9e0364ec42433edf6ed0a70f53fc7e2/LumpyTales/poco",
-        "platform": "telegram",
-        "quality_score": 0.85
     }
 ]
