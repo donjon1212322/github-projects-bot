@@ -1,65 +1,51 @@
 [
     {
-        "project_id": 836930065,
-        "content": "🔥 <b>opsmate</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nOpsmate is primarily used as an AI-powered SRE assistant to manage production operations, troubleshoot issues, and automate tasks using natural language.\n<br>\n✨ <b>Key Features:</b>\n• Natural Language Interface\n• Advanced Reasoning\n• Multiple LLM Support\n• Multiple Runtimes\n• Modern Observability Tooling\n<br>\n📖 <b>Summary:</b>\nOpsmate is an AI SRE assistant designed to streamline production engineering tasks. It offers a natural language interface, AI-powered reasoning, and supports multiple LLMs and runtimes. Opsmate integrates with modern observability tools and provides a web UI and API for easy access and extensibility.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jingkaihe/opsmate?embed=0\">View Project</a>\n• <a href=\"https://docs.tryopsmate.ai/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8ff67d0262844d4fe3a73482d148a37b32e7a4691866affb75bb1c7040d41bfc/jingkaihe/opsmate",
+        "project_id": 60787328,
+        "content": "💡 <b>MORT</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time translation of game dialogs using OCR and machine translation.\n<br>\n✨ <b>Key Features:</b>\n• Realtime translate\n• OCR (TesseractOCR, Windows OCR, NHOcr, Easy OCR)\n• Machine translation (Naver Papago, Google Web, Google Sheet, ezTrans, DeepL)\n• Language Patch with using DB\n• Multiple OCR areas\n<br>\n📖 <b>Summary:</b>\nMORT is a real-time game translator that extracts dialog from the screen using OCR and translates it using machine translation services or a database. It supports multiple OCR engines and translation services, allowing users to play games in foreign languages with real-time translated subtitles. The program is designed for Windows and requires .NET 7.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/killkimno/MORT?embed=0\">View Project</a>\n• <a href=\"https://blog.naver.com/killkimno/70179867557?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/60787328/d1117064-81ca-4945-83fc-0114466a5f15",
         "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 0.5
     },
     {
-        "project_id": 873353086,
-        "content": "✨ <b>Osprey</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProtecting users from malicious websites by checking URLs against multiple threat intelligence services and blocking access to dangerous sites.\n<br>\n✨ <b>Key Features:</b>\n• Protection from malicious websites\n• URL stripping of tracking parameters\n• Integration with multiple threat intelligence services\n• Configurable protection options\n• Caching of safe URLs\n<br>\n📖 <b>Summary:</b>\nOsprey is a browser extension designed to safeguard users from malicious websites. It achieves this by verifying URLs against several threat intelligence services like Microsoft SmartScreen and Norton SafeWeb. Osprey also enhances privacy by stripping tracking parameters from URLs before sending them to these services, and it caches results to minimize network requests.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Foulest/Osprey?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/873353086/b01462ba-8688-42f3-8adb-3638b753f89e",
+        "project_id": 895165567,
+        "content": "💡 <b>timr-tui</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nOrganizing and managing time using Pomodoro, Countdown, and Timer functionalities within a terminal user interface.\n<br>\n✨ <b>Key Features:</b>\n• Pomodoro timer\n• Countdown timer\n• Standard timer\n• Customizable styles\n• Decisecond display\n<br>\n📖 <b>Summary:</b>\ntimr-tui is a terminal-based application written in Rust that helps users organize their time. It provides Pomodoro, Countdown, and Timer functionalities, along with customizable styles and a CLI interface for easy integration and usage.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sectore/timr-tui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6a8d02f1e264b32ad1feb7f988cd48ed88fdf1605de6c5b83b4133a350c03383/sectore/timr-tui",
         "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 946708780,
-        "content": "🔥 <b>openai-cua-sample-app</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nInteracting with computer environments via the OpenAI API using a Computer Using Agent (CUA).\n<br>\n✨ <b>Key Features:</b>\n• Computer abstraction for different environments (local, Docker, Browserbase, Scrapybara)\n• Agent abstraction for managing the CUA loop\n• CLI for easy interaction with CUA\n• Examples for different use cases\n<br>\n📖 <b>Summary:</b>\nThis repository provides a sample application for using a Computer Using Agent (CUA) with the OpenAI API. It includes abstractions for different computer environments and agent management, along with a CLI for easy interaction and examples for various use cases. The primary goal is to enable programmatic control of computer interfaces through AI.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/openai/openai-cua-sample-app?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d8db193013ebba5b146322c1cfff595ecb2763f60baca1f6941b132ff5744442/openai/openai-cua-sample-app",
+        "project_id": 301244405,
+        "content": "🔥 <b>atuin</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nReplacing existing shell history with a synchronized, searchable SQLite database.\n<br>\n✨ <b>Key Features:</b>\n• Rebindable full-screen history search UI\n• SQLite database storage for shell history\n• Encrypted backup and sync of shell history\n• Cross-terminal, cross-session, and cross-machine history\n• Logging of exit code, cwd, hostname, session, command duration\n<br>\n📖 <b>Summary:</b>\nAtuin replaces your existing shell history with a SQLite database, recording additional context for commands. It offers optional, fully encrypted synchronization of history between machines via an Atuin server. Key features include a full-screen search UI, cross-device synchronization, and detailed command logging.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/atuinsh/atuin?embed=0\">View Project</a>\n• <a href=\"https://atuin.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/abc8d2b52ae2165ab1a1da9703fe5f69df6faecfb6d98ec0256cf4a0509d7290/atuinsh/atuin",
         "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 0.85
     },
     {
-        "project_id": 789480255,
-        "content": "🌟 <b>llm-scraper</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting structured data from web pages using LLMs.\n<br>\n✨ <b>Key Features:</b>\n• Supports Local (Ollama, GGUF), OpenAI, Vercel AI SDK Providers\n• Schemas defined with Zod\n• Full type-safety with TypeScript\n• Based on Playwright framework\n• Streaming objects\n<br>\n📖 <b>Summary:</b>\nLLM Scraper is a TypeScript library designed to extract structured data from any webpage using LLMs. It supports various LLM providers, schema definitions with Zod, and offers features like code generation and streaming objects. The library leverages Playwright for browser automation and provides multiple formatting modes for different content types.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mishushakov/llm-scraper?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f07d7e15ca706da76bd33e2c888fdc775a8d65b560328c3dfc2256fae3231aa9/mishushakov/llm-scraper",
-        "platform": "telegram",
-        "quality_score": 0.45
-    },
-    {
-        "project_id": 820087727,
-        "content": "✨ <b>onlook</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDesigners directly editing and publishing changes to React and TailwindCSS based web applications.\n<br>\n✨ <b>Key Features:</b>\n• Design directly in live React app\n• Publish changes to code\n• Seamless integration with React + TailwindCSS\n• Live edits in the browser DOM\n<br>\n📖 <b>Summary:</b>\nOnlook is an open-source tool that allows designers to directly design and edit live React applications. It integrates seamlessly with React and TailwindCSS, enabling real-time modifications within the browser DOM. The tool aims to bridge the gap between design and development by allowing designers to customize the design, control the codebase, and publish changes without needing extensive coding knowledge.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/onlook-dev/onlook?embed=0\">View Project</a>\n• <a href=\"https://onlook.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/16fd0cbb773166fd5784f698f46f5c8f47d97cb30c2d124eff9e4c4b7edf2890/onlook-dev/onlook",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 569233100,
-        "content": "🚀 <b>Harden-Windows-Security</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nTo securely harden Windows operating systems against malware and other security threats using officially supported Microsoft methods.\n<br>\n✨ <b>Key Features:</b>\n• Hardens Windows security using official Microsoft methods\n• Provides tools and guides for various security levels (Personal, Enterprise, Government, Military)\n<br>\n📖 <b>Summary:</b>\nThe Harden-Windows-Security repository provides tools and guides to harden Windows operating systems securely using official Microsoft methods. It offers a PowerShell module and AppControl Manager to automate and manage security configurations for various security levels, aiming to protect against malware and enhance overall system security.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HotCakeX/Harden-Windows-Security?embed=0\">View Project</a>\n• <a href=\"https://hotcakex.github.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9dc4aad80f86b21274310d65707443211fb547b764c184fc938b2b70d6b28348/HotCakeX/Harden-Windows-Security",
-        "platform": "telegram",
-        "quality_score": 0.9
-    },
-    {
-        "project_id": 892128953,
-        "content": "🌟 <b>ShadowHound</b> | PowerShell\n<br>\n🎯 <b>Primary Use Case:</b>\nActive Directory enumeration for security assessments and penetration testing, minimizing detection risks by avoiding known-malicious binaries.\n<br>\n✨ <b>Key Features:</b>\n• Active Directory enumeration using native PowerShell\n• Two methods for data collection: ADWS and LDAP\n• Enumerates users, groups, computers, and certificates\n<br>\n📖 <b>Summary:</b>\nShadowHound is a PowerShell-based tool for Active Directory enumeration that avoids the use of SharpHound. It offers two methods for data collection, leveraging native PowerShell capabilities to minimize detection risks. The tool enumerates users, groups, computers, and certificates, and includes features for handling large domains and using alternate credentials.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Friends-Security/ShadowHound?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6fb35a466e4f1a9f456bf046ee3fb5b9ad8cc5ce8264174e9f742d404b77bcf2/Friends-Security/ShadowHound",
-        "platform": "telegram",
-        "quality_score": 0.3
-    },
-    {
-        "project_id": 944988714,
-        "content": "✨ <b>YT-Navigator</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEfficiently navigating and extracting information from YouTube channel content using AI.\n<br>\n✨ <b>Key Features:</b>\n• Semantic search through YouTube channel videos\n• AI-powered chat with channel content\n• Precise timestamp identification for relevant video segments\n• Channel management for scanning and summarizing videos\n<br>\n📖 <b>Summary:</b>\nYT Navigator is an AI-powered application designed to streamline the process of searching and understanding YouTube channel content. It allows users to quickly find relevant information within videos through semantic search, chat with an AI agent knowledgeable about the channel, and pinpoint precise timestamps for key segments, making it ideal for researchers, students, and content creators.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wassim249/YT-Navigator?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b06838623e1e30fb8e44dde8021df4975fa45547e3abcc3a1ed12199c01d8235/wassim249/YT-Navigator",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 799049436,
-        "content": "✨ <b>gpustack</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging GPU clusters for running AI models.\n<br>\n✨ <b>Key Features:</b>\n• Broad Hardware Compatibility\n• Broad Model Support\n• Scales with Your GPU Inventory\n• Distributed Inference\n• Multiple Inference Backends\n<br>\n📖 <b>Summary:</b>\nGPUStack is an open-source GPU cluster manager designed to simplify the deployment and scaling of AI models. It offers broad hardware and model compatibility, supports distributed inference, and provides OpenAI-compatible APIs. Key features include user management, GPU monitoring, and token usage tracking, all within a lightweight Python package.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gpustack/gpustack?embed=0\">View Project</a>\n• <a href=\"https://gpustack.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/94d685b6cffd779051f4569271d424ac057bf1af8749fc9f227b54f031f5b973/gpustack/gpustack",
+        "project_id": 22072746,
+        "content": "✨ <b>pex</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPackaging and deploying Python applications as self-contained, executable files.\n<br>\n✨ <b>Key Features:</b>\n• .pex file generation\n• Lock file creation\n• Virtual environment creation\n• Executable Python environments\n• Support for multiple platform-specific Python distributions\n<br>\n📖 <b>Summary:</b>\nPex is a tool for generating .pex files, which are self-contained executable Python environments similar to virtualenvs. It simplifies Python application deployment by packaging all dependencies into a single file that can be easily distributed and executed across different platforms. Pex also supports lock file and venv creation, and integrates with popular build systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pex-tool/pex?embed=0\">View Project</a>\n• <a href=\"https://docs.pex-tool.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8e6a1f8793f492e7b88b5e6a54e8cc985733ce6f84bb4f6a833671a179325d5a/pex-tool/pex",
         "platform": "telegram",
         "quality_score": 0.95
+    },
+    {
+        "project_id": 35133520,
+        "content": "🔥 <b>mostly-adequate-guide</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nLearning and applying functional programming principles in JavaScript development.\n<br>\n✨ <b>Key Features:</b>\n• Teaches functional programming concepts using JavaScript.\n• Provides practical examples applicable to real-world JavaScript projects.\n• Offers exercises and an npm module for hands-on learning.\n• Provides downloadable PDF and EPUB versions.\n<br>\n📖 <b>Summary:</b>\nThe 'mostly-adequate-guide' repository is a resource for learning functional programming (FP) concepts using JavaScript. It provides practical examples, exercises, and downloadable resources to help developers apply FP principles in their daily work. The guide aims to make FP accessible by leveraging the familiarity of JavaScript.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MostlyAdequate/mostly-adequate-guide?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5aefff8289487adb454af5bfb7afa28bba06d466802e7cba430cc795871044df/MostlyAdequate/mostly-adequate-guide",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 956297926,
+        "content": "🔥 <b>urx</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCollecting URLs from OSINT archives for security testing and analysis.\n<br>\n✨ <b>Key Features:</b>\n• Fetch URLs from multiple sources in parallel (Wayback Machine, Common Crawl, OTX)\n• Filter results by file extensions, patterns, or predefined presets\n• Support for multiple output formats: plain text, JSON, CSV\n<br>\n📖 <b>Summary:</b>\nUrx is a command-line tool built with Rust that extracts URLs from OSINT archives like the Wayback Machine and Common Crawl. It allows users to fetch URLs from multiple sources in parallel, filter results based on various criteria, and output the data in different formats. The primary use case is gathering comprehensive URL datasets for security testing and analysis.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hahwul/urx?embed=0\">View Project</a>\n• <a href=\"https://crates.io/crates/urx?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/956297926/d28b4111-45c9-4d0b-bda9-8c763d7cdfe2",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 758783944,
+        "content": "🌟 <b>FullBypass</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nBypassing AMSI and PowerShell CLM to obtain a FullLanguage PowerShell reverse shell.\n<br>\n✨ <b>Key Features:</b>\n• AMSI bypass\n• PowerShell CLM bypass\n• FullLanguage PowerShell reverse shell\n<br>\n📖 <b>Summary:</b>\nThe FullBypass tool is designed to circumvent AMSI and PowerShell Constrained Language Mode (CLM). It achieves this by employing memory hijacking techniques to modify the AmsiScanBuffer function. The tool ultimately provides a FullLanguage PowerShell reverse shell, enabling unrestricted PowerShell execution on the target system.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Sh3lldon/FullBypass?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3cf82b426bc694ebbb9aab0a9a879d395c0b7edc1e3dd35727449d962c6dbaff/Sh3lldon/FullBypass",
+        "platform": "telegram",
+        "quality_score": 0.6
     }
 ]

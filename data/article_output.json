@@ -1,26 +1,26 @@
 {
-    "article": "Onlook: The Open-Source Cursor That's Revolutionizing Web Design\n\nEver wished you could directly manipulate a website's code while visually interacting with its elements? Onlook makes this dream a reality. It's an open-source cursor designed for designers, seamlessly integrating with any website or web app built using React and Tailwind CSS.  Imagine making live edits directly within your browser's DOM – no more tedious back-and-forth between code editor and browser preview.  This isn't just about convenience; it's about a fundamental shift in how we approach web development.\n\nOnlook works by running locally as an Electron application.  Once installed, it connects to your React project.  Using a specially designed cursor, you can select any element on the webpage.  The magic happens when you right-click – Onlook instantly highlights the corresponding code snippet in your preferred IDE, whether it's VS Code, WebStorm, or another editor of your choice.  It's like having a real-time, visual link between design and code.\n\nBut Onlook is more than just a visual code editor. It's a collaborative tool, allowing multiple designers to work simultaneously on the same project.  Think of it as Google Docs for your website's design. The built-in chat functionality allows seamless communication, making team collaboration smoother and more efficient.  Changes are instantly reflected in the browser, allowing for immediate feedback and iterative design improvements.\n\nThe benefits for developers are significant.  Onlook dramatically reduces the time spent switching between the browser and the code editor, accelerating the development process. The visual feedback loop ensures that design changes are instantly reflected, leading to fewer errors and quicker iterations.  This tool empowers designers to make more informed decisions, resulting in better user experiences and more robust web applications. The real-time collaboration features boost teamwork and enhance overall efficiency.\n\nOnlook's architecture is surprisingly straightforward. It leverages the power of React, Electron, Tailwind CSS, and Vite to provide a seamless and responsive user experience. The application is built with a focus on simplicity and ease of use, making it accessible to developers of all skill levels.  The project is open-source, encouraging community contributions and ensuring continued improvement.\n\nIn short, Onlook is a game-changer for web designers and developers.  It bridges the gap between visual design and code, making the development process faster, more efficient, and more collaborative.  If you're tired of the constant back-and-forth between design and code, Onlook is the solution you've been waiting for.",
+    "article": "Ever feel like you need a better way to manage your time, especially when focusing on coding?  Then you absolutely HAVE to check out `timr-tui`, a fantastic little command-line tool built with Rust and Ratatui.  It's a TUI (Text User Interface), meaning it runs in your terminal, making it super lightweight and accessible.  Forget about clunky time management apps; this one's clean, efficient, and gets the job done.\n\n`timr-tui` gives you three core modes: Pomodoro, Countdown, and Timer.  The Pomodoro mode is perfect for focused work sessions, breaking your time into intervals with short breaks in between—ideal for avoiding burnout.  The Countdown timer is great for anything from short workout sessions to longer meditation periods, offering customizable durations.  And the simple Timer is there for those times you just need to keep track of how long something's taking.\n\nWhat makes `timr-tui` stand out is its flexibility.  You can customize the duration of your Pomodoro sessions, the length of your breaks, and even the visual style of the timer itself!  Want to add deciseconds for extra precision?  No problem.  Need a different color scheme? `timr-tui` has you covered.  The options are extensive, allowing you to tailor the experience to your exact needs and preferences.\n\nThe best part?  It's incredibly easy to use.  Installation is a breeze—a simple `cargo install timr-tui` command and you're ready to go.  The interface is intuitive and straightforward, making it easy to jump in and start using it right away.  No steep learning curve here!  Plus, it's incredibly lightweight, putting minimal strain on your system resources.\n\nBeyond the core functionality, `timr-tui` also offers some advanced features.  Mission Elapsed Time (MET) tracking is built-in, useful for those who work on projects with strict time constraints.  Desktop notifications are also supported (though experimental), allowing you to stay on track without constantly staring at your terminal.  The developers have clearly thought of everything, making this a truly comprehensive time management solution for developers.\n\nIf you're tired of juggling multiple apps to manage your time while coding, `timr-tui` is a game-changer. Its simplicity, customizability, and powerful features make it a must-have for any developer who wants to boost their productivity and stay focused.  Give it a try—you won't regret it!",
     "key_takeaways": [
-        "Real-time visual code editing within the browser.",
-        "Seamless integration with React and Tailwind CSS projects.",
-        "Accelerated development workflow through reduced context switching.",
-        "Enhanced collaboration with real-time chat and shared editing.",
-        "Open-source and community-driven development for continuous improvement."
+        "Simple and intuitive TUI for time management.",
+        "Three core modes: Pomodoro, Countdown, and Timer.",
+        "Highly customizable with various options for durations and visual styles.",
+        "Easy installation via `cargo`.",
+        "Lightweight and efficient, ideal for developers focused on coding"
     ],
     "tags": [
-        "React",
-        "Electron",
-        "Tailwind CSS",
-        "Web Development",
-        "Design Tools"
+        "Rust",
+        "TUI",
+        "Pomodoro",
+        "Time Management",
+        "Command-line"
     ],
-    "title": "Onlook: The Open-Source Cursor That's Revolutionizing Web Design",
-    "stars": 9155,
-    "forks": 550,
-    "open_issues": 225,
-    "languages": "TypeScript",
-    "readme_summary": "Onlook is an open-source tool that allows designers to directly design and edit live React applications. It integrates seamlessly with React and TailwindCSS, enabling real-time modifications within the browser DOM. The tool aims to bridge the gap between design and development by allowing designers to customize the design, control the codebase, and publish changes without needing extensive coding knowledge.",
-    "project_id": 820087727,
-    "url": "https://github.com/onlook-dev/onlook",
-    "description": "The open source Cursor for Designers. Design directly in your live React app and publish your changes to code."
+    "title": "Boost Your Coding Productivity with timr-tui!",
+    "stars": 116,
+    "forks": 6,
+    "open_issues": 0,
+    "languages": "Rust",
+    "readme_summary": "timr-tui is a terminal-based application written in Rust that helps users organize their time. It provides Pomodoro, Countdown, and Timer functionalities, along with customizable styles and a CLI interface for easy integration and usage.",
+    "project_id": 895165567,
+    "url": "https://github.com/sectore/timr-tui",
+    "description": "TUI to organize your time: Pomodoro, Countdown, Timer."
 }
