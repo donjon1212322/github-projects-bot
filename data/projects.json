@@ -1,253 +1,255 @@
 [
     {
-        "id": 60787328,
-        "name": "MORT",
-        "description": "MORT 번역기 프로젝트 - Real-time game translator with OCR",
-        "url": "https://github.com/killkimno/MORT",
-        "language": "C#",
-        "stars": 811,
-        "forks": 54,
-        "created_at": "2016-06-09T15:54:33Z",
-        "updated_at": "2025-04-17T08:35:46Z",
-        "topics": [
-            "auto-translation",
-            "game",
-            "game-translation",
-            "image-to-text",
-            "ocr",
-            "tesseract-ocr",
-            "translate",
-            "translation"
-        ],
-        "quality_score": 0.5,
+        "id": 965313467,
+        "name": "droidrun",
+        "description": null,
+        "url": "https://github.com/droidrun/droidrun",
+        "language": "Python",
+        "stars": 1554,
+        "forks": 138,
+        "created_at": "2025-04-12T22:03:47Z",
+        "updated_at": "2025-04-18T10:05:25Z",
+        "topics": [],
+        "quality_score": 0.55,
         "contributors_count": 0,
-        "last_commit_date": "2025-03-16T07:14:36Z",
+        "last_commit_date": "2025-04-16T13:03:52Z",
         "media_urls": [
-            "https://repository-images.githubusercontent.com/60787328/d1117064-81ca-4945-83fc-0114466a5f15"
+            "https://opengraph.githubassets.com/e0d3d7302ebde7284da6cb56b0719496571856e67dd64e8a40ac1b82858fa88b/droidrun/droidrun"
         ],
-        "homepage": "https://blog.naver.com/killkimno/70179867557",
-        "readme_summary": "MORT is a real-time game translator that extracts dialog from the screen using OCR and translates it using machine translation services or a database. It supports multiple OCR engines and translation services, allowing users to play games in foreign languages with real-time translated subtitles. The program is designed for Windows and requires .NET 7.",
+        "homepage": "https://droidrun.ai",
+        "readme_summary": "DroidRun is a framework for controlling Android devices using LLM agents, enabling automation through natural language. It features a CLI, a Python API for custom automations, and supports multiple LLM providers like OpenAI, Anthropic, and Gemini. The framework also uses screenshot analysis for visual understanding of the device's state.",
         "key_features": [
-            "Realtime translate",
-            "OCR (TesseractOCR, Windows OCR, NHOcr, Easy OCR)",
-            "Machine translation (Naver Papago, Google Web, Google Sheet, ezTrans, DeepL)",
-            "Language Patch with using DB",
-            "Multiple OCR areas",
-            "Image adjust"
+            "Control Android devices with natural language commands",
+            "Supports multiple LLM providers (OpenAI, Anthropic, Gemini)",
+            "Easy to use CLI",
+            "Extendable Python API for custom automations",
+            "Screenshot analysis for visual understanding of the device"
         ],
-        "primary_use_case": "Real-time translation of game dialogs using OCR and machine translation.",
-        "open_issues": 25,
-        "cover_image_prompt": "Imagine a skilled linguist sitting before a monitor displaying a video game. The linguist wears glasses that project OCR readings onto the screen, instantly translating the game's dialogue into multiple languages displayed as subtitles. Digital threads connect the game screen to various translation engines represented by glowing orbs labeled 'Papago', 'DeepL', and 'Google Translate'. The linguist smiles, effortlessly understanding the game. Small UI elements showing OCR settings and language codes float around the scene. The composition is clean and focused with a vibrant color scheme. The image should be in a flat design style with clear iconography."
+        "primary_use_case": "Automating Android device interactions using natural language commands.",
+        "open_issues": 9,
+        "cover_image_prompt": "Imagine a skilled puppeteer controlling an Android device with strings of code, orchestrating automated tasks on the screen. The puppeteer stands in front of a large monitor displaying the Android device's interface, with lines of code subtly woven into the strings. The scene is set in a futuristic workshop filled with glowing screens and digital tools. The illustration should be in a 3D isometric style with vibrant colors and intricate details, conveying the power and control DroidRun offers over Android devices."
     },
     {
-        "id": 895165567,
-        "name": "timr-tui",
-        "description": "TUI to organize your time: Pomodoro, Countdown, Timer.",
-        "url": "https://github.com/sectore/timr-tui",
-        "language": "Rust",
-        "stars": 116,
-        "forks": 6,
-        "created_at": "2024-11-27T17:16:56Z",
-        "updated_at": "2025-04-17T07:26:28Z",
-        "topics": [
-            "ratatui",
-            "rust",
-            "tui"
-        ],
-        "quality_score": 0.9500000000000001,
+        "id": 966383042,
+        "name": "dead-man-hand",
+        "description": "DMH will execute action when you will not be able to. Dead-man-switch software with privacy in mind.",
+        "url": "https://github.com/bkupidura/dead-man-hand",
+        "language": "Go",
+        "stars": 111,
+        "forks": 0,
+        "created_at": "2025-04-14T20:52:05Z",
+        "updated_at": "2025-04-18T09:03:56Z",
+        "topics": [],
+        "quality_score": 0.5499999999999999,
         "contributors_count": 0,
-        "last_commit_date": "2025-04-17T06:31:40Z",
+        "last_commit_date": "2025-04-17T22:40:49Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/6a8d02f1e264b32ad1feb7f988cd48ed88fdf1605de6c5b83b4133a350c03383/sectore/timr-tui"
+            "https://opengraph.githubassets.com/95ef855a8278928fbcb587a27b108abad30a56f481c2b2d22677cf90de77baed/bkupidura/dead-man-hand"
+        ],
+        "homepage": null,
+        "readme_summary": "The dead-man-hand repository provides a dead-man-switch software solution designed with privacy in mind. It allows users to define actions that will be executed only when they are considered 'dead,' ensuring that these actions remain encrypted and confidential until that moment. The system integrates with Vault for secure key management and supports multiple action and probe methods.",
+        "key_features": [
+            "Privacy-focused action execution only after death",
+            "Encrypted actions using age encryption",
+            "Vault integration for private key management",
+            "Multiple action execution methods (json_post, bulksms, mail)",
+            "Multiple alive probe methods (json_post, bulksms, mail)"
+        ],
+        "primary_use_case": "Executing predefined actions when the user is no longer available, ensuring privacy and confidentiality until that time.",
+        "open_issues": 0,
+        "cover_image_prompt": "Imagine a locked vault in a serene, snow-covered mountain landscape. Inside, a person's most precious memories and wishes are stored, safe and sound. A lone raven, representing the 'Dead Man's Hand,' perches atop the vault, patiently waiting. The vault's door is intricately designed with digital circuitry patterns, subtly hinting at the software aspect. The scene is bathed in soft, ethereal light, creating a sense of peace and security. The image should be in a 3D isometric illustration style with rich details and a cool color palette."
+    },
+    {
+        "id": 489384246,
+        "name": "blackbird",
+        "description": "An OSINT tool to search for accounts by username and email in social networks.",
+        "url": "https://github.com/p1ngul1n0/blackbird",
+        "language": "Python",
+        "stars": 3381,
+        "forks": 429,
+        "created_at": "2022-05-06T14:25:44Z",
+        "updated_at": "2025-04-18T08:05:44Z",
+        "topics": [
+            "cybersecurity",
+            "osint",
+            "pentesting",
+            "python"
+        ],
+        "quality_score": 0.7,
+        "contributors_count": 0,
+        "last_commit_date": "2025-03-10T15:34:30Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/4725bd8403cdec32c8f492a52d5675bbf245bf6e43bafd1d32ca292af35f03b1/p1ngul1n0/blackbird"
+        ],
+        "homepage": "https://p1ngul1n0.gitbook.io/blackbird/",
+        "readme_summary": "Blackbird is an OSINT tool designed to quickly locate user accounts on various platforms using usernames or email addresses. It integrates with WhatsMyName, offers multiple export formats, and includes AI-powered NER to enhance metadata extraction. The tool is intended for use in digital investigations and cybersecurity.",
+        "key_features": [
+            "OSINT tool for username/email searches",
+            "WhatsMyName integration",
+            "PDF, CSV, and HTTP export options",
+            "Customizable search filters",
+            "AI-powered NER for metadata extraction"
+        ],
+        "primary_use_case": "Searching for user accounts by username or email across social networks for digital investigations.",
+        "open_issues": 4,
+        "cover_image_prompt": "A detective meticulously examining a digital fingerprint under a magnifying glass, revealing connections between various social media profiles displayed on scattered screens. The detective's workspace is filled with glowing lines of code and data visualizations subtly connecting the fingerprint to the online world. The scene is set in a dimly lit, high-tech office with a focused atmosphere. Small UI elements displaying usernames and email addresses are visible on the screens. The image should be in a digital painting style with sharp details and a dark, mysterious color scheme."
+    },
+    {
+        "id": 927981080,
+        "name": "ScrapeServ",
+        "description": "A self-hosted API that takes a URL and returns a file with browser screenshots.",
+        "url": "https://github.com/goodreasonai/ScrapeServ",
+        "language": "Python",
+        "stars": 952,
+        "forks": 63,
+        "created_at": "2025-02-05T21:25:38Z",
+        "updated_at": "2025-04-18T08:07:35Z",
+        "topics": [],
+        "quality_score": 0.6,
+        "contributors_count": 0,
+        "last_commit_date": "2025-03-09T21:27:52Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/db6e3c7278807ced7b8262147d8eae153b7b24dcc030c6c69d58a0638e1e8389/goodreasonai/ScrapeServ"
         ],
         "homepage": "",
-        "readme_summary": "timr-tui is a terminal-based application written in Rust that helps users organize their time. It provides Pomodoro, Countdown, and Timer functionalities, along with customizable styles and a CLI interface for easy integration and usage.",
+        "readme_summary": "ScrapeServ is a self-hosted API that allows users to send a URL and receive website data as a file, along with screenshots of the site. It utilizes Playwright to launch a Firefox browser context for each job, ensuring accurate rendering of websites with JavaScript. The API handles redirects, download links, and provides HTTP status codes and headers, making it a comprehensive solution for web scraping and screenshot generation.",
         "key_features": [
-            "Pomodoro timer",
-            "Countdown timer",
-            "Standard timer",
-            "Customizable styles",
-            "Decisecond display",
-            "CLI interface"
+            "Takes screenshots of different sections of a webpage by scrolling.",
+            "Runs in a Docker container.",
+            "Browser-based (runs website Javascript).",
+            "Returns HTTP status code and headers.",
+            "Handles redirects automatically.",
+            "Handles download links.",
+            "Uses a task queue with configurable memory allocation.",
+            "Blocking API."
         ],
-        "primary_use_case": "Organizing and managing time using Pomodoro, Countdown, and Timer functionalities within a terminal user interface.",
-        "open_issues": 0,
-        "cover_image_prompt": "Imagine a skilled clockmaker meticulously crafting time within a vibrant workshop. The clockmaker uses various tools – a pomodoro-shaped lens for focused work, a countdown hourglass for precise tasks, and a timer dial for ongoing activities. Digital particles swirl around the workbench, subtly displaying code snippets and time data. The workshop is bathed in warm, focused light, with subtle UI elements projected onto the walls. The scene is rendered in a 3D isometric illustration style, with rich details and a clean, organized composition. The 'timr-tui' logo is subtly etched onto the clockmaker's workbench."
+        "primary_use_case": "Taking website screenshots via an API.",
+        "open_issues": 1,
+        "cover_image_prompt": "A diligent librarian meticulously archiving websites into physical books. The librarian uses a special camera that captures entire web pages, scrolls and all, and instantly prints them onto the book's pages. The books are then neatly organized on shelves, each labeled with the website's URL. A subtle UI overlay on the camera's screen shows the website rendering in real-time. The scene is set in a bright, modern library with a warm, inviting atmosphere. The image should be in a flat design style with clear iconography and a limited color palette."
     },
     {
-        "id": 301244405,
-        "name": "atuin",
-        "description": "✨ Magical shell history",
-        "url": "https://github.com/atuinsh/atuin",
-        "language": "Rust",
-        "stars": 23269,
-        "forks": 629,
-        "created_at": "2020-10-04T23:01:58Z",
-        "updated_at": "2025-04-17T10:00:12Z",
-        "topics": [
-            "bash",
-            "fish",
-            "history",
-            "rust",
-            "shell",
-            "zsh"
-        ],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-04-16T11:25:39Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/abc8d2b52ae2165ab1a1da9703fe5f69df6faecfb6d98ec0256cf4a0509d7290/atuinsh/atuin"
-        ],
-        "homepage": "https://atuin.sh",
-        "readme_summary": "Atuin replaces your existing shell history with a SQLite database, recording additional context for commands. It offers optional, fully encrypted synchronization of history between machines via an Atuin server. Key features include a full-screen search UI, cross-device synchronization, and detailed command logging.",
-        "key_features": [
-            "Rebindable full-screen history search UI",
-            "SQLite database storage for shell history",
-            "Encrypted backup and sync of shell history",
-            "Cross-terminal, cross-session, and cross-machine history",
-            "Logging of exit code, cwd, hostname, session, command duration",
-            "Statistics calculation (e.g., most used command)",
-            "Quick-jump to previous items",
-            "Switchable filter modes (session, directory, global)",
-            "Tab to edit functionality"
-        ],
-        "primary_use_case": "Replacing existing shell history with a synchronized, searchable SQLite database.",
-        "open_issues": 299,
-        "cover_image_prompt": "Imagine a historian meticulously archiving shell commands in a magical library. The historian uses a glowing quill to transcribe commands onto enchanted scrolls, which are then stored in secure, crystalline vaults. The library is filled with floating UI elements displaying command statistics and usage patterns. A subtle network of interconnected terminals glows softly in the background, symbolizing synchronized history across machines. The scene is bathed in soft, ethereal light, creating a sense of security and organization. The image should be in a detailed digital painting style with vibrant colors and clear outlines."
-    },
-    {
-        "id": 22072746,
-        "name": "pex",
-        "description": "A tool for generating .pex (Python EXecutable) files, lock files and venvs.",
-        "url": "https://github.com/pex-tool/pex",
+        "id": 6909307,
+        "name": "pyquery",
+        "description": "A jquery-like library for python",
+        "url": "https://github.com/gawel/pyquery",
         "language": "Python",
-        "stars": 3870,
-        "forks": 295,
-        "created_at": "2014-07-21T17:06:12Z",
-        "updated_at": "2025-04-17T08:52:50Z",
-        "topics": [],
-        "quality_score": 0.95,
+        "stars": 2349,
+        "forks": 182,
+        "created_at": "2012-11-28T20:27:39Z",
+        "updated_at": "2025-04-17T21:43:13Z",
+        "topics": [
+            "css",
+            "jquery",
+            "lxml",
+            "python",
+            "python3"
+        ],
+        "quality_score": 0.65,
         "contributors_count": 0,
-        "last_commit_date": "2025-04-16T23:26:51Z",
+        "last_commit_date": "2024-08-30T08:12:25Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/8e6a1f8793f492e7b88b5e6a54e8cc985733ce6f84bb4f6a833671a179325d5a/pex-tool/pex"
+            "https://opengraph.githubassets.com/9555d94c4d9d1f2e9d1e2893cac0bf9dfddef1c914da7da9224bb0b6927d427d/gawel/pyquery"
         ],
-        "homepage": "https://docs.pex-tool.org/",
-        "readme_summary": "Pex is a tool for generating .pex files, which are self-contained executable Python environments similar to virtualenvs. It simplifies Python application deployment by packaging all dependencies into a single file that can be easily distributed and executed across different platforms. Pex also supports lock file and venv creation, and integrates with popular build systems.",
+        "homepage": "http://pyquery.rtfd.org/",
+        "readme_summary": "PyQuery is a Python library that provides a jQuery-like interface for querying and manipulating XML documents. It leverages lxml for efficient processing and offers a familiar API for developers accustomed to jQuery. PyQuery simplifies tasks such as selecting elements, traversing the DOM, and modifying content within XML/HTML structures.",
         "key_features": [
-            ".pex file generation",
-            "Lock file creation",
-            "Virtual environment creation",
-            "Executable Python environments",
-            "Support for multiple platform-specific Python distributions",
-            "Integration with build systems like Pants, Buck, and pygradle",
-            "Entry point support for standalone executables"
+            "jQuery-like API for XML documents in Python",
+            "Uses lxml for fast XML and HTML manipulation",
+            "Ability to load XML from strings, lxml documents, files, or URLs",
+            "Supports jQuery pseudo-classes like :first, :last, :even, :odd, etc."
         ],
-        "primary_use_case": "Packaging and deploying Python applications as self-contained, executable files.",
-        "open_issues": 75,
-        "cover_image_prompt": "Imagine a skilled chef in a bustling kitchen, expertly blending various ingredients (representing Python libraries) into a single, perfectly sealed container (a .pex file). The chef carefully selects ingredients from labeled jars, each representing a different dependency. A conveyor belt carries these sealed containers to various locations, symbolizing the easy deployment of Python applications. Subtle UI elements on nearby screens display code snippets and dependency lists. The kitchen is brightly lit with a focus on cleanliness and efficiency. The image should be in a 3D isometric illustration style with vibrant colors and sharp details."
+        "primary_use_case": "Querying and manipulating XML/HTML documents in Python using a jQuery-like syntax.",
+        "open_issues": 54,
+        "cover_image_prompt": "Imagine a skilled sculptor meticulously shaping a block of raw XML data into a refined jQuery object. The sculptor uses specialized tools that resemble Python code snippets, carefully chiseling away imperfections and adding elegant features. The finished jQuery object glows with a soft, inviting light, ready to be seamlessly integrated into a web application displayed on a nearby screen. Subtle UI elements float around the sculptor, showcasing the transformation process. The scene is set in a bright, modern workshop with a focus on precision and artistry. The image should be in a 3D isometric illustration style with clean lines and vibrant colors."
     },
     {
-        "id": 35133520,
-        "name": "mostly-adequate-guide",
-        "description": "Mostly adequate guide to FP (in javascript)",
-        "url": "https://github.com/MostlyAdequate/mostly-adequate-guide",
-        "language": "JavaScript",
-        "stars": 23632,
-        "forks": 1890,
-        "created_at": "2015-05-06T01:44:15Z",
-        "updated_at": "2025-04-17T05:50:31Z",
+        "id": 187202744,
+        "name": "python-benedict",
+        "description": ":blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, html, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.",
+        "url": "https://github.com/fabiocaccamo/python-benedict",
+        "language": "Python",
+        "stars": 1550,
+        "forks": 45,
+        "created_at": "2019-05-17T11:13:40Z",
+        "updated_at": "2025-04-18T09:55:51Z",
         "topics": [
-            "functional-programming",
-            "javascript",
-            "reactive-programming",
-            "tutorial"
+            "base64",
+            "csv",
+            "decode",
+            "dict",
+            "dictionary",
+            "encode",
+            "filter",
+            "flatten",
+            "json",
+            "keypath",
+            "pickle",
+            "plist",
+            "python",
+            "query-string",
+            "subset",
+            "toml",
+            "traverse",
+            "xls",
+            "xml",
+            "yaml"
+        ],
+        "quality_score": 1.1000000000000003,
+        "contributors_count": 0,
+        "last_commit_date": "2025-04-03T09:11:43Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/187202744/024f6180-049f-11eb-876a-be68f8b900d1"
+        ],
+        "homepage": "",
+        "readme_summary": "The python-benedict library enhances Python's built-in dictionary with keylist, keypath, and keyattr support, simplifying access to nested data. It provides integrated I/O operations for common data formats like JSON, YAML, and CSV, as well as S3 support. This makes it easier to work with complex data structures and perform data serialization/deserialization tasks.",
+        "key_features": [
+            "Dict subclass with keylist/keypath/keyattr support",
+            "Built-in I/O operations (base64, csv, html, ini, json, pickle, plist, query-string, toml, xls, xml, yaml)",
+            "S3 support",
+            "Utility methods for data manipulation"
+        ],
+        "primary_use_case": "Extending Python dictionaries with advanced key access methods and built-in I/O operations for various data formats.",
+        "open_issues": 9,
+        "cover_image_prompt": "A skilled librarian meticulously organizing a vast collection of dictionaries, each representing a different data format (JSON, YAML, CSV, etc.). The librarian uses a special key to unlock and access data within each dictionary, seamlessly converting between formats. Digital particles flow from one dictionary to another, symbolizing data transformation. A subtle UI overlay shows a keypath being used to access nested data. The scene is set in a bright, modern library with warm lighting. The image should be in a 3D isometric illustration style with clean lines and vibrant colors."
+    },
+    {
+        "id": 370397287,
+        "name": "AirPodsDesktop",
+        "description": "☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)",
+        "url": "https://github.com/SpriteOvO/AirPodsDesktop",
+        "language": "C++",
+        "stars": 1865,
+        "forks": 111,
+        "created_at": "2021-05-24T15:20:25Z",
+        "updated_at": "2025-04-18T08:09:40Z",
+        "topics": [
+            "airpods",
+            "battery",
+            "bluetooth",
+            "desktop",
+            "helper",
+            "media-control",
+            "monitor",
+            "power",
+            "tool",
+            "windows"
         ],
         "quality_score": 0.55,
         "contributors_count": 0,
-        "last_commit_date": "2024-09-17T06:16:29Z",
+        "last_commit_date": "2023-10-16T04:53:49Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/5aefff8289487adb454af5bfb7afa28bba06d466802e7cba430cc795871044df/MostlyAdequate/mostly-adequate-guide"
-        ],
-        "homepage": null,
-        "readme_summary": "The 'mostly-adequate-guide' repository is a resource for learning functional programming (FP) concepts using JavaScript. It provides practical examples, exercises, and downloadable resources to help developers apply FP principles in their daily work. The guide aims to make FP accessible by leveraging the familiarity of JavaScript.",
-        "key_features": [
-            "Teaches functional programming concepts using JavaScript.",
-            "Provides practical examples applicable to real-world JavaScript projects.",
-            "Offers exercises and an npm module for hands-on learning.",
-            "Provides downloadable PDF and EPUB versions."
-        ],
-        "primary_use_case": "Learning and applying functional programming principles in JavaScript development.",
-        "open_issues": 72,
-        "cover_image_prompt": "A seasoned cartographer meticulously crafting a map of a vast, uncharted JavaScript landscape. The cartographer uses functional programming tools like lenses and compasses to survey the terrain, transforming complex code into elegant, interconnected pathways. The map reveals hidden treasures of immutability and pure functions, guiding developers towards a more maintainable and predictable codebase. Small UI elements displaying JavaScript code snippets are subtly integrated into the map's design. The scene is set in a sunlit workshop filled with scrolls and coding artifacts. The image should be in a detailed technical illustration style with labeled parts and a warm color scheme."
-    },
-    {
-        "id": 956297926,
-        "name": "urx",
-        "description": "Extracts URLs from OSINT Archives for Security Insights",
-        "url": "https://github.com/hahwul/urx",
-        "language": "Rust",
-        "stars": 71,
-        "forks": 7,
-        "created_at": "2025-03-28T02:48:27Z",
-        "updated_at": "2025-04-17T08:52:59Z",
-        "topics": [
-            "osint",
-            "osint-tool",
-            "security",
-            "url",
-            "urx",
-            "wayback-machine"
-        ],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-04-10T14:14:28Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/956297926/d28b4111-45c9-4d0b-bda9-8c763d7cdfe2"
-        ],
-        "homepage": "https://crates.io/crates/urx",
-        "readme_summary": "Urx is a command-line tool built with Rust that extracts URLs from OSINT archives like the Wayback Machine and Common Crawl. It allows users to fetch URLs from multiple sources in parallel, filter results based on various criteria, and output the data in different formats. The primary use case is gathering comprehensive URL datasets for security testing and analysis.",
-        "key_features": [
-            "Fetch URLs from multiple sources in parallel (Wayback Machine, Common Crawl, OTX)",
-            "Filter results by file extensions, patterns, or predefined presets",
-            "Support for multiple output formats: plain text, JSON, CSV",
-            "Output results to the console or a file, or stream via stdin for pipeline integration",
-            "Filter and validate URLs based on HTTP status codes and patterns",
-            "Extract additional links from collected URLs"
-        ],
-        "primary_use_case": "Collecting URLs from OSINT archives for security testing and analysis.",
-        "open_issues": 3,
-        "cover_image_prompt": "A seasoned archaeologist meticulously sifting through layers of digital archives (represented by glowing, stacked hard drives) in a vast, futuristic library. The archaeologist uses a specialized magnifying glass that highlights URLs within the data streams, extracting them and organizing them into neat, labeled folders. Subtle UI elements float around the scene, displaying code snippets and data visualizations related to URL extraction. The library is bathed in soft, ethereal light, creating a sense of discovery and knowledge. The image should be in a 3D isometric illustration style with rich details and a muted color palette."
-    },
-    {
-        "id": 758783944,
-        "name": "FullBypass",
-        "description": "A tool which bypasses AMSI (AntiMalware Scan Interface) and PowerShell CLM (Constrained Language Mode) and gives you a FullLanguage PowerShell reverse shell.",
-        "url": "https://github.com/Sh3lldon/FullBypass",
-        "language": "C#",
-        "stars": 703,
-        "forks": 132,
-        "created_at": "2024-02-17T04:21:39Z",
-        "updated_at": "2025-04-16T14:35:02Z",
-        "topics": [
-            "amsi-bypass",
-            "powershellclm"
-        ],
-        "quality_score": 0.6,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-28T08:38:36Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/3cf82b426bc694ebbb9aab0a9a879d395c0b7edc1e3dd35727449d962c6dbaff/Sh3lldon/FullBypass"
+            "https://repository-images.githubusercontent.com/370397287/01ccac85-7e2a-4e40-ab15-2807cabdfd8b"
         ],
         "homepage": "",
-        "readme_summary": "The FullBypass tool is designed to circumvent AMSI and PowerShell Constrained Language Mode (CLM). It achieves this by employing memory hijacking techniques to modify the AmsiScanBuffer function. The tool ultimately provides a FullLanguage PowerShell reverse shell, enabling unrestricted PowerShell execution on the target system.",
+        "readme_summary": "AirPodsDesktop is a C++ application designed to improve the AirPods user experience on Windows and Linux. It provides features such as battery information display, automatic ear detection, low audio latency mode, and visually appealing animations. The application aims to integrate AirPods seamlessly with desktop environments, offering a more convenient and intuitive user experience.",
         "key_features": [
-            "AMSI bypass",
-            "PowerShell CLM bypass",
-            "FullLanguage PowerShell reverse shell"
+            "Battery information display",
+            "Automatic ear detection",
+            "Low audio latency mode",
+            "Beautiful animation"
         ],
-        "primary_use_case": "Bypassing AMSI and PowerShell CLM to obtain a FullLanguage PowerShell reverse shell.",
-        "open_issues": 2,
-        "cover_image_prompt": "A skilled locksmith bypassing a complex, glowing digital lock on a fortified vault, representing AMSI and CLM. The locksmith uses specialized digital tools, displaying snippets of code on their screens, to manipulate the lock's mechanisms. Inside the vault, a reverse shell, visualized as a phoenix, is taking flight. The scene is set in a futuristic server room with dramatic lighting. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+        "primary_use_case": "Enhance the user experience of AirPods on Windows and Linux desktops.",
+        "open_issues": 63,
+        "cover_image_prompt": "A friendly, animated AirPods icon sitting on a Windows desktop, acting as a conductor of an orchestra. The orchestra represents the computer's audio system, with instruments visually representing different audio functions like volume control, battery levels, and ear detection. The AirPods conductor uses a glowing baton to adjust the sound, with musical notes transforming into UI elements on nearby screens. The desktop background shows a subtle, stylized version of the AirPodsDesktop logo. The scene is brightly lit and cheerful, in a 3D isometric illustration style with clean lines and vibrant colors."
     }
 ]

@@ -1,51 +1,51 @@
 [
     {
-        "project_id": 60787328,
-        "content": "💡 <b>MORT</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time translation of game dialogs using OCR and machine translation.\n<br>\n✨ <b>Key Features:</b>\n• Realtime translate\n• OCR (TesseractOCR, Windows OCR, NHOcr, Easy OCR)\n• Machine translation (Naver Papago, Google Web, Google Sheet, ezTrans, DeepL)\n• Language Patch with using DB\n• Multiple OCR areas\n<br>\n📖 <b>Summary:</b>\nMORT is a real-time game translator that extracts dialog from the screen using OCR and translates it using machine translation services or a database. It supports multiple OCR engines and translation services, allowing users to play games in foreign languages with real-time translated subtitles. The program is designed for Windows and requires .NET 7.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/killkimno/MORT?embed=0\">View Project</a>\n• <a href=\"https://blog.naver.com/killkimno/70179867557?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/60787328/d1117064-81ca-4945-83fc-0114466a5f15",
-        "platform": "telegram",
-        "quality_score": 0.5
-    },
-    {
-        "project_id": 895165567,
-        "content": "💡 <b>timr-tui</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nOrganizing and managing time using Pomodoro, Countdown, and Timer functionalities within a terminal user interface.\n<br>\n✨ <b>Key Features:</b>\n• Pomodoro timer\n• Countdown timer\n• Standard timer\n• Customizable styles\n• Decisecond display\n<br>\n📖 <b>Summary:</b>\ntimr-tui is a terminal-based application written in Rust that helps users organize their time. It provides Pomodoro, Countdown, and Timer functionalities, along with customizable styles and a CLI interface for easy integration and usage.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sectore/timr-tui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6a8d02f1e264b32ad1feb7f988cd48ed88fdf1605de6c5b83b4133a350c03383/sectore/timr-tui",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 301244405,
-        "content": "🔥 <b>atuin</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nReplacing existing shell history with a synchronized, searchable SQLite database.\n<br>\n✨ <b>Key Features:</b>\n• Rebindable full-screen history search UI\n• SQLite database storage for shell history\n• Encrypted backup and sync of shell history\n• Cross-terminal, cross-session, and cross-machine history\n• Logging of exit code, cwd, hostname, session, command duration\n<br>\n📖 <b>Summary:</b>\nAtuin replaces your existing shell history with a SQLite database, recording additional context for commands. It offers optional, fully encrypted synchronization of history between machines via an Atuin server. Key features include a full-screen search UI, cross-device synchronization, and detailed command logging.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/atuinsh/atuin?embed=0\">View Project</a>\n• <a href=\"https://atuin.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/abc8d2b52ae2165ab1a1da9703fe5f69df6faecfb6d98ec0256cf4a0509d7290/atuinsh/atuin",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 22072746,
-        "content": "✨ <b>pex</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPackaging and deploying Python applications as self-contained, executable files.\n<br>\n✨ <b>Key Features:</b>\n• .pex file generation\n• Lock file creation\n• Virtual environment creation\n• Executable Python environments\n• Support for multiple platform-specific Python distributions\n<br>\n📖 <b>Summary:</b>\nPex is a tool for generating .pex files, which are self-contained executable Python environments similar to virtualenvs. It simplifies Python application deployment by packaging all dependencies into a single file that can be easily distributed and executed across different platforms. Pex also supports lock file and venv creation, and integrates with popular build systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pex-tool/pex?embed=0\">View Project</a>\n• <a href=\"https://docs.pex-tool.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8e6a1f8793f492e7b88b5e6a54e8cc985733ce6f84bb4f6a833671a179325d5a/pex-tool/pex",
-        "platform": "telegram",
-        "quality_score": 0.95
-    },
-    {
-        "project_id": 35133520,
-        "content": "🔥 <b>mostly-adequate-guide</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nLearning and applying functional programming principles in JavaScript development.\n<br>\n✨ <b>Key Features:</b>\n• Teaches functional programming concepts using JavaScript.\n• Provides practical examples applicable to real-world JavaScript projects.\n• Offers exercises and an npm module for hands-on learning.\n• Provides downloadable PDF and EPUB versions.\n<br>\n📖 <b>Summary:</b>\nThe 'mostly-adequate-guide' repository is a resource for learning functional programming (FP) concepts using JavaScript. It provides practical examples, exercises, and downloadable resources to help developers apply FP principles in their daily work. The guide aims to make FP accessible by leveraging the familiarity of JavaScript.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MostlyAdequate/mostly-adequate-guide?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5aefff8289487adb454af5bfb7afa28bba06d466802e7cba430cc795871044df/MostlyAdequate/mostly-adequate-guide",
+        "project_id": 965313467,
+        "content": "💡 <b>droidrun</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating Android device interactions using natural language commands.\n<br>\n✨ <b>Key Features:</b>\n• Control Android devices with natural language commands\n• Supports multiple LLM providers (OpenAI, Anthropic, Gemini)\n• Easy to use CLI\n• Extendable Python API for custom automations\n• Screenshot analysis for visual understanding of the device\n<br>\n📖 <b>Summary:</b>\nDroidRun is a framework for controlling Android devices using LLM agents, enabling automation through natural language. It features a CLI, a Python API for custom automations, and supports multiple LLM providers like OpenAI, Anthropic, and Gemini. The framework also uses screenshot analysis for visual understanding of the device's state.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/droidrun/droidrun?embed=0\">View Project</a>\n• <a href=\"https://droidrun.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e0d3d7302ebde7284da6cb56b0719496571856e67dd64e8a40ac1b82858fa88b/droidrun/droidrun",
         "platform": "telegram",
         "quality_score": 0.55
     },
     {
-        "project_id": 956297926,
-        "content": "🔥 <b>urx</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCollecting URLs from OSINT archives for security testing and analysis.\n<br>\n✨ <b>Key Features:</b>\n• Fetch URLs from multiple sources in parallel (Wayback Machine, Common Crawl, OTX)\n• Filter results by file extensions, patterns, or predefined presets\n• Support for multiple output formats: plain text, JSON, CSV\n<br>\n📖 <b>Summary:</b>\nUrx is a command-line tool built with Rust that extracts URLs from OSINT archives like the Wayback Machine and Common Crawl. It allows users to fetch URLs from multiple sources in parallel, filter results based on various criteria, and output the data in different formats. The primary use case is gathering comprehensive URL datasets for security testing and analysis.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hahwul/urx?embed=0\">View Project</a>\n• <a href=\"https://crates.io/crates/urx?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/956297926/d28b4111-45c9-4d0b-bda9-8c763d7cdfe2",
+        "project_id": 966383042,
+        "content": "🚀 <b>dead-man-hand</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nExecuting predefined actions when the user is no longer available, ensuring privacy and confidentiality until that time.\n<br>\n✨ <b>Key Features:</b>\n• Privacy-focused action execution only after death\n• Encrypted actions using age encryption\n• Vault integration for private key management\n• Multiple action execution methods (json_post, bulksms, mail)\n<br>\n📖 <b>Summary:</b>\nThe dead-man-hand repository provides a dead-man-switch software solution designed with privacy in mind. It allows users to define actions that will be executed only when they are considered 'dead,' ensuring that these actions remain encrypted and confidential until that moment. The system integrates with Vault for secure key management and supports multiple action and probe methods.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bkupidura/dead-man-hand?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/95ef855a8278928fbcb587a27b108abad30a56f481c2b2d22677cf90de77baed/bkupidura/dead-man-hand",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.5499999999999999
     },
     {
-        "project_id": 758783944,
-        "content": "🌟 <b>FullBypass</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nBypassing AMSI and PowerShell CLM to obtain a FullLanguage PowerShell reverse shell.\n<br>\n✨ <b>Key Features:</b>\n• AMSI bypass\n• PowerShell CLM bypass\n• FullLanguage PowerShell reverse shell\n<br>\n📖 <b>Summary:</b>\nThe FullBypass tool is designed to circumvent AMSI and PowerShell Constrained Language Mode (CLM). It achieves this by employing memory hijacking techniques to modify the AmsiScanBuffer function. The tool ultimately provides a FullLanguage PowerShell reverse shell, enabling unrestricted PowerShell execution on the target system.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Sh3lldon/FullBypass?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3cf82b426bc694ebbb9aab0a9a879d395c0b7edc1e3dd35727449d962c6dbaff/Sh3lldon/FullBypass",
+        "project_id": 489384246,
+        "content": "🌟 <b>blackbird</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSearching for user accounts by username or email across social networks for digital investigations.\n<br>\n✨ <b>Key Features:</b>\n• OSINT tool for username/email searches\n• WhatsMyName integration\n• PDF, CSV, and HTTP export options\n• Customizable search filters\n• AI-powered NER for metadata extraction\n<br>\n📖 <b>Summary:</b>\nBlackbird is an OSINT tool designed to quickly locate user accounts on various platforms using usernames or email addresses. It integrates with WhatsMyName, offers multiple export formats, and includes AI-powered NER to enhance metadata extraction. The tool is intended for use in digital investigations and cybersecurity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/p1ngul1n0/blackbird?embed=0\">View Project</a>\n• <a href=\"https://p1ngul1n0.gitbook.io/blackbird/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4725bd8403cdec32c8f492a52d5675bbf245bf6e43bafd1d32ca292af35f03b1/p1ngul1n0/blackbird",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 927981080,
+        "content": "🌟 <b>ScrapeServ</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTaking website screenshots via an API.\n<br>\n✨ <b>Key Features:</b>\n• Takes screenshots of different sections of a webpage by scrolling.\n• Runs in a Docker container.\n• Browser-based (runs website Javascript).\n• Returns HTTP status code and headers.\n• Handles redirects automatically.\n<br>\n📖 <b>Summary:</b>\nScrapeServ is a self-hosted API that allows users to send a URL and receive website data as a file, along with screenshots of the site. It utilizes Playwright to launch a Firefox browser context for each job, ensuring accurate rendering of websites with JavaScript. The API handles redirects, download links, and provides HTTP status codes and headers, making it a comprehensive solution for web scraping and screenshot generation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/goodreasonai/ScrapeServ?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/db6e3c7278807ced7b8262147d8eae153b7b24dcc030c6c69d58a0638e1e8389/goodreasonai/ScrapeServ",
         "platform": "telegram",
         "quality_score": 0.6
+    },
+    {
+        "project_id": 6909307,
+        "content": "🔥 <b>pyquery</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nQuerying and manipulating XML/HTML documents in Python using a jQuery-like syntax.\n<br>\n✨ <b>Key Features:</b>\n• jQuery-like API for XML documents in Python\n• Uses lxml for fast XML and HTML manipulation\n• Ability to load XML from strings, lxml documents, files, or URLs\n• Supports jQuery pseudo-classes like :first, :last, :even, :odd, etc.\n<br>\n📖 <b>Summary:</b>\nPyQuery is a Python library that provides a jQuery-like interface for querying and manipulating XML documents. It leverages lxml for efficient processing and offers a familiar API for developers accustomed to jQuery. PyQuery simplifies tasks such as selecting elements, traversing the DOM, and modifying content within XML/HTML structures.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gawel/pyquery?embed=0\">View Project</a>\n• <a href=\"http://pyquery.rtfd.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9555d94c4d9d1f2e9d1e2893cac0bf9dfddef1c914da7da9224bb0b6927d427d/gawel/pyquery",
+        "platform": "telegram",
+        "quality_score": 0.65
+    },
+    {
+        "project_id": 187202744,
+        "content": "💡 <b>python-benedict</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExtending Python dictionaries with advanced key access methods and built-in I/O operations for various data formats.\n<br>\n✨ <b>Key Features:</b>\n• Dict subclass with keylist/keypath/keyattr support\n• Built-in I/O operations (base64, csv, html, ini, json, pickle, plist, query-string, toml, xls, xml, yaml)\n• S3 support\n• Utility methods for data manipulation\n<br>\n📖 <b>Summary:</b>\nThe python-benedict library enhances Python's built-in dictionary with keylist, keypath, and keyattr support, simplifying access to nested data. It provides integrated I/O operations for common data formats like JSON, YAML, and CSV, as well as S3 support. This makes it easier to work with complex data structures and perform data serialization/deserialization tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/fabiocaccamo/python-benedict?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/187202744/024f6180-049f-11eb-876a-be68f8b900d1",
+        "platform": "telegram",
+        "quality_score": 1.1000000000000003
+    },
+    {
+        "project_id": 370397287,
+        "content": "✨ <b>AirPodsDesktop</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhance the user experience of AirPods on Windows and Linux desktops.\n<br>\n✨ <b>Key Features:</b>\n• Battery information display\n• Automatic ear detection\n• Low audio latency mode\n• Beautiful animation\n<br>\n📖 <b>Summary:</b>\nAirPodsDesktop is a C++ application designed to improve the AirPods user experience on Windows and Linux. It provides features such as battery information display, automatic ear detection, low audio latency mode, and visually appealing animations. The application aims to integrate AirPods seamlessly with desktop environments, offering a more convenient and intuitive user experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SpriteOvO/AirPodsDesktop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/370397287/01ccac85-7e2a-4e40-ab15-2807cabdfd8b",
+        "platform": "telegram",
+        "quality_score": 0.55
     }
 ]
