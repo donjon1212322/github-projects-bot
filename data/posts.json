@@ -1,51 +1,51 @@
 [
     {
-        "project_id": 965313467,
-        "content": "💡 <b>droidrun</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating Android device interactions using natural language commands.\n<br>\n✨ <b>Key Features:</b>\n• Control Android devices with natural language commands\n• Supports multiple LLM providers (OpenAI, Anthropic, Gemini)\n• Easy to use CLI\n• Extendable Python API for custom automations\n• Screenshot analysis for visual understanding of the device\n<br>\n📖 <b>Summary:</b>\nDroidRun is a framework for controlling Android devices using LLM agents, enabling automation through natural language. It features a CLI, a Python API for custom automations, and supports multiple LLM providers like OpenAI, Anthropic, and Gemini. The framework also uses screenshot analysis for visual understanding of the device's state.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/droidrun/droidrun?embed=0\">View Project</a>\n• <a href=\"https://droidrun.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e0d3d7302ebde7284da6cb56b0719496571856e67dd64e8a40ac1b82858fa88b/droidrun/droidrun",
+        "project_id": 956171407,
+        "content": "🚀 <b>sidekick-cli</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAgentic CLI development\n<br>\n✨ <b>Key Features:</b>\n• LLM provider flexibility\n• MCP support\n• Undo functionality\n• Model switching\n• JIT-style system prompt injection\n<br>\n📖 <b>Summary:</b>\nSidekick is an agentic CLI developer tool that allows users to enhance their command-line workflows with AI. It offers features like LLM provider flexibility, MCP support, and per-project customization, aiming to provide an open-source alternative to similar tools while maintaining an agentic workflow.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/geekforbrains/sidekick-cli?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ab047fd9258e222197ddaccfe2b6723643150b752582065dcc5975b2d938b987/geekforbrains/sidekick-cli",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.8499999999999999
     },
     {
-        "project_id": 966383042,
-        "content": "🚀 <b>dead-man-hand</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nExecuting predefined actions when the user is no longer available, ensuring privacy and confidentiality until that time.\n<br>\n✨ <b>Key Features:</b>\n• Privacy-focused action execution only after death\n• Encrypted actions using age encryption\n• Vault integration for private key management\n• Multiple action execution methods (json_post, bulksms, mail)\n<br>\n📖 <b>Summary:</b>\nThe dead-man-hand repository provides a dead-man-switch software solution designed with privacy in mind. It allows users to define actions that will be executed only when they are considered 'dead,' ensuring that these actions remain encrypted and confidential until that moment. The system integrates with Vault for secure key management and supports multiple action and probe methods.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bkupidura/dead-man-hand?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/95ef855a8278928fbcb587a27b108abad30a56f481c2b2d22677cf90de77baed/bkupidura/dead-man-hand",
-        "platform": "telegram",
-        "quality_score": 0.5499999999999999
-    },
-    {
-        "project_id": 489384246,
-        "content": "🌟 <b>blackbird</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSearching for user accounts by username or email across social networks for digital investigations.\n<br>\n✨ <b>Key Features:</b>\n• OSINT tool for username/email searches\n• WhatsMyName integration\n• PDF, CSV, and HTTP export options\n• Customizable search filters\n• AI-powered NER for metadata extraction\n<br>\n📖 <b>Summary:</b>\nBlackbird is an OSINT tool designed to quickly locate user accounts on various platforms using usernames or email addresses. It integrates with WhatsMyName, offers multiple export formats, and includes AI-powered NER to enhance metadata extraction. The tool is intended for use in digital investigations and cybersecurity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/p1ngul1n0/blackbird?embed=0\">View Project</a>\n• <a href=\"https://p1ngul1n0.gitbook.io/blackbird/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4725bd8403cdec32c8f492a52d5675bbf245bf6e43bafd1d32ca292af35f03b1/p1ngul1n0/blackbird",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 927981080,
-        "content": "🌟 <b>ScrapeServ</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTaking website screenshots via an API.\n<br>\n✨ <b>Key Features:</b>\n• Takes screenshots of different sections of a webpage by scrolling.\n• Runs in a Docker container.\n• Browser-based (runs website Javascript).\n• Returns HTTP status code and headers.\n• Handles redirects automatically.\n<br>\n📖 <b>Summary:</b>\nScrapeServ is a self-hosted API that allows users to send a URL and receive website data as a file, along with screenshots of the site. It utilizes Playwright to launch a Firefox browser context for each job, ensuring accurate rendering of websites with JavaScript. The API handles redirects, download links, and provides HTTP status codes and headers, making it a comprehensive solution for web scraping and screenshot generation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/goodreasonai/ScrapeServ?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/db6e3c7278807ced7b8262147d8eae153b7b24dcc030c6c69d58a0638e1e8389/goodreasonai/ScrapeServ",
-        "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 6909307,
-        "content": "🔥 <b>pyquery</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nQuerying and manipulating XML/HTML documents in Python using a jQuery-like syntax.\n<br>\n✨ <b>Key Features:</b>\n• jQuery-like API for XML documents in Python\n• Uses lxml for fast XML and HTML manipulation\n• Ability to load XML from strings, lxml documents, files, or URLs\n• Supports jQuery pseudo-classes like :first, :last, :even, :odd, etc.\n<br>\n📖 <b>Summary:</b>\nPyQuery is a Python library that provides a jQuery-like interface for querying and manipulating XML documents. It leverages lxml for efficient processing and offers a familiar API for developers accustomed to jQuery. PyQuery simplifies tasks such as selecting elements, traversing the DOM, and modifying content within XML/HTML structures.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gawel/pyquery?embed=0\">View Project</a>\n• <a href=\"http://pyquery.rtfd.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9555d94c4d9d1f2e9d1e2893cac0bf9dfddef1c914da7da9224bb0b6927d427d/gawel/pyquery",
+        "project_id": 967126361,
+        "content": "✨ <b>weblookrs</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCapturing screenshots and recordings of web pages for local development and testing.\n<br>\n✨ <b>Key Features:</b>\n• Screenshot capture of web pages\n• Animated GIF recording of web pages\n• Configurable wait time and recording length\n• Configurable viewport size\n• JavaScript execution before capture\n<br>\n📖 <b>Summary:</b>\nWebLook is a command-line tool designed for capturing screenshots and recordings of web pages. It offers features such as configurable wait times, viewport sizes, JavaScript execution, and browser console log capture. The tool is intended to support local development workflows by providing a simple way to capture visual states of web applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TrippingKelsea/weblookrs?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d4817d25379a35eef75a4592421a6860fa4167f172f17c452d23835d3a8052cb/TrippingKelsea/weblookrs",
         "platform": "telegram",
         "quality_score": 0.65
     },
     {
-        "project_id": 187202744,
-        "content": "💡 <b>python-benedict</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExtending Python dictionaries with advanced key access methods and built-in I/O operations for various data formats.\n<br>\n✨ <b>Key Features:</b>\n• Dict subclass with keylist/keypath/keyattr support\n• Built-in I/O operations (base64, csv, html, ini, json, pickle, plist, query-string, toml, xls, xml, yaml)\n• S3 support\n• Utility methods for data manipulation\n<br>\n📖 <b>Summary:</b>\nThe python-benedict library enhances Python's built-in dictionary with keylist, keypath, and keyattr support, simplifying access to nested data. It provides integrated I/O operations for common data formats like JSON, YAML, and CSV, as well as S3 support. This makes it easier to work with complex data structures and perform data serialization/deserialization tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/fabiocaccamo/python-benedict?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/187202744/024f6180-049f-11eb-876a-be68f8b900d1",
+        "project_id": 441537080,
+        "content": "💡 <b>shellfirm</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nPreventing accidental or harmful shell commands from being executed.\n<br>\n✨ <b>Key Features:</b>\n• Intercepts risky shell commands\n• Prompts users with challenges for verification\n• Customizable patterns for command interception\n• Supports Zsh and Bash\n<br>\n📖 <b>Summary:</b>\nShellfirm intercepts potentially dangerous shell commands and prompts users with a verification challenge, acting as a 'captcha for your terminal'. It helps prevent accidental data loss or system damage by requiring users to confirm risky actions. The tool supports customizable patterns and integrates with Zsh and Bash.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kaplanelad/shellfirm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e307f8723c72c768b4f4ce8590914b71a1f5c3792b8f2704aacc7630176392f6/kaplanelad/shellfirm",
         "platform": "telegram",
-        "quality_score": 1.1000000000000003
+        "quality_score": 0.9
     },
     {
-        "project_id": 370397287,
-        "content": "✨ <b>AirPodsDesktop</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhance the user experience of AirPods on Windows and Linux desktops.\n<br>\n✨ <b>Key Features:</b>\n• Battery information display\n• Automatic ear detection\n• Low audio latency mode\n• Beautiful animation\n<br>\n📖 <b>Summary:</b>\nAirPodsDesktop is a C++ application designed to improve the AirPods user experience on Windows and Linux. It provides features such as battery information display, automatic ear detection, low audio latency mode, and visually appealing animations. The application aims to integrate AirPods seamlessly with desktop environments, offering a more convenient and intuitive user experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SpriteOvO/AirPodsDesktop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/370397287/01ccac85-7e2a-4e40-ab15-2807cabdfd8b",
+        "project_id": 892806653,
+        "content": "🔥 <b>KrbRelayEx</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nPerforming Man-in-the-Middle (MitM) attacks by relaying Kerberos AP-REQ tickets to access SMB shares or HTTP ADCS endpoints.\n<br>\n✨ <b>Key Features:</b>\n• Relay Kerberos AP-REQ tickets\n• Interactive multithreaded SMB consoles\n• Multithreaded port forwarding\n• Transparent relaying process\n• Cross-platform compatibility\n<br>\n📖 <b>Summary:</b>\nKrbRelayEx is a C# tool designed for Kerberos relay attacks, enabling Man-in-the-Middle exploitation by manipulating DNS entries. It relays Kerberos AP-REQ tickets to access SMB shares or HTTP ADCS endpoints, offering features like multithreaded SMB consoles and port forwarding. The tool is cross-platform compatible and intended for legitimate security testing and research.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/decoder-it/KrbRelayEx?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/72d6a4ce665c9be657cd83cfe6f9806c83848599fe640adc2edcbc56efa11f9d/decoder-it/KrbRelayEx",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 366058041,
+        "content": "🌟 <b>Free-Proxy</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a list of free proxies for use in Termux and Linux environments.\n<br>\n✨ <b>Key Features:</b>\n• Free proxy list\n• Proxy checker\n• Termux installation support\n• Linux installation support\n• Update functionality\n<br>\n📖 <b>Summary:</b>\nThe Free-Proxy repository provides a collection of free proxy servers. It includes installation instructions for both Termux and Linux, a proxy checker, and update functionality. The repository aims to offer readily available proxies for users on these platforms.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mishakorzik/Free-Proxy?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/366058041/5f139100-baef-11eb-88fd-557ab38ad4d3",
+        "platform": "telegram",
+        "quality_score": 0.35
+    },
+    {
+        "project_id": 216357058,
+        "content": "✨ <b>ballcat</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nRapidly building enterprise-level backend management systems.\n<br>\n✨ <b>Key Features:</b>\n• Rapid development scaffolding\n• Enterprise-level backend management system\n• Pre-built starters for feature extension\n• Front and back-end user separation\n<br>\n📖 <b>Summary:</b>\nBallcat is a rapid development scaffolding that enables developers to quickly build enterprise-level backend management systems. It provides pre-built starters for extending functionality and includes features such as user separation, menu/data permissions, logging, exception handling, and security measures like XSS and SQL injection prevention. The project aims to simplify and accelerate the development process for enterprise applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ballcat-projects/ballcat?embed=0\">View Project</a>\n• <a href=\"http://docs.ballcat.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7c47e2cdb4f5d1b21c6f636bcacb78fe11f0ba4863dcc8a6112b20ae1e2b89ca/ballcat-projects/ballcat",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 12323472,
+        "content": "💡 <b>Peergos</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nSecure, private, peer-to-peer file storage, social networking, and application hosting with user-controlled data and privacy.\n<br>\n✨ <b>Key Features:</b>\n• Peer-to-peer encrypted global filesystem\n• Fine-grained access control\n• Secure messenger\n• Encrypted email client and bridge\n• Private and secure social network\n<br>\n📖 <b>Summary:</b>\nPeergos is a decentralized platform focused on providing users with complete control over their data and online interactions. It achieves this through a peer-to-peer encrypted filesystem with fine-grained access control, a secure messenger, encrypted email, and a private social network. The platform aims to create a private web where users own their data and decide who can access it.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Peergos/Peergos?embed=0\">View Project</a>\n• <a href=\"https://peergos.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c9f6d6b550f985ed4d36f12f63a73753ec88ddfcd6eeccb185e8601b9040e308/Peergos/Peergos",
+        "platform": "telegram",
+        "quality_score": 0.85
     }
 ]
