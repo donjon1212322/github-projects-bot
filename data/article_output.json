@@ -1,26 +1,26 @@
 {
-    "article": "Hey developers! Ever wished you had a coding assistant that understood your codebase as well as you do?  Meet Claude Code, a game-changing tool that's going to revolutionize how you work!  Imagine having a super-smart sidekick in your terminal, ready to tackle those tedious tasks and help you write better code, faster. That's exactly what Claude Code offers.\n\nClaude Code lives right in your terminal and interacts with you using natural language. Need to fix a bug? Just tell Claude what's wrong, and it'll help you find and fix it. Want to understand a particularly tricky piece of code? Ask Claude, and it'll explain it in plain English.  It's like having a senior developer constantly at your side, providing guidance and assistance.\n\nBut it doesn't stop there. Claude Code can handle a whole host of other tasks too. It can run tests, lint your code, search your Git history, even help resolve those pesky merge conflicts.  It streamlines your entire workflow, allowing you to focus on the creative aspects of coding, rather than getting bogged down in the mundane.\n\nThe architecture is pretty straightforward.  You install Claude Code using npm, then authenticate with your Anthropic account.  After that, you simply type commands in plain English. Claude Code uses Anthropic's powerful language models to understand your requests and execute the appropriate actions. It interacts directly with your files and your Git repository, making it a seamless part of your development environment.\n\nThe benefits are huge.  You'll save time on repetitive tasks, reduce the risk of errors, and improve the overall quality of your code.  It's especially helpful for onboarding new developers, who can use Claude Code to quickly understand the codebase and get up to speed.  For experienced developers, it's a massive productivity boost, allowing you to focus on higher-level design and problem-solving.\n\nClaude Code is currently in research preview, so expect some improvements over time.  The team at Anthropic is actively working on enhancing its capabilities, improving reliability, and adding more features.  This is a chance to be a part of something truly innovative and help shape the future of AI-assisted coding.  Give it a try – you won't regret it!",
+    "article": "Ever wished for a simple, flexible way to handle billing and metering, especially for the complex world of AI and developer tools?  OpenMeter is here to rescue you! This open-source project tackles the headache of tracking usage, enforcing limits, and generating bills for your applications.  Imagine it as a Swiss Army knife for billing – adaptable to various scenarios and easily integrated into your existing infrastructure.\n\nOpenMeter's architecture is built around a core principle: flexibility.  It's designed to work with diverse data sources, from simple counters to complex metrics gathered from your applications.  You define how usage is measured, letting you tailor it perfectly to your specific needs.  Need to track API calls?  No problem.  Want to monitor the processing time of large datasets?  OpenMeter can handle that too.  This adaptability means it's not just for AI; it's suitable for any software that needs precise usage tracking.\n\nOne of the best things about OpenMeter is its ease of use.  The project provides detailed documentation and quickstart guides to get you up and running in minutes. Whether you prefer a local setup using Docker or a cloud-based solution, OpenMeter offers seamless deployment options. The intuitive interface allows you to monitor usage in real-time, providing valuable insights into your application's performance and user behavior. This real-time feedback is invaluable for optimizing resource allocation and identifying potential bottlenecks.\n\nFor developers, the benefits are clear.  OpenMeter saves you countless hours of development time by providing a ready-made solution for billing and metering.  No more wrestling with complex billing systems or building custom solutions from scratch.  You can focus on building your core product, knowing that OpenMeter is reliably handling the billing aspect.  Plus, the open-source nature ensures community support and continuous improvement.\n\nBeyond the core functionality, OpenMeter offers a robust API and client SDKs in various programming languages (JavaScript, Python, and Go).  This makes integration with your existing applications a breeze.  The project also provides comprehensive examples and tutorials, guiding you through common use cases and best practices. The active community provides a great support network, ensuring that you're never stuck figuring things out alone.  If you need a specific feature or integration, you can easily contribute to the project or request support from the community.\n\nBut it's not just about ease of use; OpenMeter is also incredibly powerful. It offers advanced features like usage limit enforcement, ensuring that users stay within their allocated resources. This prevents unexpected costs and allows you to control your infrastructure more effectively.  The real-time insights provided by OpenMeter help you make data-driven decisions about your pricing and resource allocation, leading to better cost management and optimized performance.  OpenMeter truly empowers you to take control of your billing and metering needs.",
     "key_takeaways": [
-        "Claude Code is an AI-powered coding assistant that lives in your terminal.",
-        "It helps you code faster by automating routine tasks and explaining complex code.",
-        "It integrates seamlessly with your Git workflow, helping with merge conflicts and commit creation.",
-        "It's currently in research preview, offering a chance to provide valuable feedback and shape its future.",
-        "It significantly boosts developer productivity by reducing time spent on mundane tasks and improving code quality"
+        "Flexible and adaptable to various metering needs.",
+        "Easy to use with comprehensive documentation and quickstart guides.",
+        "Saves development time by providing a ready-made billing solution.",
+        "Offers a robust API and client SDKs for seamless integration.",
+        "Provides real-time insights and usage limit enforcement for better cost management and optimized performance"
     ],
     "tags": [
+        "Open Source",
+        "Billing",
+        "Metering",
         "AI",
-        "coding assistant",
-        "GitHub",
-        "terminal",
-        "productivity"
+        "Developer Tools"
     ],
-    "title": "Claude Code: Your AI-Powered Coding Sidekick!",
-    "stars": 7916,
-    "forks": 410,
-    "open_issues": 314,
-    "languages": "Shell",
-    "readme_summary": "Claude Code is an agentic coding tool designed to enhance developer productivity. It operates within the terminal, providing capabilities such as code editing, bug fixing, code explanation, test execution, and Git workflow management, all accessible through natural language commands. This tool aims to streamline development processes and improve collaboration with AI agents.",
-    "project_id": 937253475,
-    "url": "https://github.com/anthropics/claude-code",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    "title": "Revolutionize Your Billing with OpenMeter: The Open-Source Solution for AI and DevTool Companies",
+    "stars": 1344,
+    "forks": 81,
+    "open_issues": 31,
+    "languages": "Go",
+    "readme_summary": "OpenMeter provides a flexible metering and billing solution for AI and DevTool companies. It collects and aggregates millions of usage events in real-time, enabling usage-based billing, real-time insights, and usage limit enforcement. The platform offers a REST API and client SDKs for easy integration.",
+    "project_id": 650344440,
+    "url": "https://github.com/openmeterio/openmeter",
+    "description": "Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing."
 }
