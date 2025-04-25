@@ -1,7 +1,0 @@
-{
-    "project_id": 128570698,
-    "content": "💡 <b>swifter</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAccelerating pandas DataFrame and Series apply operations by automatically parallelizing or vectorizing the function execution.\n<br>\n✨ <b>Key Features:</b>\n• Efficiently applies functions to pandas DataFrames and Series.\n• Automatically vectorizes functions when possible.\n• Automatically chooses between Dask parallel processing and pandas apply for optimal performance.\n<br>\n📖 <b>Summary:</b>\nSwifter is a Python package designed to accelerate the application of functions to pandas DataFrames and Series. It intelligently vectorizes operations when feasible and automatically selects between Dask parallel processing and standard pandas apply to maximize performance. Swifter can also be used with modin dataframes, making it a versatile tool for data manipulation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jmcarpenter2/swifter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/eade232e962c779812c92e7adde925d018960c669b1e810f34f58c9aedd54ef8/jmcarpenter2/swifter",
-    "platform": "telegram",
-    "quality_score": 0.6000000000000001
-}
