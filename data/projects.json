@@ -1,341 +1,277 @@
 [
     {
-        "id": 968410174,
-        "name": "ibex",
-        "description": "An iOS backup extraction tool written in Golang",
-        "url": "https://github.com/initz3r0/ibex",
-        "language": "Go",
-        "stars": 22,
-        "forks": 0,
-        "created_at": "2025-04-18T03:29:52Z",
-        "updated_at": "2025-04-25T09:51:47Z",
-        "topics": [
-            "exploitation",
-            "forensics",
-            "forensics-tools",
-            "incident-response",
-            "ios",
-            "mobile",
-            "security"
-        ],
-        "quality_score": 0.5499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-04-18T03:42:17Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/8eff78befbd1eda1e302fe120f9d87189143a65dfe0544bef538f73328418991/initz3r0/ibex"
-        ],
-        "homepage": "",
-        "readme_summary": "Ibex is a cross-platform tool written in Go designed for decrypting and extracting iOS backups. It supports the latest iOS versions and offers features like automatic backup detection, single file extraction, and structured output. It is intended for forensic investigators, security researchers, and power users needing to access and analyze encrypted iOS backup data.",
-        "key_features": [
-            "Decrypt encrypted iOS backups",
-            "Support for latest iOS versions",
-            "Cross-platform compatibility (macOS, Windows, Linux)",
-            "Automatic backup detection",
-            "Single file extraction based on filename match",
-            "Structured output organization",
-            "Detailed manifest parsing and extraction"
-        ],
-        "primary_use_case": "Decrypting and extracting data from iOS backups for forensic investigators, security researchers, and power users.",
-        "open_issues": 0,
-        "cover_image_prompt": "Imagine an archaeologist carefully brushing away dirt from an ancient iOS device buried in digital sand. The archaeologist uses specialized tools to extract data fragments, represented as glowing glyphs, from the device's memory. These glyphs then assemble themselves into readable documents on a nearby holographic display. The scene is set in a futuristic excavation site with soft, diffused lighting. Small UI elements showing file paths and decryption keys are subtly integrated into the environment. The image should be in a detailed digital painting style with a focus on clarity and understanding."
-    },
-    {
-        "id": 774353584,
-        "name": "lofi-engine",
-        "description": "Generate LoFi music on the go, offline and locally.",
-        "url": "https://github.com/meel-hd/lofi-engine",
-        "language": "Svelte",
-        "stars": 81,
-        "forks": 9,
-        "created_at": "2024-03-19T12:01:58Z",
-        "updated_at": "2025-04-25T09:20:44Z",
-        "topics": [
-            "engine",
-            "lofi-music",
-            "lofi-player"
-        ],
-        "quality_score": 0.5499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-04-02T19:16:12Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/cd2e08ea214c2ab339a62e00121733b8b07c161cb5a9aebfb1ef4440fe3bc913/meel-hd/lofi-engine"
-        ],
-        "homepage": "",
-        "readme_summary": "LoFi Engine is a tool for generating LoFi music on desktop platforms. It allows users to create custom atmospheres by combining different sound elements and customizing the look and feel of the application. The engine utilizes Tone.js for procedural track generation and offers offline functionality for a private and accessible music creation experience.",
-        "key_features": [
-            "Procedural LoFi track generation using Tone.js",
-            "Customizable playback, look, and ambience",
-            "Offline functionality",
-            "Cross-platform support (Linux, Mac, Windows)",
-            "Keyboard shortcuts for accessibility"
-        ],
-        "primary_use_case": "Generating custom LoFi music locally and offline.",
-        "open_issues": 2,
-        "cover_image_prompt": "A composer in a cozy, sunlit studio, crafting a LoFi track from various sound elements. The composer is arranging sound wave blocks representing instruments, nature sounds, and ambient textures on a digital audio workstation. The screen subtly displays Tone.js code snippets. The studio overlooks a serene landscape with stylized elements representing different moods and environments. The scene is bathed in warm, inviting light. The image should be in 3D isometric illustration style with soft colors and clear details, evoking a sense of creativity and relaxation."
-    },
-    {
-        "id": 937727966,
-        "name": "VisualCrypto",
-        "description": "A toolkit for Visual Cryptography and Random Grid schemes",
-        "url": "https://github.com/coduri/VisualCrypto",
+        "id": 967152344,
+        "name": "FaceEnhance",
+        "description": "Enhance faces in AI generated images",
+        "url": "https://github.com/RishiDesai/FaceEnhance",
         "language": "Python",
+        "stars": 19,
+        "forks": 1,
+        "created_at": "2025-04-16T02:34:01Z",
+        "updated_at": "2025-04-26T08:56:11Z",
+        "topics": [
+            "comfyui",
+            "controlnet",
+            "face",
+            "flux",
+            "pulid"
+        ],
+        "quality_score": 0.6499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-04-21T09:37:33Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/0a37442a2eb370d923dd96fd0e7bf021d1e9e6a2cdb9444e9cf4fdff46617978/RishiDesai/FaceEnhance"
+        ],
+        "homepage": "https://huggingface.co/spaces/rdesai2/FaceEnhance",
+        "readme_summary": "The FaceEnhance repository provides tools and workflows for enhancing faces in AI-generated images. It focuses on improving facial consistency and quality while preserving the original image's context. The repository includes ComfyUI workflows and a Gradio demo for interactive use.",
+        "key_features": [
+            "Enhances facial consistency and quality in AI-generated images",
+            "Preserves original image's background, lighting, and composition",
+            "ComfyUI workflows for face enhancement and embedding distance calculation",
+            "Gradio demo for interactive face enhancement"
+        ],
+        "primary_use_case": "Improving facial fidelity in AI-generated images.",
+        "open_issues": 0,
+        "cover_image_prompt": "Imagine a skilled sculptor meticulously refining a rough clay face, transforming it into a lifelike portrait. The sculptor uses digital tools, subtly projected onto the clay, to enhance details and correct imperfections. The background shows a gallery filled with diverse portraits, some blurry and indistinct, others sharp and clear, representing the range of AI-generated faces. The repository name, 'FaceEnhance,' is subtly etched into the sculptor's workbench. The scene is bathed in soft, focused lighting, highlighting the transformation. This is a 3D isometric illustration with vibrant colors and rich details."
+    },
+    {
+        "id": 915378930,
+        "name": "cap",
+        "description": "Cap is a lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work",
+        "url": "https://github.com/tiagorangel1/cap",
+        "language": "JavaScript",
+        "stars": 517,
+        "forks": 7,
+        "created_at": "2025-01-11T17:35:52Z",
+        "updated_at": "2025-04-26T07:23:59Z",
+        "topics": [
+            "anti-abuse",
+            "anti-bot",
+            "anti-scraper",
+            "antispam",
+            "bun",
+            "captcha",
+            "defense",
+            "hashcash",
+            "javascript",
+            "proof-of-work",
+            "web"
+        ],
+        "quality_score": 0.5499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-04-25T17:27:58Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/351d358d65833c91311f2d5309d39975441e2081e2edcc751bb57891a63a7753/tiagorangel1/cap"
+        ],
+        "homepage": "https://capjs.js.org/",
+        "readme_summary": "Cap is a lightweight, modern CAPTCHA alternative that uses SHA-256 proof-of-work to protect against bots and abuse. It offers a small JavaScript widget for client-side challenges and a zero-dependency server component for validation. Cap can be deployed in various environments, including standalone mode with Docker, and is designed to be a privacy-focused and customizable replacement for traditional CAPTCHAs.",
+        "key_features": [
+            "Lightweight CAPTCHA alternative",
+            "SHA-256 proof-of-work",
+            "Small JavaScript widget",
+            "Zero-dependency server component",
+            "Optional server-side solver",
+            "Standalone mode with Docker",
+            "Customizable frontend and backend",
+            "Private (no tracking)",
+            "Invisible and floating modes"
+        ],
+        "primary_use_case": "Protecting APIs from bots, preventing spam on forms, blocking automated login attempts, and securing free-tier abuse.",
+        "open_issues": 0,
+        "cover_image_prompt": "A diligent watchmaker meticulously crafting intricate clockwork gears, each representing a CAPTCHA challenge, to form a robust barrier against a swarm of robotic insects attempting to bypass it. The watchmaker uses a magnifying glass to ensure each gear is perfectly aligned and computationally complex, making it difficult for the robots to replicate. Subtle UI elements displaying SHA-256 hash calculations are projected onto the watchmaker's workbench. The scene is set in a brightly lit, steampunk-inspired workshop. The image should be in a 3D isometric illustration style with vibrant colors and sharp details."
+    },
+    {
+        "id": 310933773,
+        "name": "winapps",
+        "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.",
+        "url": "https://github.com/Fmstrat/winapps",
+        "language": "Shell",
+        "stars": 9144,
+        "forks": 421,
+        "created_at": "2020-11-07T21:19:24Z",
+        "updated_at": "2025-04-26T08:56:50Z",
+        "topics": [],
+        "quality_score": 0.6000000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2024-08-18T15:48:39Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/3b9845d839b5f3efad676bd6b6d8969e2eb29380bb06bec32bec564b6805a41b/Fmstrat/winapps"
+        ],
+        "homepage": "",
+        "readme_summary": "WinApps allows users to run Windows applications on Linux systems as if they were native applications. It achieves this by running a Windows RDP server in a background VM and creating shortcuts for installed applications, integrating them into the GNOME/KDE desktop. It also provides Nautilus integration for opening files with Windows applications and supports any installed application on the system.",
+        "key_features": [
+            "Runs Windows applications in Linux (Ubuntu/Fedora)",
+            "Integrates Windows apps into GNOME/KDE desktop environments",
+            "Provides Nautilus integration for opening files with Windows apps",
+            "Supports any installed application on the system",
+            "Automatically detects applications through registry scanning",
+            "Offers high-resolution icons and mime type support for configured applications",
+            "Access to home directory files via \\tsclient\\home mount"
+        ],
+        "primary_use_case": "Running Windows applications seamlessly within a Linux environment.",
+        "open_issues": 225,
+        "cover_image_prompt": "Imagine a skilled artisan in a workshop, seamlessly integrating a stained-glass window (representing a Windows application) into a modern, minimalist Linux home. The artisan carefully fits the window into the wall, making it appear as a natural part of the structure. Tools and blueprints with subtle UI elements are scattered around the workshop. Digital particles subtly connect the window to the surrounding Linux environment. The scene is bathed in soft, ambient light, creating a sense of harmony and integration. The image should be in a 3D isometric illustration style with clean lines and vibrant colors."
+    },
+    {
+        "id": 477528511,
+        "name": "bore",
+        "description": "🕳 bore is a simple CLI tool for making tunnels to localhost",
+        "url": "https://github.com/ekzhang/bore",
+        "language": "Rust",
+        "stars": 9657,
+        "forks": 409,
+        "created_at": "2022-04-04T02:47:54Z",
+        "updated_at": "2025-04-26T09:09:51Z",
+        "topics": [
+            "cli",
+            "localhost",
+            "networking",
+            "proxy",
+            "rust",
+            "self-hosted",
+            "tcp",
+            "tunnel"
+        ],
+        "quality_score": 0.95,
+        "contributors_count": 0,
+        "last_commit_date": "2025-04-14T21:52:17Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/bb75698ad7d5065d8a35f8aceec5b71b5bb96b041f779b5c39d1da3a0b63e488/ekzhang/bore"
+        ],
+        "homepage": "http://bore.pub",
+        "readme_summary": "Bore is a CLI tool that creates TCP tunnels to localhost, enabling users to expose local ports to the internet. It's designed for simple installation, self-hosting, and efficient TCP traffic forwarding. Bore allows developers to easily share and test local applications without complex configurations.",
+        "key_features": [
+            "TCP Tunneling",
+            "Local Port Forwarding",
+            "Self-Hosting",
+            "Simple Installation",
+            "Minimal Dependencies"
+        ],
+        "primary_use_case": "Exposing local ports to a remote server, bypassing NAT firewalls for development and testing purposes.",
+        "open_issues": 5,
+        "cover_image_prompt": "A skilled artisan meticulously crafting a tunnel through a mountain, connecting a bustling town on one side to a remote village on the other. The artisan uses a modern drill with a digital display showing network traffic. Light streams through the tunnel, illuminating data packets flowing seamlessly between the two locations. Small UI elements displaying 'localhost' and a port number are subtly integrated into the mountain face. The scene is set in a vibrant, stylized landscape with clear, bright colors. The image should be in a 3D isometric illustration style with a focus on clarity and detail."
+    },
+    {
+        "id": 907966119,
+        "name": "twice",
+        "description": "chrome extension asking you to think twice when visit social media sites",
+        "url": "https://github.com/chaosprint/twice",
+        "language": "JavaScript",
         "stars": 56,
         "forks": 5,
-        "created_at": "2025-02-23T18:55:53Z",
-        "updated_at": "2025-04-14T04:27:39Z",
-        "topics": [
-            "image-encryption-algorithm",
-            "random-grids",
-            "secret-sharing",
-            "secret-sharing-scheme",
-            "visual-cryptographic-schemes",
-            "visual-cryptography",
-            "visual-secret-sharing",
-            "visualcryptography"
-        ],
-        "quality_score": 0.65,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-27T11:04:59Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/1099481d225de624cc9afd6cd06c93a2c2bb6cc71634343f18bf49cb7f1dab14/coduri/VisualCrypto"
-        ],
-        "homepage": "https://coduri.github.io/VisualCrypto/",
-        "readme_summary": "VisualCrypto is a Python toolkit for image-based secret sharing using Visual Cryptography (VC) and Random Grid (RG) techniques. It allows splitting a secret image into multiple shares, which individually appear as random noise but reveal the original image when combined. The toolkit supports both web-based and script-based execution and is designed to be easily extended with new cryptographic schemes.",
-        "key_features": [
-            "Visual Cryptography (VC) & Random Grid (RG) techniques support",
-            "Web-based & script-based execution",
-            "Extendable to incorporate new cryptographic schemes",
-            "(2,2)-VSS schemes implementation"
-        ],
-        "primary_use_case": "Image-based secret sharing, splitting a secret image into multiple shares that reveal the original image only when combined.",
-        "open_issues": 1,
-        "cover_image_prompt": "An ancient librarian meticulously cutting a valuable scroll into two seemingly random pieces, each filled with abstract patterns. When the two pieces are overlaid on a light table, the original scroll's text magically reappears. The librarian's desk is adorned with subtle holographic displays showing encryption algorithms and image processing techniques. The scene is set in a dimly lit, grand library with towering shelves filled with scrolls and books. The illustration is in a detailed digital painting style, emphasizing the mystery and security of visual cryptography."
-    },
-    {
-        "id": 1333666,
-        "name": "simplejson",
-        "description": "simplejson is a simple, fast, extensible JSON encoder/decoder for Python ",
-        "url": "https://github.com/simplejson/simplejson",
-        "language": "Python",
-        "stars": 1675,
-        "forks": 340,
-        "created_at": "2011-02-06T05:47:45Z",
-        "updated_at": "2025-04-25T07:09:09Z",
-        "topics": [
-            "json",
-            "json-parser",
-            "json-serializer",
-            "python",
-            "python2",
-            "python3"
-        ],
-        "quality_score": 0.7,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-25T02:43:06Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/e88a701c420488a0415248d3fc56f248d13cb92305790b87d59ca602843c90a6/simplejson/simplejson"
-        ],
-        "homepage": "https://simplejson.readthedocs.io/",
-        "readme_summary": "simplejson is a Python library for encoding and decoding JSON data. It provides a simple, fast, and extensible solution for serializing Python objects into JSON strings and deserializing JSON strings into Python objects. It supports a wide range of Python versions and offers customization options for handling different data types and encodings.",
-        "key_features": [
-            "Simple and fast JSON encoder/decoder",
-            "Extensible serialization and deserialization",
-            "Python 2.5+ and Python 3.3+ support",
-            "Optional C extension for speed boost",
-            "Customizable encoding and object processing"
-        ],
-        "primary_use_case": "Encoding and decoding JSON data in Python applications.",
-        "open_issues": 19,
-        "cover_image_prompt": "A skilled alchemist carefully transmuting raw data crystals into gleaming JSON artifacts within a vibrant, organized laboratory. The alchemist uses specialized tools that subtly display code snippets and data structures. Incoming data crystals glow with various colors, while the resulting JSON artifacts shine with a uniform, structured light. The laboratory is filled with shelves containing labeled beakers and scrolls representing different data formats. Small UI elements float in the air, showing the transformation process in real-time. The scene is set in a brightly lit, clean laboratory with a focus on clarity and precision. The image should be in 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 903304373,
-        "name": "preswald",
-        "description": "Preswald is a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, turning Python scripts into powerful shareable apps.",
-        "url": "https://github.com/StructuredLabs/preswald",
-        "language": "Python",
-        "stars": 3246,
-        "forks": 639,
-        "created_at": "2024-12-14T08:56:02Z",
-        "updated_at": "2025-04-25T07:12:05Z",
-        "topics": [
-            "ai",
-            "analytics",
-            "analytics-engineering",
-            "copilot",
-            "data",
-            "data-applications",
-            "data-infrastructure",
-            "data-pipelines",
-            "data-sdk",
-            "data-visualization",
-            "gpt",
-            "llm",
-            "open-source",
-            "python",
-            "schema-management",
-            "vscode"
-        ],
-        "quality_score": 1.1000000000000003,
-        "contributors_count": 0,
-        "last_commit_date": "2025-04-25T07:12:00Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/903304373/d23748ba-73a9-4501-89bd-eda5eb3490f0"
-        ],
-        "homepage": "https://www.preswald.com/",
-        "readme_summary": "Preswald is a Python framework that simplifies the creation and deployment of interactive data applications. It provides pre-built UI components and manages stateful execution using a DAG-based approach. With Preswald, users can easily turn Python scripts into shareable applications that can be deployed locally or in the cloud with a single command.",
-        "key_features": [
-            "Add UI components to python scripts",
-            "Stateful execution",
-            "Structured computation",
-            "Deploy with one command",
-            "Query and display data",
-            "Build interactive reports",
-            "Run locally or in the cloud",
-            "Share with a link",
-            "High-performance GPU charts"
-        ],
-        "primary_use_case": "Building and deploying interactive data apps, internal tools, and dashboards with Python.",
-        "open_issues": 51,
-        "cover_image_prompt": "Imagine a skilled architect overseeing the construction of a magnificent data city. The architect, representing Preswald, effortlessly places interactive building blocks (UI components) onto a blueprint (Python script). Data streams flow seamlessly through the city's infrastructure (DAG-based execution), powering vibrant displays (charts and dashboards) in real-time. Citizens (users) interact with the city, adjusting parameters and receiving instant feedback. Subtle tech elements like code snippets and server racks are integrated into the city's design. The scene is set at dawn with a hopeful, energetic mood. The image should be in 3D isometric illustration style with clean lines and vibrant colors."
-    },
-    {
-        "id": 83574500,
-        "name": "guillotina",
-        "description": "Python AsyncIO data API to manage billions of resources",
-        "url": "https://github.com/plone/guillotina",
-        "language": "Python",
-        "stars": 201,
-        "forks": 51,
-        "created_at": "2017-03-01T16:12:44Z",
-        "updated_at": "2025-04-25T06:24:44Z",
+        "created_at": "2024-12-24T18:16:42Z",
+        "updated_at": "2025-04-26T08:28:52Z",
         "topics": [],
-        "quality_score": 0.85,
+        "quality_score": 0.5,
         "contributors_count": 0,
-        "last_commit_date": "2025-04-03T08:51:54Z",
+        "last_commit_date": "2025-02-03T14:41:47Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/021c79c650072a9d9a8daa7248d91a4df12e376719faf41e3bed7f4c68525816/plone/guillotina"
-        ],
-        "homepage": "https://guillotina.readthedocs.io/en/latest/",
-        "readme_summary": "Guillotina is an AsyncIO-based data API designed for managing billions of resources. It leverages Python 3.7+ and PostgreSQL to provide a scalable and efficient solution. The project offers features like a built-in web admin interface, Docker support, and easy deployment on Heroku, making it suitable for building high-performance data-driven applications.",
-        "key_features": [
-            "AsyncIO based data API",
-            "Manages billions of resources",
-            "PostgreSQL support",
-            "Built-in web admin interface",
-            "Docker support",
-            "Heroku deployment support"
-        ],
-        "primary_use_case": "Managing large amounts of data through an asynchronous API.",
-        "open_issues": 52,
-        "cover_image_prompt": "A skilled architect overseeing the construction of a vast, futuristic city made of interconnected data blocks. The architect uses blueprints filled with Python code to manage the flow of resources between the buildings, ensuring smooth operation for billions of citizens represented by glowing digital avatars. Small screens display real-time data streams and API endpoints. The city is powered by a central PostgreSQL server symbolized by a large, crystalline structure. The scene is set in a bright, optimistic future with a clean, isometric perspective. The image should be in 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 128570698,
-        "name": "swifter",
-        "description": "A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner",
-        "url": "https://github.com/jmcarpenter2/swifter",
-        "language": "Python",
-        "stars": 2604,
-        "forks": 103,
-        "created_at": "2018-04-07T21:37:19Z",
-        "updated_at": "2025-04-25T06:23:44Z",
-        "topics": [
-            "dask",
-            "modin",
-            "pandas",
-            "pandas-dataframe",
-            "parallel-computing",
-            "parallelization"
-        ],
-        "quality_score": 0.6000000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2024-03-14T17:58:34Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/eade232e962c779812c92e7adde925d018960c669b1e810f34f58c9aedd54ef8/jmcarpenter2/swifter"
+            "https://opengraph.githubassets.com/7fda32b7704e7f909c8583cf225d188b2ce6f4ed6cc9470fdf3e6526b89ce1da/chaosprint/twice"
         ],
         "homepage": "",
-        "readme_summary": "Swifter is a Python package designed to accelerate the application of functions to pandas DataFrames and Series. It intelligently vectorizes operations when feasible and automatically selects between Dask parallel processing and standard pandas apply to maximize performance. Swifter can also be used with modin dataframes, making it a versatile tool for data manipulation.",
+        "readme_summary": "The 'Twice' Chrome extension helps users be more mindful of their social media habits. It displays a reminder when a user attempts to visit a social media site, encouraging them to pause and reflect on their intention, promoting more intentional browsing habits.",
         "key_features": [
-            "Efficiently applies functions to pandas DataFrames and Series.",
-            "Automatically vectorizes functions when possible.",
-            "Automatically chooses between Dask parallel processing and pandas apply for optimal performance.",
-            "High performance, even for groupby applies.",
-            "Can be used with pandas or modin dataframes."
+            "Displays a gentle reminder when visiting social media sites",
+            "Promotes mindful internet usage",
+            "Helps reduce impulsive social media checking"
         ],
-        "primary_use_case": "Accelerating pandas DataFrame and Series apply operations by automatically parallelizing or vectorizing the function execution.",
-        "open_issues": 23,
-        "cover_image_prompt": "A skilled chef effortlessly slicing a massive pandas dataframe into perfectly parallel portions using a specialized, glowing knife. Each slice represents a core, ready for rapid processing. Digital particles stream from the knife, visualizing the swift distribution of data. A subtle UI overlay displays performance metrics and progress bars. The scene is set in a modern, high-tech kitchen with bright, efficient lighting. The composition is clean and focused, with a vibrant color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
+        "primary_use_case": "To promote mindful social media usage by prompting users to think twice before visiting social media sites.",
+        "open_issues": 2,
+        "cover_image_prompt": "A person standing at a crossroads, one path leading to a vibrant social media landscape filled with glowing screens and notifications, the other path leading to a serene garden filled with books and nature. The person is pausing, with a thought bubble showing a question mark above their head. A small, transparent Chrome extension icon hovers near the person's hand, subtly influencing their decision. The scene is set at twilight, with soft, diffused lighting. Small UI elements showing social media feeds are subtly embedded in the social media landscape. The composition is balanced, with a clear contrast between the two paths. The image should be in a digital painting style with clear outlines and a calming color scheme."
     },
     {
-        "id": 700760709,
-        "name": "taranis-ai",
-        "description": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.",
-        "url": "https://github.com/taranis-ai/taranis-ai",
-        "language": "Python",
-        "stars": 456,
-        "forks": 52,
-        "created_at": "2023-10-05T08:40:04Z",
-        "updated_at": "2025-04-25T08:24:36Z",
+        "id": 80792015,
+        "name": "shrub",
+        "description": "A bonsai plant simulation game for the terminal.",
+        "url": "https://github.com/fimbaz/shrub",
+        "language": "C",
+        "stars": 32,
+        "forks": 1,
+        "created_at": "2017-02-03T02:59:52Z",
+        "updated_at": "2025-04-26T09:05:57Z",
         "topics": [
-            "artificial-intelligence",
+            "automata",
+            "cellular",
+            "cellular-automata",
+            "evolution",
+            "game",
+            "genetics",
+            "nature",
+            "plants",
+            "terminal-based"
+        ],
+        "quality_score": 0.15,
+        "contributors_count": 0,
+        "last_commit_date": "2021-03-16T05:29:30Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/32a1cc5960d78c78f305e63bd1247babfe17ab863599e0c570a4d3467378c22e/fimbaz/shrub"
+        ],
+        "homepage": "",
+        "readme_summary": "Shrub is a terminal-based bonsai plant simulation game written in C. It simulates a small ecosystem with plants, water, wind, dirt, pollen, and seeds, allowing users to observe plant growth, reproduction, and death within a cellular automata-driven world.",
+        "key_features": [
+            "TUI pet plant simulator",
+            "Big scrolly worlds",
+            "Water, wind, dirt simulation",
+            "Plant growth and reproduction",
+            "Pollen and seed dispersal",
+            "Genetic simulation",
+            "Plant death and decay",
+            "Resource view"
+        ],
+        "primary_use_case": "Simulating a bonsai plant ecosystem within a terminal environment.",
+        "open_issues": 0,
+        "cover_image_prompt": "A gardener tending to a bonsai tree within a terminal window. The tree's roots extend into lines of code, and its leaves display cellular automata patterns. The gardener carefully prunes the tree with digital shears, influencing its growth and evolution. Pollen particles float in the air, represented by stylized pixels. A small UI panel displays genetic information about the plant. The scene is set in a brightly lit, minimalist workspace. The image should be in a flat design style with clear iconography and a vibrant color scheme, emphasizing the blend of nature and technology."
+    },
+    {
+        "id": 275386910,
+        "name": "maigret",
+        "description": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+        "url": "https://github.com/soxoj/maigret",
+        "language": "Python",
+        "stars": 15173,
+        "forks": 1038,
+        "created_at": "2020-06-27T14:16:42Z",
+        "updated_at": "2025-04-26T09:39:34Z",
+        "topics": [
+            "blueteam",
             "cybersecurity",
-            "nlp",
+            "identification",
+            "investigation",
+            "namechecker",
+            "open-source",
             "osint",
-            "secops"
-        ],
-        "quality_score": 1.0000000000000002,
-        "contributors_count": 0,
-        "last_commit_date": "2025-04-24T12:21:01Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/4bb05843c80157c8f1b128f466144a1ab57c20539b850d052270f4c3d15f6bf4/taranis-ai/taranis-ai"
-        ],
-        "homepage": "https://taranis.ai/",
-        "readme_summary": "Taranis AI is an advanced OSINT tool that leverages AI and NLP to collect and enhance unstructured data from diverse sources like websites. It provides analysts with a streamlined workflow to convert this data into structured reports and various output formats, facilitating the seamless publication of critical intelligence.",
-        "key_features": [
-            "Advanced OSINT Capabilities",
-            "AI-Enhanced Analysis",
-            "Analyst-Friendly Workflow",
-            "Multi-Format Output",
-            "Seamless Publishing"
-        ],
-        "primary_use_case": "Information gathering and situational analysis using Open-Source Intelligence (OSINT) and Artificial Intelligence.",
-        "open_issues": 84,
-        "cover_image_prompt": "A detective meticulously piecing together a complex jigsaw puzzle made of scattered news articles and website fragments. The detective uses a magnifying glass that highlights key information, transforming the chaotic puzzle pieces into a structured, insightful report displayed on a holographic screen. The screen also shows subtle NLP visualizations and AI analysis metrics. The scene is set in a modern, high-tech office with soft, focused lighting. The image should be in a digital painting style with clean lines and clear details, emphasizing the transformation of unstructured data into actionable intelligence."
-    },
-    {
-        "id": 121859737,
-        "name": "EagleEye",
-        "description": "Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.",
-        "url": "https://github.com/ThoughtfulDev/EagleEye",
-        "language": "Python",
-        "stars": 4786,
-        "forks": 644,
-        "created_at": "2018-02-17T13:58:57Z",
-        "updated_at": "2025-04-25T05:36:37Z",
-        "topics": [
-            "face-recognition",
-            "machine-learning",
+            "osint-framework",
+            "osint-python",
+            "parsing",
+            "python",
             "python3",
-            "social-media",
-            "stalking"
+            "redteam",
+            "scraping",
+            "sherlock",
+            "social-network",
+            "socmint",
+            "username",
+            "username-checker",
+            "username-search"
         ],
-        "quality_score": 0.6000000000000001,
+        "quality_score": 0.7999999999999999,
         "contributors_count": 0,
-        "last_commit_date": "2021-10-19T17:48:00Z",
+        "last_commit_date": "2025-02-18T09:50:29Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/71b0dccc139dd80af897a36d5030e10efb04a73fdf5553f7177ce16a90d36010/ThoughtfulDev/EagleEye"
+            "https://repository-images.githubusercontent.com/275386910/d6d7e536-6597-40dc-a204-391431ce57db"
         ],
-        "homepage": "",
-        "readme_summary": "EagleEye is a Python-based tool that utilizes image recognition and reverse image search to locate social media profiles. It aims to find Instagram, Facebook, and Twitter profiles of a target individual, given an image of the person and a clue about their name. The tool supports Docker for easy setup and deployment.",
+        "homepage": "https://t.me/osint_maigret_bot",
+        "readme_summary": "Maigret is an OSINT tool that allows users to gather information about individuals based on their usernames across a vast number of websites. It parses profile pages, extracts personal information, and performs recursive searches to uncover related accounts and data. The tool supports searching by tags, detects censorship and captchas, and includes features for request retries and checking Tor, I2P, and domain sites.",
         "key_features": [
-            "Image recognition for identifying individuals",
-            "Reverse image search across multiple social media platforms",
-            "Profile aggregation from Instagram, Facebook, and Twitter",
-            "Docker support for easy deployment"
+            "Profile page parsing and information extraction",
+            "Recursive search by usernames and IDs",
+            "Search by tags (site categories, countries)",
+            "Censorship and captcha detection",
+            "Request retries",
+            "Support for Tor, I2P, and domain checking"
         ],
-        "primary_use_case": "Finding social media profiles (Instagram, Facebook, Twitter) of a person using image recognition and reverse image search, given an image and a name clue.",
-        "open_issues": 35,
-        "cover_image_prompt": "A detective with a magnifying glass examining a digital footprint leading to various social media icons (Instagram, Facebook, Twitter). The footprint is composed of pixelated faces, subtly transitioning from blurry to clear as the detective gets closer. The background is a stylized cityscape with glowing data streams representing the flow of information. Small UI elements showing image recognition analysis are subtly incorporated into the scene. The image should be in a digital painting style with a focus on detail and clarity, using a cool color palette to evoke a sense of investigation."
+        "primary_use_case": "Collecting a dossier on a person by username from thousands of sites without requiring API keys.",
+        "open_issues": 273,
+        "cover_image_prompt": "A detective, reminiscent of Jules Maigret, meticulously piecing together a dossier on a person using fragments of information found across a vast digital landscape. The detective stands before a large corkboard covered with interconnected profiles, usernames, and website logos, each linked by threads representing the connections Maigret uncovers. A magnifying glass highlights a username on one of the profiles. Subtle digital elements like code snippets and website icons float around the scene, subtly connecting the investigation to the digital world. The scene is set in a dimly lit, classic detective's office with a focused spotlight on the corkboard. The image should be in a digital painting style with clear outlines and a slightly noir aesthetic."
     }
 ]

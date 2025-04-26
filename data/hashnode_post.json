@@ -1,30 +1,30 @@
 {
-    "title": "Taranis AI: Revolutionizing OSINT with the Power of AI",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nTaranis AI is an advanced OSINT tool that leverages AI and NLP to collect and enhance unstructured data from diverse sources like websites. It provides analysts with a streamlined workflow to convert this data into structured reports and various output formats, facilitating the seamless publication of critical intelligence.\n\n## 🔑 Key Takeaways\n\n- ✅ AI-powered OSINT tool for efficient information gathering\n\n- ✅ Automated data analysis and report generation\n\n- ✅ Customizable workflow for various use cases\n\n- ✅ Open-source nature fostering collaboration and development\n\n- ✅ Modular design for easy integration with other systems\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 456\n- 🍴 Forks: 52\n- ❗ Open Issues: 84\n\n\n## 🛠 Tech Stack\n- ✅ Python\n\n\nHey developers! Ever wished you had a supercharged tool to gather and analyze information from across the web?  Meet Taranis AI, an open-source project that's changing the game for OSINT (Open-Source Intelligence).  Forget manually sifting through endless articles – Taranis AI uses AI to automate the process, making your intelligence gathering faster and more efficient.  Think of it as a highly intelligent search engine, but instead of just finding web pages, it understands the content, distills the key information, and presents it in a clear, structured way.  It's like having a team of research assistants working around the clock! \n\nSo how does this magic happen? Taranis AI is built on a clever architecture. It uses a combination of web scraping, natural language processing (NLP), and machine learning to collect and process information from various online sources.  The collected data is then refined by analysts, who can easily transform unstructured news into structured reports and PDFs.  The entire workflow is designed to be intuitive and user-friendly, even for those who aren't experts in AI or NLP. \n\nThe beauty of Taranis AI lies in its flexibility. It's not just about collecting data; it's about making that data actionable.  You can customize the data collection process to focus on specific areas of interest, and the output can be tailored to meet your specific needs. Whether you're creating a comprehensive report, building a knowledge base, or just need a quick overview of a topic, Taranis AI can help.  \n\nHere's what makes Taranis AI a game-changer for developers: First, it significantly reduces the time and effort required for OSINT research. Second, the AI-powered analysis significantly improves the quality and accuracy of the gathered information.  Third, the platform is highly customizable and adaptable to various use cases. Fourth, the open-source nature of the project allows for collaboration and community-driven development, ensuring that the tool remains cutting-edge.  Finally, its modular design makes it easy to integrate with other systems and tools, extending its functionality even further.  \n\nWant to dive in?  Taranis AI is built using a variety of technologies, including Vue.js, Flask, Celery, and PostgreSQL, offering opportunities to learn and contribute to a dynamic project. It's a chance to be part of something bigger, to contribute to a project that's making a real difference in how we gather and utilize information.  The documentation is comprehensive, and the community is welcoming and supportive.  Check out the GitHub repository and get ready to be amazed!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/taranis-ai/taranis-ai)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Bore: The ridiculously simple TCP tunnel that will change your development workflow",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nBore is a CLI tool that creates TCP tunnels to localhost, enabling users to expose local ports to the internet. It's designed for simple installation, self-hosting, and efficient TCP traffic forwarding. Bore allows developers to easily share and test local applications without complex configurations.\n\n## 🔑 Key Takeaways\n\n- ✅ Exposes local ports to the internet easily and securely\n\n- ✅ Lightweight and efficient, built in Rust\n\n- ✅ Simple installation across multiple platforms\n\n- ✅ Supports self-hosting for maximum control and privacy\n\n- ✅ Saves time and simplifies development workflows\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 9657\n- 🍴 Forks: 409\n- ❗ Open Issues: 5\n\n\n## 🛠 Tech Stack\n- ✅ Rust\n\n\nHey fellow developers! Ever wished there was a super simple way to expose your local development server to the internet without the hassle of complex configurations or port forwarding?  Meet `bore`, a tiny but mighty TCP tunnel built in Rust that's about to become your new best friend! Forget about complicated setups – `bore` makes it ridiculously easy to share your local projects with the world.  Think of it as a supercharged, streamlined version of tools like ngrok or localtunnel, but with a focus on speed, simplicity, and the ability to self-host for maximum control.\n\nSo, how does this magic work?  `bore` acts as a bridge, connecting your local machine to a remote server. You tell `bore` which local port you want to expose (like the port your web server is running on), and it creates a secure tunnel to the `bore` server.  Then, the `bore` server gives you a public URL that you can share with anyone.  Boom! Your local server is now accessible from anywhere on the internet.\n\nOne of the coolest things about `bore` is its focus on efficiency. It's written in Rust, making it incredibly fast and lightweight.  The entire project is only around 400 lines of code – that's less than many single functions in some larger projects!  This means it's incredibly easy to understand, modify, and even self-host on your own infrastructure.  No more relying on third-party services – you're in complete control!\n\nThe installation process is a breeze. Whether you're on macOS, Linux, or Windows, `bore` offers various installation methods, including Homebrew, AUR, pre-built binaries, and even Docker. If you're a Rustacean, you can even build it from source using Cargo. This flexibility ensures that getting started with `bore` is quick and painless, regardless of your preferred development environment.\n\nBut why should *you* care about `bore`?  Because it saves you time and frustration! No more messing around with complex firewall configurations or port forwarding rules.  Sharing your local development environment with collaborators or testers is now a matter of seconds.  Imagine the time you'll save – time that you can spend building awesome things instead of fighting with networking settings.\n\nMoreover, self-hosting `bore` gives you ultimate control over your data and privacy. You don't have to rely on a third-party service, ensuring that your traffic remains secure and private.  The simplicity of the codebase also makes it easy to audit for security vulnerabilities, offering an extra layer of peace of mind.\n\nIn short, `bore` is a game-changer for developers who need a simple, fast, and secure way to expose their local projects. It's lightweight, efficient, and incredibly easy to use. Give it a try – you won't regret it!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/ekzhang/bore)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "osint",
-            "slug": "osint"
+            "name": "rust",
+            "slug": "rust"
         },
         {
-            "name": "ai",
-            "slug": "ai"
+            "name": "tcp tunnel",
+            "slug": "tcp-tunnel"
         },
         {
-            "name": "nlp",
-            "slug": "nlp"
+            "name": "local development",
+            "slug": "local-development"
         },
         {
-            "name": "open-source",
-            "slug": "open-source"
+            "name": "port forwarding",
+            "slug": "port-forwarding"
         },
         {
-            "name": "web scraping",
-            "slug": "web-scraping"
+            "name": "self-hosting",
+            "slug": "self-hosting"
         }
     ],
-    "slug": "taranis-ai-revolutionizing-osint-with-the-power-of-ai",
-    "project_id": 700760709,
+    "slug": "bore-the-ridiculously-simple-tcp-tunnel-that-will-change-your-development-workflow",
+    "project_id": 477528511,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
