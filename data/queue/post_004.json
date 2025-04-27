@@ -1,0 +1,7 @@
+{
+    "project_id": 342373648,
+    "content": "✨ <b>tcping</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitor network latency and connection quality using TCP, especially in environments where ICMP is blocked.\n<br>\n✨ <b>Key Features:</b>\n• TCP ping instead of ICMP when ICMP is blocked\n• Colored, plain, JSON, CSV, and sqlite3 output formats\n• Network latency, packet loss, and connection quality monitoring\n• Source interface, timeout, and interval specification\n• IPv4 and IPv6 support\n<br>\n📖 <b>Summary:</b>\nTCPING is a cross-platform ping utility that uses TCP instead of ICMP, making it suitable for environments where ICMP is blocked. It offers various output formats like JSON and CSV, and allows users to monitor network latency, packet loss, and connection quality. It supports IPv4/IPv6, and provides real-time connection statistics.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pouriyajamshidi/tcping?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://repository-images.githubusercontent.com/342373648/3e45b20d-6847-402c-8321-b7fbd9125b7a",
+    "platform": "telegram",
+    "quality_score": 0.85
+}
