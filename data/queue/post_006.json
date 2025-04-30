@@ -1,0 +1,7 @@
+{
+    "project_id": 96564413,
+    "content": "🌟 <b>supercronic</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning cron jobs in containerized environments, particularly where standard cron implementations are ill-suited.\n<br>\n✨ <b>Key Features:</b>\n• Crontab-compatible job runner\n• Designed for container environments\n• Environment variables are available in jobs\n• Job output is logged to stdout/stderr\n• Graceful shutdown on SIGTERM, SIGINT, and SIGQUIT\n<br>\n📖 <b>Summary:</b>\nSupercronic is a crontab-compatible job runner specifically designed for container environments. It addresses the shortcomings of traditional cron implementations in containers by preserving environment variables, logging to stdout/stderr, handling signals gracefully, and supporting second-resolution schedules. It's ideal for anyone needing reliable cron job scheduling within containers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aptible/supercronic?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/874425642c6c764d22dce14fc9986a98cd5df1f1969fcde54d1b0f47b3014446/aptible/supercronic",
+    "platform": "telegram",
+    "quality_score": 0.55
+}

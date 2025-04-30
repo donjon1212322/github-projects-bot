@@ -1,65 +1,65 @@
 [
     {
-        "project_id": 429870498,
-        "content": "💡 <b>researcher-webextension</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nPersonal search engine for bookmarks, enabling full-text search and organization.\n<br>\n✨ <b>Key Features:</b>\n• Full-text search of bookmarks powered by Elasticsearch\n• Multilingual index/search support\n• Bookmarks saved locally\n• Browser extension for easy bookmarking\n• Content extraction and simple page view\n<br>\n📖 <b>Summary:</b>\nRE:SEARCHER is a web extension that transforms your browser bookmarks into a personal, full-text searchable knowledge base. It leverages Elasticsearch for powerful querying, supports multiple languages, and saves all data locally. Features include content extraction, syntax highlighting, flexible search results, and organization tools like 'Read Later' and star ratings.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/andots/researcher-webextension?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7dd386b31a679fb46100f54af9907e87e7320a4ce2addc118afced3508876aaf/andots/researcher-webextension",
-        "platform": "telegram",
-        "quality_score": 0.15
-    },
-    {
-        "project_id": 867344664,
-        "content": "🔥 <b>dockerify-android</b> | Dockerfile\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning Android emulators in Docker containers for scalable testing and development environments.\n<br>\n✨ <b>Key Features:</b>\n• Web Interface (scrcpy-web)\n• Root and Magisk Preinstalled\n• PICO GAPPS Preinstalled\n• Seamless ADB Access\n• scrcpy Support\n<br>\n📖 <b>Summary:</b>\nDockerify Android provides a Dockerized Android emulator with support for multiple CPU architectures, offering native performance and seamless ADB & Web access. It enables developers to efficiently run Android virtual devices within Docker containers, facilitating scalable testing and development. Key features include a web interface, root access, Magisk, GAPPS, ADB access, scrcpy support, and optimized performance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Shmayro/dockerify-android?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/79a29f1896c614d35c0e7f8a0319cf2ee335a6f27d30757e576ba4bef8681291/Shmayro/dockerify-android",
-        "platform": "telegram",
-        "quality_score": 0.7999999999999999
-    },
-    {
-        "project_id": 35326040,
-        "content": "💡 <b>rtop</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nRemotely monitoring Linux systems' performance metrics via SSH.\n<br>\n✨ <b>Key Features:</b>\n• Remote system monitoring over SSH\n• Displays vital system metrics (CPU, disk, memory, network)\n• No special software needed on the remote system (only SSH server)\n• Works on Linux systems\n<br>\n📖 <b>Summary:</b>\nrtop is a remote system monitoring tool that connects to Linux systems over SSH to display vital performance metrics like CPU, disk, memory, and network usage. It requires no special software on the remote system, making it easy to use. The tool is designed for users who need to monitor system performance remotely via a command-line interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rapidloop/rtop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4b0fadef404ceeb4a52947145adb9bce0e25df9e40a0b52528660880ae09567f/rapidloop/rtop",
-        "platform": "telegram",
-        "quality_score": 0.45
-    },
-    {
-        "project_id": 786649962,
-        "content": "✨ <b>adBlitz</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomatically skipping skippable ads and accelerating non-skippable ads on YouTube to provide an uninterrupted viewing experience.\n<br>\n✨ <b>Key Features:</b>\n• Automatic Skipping of skippable ads\n• Acceleration of non-skippable ads\n• Handling of multiple ads\n• Background operation\n• Lightweight and user-friendly design\n<br>\n📖 <b>Summary:</b>\nAdBlitz is a browser extension designed to enhance the YouTube viewing experience by automatically skipping skippable ads and speeding up non-skippable ones. It operates seamlessly in the background, providing a lightweight and user-friendly solution for uninterrupted content consumption. The extension is compatible with Chromium-based browsers and Firefox.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dikshantrajput/adBlitz?embed=0\">View Project</a>\n• <a href=\"https://ad-blitz.vercel.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8239971f25bc969306cdaffd3c599cad9ce5768476b180f951436adb07733a3d/dikshantrajput/adBlitz",
-        "platform": "telegram",
-        "quality_score": 0.3
-    },
-    {
-        "project_id": 203456148,
-        "content": "💡 <b>bunkerweb</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nProtecting web services and applications with a next-generation Web Application Firewall.\n<br>\n✨ <b>Key Features:</b>\n• Web Application Firewall (WAF)\n• NGINX-based web server\n• Integration with Linux, Docker, Swarm, and Kubernetes\n• Configurable via web UI or CLI\n• Plugin system for extending security features\n<br>\n📖 <b>Summary:</b>\nBunkerWeb is an open-source Web Application Firewall (WAF) built on NGINX, designed to secure web services by default. It integrates seamlessly with various environments like Docker and Kubernetes and offers extensive configurability through a web UI or CLI. Its core security features can be extended using a plugin system, making cybersecurity more accessible.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bunkerity/bunkerweb?embed=0\">View Project</a>\n• <a href=\"https://www.bunkerweb.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/203456148/d91b56bf-1da8-4023-a1b2-056c20ce3a2d",
-        "platform": "telegram",
-        "quality_score": 0.7999999999999999
-    },
-    {
-        "project_id": 122541171,
-        "content": "🚀 <b>OpenCV-Face-Recognition</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time face recognition applications\n<br>\n✨ <b>Key Features:</b>\n• Real-time face recognition\n• OpenCV integration\n• Python implementation\n<br>\n📖 <b>Summary:</b>\nThis repository provides a real-time face recognition solution implemented in Python using OpenCV. It enables developers to build applications that can identify faces in video streams. The project offers an end-to-end implementation for face recognition tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Mjrovai/OpenCV-Face-Recognition?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/89eb5cc24ec71ddeaa715c6f6923ad505ce16d5d8f17643bd6d50a5bc682cd55/Mjrovai/OpenCV-Face-Recognition",
-        "platform": "telegram",
-        "quality_score": 0.25
-    },
-    {
-        "project_id": 863050120,
-        "content": "✨ <b>fastrtc</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTurning Python functions into real-time audio and video streams over WebRTC or WebSockets.\n<br>\n✨ <b>Key Features:</b>\n• Automatic Voice Detection and Turn Taking\n• Automatic UI generation with Gradio\n• Automatic WebRTC Support\n• Websocket Support\n• Telephone Support\n<br>\n📖 <b>Summary:</b>\nFastRTC is a Python library that simplifies the creation of real-time communication applications. It allows developers to easily convert Python functions into audio and video streams accessible via WebRTC or WebSockets. The library offers features like automatic voice detection, UI generation, and support for telephone communication, making it easy to build interactive applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gradio-app/fastrtc?embed=0\">View Project</a>\n• <a href=\"https://fastrtc.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b018847feaa8858ab0ba85e03c0af2fbfe5bd7be3feb2d8e2c7b3c66045866fa/gradio-app/fastrtc",
+        "project_id": 896595985,
+        "content": "🌟 <b>index</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutonomously performing complex tasks on the web\n<br>\n✨ <b>Key Features:</b>\n• Powered by reasoning LLMs with vision capabilities (Gemini 2.5 Pro, Claude 3.7 Sonnet, OpenAI o4-mini, Gemini 2.5 Flash)\n• Installable via `pip install lmnr-index`\n• Interactive CLI with `index run`\n• Serverless API available\n• Chat UI for interaction\n<br>\n📖 <b>Summary:</b>\nIndex is an open-source browser agent that autonomously executes complex web-based tasks. It leverages reasoning LLMs with vision capabilities and offers various interfaces, including a CLI, serverless API, and Chat UI. The agent also provides advanced browser observability through integration with the Laminar platform.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lmnr-ai/index?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9ec6ba9c1968b23dca650949dad396f83b7e9e06a3e240886791be69ef894fa3/lmnr-ai/index",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 950726152,
-        "content": "💡 <b>DeepMesh</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating high-quality 3D meshes from point cloud data using an auto-regressive transformer model.\n<br>\n✨ <b>Key Features:</b>\n• Auto-regressive mesh generation\n• Reinforcement learning based mesh creation\n• Point cloud conditioned mesh generation\n• Pretrained weights available\n• Optimized inference code\n<br>\n📖 <b>Summary:</b>\nDeepMesh is a framework for generating 3D meshes from point cloud data. It uses an auto-regressive transformer model trained with reinforcement learning to create high-quality meshes. The repository provides pretrained weights and optimized inference code for efficient mesh generation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/zhaorw02/DeepMesh?embed=0\">View Project</a>\n• <a href=\"https://zhaorw02.github.io/DeepMesh/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d60d6b878db27fbe13511b775ed0b764f96b0da2cd28574693d930f87a62ce90/zhaorw02/DeepMesh",
+        "project_id": 909531493,
+        "content": "✨ <b>tablepilot</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Yiling-J/tablepilot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6193efe6e264015f9e5a68afba382ea01a3339cd8ecbf494034e6693c21ffbd4/Yiling-J/tablepilot",
+        "platform": "telegram",
+        "quality_score": 0.7999999999999999
+    },
+    {
+        "project_id": 27561102,
+        "content": "💡 <b>maltrail</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/stamparm/maltrail?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8d6460d630b7491e0f2de971c46cf33c2b7c8ad6ce1bcee3e9950fb751512160/stamparm/maltrail",
         "platform": "telegram",
         "quality_score": 0.75
     },
     {
-        "project_id": 378100758,
-        "content": "💡 <b>Robyn</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding high-performance, asynchronous web applications with Python and a Rust runtime.\n<br>\n✨ <b>Key Features:</b>\n• High-performance web framework\n• Asynchronous request handling\n• Rust runtime\n• Community-driven\n• Easy installation via pip or conda\n<br>\n📖 <b>Summary:</b>\nRobyn is a fast, community-driven Python web framework that leverages a Rust runtime for high performance. It provides an easy-to-use API for defining routes and handling asynchronous requests. Robyn is designed to be innovator-friendly and supports Python versions 3.9 and above.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sparckles/Robyn?embed=0\">View Project</a>\n• <a href=\"https://robyn.tech/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/378100758/db6b06c0-4523-46fd-871d-fc5f670ada37",
+        "project_id": 948951594,
+        "content": "🌟 <b>rust-stakeholder</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/giacomo-b/rust-stakeholder?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4f177ce8f1f1b710dde1fd6ce2c3a8e3147b97ed51be65f9731a45cecfa1f2b5/giacomo-b/rust-stakeholder",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 157402758,
+        "content": "✨ <b>portmaster</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/safing/portmaster?embed=0\">View Project</a>\n• <a href=\"https://safing.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/71c6d314a02d81b8ae823ad081e0496d29cd34ae7e578fd5f38dbe95fdb3ae99/safing/portmaster",
         "platform": "telegram",
         "quality_score": 0.85
+    },
+    {
+        "project_id": 222777351,
+        "content": "🚀 <b>bashly</b> | Ruby\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DannyBen/bashly?embed=0\">View Project</a>\n• <a href=\"https://bashly.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/222777351/75f26a9b-8c68-4191-b33a-389b9e1b51ed",
+        "platform": "telegram",
+        "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 96564413,
+        "content": "🌟 <b>supercronic</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning cron jobs in containerized environments, particularly where standard cron implementations are ill-suited.\n<br>\n✨ <b>Key Features:</b>\n• Crontab-compatible job runner\n• Designed for container environments\n• Environment variables are available in jobs\n• Job output is logged to stdout/stderr\n• Graceful shutdown on SIGTERM, SIGINT, and SIGQUIT\n<br>\n📖 <b>Summary:</b>\nSupercronic is a crontab-compatible job runner specifically designed for container environments. It addresses the shortcomings of traditional cron implementations in containers by preserving environment variables, logging to stdout/stderr, handling signals gracefully, and supporting second-resolution schedules. It's ideal for anyone needing reliable cron job scheduling within containers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aptible/supercronic?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/874425642c6c764d22dce14fc9986a98cd5df1f1969fcde54d1b0f47b3014446/aptible/supercronic",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 35017238,
+        "content": "🚀 <b>codimd</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time collaborative markdown note-taking and documentation for teams and communities.\n<br>\n✨ <b>Key Features:</b>\n• Real-time collaborative markdown editing\n• Open-source alternative to HackMD\n• Customizable and self-hostable\n• Supports various configuration options (networking, security, authentication, etc.)\n• Migration guides from Etherpad\n<br>\n📖 <b>Summary:</b>\nCodiMD is an open-source, self-hostable, real-time collaborative markdown editor. It allows multiple users to simultaneously edit and view markdown documents, making it ideal for team collaboration, documentation, and note-taking. CodiMD is based on HackMD and offers extensive customization options.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hackmdio/codimd?embed=0\">View Project</a>\n• <a href=\"https://hackmd.io/c/codimd-documentation?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6813b24dc264480a82832faecb94629416e33c0a74e666fc4234233e432a96ae/hackmdio/codimd",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 392310812,
+        "content": "🔥 <b>flatnotes</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosted, database-less note-taking\n<br>\n✨ <b>Key Features:</b>\n• Mobile responsive web interface\n• Raw/WYSIWYG markdown editor modes\n• Advanced search functionality\n• Note tagging functionality\n• Customisable home page\n<br>\n📖 <b>Summary:</b>\nFlatnotes is a self-hosted, database-less note-taking web application that stores notes as markdown files. It offers features like advanced search, tagging, wikilinks, and multiple authentication options, aiming for a distraction-free note-taking experience with a clean and simple interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dullage/flatnotes?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/de01a049e65b529727b5a567c6df6b8dfdea3973b001d4d61c13f7bc00212bab/dullage/flatnotes",
+        "platform": "telegram",
+        "quality_score": 0.9000000000000001
     }
 ]
