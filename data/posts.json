@@ -1,65 +1,58 @@
 [
     {
-        "project_id": 896595985,
-        "content": "🌟 <b>index</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutonomously performing complex tasks on the web\n<br>\n✨ <b>Key Features:</b>\n• Powered by reasoning LLMs with vision capabilities (Gemini 2.5 Pro, Claude 3.7 Sonnet, OpenAI o4-mini, Gemini 2.5 Flash)\n• Installable via `pip install lmnr-index`\n• Interactive CLI with `index run`\n• Serverless API available\n• Chat UI for interaction\n<br>\n📖 <b>Summary:</b>\nIndex is an open-source browser agent that autonomously executes complex web-based tasks. It leverages reasoning LLMs with vision capabilities and offers various interfaces, including a CLI, serverless API, and Chat UI. The agent also provides advanced browser observability through integration with the Laminar platform.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lmnr-ai/index?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9ec6ba9c1968b23dca650949dad396f83b7e9e06a3e240886791be69ef894fa3/lmnr-ai/index",
+        "project_id": 929706211,
+        "content": "✨ <b>c-blob-survival</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating a small, chaotic, and performant game inspired by Vampire Survivors.\n<br>\n✨ <b>Key Features:</b>\n• Vampire Survivors-inspired gameplay\n• Written in C and raylib\n• Quad-tree for efficient collision detection\n• Single file architecture\n• Custom font\n<br>\n📖 <b>Summary:</b>\nBlob Survival is a small, chaotic game written in C and raylib, drawing inspiration from Vampire Survivors. It utilizes a quad-tree for efficient collision detection, enabling it to handle thousands of enemies. The game is contained within a single `game.c` file and features pixelated graphics, an upgrade system, and various enemy types.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bones-ai/c-blob-survival?embed=0\">View Project</a>\n• <a href=\"https://bones-ai.itch.io/blob-survival?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/589321dd6db19412ba0b37161ef82a18a53fd94b2d40566539e58f7d5d4fc960/bones-ai/c-blob-survival",
+        "platform": "telegram",
+        "quality_score": 0.3
+    },
+    {
+        "project_id": 53235287,
+        "content": "🌟 <b>sshtron</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying a multiplayer lightcycle game through an SSH connection.\n<br>\n✨ <b>Key Features:</b>\n• Multiplayer lightcycle game\n• Runs through SSH\n• Customizable player colors\n• Option to run your own copy via Go or Docker\n<br>\n📖 <b>Summary:</b>\nSSHTron is a multiplayer lightcycle game accessible via SSH. Players connect to a server and control lightcycles using WASD or vim keybindings, competing against others in a digital arena. The game can be easily played on a public server or self-hosted using Go or Docker, offering a unique and accessible gaming experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/zachlatta/sshtron?embed=0\">View Project</a>\n• <a href=\"http://sshtron.zachlatta.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4826a03266f888bd35d0289c4a887333bd78e685703b46bc2ab5eacd7d8832da/zachlatta/sshtron",
+        "platform": "telegram",
+        "quality_score": 0.45
+    },
+    {
+        "project_id": 455229168,
+        "content": "🌟 <b>immich</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosted photo and video management\n<br>\n✨ <b>Key Features:</b>\n• Upload and view videos and photos\n• Auto backup\n• Duplicate asset prevention\n• Album and Shared albums\n• Metadata view\n<br>\n📖 <b>Summary:</b>\nImmich is a high-performance, self-hosted solution for managing photos and videos. It offers features like automatic backup, duplicate prevention, multi-user support, and advanced search capabilities, providing a comprehensive alternative to cloud-based photo management services.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/immich-app/immich?embed=0\">View Project</a>\n• <a href=\"https://immich.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/455229168/ebba3238-9ef5-4891-ad58-a3b0223b12bd",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 909531493,
-        "content": "✨ <b>tablepilot</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Yiling-J/tablepilot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6193efe6e264015f9e5a68afba382ea01a3339cd8ecbf494034e6693c21ffbd4/Yiling-J/tablepilot",
+        "project_id": 291438522,
+        "content": "🌟 <b>siyuan</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nPersonal knowledge management with a focus on privacy and self-hosting.\n<br>\n✨ <b>Key Features:</b>\n• Privacy-first\n• Self-hosted\n• Fully open source\n• Personal knowledge management\n• Markdown support\n<br>\n📖 <b>Summary:</b>\nSiyuan is a privacy-focused, self-hosted, and fully open-source personal knowledge management software. It allows users to create and manage their knowledge base locally, offering features like markdown support, Docker hosting, and WebDAV integration. The software is designed for individuals who prioritize data privacy and control over their personal knowledge.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/siyuan-note/siyuan?embed=0\">View Project</a>\n• <a href=\"https://b3log.org/siyuan?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/291438522/088c9359-bb50-4be5-a5d9-b638bcc29566",
         "platform": "telegram",
-        "quality_score": 0.7999999999999999
+        "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 27561102,
-        "content": "💡 <b>maltrail</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/stamparm/maltrail?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8d6460d630b7491e0f2de971c46cf33c2b7c8ad6ce1bcee3e9950fb751512160/stamparm/maltrail",
+        "project_id": 703411624,
+        "content": "✨ <b>letta</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding stateful agents with memory, reasoning, and context management.\n<br>\n✨ <b>Key Features:</b>\n• Stateful agents\n• Advanced reasoning capabilities\n• Transparent long-term memory\n• Model-agnostic framework\n• REST API\n<br>\n📖 <b>Summary:</b>\nLetta is a framework for building stateful agents with advanced reasoning and long-term memory. It provides tools for managing agent state, interacting with agents via REST API and SDKs, and a graphical Agent Development Environment. The framework is model-agnostic, allowing integration with various LLM API backends.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/letta-ai/letta?embed=0\">View Project</a>\n• <a href=\"https://docs.letta.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/de92e7d79e73c5f2a669a444db33afa49c12ed2a53e6a2d5eaab65e325c53a87/letta-ai/letta",
         "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 1.1000000000000003
     },
     {
-        "project_id": 948951594,
-        "content": "🌟 <b>rust-stakeholder</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/giacomo-b/rust-stakeholder?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4f177ce8f1f1b710dde1fd6ce2c3a8e3147b97ed51be65f9731a45cecfa1f2b5/giacomo-b/rust-stakeholder",
+        "project_id": 748870020,
+        "content": "💡 <b>InvoiceShelf</b> | PHP\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and managing invoices and estimates for individuals and businesses.\n<br>\n✨ <b>Key Features:</b>\n• Expense tracking\n• Payment tracking\n• Invoice creation\n• Estimate creation\n• Mobile apps (Android and iOS - Coming Soon)\n<br>\n📖 <b>Summary:</b>\nInvoiceShelf is an open-source invoicing solution that helps individuals and businesses track expenses, payments, and create professional invoices and estimates. It is a fork of Crater, focusing on stability, updates, and new features. The solution includes a web application built with Laravel and VueJS, and mobile apps built with React Native.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/InvoiceShelf/InvoiceShelf?embed=0\">View Project</a>\n• <a href=\"https://invoiceshelf.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5cc5dc4c9fad9efa8b78e37d96ca0c456c4a3b54115e5ea444cfe070ee043212/InvoiceShelf/InvoiceShelf",
         "platform": "telegram",
-        "quality_score": 0.6
+        "quality_score": 0.95
     },
     {
-        "project_id": 157402758,
-        "content": "✨ <b>portmaster</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/safing/portmaster?embed=0\">View Project</a>\n• <a href=\"https://safing.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/71c6d314a02d81b8ae823ad081e0496d29cd34ae7e578fd5f38dbe95fdb3ae99/safing/portmaster",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 222777351,
-        "content": "🚀 <b>bashly</b> | Ruby\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DannyBen/bashly?embed=0\">View Project</a>\n• <a href=\"https://bashly.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/222777351/75f26a9b-8c68-4191-b33a-389b9e1b51ed",
+        "project_id": 42723268,
+        "content": "💡 <b>kdenlive</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nVideo editing\n<br>\n✨ <b>Key Features:</b>\n• Professional-grade video editing capabilities\n• MLT Framework for video editing functionality\n• Qt and KDE Frameworks 6 for GUI\n• frei0r for video effects\n• LADSPA for audio effects\n<br>\n📖 <b>Summary:</b>\nKdenlive is a free and open-source video editor that provides professional-grade video editing capabilities. It is built on the MLT Framework and KDE Frameworks, utilizing technologies like frei0r and LADSPA for video and audio effects. The primary use case is for creating and editing videos, ranging from simple home videos to complex projects.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/KDE/kdenlive?embed=0\">View Project</a>\n• <a href=\"https://invent.kde.org/multimedia/kdenlive?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3b695dce92b0b482d8cd43164dc3dbc55e8e7c6d753ca9c64b1515268d249409/KDE/kdenlive",
         "platform": "telegram",
         "quality_score": 0.7499999999999999
     },
     {
-        "project_id": 96564413,
-        "content": "🌟 <b>supercronic</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning cron jobs in containerized environments, particularly where standard cron implementations are ill-suited.\n<br>\n✨ <b>Key Features:</b>\n• Crontab-compatible job runner\n• Designed for container environments\n• Environment variables are available in jobs\n• Job output is logged to stdout/stderr\n• Graceful shutdown on SIGTERM, SIGINT, and SIGQUIT\n<br>\n📖 <b>Summary:</b>\nSupercronic is a crontab-compatible job runner specifically designed for container environments. It addresses the shortcomings of traditional cron implementations in containers by preserving environment variables, logging to stdout/stderr, handling signals gracefully, and supporting second-resolution schedules. It's ideal for anyone needing reliable cron job scheduling within containers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aptible/supercronic?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/874425642c6c764d22dce14fc9986a98cd5df1f1969fcde54d1b0f47b3014446/aptible/supercronic",
+        "project_id": 203681009,
+        "content": "🚀 <b>Nginx-Lua-Anti-DDoS</b> | Lua\n<br>\n🎯 <b>Primary Use Case:</b>\nProtecting Nginx web servers from DDoS attacks using Lua scripting and a Javascript-based authentication puzzle.\n<br>\n✨ <b>Key Features:</b>\n• DDoS Authentication HTML Page (I am Under Attack Mode)\n• IP Address Whitelisting/Blacklisting (IPv4 and IPv6)\n• User-Agent Whitelisting/Blacklisting\n<br>\n📖 <b>Summary:</b>\nThis repository provides an Nginx Lua script designed to mitigate DDoS attacks. It features an 'I am Under Attack Mode' authentication page, IP and User-Agent whitelisting/blacklisting, and WAF capabilities to inspect various request components. Additionally, it offers caching, speed, and performance enhancements like query string manipulation and minification.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/203681009/2a773e00-192a-11ea-9f4c-1990874fc1b4",
         "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 35017238,
-        "content": "🚀 <b>codimd</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time collaborative markdown note-taking and documentation for teams and communities.\n<br>\n✨ <b>Key Features:</b>\n• Real-time collaborative markdown editing\n• Open-source alternative to HackMD\n• Customizable and self-hostable\n• Supports various configuration options (networking, security, authentication, etc.)\n• Migration guides from Etherpad\n<br>\n📖 <b>Summary:</b>\nCodiMD is an open-source, self-hostable, real-time collaborative markdown editor. It allows multiple users to simultaneously edit and view markdown documents, making it ideal for team collaboration, documentation, and note-taking. CodiMD is based on HackMD and offers extensive customization options.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hackmdio/codimd?embed=0\">View Project</a>\n• <a href=\"https://hackmd.io/c/codimd-documentation?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6813b24dc264480a82832faecb94629416e33c0a74e666fc4234233e432a96ae/hackmdio/codimd",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 392310812,
-        "content": "🔥 <b>flatnotes</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosted, database-less note-taking\n<br>\n✨ <b>Key Features:</b>\n• Mobile responsive web interface\n• Raw/WYSIWYG markdown editor modes\n• Advanced search functionality\n• Note tagging functionality\n• Customisable home page\n<br>\n📖 <b>Summary:</b>\nFlatnotes is a self-hosted, database-less note-taking web application that stores notes as markdown files. It offers features like advanced search, tagging, wikilinks, and multiple authentication options, aiming for a distraction-free note-taking experience with a clean and simple interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dullage/flatnotes?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/de01a049e65b529727b5a567c6df6b8dfdea3973b001d4d61c13f7bc00212bab/dullage/flatnotes",
-        "platform": "telegram",
-        "quality_score": 0.9000000000000001
+        "quality_score": 0.6000000000000001
     }
 ]
