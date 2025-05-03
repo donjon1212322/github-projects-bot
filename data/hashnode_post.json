@@ -1,30 +1,30 @@
 {
-    "title": "Meetily: Your AI-Powered Meeting Assistant - Revolutionizing Collaboration!",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nThe meeting-minutes repository provides an AI-powered meeting assistant that captures live audio, transcribes it in real-time, and generates summaries. It's designed to run locally on user devices, ensuring privacy. The application supports macOS and Windows, with Linux support planned, and aims to automate meeting note-taking and summarization.\n\n## 🔑 Key Takeaways\n\n- ✅ Real-time transcription and summarization of meetings.\n\n- ✅ Local processing ensures user privacy and data security.\n\n- ✅ Open-source nature allows for customization and extensibility.\n\n- ✅ Saves time and improves meeting efficiency.\n\n- ✅ Great opportunity to learn and contribute to cutting-edge AI technologies\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 5025\n- 🍴 Forks: 347\n- ❗ Open Issues: 28\n\n\n## 🛠 Tech Stack\n- ✅ C++\n\n\nEver wished you could magically capture and summarize your meetings without tedious note-taking?  Meet Meetily, the open-source AI-powered meeting assistant that does just that!  Imagine focusing completely on the conversation, knowing that Meetily is diligently recording, transcribing, and summarizing everything in real-time.  No more post-meeting transcription struggles or missed action items.  Meetily is a game-changer for anyone who spends time in meetings.\n\nMeetily's magic lies in its clever combination of technologies.  It uses a powerful speech-to-text engine to accurately transcribe your meeting audio. This transcription is then fed into an AI model that intelligently summarizes the key discussion points, action items, and decisions made.  The beauty of it is that all this happens locally on your machine, ensuring your privacy. No data leaves your computer, making it secure and compliant with even the strictest data regulations.\n\nThe architecture is surprisingly straightforward.  Meetily consists of two main parts: a frontend application (the part you interact with) and a backend service. The frontend handles audio recording and user interaction, while the backend processes the audio using the speech-to-text engine and AI summarization model.  The backend is designed to be lightweight and efficient, running smoothly on most modern computers.  This makes Meetily incredibly accessible; no need for cloud servers or complex setups.\n\nFor developers, Meetily offers several compelling advantages. Firstly, it saves you valuable time that would otherwise be spent taking notes or transcribing recordings. This time can be reinvested in more productive tasks.  Secondly, Meetily's open-source nature allows you to customize and extend its functionality to suit your specific needs.  Want to integrate it with your existing project management tools? Go ahead!  The possibilities are endless.  Thirdly, contributing to Meetily's development is a fantastic opportunity to learn about and work with cutting-edge AI technologies like speech-to-text and natural language processing.  Finally, the project's emphasis on privacy is a big plus in today's data-conscious world.\n\nMeetily is more than just a tool; it's a step towards a more efficient and productive future for meetings. By automating the tedious aspects of note-taking, it empowers teams to focus on collaboration and innovation.  It's a project that truly embodies the power of open-source collaboration and AI to solve real-world problems.  Give it a try – you won't be disappointed!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/Zackriya-Solutions/meeting-minutes)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Revolutionizing Cybersecurity: CISO Assistant - The One-Stop Shop for Security Management",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nCISO Assistant is a GRC platform designed to streamline cybersecurity management by providing a central hub for risk assessment, compliance, and security control implementation. It offers features such as auto-mapping to various frameworks, an API-first approach for automation, and an open format for customization, aiming to simplify and improve interoperability in cybersecurity practices.\n\n## 🔑 Key Takeaways\n\n- ✅ Streamlines cybersecurity workflows by connecting various concepts into a central hub.\n\n- ✅ Encourages reusability of components and data, saving time and effort.\n\n- ✅ Offers an open format for customization to fit specific needs.\n\n- ✅ Includes built-in risk assessment and remediation tracking.\n\n- ✅ Supports various import/export formats for easy data transfer and integration with other tools and systems.  The API-first approach makes it highly versatile and adaptable to different environments and workflows\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 2885\n- 🍴 Forks: 375\n- ❗ Open Issues: 76\n\n\n## 🛠 Tech Stack\n- ✅ Python\n\n\nHey fellow developers! Ever felt bogged down by fragmented cybersecurity tools and redundant data entry?  I stumbled upon a GitHub project that's a total game-changer: CISO Assistant.  This isn't your typical cybersecurity tool; it's a central hub designed to connect various cybersecurity concepts, creating a streamlined workflow.  Imagine a place where all your security information lives, neatly organized and easily accessible – that's the promise of CISO Assistant.  It's built with an API-first approach, meaning it integrates seamlessly with other tools and systems, making it incredibly versatile.  The project is built on the principle of reusability.  Instead of repeating tasks, CISO Assistant encourages the reuse of existing components and data, saving you tons of time and effort.  It also offers a wide range of built-in standards, security controls, and threat libraries, helping you get started quickly. One of the coolest things about CISO Assistant is its open format.  You can customize it to fit your specific needs and workflows, making it a truly adaptable solution.  Think of it as a blank canvas for your cybersecurity strategies.  But the best part?  It includes built-in risk assessment and remediation tracking, guiding you through the entire process.  No more juggling multiple tools or spreadsheets!  The project also supports various import/export formats, making data transfer a breeze.  It's like having a single source of truth for all your cybersecurity needs.  The developers behind CISO Assistant clearly understand the pain points of cybersecurity professionals, and they've created a tool that directly addresses those challenges.  It's a breath of fresh air in a field often characterized by complexity and fragmentation.  The platform's modular design allows for easy customization and extension, making it a great fit for organizations of all sizes.  If you're tired of juggling multiple cybersecurity tools and drowning in redundant data, give CISO Assistant a try. It’s a game changer!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/intuitem/ciso-assistant-community)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "ai",
-            "slug": "ai"
+            "name": "cybersecurity",
+            "slug": "cybersecurity"
         },
         {
-            "name": "meeting assistant",
-            "slug": "meeting-assistant"
+            "name": "grc",
+            "slug": "grc"
         },
         {
-            "name": "transcription",
-            "slug": "transcription"
+            "name": "api-first",
+            "slug": "api-first"
+        },
+        {
+            "name": "risk management",
+            "slug": "risk-management"
         },
         {
             "name": "open source",
             "slug": "open-source"
-        },
-        {
-            "name": "privacy",
-            "slug": "privacy"
         }
     ],
-    "slug": "meetily-your-ai-powered-meeting-assistant---revolutionizing-collaboration",
-    "project_id": 908589694,
+    "slug": "revolutionizing-cybersecurity-ciso-assistant---the-one-stop-shop-for-security-management",
+    "project_id": 694266896,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false

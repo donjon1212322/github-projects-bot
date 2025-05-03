@@ -1,51 +1,65 @@
 [
     {
-        "project_id": 964281415,
-        "content": "🔥 <b>virtualbox-web-panel</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging VirtualBox virtual machines through a web browser.\n<br>\n✨ <b>Key Features:</b>\n• List VMs\n• Control Actions (start, stop, save state)\n• Keystroke Injection\n• Screenshot Capture\n• VM Status Indicator\n<br>\n📖 <b>Summary:</b>\nThe VirtualBox Web Control Panel provides a web interface to manage VirtualBox virtual machines. It allows users to list, control, and interact with VMs by starting, stopping, saving state, sending keystrokes, and viewing live screenshots. The panel is designed to be lightweight and easy to deploy, requiring only Python 3's standard libraries and `VBoxManage`.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nv1t/virtualbox-web-panel?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/603fc255a38d4b0d413ea61d534890b3d5c165b9835b9380a10d9112c3ef49fc/nv1t/virtualbox-web-panel",
-        "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 908589694,
-        "content": "🔥 <b>meeting-minutes</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomatically capturing, transcribing, and summarizing meeting content locally, ensuring user privacy and eliminating the need for external servers.\n<br>\n✨ <b>Key Features:</b>\n• Live meeting audio capture\n• Real-time transcription\n• AI-powered meeting summaries\n• Local device processing for privacy\n<br>\n📖 <b>Summary:</b>\nThe meeting-minutes repository provides an AI-powered meeting assistant that captures live audio, transcribes it in real-time, and generates summaries. It's designed to run locally on user devices, ensuring privacy. The application supports macOS and Windows, with Linux support planned, and aims to automate meeting note-taking and summarization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Zackriya-Solutions/meeting-minutes?embed=0\">View Project</a>\n• <a href=\"https://meetily.zackriya.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/908589694/61ad79d3-2d37-4b62-8cb6-f437785a0d17",
-        "platform": "telegram",
-        "quality_score": 0.9000000000000001
-    },
-    {
-        "project_id": 481398639,
-        "content": "🌟 <b>caps-log</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nPersonal journaling with a focus on tracking habits and activities through tag and section-based organization and visualization.\n<br>\n✨ <b>Key Features:</b>\n• Terminal-based journaling\n• Markdown log storage\n• Section and tag extraction for menu display\n• Calendar highlighting based on tag/section selection\n• Integration with `$EDITOR` for log editing\n<br>\n📖 <b>Summary:</b>\nCaps-Log is a terminal-based journaling tool that stores entries as Markdown files. It extracts sections and tags to create interactive menus, allowing users to visualize their activities on a calendar. The tool also supports integration with external editors, remote storage via Git, and AES encryption for logs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/NikolaDucak/caps-log?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/481398639/83241f34-7d7d-4024-b922-2e4246aaa2e7",
-        "platform": "telegram",
-        "quality_score": 0.5
-    },
-    {
-        "project_id": 925270205,
-        "content": "🚀 <b>cua</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling AI agents to control full operating systems within high-performance, lightweight virtual containers for tasks like interacting with applications, browsing the web, and writing code.\n<br>\n✨ <b>Key Features:</b>\n• High-performance virtualization using Apple's Virtualization.Framework\n• Framework for AI agents to observe and control virtual environments\n<br>\n📖 <b>Summary:</b>\nCua is a framework that provides high-performance virtualization and a computer-use interface for AI agents. It allows AI systems to observe and control virtual macOS or Linux environments on Apple Silicon with near-native performance. This enables secure, reproducible, and flexible AI agent workflows with built-in LLM integration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/trycua/cua?embed=0\">View Project</a>\n• <a href=\"https://trycua.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/73cee08ceb87150a36317b775218793ec4cfd5052045ecbf399826811e60c063/trycua/cua",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 931420518,
-        "content": "🌟 <b>hector-rag</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding Retrieval Augmented Generation (RAG) pipelines for AI-driven applications using PostgreSQL as a vector database.\n<br>\n✨ <b>Key Features:</b>\n• Multiple RAG retrieval methods (Similarity Search, Keyword Search, Graph Retrieval, KAG)\n• Reciprocal Rank Fusion (RRF) for combining multiple retrieval methods\n• Built on PostgreSQL vector database\n• Modular architecture\n<br>\n📖 <b>Summary:</b>\nHector RAG is a modular RAG framework built on PostgreSQL, offering advanced retrieval methods and fusion techniques. It enables developers to create sophisticated RAG pipelines for AI applications, leveraging the efficiency of PostgreSQL for vector storage and retrieval. The framework supports multiple retrieval methods and Reciprocal Rank Fusion for enhanced accuracy.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/P3-AI-Network/hector-rag?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/bd688073f079988406a36d00f77fb91fecfa870118ced919c8d64622f391f5c7/P3-AI-Network/hector-rag",
+        "project_id": 793624652,
+        "content": "🔥 <b>empty-enter-expander</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a way to quickly insert frequently used commands into the terminal using shortcuts.\n<br>\n✨ <b>Key Features:</b>\n• Command expansion on empty enter press\n• Customizable command shortcuts using a module directory\n• Zsh support\n<br>\n📖 <b>Summary:</b>\nThe Empty Enter Expander is a tool designed to reduce typing in the terminal by allowing users to define shortcuts for commands. It works by expanding a command into the prompt when Enter is pressed on an empty line, then allowing the user to type a sequence of characters that map to a pre-defined command. It currently supports Zsh and uses a module directory to store the command definitions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/waszabi/empty-enter-expander?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/96fed85b8784bc55cb5c568f1aa1bf594248c8e9dca42bf3147995ab7c8fcfe1/waszabi/empty-enter-expander",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 254202848,
-        "content": "🔥 <b>florisboard</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nA customizable, privacy-focused keyboard for Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Integrated clipboard manager / history\n• Advanced theming support and customization\n• Integrated extension support\n• Emoji keyboard / history / suggestions\n<br>\n📖 <b>Summary:</b>\nFlorisBoard is an open-source keyboard for Android that prioritizes user privacy and customization. It offers features like a clipboard manager, advanced theming, extension support, and an emoji keyboard. The project is currently in early-beta and aims to be modern and user-friendly.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/florisboard/florisboard?embed=0\">View Project</a>\n• <a href=\"https://florisboard.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/254202848/81799060-9b89-4aa6-b68b-54a12ab3b3ff",
+        "project_id": 942807924,
+        "content": "💡 <b>beatsync</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nHigh-precision multi-device audio playback and spatial audio experiences on the web.\n<br>\n✨ <b>Key Features:</b>\n• Millisecond-accurate synchronization\n• Cross-platform compatibility\n• Spatial audio control\n• Polished user interface\n• Self-hostable\n<br>\n📖 <b>Summary:</b>\nBeatsync is a web audio player designed for synchronized multi-device playback. It achieves millisecond-level accuracy using NTP-inspired time synchronization and offers spatial audio control. The player is cross-platform, self-hostable, and features a polished user interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/freeman-jiang/beatsync?embed=0\">View Project</a>\n• <a href=\"https://beatsync.gg?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7f4ff5aa804f418873de57772e22023beca5cf0efdbb9fa67e4bb1d659aca42b/freeman-jiang/beatsync",
         "platform": "telegram",
-        "quality_score": 0.7
+        "quality_score": 0.75
     },
     {
-        "project_id": 932312618,
-        "content": "🔥 <b>faviconic</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning simple games or animations within a browser tab's favicon.\n<br>\n✨ <b>Key Features:</b>\n• Runs games inside browser tab favicons\n• Uses JavaScript\n• Requires a local Python HTTP server to run\n• Uses AppleScript to open multiple Chrome windows\n<br>\n📖 <b>Summary:</b>\nFaviconic is a JavaScript tool that allows users to run simple games or animations inside a browser tab's favicon. It leverages AppleScript to open multiple Chrome windows and requires a local Python HTTP server to serve the game content. The primary use case is to display simple, visually engaging content within the limited space of a favicon.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nolenroyalty/faviconic?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a3b0fa9aad090eb21739743d014d9176c797091b9b2f6ec8e12e93ec432852ae/nolenroyalty/faviconic",
+        "project_id": 319848237,
+        "content": "💡 <b>doggo</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nCommand-line DNS client for performing DNS lookups and queries with support for multiple protocols and output formats.\n<br>\n✨ <b>Key Features:</b>\n• Human-readable output with color-coded and tabular format\n• JSON output support for easy scripting and parsing\n• Multiple transport protocols: DoH, DoT, DoQ, TCP, UDP, DNSCrypt\n• Support for `ndots` and `search` configurations\n<br>\n📖 <b>Summary:</b>\nDoggo is a command-line DNS client written in Go, designed for human-friendly use. It supports various DNS protocols like DoH, DoT, and DoQ, and offers output in both human-readable and JSON formats. It provides flexible query options and supports multiple resolvers, making it a versatile tool for DNS analysis and troubleshooting.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mr-karan/doggo?embed=0\">View Project</a>\n• <a href=\"https://doggo.mrkaran.dev/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f96abf92f2bd4f03712da1db212ac2ffc33c0985deee6654706c30cd26e80e64/mr-karan/doggo",
         "platform": "telegram",
-        "quality_score": 0.3
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 694266896,
+        "content": "💡 <b>ciso-assistant-community</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCentralized Governance, Risk, and Compliance (GRC) management for cybersecurity.\n<br>\n✨ <b>Key Features:</b>\n• Central hub for connecting cybersecurity concepts\n• Multi-paradigm tool adapting to different methodologies\n• Decoupled compliance from cybersecurity controls\n<br>\n📖 <b>Summary:</b>\nCISO Assistant is a GRC platform designed to streamline cybersecurity management by providing a central hub for risk assessment, compliance, and security control implementation. It offers features such as auto-mapping to various frameworks, an API-first approach for automation, and an open format for customization, aiming to simplify and improve interoperability in cybersecurity practices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/intuitem/ciso-assistant-community?embed=0\">View Project</a>\n• <a href=\"https://intuitem.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/694266896/e9e98b92-0d50-4c17-8d7a-787799335830",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 904856904,
+        "content": "🚀 <b>PowerShell-Hunter</b> | PowerShell\n<br>\n🎯 <b>Primary Use Case:</b>\nThreat hunting in Windows environments using PowerShell-based tools.\n<br>\n✨ <b>Key Features:</b>\n• PowerShell 4104 Event Analysis with smart pattern detection and risk scoring\n• Active Directory Threat Hunting with real-time attack detection and visual reporting\n<br>\n📖 <b>Summary:</b>\nPowerShell-Hunter is a collection of PowerShell tools designed to aid security analysts in threat hunting within Windows environments. It provides tools for analyzing PowerShell events, Active Directory activity, MRU entries, BAM data, and PCA information to detect malicious activity. The project aims to equip defenders with powerful and flexible tools that leverage PowerShell's capabilities for identifying and investigating threats.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MHaggis/PowerShell-Hunter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/287b680f47c69a576153db00d573778743f0ad454b6c64823699536cfeff11cd/MHaggis/PowerShell-Hunter",
+        "platform": "telegram",
+        "quality_score": 0.6499999999999999
+    },
+    {
+        "project_id": 429813020,
+        "content": "✨ <b>glim</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nVersatile and extensible point cloud-based 3D localization and mapping.\n<br>\n✨ <b>Key Features:</b>\n• Accuracy through direct multi-scan registration error minimization on factor graphs.\n• GPU acceleration for maximizing mapping speed and quality.\n• Interactive map correction interface for manual refinement.\n<br>\n📖 <b>Summary:</b>\nGLIM is a versatile C++ framework for 3D localization and mapping using point cloud data. It supports various range sensors and offers features like GPU acceleration, interactive map correction, and extensibility through a global callback mechanism. The framework is designed for applications requiring accurate and adaptable 3D mapping solutions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/koide3/glim?embed=0\">View Project</a>\n• <a href=\"https://koide3.github.io/glim/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0316b649812e45506cfe5594fbff65d0b82051866ff05381ebc304208a0fde8f/koide3/glim",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 945605057,
+        "content": "✨ <b>claude-squad</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging multiple AI agents (like Codex, Claude Code, and Aider) in separate workspaces to work on multiple tasks simultaneously.\n<br>\n✨ <b>Key Features:</b>\n• Background task completion\n• Centralized instance and task management\n• Change review before application\n• Isolated git workspaces for each task\n<br>\n📖 <b>Summary:</b>\nClaude Squad is a terminal application designed to manage multiple AI coding agents, such as Codex, Claude Code, and Aider. It enables users to run tasks in the background, manage instances from a single terminal, and review changes before applying them. Each task operates in an isolated Git workspace to prevent conflicts.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/smtg-ai/claude-squad?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5d4e6170cfc1cb185a0b158438c7e61ccfd8835e8edb07c02a582422bd45ae16/smtg-ai/claude-squad",
+        "platform": "telegram",
+        "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 754648820,
+        "content": "💡 <b>formatter-chatgpt-telegram</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting Markdown-formatted text from ChatGPT bots into HTML suitable for the Telegram Bot API.\n<br>\n✨ <b>Key Features:</b>\n• Converts Telegram-style Markdown to Telegram-compatible HTML\n• Supports bold, italic, underline, strikethrough, spoiler, and inline code styling\n• Handles nested text styling\n• Converts links\n<br>\n📖 <b>Summary:</b>\nThis repository provides a Python-based solution for converting Telegram-style Markdown into Telegram-compatible HTML. It supports a wide range of Markdown elements, including text styling, links, code blocks, and blockquotes, ensuring proper formatting for Telegram bots. The primary use case is to enable ChatGPT bots to generate formatted text that can be displayed correctly in Telegram.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Latand/formatter-chatgpt-telegram?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/955d40ab5ef34b885b20c2fd80823f11f88b8fbe14f4542b6c6e5a15c6382cdd/Latand/formatter-chatgpt-telegram",
+        "platform": "telegram",
+        "quality_score": 0.8499999999999999
+    },
+    {
+        "project_id": 956783470,
+        "content": "🌟 <b>hide-my-mail-cloudflare</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating unique, random email addresses that forward to a real inbox, leveraging Cloudflare Email Routes for privacy and email management.\n<br>\n✨ <b>Key Features:</b>\n• Create up to 200 anonymous emails\n• Instantly creates new mailboxes\n<br>\n📖 <b>Summary:</b>\nThe 'hide-my-mail-cloudflare' extension allows users to generate unique, random email addresses that forward to their actual inbox, enhancing privacy. It utilizes Cloudflare Email Routes and offers features like creating up to 200 anonymous emails and instant mailbox creation, and works across operating systems. The extension is client-side only, ensuring no data collection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/webmonch/hide-my-mail-cloudflare?embed=0\">View Project</a>\n• <a href=\"https://chromewebstore.google.com/detail/hide-my-mail/ilffnjijpekalaakkcckkeggijlnfgba?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8e26b4c023085577901e4790be5b3d285c5d64829093ccbafd8f1bfb963a1777/webmonch/hide-my-mail-cloudflare",
+        "platform": "telegram",
+        "quality_score": 0.85
     }
 ]
