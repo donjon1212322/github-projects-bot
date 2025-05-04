@@ -1,7 +1,0 @@
-{
-    "project_id": 711113032,
-    "content": "💡 <b>kopy</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating nested copies (deep copies) of Kotlin data classes and other objects, ensuring that all nested objects are also copied, not just referenced.\n<br>\n✨ <b>Key Features:</b>\n• Kotlin compiler plugin for generating deep copy functions\n• K2 compiler support\n• Gradle plugin integration\n• Configurable copy function generation (copy, invoke, or both)\n<br>\n📖 <b>Summary:</b>\nKopy is a Kotlin compiler plugin that simplifies the creation of deep copies. It automates the generation of `copy` and `invoke` functions for data classes, ensuring that all nested objects are properly copied. The plugin integrates with Gradle and supports the K2 compiler, offering configuration options for debugging and function generation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/JavierSegoviaCordoba/kopy?embed=0\">View Project</a>\n• <a href=\"https://kopy.javiersc.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://repository-images.githubusercontent.com/711113032/f274a840-7f67-443a-a951-400ac2809691",
-    "platform": "telegram",
-    "quality_score": 0.7499999999999999
-}
