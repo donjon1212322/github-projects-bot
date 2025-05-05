@@ -1,58 +1,65 @@
 [
     {
-        "project_id": 971123250,
-        "content": "🔥 <b>telert</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAlerting users when long-running terminal commands or Python code finish executing, enabling them to monitor processes remotely or in CI/CD pipelines.\n<br>\n✨ <b>Key Features:</b>\n• Sends notifications when terminal commands or Python code completes\n• Supports multiple notification channels (Telegram, Microsoft Teams, Slack, Discord, Pushover, HTTP endpoints, desktop notifications, audio alerts)\n<br>\n📖 <b>Summary:</b>\nTelert is a utility that sends notifications upon completion of terminal commands or Python code. It supports various notification channels, including messaging apps, mobile devices, and custom HTTP endpoints. It can be used as a CLI tool, Python library, or a notification API, making it suitable for monitoring long-running tasks, remote servers, and CI/CD pipelines.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/navig-me/telert?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/971123250/5433c8f1-bec3-4f76-b609-eb1373884b44",
+        "project_id": 969487233,
+        "content": "✨ <b>register</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding free subdomains for personal projects and websites.\n<br>\n✨ <b>Key Features:</b>\n• Free subdomain registration\n• DNSSEC protection\n• Email support\n• Full SSL/TLS\n• HTTPS enforcement\n<br>\n📖 <b>Summary:</b>\nThe 'register' repository offers a community-maintained registry for free subdomains. It allows users to register subdomains under the `owns.it.com` domain for showcasing their projects. The service includes features like DNSSEC protection, SSL/TLS, and provides setup guides for popular hosting providers, making it easy to deploy websites with a free subdomain.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/domainsproject/register?embed=0\">View Project</a>\n• <a href=\"https://getyourfree.space/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0f791b4350b28083179ea013e73fc76af18fe3a58d219e22287cc49f4a109dff/domainsproject/register",
         "platform": "telegram",
-        "quality_score": 0.5499999999999999
+        "quality_score": 0.95
     },
     {
-        "project_id": 925377865,
-        "content": "🌟 <b>PastebinSearch</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nSearching for terms on Pastebin using multiple search engines to investigate leaked data or specific content.\n<br>\n✨ <b>Key Features:</b>\n• Multi-Search Engine Support (Google, Bing, DuckDuckGo, Yahoo)\n• Customizable Browser (Firefox, Google Chrome)\n• URL Encoding\n• Error Handling\n• Timeout Support\n<br>\n📖 <b>Summary:</b>\nPastebinSearch is a Bash script that automates searching for terms on Pastebin using popular search engines. It supports customizable browsers, URL encoding, and error handling, making it easier to find specific content or investigate leaked data on Pastebin.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/byfranke/PastebinSearch?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ff8308a54978d918be1414524c6f3b419a2d189d626e17e5caa76f4cbc9e6090/byfranke/PastebinSearch",
+        "project_id": 971293318,
+        "content": "🔥 <b>Step1X-Edit</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nImage editing with a focus on achieving high performance comparable to leading closed-source models.\n<br>\n✨ <b>Key Features:</b>\n• State-of-the-art image editing\n• Comparable performance to closed-source models like GPT-4o and Gemini 2 Flash\n• ComfyUI Plugin support\n• FP8 Quantized weight support\n• Online demo available\n<br>\n📖 <b>Summary:</b>\nStep1X-Edit is an open-source image editing model designed to rival the performance of proprietary models like GPT-4o and Gemini 2 Flash. It offers features such as ComfyUI plugin support, FP8 quantization, and an online demo for immediate use. The project also provides evaluation code and benchmark data for assessing its capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/stepfun-ai/Step1X-Edit?embed=0\">View Project</a>\n• <a href=\"https://step1x-edit.github.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f82c8480f4184770c496c58cfd74d344d6b07216e0a7d431a2db6799c113db31/stepfun-ai/Step1X-Edit",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.8
     },
     {
-        "project_id": 245074037,
-        "content": "🚀 <b>galoisenne</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nImplementing graph-based computational models and exploring connections between different domains like neural networks, automata theory, and programming languages using algebraic graph theory.\n<br>\n✨ <b>Key Features:</b>\n• Graph computation model\n• Iterated matrix multiplication on GPUs\n• Backpropagation support via Kotlin∇\n• Unification of message passing schemes\n<br>\n📖 <b>Summary:</b>\nKaliningraph is a Kotlin library implementing a graph computation model that can be translated to iterated matrix multiplication on GPUs. It supports backpropagation and aims to unify various message passing schemes. The library provides inductive definitions for graphs and circuits, enabling exploration of connections between different domains using algebraic graph theory.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/breandan/galoisenne?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c87b3b5331b461b59b8c74cf45fdd73f5ad7ea61b36e59c783faece84c5d3b47/breandan/galoisenne",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 675010928,
-        "content": "🚀 <b>extra-ktor-plugins</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nExtending Ktor server and client functionality with pre-built plugins for common tasks like Kafka integration, task scheduling, rate limiting, and circuit breaking.\n<br>\n✨ <b>Key Features:</b>\n• Kafka integration for Ktor servers\n• Task scheduling for distributed Ktor servers\n• Rate limiting for Ktor servers\n<br>\n📖 <b>Summary:</b>\nThis repository provides a collection of feature-rich plugins for Ktor, a Kotlin multiplatform framework. These plugins enhance Ktor servers and clients with functionalities such as Kafka integration, task scheduling, rate limiting, and circuit breaking. The plugins aim to simplify development and improve the reliability and scalability of Ktor applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Flaxoos/extra-ktor-plugins?embed=0\">View Project</a>\n• <a href=\"https://flaxoos.github.io/extra-ktor-plugins/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b558749e811168822924392652b2a06cf5a721b0e176526f3fa069b640197577/Flaxoos/extra-ktor-plugins",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 492907371,
-        "content": "🚀 <b>cryptography-kotlin</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a type-safe, multiplatform cryptography library for Kotlin developers.\n<br>\n✨ <b>Key Features:</b>\n• Multiplatform cryptography API\n• Secure random number generation\n<br>\n📖 <b>Summary:</b>\ncryptography-kotlin is a Kotlin Multiplatform library that offers a unified API for various cryptographic operations. It supports multiple algorithms and providers, such as OpenSSL, WebCrypto, and JDK, allowing developers to easily integrate secure cryptographic functionalities into their Kotlin applications across different platforms. The library focuses on providing a type-safe and consistent experience while leveraging well-established cryptography solutions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/whyoleg/cryptography-kotlin?embed=0\">View Project</a>\n• <a href=\"https://whyoleg.github.io/cryptography-kotlin/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/21059997cfedf1576fbd986448913154b892dbb57d425101adb42f1e13bb9c6a/whyoleg/cryptography-kotlin",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 711113032,
-        "content": "💡 <b>kopy</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating nested copies (deep copies) of Kotlin data classes and other objects, ensuring that all nested objects are also copied, not just referenced.\n<br>\n✨ <b>Key Features:</b>\n• Kotlin compiler plugin for generating deep copy functions\n• K2 compiler support\n• Gradle plugin integration\n• Configurable copy function generation (copy, invoke, or both)\n<br>\n📖 <b>Summary:</b>\nKopy is a Kotlin compiler plugin that simplifies the creation of deep copies. It automates the generation of `copy` and `invoke` functions for data classes, ensuring that all nested objects are properly copied. The plugin integrates with Gradle and supports the K2 compiler, offering configuration options for debugging and function generation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/JavierSegoviaCordoba/kopy?embed=0\">View Project</a>\n• <a href=\"https://kopy.javiersc.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/711113032/f274a840-7f67-443a-a951-400ac2809691",
-        "platform": "telegram",
-        "quality_score": 0.7499999999999999
-    },
-    {
-        "project_id": 580836813,
-        "content": "💡 <b>comprehensive-rust</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTeaching Rust to experienced software engineers, particularly those with a background in C++ or Java.\n<br>\n✨ <b>Key Features:</b>\n• Comprehensive Rust course material\n• Covers basic syntax to advanced topics like generics and error handling\n• Includes deep dives on Android, Chromium, bare-metal, and concurrency\n<br>\n📖 <b>Summary:</b>\nThis repository provides comprehensive Rust course materials developed by the Android team at Google. It covers a wide range of Rust topics and includes specific modules for Android, Chromium, bare-metal systems, and concurrency. The course is designed for classroom instruction and aims to help experienced engineers quickly learn Rust.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/google/comprehensive-rust?embed=0\">View Project</a>\n• <a href=\"https://google.github.io/comprehensive-rust/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4a82d70e1c3259f8e859305de5d63ba490b8008f018979e5cfbe70feb0ed2db6/google/comprehensive-rust",
+        "project_id": 17371412,
+        "content": "🚀 <b>h2o-3</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding and deploying scalable machine learning models for big data applications.\n<br>\n✨ <b>Key Features:</b>\n• Distributed machine learning platform\n• Algorithms: Deep Learning, Gradient Boosting (GBM), XGBoost, Random Forest, GLM, K-Means, PCA, GAM, RuleFit, SVM, Stacked Ensembles, AutoML\n• Support for R, Python, Scala, Java, JSON\n<br>\n📖 <b>Summary:</b>\nH2O is an open-source, distributed machine learning platform that provides a wide range of algorithms and tools for building and deploying scalable models. It supports various programming languages and integrates seamlessly with big data technologies like Hadoop and Spark. H2O allows users to build, train, and deploy machine learning models for various applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/h2oai/h2o-3?embed=0\">View Project</a>\n• <a href=\"http://h2o.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/cfee60b824afb3b71eccc113b60ac9b597bc5837d4e1e83cf273a1cfd33cb541/h2oai/h2o-3",
         "platform": "telegram",
         "quality_score": 1.1000000000000003
     },
     {
-        "project_id": 483208253,
-        "content": "🚀 <b>subcat</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPassive subdomain discovery for security professionals and bug bounty hunters.\n<br>\n✨ <b>Key Features:</b>\n• Fast Enumeration\n• Curated Passive Sources\n• Lightweight & Efficient\n• STDIN/STDOUT Integration\n• IP Scope Filtering\n<br>\n📖 <b>Summary:</b>\nSubCat is a subdomain discovery tool designed for penetration testers, bug bounty hunters, and security researchers. It passively aggregates data from various online sources to identify valid subdomains, offering features like fast enumeration, curated passive sources, IP scope filtering, and detailed output. The tool is built to comply with licensing and usage restrictions, ensuring minimal impact on target systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/duty1g/subcat?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1354852ed7f95f6c021e7a0a049a993393d45b8f62f6418a3b674ca8a89969bd/duty1g/subcat",
+        "project_id": 686364232,
+        "content": "🌟 <b>openllmetry</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nObservability for LLM applications\n<br>\n✨ <b>Key Features:</b>\n• OpenTelemetry extensions for LLM applications\n• Instrumentation for LLM providers and Vector DBs\n• Traceloop SDK for easy OpenLLMetry integration\n• Integration with existing observability solutions (Datadog, Honeycomb, etc.)\n<br>\n📖 <b>Summary:</b>\nOpenLLMetry provides open-source observability for LLM applications by extending OpenTelemetry. It offers instrumentations for LLM providers and Vector DBs and a Traceloop SDK for simplified integration. OpenLLMetry enables connection to existing observability solutions, providing comprehensive monitoring and insights into LLM application performance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/traceloop/openllmetry?embed=0\">View Project</a>\n• <a href=\"https://www.traceloop.com/openllmetry?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c9b53d2e162f0a1b85bda360c51222ba8ee5842d5540cfe0326c1182bf4a29eb/traceloop/openllmetry",
         "platform": "telegram",
-        "quality_score": 0.5
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 213390927,
+        "content": "✨ <b>alibi-detect</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nDetecting outliers, adversarial attacks, and drift in machine learning models.\n<br>\n✨ <b>Key Features:</b>\n• Outlier detection\n• Adversarial detection\n• Drift detection\n• Support for tabular data, text, images, and time series\n• TensorFlow and PyTorch backends for drift detection\n<br>\n📖 <b>Summary:</b>\nAlibi Detect is a Python library for outlier, adversarial, and drift detection. It supports various data types, including tabular data, text, images, and time series. The library provides both online and offline detectors and supports TensorFlow and PyTorch backends for drift detection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SeldonIO/alibi-detect?embed=0\">View Project</a>\n• <a href=\"https://docs.seldon.io/projects/alibi-detect/en/stable/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/447af59b9163cf0ef0f143956bb28ab44ffa67755e6ce2d2dfd93909040f57be/SeldonIO/alibi-detect",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 648474263,
+        "content": "🌟 <b>DB-GPT-Hub</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing model performance in Text-to-SQL parsing using fine-tuning techniques, datasets, and models.\n<br>\n✨ <b>Key Features:</b>\n• Text2SQL fine-tuning\n• Text2NLU fine-tuning for improved semantic understanding\n• Text2GQL fine-tuning for generating graph queries\n• Evaluation benchmarks for Text2SQL performance using execution accuracy (EX) metric\n<br>\n📖 <b>Summary:</b>\nDB-GPT-Hub is a repository focused on improving Text-to-SQL performance by providing models, datasets, and fine-tuning techniques. It supports fine-tuning for Text2SQL, Text2NLU, and Text2GQL, and includes evaluation benchmarks using the execution accuracy metric. The repository offers resources for training and evaluating models like Llama2 and CodeLlama using methods like LoRA and QLoRA.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/eosphoros-ai/DB-GPT-Hub?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/963415d5c91636d1e9c94764c55b0032868af23a983cfaeaed64a90ca2bbc05d/eosphoros-ai/DB-GPT-Hub",
+        "platform": "telegram",
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 954177450,
+        "content": "🔥 <b>TripoSG</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nImage-to-3D shape generation\n<br>\n✨ <b>Key Features:</b>\n• High-Fidelity Generation\n• Semantic Consistency\n• Strong Generalization\n• Robust Performance\n<br>\n📖 <b>Summary:</b>\nTripoSG is a high-fidelity image-to-3D generation model that leverages rectified flow transformers and a high-quality dataset. It produces meshes with sharp geometric features and strong generalization capabilities, handling diverse input styles while maintaining semantic consistency. The model enables the creation of coherent 3D shapes from images, even with complex topologies.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/VAST-AI-Research/TripoSG?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ba86129fc95a3fb226b5622396153f5c1e4edfbbd57313f4b0b38f8c63e8a2c4/VAST-AI-Research/TripoSG",
+        "platform": "telegram",
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 907283665,
+        "content": "🚀 <b>pasa</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nComprehensive and accurate academic paper search for complex scholarly queries.\n<br>\n✨ <b>Key Features:</b>\n• Autonomous paper search agent\n• Powered by large language models\n• Reinforcement learning optimization\n• Synthetic and real-world datasets\n• Crawler and Selector LLM agents\n<br>\n📖 <b>Summary:</b>\nPaSa is an advanced paper search agent that utilizes large language models to autonomously search for academic papers. It employs reinforcement learning and a dual-agent system (Crawler and Selector) to efficiently process queries, read papers, and select relevant references. PaSa is designed to provide comprehensive and accurate results, outperforming existing baselines in real-world academic search scenarios.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bytedance/pasa?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/91e39e03e145e82c413e6ca7354cbed03ae14353b41afc7743f1d3d5a67b4839/bytedance/pasa",
+        "platform": "telegram",
+        "quality_score": 0.65
+    },
+    {
+        "project_id": 935736274,
+        "content": "💡 <b>apple-mcp</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating tasks and workflows across various Apple applications using the Model Context Protocol.\n<br>\n✨ <b>Key Features:</b>\n• Send messages using the Apple Messages app\n• List, search, and read notes in Apple Notes app\n• Search contacts\n• Send and schedule emails with attachments\n• List and search reminders\n<br>\n📖 <b>Summary:</b>\nThe apple-mcp repository provides a collection of Apple-native tools designed to interact with the Model Context Protocol (MCP). It enables users to automate tasks across various Apple applications like Messages, Notes, Calendar, and Maps. This allows for the creation of workflows that can be triggered and managed programmatically.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Dhravya/apple-mcp?embed=0\">View Project</a>\n• <a href=\"https://x.com/DhravyaShah/status/1892363590671233255?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/76d0c39762bcb6627739d7abf1788ce072e27ac09b6026b5fc5b348b8773ef29/Dhravya/apple-mcp",
+        "platform": "telegram",
+        "quality_score": 0.6
     }
 ]
