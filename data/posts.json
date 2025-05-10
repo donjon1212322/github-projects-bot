@@ -1,65 +1,51 @@
 [
     {
-        "project_id": 972282547,
-        "content": "💡 <b>ipspot</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRetrieving the system's IP address (both public and private) and associated geolocation information.\n<br>\n✨ <b>Key Features:</b>\n• Retrieves system's public IPv4 address\n• Retrieves system's private IPv4 address\n• Geolocation information lookup for public IPv4\n• Multiple API providers with fallback mechanism for reliability\n• CLI tool for quick IP and geolocation lookups\n<br>\n📖 <b>Summary:</b>\nIPSpot is a Python library and CLI tool designed to fetch a system's IP address and location information. It supports both public and private IPv4 detection, utilizing multiple API providers for reliability. The tool offers a simple and modular approach to IP and geolocation lookups.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/openscilab/ipspot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/dda1afea912455f62b5c1c3e3e7924bc0ed125217d38df81ee2eb040eb5a8656/openscilab/ipspot",
+        "project_id": 244377430,
+        "content": "🌟 <b>oha</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nHTTP load testing and benchmarking of web applications.\n<br>\n✨ <b>Key Features:</b>\n• HTTP load generation\n• Real-time TUI animation\n• Inspired by rakyll/hey\n• Written in Rust\n• Powered by tokio and ratatui\n<br>\n📖 <b>Summary:</b>\nOha is a command-line HTTP load generator written in Rust, inspired by `rakyll/hey`. It provides a real-time terminal user interface (TUI) to visualize the load testing process. Oha supports HTTP/1.1 and HTTP/2 protocols, and can be configured to use either native-tls or rustls for TLS.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hatoo/oha?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/244377430/83c53cd7-4b03-4398-872e-66d17da051f6",
         "platform": "telegram",
-        "quality_score": 0.8499999999999999
+        "quality_score": 0.95
     },
     {
-        "project_id": 940088392,
-        "content": "🌟 <b>lrcsnc</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDisplaying synced lyrics for songs playing on various music players, primarily designed for use with bars like Waybar.\n<br>\n✨ <b>Key Features:</b>\n• Syncing to any player that supports MPRIS\n• Romanization for Japanese, Chinese and Korean languages\n• Customization and configuration using TOML\n• Waybar integration\n<br>\n📖 <b>Summary:</b>\nlrcsnc fetches and displays synced lyrics for the currently playing song, synchronized with the song's actual position. It supports various music players through MPRIS, offers romanization for Japanese, Chinese, and Korean languages, and provides customization options via TOML configuration. The tool is designed for integration with bars like Waybar.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Endg4meZer0/lrcsnc?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/26e3174b40de04c86bf655ea4e93ae32eba4957ab08f9410b28e0af7d17553be/Endg4meZer0/lrcsnc",
+        "project_id": 127029973,
+        "content": "✨ <b>iconoir</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a comprehensive library of open-source icons for use in various software development projects and design tools.\n<br>\n✨ <b>Key Features:</b>\n• 1600+ open-source SVG icons\n• Support for React, React Native, Flutter, Vue\n• Integration with Figma and Framer\n• Available as NPM package\n• CSS stylesheet included\n<br>\n📖 <b>Summary:</b>\nIconoir is an open-source icon library offering over 1600 unique SVG icons designed on a 24x24 grid. It supports popular frameworks and platforms like React, React Native, Flutter, and Vue, and integrates seamlessly with design tools such as Figma and Framer, making it a versatile resource for developers and designers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/iconoir-icons/iconoir?embed=0\">View Project</a>\n• <a href=\"https://iconoir.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/127029973/f9aa5415-62ac-4037-9a5d-ed4ca0fd0c72",
         "platform": "telegram",
-        "quality_score": 0.6499999999999999
+        "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 581938342,
-        "content": "🚀 <b>deduplicator</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nFinding and removing duplicate files to free up disk space and improve file organization.\n<br>\n✨ <b>Key Features:</b>\n• Find duplicate files\n• Sort duplicate files\n• Filter duplicate files\n• Delete duplicate files recursively\n• Scan specific file types\n<br>\n📖 <b>Summary:</b>\nThe Deduplicator repository provides a command-line tool for recursively scanning directories to identify, filter, and delete duplicate files. It offers options to specify file types, minimum file size, directory depth, and interactive deletion, making it a versatile solution for managing disk space.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sreedevk/deduplicator?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/581938342/6bf5d60f-41f1-409c-b6df-175d13f77938",
+        "project_id": 616187681,
+        "content": "💡 <b>chatblade</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nInteracting with OpenAI's ChatGPT from the command line for various tasks, including code generation, data extraction, and general conversation.\n<br>\n✨ <b>Key Features:</b>\n• CLI interface for interacting with ChatGPT\n• Accepts piped input and arguments\n• Saves prompt preambles for quick usage\n• Extracts JSON or Markdown from ChatGPT responses\n• Supports recalling and continuing previous conversations\n<br>\n📖 <b>Summary:</b>\nChatblade is a command-line tool that provides a versatile interface for interacting with OpenAI's ChatGPT. It allows users to pipe input, save prompts, extract specific content from responses, and manage conversations. The tool supports various GPT models and offers different output formatting options, making it a Swiss Army knife for ChatGPT interactions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/npiv/chatblade?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4f4a0577c3647f416f32af67c3c0db81e78ae3287163b2dfd9aee0c6b547473a/npiv/chatblade",
+        "platform": "telegram",
+        "quality_score": 0.45
+    },
+    {
+        "project_id": 128782492,
+        "content": "🔥 <b>Wormholy</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nDebugging iOS network calls\n<br>\n✨ <b>Key Features:</b>\n• No code/imports required\n• Records all NSURLSession traffic\n• Reveals request/response content on shake\n• Handles HTTPS calls without SSL headaches\n• Swift & Objective-C compatible\n<br>\n📖 <b>Summary:</b>\nWormholy is an iOS network debugging tool that allows developers to inspect network traffic without writing extra code. It captures all NSURLSession traffic, reveals request and response details, and offers features like host blacklisting, Postman collection export, and request statistics. It is designed to simplify and accelerate the process of finding and fixing network-related bugs in iOS applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pmusolino/Wormholy?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5ab53994981a6d1601649dd806b8a331022fc470e2181678988606c3cd0530f0/pmusolino/Wormholy",
+        "platform": "telegram",
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 55044933,
+        "content": "🔥 <b>vscode-restclient</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSending HTTP requests and viewing the responses directly within Visual Studio Code, eliminating the need for external tools.\n<br>\n✨ <b>Key Features:</b>\n• Send HTTP requests and view responses directly in VS Code\n• Support for GraphQL queries and cURL commands\n<br>\n📖 <b>Summary:</b>\nThe REST Client extension for Visual Studio Code allows developers to send HTTP requests and view the responses directly within the editor. It supports various features like GraphQL queries, cURL commands, request history, authentication, and environment variables. This eliminates the need for external tools and streamlines API testing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Huachao/vscode-restclient?embed=0\">View Project</a>\n• <a href=\"https://marketplace.visualstudio.com/items?itemName=humao.rest-client?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/64ce7bd18d045b1244ea7792abae7e24096b9a5069d301530ad07eafc331bb2a/Huachao/vscode-restclient",
         "platform": "telegram",
         "quality_score": 0.55
     },
     {
-        "project_id": 817260911,
-        "content": "🌟 <b>freelens</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging Kubernetes clusters through a user-friendly interface.\n<br>\n✨ <b>Key Features:</b>\n• Kubernetes cluster management\n• Standalone application for macOS, Windows, and Linux\n• User-friendly interface\n<br>\n📖 <b>Summary:</b>\nFreelens is a free, open-source IDE designed to simplify Kubernetes cluster management. It provides a standalone application for macOS, Windows, and Linux, offering an intuitive interface to manage and visualize Kubernetes resources. The primary use case is to provide a user-friendly alternative to the standard Kubernetes dashboard.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/freelensapp/freelens?embed=0\">View Project</a>\n• <a href=\"https://freelens.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1070f6f880bdaef1495594ae2eefc87e58bdefa13349cfb425501b4654e3fcc6/freelensapp/freelens",
+        "project_id": 120538304,
+        "content": "🚀 <b>nocode</b> | Dockerfile\n<br>\n🎯 <b>Primary Use Case:</b>\nDemonstrating the concept of 'no code' development as a satirical approach to software creation.\n<br>\n✨ <b>Key Features:</b>\n• No code development\n• Zero deployment\n• Effortless scaling (by doing nothing)\n• No contribution required\n<br>\n📖 <b>Summary:</b>\nThe 'nocode' repository is a humorous take on software development, advocating for writing no code and deploying nowhere. It satirically presents a 'no code' approach as the ultimate solution for secure and reliable applications, highlighting the absurdity of over-engineering and complex development processes. The repository serves as a conceptual joke, emphasizing simplicity through the complete absence of code.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kelseyhightower/nocode?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/64156d4b02aa346a3e562cca8635f0e471569fdb2bd74913845736031c0a52a3/kelseyhightower/nocode",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.25
     },
     {
-        "project_id": 486418532,
-        "content": "🚀 <b>winutil</b> | PowerShell\n<br>\n🎯 <b>Primary Use Case:</b>\nStreamlining Windows system configuration and maintenance.\n<br>\n✨ <b>Key Features:</b>\n• Install Programs\n• Tweaks\n• Fixes\n• Updates\n<br>\n📖 <b>Summary:</b>\nWinutil is a PowerShell-based utility designed to automate common Windows tasks such as installing programs, applying tweaks, configuring settings, and fixing update issues. It aims to simplify and expedite the process of setting up and maintaining a Windows system by providing a curated collection of scripts and configurations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ChrisTitusTech/winutil?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f2612ab0fbaba5acdc557d405c89294fc574cf19157f2c60d071a9406b173783/ChrisTitusTech/winutil",
+        "project_id": 903167385,
+        "content": "🔥 <b>blue95</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a modern and lightweight desktop environment reminiscent of Windows 95.\n<br>\n✨ <b>Key Features:</b>\n• Modern desktop experience with a Windows 95 aesthetic\n• Based on Fedora Atomic Xfce\n• Includes tweaks from Universal Blue (codecs, automatic updates)\n• Provides a lightweight and usable out-of-the-box experience\n<br>\n📖 <b>Summary:</b>\nBlue95 is a Linux distribution that aims to recreate the look and feel of Windows 95 on a modern and lightweight desktop environment. It is based on Fedora Atomic Xfce and incorporates tweaks from Universal Blue to provide a usable out-of-the-box experience, including codecs and automatic updates. A live ISO is available for testing the distribution without installation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/winblues/blue95?embed=0\">View Project</a>\n• <a href=\"https://blues.win/95?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/903167385/baa29cc3-468a-43a2-9b38-bdd8ee8a9e88",
         "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 153443362,
-        "content": "🌟 <b>Sophia-Script-for-Windows</b> | PowerShell\n<br>\n🎯 <b>Primary Use Case:</b>\nFine-tuning and automating routine tasks on Windows 10 and 11 operating systems.\n<br>\n✨ <b>Key Features:</b>\n• Fine-tuning Windows 10 and 11\n• Automating routine tasks\n• Offers over 150 unique tweaks\n• Restoring default settings for each tweak\n• Downloadable via PowerShell, Chocolatey, and WinGet\n<br>\n📖 <b>Summary:</b>\nSophia Script for Windows is a PowerShell module designed for fine-tuning Windows 10 and 11. It provides a comprehensive set of over 150 unique tweaks to optimize system performance and automate routine tasks. The module also allows users to restore default settings, ensuring a safe and customizable Windows experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/farag2/Sophia-Script-for-Windows?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/acf010698482995bff1ab57fc3c5700eb4cff403a5991c2721ffdcdba60bc59b/farag2/Sophia-Script-for-Windows",
-        "platform": "telegram",
-        "quality_score": 0.7499999999999999
-    },
-    {
-        "project_id": 927404688,
-        "content": "🚀 <b>ssh_commander</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning sequential commands on a group of SSH servers simultaneously.\n<br>\n✨ <b>Key Features:</b>\n• Supports password and key-based authentication\n• Colorized output\n• Execute commands from files\n• Interactive server management\n• Secure password handling\n<br>\n📖 <b>Summary:</b>\nSSH Commander is a command-line tool for executing commands across multiple SSH servers concurrently. It supports password and key-based authentication, YAML configuration, and real-time output streaming. The tool is designed for managing and executing commands on multiple servers efficiently.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AthenaNetworks/ssh_commander?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c09275c567e8fd288ff9a2e0e819a67117ab9efc863520ed72a42db6afafba56/AthenaNetworks/ssh_commander",
-        "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 737292093,
-        "content": "🌟 <b>deepfake-audio-detector</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nDetecting whether a voice clip is AI-generated (deepfake) or not.\n<br>\n✨ <b>Key Features:</b>\n• Detects AI-generated audio clips\n• Supports FLAC and M4A audio formats\n• Command-line interface for testing\n<br>\n📖 <b>Summary:</b>\nThe Deepfake Audio Detector repository provides a tool to classify audio clips of people speaking as either deepfake or non-deepfake using deep learning. It offers a command-line interface for testing audio clips and supports FLAC and M4A audio formats. The primary use case is to identify AI-generated voice clips.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/zo9999/deepfake-audio-detector?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fa76206c7e76b3a57761433bd3b66d2aaf00da7891bbdad6a03ffcc016f00261/zo9999/deepfake-audio-detector",
-        "platform": "telegram",
-        "quality_score": 0.15
-    },
-    {
-        "project_id": 832452447,
-        "content": "🚀 <b>midscene</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-powered web and Android automation and testing using natural language instructions.\n<br>\n✨ <b>Key Features:</b>\n• Natural Language Interaction for UI Automation\n• Web and Android Automation\n• MCP Integration\n• Visual Reports for Debugging\n• Open Source Model Choice (UI-TARS, Qwen2.5-VL)\n<br>\n📖 <b>Summary:</b>\nMidscene.js is an AI operator that allows users to automate web and Android tasks by describing them in natural language. It supports UI automation, MCP integration, and provides visual reports for debugging. It also offers a choice of open-source models like UI-TARS and Qwen2.5-VL, in addition to GPT-4o.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/web-infra-dev/midscene?embed=0\">View Project</a>\n• <a href=\"https://midscenejs.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3ea9275f02de58cac90220818e6ea796551886fd46d52ff3437647acd86b2baa/web-infra-dev/midscene",
-        "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.5499999999999999
     }
 ]
