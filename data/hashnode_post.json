@@ -1,30 +1,30 @@
 {
-    "title": "LegoGPT: Build Amazing LEGO Creations with AI!",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nLegoGPT is a novel approach for automatically generating physically stable LEGO brick models from text descriptions. It leverages a fine-tuned Llama-3.2-1B-Instruct model and incorporates stability analysis using Gurobi. The repository provides tools for interactive inference and rendering LEGO visualizations.\n\n## 🔑 Key Takeaways\n\n- ✅ Generates physically stable and buildable LEGO models from text prompts.\n\n- ✅ Leverages a powerful language model fine-tuned on a massive dataset of LEGO instructions and designs.\n\n- ✅ Uses a sophisticated optimization algorithm to ensure structural stability.\n\n- ✅ Open-source and well-documented, making it an excellent learning resource.\n\n- ✅ Opens up a whole new world of creative possibilities for developers and enthusiasts alike\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 576\n- 🍴 Forks: 26\n- ❗ Open Issues: 2\n\n\n## 🛠 Tech Stack\n- ✅ Python\n\n\nEver dreamed of building amazing LEGO creations just by describing them in words?  Get ready to have your mind blown because LegoGPT makes that a reality! This incredible GitHub project uses the power of AI to generate physically stable and buildable LEGO models directly from your text prompts.  Imagine typing 'a majestic castle on a hill overlooking a serene lake' and having the AI generate a detailed, buildable LEGO design. That's the magic of LegoGPT.\n\nSo how does it work?  LegoGPT leverages a powerful language model fine-tuned on a massive dataset of LEGO instructions and designs. This allows it to understand the nuances of LEGO brick construction, including size, shape, and stability.  When you give it a text prompt, the AI doesn't just generate a random arrangement of bricks; it meticulously plans the structure, ensuring that the resulting model is not only visually appealing but also structurally sound and buildable. It's like having a super-smart LEGO architect at your fingertips.\n\nThe architecture involves several key steps. First, the text prompt is processed by the language model to generate a preliminary design. This design is then analyzed for physical stability using a sophisticated optimization algorithm.  This step is crucial because it prevents the AI from generating designs that would collapse under their own weight. Finally, the stable design is translated into a format that can be easily understood and used to build the actual LEGO model. The result? A detailed blueprint that you can follow to bring your textual vision to life!\n\nWhat's in it for developers?  Well, for starters, LegoGPT opens up a whole new world of creative possibilities. You can use it to generate designs for games, simulations, architectural models, and countless other applications.  But the benefits extend beyond just creativity.  The project's code is well-documented and open-source, making it an excellent learning resource for anyone interested in AI, computer-aided design, or robotics.  Plus, the project uses a modular design, making it easy to extend and customize for specific needs.  The use of a pre-trained language model also significantly reduces the development time and computational resources required to build similar applications.\n\nLegoGPT is not just a fun project; it's a testament to the power of AI to solve real-world problems.  It's a perfect example of how AI can be used to bridge the gap between human creativity and physical reality.  It represents a significant step forward in the field of generative design and has the potential to revolutionize how we design and build things.  The project's open-source nature allows for community contribution and further development, promising even more exciting features and applications in the future.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/AvaLovelace1/LegoGPT)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Rybbit Analytics: The Privacy-Friendly Web Analytics Revolution!",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nRybbit is an open-source analytics tool designed as a privacy-focused alternative to Google Analytics. It offers comprehensive web analytics metrics, customizable dashboards, and advanced filtering, all while ensuring GDPR and CCPA compliance through cookie-less tracking. Rybbit can be self-hosted or used as a hosted service.\n\n## 🔑 Key Takeaways\n\n- ✅ Easy setup and intuitive interface for quick implementation.\n\n- ✅ Privacy-focused design compliant with GDPR and CCPA.\n\n- ✅ Comprehensive analytics including real-time dashboards and advanced filtering.\n\n- ✅ Customizable dashboards and tracking for in-depth insights.\n\n- ✅ Open-source nature allows for customization and community contribution.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 4745\n- 🍴 Forks: 145\n- ❗ Open Issues: 28\n\n\n## 🛠 Tech Stack\n- ✅ TypeScript\n\n\nHey fellow developers! Ever wished for a web analytics solution that's not only powerful but also respects your users' privacy?  Then get ready to be blown away by Rybbit Analytics! This open-source project is a game-changer, offering a fantastic alternative to the behemoths like Google Analytics.  It's incredibly easy to set up, whether you prefer a hosted solution or self-hosting for ultimate control.  Think of it as a lightweight, privacy-focused analytics platform that provides all the essential metrics you need, without the creepy tracking. \n\nRybbit's architecture is designed for simplicity and efficiency. It focuses on collecting crucial data points without resorting to intrusive cookie-based tracking or extensive user profiling. This makes it fully compliant with GDPR and CCPA, ensuring you stay on the right side of the law while providing valuable insights into your website's performance. You get all the key metrics: sessions, unique users, pageviews, bounce rate, and session duration – everything you'd expect from a robust analytics platform. But Rybbit goes further.  You can customize dashboards to track specific goals, user journeys, and funnels, providing a detailed view of how users interact with your application.  Need to analyze data across multiple dimensions? Rybbit's advanced filtering allows you to slice and dice your data with ease. \n\nOne of the features I really love is the real-time dashboard.  It gives you an immediate snapshot of current website activity, allowing you to quickly react to trends and potential issues. Imagine seeing the number of active users increase as you launch a new marketing campaign – that's the kind of real-time feedback Rybbit provides.  And if you're visually inclined, you'll appreciate the advanced map visualizations that show user location data down to the city level.  This level of geographical detail can be invaluable for understanding your user base and tailoring your content accordingly.  The ability to track custom events with JSON properties is also a huge plus, giving you complete flexibility to monitor unique aspects of your application. \n\nBut what are the practical benefits for developers? Well, first of all, it saves you time.  Setting up Rybbit is quick and easy, and the intuitive interface makes navigating the data a breeze.  Second, it improves your workflow by providing clear, concise, and actionable insights into your website's performance.  You can identify bottlenecks, optimize content, and ultimately improve user engagement.  Third, it helps you maintain your users' trust and privacy, which is increasingly important in today's data-conscious world.  Using Rybbit demonstrates your commitment to ethical data handling, which is a big win for your users and your brand.  It's also entirely open source, giving you the freedom to customize and extend it to fit your specific needs, contributing to a vibrant community and continuous improvement.  So, if you're looking for a powerful, privacy-respecting, and easy-to-use analytics solution, Rybbit is definitely worth checking out!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/rybbit-io/rybbit)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
-        {
-            "name": "ai",
-            "slug": "ai"
-        },
-        {
-            "name": "lego",
-            "slug": "lego"
-        },
-        {
-            "name": "generative design",
-            "slug": "generative-design"
-        },
-        {
-            "name": "language model",
-            "slug": "language-model"
-        },
         {
             "name": "open source",
             "slug": "open-source"
+        },
+        {
+            "name": "web analytics",
+            "slug": "web-analytics"
+        },
+        {
+            "name": "privacy",
+            "slug": "privacy"
+        },
+        {
+            "name": "gdpr",
+            "slug": "gdpr"
+        },
+        {
+            "name": "ccpa",
+            "slug": "ccpa"
         }
     ],
-    "slug": "legogpt-build-amazing-lego-creations-with-ai",
-    "project_id": 953274130,
+    "slug": "rybbit-analytics-the-privacy-friendly-web-analytics-revolution",
+    "project_id": 916747943,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
