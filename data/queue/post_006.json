@@ -1,0 +1,7 @@
+{
+    "project_id": 494107715,
+    "content": "💡 <b>datafusion-ballista</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nDistributing DataFusion applications to enable parallel query execution across a cluster of machines.\n<br>\n✨ <b>Key Features:</b>\n• Distributed query execution engine\n• Enhances Apache DataFusion\n• Parallelized workload execution across multiple nodes\n• Supports SQL queries\n• Uses a scheduler and executor architecture\n<br>\n📖 <b>Summary:</b>\nBallista is a distributed query execution engine built on top of Apache DataFusion. It allows DataFusion applications to be scaled out to a cluster of machines, enabling parallel processing of large datasets. The system uses a scheduler and executor architecture and can be deployed using Docker Compose or Kubernetes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/apache/datafusion-ballista?embed=0\">View Project</a>\n• <a href=\"https://datafusion.apache.org/ballista?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/b0284a943d2730b6c97adfd851d40adc2f56bc41c79099131f201bf348091f25/apache/datafusion-ballista",
+    "platform": "telegram",
+    "quality_score": 0.85
+}
