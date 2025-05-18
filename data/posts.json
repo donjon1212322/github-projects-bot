@@ -1,65 +1,65 @@
 [
     {
-        "project_id": 981803794,
-        "content": "💡 <b>maps_screenshot_to_3d</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating 3D models from aerial imagery, specifically Google Maps screenshots, for experimental or artistic purposes.\n<br>\n✨ <b>Key Features:</b>\n• Converts Google Maps screenshots into 3D models\n• Uses monocular depth estimation models\n• Removes background and adjusts perspective\n• Visualizes mesh or point cloud\n<br>\n📖 <b>Summary:</b>\nThis repository provides a Jupyter Notebook-based pipeline for converting Google Maps screenshots into 3D models. It leverages monocular depth estimation to estimate depth from the 2D image, removes the background, corrects perspective, and visualizes the result as a mesh or point cloud. The primary use case is for experimentation and generating 3D models from aerial imagery.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aliaksandr960/maps_screenshot_to_3d?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/61ccf71115fe446e50e3163e279d7cdf0478f499b2b1cac698a707193692b56f/aliaksandr960/maps_screenshot_to_3d",
-        "platform": "telegram",
-        "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 350411909,
-        "content": "💡 <b>streamrip</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDownloading music from streaming services for offline listening and archival.\n<br>\n✨ <b>Key Features:</b>\n• Fast, concurrent downloads\n• Downloads from Qobuz, Tidal, Deezer, and SoundCloud\n• Supports Spotify and Apple Music playlists via last.fm\n• Automatic format conversion\n• Duplicate track avoidance\n<br>\n📖 <b>Summary:</b>\nStreamrip is a scriptable music downloader that supports multiple streaming platforms like Qobuz, Tidal, Deezer, and SoundCloud. It allows users to download tracks, albums, and playlists, convert them to preferred formats, and avoid duplicates. The tool offers features like concurrent downloads, rate limiting, interactive search, and integration with youtube-dl, making it a versatile solution for music enthusiasts.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nathom/streamrip?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0c6eaeac273dc02883004e268ec2110fbc3adc1bbabb48f46efb6ec01bbc20e8/nathom/streamrip",
-        "platform": "telegram",
-        "quality_score": 0.7999999999999999
-    },
-    {
-        "project_id": 142004087,
-        "content": "✨ <b>pywebcopy</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSaving webpages and websites locally for offline viewing and archiving.\n<br>\n✨ <b>Key Features:</b>\n• Downloads entire or partial websites locally.\n• Remaps links to resources for offline viewing.\n• Crawls websites to discover and download linked resources.\n• Command-line interface for easy usage.\n<br>\n📖 <b>Summary:</b>\nPyWebCopy is a Python tool designed to download websites or specific webpages to your local machine for offline access. It automatically remaps links to ensure resources like stylesheets and images function correctly. The tool also features a command-line interface for simplified usage.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rajatomar788/pywebcopy?embed=0\">View Project</a>\n• <a href=\"https://rajatomar788.github.io/pywebcopy/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/142004087/7dffa000-3a2f-11ea-9136-294a4ffcccfc",
+        "project_id": 346639494,
+        "content": "✨ <b>openvino_notebooks</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nLearning and experimenting with the OpenVINO™ Toolkit for optimized deep learning inference.\n<br>\n✨ <b>Key Features:</b>\n• Ready-to-run Jupyter notebooks\n• Introduction to OpenVINO basics\n<br>\n📖 <b>Summary:</b>\nThe openvino_notebooks repository provides a collection of Jupyter notebooks designed to help users learn and experiment with the OpenVINO™ Toolkit. These notebooks offer an introduction to OpenVINO basics and demonstrate how to utilize the API for optimized deep learning inference. The repository includes installation guides for various operating systems and environments, making it accessible to a wide range of users.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/openvinotoolkit/openvino_notebooks?embed=0\">View Project</a>\n• <a href=\"https://openvinotoolkit.github.io/openvino_notebooks/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/346639494/8d9be200-95fd-11eb-9cde-b0655d73f282",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 156939672,
-        "content": "🔥 <b>onnxruntime</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nAccelerating machine learning inference and training across various platforms and hardware.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform inference and training accelerator\n• Supports models from various deep learning frameworks and classical machine learning libraries\n• Compatible with different hardware, drivers, and operating systems\n<br>\n📖 <b>Summary:</b>\nONNX Runtime is a cross-platform machine learning accelerator for both inference and training. It supports models from popular frameworks like PyTorch and TensorFlow, as well as classical machine learning libraries. By leveraging hardware acceleration and graph optimizations, ONNX Runtime aims to provide optimal performance across diverse hardware and operating systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/microsoft/onnxruntime?embed=0\">View Project</a>\n• <a href=\"https://onnxruntime.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/156939672/37b1cb00-864b-11eb-8220-76153935f7da",
+        "project_id": 667568594,
+        "content": "🚀 <b>quik</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nReplacement for the stock messaging app on Android.\n<br>\n✨ <b>Key Features:</b>\n• Scheduled Messages\n• Message Backup\n• Speech to Text and Text to Speech\n• Message Blocking and Archiving\n• Voice Messages\n<br>\n📖 <b>Summary:</b>\nQUIK is an open-source Android SMS messenger app that aims to provide a more feature-rich and customizable experience than the default messaging application. It offers features such as scheduled messages, message backup, speech-to-text integration, message blocking, voice messages, and support for various attachments, providing users with greater control and flexibility over their messaging.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/octoshrimpy/quik?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e2a258fbe5b540d07a7ecf72a5eea2a186a6ebe66766c3969b05de75bb833732/octoshrimpy/quik",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 928902972,
-        "content": "✨ <b>switchsearch</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nQuickly switching between different search engines with a single click.\n<br>\n✨ <b>Key Features:</b>\n• Built-in search engine options (Google, Yandex, Brave, DuckDuckGo, Perplexity, ChatGPT, Wiby, Marginalia)\n• Ability to add custom search engines\n• Google and Yandex image search via right-click\n<br>\n📖 <b>Summary:</b>\nSwitchSearch is a browser extension that allows users to quickly switch between different search engines. It comes with several built-in options and allows users to add their own. It also offers convenient image search integration for Google and Yandex.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/thedmdim/switchsearch?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8f308692b049f83bb0f78674e0e157ae29079f5defac4e72b5ff12fb36430795/thedmdim/switchsearch",
+        "project_id": 942312530,
+        "content": "💡 <b>cocoindex</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nPreparing fresh data for AI applications such as creating embeddings, building knowledge graphs, and performing other data transformations.\n<br>\n✨ <b>Key Features:</b>\n• Real-time data transformation\n• Incremental processing\n• Dataflow programming model\n• Change data capture\n• Automated data updates\n<br>\n📖 <b>Summary:</b>\nCocoIndex is a Rust-based data transformation framework designed for real-time AI data preparation. It utilizes a dataflow programming model and incremental processing to efficiently handle change data capture and automate data updates. This allows developers to easily create and maintain fresh data pipelines for applications like embeddings and knowledge graphs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cocoindex-io/cocoindex?embed=0\">View Project</a>\n• <a href=\"https://cocoindex.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8c6504a0a9aa1691b0bbb7501408a0cb038197d55e810caad564649a22278c68/cocoindex-io/cocoindex",
         "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 0.85
     },
     {
-        "project_id": 762837,
-        "content": "🚀 <b>ricochet</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nAnonymous and secure instant messaging\n<br>\n✨ <b>Key Features:</b>\n• Anonymous messaging\n• Metadata resistance\n• Peer-to-peer communication\n• Cross-platform support\n<br>\n📖 <b>Summary:</b>\nRicochet is an anonymous peer-to-peer instant messaging system that prioritizes privacy and metadata resistance. It leverages the Tor network to hide user identities and prevent the exposure of contact lists or communication content. The application is designed to be cross-platform and user-friendly, focusing on secure communication without reliance on central servers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ricochet-im/ricochet?embed=0\">View Project</a>\n• <a href=\"https://ricochet.im/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/063b419efeeb5133bf7ae40f087d837196437078f1925c17b6a7159cc1eab84f/ricochet-im/ricochet",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 922192456,
-        "content": "✨ <b>tapnote</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nInstant, self-hosted Markdown-based content creation and publishing.\n<br>\n✨ <b>Key Features:</b>\n• Minimalist Writing Experience\n• Distraction-free Markdown editor\n• Instant publishing\n• Self-hosted content management\n• Unique URL for each post\n<br>\n📖 <b>Summary:</b>\nTapNote is a minimalist, self-hosted publishing platform that allows users to instantly create and publish Markdown-based content. It offers a distraction-free writing experience with features like unique URLs, secure editing, and support for images and code snippets. TapNote is ideal for quick notes, blog posts, or documentation sharing, giving users full control over their content.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vorniches/tapnote?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2c9eb3e0bb968d461027b24d54460d2df73c6e10e9b8c5ebe9f23aec6cb4609b/vorniches/tapnote",
-        "platform": "telegram",
-        "quality_score": 0.15
-    },
-    {
-        "project_id": 926455740,
-        "content": "✨ <b>amoy-todo-wallpaper</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSetting a customizable To-Do list as a Windows desktop wallpaper for increased visibility and task management.\n<br>\n✨ <b>Key Features:</b>\n• Sets a To-Do list as Windows wallpaper\n• Allows editing of the To-Do list via a UI\n• Allows customization of font color and background color\n• Supports setting font size\n• Uses a background image\n<br>\n📖 <b>Summary:</b>\nThis repository provides a Python program that sets a user-editable To-Do list as the Windows desktop wallpaper. It includes a UI for editing the To-Do list content and allows customization of font color, background color, and font size. The program utilizes a background image to enhance the visual appeal of the wallpaper.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/casualwriter/amoy-todo-wallpaper?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/22fec63d0a011c477104d9ca46b581da2b340f9f4e69bbe2edb136dff18f5036/casualwriter/amoy-todo-wallpaper",
-        "platform": "telegram",
-        "quality_score": 0.15
-    },
-    {
-        "project_id": 816373900,
-        "content": "🌟 <b>SAMPart3D</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSegmenting any part in 3D objects.\n<br>\n✨ <b>Key Features:</b>\n• 3D object part segmentation\n• Training pipeline for SAMPart3D\n• Multi-view rendering using Blender\n• Testing with pretrained MLPs\n• Highlighting 3D segments on multi-view renderings\n<br>\n📖 <b>Summary:</b>\nSAMPart3D is a Python-based project focused on segmenting parts within 3D objects. It provides tools and scripts for training segmentation models, utilizing multi-view rendering with Blender, and evaluating the segmentation results. The repository also includes utilities for highlighting segmented parts in rendered images and provides a dataset called PartObjaverse-Tiny.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Pointcept/SAMPart3D?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5880e6ecbf14691d173af6246f29335408d0c8af5a5ab5d99f67335c604820b9/Pointcept/SAMPart3D",
+        "project_id": 926901987,
+        "content": "💡 <b>LLMDog</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSharing code snippets with Large Language Models for code review, debugging, and implementation guidance.\n<br>\n✨ <b>Key Features:</b>\n• Interactive TUI for file selection\n• Recursive file and directory selection with gitignore support\n• Markdown output with file tree and content\n• Clipboard integration for quick sharing\n<br>\n📖 <b>Summary:</b>\nLLMDog is a command-line tool that simplifies sharing code with LLMs like Claude and ChatGPT. It provides an interactive TUI for selecting relevant files and directories, automatically formats them into Markdown, and copies the output to the clipboard. LLMDog streamlines code discussions by allowing developers to share specific parts of their codebase with LLMs for assistance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/doganarif/LLMDog?embed=0\">View Project</a>\n• <a href=\"https://llmdog.arif.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b6f5aac94de8560585dd0e8ab02799c0cf5cb79b26f7fa9f6bd99295fe0d0662/doganarif/LLMDog",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 72891330,
+        "content": "🚀 <b>ingress-nginx</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nRouting external HTTP(S) traffic to Kubernetes services.\n<br>\n✨ <b>Key Features:</b>\n• Ingress controller for Kubernetes\n• Uses NGINX as a reverse proxy and load balancer\n<br>\n📖 <b>Summary:</b>\nThe ingress-nginx repository provides an Ingress controller for Kubernetes, leveraging NGINX as a reverse proxy and load balancer. It enables users to expose Kubernetes services to the outside world by routing external HTTP(S) traffic to the appropriate services within the cluster. This project assumes that users that can create Ingress objects are administrators of the cluster.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kubernetes/ingress-nginx?embed=0\">View Project</a>\n• <a href=\"https://kubernetes.github.io/ingress-nginx/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/2f9e44a3a759ca950f02c805d2464b38dc23f154f7de6265a8f24d16c6febb6b/kubernetes/ingress-nginx",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 10416648,
+        "content": "🔥 <b>bc-java</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a comprehensive Java library for cryptographic algorithms and protocols, suitable for a wide range of environments and applications.\n<br>\n✨ <b>Key Features:</b>\n• Java implementation of cryptographic algorithms\n• Lightweight API suitable for various environments including J2ME\n• Conforms algorithms to the JCE framework\n• Supports building and testing with JDK21\n<br>\n📖 <b>Summary:</b>\nThe Bouncy Castle Crypto Package is a Java library providing a wide range of cryptographic algorithms. It offers a lightweight API suitable for various environments and conforms to the JCE framework. The library supports building and testing with modern JDKs and provides signed Maven artifacts for secure dependency management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bcgit/bc-java?embed=0\">View Project</a>\n• <a href=\"https://www.bouncycastle.org/java.html?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ac6108314e00a081db63d2520adb6a5eddd6a58e5ce38a3d4c3d616a2d366dbb/bcgit/bc-java",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 259256617,
+        "content": "🔥 <b>dataframe</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nTypesafe in-memory structured data processing for JVM using Kotlin.\n<br>\n✨ <b>Key Features:</b>\n• Hierarchical data representation\n• Functional data processing pipeline\n• Readable DSL for data transformation\n• Typesafe data access with Kotlin-style null safety\n• Polymorphic type compatibility based on column schema\n<br>\n📖 <b>Summary:</b>\nKotlin DataFrame provides a typesafe and functional approach to structured data processing in Kotlin. It allows developers to work with hierarchical data, perform transformations using a readable DSL, and ensures type safety with Kotlin's null safety features. The library integrates well with Kotlin's ecosystem and supports various data formats.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Kotlin/dataframe?embed=0\">View Project</a>\n• <a href=\"https://kotlin.github.io/dataframe?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/46a74b9aced740398d3aaf098eb530158e6bdd494a5ae9687d893c1c20c18a6d/Kotlin/dataframe",
+        "platform": "telegram",
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 154624236,
+        "content": "🔥 <b>mqcloud</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nCentralized management and monitoring of RocketMQ clusters.\n<br>\n✨ <b>Key Features:</b>\n• Cross-cluster management\n• Alerting for production/consumption issues\n• User and administrator views with relevant metrics\n• Security features (user isolation, operation approval, data security)\n<br>\n📖 <b>Summary:</b>\nMQCloud is an enterprise-grade platform for managing RocketMQ clusters. It provides features such as cross-cluster management, alerting, user and administrator views with key metrics, and security features. The platform aims to simplify RocketMQ operations and monitoring for enterprises.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sohutv/mqcloud?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/052bb916e97712eafc2b5b9b95cde12600c90dbe15e480e13103cd80ecb5594a/sohutv/mqcloud",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 286500101,
+        "content": "🌟 <b>rembg</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRemoving backgrounds from images\n<br>\n✨ <b>Key Features:</b>\n• Image background removal\n<br>\n📖 <b>Summary:</b>\nRembg is a tool designed for image background removal. It allows users to easily isolate the foreground subject of an image by automatically removing the background. The tool is intended for various applications where background removal is necessary.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/danielgatis/rembg?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/758b0c6f8dd93f9f4fa13649fa353709b81f82d8aa64397c183a54282ac9d7bb/danielgatis/rembg",
+        "platform": "telegram",
+        "quality_score": 0.8499999999999999
     }
 ]

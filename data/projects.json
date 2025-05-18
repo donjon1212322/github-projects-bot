@@ -1,311 +1,327 @@
 [
     {
-        "id": 981803794,
-        "name": "maps_screenshot_to_3d",
-        "description": "Converting Google Maps Screenshot to 3D Model",
-        "url": "https://github.com/aliaksandr960/maps_screenshot_to_3d",
+        "id": 346639494,
+        "name": "openvino_notebooks",
+        "description": "📚 Jupyter notebook tutorials for OpenVINO™",
+        "url": "https://github.com/openvinotoolkit/openvino_notebooks",
         "language": "Jupyter Notebook",
-        "stars": 15,
-        "forks": 4,
-        "created_at": "2025-05-11T22:58:33Z",
-        "updated_at": "2025-05-17T00:54:36Z",
-        "topics": [],
-        "quality_score": 0.44999999999999996,
-        "contributors_count": 0,
-        "last_commit_date": "2025-05-12T01:26:12Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/61ccf71115fe446e50e3163e279d7cdf0478f499b2b1cac698a707193692b56f/aliaksandr960/maps_screenshot_to_3d"
-        ],
-        "homepage": null,
-        "readme_summary": "This repository provides a Jupyter Notebook-based pipeline for converting Google Maps screenshots into 3D models. It leverages monocular depth estimation to estimate depth from the 2D image, removes the background, corrects perspective, and visualizes the result as a mesh or point cloud. The primary use case is for experimentation and generating 3D models from aerial imagery.",
-        "key_features": [
-            "Converts Google Maps screenshots into 3D models",
-            "Uses monocular depth estimation models",
-            "Removes background and adjusts perspective",
-            "Visualizes mesh or point cloud"
-        ],
-        "primary_use_case": "Generating 3D models from aerial imagery, specifically Google Maps screenshots, for experimental or artistic purposes.",
-        "open_issues": 0,
-        "cover_image_prompt": "An artist meticulously sculpting a 3D model of a cityscape from a flat, 2D Google Maps screenshot. The artist uses digital tools, with a holographic projection of the evolving 3D model floating above their workbench. The screenshot is subtly textured with code snippets and data points. The scene is set in a bright, modern studio with large windows overlooking a real cityscape. The composition is clean and focused, with a warm color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 350411909,
-        "name": "streamrip",
-        "description": "A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer",
-        "url": "https://github.com/nathom/streamrip",
-        "language": "Python",
-        "stars": 3356,
-        "forks": 287,
-        "created_at": "2021-03-22T16:23:36Z",
-        "updated_at": "2025-05-17T08:57:08Z",
+        "stars": 2788,
+        "forks": 889,
+        "created_at": "2021-03-11T09:01:13Z",
+        "updated_at": "2025-05-18T09:37:04Z",
         "topics": [
-            "deezer",
-            "hi-res",
-            "lossless-music",
-            "qobuz",
-            "soundcloud",
-            "tidal"
-        ],
-        "quality_score": 0.7999999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-12T21:55:37Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/0c6eaeac273dc02883004e268ec2110fbc3adc1bbabb48f46efb6ec01bbc20e8/nathom/streamrip"
-        ],
-        "homepage": "",
-        "readme_summary": "Streamrip is a scriptable music downloader that supports multiple streaming platforms like Qobuz, Tidal, Deezer, and SoundCloud. It allows users to download tracks, albums, and playlists, convert them to preferred formats, and avoid duplicates. The tool offers features like concurrent downloads, rate limiting, interactive search, and integration with youtube-dl, making it a versatile solution for music enthusiasts.",
-        "key_features": [
-            "Fast, concurrent downloads",
-            "Downloads from Qobuz, Tidal, Deezer, and SoundCloud",
-            "Supports Spotify and Apple Music playlists via last.fm",
-            "Automatic format conversion",
-            "Duplicate track avoidance",
-            "Concurrency and rate limiting",
-            "Interactive search",
-            "Customizable configuration",
-            "Integration with youtube-dl"
-        ],
-        "primary_use_case": "Downloading music from streaming services for offline listening and archival.",
-        "open_issues": 185,
-        "cover_image_prompt": "A skilled musician stands before a grand mixing console, expertly routing streams of music from various sources (Qobuz, Tidal, SoundCloud, Deezer) into a single, high-quality audio output. The console glows with vibrant colors, each representing a different music platform. The musician carefully adjusts knobs and sliders, optimizing the sound quality and format. Small screens embedded in the console display waveforms and metadata. The scene is set in a professional recording studio with warm, inviting lighting. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 142004087,
-        "name": "pywebcopy",
-        "description": "Locally saves webpages to your hard disk with images, css, js & links as is.",
-        "url": "https://github.com/rajatomar788/pywebcopy",
-        "language": "Python",
-        "stars": 588,
-        "forks": 112,
-        "created_at": "2018-07-23T11:18:54Z",
-        "updated_at": "2025-05-17T08:54:18Z",
-        "topics": [
-            "archive-tool",
-            "crawler",
-            "html",
-            "html-parser",
-            "mirror",
-            "python",
-            "web",
-            "webpage"
-        ],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-05-13T08:54:47Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/142004087/7dffa000-3a2f-11ea-9136-294a4ffcccfc"
-        ],
-        "homepage": "https://rajatomar788.github.io/pywebcopy/",
-        "readme_summary": "PyWebCopy is a Python tool designed to download websites or specific webpages to your local machine for offline access. It automatically remaps links to ensure resources like stylesheets and images function correctly. The tool also features a command-line interface for simplified usage.",
-        "key_features": [
-            "Downloads entire or partial websites locally.",
-            "Remaps links to resources for offline viewing.",
-            "Crawls websites to discover and download linked resources.",
-            "Command-line interface for easy usage."
-        ],
-        "primary_use_case": "Saving webpages and websites locally for offline viewing and archiving.",
-        "open_issues": 22,
-        "cover_image_prompt": "A skilled cartographer meticulously tracing a digital map onto a physical parchment, preserving every detail. The cartographer uses a glowing stylus that emits digital particles, capturing web pages as if they were ancient lands. Around the table, small screens display snippets of HTML and CSS, subtly connecting the map to its digital source. The scene is set in a cozy, sunlit study filled with antique globes and stacks of books. The image should be in a detailed 3D isometric illustration style with warm colors and a sense of timelessness, emphasizing the act of archiving and preserving digital content."
-    },
-    {
-        "id": 156939672,
-        "name": "onnxruntime",
-        "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-        "url": "https://github.com/microsoft/onnxruntime",
-        "language": "C++",
-        "stars": 16594,
-        "forks": 3212,
-        "created_at": "2018-11-10T02:22:53Z",
-        "updated_at": "2025-05-17T10:10:06Z",
-        "topics": [
-            "ai-framework",
+            "computer-vision",
             "deep-learning",
-            "hardware-acceleration",
+            "inference",
             "machine-learning",
-            "neural-networks",
-            "onnx",
-            "pytorch",
-            "scikit-learn",
-            "tensorflow"
+            "openvino"
         ],
         "quality_score": 0.85,
         "contributors_count": 0,
-        "last_commit_date": "2025-05-16T22:37:42Z",
+        "last_commit_date": "2025-05-16T07:42:03Z",
         "media_urls": [
-            "https://repository-images.githubusercontent.com/156939672/37b1cb00-864b-11eb-8220-76153935f7da"
+            "https://repository-images.githubusercontent.com/346639494/8d9be200-95fd-11eb-9cde-b0655d73f282"
         ],
-        "homepage": "https://onnxruntime.ai",
-        "readme_summary": "ONNX Runtime is a cross-platform machine learning accelerator for both inference and training. It supports models from popular frameworks like PyTorch and TensorFlow, as well as classical machine learning libraries. By leveraging hardware acceleration and graph optimizations, ONNX Runtime aims to provide optimal performance across diverse hardware and operating systems.",
+        "homepage": "https://openvinotoolkit.github.io/openvino_notebooks/",
+        "readme_summary": "The openvino_notebooks repository provides a collection of Jupyter notebooks designed to help users learn and experiment with the OpenVINO™ Toolkit. These notebooks offer an introduction to OpenVINO basics and demonstrate how to utilize the API for optimized deep learning inference. The repository includes installation guides for various operating systems and environments, making it accessible to a wide range of users.",
         "key_features": [
-            "Cross-platform inference and training accelerator",
-            "Supports models from various deep learning frameworks and classical machine learning libraries",
-            "Compatible with different hardware, drivers, and operating systems",
-            "Leverages hardware accelerators and graph optimizations for optimal performance",
-            "Accelerates model training time on multi-node NVIDIA GPUs for transformer models"
+            "Ready-to-run Jupyter notebooks",
+            "Introduction to OpenVINO basics",
+            "Leveraging OpenVINO API for optimized deep learning inference",
+            "Installation guides for various operating systems and environments (Windows, Ubuntu, macOS, Red Hat, CentOS, Azure ML, Docker, Amazon SageMaker)"
         ],
-        "primary_use_case": "Accelerating machine learning inference and training across various platforms and hardware.",
-        "open_issues": 2684,
-        "cover_image_prompt": "A skilled architect overseeing the construction of a towering skyscraper, representing a machine learning model. The architect uses blueprints (ONNX models) from various sources (TensorFlow, PyTorch, scikit-learn) and directs a team of specialized robots (hardware accelerators) to efficiently build each floor. Some robots are optimizing the building's structure (graph optimizations). The skyscraper stands tall and strong, symbolizing high-performance inference and training. Small screens display real-time performance metrics and model graphs. The scene is set in a bright, futuristic cityscape with a blue and orange color scheme. The image should be in 3D isometric illustration style with clean lines and clear details."
+        "primary_use_case": "Learning and experimenting with the OpenVINO™ Toolkit for optimized deep learning inference.",
+        "open_issues": 20,
+        "cover_image_prompt": "Imagine a seasoned explorer, equipped with a high-tech magnifying glass, meticulously examining intricate maps spread across a vast table. These maps represent diverse deep learning models, and the explorer's glass highlights optimized pathways for efficient inference. Subtle digital overlays on the maps display OpenVINO code snippets and performance metrics. The scene is set in a warmly lit, futuristic library filled with scrolls of algorithms and glowing data streams. The illustration is in a detailed 3D isometric style, emphasizing clarity and precision, with a color scheme that blends earthy tones with vibrant digital accents. The explorer embodies the OpenVINO notebooks, guiding users to unlock the full potential of their models."
     },
     {
-        "id": 928902972,
-        "name": "switchsearch",
-        "description": "Minimalist intuitive search engine switcher",
-        "url": "https://github.com/thedmdim/switchsearch",
-        "language": "JavaScript",
-        "stars": 86,
-        "forks": 7,
-        "created_at": "2025-02-07T12:57:07Z",
-        "updated_at": "2025-05-17T07:34:52Z",
-        "topics": [
-            "brave",
-            "extension",
-            "osint",
-            "search"
-        ],
-        "quality_score": 0.75,
+        "id": 667568594,
+        "name": "quik",
+        "description": "The most beautiful SMS messenger for Android - Revived",
+        "url": "https://github.com/octoshrimpy/quik",
+        "language": "Kotlin",
+        "stars": 1273,
+        "forks": 61,
+        "created_at": "2023-07-17T20:06:54Z",
+        "updated_at": "2025-05-18T09:03:29Z",
+        "topics": [],
+        "quality_score": 0.85,
         "contributors_count": 0,
-        "last_commit_date": "2025-05-07T05:54:34Z",
+        "last_commit_date": "2025-04-30T03:19:35Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/8f308692b049f83bb0f78674e0e157ae29079f5defac4e72b5ff12fb36430795/thedmdim/switchsearch"
+            "https://opengraph.githubassets.com/e2a258fbe5b540d07a7ecf72a5eea2a186a6ebe66766c3969b05de75bb833732/octoshrimpy/quik"
         ],
         "homepage": "",
-        "readme_summary": "SwitchSearch is a browser extension that allows users to quickly switch between different search engines. It comes with several built-in options and allows users to add their own. It also offers convenient image search integration for Google and Yandex.",
+        "readme_summary": "QUIK is an open-source Android SMS messenger app that aims to provide a more feature-rich and customizable experience than the default messaging application. It offers features such as scheduled messages, message backup, speech-to-text integration, message blocking, voice messages, and support for various attachments, providing users with greater control and flexibility over their messaging.",
         "key_features": [
-            "Built-in search engine options (Google, Yandex, Brave, DuckDuckGo, Perplexity, ChatGPT, Wiby, Marginalia)",
-            "Ability to add custom search engines",
-            "Google and Yandex image search via right-click"
+            "Scheduled Messages",
+            "Message Backup",
+            "Speech to Text and Text to Speech",
+            "Message Blocking and Archiving",
+            "Voice Messages",
+            "Attachments of any type of file",
+            "Message Sorting",
+            "Delayed Sending"
         ],
-        "primary_use_case": "Quickly switching between different search engines with a single click.",
-        "open_issues": 1,
-        "cover_image_prompt": "Imagine a train station with multiple platforms, each labeled with a different search engine logo (Google, DuckDuckGo, etc.). A traveler stands in the center, effortlessly switching between platforms with a single click to board the train that best suits their destination. UI elements showing search results appear subtly on nearby screens. The station is clean and modern, with a blue and white color scheme. This conceptual illustration should be in a flat design style with clear iconography and a focus on ease of use."
+        "primary_use_case": "Replacement for the stock messaging app on Android.",
+        "open_issues": 156,
+        "cover_image_prompt": "A skilled artisan meticulously crafting a beautiful, ornate SMS message within a digital workshop. The artisan uses a variety of tools, including a scheduler (represented by a clock icon), a backup archive (represented by a treasure chest), and a voice-to-text converter (represented by a microphone). The finished message glows with vibrant colors and intricate details, ready to be sent. The workshop is filled with subtle tech elements like floating data particles and UI screens showing message threads. The scene is set in a bright, airy studio with a focus on precision and artistry. The image should be in a 3D isometric illustration style with clean lines and a vibrant color palette."
     },
     {
-        "id": 762837,
-        "name": "ricochet",
-        "description": "Anonymous peer-to-peer instant messaging",
-        "url": "https://github.com/ricochet-im/ricochet",
-        "language": "C++",
-        "stars": 3900,
-        "forks": 413,
-        "created_at": "2010-07-07T23:01:23Z",
-        "updated_at": "2025-05-17T04:32:34Z",
+        "id": 942312530,
+        "name": "cocoindex",
+        "description": "Real-time data transformation framework for AI. Ultra performant, with incremental processing.",
+        "url": "https://github.com/cocoindex-io/cocoindex",
+        "language": "Rust",
+        "stars": 1295,
+        "forks": 71,
+        "created_at": "2025-03-03T23:03:09Z",
+        "updated_at": "2025-05-18T10:09:48Z",
         "topics": [
-            "c-plus-plus",
-            "cross-platform",
-            "gui",
-            "messaging",
-            "privacy",
-            "tor"
+            "ai",
+            "change-data-capture",
+            "data",
+            "data-engineering",
+            "data-indexing",
+            "data-infrastructure",
+            "data-processing",
+            "dataflow",
+            "etl",
+            "help-wanted",
+            "indexing",
+            "knowledge-graph",
+            "llm",
+            "pipeline",
+            "python",
+            "rag",
+            "real-time",
+            "rust",
+            "semantic-search",
+            "streaming"
         ],
-        "quality_score": 0.55,
+        "quality_score": 0.85,
         "contributors_count": 0,
-        "last_commit_date": "2017-08-16T22:11:23Z",
+        "last_commit_date": "2025-05-18T05:21:58Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/063b419efeeb5133bf7ae40f087d837196437078f1925c17b6a7159cc1eab84f/ricochet-im/ricochet"
+            "https://opengraph.githubassets.com/8c6504a0a9aa1691b0bbb7501408a0cb038197d55e810caad564649a22278c68/cocoindex-io/cocoindex"
         ],
-        "homepage": "https://ricochet.im/",
-        "readme_summary": "Ricochet is an anonymous peer-to-peer instant messaging system that prioritizes privacy and metadata resistance. It leverages the Tor network to hide user identities and prevent the exposure of contact lists or communication content. The application is designed to be cross-platform and user-friendly, focusing on secure communication without reliance on central servers.",
+        "homepage": "https://cocoindex.io",
+        "readme_summary": "CocoIndex is a Rust-based data transformation framework designed for real-time AI data preparation. It utilizes a dataflow programming model and incremental processing to efficiently handle change data capture and automate data updates. This allows developers to easily create and maintain fresh data pipelines for applications like embeddings and knowledge graphs.",
         "key_features": [
-            "Anonymous messaging",
-            "Metadata resistance",
-            "Peer-to-peer communication",
-            "Cross-platform support"
+            "Real-time data transformation",
+            "Incremental processing",
+            "Dataflow programming model",
+            "Change data capture",
+            "Automated data updates"
         ],
-        "primary_use_case": "Anonymous and secure instant messaging",
-        "open_issues": 161,
-        "cover_image_prompt": "A lone traveler shrouded in shadow, communicating with distant figures through glowing, interconnected constellations. Each star represents a contact, and the lines connecting them pulse with encrypted messages. The traveler's face is obscured, emphasizing anonymity. Subtle UI elements float nearby, displaying encrypted message streams and Tor network pathways. The scene is set against a dark, starry sky with a faint digital grid overlay. The composition is clean and focused, drawing attention to the interconnectedness of the figures. The image should be in a digital painting style with a cool color palette and a sense of mystery."
+        "primary_use_case": "Preparing fresh data for AI applications such as creating embeddings, building knowledge graphs, and performing other data transformations.",
+        "open_issues": 48,
+        "cover_image_prompt": "Imagine a skilled chef in a bustling kitchen, effortlessly transforming raw ingredients flowing in from a conveyor belt into beautifully plated dishes ready to be served. The conveyor belt represents the continuous stream of data, and the chef embodies CocoIndex, expertly processing and refining the data. The plated dishes symbolize the AI-ready data, such as embeddings and knowledge graphs. Subtle UI elements on nearby screens display dataflow pipelines and transformation formulas. The kitchen is bright and modern, with a focus on efficiency and freshness. The image should be in a vibrant, 3D isometric illustration style with clear details and a focus on conveying the ease and speed of data transformation."
     },
     {
-        "id": 922192456,
-        "name": "tapnote",
-        "description": "Instant, self-hosted publishing with Markdown.",
-        "url": "https://github.com/vorniches/tapnote",
-        "language": "Python",
-        "stars": 51,
-        "forks": 5,
-        "created_at": "2025-01-25T15:10:57Z",
-        "updated_at": "2025-05-17T06:56:53Z",
-        "topics": [],
-        "quality_score": 0.15,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-13T09:46:50Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/2c9eb3e0bb968d461027b24d54460d2df73c6e10e9b8c5ebe9f23aec6cb4609b/vorniches/tapnote"
+        "id": 926901987,
+        "name": "LLMDog",
+        "description": "LLMDog is a command-line tool that helps developers share code with Large Language Models like Claude and ChatGPT.",
+        "url": "https://github.com/doganarif/LLMDog",
+        "language": "Go",
+        "stars": 65,
+        "forks": 2,
+        "created_at": "2025-02-04T03:49:20Z",
+        "updated_at": "2025-05-18T09:47:56Z",
+        "topics": [
+            "ai",
+            "artificial-intelligence",
+            "chatgpt",
+            "llm"
         ],
-        "homepage": "",
-        "readme_summary": "TapNote is a minimalist, self-hosted publishing platform that allows users to instantly create and publish Markdown-based content. It offers a distraction-free writing experience with features like unique URLs, secure editing, and support for images and code snippets. TapNote is ideal for quick notes, blog posts, or documentation sharing, giving users full control over their content.",
-        "key_features": [
-            "Minimalist Writing Experience",
-            "Distraction-free Markdown editor",
-            "Instant publishing",
-            "Self-hosted content management",
-            "Unique URL for each post",
-            "Edit functionality with secure tokens",
-            "Support for images and code snippets"
-        ],
-        "primary_use_case": "Instant, self-hosted Markdown-based content creation and publishing.",
-        "open_issues": 0,
-        "cover_image_prompt": "A writer sitting at a minimalist desk, effortlessly transforming thoughts into beautifully formatted Markdown documents that instantly appear on a clean, modern website. The writer's fingers dance across the keyboard, creating content that flows seamlessly onto the screen. A subtle digital overlay shows the Markdown syntax being rendered in real-time. Small UI elements display the 'Publish' button and unique URL generation. The scene is set in a bright, airy room with natural light. The image should be in a flat design style with clear iconography and a calming color palette."
-    },
-    {
-        "id": 926455740,
-        "name": "amoy-todo-wallpaper",
-        "description": "Set To-Do list as windows wallpaper",
-        "url": "https://github.com/casualwriter/amoy-todo-wallpaper",
-        "language": "Python",
-        "stars": 13,
-        "forks": 3,
-        "created_at": "2025-02-03T09:37:13Z",
-        "updated_at": "2025-05-16T19:48:45Z",
-        "topics": [],
-        "quality_score": 0.15,
-        "contributors_count": 0,
-        "last_commit_date": "2025-02-03T16:01:18Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/22fec63d0a011c477104d9ca46b581da2b340f9f4e69bbe2edb136dff18f5036/casualwriter/amoy-todo-wallpaper"
-        ],
-        "homepage": null,
-        "readme_summary": "This repository provides a Python program that sets a user-editable To-Do list as the Windows desktop wallpaper. It includes a UI for editing the To-Do list content and allows customization of font color, background color, and font size. The program utilizes a background image to enhance the visual appeal of the wallpaper.",
-        "key_features": [
-            "Sets a To-Do list as Windows wallpaper",
-            "Allows editing of the To-Do list via a UI",
-            "Allows customization of font color and background color",
-            "Supports setting font size",
-            "Uses a background image"
-        ],
-        "primary_use_case": "Setting a customizable To-Do list as a Windows desktop wallpaper for increased visibility and task management.",
-        "open_issues": 0,
-        "cover_image_prompt": "Imagine a digital artist sitting at a computer, using a palette of text and colors to paint a vibrant to-do list directly onto a Windows desktop wallpaper. The artist carefully arranges the tasks, ensuring they are clear and visually appealing against a background image. The desktop displays icons representing the program's settings for font size and color. The scene is bathed in soft, ambient light, creating a productive and inspiring atmosphere. Small code snippets float subtly in the background, hinting at the underlying Python code. The image should be in a digital painting style with clean lines and a focus on usability."
-    },
-    {
-        "id": 816373900,
-        "name": "SAMPart3D",
-        "description": "SAMPart3D: Segment Any Part in 3D Objects",
-        "url": "https://github.com/Pointcept/SAMPart3D",
-        "language": "Python",
-        "stars": 387,
-        "forks": 20,
-        "created_at": "2024-06-17T16:00:57Z",
-        "updated_at": "2025-05-17T08:41:02Z",
-        "topics": [],
         "quality_score": 0.44999999999999996,
         "contributors_count": 0,
-        "last_commit_date": "2025-05-04T01:38:36Z",
+        "last_commit_date": "2025-03-19T01:40:05Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/5880e6ecbf14691d173af6246f29335408d0c8af5a5ab5d99f67335c604820b9/Pointcept/SAMPart3D"
+            "https://opengraph.githubassets.com/b6f5aac94de8560585dd0e8ab02799c0cf5cb79b26f7fa9f6bd99295fe0d0662/doganarif/LLMDog"
+        ],
+        "homepage": "https://llmdog.arif.sh",
+        "readme_summary": "LLMDog is a command-line tool that simplifies sharing code with LLMs like Claude and ChatGPT. It provides an interactive TUI for selecting relevant files and directories, automatically formats them into Markdown, and copies the output to the clipboard. LLMDog streamlines code discussions by allowing developers to share specific parts of their codebase with LLMs for assistance.",
+        "key_features": [
+            "Interactive TUI for file selection",
+            "Recursive file and directory selection with gitignore support",
+            "Markdown output with file tree and content",
+            "Clipboard integration for quick sharing",
+            "Cross-platform compatibility (macOS, Linux, Windows)"
+        ],
+        "primary_use_case": "Sharing code snippets with Large Language Models for code review, debugging, and implementation guidance.",
+        "open_issues": 0,
+        "cover_image_prompt": "A skilled artisan meticulously crafting code blocks from raw materials, shaping them into elegant structures. The artisan uses a specialized tool that extracts relevant code snippets, formats them beautifully, and sends them to a glowing AI oracle for guidance. The oracle responds with insights and suggestions, displayed on a nearby screen. The workshop is filled with subtle tech elements, such as floating file trees and glowing code particles. The scene is bathed in warm, inviting light, creating a sense of collaboration and innovation. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 72891330,
+        "name": "ingress-nginx",
+        "description": "Ingress NGINX Controller for Kubernetes",
+        "url": "https://github.com/kubernetes/ingress-nginx",
+        "language": "Go",
+        "stars": 18543,
+        "forks": 8381,
+        "created_at": "2016-11-04T22:54:14Z",
+        "updated_at": "2025-05-18T07:00:30Z",
+        "topics": [
+            "ingress-controller",
+            "kubernetes",
+            "nginx"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-05-12T15:09:20Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/2f9e44a3a759ca950f02c805d2464b38dc23f154f7de6265a8f24d16c6febb6b/kubernetes/ingress-nginx"
+        ],
+        "homepage": "https://kubernetes.github.io/ingress-nginx/",
+        "readme_summary": "The ingress-nginx repository provides an Ingress controller for Kubernetes, leveraging NGINX as a reverse proxy and load balancer. It enables users to expose Kubernetes services to the outside world by routing external HTTP(S) traffic to the appropriate services within the cluster. This project assumes that users that can create Ingress objects are administrators of the cluster.",
+        "key_features": [
+            "Ingress controller for Kubernetes",
+            "Uses NGINX as a reverse proxy and load balancer"
+        ],
+        "primary_use_case": "Routing external HTTP(S) traffic to Kubernetes services.",
+        "open_issues": 342,
+        "cover_image_prompt": "A skilled air traffic controller managing a complex network of airplanes, each representing a Kubernetes service, using a sophisticated NGINX control panel. The controller expertly directs incoming traffic (requests) to the appropriate services, ensuring smooth and efficient operation. The control panel displays real-time data visualizations of traffic flow and service health. Subtle digital elements, such as glowing network cables and UI screens showing Ingress rules, connect the metaphor to software. The scene is set in a futuristic control tower with bright, focused lighting. The image should be in a 3D isometric illustration style with clean lines and vibrant colors."
+    },
+    {
+        "id": 10416648,
+        "name": "bc-java",
+        "description": "Bouncy Castle Java Distribution (Mirror)",
+        "url": "https://github.com/bcgit/bc-java",
+        "language": "Java",
+        "stars": 2453,
+        "forks": 1174,
+        "created_at": "2013-06-01T02:38:42Z",
+        "updated_at": "2025-05-17T21:54:01Z",
+        "topics": [
+            "crypto",
+            "dtls",
+            "java",
+            "openpgp",
+            "post-quantum-cryptography",
+            "tls"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-04-24T10:22:24Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/ac6108314e00a081db63d2520adb6a5eddd6a58e5ce38a3d4c3d616a2d366dbb/bcgit/bc-java"
+        ],
+        "homepage": "https://www.bouncycastle.org/java.html",
+        "readme_summary": "The Bouncy Castle Crypto Package is a Java library providing a wide range of cryptographic algorithms. It offers a lightweight API suitable for various environments and conforms to the JCE framework. The library supports building and testing with modern JDKs and provides signed Maven artifacts for secure dependency management.",
+        "key_features": [
+            "Java implementation of cryptographic algorithms",
+            "Lightweight API suitable for various environments including J2ME",
+            "Conforms algorithms to the JCE framework",
+            "Supports building and testing with JDK21",
+            "Maven artifacts are signed with a public key"
+        ],
+        "primary_use_case": "Providing a comprehensive Java library for cryptographic algorithms and protocols, suitable for a wide range of environments and applications.",
+        "open_issues": 296,
+        "cover_image_prompt": "A master locksmith crafting intricate, glowing keys (cryptographic algorithms) at a high-tech workbench. Each key unlocks a different digital vault (data protection). UI elements display code snippets and security protocols. The workbench is set in a futuristic workshop with soft, focused lighting. The repository name, 'Bouncy Castle,' is subtly engraved on the workbench. The composition is clean and focused with a blue and green color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 259256617,
+        "name": "dataframe",
+        "description": "Structured data processing in Kotlin",
+        "url": "https://github.com/Kotlin/dataframe",
+        "language": "Kotlin",
+        "stars": 908,
+        "forks": 73,
+        "created_at": "2020-04-27T08:46:20Z",
+        "updated_at": "2025-05-18T10:01:44Z",
+        "topics": [
+            "data-analysis",
+            "data-science",
+            "dataframe",
+            "kotlin"
+        ],
+        "quality_score": 0.95,
+        "contributors_count": 0,
+        "last_commit_date": "2025-05-15T19:54:46Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/46a74b9aced740398d3aaf098eb530158e6bdd494a5ae9687d893c1c20c18a6d/Kotlin/dataframe"
+        ],
+        "homepage": "https://kotlin.github.io/dataframe",
+        "readme_summary": "Kotlin DataFrame provides a typesafe and functional approach to structured data processing in Kotlin. It allows developers to work with hierarchical data, perform transformations using a readable DSL, and ensures type safety with Kotlin's null safety features. The library integrates well with Kotlin's ecosystem and supports various data formats.",
+        "key_features": [
+            "Hierarchical data representation",
+            "Functional data processing pipeline",
+            "Readable DSL for data transformation",
+            "Typesafe data access with Kotlin-style null safety",
+            "Polymorphic type compatibility based on column schema",
+            "Interoperable with Kotlin data classes and collections"
+        ],
+        "primary_use_case": "Typesafe in-memory structured data processing for JVM using Kotlin.",
+        "open_issues": 227,
+        "cover_image_prompt": "Imagine a skilled cartographer meticulously charting a vast, uncharted territory of data. The cartographer uses a special lens that reveals hidden patterns and structures within the landscape, transforming raw data points into a beautifully organized map. The map is displayed on a glowing tablet, showcasing clear routes and points of interest. Subtle digital particles flow from the lens, representing the transformation process. The scene is set in a bright, airy study filled with scrolls and reference materials. The image should be in a clean, 3D isometric illustration style with vibrant colors and sharp details."
+    },
+    {
+        "id": 154624236,
+        "name": "mqcloud",
+        "description": "RocketMQ企业级一站式服务平台",
+        "url": "https://github.com/sohutv/mqcloud",
+        "language": "Java",
+        "stars": 2159,
+        "forks": 278,
+        "created_at": "2018-10-25T06:56:26Z",
+        "updated_at": "2025-04-30T07:51:35Z",
+        "topics": [
+            "cloud-native",
+            "eventing",
+            "java",
+            "messaging",
+            "mqcloud",
+            "rocketmq",
+            "streaming"
+        ],
+        "quality_score": 0.6,
+        "contributors_count": 0,
+        "last_commit_date": "2025-04-03T06:33:45Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/052bb916e97712eafc2b5b9b95cde12600c90dbe15e480e13103cd80ecb5594a/sohutv/mqcloud"
         ],
         "homepage": "",
-        "readme_summary": "SAMPart3D is a Python-based project focused on segmenting parts within 3D objects. It provides tools and scripts for training segmentation models, utilizing multi-view rendering with Blender, and evaluating the segmentation results. The repository also includes utilities for highlighting segmented parts in rendered images and provides a dataset called PartObjaverse-Tiny.",
+        "readme_summary": "MQCloud is an enterprise-grade platform for managing RocketMQ clusters. It provides features such as cross-cluster management, alerting, user and administrator views with key metrics, and security features. The platform aims to simplify RocketMQ operations and monitoring for enterprises.",
         "key_features": [
-            "3D object part segmentation",
-            "Training pipeline for SAMPart3D",
-            "Multi-view rendering using Blender",
-            "Testing with pretrained MLPs",
-            "Highlighting 3D segments on multi-view renderings"
+            "Cross-cluster management",
+            "Alerting for production/consumption issues",
+            "User and administrator views with relevant metrics",
+            "Security features (user isolation, operation approval, data security)"
         ],
-        "primary_use_case": "Segmenting any part in 3D objects.",
-        "open_issues": 17,
-        "cover_image_prompt": "Imagine a skilled sculptor meticulously chiseling a 3D model from a rough block of stone, revealing distinct, perfectly segmented parts. The sculptor uses advanced digital tools, with holographic projections displaying the model's structure and segmentation boundaries. Subtle UI elements float around the scene, showing the SAMPart3D logo and code snippets related to 3D segmentation. The setting is a bright, modern digital workshop. The image should be in a 3D isometric illustration style with clean lines, vibrant colors, and a focus on clarity and detail."
+        "primary_use_case": "Centralized management and monitoring of RocketMQ clusters.",
+        "open_issues": 23,
+        "cover_image_prompt": "Imagine a central control tower managing air traffic for multiple airports. Each airport represents a RocketMQ cluster, with planes symbolizing messages. The control tower operator, representing MQCloud, monitors screens displaying traffic flow, potential delays (message backlog), and alerts for emergencies (failures). The screens also show user access levels and security protocols. Digital particles flow between the airports and the control tower, visualizing real-time data. The scene is set in a bright, modern control center with a clean, focused composition. The image should be in a 3D isometric illustration style with vibrant colors and clear details."
+    },
+    {
+        "id": 286500101,
+        "name": "rembg",
+        "description": "Rembg is a tool to remove images background",
+        "url": "https://github.com/danielgatis/rembg",
+        "language": "Python",
+        "stars": 18911,
+        "forks": 2006,
+        "created_at": "2020-08-10T14:38:24Z",
+        "updated_at": "2025-05-18T09:08:13Z",
+        "topics": [
+            "background-removal",
+            "image-processing",
+            "python"
+        ],
+        "quality_score": 0.8499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-05-17T21:48:36Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/758b0c6f8dd93f9f4fa13649fa353709b81f82d8aa64397c183a54282ac9d7bb/danielgatis/rembg"
+        ],
+        "homepage": "",
+        "readme_summary": "Rembg is a tool designed for image background removal. It allows users to easily isolate the foreground subject of an image by automatically removing the background. The tool is intended for various applications where background removal is necessary.",
+        "key_features": [
+            "Image background removal"
+        ],
+        "primary_use_case": "Removing backgrounds from images",
+        "open_issues": 4,
+        "cover_image_prompt": "A skilled sculptor meticulously chiseling away the background of a marble statue, revealing the pristine figure beneath. The sculptor uses digital tools, with faint UI elements projected onto the statue. The background crumbles into digital particles, showcasing the removal process. The scene is set in a bright, modern art studio with soft, diffused lighting. Small screens display the 'rembg' logo and before/after images. The composition is clean and focused, with a warm color scheme. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
     }
 ]
