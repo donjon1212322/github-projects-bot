@@ -1,7 +1,0 @@
-{
-    "project_id": 977113202,
-    "content": "🔥 <b>oci2git</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nLayer Diffing\n<br>\n✨ <b>Key Features:</b>\n• Analyze Docker images and extract layer information\n• Create a Git repository where each image layer is represented as a commit\n• Support for empty layers as empty commits\n• Complete metadata extraction to Markdown format\n• Extensible architecture for supporting different container engines\n<br>\n📖 <b>Summary:</b>\nOCI2Git converts container images into Git repositories, representing each layer as a commit. This enables users to leverage Git's powerful features like diffing, blame, and log to analyze and track changes within container images. The primary use case is layer diffing, allowing engineers to easily identify changes between layers for troubleshooting and understanding image evolution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Virviil/oci2git?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/097c941a5b9aeda9fe7260c2b547e2e7b609c441d85213e95d06248f0feff8fb/Virviil/oci2git",
-    "platform": "telegram",
-    "quality_score": 0.8499999999999999
-}
