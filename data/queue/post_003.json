@@ -1,0 +1,7 @@
+{
+    "project_id": 148061471,
+    "content": "💡 <b>TLG_JoinCaptchaBot</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nVerifying new Telegram group members are human and preventing spam.\n<br>\n✨ <b>Key Features:</b>\n• Automatic CAPTCHA for new users\n• Removes users failing CAPTCHA\n• Deletes URL messages from unverified users (anti-spam)\n<br>\n📖 <b>Summary:</b>\nTLG_JoinCaptchaBot is a Telegram bot that uses image-based CAPTCHAs to verify new users joining a group. It automatically sends a CAPTCHA to each new member and removes those who fail to solve it within a specified time. Additionally, it prevents spam by deleting messages containing URLs sent by unverified users.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/J-Rios/TLG_JoinCaptchaBot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/6e03fc4648ac736c6af90b538c341bd313a1d4332797f426e8a73afb5e4581ac/J-Rios/TLG_JoinCaptchaBot",
+    "platform": "telegram",
+    "quality_score": 0.9
+}

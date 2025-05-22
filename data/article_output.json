@@ -1,26 +1,26 @@
 {
-    "article": "Hey fellow developers! Ever felt frustrated by the limitations of existing deep learning frameworks?  I know I have. That's why I'm so stoked about Burn, a next-generation framework that's rewriting the rules of the game. Forget clunky, inflexible systems – Burn is all about flexibility, efficiency, and portability.  It's built in Rust, which means it's blazing fast and incredibly memory-safe.  But what truly sets Burn apart is its focus on performance.  They've implemented some seriously clever optimizations.  First, there's automatic kernel fusion.  Imagine writing a custom activation function, like GELU, using Burn's high-level tensor API.  Behind the scenes, Burn automatically generates highly optimized low-level kernels for you. No more hand-crafting GPU code!  The result?  Your models run faster than ever before. Another key feature is asynchronous execution.  This means that the framework's overhead doesn't slow down your model computations, and your model computations don't impact the responsiveness of the framework.  It's like a well-oiled machine, everything working in harmony.  And if you're into multi-device training, Burn's got you covered. Thanks to Rust's ownership system, Burn modules are inherently thread-safe.  You can easily distribute your training across multiple devices without worrying about race conditions or memory leaks.  This is a game-changer for scaling up your deep learning projects.  But it's not just about raw speed. Burn is designed to be incredibly user-friendly. The API is clean and intuitive, making it easy to build complex models without getting bogged down in unnecessary details.  They've also prioritized excellent documentation and community support, which is crucial for a smooth development experience.  In short, Burn is a powerful, efficient, and flexible deep learning framework that empowers you to build amazing things. It's a project I'm incredibly excited about, and I think you will be too! Give it a try and experience the difference!",
+    "article": "Tired of bots flooding your Telegram group?  Meet TLG_JoinCaptchaBot, the superhero your group chat needs! This awesome GitHub project tackles the annoying problem of unwanted bots and spammers joining your Telegram groups.  It does this by cleverly implementing a CAPTCHA system that new members must solve before they can fully participate.\n\nThe bot's functionality is surprisingly straightforward. When a new user joins the group, the bot automatically sends them a simple image-based CAPTCHA. This isn't your typical text-based CAPTCHA; it's an image with slightly distorted text, making it difficult for automated bots to crack.  The user has a limited time to solve the CAPTCHA and prove they're human.  If they succeed, they're in! If they fail or take too long, the bot politely removes them from the group, keeping your community safe from spam.\n\nBut that's not all!  The bot also actively scans for spammy behavior. Any new member who tries to share a link before solving the CAPTCHA will have their message deleted. This double-layered defense mechanism ensures that malicious actors have a much harder time infiltrating your group.\n\nThe architecture is surprisingly clean and efficient.  It uses the `multicolor_captcha_generator` library (also available on GitHub!) to create the CAPTCHAs, ensuring a consistent and visually appealing challenge. The bot itself is written in Python and leverages Telegram's Bot API for seamless integration.  The configuration is super flexible, allowing you to adjust the CAPTCHA difficulty, time limits, and other settings to perfectly suit your group's needs.  Everything is neatly managed through a simple JSON configuration file, making it easy to tweak the bot's behavior without diving into the code.\n\nAs a developer, you'll appreciate the well-structured codebase and comprehensive documentation. The project is designed for easy installation and setup, with clear instructions and a helpful Makefile to streamline common tasks. You can even run it as a systemd service for seamless integration into your server's infrastructure or use Docker for easy deployment and portability.\n\nWhat are the benefits?  Think of the time saved by not having to manually remove bots and spammers!  Imagine the improved group experience with fewer unwanted messages and a more engaged community. This bot gives you peace of mind, knowing your group is protected from unwanted intrusions.  It's like having a dedicated security guard for your Telegram group, working tirelessly in the background to maintain order and keep the bad guys out!\n\nIf you're a developer looking for a fun project to explore, a practical tool to improve your Telegram groups, or a way to learn more about bot development and CAPTCHA implementation, you absolutely need to check out TLG_JoinCaptchaBot.  It's a fantastic example of a well-designed, practical, and easily deployable project.",
     "key_takeaways": [
-        "Blazing-fast performance thanks to automatic kernel fusion and asynchronous execution.",
-        "Improved developer experience with a clean, intuitive API and excellent documentation.",
-        "Enhanced scalability with thread-safe building blocks for effortless multi-device training.",
-        "Built in Rust for memory safety and speed.",
-        "Flexibility and portability across various backends"
+        "Protects Telegram groups from bots and spammers.",
+        "Uses image-based CAPTCHAs for effective human verification.",
+        "Easy installation and configuration with a well-structured codebase.",
+        "Includes features to detect and delete spam messages from new users.",
+        "Flexible settings allow customization for different group needs and sizes"
     ],
     "tags": [
-        "Deep Learning",
-        "Rust",
-        "GPU",
-        "Performance",
-        "Framework"
+        "Telegram",
+        "Bot",
+        "Python",
+        "CAPTCHA",
+        "Anti-Spam"
     ],
-    "title": "Burn: The Next-Gen Deep Learning Framework That Will Blow Your Mind",
-    "stars": 11155,
-    "forks": 574,
-    "open_issues": 225,
-    "languages": "Rust",
-    "readme_summary": "Burn is a deep learning framework written in Rust that prioritizes flexibility, efficiency, and portability. It achieves high performance through features like automatic kernel fusion and asynchronous execution. The framework's thread-safe design and cross-platform support enable multi-device training and deployment on various backends, including CUDA, Metal, and WebGPU.",
-    "project_id": 515368123,
-    "url": "https://github.com/tracel-ai/burn",
-    "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability."
+    "title": "Stop Bots in Their Tracks: Introducing the TLG_JoinCaptchaBot!",
+    "stars": 557,
+    "forks": 229,
+    "open_issues": 13,
+    "languages": "Python",
+    "readme_summary": "TLG_JoinCaptchaBot is a Telegram bot that uses image-based CAPTCHAs to verify new users joining a group. It automatically sends a CAPTCHA to each new member and removes those who fail to solve it within a specified time. Additionally, it prevents spam by deleting messages containing URLs sent by unverified users.",
+    "project_id": 148061471,
+    "url": "https://github.com/J-Rios/TLG_JoinCaptchaBot",
+    "description": "Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha to each new user and removes those who fail to solve it within a specified time."
 }
