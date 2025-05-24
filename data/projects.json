@@ -1,312 +1,253 @@
 [
     {
-        "id": 987258416,
-        "name": "terminal-bg",
-        "description": null,
-        "url": "https://github.com/DaarcyDev/terminal-bg",
-        "language": "Python",
-        "stars": 8,
-        "forks": 0,
-        "created_at": "2025-05-20T20:09:32Z",
-        "updated_at": "2025-05-23T09:51:50Z",
+        "id": 983779325,
+        "name": "ScrollSnap",
+        "description": "A macOS app for capturing and stitching scrolling screenshots.",
+        "url": "https://github.com/Brkgng/ScrollSnap",
+        "language": "Swift",
+        "stars": 79,
+        "forks": 3,
+        "created_at": "2025-05-14T22:53:22Z",
+        "updated_at": "2025-05-24T09:13:08Z",
         "topics": [],
         "quality_score": 0.44999999999999996,
         "contributors_count": 0,
-        "last_commit_date": "2025-05-21T16:35:48Z",
+        "last_commit_date": "2025-05-19T19:00:55Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/387ad079989700eecf97170a6533fde54cee7bf991d03dbe8540096c79416511/DaarcyDev/terminal-bg"
+            "https://opengraph.githubassets.com/9178ae5a88f3d9b0dde76233ac2fa38b847d378aaecf66d745a967415f814911/Brkgng/ScrollSnap"
         ],
         "homepage": null,
-        "readme_summary": "Terminal-bg is a Python script that allows users to set their terminal as a transparent, live desktop background. It uses GTK, VTE, and GtkLayerShell to display CLI programs as animated wallpapers. The application supports configurable appearance, automatic config creation, custom scripts, and multi-monitor setups.",
+        "readme_summary": "ScrollSnap is a macOS application designed for capturing long, scrolling screenshots. It allows users to define a custom selection area, automatically stitches multiple screenshots together, and provides an interactive menu for capture, save, and reset options. The application offers a thumbnail preview and supports saving to various destinations, including the Desktop, Clipboard, and Preview.",
         "key_features": [
-            "Transparent terminal background",
-            "Configurable appearance (opacity, RGBA)",
-            "Automatic config creation",
-            "Custom script & monitor support",
-            "Lightweight & responsive",
-            "Multi-monitor friendly"
+            "Customizable Selection Area",
+            "Scrolling Capture",
+            "Interactive Menu",
+            "Thumbnail Preview",
+            "Save Destinations",
+            "Preferences"
         ],
-        "primary_use_case": "Turns your terminal into a transparent, live desktop background.",
+        "primary_use_case": "Capturing and stitching scrolling screenshots on macOS.",
         "open_issues": 0,
-        "cover_image_prompt": "Imagine a chameleon seamlessly blending into a vibrant computer desktop, its skin displaying a live terminal interface filled with animated code. The chameleon rests on a sleek, modern desk surrounded by subtle UI elements and glowing digital particles that enhance the illusion of a dynamic, living wallpaper. The desktop background subtly displays the repository name, 'Terminal-bg'. The scene is bathed in soft, ambient light, creating a visually striking and intuitive representation of the software's functionality. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+        "cover_image_prompt": "A skilled tailor meticulously stitching together long strips of fabric into a seamless tapestry. The tailor uses a high-tech sewing machine with a screen displaying a macOS interface and subtle code snippets. The strips of fabric represent individual screenshots, and the finished tapestry symbolizes the complete, stitched scrolling screenshot. The tailor's workshop is filled with spools of colorful thread and digital measuring tools. The scene is bathed in soft, diffused light, creating a sense of precision and artistry. The image should be in a detailed digital painting style with clear outlines and vibrant colors."
     },
     {
-        "id": 766341786,
-        "name": "puter",
-        "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
-        "url": "https://github.com/HeyPuter/puter",
+        "id": 920202654,
+        "name": "codecafe",
+        "description": "Real-time collaborative code editor built for the web",
+        "url": "https://github.com/mrktsm/codecafe",
+        "language": "TypeScript",
+        "stars": 399,
+        "forks": 15,
+        "created_at": "2025-01-21T18:34:34Z",
+        "updated_at": "2025-05-24T10:04:45Z",
+        "topics": [
+            "java",
+            "liveshare",
+            "ot",
+            "react",
+            "redis",
+            "spring-boot",
+            "websockets"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-05-22T23:41:50Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/4814b28f2e98ae774a1f67905f0a341d1ae4850a74eba637077b854b4bb4edab/mrktsm/codecafe"
+        ],
+        "homepage": "https://codecafe.app",
+        "readme_summary": "CodeCafé is a real-time collaborative code editor designed for seamless, browser-based coding. It features live previews, operational transformation for conflict-free simultaneous editing, and a VS Code-like experience through the Monaco Editor. The platform requires zero setup, enabling instant collaboration for pair programming, teaching, and building web projects.",
+        "key_features": [
+            "Pixel-Perfect Live Preview",
+            "True Real-Time Collaboration via Operational Transformation",
+            "VS Code Feel with Monaco Editor",
+            "Zero Setup, browser-based"
+        ],
+        "primary_use_case": "Real-time collaborative code editing for pair programming, teaching, and building web projects together.",
+        "open_issues": 2,
+        "cover_image_prompt": "Imagine a bustling café where developers collaborate seamlessly on a shared digital canvas. One developer sketches UI elements that instantly appear on a central screen, while another types code that magically compiles and runs in a live preview window. Digital coffee cups float around, symbolizing the collaborative energy. Small UI elements and code snippets are subtly integrated into the café's decor. The scene is bathed in warm, inviting light, fostering a sense of creativity and teamwork. The image should be in a 3D isometric illustration style with vibrant colors and crisp details."
+    },
+    {
+        "id": 470730648,
+        "name": "Hyprland",
+        "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+        "url": "https://github.com/hyprwm/Hyprland",
+        "language": "C++",
+        "stars": 25575,
+        "forks": 1084,
+        "created_at": "2022-03-16T19:49:13Z",
+        "updated_at": "2025-05-24T10:01:27Z",
+        "topics": [
+            "compositor",
+            "cpp26",
+            "wayland",
+            "wayland-compositor"
+        ],
+        "quality_score": 1.0000000000000002,
+        "contributors_count": 0,
+        "last_commit_date": "2025-05-23T21:41:35Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/470730648/c4c69fe5-dc70-42b8-aae1-3a6d303656c0"
+        ],
+        "homepage": "https://hyprland.org",
+        "readme_summary": "Hyprland is a dynamic tiling Wayland compositor written in C++ that prioritizes customization and visual appeal. It offers a range of features including gradient borders, blur, animations, plugin support, and dynamic workspaces. Hyprland aims to provide a modern and efficient desktop experience with a focus on flexibility and performance.",
+        "key_features": [
+            "Highly customizable",
+            "Dynamic tiling",
+            "Wayland compositor",
+            "Eyecandy (gradient borders, blur, animations, shadows)",
+            "Plugin support",
+            "Built-in plugin manager",
+            "Tearing support",
+            "Config reloaded instantly",
+            "Fully dynamic workspaces",
+            "Window groups (tabbed mode)",
+            "Socket-based IPC"
+        ],
+        "primary_use_case": "A highly customizable, dynamic tiling Wayland compositor for Linux desktops.",
+        "open_issues": 42,
+        "cover_image_prompt": "A skilled architect meticulously arranging dynamic, colorful tiles to construct a sleek, modern cityscape representing a highly customizable desktop environment. Each tile represents a window, seamlessly fitting together to form a harmonious and visually appealing whole. Subtle digital interfaces and glowing Wayland symbols are integrated into the buildings, hinting at the underlying technology. The scene is bathed in soft, vibrant lighting, creating a sense of innovation and elegance. The image should be in a 3D isometric illustration style with clean lines and a focus on clarity and visual appeal."
+    },
+    {
+        "id": 931354511,
+        "name": "pdf-craft",
+        "description": "PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.",
+        "url": "https://github.com/oomol-lab/pdf-craft",
+        "language": "Python",
+        "stars": 2764,
+        "forks": 160,
+        "created_at": "2025-02-12T06:10:59Z",
+        "updated_at": "2025-05-24T10:09:21Z",
+        "topics": [
+            "ai",
+            "document",
+            "ocr",
+            "pdf"
+        ],
+        "quality_score": 1.1000000000000003,
+        "contributors_count": 0,
+        "last_commit_date": "2025-05-24T07:33:19Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/50608dae931077ade223b0b49433452a0a0a20d9dd7ec7b1a7fd756949d8d041/oomol-lab/pdf-craft"
+        ],
+        "homepage": "",
+        "readme_summary": "PDF Craft is a Python library designed for converting PDF files, especially scanned books, into other formats like Markdown and EPUB. It utilizes OCR, layout analysis, and optionally LLMs to extract text, remove irrelevant elements, determine reading order, correct errors, and structure the content for improved readability and semantic coherence.",
+        "key_features": [
+            "PDF to Markdown conversion",
+            "PDF to EPUB conversion with LLM enhancement",
+            "Text extraction from scanned books",
+            "Header, footer, footnote, and page number removal",
+            "Reading order determination",
+            "OCR error correction using LLM"
+        ],
+        "primary_use_case": "Converting scanned PDF books into Markdown or EPUB formats, particularly for books and documents requiring OCR and semantic structuring.",
+        "open_issues": 24,
+        "cover_image_prompt": "An old librarian meticulously transforming dusty, scanned PDF books into neatly organized digital scrolls. The librarian uses a magical lens that highlights text, removes imperfections, and rearranges the content into a readable format. Around the librarian, glowing particles of code subtly weave through the air, representing the AI algorithms at work. A small screen displays the 'pdf-craft' logo and a progress bar. The scene is set in a cozy, vintage library with warm, inviting lighting. The image should be in a digital painting style with clear outlines and rich details, evoking a sense of transformation and preservation."
+    },
+    {
+        "id": 586248938,
+        "name": "PairDrop",
+        "description": "PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.",
+        "url": "https://github.com/schlagmichdoch/PairDrop",
         "language": "JavaScript",
-        "stars": 32345,
-        "forks": 2394,
-        "created_at": "2024-03-03T01:44:32Z",
-        "updated_at": "2025-05-23T10:03:20Z",
+        "stars": 7195,
+        "forks": 412,
+        "created_at": "2023-01-07T13:25:11Z",
+        "updated_at": "2025-05-24T09:50:34Z",
         "topics": [
-            "cloud",
-            "cloud-os",
-            "cloud-storage",
-            "desktop",
-            "desktop-environment",
-            "dropbox",
-            "good-first-issue",
-            "gui",
-            "javascript",
-            "nas",
-            "open-source",
-            "operating-system",
-            "os",
-            "osjs",
-            "puter",
-            "remote-desktop",
-            "storage",
-            "web-desktop",
-            "web-os",
-            "webtop"
+            "file-sharing",
+            "indexeddb",
+            "nodejs",
+            "pwa",
+            "webrtc",
+            "websockets"
         ],
-        "quality_score": 0.85,
+        "quality_score": 0.7,
         "contributors_count": 0,
-        "last_commit_date": "2025-05-22T19:42:43Z",
+        "last_commit_date": "2025-02-25T17:19:38Z",
         "media_urls": [
-            "https://repository-images.githubusercontent.com/766341786/ad2dfdf3-eb84-4407-8f7a-63fcda75e346"
+            "https://repository-images.githubusercontent.com/586248938/c9811030-0218-4046-9ef5-0f362e22a5e0"
         ],
-        "homepage": "https://puter.com",
-        "readme_summary": "Puter is an open-source internet operating system designed for personal cloud management, web application development, and remote desktop access. It serves as a self-hostable alternative to services like Dropbox and Google Drive, offering a platform for users to keep their files, apps, and games accessible from anywhere. The project also fosters a community for learning about web development and cloud computing.",
+        "homepage": "https://pairdrop.net",
+        "readme_summary": "PairDrop is a web-based application for cross-platform file sharing, inspired by AirDrop and forked from Snapdrop. It allows users to transfer files between devices on the same local network or over the internet using paired devices or temporary public rooms. Key features include persistent device pairing, an improved UI, and the ability to send files directly from share menus, context menus, or the command line.",
         "key_features": [
-            "Privacy-first personal cloud",
-            "Platform for building web apps and games",
-            "Alternative to Dropbox/Google Drive",
-            "Remote desktop environment",
-            "Open-source learning community"
+            "Cross-platform file sharing",
+            "Local network and internet transfers",
+            "Persistent device pairing",
+            "Temporary public rooms for file sharing",
+            "Improved UI for sending/receiving files",
+            "Directly send files from share menu, context menu or CLI"
         ],
-        "primary_use_case": "A free, open-source, and self-hostable internet operating system for managing files, apps, and games in a personal cloud.",
-        "open_issues": 184,
-        "cover_image_prompt": "Imagine a futuristic air traffic controller managing a bustling network of interconnected clouds, each representing a user's files, apps, and games. The controller, with a holographic interface, seamlessly directs data streams between these clouds, ensuring smooth access from any device represented by stylized icons hovering around the central control tower. Subtle code snippets float in the background, and the 'Puter' logo is subtly integrated into the control panel. The scene is bathed in soft, ethereal light, creating a sense of effortless organization and accessibility. The image should be in a 3D isometric illustration style with vibrant colors and clean, modern design."
+        "primary_use_case": "Transferring files between devices on a local network or over the internet, regardless of the operating system.",
+        "open_issues": 79,
+        "cover_image_prompt": "A friendly postman, representing PairDrop, effortlessly delivering packages (files) between a modern smartphone and a sleek laptop. The smartphone displays a photo, while the laptop shows a document icon, symbolizing diverse file types. Digital particles subtly connect the devices, representing the seamless transfer. The background features a stylized local network with glowing nodes. The scene is bright and inviting, set in a minimalist, modern office. Small UI elements appear on the devices, subtly showing PairDrop's interface. The image should be in a flat design style with clear iconography and a vibrant color scheme, emphasizing ease of use and cross-platform compatibility."
     },
     {
-        "id": 796284842,
-        "name": "Sink",
-        "description": "⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
-        "url": "https://github.com/ccbikai/Sink",
-        "language": "Vue",
-        "stars": 4544,
-        "forks": 2708,
-        "created_at": "2024-05-05T13:53:54Z",
-        "updated_at": "2025-05-23T09:51:25Z",
-        "topics": [
-            "analytics",
-            "bitly-alternative",
-            "cloudflare",
-            "hacktoberfest",
-            "link-shortener",
-            "nuxt",
-            "nuxthub",
-            "shadcn-ui",
-            "tailwindcss",
-            "url-shortener",
-            "web-analytics"
-        ],
-        "quality_score": 0.75,
-        "contributors_count": 0,
-        "last_commit_date": "2025-05-23T04:14:36Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/796284842/312fb0e7-fc3f-4993-81db-bdd889d8e6b2"
-        ],
-        "homepage": "https://Sink.Cool",
-        "readme_summary": "Sink is a link shortener that provides analytics and customizable slugs. It is designed to be deployed on Cloudflare, taking advantage of serverless architecture. The platform offers features like AI-powered slug generation and link expiration, making it a comprehensive solution for managing and tracking shortened URLs.",
-        "key_features": [
-            "URL Shortening",
-            "Analytics",
-            "Serverless Deployment",
-            "Customizable Slug",
-            "AI Slug Generation",
-            "Link Expiration"
-        ],
-        "primary_use_case": "Link shortening with built-in analytics, designed for serverless deployment on Cloudflare.",
-        "open_issues": 16,
-        "cover_image_prompt": "A skilled clockmaker meticulously crafting a miniature hourglass where website URLs flow in as grains of sand at the top, and perfectly shortened links emerge at the bottom. The hourglass is encased in a transparent, futuristic analytics dashboard displaying real-time statistics and user engagement metrics. Subtle digital particles swirl around the hourglass, representing data transfer and processing. The scene is set in a brightly lit, clean workshop with a focus on precision and efficiency. The image should be in 3D isometric illustration style with vibrant colors and sharp details."
-    },
-    {
-        "id": 14712850,
-        "name": "syncthing",
-        "description": "Open Source Continuous File Synchronization",
-        "url": "https://github.com/syncthing/syncthing",
-        "language": "Go",
-        "stars": 70444,
-        "forks": 4528,
-        "created_at": "2013-11-26T09:48:21Z",
-        "updated_at": "2025-05-23T10:05:02Z",
-        "topics": [
-            "go",
-            "p2p",
-            "peer-to-peer",
-            "synchronization"
-        ],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-05-21T06:52:29Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/952647034d53cbee1afba686a83d94bdb36f0a4c14bd120cf01e926e5fecb5af/syncthing/syncthing"
-        ],
-        "homepage": "https://syncthing.net/",
-        "readme_summary": "Syncthing is a continuous file synchronization program that synchronizes files between two or more computers. It prioritizes data safety and security, ease of use, and automatic operation, making it suitable for individuals needing reliable file synchronization across multiple devices.",
-        "key_features": [
-            "Continuous file synchronization",
-            "Safe from data loss",
-            "Secure against attackers",
-            "Easy to use",
-            "Automatic",
-            "Universally available",
-            "Peer-to-peer synchronization"
-        ],
-        "primary_use_case": "Synchronizing files between two or more computers.",
-        "open_issues": 370,
-        "cover_image_prompt": "A diligent librarian meticulously organizing digital books between two towering, interconnected bookshelves. The librarian carefully copies books from one shelf to the other, ensuring each book is an exact duplicate. Glowing strands of data connect the shelves, symbolizing seamless synchronization. Small UI elements float near the librarian, displaying file transfer progress and version numbers. The scene is set in a bright, modern library with a clean, organized aesthetic. The image should be in a flat design style with clear iconography and a pastel color scheme."
-    },
-    {
-        "id": 917903047,
-        "name": "story-flicks",
-        "description": "使用AI大模型，一键生成高清故事短视频。Generate high-definition story short videos with one click using AI large models.",
-        "url": "https://github.com/alecm20/story-flicks",
-        "language": "Python",
-        "stars": 1759,
-        "forks": 304,
-        "created_at": "2025-01-16T21:25:54Z",
-        "updated_at": "2025-05-23T06:42:48Z",
-        "topics": [
-            "ai-video",
-            "ai-video-generator",
-            "chatgpt",
-            "moviepy",
-            "openai",
-            "python",
-            "shortvideo",
-            "story-generation"
-        ],
-        "quality_score": 0.65,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-12T15:33:30Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/533aac38d42921371c4948582cea50cda390704e81a6e98140031d9310193cd8/alecm20/story-flicks"
-        ],
-        "homepage": "",
-        "readme_summary": "Story-flicks is a Python-based project that leverages AI large language models to generate high-definition story short videos. It takes a story theme as input and automatically creates a video complete with AI-generated images, story content, audio, and subtitles. The project supports multiple AI providers, offering flexibility in model selection.",
-        "key_features": [
-            "AI-powered story generation",
-            "Automatic video creation from story themes",
-            "AI-generated images",
-            "Audio integration",
-            "Subtitle generation",
-            "Support for multiple AI providers (OpenAI, Aliyun, DeepSeek, Ollama, SiliconFlow)"
-        ],
-        "primary_use_case": "Generating high-definition story short videos from a given theme using AI large models.",
-        "open_issues": 17,
-        "cover_image_prompt": "Imagine a skilled storyteller sitting at a digital loom, weaving vibrant threads of text into captivating short videos. The loom is powered by a glowing AI core, seamlessly integrating AI-generated images, synchronized audio, and perfectly timed subtitles. Finished videos emerge from the loom, ready to enchant viewers. The scene is set in a cozy, modern studio bathed in warm, inviting light. Subtle UI elements and data visualizations float in the background, hinting at the underlying technology. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 937958453,
-        "name": "mcp-send-email",
-        "description": "Send emails directly from Cursor with this email sending MCP server",
-        "url": "https://github.com/resend/mcp-send-email",
+        "id": 884056167,
+        "name": "logocreator",
+        "description": "A free + OSS logo generator powered by Flux on Together AI",
+        "url": "https://github.com/Nutlope/logocreator",
         "language": "TypeScript",
-        "stars": 347,
-        "forks": 43,
-        "created_at": "2025-02-24T07:36:06Z",
-        "updated_at": "2025-05-23T08:24:33Z",
+        "stars": 5311,
+        "forks": 473,
+        "created_at": "2024-11-06T03:55:48Z",
+        "updated_at": "2025-05-24T10:07:46Z",
         "topics": [],
+        "quality_score": 0.45,
+        "contributors_count": 0,
+        "last_commit_date": "2025-01-17T15:17:39Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/97f4031c86acf2bcd4374b69b967825b9466edd9c066a9a89f8500b5808387f3/Nutlope/logocreator"
+        ],
+        "homepage": "https://www.logo-creator.io/",
+        "readme_summary": "The logocreator repository provides an open-source AI-powered logo generator. It allows users to create professional logos in seconds with customizable styles. The application uses Flux Pro on Together AI for logo generation, Next.js with TypeScript for the app framework, and integrates with services like Upstash Redis, Clerk, and Plausible for rate limiting, authentication, and analytics.",
+        "key_features": [
+            "AI-powered logo generation",
+            "Customizable logo styles",
+            "Open-source implementation",
+            "Rate limiting",
+            "User authentication",
+            "Analytics and observability"
+        ],
+        "primary_use_case": "Generating professional logos quickly and easily using AI.",
+        "open_issues": 10,
+        "cover_image_prompt": "Imagine a skilled artisan meticulously crafting logos from raw ideas in a vibrant workshop. The artisan uses a magical forge that transforms abstract concepts into polished, professional logos. Sparks of creativity fly as the artisan shapes each logo, with subtle UI elements projected onto the walls showcasing the software interface. Finished logos, glowing with a digital aura, are displayed on a nearby screen. The workshop is filled with tools and materials, all hinting at the power of AI-driven design. The scene is bathed in warm, inviting light, creating a sense of innovation and artistry. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 657577902,
+        "name": "background-removal-js",
+        "description": "Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.",
+        "url": "https://github.com/imgly/background-removal-js",
+        "language": "TypeScript",
+        "stars": 6528,
+        "forks": 423,
+        "created_at": "2023-06-23T11:20:08Z",
+        "updated_at": "2025-05-24T10:07:18Z",
+        "topics": [
+            "background-removal",
+            "image-matting",
+            "image-segmentation",
+            "javascript",
+            "onnx",
+            "open-source",
+            "typescript"
+        ],
         "quality_score": 0.75,
         "contributors_count": 0,
-        "last_commit_date": "2025-04-25T11:43:29Z",
+        "last_commit_date": "2025-03-21T11:48:29Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/3cf822eb8050831f342863f1a97f3b92b546b5368a231f5bdf6e2e4a99612c35/resend/mcp-send-email"
+            "https://repository-images.githubusercontent.com/657577902/a8dadd77-aff5-4240-972d-a98615cf52b2"
         ],
-        "homepage": "",
-        "readme_summary": "The mcp-send-email repository provides an MCP server that enables sending emails directly from Cursor or Claude Desktop using Resend's API. It allows users to send plain text and HTML emails, schedule emails, add CC and BCC recipients, configure reply-to addresses, and customize the sender email. This eliminates the need to copy and paste email content, streamlining the email sending process.",
+        "homepage": "https://img.ly/showcases/cesdk/web/background-removal/web",
+        "readme_summary": "@imgly/background-removal is an npm package that allows developers to seamlessly remove backgrounds from images directly in the browser or Node.js. It offers a cost-effective solution without compromising data privacy, making it ideal for e-commerce, image editing, and web-based graphic design applications.",
         "key_features": [
-            "Send plain text and HTML emails",
-            "Schedule emails for future delivery",
-            "Add CC and BCC recipients",
-            "Configure reply-to addresses",
-            "Customizable sender email"
+            "Background removal in the browser",
+            "Background removal in Node.js",
+            "Cost-effective solution",
+            "Data privacy"
         ],
-        "primary_use_case": "Sending emails directly from Cursor or Claude Desktop using Resend's API, allowing users to compose and send emails without copying and pasting content.",
-        "open_issues": 3,
-        "cover_image_prompt": "Imagine a diligent postal worker in a futuristic office, sorting digital letters. The worker uses a special tool that transforms text messages into beautifully designed emails, complete with personalized attachments and delivery schedules. Completed emails are sent via glowing tubes to their recipients. UI elements on the worker's desk show email previews and delivery confirmations. The repository name, 'mcp-send-email,' is subtly displayed on the office wall. The scene is in a 3D isometric illustration style with vibrant colors and clear details."
-    },
-    {
-        "id": 199951138,
-        "name": "mind-elixir-core",
-        "description": "⚗ Mind Elixir is a JavaScript, framework-agnostic mind map core.",
-        "url": "https://github.com/SSShooter/mind-elixir-core",
-        "language": "TypeScript",
-        "stars": 2610,
-        "forks": 338,
-        "created_at": "2019-08-01T01:04:36Z",
-        "updated_at": "2025-05-23T06:41:14Z",
-        "topics": [
-            "graph",
-            "mind-map",
-            "mind-mapping",
-            "mindmap",
-            "tool",
-            "visualization"
-        ],
-        "quality_score": 0.8499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-04-25T04:51:53Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/199951138/5d7ecb7e-efb0-418e-982c-131895e1def8"
-        ],
-        "homepage": "https://docs.mind-elixir.com/",
-        "readme_summary": "Mind Elixir Core is a framework-agnostic JavaScript library for creating mind maps. It offers features like drag-and-drop node editing, export to various formats, and customizable styling, making it suitable for integrating mind-mapping functionality into web applications.",
-        "key_features": [
-            "Lightweight",
-            "High performance",
-            "Framework agnostic",
-            "Pluginable",
-            "Build-in drag and drop / node edit plugin",
-            "Export as SVG / PNG / Html",
-            "Summarize nodes",
-            "Bulk operations supported",
-            "Undo / Redo",
-            "Efficient shortcuts",
-            "Easily Styling your node with CSS variables"
-        ],
-        "primary_use_case": "Creating and manipulating mind maps in JavaScript applications.",
-        "open_issues": 18,
-        "cover_image_prompt": "A skilled cartographer meticulously crafting a detailed mind map on a large, glowing digital tablet. The cartographer uses a stylus to connect various ideas represented as floating islands, each labeled with keywords. The tablet displays a clean, intuitive interface with customizable node styles and drag-and-drop functionality. Small UI elements showing code snippets and data structures subtly connect the map to software development. The scene is set in a bright, modern studio with natural light. The image should be in 3D isometric illustration style with vibrant colors and clear details."
-    },
-    {
-        "id": 933894892,
-        "name": "TheoremExplainAgent",
-        "description": "Official Repo for \"TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding\" [ACL 2025]",
-        "url": "https://github.com/TIGER-AI-Lab/TheoremExplainAgent",
-        "language": "Python",
-        "stars": 1259,
-        "forks": 156,
-        "created_at": "2025-02-16T23:12:20Z",
-        "updated_at": "2025-05-23T09:28:43Z",
-        "topics": [
-            "llm-agents",
-            "manim",
-            "manim-animations",
-            "manim-video",
-            "rag"
-        ],
-        "quality_score": 0.9000000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-05-15T16:26:28Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/7af17a403f4a91a399dd21e5bbb7a6cec77b477b3808fe129cecf99fe2b05a23/TIGER-AI-Lab/TheoremExplainAgent"
-        ],
-        "homepage": "https://tiger-ai-lab.github.io/TheoremExplainAgent/",
-        "readme_summary": "TheoremExplainAgent (TEA) is an AI system designed to generate Manim videos that visually explain mathematical theorems. It aims to provide a deeper understanding of theorems by uncovering reasoning flaws that might be hidden in text-based explanations. The system utilizes LLM agents and multimodal explanations to create engaging and informative video content.",
-        "key_features": [
-            "Generates Manim videos to explain theorems visually",
-            "Identifies reasoning flaws in theorems",
-            "Uses LLM agents for theorem understanding",
-            "Provides multimodal explanations"
-        ],
-        "primary_use_case": "Generating visual explanations of mathematical theorems using LLM agents and Manim animations.",
-        "open_issues": 13,
-        "cover_image_prompt": "Imagine a grand library where ancient theorem scrolls are brought to life by a team of animated characters. Each character represents a different mathematical concept, and they work together to create vibrant, engaging Manim videos that explain the theorems. The library is filled with screens showing code snippets and data visualizations, subtly connecting the animated explanations to the underlying technology. The scene is bathed in warm, inviting light, creating an atmosphere of discovery and understanding. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+        "primary_use_case": "Efficient and cost-effective background removal directly in the browser or Node.js for e-commerce, image editing, and web-based graphic design tools.",
+        "open_issues": 63,
+        "cover_image_prompt": "A skilled artist meticulously cutting out the background from a digital photograph of a vibrant cityscape, revealing a pristine white canvas behind it. The artist uses a glowing stylus that emits digital particles, precisely separating the foreground from the background. Small UI elements float around the artist, displaying background removal settings and code snippets. The scene is set in a modern, minimalist studio with soft, diffused lighting. The composition is clean and focused, highlighting the precision and ease of the background removal process. The image should be in a flat design style with clear iconography and a vibrant color scheme."
     }
 ]

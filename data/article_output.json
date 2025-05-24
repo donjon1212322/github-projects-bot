@@ -1,26 +1,26 @@
 {
-    "article": "Hey fellow developers! Ever wished you could visualize complex mathematical theorems in a way that's both engaging and insightful?  Meet TheoremExplainAgent (TEA), a groundbreaking project that's doing just that!  Imagine watching a dynamic, animated video that not only explains a theorem step-by-step but also highlights potential pitfalls in the reasoning. That's the magic of TEA.  This isn't your grandma's static textbook illustration; this is a full-blown, AI-powered explainer that leverages the power of Manim, a powerful animation library, to create captivating visuals.  It's like having a personal math tutor who can break down abstract concepts into easily digestible pieces.\n\nTEA works by combining the strengths of several cutting-edge technologies.  At its core, it's a large language model (LLM) trained to understand and reason about mathematical theorems.  This LLM isn't just passively reciting definitions; it actively analyzes the theorem's structure, identifies key steps in the proof, and even pinpoints potential flaws or areas of ambiguity.  The results are then elegantly transformed into a Manim animation, resulting in a dynamic and visually rich explanation. This isn't just about showing; it's about showing *why*.  The animation isn't just a pretty face; it's a carefully crafted visual narrative that helps you understand the underlying logic.\n\nBut TEA doesn't stop there. To make the explanations even more accessible, it incorporates text-to-speech (TTS) capabilities, allowing for an audio narration of the visual explanation.  This is a game-changer for accessibility and learning. The combination of visual and auditory elements creates a truly multimodal learning experience, catering to diverse learning styles. The project uses Kokoro, a high-quality TTS model, for clear and natural-sounding narration. The team has thoughtfully provided options for various LLM backends, including OpenAI, Azure OpenAI, Google Vertex AI, and more, ensuring flexibility and accessibility for developers with different preferences and cloud setups.\n\nSo, what's in it for you?  As a developer, TEA offers several compelling benefits. First, it provides a fantastic educational resource for learning complex mathematical concepts.  Second, it serves as a powerful debugging tool, helping you identify potential flaws in your own mathematical reasoning or code. Third, the project's architecture is a masterclass in combining different AI technologies.  Studying TEA's codebase will help you learn how to effectively integrate LLMs, animation libraries, and TTS systems.  Finally, TEA opens up exciting possibilities for creating engaging educational content in other domains beyond mathematics.  Imagine using similar techniques to explain complex algorithms, software architectures, or even scientific concepts. The potential is limitless!\n\nSetting up TEA is straightforward, thanks to a well-structured README file and conda environment.  The installation process is clearly outlined, and the team has provided extensive documentation and FAQs to address common issues.  The ability to choose from multiple LLM backends gives you the flexibility to select the provider that best suits your needs and budget.  The project is open-source, fostering collaboration and community contributions, making it a vibrant and active project to be a part of.  This isn't just a project; it's a community dedicated to making complex ideas easier to understand.",
+    "article": "Ever wished you could magically transform those unwieldy scanned PDF books into clean, easily readable digital text?  PDF Craft is here to make that wish a reality! This amazing GitHub project tackles the challenge of converting scanned PDFs – think old textbooks or research papers – into formats like Markdown and EPUB, and it does so with a clever blend of AI and some serious coding magic. Forget painstaking manual transcription; PDF Craft automates the entire process.\n\nAt its core, PDF Craft uses a multi-stage approach. First, it employs DocLayout-YOLO to pinpoint the text regions on each page, intelligently filtering out distracting elements like headers, footers, and page numbers.  Think of it as a super-powered highlighter that only selects the important text. Next, OnnxOCR steps in to recognize the actual text within those highlighted areas.  This is where the AI really shines, accurately converting images of text into machine-readable characters.\n\nBut it doesn't stop there! PDF Craft goes the extra mile by using layoutreader to determine the most natural reading order, ensuring that the final output flows smoothly and logically. This is crucial for maintaining the integrity of the original document's structure. For smaller documents, the output is clean Markdown, perfect for quick editing and sharing. \n\nFor larger books (think 100+ pages), PDF Craft leverages the power of Large Language Models (LLMs) to generate a structured EPUB file.  This is where things get really exciting. The LLM not only helps organize the text into chapters and add a table of contents, but it also intelligently corrects OCR errors, resulting in a much cleaner and more accurate final product.  Imagine having a smart assistant meticulously proofreading and formatting your book for you.  While this step requires an external LLM service (DeepSeek is recommended), the results are well worth the effort.\n\nPDF Craft is a game-changer for anyone who works with scanned documents. Developers can integrate this project into their workflows to automate the conversion of PDFs, saving countless hours of manual work.  The ability to generate both Markdown and EPUB formats provides flexibility for various downstream applications.  The project's open-source nature allows for community contributions and improvements, ensuring its continued evolution and enhancement.  Plus, the use of locally executable AI models reduces reliance on cloud services, providing greater control and potentially lower costs. Whether you're a researcher, a student, or simply someone who hates manual data entry, PDF Craft is a must-have tool in your arsenal.",
     "key_takeaways": [
-        "Visualizes complex mathematical theorems using dynamic animations.",
-        "Combines LLM reasoning with Manim animations and TTS for multimodal explanations.",
-        "Serves as an educational resource, debugging tool, and a showcase of AI integration.",
-        "Offers flexibility with multiple LLM backend options.",
-        "Open-source and community-driven, encouraging collaboration and contributions"
+        "Automates the conversion of scanned PDFs to Markdown and EPUB formats.",
+        "Utilizes a combination of AI models (DocLayout-YOLO, OnnxOCR, layoutreader) for accurate text extraction and formatting.",
+        "Handles multi-page documents and intelligently preserves reading order.",
+        "For larger books, leverages LLMs to create structured EPUBs with chapters and tables of contents.",
+        "Open-source and community-driven, with opportunities for contributions and improvements"
     ],
     "tags": [
-        "LLM",
-        "Manim",
-        "Mathematics",
-        "Education",
-        "Multimodal"
+        "PDF",
+        "OCR",
+        "AI",
+        "Markdown",
+        "EPUB"
     ],
-    "title": "TheoremExplainAgent (TEA):  Visualizing Math Theorems with AI-Powered Animations",
-    "stars": 1259,
-    "forks": 156,
-    "open_issues": 13,
+    "title": "PDF Craft: Your New Best Friend for Scanned PDF Conversion",
+    "stars": 2764,
+    "forks": 160,
+    "open_issues": 24,
     "languages": "Python",
-    "readme_summary": "TheoremExplainAgent (TEA) is an AI system designed to generate Manim videos that visually explain mathematical theorems. It aims to provide a deeper understanding of theorems by uncovering reasoning flaws that might be hidden in text-based explanations. The system utilizes LLM agents and multimodal explanations to create engaging and informative video content.",
-    "project_id": 933894892,
-    "url": "https://github.com/TIGER-AI-Lab/TheoremExplainAgent",
-    "description": "Official Repo for \"TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding\" [ACL 2025]"
+    "readme_summary": "PDF Craft is a Python library designed for converting PDF files, especially scanned books, into other formats like Markdown and EPUB. It utilizes OCR, layout analysis, and optionally LLMs to extract text, remove irrelevant elements, determine reading order, correct errors, and structure the content for improved readability and semantic coherence.",
+    "project_id": 931354511,
+    "url": "https://github.com/oomol-lab/pdf-craft",
+    "description": "PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books."
 }

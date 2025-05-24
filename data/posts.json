@@ -1,58 +1,51 @@
 [
     {
-        "project_id": 987258416,
-        "content": "✨ <b>terminal-bg</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTurns your terminal into a transparent, live desktop background.\n<br>\n✨ <b>Key Features:</b>\n• Transparent terminal background\n• Configurable appearance (opacity, RGBA)\n• Automatic config creation\n• Custom script & monitor support\n• Lightweight & responsive\n<br>\n📖 <b>Summary:</b>\nTerminal-bg is a Python script that allows users to set their terminal as a transparent, live desktop background. It uses GTK, VTE, and GtkLayerShell to display CLI programs as animated wallpapers. The application supports configurable appearance, automatic config creation, custom scripts, and multi-monitor setups.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DaarcyDev/terminal-bg?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/387ad079989700eecf97170a6533fde54cee7bf991d03dbe8540096c79416511/DaarcyDev/terminal-bg",
+        "project_id": 983779325,
+        "content": "🌟 <b>ScrollSnap</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nCapturing and stitching scrolling screenshots on macOS.\n<br>\n✨ <b>Key Features:</b>\n• Customizable Selection Area\n• Scrolling Capture\n• Interactive Menu\n• Thumbnail Preview\n• Save Destinations\n<br>\n📖 <b>Summary:</b>\nScrollSnap is a macOS application designed for capturing long, scrolling screenshots. It allows users to define a custom selection area, automatically stitches multiple screenshots together, and provides an interactive menu for capture, save, and reset options. The application offers a thumbnail preview and supports saving to various destinations, including the Desktop, Clipboard, and Preview.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Brkgng/ScrollSnap?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9178ae5a88f3d9b0dde76233ac2fa38b847d378aaecf66d745a967415f814911/Brkgng/ScrollSnap",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 766341786,
-        "content": "✨ <b>puter</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA free, open-source, and self-hostable internet operating system for managing files, apps, and games in a personal cloud.\n<br>\n✨ <b>Key Features:</b>\n• Privacy-first personal cloud\n• Platform for building web apps and games\n• Alternative to Dropbox/Google Drive\n• Remote desktop environment\n<br>\n📖 <b>Summary:</b>\nPuter is an open-source internet operating system designed for personal cloud management, web application development, and remote desktop access. It serves as a self-hostable alternative to services like Dropbox and Google Drive, offering a platform for users to keep their files, apps, and games accessible from anywhere. The project also fosters a community for learning about web development and cloud computing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HeyPuter/puter?embed=0\">View Project</a>\n• <a href=\"https://puter.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/766341786/ad2dfdf3-eb84-4407-8f7a-63fcda75e346",
+        "project_id": 920202654,
+        "content": "🚀 <b>codecafe</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time collaborative code editing for pair programming, teaching, and building web projects together.\n<br>\n✨ <b>Key Features:</b>\n• Pixel-Perfect Live Preview\n• True Real-Time Collaboration via Operational Transformation\n• VS Code Feel with Monaco Editor\n• Zero Setup, browser-based\n<br>\n📖 <b>Summary:</b>\nCodeCafé is a real-time collaborative code editor designed for seamless, browser-based coding. It features live previews, operational transformation for conflict-free simultaneous editing, and a VS Code-like experience through the Monaco Editor. The platform requires zero setup, enabling instant collaboration for pair programming, teaching, and building web projects.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mrktsm/codecafe?embed=0\">View Project</a>\n• <a href=\"https://codecafe.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4814b28f2e98ae774a1f67905f0a341d1ae4850a74eba637077b854b4bb4edab/mrktsm/codecafe",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 796284842,
-        "content": "🌟 <b>Sink</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nLink shortening with built-in analytics, designed for serverless deployment on Cloudflare.\n<br>\n✨ <b>Key Features:</b>\n• URL Shortening\n• Analytics\n• Serverless Deployment\n• Customizable Slug\n• AI Slug Generation\n<br>\n📖 <b>Summary:</b>\nSink is a link shortener that provides analytics and customizable slugs. It is designed to be deployed on Cloudflare, taking advantage of serverless architecture. The platform offers features like AI-powered slug generation and link expiration, making it a comprehensive solution for managing and tracking shortened URLs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ccbikai/Sink?embed=0\">View Project</a>\n• <a href=\"https://Sink.Cool?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/796284842/312fb0e7-fc3f-4993-81db-bdd889d8e6b2",
+        "project_id": 470730648,
+        "content": "🔥 <b>Hyprland</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nA highly customizable, dynamic tiling Wayland compositor for Linux desktops.\n<br>\n✨ <b>Key Features:</b>\n• Highly customizable\n• Dynamic tiling\n• Wayland compositor\n• Eyecandy (gradient borders, blur, animations, shadows)\n• Plugin support\n<br>\n📖 <b>Summary:</b>\nHyprland is a dynamic tiling Wayland compositor written in C++ that prioritizes customization and visual appeal. It offers a range of features including gradient borders, blur, animations, plugin support, and dynamic workspaces. Hyprland aims to provide a modern and efficient desktop experience with a focus on flexibility and performance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hyprwm/Hyprland?embed=0\">View Project</a>\n• <a href=\"https://hyprland.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/470730648/c4c69fe5-dc70-42b8-aae1-3a6d303656c0",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 931354511,
+        "content": "✨ <b>pdf-craft</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting scanned PDF books into Markdown or EPUB formats, particularly for books and documents requiring OCR and semantic structuring.\n<br>\n✨ <b>Key Features:</b>\n• PDF to Markdown conversion\n• PDF to EPUB conversion with LLM enhancement\n• Text extraction from scanned books\n• Header, footer, footnote, and page number removal\n• Reading order determination\n<br>\n📖 <b>Summary:</b>\nPDF Craft is a Python library designed for converting PDF files, especially scanned books, into other formats like Markdown and EPUB. It utilizes OCR, layout analysis, and optionally LLMs to extract text, remove irrelevant elements, determine reading order, correct errors, and structure the content for improved readability and semantic coherence.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/oomol-lab/pdf-craft?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/50608dae931077ade223b0b49433452a0a0a20d9dd7ec7b1a7fd756949d8d041/oomol-lab/pdf-craft",
+        "platform": "telegram",
+        "quality_score": 1.1000000000000003
+    },
+    {
+        "project_id": 586248938,
+        "content": "✨ <b>PairDrop</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTransferring files between devices on a local network or over the internet, regardless of the operating system.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform file sharing\n• Local network and internet transfers\n• Persistent device pairing\n• Temporary public rooms for file sharing\n<br>\n📖 <b>Summary:</b>\nPairDrop is a web-based application for cross-platform file sharing, inspired by AirDrop and forked from Snapdrop. It allows users to transfer files between devices on the same local network or over the internet using paired devices or temporary public rooms. Key features include persistent device pairing, an improved UI, and the ability to send files directly from share menus, context menus, or the command line.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/schlagmichdoch/PairDrop?embed=0\">View Project</a>\n• <a href=\"https://pairdrop.net?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/586248938/c9811030-0218-4046-9ef5-0f362e22a5e0",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 884056167,
+        "content": "🔥 <b>logocreator</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating professional logos quickly and easily using AI.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered logo generation\n• Customizable logo styles\n• Open-source implementation\n• Rate limiting\n• User authentication\n<br>\n📖 <b>Summary:</b>\nThe logocreator repository provides an open-source AI-powered logo generator. It allows users to create professional logos in seconds with customizable styles. The application uses Flux Pro on Together AI for logo generation, Next.js with TypeScript for the app framework, and integrates with services like Upstash Redis, Clerk, and Plausible for rate limiting, authentication, and analytics.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Nutlope/logocreator?embed=0\">View Project</a>\n• <a href=\"https://www.logo-creator.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/97f4031c86acf2bcd4374b69b967825b9466edd9c066a9a89f8500b5808387f3/Nutlope/logocreator",
+        "platform": "telegram",
+        "quality_score": 0.45
+    },
+    {
+        "project_id": 657577902,
+        "content": "🔥 <b>background-removal-js</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEfficient and cost-effective background removal directly in the browser or Node.js for e-commerce, image editing, and web-based graphic design tools.\n<br>\n✨ <b>Key Features:</b>\n• Background removal in the browser\n• Background removal in Node.js\n• Cost-effective solution\n• Data privacy\n<br>\n📖 <b>Summary:</b>\n@imgly/background-removal is an npm package that allows developers to seamlessly remove backgrounds from images directly in the browser or Node.js. It offers a cost-effective solution without compromising data privacy, making it ideal for e-commerce, image editing, and web-based graphic design applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/imgly/background-removal-js?embed=0\">View Project</a>\n• <a href=\"https://img.ly/showcases/cesdk/web/background-removal/web?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/657577902/a8dadd77-aff5-4240-972d-a98615cf52b2",
         "platform": "telegram",
         "quality_score": 0.75
-    },
-    {
-        "project_id": 14712850,
-        "content": "✨ <b>syncthing</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSynchronizing files between two or more computers.\n<br>\n✨ <b>Key Features:</b>\n• Continuous file synchronization\n• Safe from data loss\n• Secure against attackers\n• Easy to use\n• Automatic\n<br>\n📖 <b>Summary:</b>\nSyncthing is a continuous file synchronization program that synchronizes files between two or more computers. It prioritizes data safety and security, ease of use, and automatic operation, making it suitable for individuals needing reliable file synchronization across multiple devices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/syncthing/syncthing?embed=0\">View Project</a>\n• <a href=\"https://syncthing.net/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/952647034d53cbee1afba686a83d94bdb36f0a4c14bd120cf01e926e5fecb5af/syncthing/syncthing",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 917903047,
-        "content": "✨ <b>story-flicks</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating high-definition story short videos from a given theme using AI large models.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered story generation\n• Automatic video creation from story themes\n• AI-generated images\n• Audio integration\n• Subtitle generation\n<br>\n📖 <b>Summary:</b>\nStory-flicks is a Python-based project that leverages AI large language models to generate high-definition story short videos. It takes a story theme as input and automatically creates a video complete with AI-generated images, story content, audio, and subtitles. The project supports multiple AI providers, offering flexibility in model selection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alecm20/story-flicks?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/533aac38d42921371c4948582cea50cda390704e81a6e98140031d9310193cd8/alecm20/story-flicks",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 937958453,
-        "content": "🚀 <b>mcp-send-email</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSending emails directly from Cursor or Claude Desktop using Resend's API, allowing users to compose and send emails without copying and pasting content.\n<br>\n✨ <b>Key Features:</b>\n• Send plain text and HTML emails\n• Schedule emails for future delivery\n• Add CC and BCC recipients\n• Configure reply-to addresses\n• Customizable sender email\n<br>\n📖 <b>Summary:</b>\nThe mcp-send-email repository provides an MCP server that enables sending emails directly from Cursor or Claude Desktop using Resend's API. It allows users to send plain text and HTML emails, schedule emails, add CC and BCC recipients, configure reply-to addresses, and customize the sender email. This eliminates the need to copy and paste email content, streamlining the email sending process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/resend/mcp-send-email?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3cf822eb8050831f342863f1a97f3b92b546b5368a231f5bdf6e2e4a99612c35/resend/mcp-send-email",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 199951138,
-        "content": "🌟 <b>mind-elixir-core</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and manipulating mind maps in JavaScript applications.\n<br>\n✨ <b>Key Features:</b>\n• Lightweight\n• High performance\n• Framework agnostic\n• Pluginable\n• Build-in drag and drop / node edit plugin\n<br>\n📖 <b>Summary:</b>\nMind Elixir Core is a framework-agnostic JavaScript library for creating mind maps. It offers features like drag-and-drop node editing, export to various formats, and customizable styling, making it suitable for integrating mind-mapping functionality into web applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SSShooter/mind-elixir-core?embed=0\">View Project</a>\n• <a href=\"https://docs.mind-elixir.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/199951138/5d7ecb7e-efb0-418e-982c-131895e1def8",
-        "platform": "telegram",
-        "quality_score": 0.8499999999999999
-    },
-    {
-        "project_id": 933894892,
-        "content": "🚀 <b>TheoremExplainAgent</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating visual explanations of mathematical theorems using LLM agents and Manim animations.\n<br>\n✨ <b>Key Features:</b>\n• Generates Manim videos to explain theorems visually\n• Identifies reasoning flaws in theorems\n• Uses LLM agents for theorem understanding\n• Provides multimodal explanations\n<br>\n📖 <b>Summary:</b>\nTheoremExplainAgent (TEA) is an AI system designed to generate Manim videos that visually explain mathematical theorems. It aims to provide a deeper understanding of theorems by uncovering reasoning flaws that might be hidden in text-based explanations. The system utilizes LLM agents and multimodal explanations to create engaging and informative video content.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TIGER-AI-Lab/TheoremExplainAgent?embed=0\">View Project</a>\n• <a href=\"https://tiger-ai-lab.github.io/TheoremExplainAgent/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7af17a403f4a91a399dd21e5bbb7a6cec77b477b3808fe129cecf99fe2b05a23/TIGER-AI-Lab/TheoremExplainAgent",
-        "platform": "telegram",
-        "quality_score": 0.9000000000000001
     }
 ]
