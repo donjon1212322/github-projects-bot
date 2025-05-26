@@ -1,7 +1,0 @@
-{
-    "project_id": 968842454,
-    "content": "🚀 <b>circuitpython-peckus</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely storing and accessing cryptographic keys or other sensitive data on a USB device, ensuring access only when the user is present and automatically locking when the user is absent.\n<br>\n✨ <b>Key Features:</b>\n• Presence-enforced USB storage\n• Bluetooth LE unlocking\n• Automatic relocking based on timeout or user absence\n• Read-only payload exposure\n<br>\n📖 <b>Summary:</b>\nPECKUS is a CircuitPython-based project that creates a presence-enforcing USB storage device. It stores a file (typically a cryptographic key) and only exposes it as a USB drive after successful presence verification, usually via Bluetooth LE. The device automatically relocks after a timeout or when the user's presence is no longer detected, providing an air-gap security benefit.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/juergenpabel/circuitpython-peckus?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/3dce322ef08890175e14d807f0532b2036470346f44fb6d4beaa2bc8996855d7/juergenpabel/circuitpython-peckus",
-    "platform": "telegram",
-    "quality_score": 0.44999999999999996
-}
