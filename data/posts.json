@@ -1,51 +1,58 @@
 [
     {
-        "project_id": 984509143,
-        "content": "✨ <b>dasshh</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nInteracting with a computer using natural language commands via a terminal-based AI assistant.\n<br>\n✨ <b>Key Features:</b>\n• Interactive chat UI\n• Personal assistant on the terminal\n• Performs actions on the computer with plain English\n• Extensible with custom tools\n<br>\n📖 <b>Summary:</b>\nDasshh is a terminal-based AI assistant that allows users to interact with their computer using natural language. It provides an interactive chat UI to execute system tasks, manage processes, and extend functionality with custom tools, all through simple English commands.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vgnshiyer/dasshh?embed=0\">View Project</a>\n• <a href=\"http://blog.vgnshiyer.dev/dasshh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/78169edd565e9391092f27d7e33a1ca729d1b2229813f39dbfe7d70c7bf98443/vgnshiyer/dasshh",
+        "project_id": 26600712,
+        "content": "🚀 <b>gloomy-dungeons-2</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating a first-person shooter game with a Wolfenstein 3D-like engine on Android.\n<br>\n✨ <b>Key Features:</b>\n• Simple lighting effects\n• Different floor and ceiling textures in each cell\n• Extruded ceiling and doors\n• Rocket launcher\n<br>\n📖 <b>Summary:</b>\nGloomy Dungeons II is a continuation of an old-school 3D shooter, built using a modified Wolfenstein-like engine in Java for Android. It features improvements such as simple lighting effects, varied floor and ceiling textures, extruded ceilings and doors, and a rocket launcher. The game is open-source, with the exception of the music.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/restorer/gloomy-dungeons-2?embed=0\">View Project</a>\n• <a href=\"http://mobile.zame-dev.org/gloomy-ii/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/32ebeb3b7a94a9abb6c2c636d52c896c4c4a2cd5ec8923d7786c156fb14d50a4/restorer/gloomy-dungeons-2",
         "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 0.45
     },
     {
-        "project_id": 968842454,
-        "content": "🚀 <b>circuitpython-peckus</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely storing and accessing cryptographic keys or other sensitive data on a USB device, ensuring access only when the user is present and automatically locking when the user is absent.\n<br>\n✨ <b>Key Features:</b>\n• Presence-enforced USB storage\n• Bluetooth LE unlocking\n• Automatic relocking based on timeout or user absence\n• Read-only payload exposure\n<br>\n📖 <b>Summary:</b>\nPECKUS is a CircuitPython-based project that creates a presence-enforcing USB storage device. It stores a file (typically a cryptographic key) and only exposes it as a USB drive after successful presence verification, usually via Bluetooth LE. The device automatically relocks after a timeout or when the user's presence is no longer detected, providing an air-gap security benefit.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/juergenpabel/circuitpython-peckus?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3dce322ef08890175e14d807f0532b2036470346f44fb6d4beaa2bc8996855d7/juergenpabel/circuitpython-peckus",
+        "project_id": 684744357,
+        "content": "🚀 <b>Canta</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nUninstalling or debloating Android applications without requiring root access.\n<br>\n✨ <b>Key Features:</b>\n• Uninstall Android apps without root access\n• Powered by Shizuku\n• Debloat device without PC\n<br>\n📖 <b>Summary:</b>\nCanta is an Android application that allows users to uninstall other applications without needing root privileges, leveraging Shizuku. It enables users to debloat their devices directly from the device itself, eliminating the need for a PC connection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/samolego/Canta?embed=0\">View Project</a>\n• <a href=\"https://samolego.github.io/Canta/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/684744357/f27c72ed-e812-41e1-9b84-78de8a980c2b",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 949877989,
-        "content": "💡 <b>Find-Family</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nEnd-to-end encrypted location sharing with family and friends.\n<br>\n✨ <b>Key Features:</b>\n• End-to-end encryption\n• Temporary location sharing control\n• Saved places with notifications\n• Battery status monitoring\n• Open source client\n<br>\n📖 <b>Summary:</b>\nFind Family is a cross-platform application designed for secure location sharing among family and friends. It offers end-to-end encryption, temporary sharing controls, saved place notifications, and battery status monitoring. The app prioritizes privacy by not requiring personal information and is fully open source.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vayun-mathur/Find-Family?embed=0\">View Project</a>\n• <a href=\"https://findfamily.cc/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3588881951fa39bebfdaf0e02c4f40d58d7db7869aaebfe896b08ec2198562b5/vayun-mathur/Find-Family",
-        "platform": "telegram",
-        "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 70908208,
-        "content": "🚀 <b>rasa</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating text- and voice-based conversations using machine learning to build contextual assistants and chatbots.\n<br>\n✨ <b>Key Features:</b>\n• NLU (Natural Language Understanding)\n• Dialogue Management\n• Integration with multiple platforms (Slack, Facebook, etc.)\n• Voice assistant capabilities (Alexa, Google Home)\n<br>\n📖 <b>Summary:</b>\nRasa is an open-source machine learning framework designed to automate conversations. It provides tools for NLU, dialogue management, and integrations with various messaging platforms and voice assistants. Rasa enables developers to build contextual assistants capable of engaging in layered, back-and-forth conversations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/RasaHQ/rasa?embed=0\">View Project</a>\n• <a href=\"https://rasa.com/docs/rasa/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/70908208/7ac6d480-677b-11e9-8160-e988e9fd6255",
-        "platform": "telegram",
-        "quality_score": 0.8
-    },
-    {
-        "project_id": 2990192,
-        "content": "✨ <b>Signal-Android</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nPrivate and secure messaging for Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Secure messaging using data connection (WiFi/3G/4G/5G)\n• High-fidelity message sending and receiving\n• HD voice/video calls\n• Advanced privacy-preserving technology\n<br>\n📖 <b>Summary:</b>\nSignal Android is a secure messaging application that prioritizes user privacy. It enables users to send high-fidelity messages, make HD voice/video calls, and communicate securely using their phone's data connection. The application employs advanced privacy-preserving technology to ensure secure communication.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/signalapp/Signal-Android?embed=0\">View Project</a>\n• <a href=\"https://signal.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ec97b04104b8dc1ef5c7f6ca22813414bef6c459e436dcd932c195a30ac6ab75/signalapp/Signal-Android",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 253412060,
-        "content": "🔥 <b>shell_commands_for_Linux</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nProvides a collection of shell scripts and Python scripts to automate common Linux tasks and manage JetBrains IDE licenses.\n<br>\n✨ <b>Key Features:</b>\n• Scripts for Linux system administration\n• Scripts for managing PHP versions\n• Scripts for creating local Apache hosts\n• Scripts for resetting JetBrains IDE evaluation periods (PyCharm, PhpStorm)\n<br>\n📖 <b>Summary:</b>\nThis repository offers a collection of useful scripts for Linux environments, written in Python and Bash. It includes scripts for managing PHP versions, creating local Apache hosts, and resetting evaluation licenses for JetBrains IDEs like PyCharm and PhpStorm, enabling continued use beyond the initial trial period.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/PopckovS/shell_commands_for_Linux?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0801fbe1d301963ced571404c533e309f226d8272ec09b8dd7a1df99f75f3142/PopckovS/shell_commands_for_Linux",
+        "project_id": 952822080,
+        "content": "🔥 <b>vibe-draw</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating 3D models and worlds from 2D sketches using AI-powered enhancement and transformation.\n<br>\n✨ <b>Key Features:</b>\n• Sketch-to-3D model conversion\n• 2D canvas drawing\n• 3D world building\n• AI-powered sketch enhancement\n• 3D model export (.glTF)\n<br>\n📖 <b>Summary:</b>\nVibe Draw allows users to create 3D models and worlds from simple 2D sketches. It uses AI to enhance the sketches and transform them into 3D models, which can then be added to a 3D world. The resulting 3D world can be exported in a standard format for use in other tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/martin226/vibe-draw?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/41a15cdc95fcf3199f775598bda51b26b0ace7743c5cd8b9fa4f1a5fa7095381/martin226/vibe-draw",
         "platform": "telegram",
         "quality_score": 0.5
     },
     {
-        "project_id": 3834332,
-        "content": "💡 <b>bokeh</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating interactive plots, dashboards, and data applications for modern web browsers.\n<br>\n✨ <b>Key Features:</b>\n• Interactive data visualization\n• Versatile graphics construction\n• High-performance interactivity\n• Support for large and streaming datasets\n• Creation of interactive plots, dashboards, and data applications\n<br>\n📖 <b>Summary:</b>\nBokeh is a Python library for creating interactive data visualizations in web browsers. It allows developers to build elegant and versatile graphics with high-performance interactivity, even with large or streaming datasets. Bokeh is designed to help users quickly and easily create interactive plots, dashboards, and data applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bokeh/bokeh?embed=0\">View Project</a>\n• <a href=\"https://bokeh.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/3834332/f2002880-882b-11eb-920b-5c3645483bbd",
+        "project_id": 778774319,
+        "content": "🌟 <b>anx-reader</b> | Dart\n<br>\n🎯 <b>Primary Use Case:</b>\nReading e-books with AI-powered assistance and cross-platform synchronization.\n<br>\n✨ <b>Key Features:</b>\n• Cross-Platform support (iOS, macOS, Windows, Android)\n• Full Sync of Reading Progress, Book Files, and Highlighted Notes\n• Multiple AI support (OpenAI, Claude, Gemini, DeepSeek)\n• Insightful Data visualizations (Weekly/Monthly/Yearly/Heatmap)\n• Notes with Filtering/Sorting and Export options (TXT, Markdown, CSV)\n<br>\n📖 <b>Summary:</b>\nAnx Reader is an e-book reader that enhances the reading experience with AI capabilities, cross-platform support, and synchronization. It supports various e-book formats and offers features like AI assistance, data visualization, customizable styles, and note-taking, making reading smarter and more focused.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Anxcye/anx-reader?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/241cb560ca7872a84a409e006324ffc09c007d1f0a83e6045d652deff78055fb/Anxcye/anx-reader",
         "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 190729906,
+        "content": "💡 <b>budibase</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding internal tools, forms, portals, and approval apps with a low-code platform.\n<br>\n✨ <b>Key Features:</b>\n• Build and ship single page applications\n• Open source and extensible (GPL v3)\n• Connect to multiple data sources (MongoDB, CouchDB, PostgreSQL, MariaDB, MySQL, Airtable, S3, DynamoDB, REST API)\n• Build apps with pre-made components\n• Automate processes and integrate with other tools\n<br>\n📖 <b>Summary:</b>\nBudibase is an open-source, low-code platform for quickly building and deploying internal tools. It supports connecting to various data sources and provides pre-built components to accelerate development. Budibase allows users to automate workflows and create responsive single-page applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Budibase/budibase?embed=0\">View Project</a>\n• <a href=\"https://budibase.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/190729906/fcf93f26-8dc4-48d7-a0eb-8d7a8925eb57",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 709242076,
+        "content": "🌟 <b>gofr</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying microservice development with a focus on Kubernetes deployment and out-of-the-box observability.\n<br>\n✨ <b>Key Features:</b>\n• Simple API Syntax\n• REST Standards by Default\n• Configuration Management\n• Observability (Logs, Traces, Metrics)\n• Inbuilt Auth Middleware & Custom Middleware Support\n<br>\n📖 <b>Summary:</b>\nGoFr is a GoLang framework designed to accelerate microservice development. It provides built-in support for databases and observability, simplifying the creation and deployment of microservices, especially within Kubernetes environments. The framework offers features like simple API syntax, REST standards, configuration management, gRPC support, and health checks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gofr-dev/gofr?embed=0\">View Project</a>\n• <a href=\"https://gofr.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/06decded5db659b90213a3b433209161ac2ba12771427cb00653ccce5f09fd95/gofr-dev/gofr",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 31771754,
+        "content": "💡 <b>WebGoat</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nLearning web application security and penetration testing techniques by exploiting deliberately introduced vulnerabilities.\n<br>\n✨ <b>Key Features:</b>\n• Deliberately insecure web application\n• Teaches web application security lessons\n• Demonstrates common server-side application flaws\n• Exercises for learning application security and penetration testing\n<br>\n📖 <b>Summary:</b>\nWebGoat is a deliberately insecure web application designed to teach web application security lessons. It demonstrates common server-side flaws through hands-on exercises, allowing users to learn and practice penetration testing techniques. The application can be deployed via Docker or run as a standalone application.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/WebGoat/WebGoat?embed=0\">View Project</a>\n• <a href=\"https://owasp.org/www-project-webgoat/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/208003fcd9888a9e090254966469657e94677289a1e423601d55e2f52fdcabc5/WebGoat/WebGoat",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 776121034,
+        "content": "🔥 <b>omi</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nThe primary use case is to provide users with an AI-powered wearable device that can automatically transcribe conversations, generate summaries, and identify action items.\n<br>\n✨ <b>Key Features:</b>\n• Captures conversations\n• Provides summaries\n• Identifies action items\n• Automatic transcription\n• Mobile device connectivity\n<br>\n📖 <b>Summary:</b>\nOmi is an open-source AI wearable that captures conversations and provides automatic transcriptions, summaries, and action items. It connects to a mobile device and is designed for meetings, chats, and voice memos. The project includes hardware designs for a wearable device and accompanying mobile applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BasedHardware/omi?embed=0\">View Project</a>\n• <a href=\"https://omi.me?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/776121034/abcde48a-a04a-47bc-b146-8998b829fc5e",
+        "platform": "telegram",
+        "quality_score": 0.85
     }
 ]
