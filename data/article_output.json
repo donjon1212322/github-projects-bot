@@ -1,26 +1,26 @@
 {
-    "article": "Ever wished you could uninstall any app on your Android device without needing root access?  Well, get ready to say hello to Canta! This incredible GitHub project lets you do just that, and it's way simpler than you might think. Forget about complex commands or risky procedures; Canta makes uninstalling apps a breeze.  It leverages the power of Shizuku, a fantastic framework that allows apps to perform actions that would normally require root privileges.  Think of Shizuku as a friendly bridge between your apps and the Android system, granting Canta the necessary access without compromising your device's security.  Canta isn't just about uninstalling; it's about giving you complete control over your Android experience.  This is particularly useful if you're a developer who frequently tests apps, or if you simply want a cleaner, more streamlined Android experience.  No more struggling with stubborn apps that refuse to uninstall; Canta empowers you to regain control. The architecture is surprisingly elegant: Canta interacts with the Shizuku framework, which then communicates with the Android system to initiate the uninstallation process. This indirect approach is what allows Canta to function without root access.  The app is designed with simplicity and security in mind; there's no complicated setup or configuration needed.  Just install Canta, grant it the necessary permissions through Shizuku, and you're good to go.  The process is remarkably quick and efficient, saving you precious time and effort compared to other methods.  One of Canta's biggest strengths is its ease of use. The user interface is intuitive and straightforward, making it accessible to developers of all skill levels.  This is crucial because it lowers the barrier to entry, allowing more developers to benefit from its capabilities.  Imagine the time you'll save when testing apps, quickly uninstalling and reinstalling them without the hassle of root access.  Furthermore, Canta keeps a clean history of uninstalled apps, allowing you to track your actions.  This is incredibly useful for debugging and troubleshooting. In short, Canta is a must-have tool for any Android developer who values efficiency, control, and a clean development environment.  It's a game-changer that simplifies a previously cumbersome process, making app management significantly easier and more intuitive.",
+    "article": "Ever wish you could save a webpage exactly as you see it, annotations and all, for later?  Meet WebScrapBook, a browser extension that's revolutionizing how we archive and organize online content.  Think of it as a supercharged bookmarking tool on steroids!  It's not just about saving URLs; it's about capturing the entire page, including images, styles, and even interactive elements, preserving the context perfectly.  This is a game changer for researchers, writers, students—anyone who needs to reference online material accurately.  WebScrapBook makes this process seamless and efficient. \n\nThe magic happens behind the scenes with a clever architecture. WebScrapBook uses a variety of archive formats, offering flexibility to choose the best option for your needs. You can customize configurations to ensure the saved pages look exactly how you want them. This level of control is rarely seen in other bookmarking or archiving tools. Imagine being able to save an entire website structure, or just a specific article, with all its multimedia elements, and then easily revisit it later, without having to worry about broken links or content changes. That's the power of WebScrapBook.  \n\nFor developers, the benefits are significant.  Think about how much time you spend tracking down specific online resources.  WebScrapBook eliminates this hassle by providing a centralized, organized archive.  No more frantic searches through countless bookmarks or browser history.  The extension also supports various browsers, including Chrome, Firefox, Edge, and many others, ensuring compatibility across your development environment.  Plus, the intuitive interface and comprehensive documentation make it a breeze to learn and use, saving you valuable development time.  \n\nBeyond the core functionality, WebScrapBook offers advanced features like annotation and editing capabilities.  You can add notes, highlight key sections, or even modify the saved page directly within the extension.  This is incredibly useful for collaboration, research, and documentation.  The ability to organize your saved pages into folders and tags makes navigation and retrieval even faster.  Essentially, WebScrapBook transforms your browsing experience into a powerful, personalized knowledge management system. \n\nBut it gets even better.  WebScrapBook's architecture is open and extensible. The project is actively maintained and improved upon, with a thriving community of users and developers contributing to its growth. This ensures long-term stability and continued innovation, guaranteeing that this tool remains relevant and powerful for years to come.  So ditch those clunky bookmark managers and embrace the future of web archiving with WebScrapBook. You won't regret it!",
     "key_takeaways": [
-        "Uninstall any app without root access using the power of Shizuku.",
-        "Simple and intuitive user interface for easy app management.",
-        "Saves time and effort compared to traditional methods.",
-        "Provides a clean history of uninstalled apps for debugging purposes.",
-        "Empowers developers with greater control over their Android environment"
+        "Saves webpages faithfully, including images, styles, and interactive elements.",
+        "Supports various archive formats and customizable configurations.",
+        "Provides a centralized, organized archive for easy retrieval of online resources.",
+        "Offers advanced features like annotation, editing, and folder/tag organization.",
+        "Works across multiple browsers (Chrome, Firefox, Edge, etc.)"
     ],
     "tags": [
-        "Android",
-        "App Uninstallation",
-        "Shizuku",
-        "Rootless",
-        "Developer Tool"
+        "webscrapbook",
+        "browser extension",
+        "web archiving",
+        "knowledge management",
+        "developer tools"
     ],
-    "title": "Canta: Rootless App Uninstallation – A Developer's Dream!",
-    "stars": 2273,
-    "forks": 50,
-    "open_issues": 21,
-    "languages": "Kotlin",
-    "readme_summary": "Canta is an Android application that allows users to uninstall other applications without needing root privileges, leveraging Shizuku. It enables users to debloat their devices directly from the device itself, eliminating the need for a PC connection.",
-    "project_id": 684744357,
-    "url": "https://github.com/samolego/Canta",
-    "description": "Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required."
+    "title": "WebScrapBook: Your New Secret Weapon for Archiving and Organizing Web Pages",
+    "stars": 1016,
+    "forks": 129,
+    "open_issues": 33,
+    "languages": "JavaScript",
+    "readme_summary": "WebScrapBook is a browser extension designed to capture web pages faithfully in various archive formats. It allows users to retrieve, organize, annotate, and edit captured web content locally or on a backend server. The project is a successor to the ScrapBook X Firefox add-on.",
+    "project_id": 94889537,
+    "url": "https://github.com/danny0838/webscrapbook",
+    "description": "A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X."
 }
