@@ -1,7 +1,0 @@
-{
-    "project_id": 989814808,
-    "content": "🔥 <b>wrapguard</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTransparently route application network traffic through a WireGuard VPN without requiring container privileges or kernel modules.\n<br>\n✨ <b>Key Features:</b>\n• Pure Userspace operation (no kernel modules or special privileges)\n• Transparent network call interception using LD_PRELOAD\n• Bidirectional connection support (incoming and outgoing)\n• Standard WireGuard configuration file compatibility\n<br>\n📖 <b>Summary:</b>\nWrapGuard is a userspace WireGuard proxy that allows applications to transparently tunnel all network traffic through a WireGuard VPN. It operates without requiring container privileges or kernel modules by intercepting network calls using LD_PRELOAD. It supports both incoming and outgoing connections and uses standard WireGuard configuration files.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/puzed/wrapguard?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/9b3cddd50262d7b9d5bb81c9b3b9a1a51301e2e76b4252042b2cc931c30926c1/puzed/wrapguard",
-    "platform": "telegram",
-    "quality_score": 0.5499999999999999
-}
