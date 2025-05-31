@@ -1,7 +1,0 @@
-{
-    "project_id": 441537080,
-    "content": "✨ <b>shellfirm</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nPreventing accidental or unintended execution of dangerous shell commands.\n<br>\n✨ <b>Key Features:</b>\n• Intercepts risky shell commands.\n• Prompts users with a challenge for verification.\n• Provides warnings about potentially dangerous actions.\n• Supports Zsh and Bash shells.\n• Offers customizable risky patterns (though not explicitly stated, it's implied by 'defined by you')\n<br>\n📖 <b>Summary:</b>\nShellfirm is a security tool that intercepts potentially risky shell commands and prompts users with a verification challenge before execution. It acts as a 'captcha' for the terminal, helping to prevent accidental data loss or system damage. It supports Zsh and Bash, providing a safeguard against common mistakes like `rm -rf *` or `git reset --hard`.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kaplanelad/shellfirm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/b2275fd7fe002d171cc68f20fa577af623b1348631c178546dcb53ca76cf4d38/kaplanelad/shellfirm",
-    "platform": "telegram",
-    "quality_score": 0.8500000000000001
-}
