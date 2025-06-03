@@ -1,44 +1,51 @@
 [
     {
-        "project_id": 1620438,
-        "content": "🌟 <b>Redirector</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRedirecting URLs based on regular expression or wildcard patterns in web browsers.\n<br>\n✨ <b>Key Features:</b>\n• URL redirection based on regex patterns\n• Client-side mod_rewrite functionality\n• Browser extension support (Firefox, Chrome, Opera, Edge)\n• De-mobilizer\n• AMP redirect\n<br>\n📖 <b>Summary:</b>\nThe Redirector browser extension allows users to redirect URLs based on defined regex or wildcard patterns, functioning as a client-side mod_rewrite. It supports multiple browsers and provides examples for common use cases like de-mobilizing websites, escaping doubleclick tracking, redirecting AMP pages, and customizing DuckDuckGo !bangs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/einaregilsson/Redirector?embed=0\">View Project</a>\n• <a href=\"http://einaregilsson.com/redirector/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e98d11bad73ad7089ba0ea53e54e10dcd3dde688ced1b417ac1d3b355d036e9b/einaregilsson/Redirector",
+        "project_id": 988575614,
+        "content": "🌟 <b>videoeditor</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nVideo editing application development.\n<br>\n✨ <b>Key Features:</b>\n• Non Linear Video Editing\n• Multi-track Support\n• Live Preview\n• Export Video\n<br>\n📖 <b>Summary:</b>\nThe videoeditor repository provides a React-based video editing application leveraging Remotion and TypeScript. It offers features such as non-linear video editing, multi-track support, live preview, and video export, aiming to be an open-source alternative to commercial video editors.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/robinroy03/videoeditor?embed=0\">View Project</a>\n• <a href=\"https://discord.com/invite/GSknuxubZK?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/bf86d8db7f9174833b623becb38887529f637d43af86639df6f146fdbd80938f/robinroy03/videoeditor",
         "platform": "telegram",
-        "quality_score": 0.6000000000000001
+        "quality_score": 0.6499999999999999
     },
     {
-        "project_id": 950065302,
-        "content": "🚀 <b>bambot</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying with and developing open-source, low-cost AI robots.\n<br>\n✨ <b>Key Features:</b>\n• Open-source AI robots\n• Low-cost AI robots\n<br>\n📖 <b>Summary:</b>\nBambot is a project focused on providing open-source designs for low-cost AI robots. The repository aims to enable users to build and experiment with AI robotics. It emphasizes accessibility and affordability in the field of AI robot development.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/timqian/bambot?embed=0\">View Project</a>\n• <a href=\"https://bambot.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/66d2a94c29aa1dd115ec37b794f6f7a72264c91eee5c7a8fa4acb69cb05d3f45/timqian/bambot",
+        "project_id": 829119123,
+        "content": "✨ <b>Termux-Udocker</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning Docker containers on Android devices using Termux without requiring root privileges or a virtual machine.\n<br>\n✨ <b>Key Features:</b>\n• Runs Docker images in Termux without root access.\n• Utilizes Udocker for user-space containerization.\n<br>\n📖 <b>Summary:</b>\nTermux-Udocker enables running Docker containers on Android devices within the Termux environment. It leverages Udocker to provide a user-space containerization solution, eliminating the need for root access or a Qemu virtual machine. This approach results in significantly faster performance compared to traditional methods, making it suitable for running various applications like web servers, home automation systems, and development tools directly on your Android device.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/George-Seven/Termux-Udocker?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/317158865248804bf9d89b13cdec1448c1122514c36e90b96b6a9ddad8d38f8b/George-Seven/Termux-Udocker",
         "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 948991118,
-        "content": "🔥 <b>urusai</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/calpa/urusai?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/736d72c6916bc89051a2ab2fd13d5fd8049eac78cd43c568f54f61a72d897834/calpa/urusai",
+        "project_id": 168782501,
+        "content": "✨ <b>kanidm</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a complete identity provider solution for authenticating and storing identities, suitable for various environments from home labs to enterprises.\n<br>\n✨ <b>Key Features:</b>\n• Passkeys (WebAuthn) for secure cryptographic authentication\n• OAuth2/OIDC authentication provider for web SSO\n• Application Portal for easy access to linked applications\n<br>\n📖 <b>Summary:</b>\nKanidm is an identity management platform written in Rust that aims to simplify and secure authentication and identity storage. It offers a broad set of features, including WebAuthn, OAuth2/OIDC, RADIUS, SSH key distribution, and LDAP gateway, intending to be a comprehensive solution without needing external components like Keycloak.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kanidm/kanidm?embed=0\">View Project</a>\n• <a href=\"https://kanidm.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/168782501/7aea5700-66f9-11eb-83df-fbe430838fc7",
         "platform": "telegram",
-        "quality_score": 0.6
+        "quality_score": 0.85
     },
     {
-        "project_id": 915198910,
-        "content": "🔥 <b>cursor-free-vip</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo bypass the free trial limitations of the Cursor AI IDE by automatically resetting the machine ID, allowing users to access Pro features without payment.\n<br>\n✨ <b>Key Features:</b>\n• Resets Cursor AI MachineID\n• Bypasses higher token limit\n• Supports Windows, macOS, and Linux\n• Multi-language support (English, 简体中文, 繁體中文, Vietnamese)\n<br>\n📖 <b>Summary:</b>\nThis repository provides a tool to reset the Cursor AI IDE's machine ID, effectively bypassing free trial limits and enabling access to Pro features. It supports Windows, macOS, and Linux operating systems and offers multi-language support. The tool is intended for educational purposes and encourages users to support the original Cursor AI project.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yeongpin/cursor-free-vip?embed=0\">View Project</a>\n• <a href=\"https://www.cursor.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a5ea10bb4b4c824d3c7036b221be0215de68703378e692ba42af89a9f5c00a5c/yeongpin/cursor-free-vip",
+        "project_id": 173382880,
+        "content": "✨ <b>AutoRecon</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nNetwork reconnaissance and automated enumeration of services in CTFs, penetration testing environments (e.g., OSCP), and real-world engagements.\n<br>\n✨ <b>Key Features:</b>\n• Supports multiple targets (IP addresses, IP ranges, hostnames, IPv6)\n• Concurrent scanning using multiple processors\n• Advanced plugin system for creating new scans\n• Customizable port and service scanning plugins\n<br>\n📖 <b>Summary:</b>\nAutoRecon is a multi-threaded network reconnaissance tool designed to automate service enumeration. It performs port scans and launches further enumeration scans based on the detected services. The tool is highly configurable and aims to save time in CTFs, penetration testing, and real-world engagements by automating the initial reconnaissance phase.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Tib3rius/AutoRecon?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/11da5e762f34bd740959ede98e2adf2ec16ac1574d00b11a68ac558b84a4fe41/Tib3rius/AutoRecon",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 908589694,
-        "content": "🌟 <b>meeting-minutes</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Zackriya-Solutions/meeting-minutes?embed=0\">View Project</a>\n• <a href=\"https://meetily.zackriya.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/908589694/0e959177-b65c-4f87-b9fd-759b0f1a299d",
+        "project_id": 924810699,
+        "content": "✨ <b>linkook</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDiscovering linked social accounts and associated emails across multiple platforms using a single username for OSINT investigations.\n<br>\n✨ <b>Key Features:</b>\n• Search social media accounts across multiple platforms based on a given username.\n• Further retrieve interlinked social accounts, usernames, emails, and more.\n<br>\n📖 <b>Summary:</b>\nLinkook is an OSINT tool designed to uncover connections between social media accounts and associated email addresses using a single username. It allows users to search across multiple platforms, retrieve interlinked information, and check for data breaches using the HudsonRock database. The tool also supports exporting data in a Neo4j-friendly format for visual analysis of the relationships.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/JackJuly/linkook?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d5c08369d4969cffd55be5ef853a40a6112115cc9cd440ca34b54be618f624f2/JackJuly/linkook",
         "platform": "telegram",
-        "quality_score": 0.7500000000000001
+        "quality_score": 0.75
     },
     {
-        "project_id": 107286889,
-        "content": "✨ <b>croc</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/schollz/croc?embed=0\">View Project</a>\n• <a href=\"https://schollz.com/software/croc6?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/107286889/da3aec00-a78e-11e9-8627-46ec1ac39ae5",
+        "project_id": 918932603,
+        "content": "🔥 <b>UI-TARS-desktop</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nControl your computer using natural language.\n<br>\n✨ <b>Key Features:</b>\n• Natural language control powered by Vision-Language Model\n• Screenshot and visual recognition support\n• Precise mouse and keyboard control\n• Cross-platform support (Windows/MacOS/Browser)\n• Real-time feedback and status display\n<br>\n📖 <b>Summary:</b>\nUI-TARS Desktop is a GUI agent application that allows users to control their computer using natural language. It leverages a Vision-Language Model for screenshot and visual recognition, enabling precise mouse and keyboard control across multiple platforms. The application offers real-time feedback and ensures privacy through local processing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bytedance/UI-TARS-desktop?embed=0\">View Project</a>\n• <a href=\"https://agent-tars.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/94e01730cc2c8316a8cf502b52eaac7e54de95fdb24174be81a569983032eed1/bytedance/UI-TARS-desktop",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 477896448,
+        "content": "🌟 <b>pydantic-core</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nProvides core validation logic for the pydantic library, enabling fast and reliable data validation and serialization.\n<br>\n✨ <b>Key Features:</b>\n• Fast data validation and serialization\n• Core functionality for pydantic\n• Direct JSON validation\n• Written in Rust for performance\n<br>\n📖 <b>Summary:</b>\nPydantic-core is a Rust-based library that provides the core validation and serialization functionality for Pydantic. It offers significant performance improvements over previous versions of Pydantic and allows for direct validation of JSON data. While intended to be used primarily through Pydantic, it can also be used directly for advanced use cases.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pydantic/pydantic-core?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/80d94b553b179aa10210c8e096f287569bfe2044f104db3f95eef2e5f341b0d2/pydantic/pydantic-core",
+        "platform": "telegram",
+        "quality_score": 0.95
     }
 ]
