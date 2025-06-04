@@ -1,7 +1,0 @@
-{
-    "project_id": 1213463,
-    "content": "💡 <b>cgroup-utils</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and monitoring Linux control groups for resource management and process isolation.\n<br>\n✨ <b>Key Features:</b>\n• Provides utility tools for managing Linux control groups (cgroups).\n• Offers commands like `cgutil top` for monitoring cgroup activities.\n• Includes commands for configuring cgroups (`cgutil configs`), managing events (`cgutil event`), and listing processes within cgroups (`cgutil pgrep`).\n<br>\n📖 <b>Summary:</b>\ncgroup-utils provides a suite of command-line tools for interacting with Linux control groups. It enables users to monitor resource usage, configure cgroup settings, manage processes within cgroups, and visualize the cgroup hierarchy. The utilities simplify cgroup management for both system administrators and developers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/peo3/cgroup-utils?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/2a7b21f2d7fa417c40cbbd4fbdee33b878648e7e629f2a29f66380c9857712f5/peo3/cgroup-utils",
-    "platform": "telegram",
-    "quality_score": 0.55
-}
