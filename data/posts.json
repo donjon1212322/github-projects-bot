@@ -1,72 +1,65 @@
 [
     {
-        "project_id": 262382962,
-        "content": "🌟 <b>shutter-encoder</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nProfessional video compression for a wide range of users.\n<br>\n✨ <b>Key Features:</b>\n• Video compression\n• FFmpeg-based\n• GUI for ease of use\n• Cross-platform (Java)\n<br>\n📖 <b>Summary:</b>\nShutter Encoder is a professional-grade video compression tool built upon FFmpeg, designed to be accessible to all users. It provides a graphical user interface (GUI) for simplifying the video compression process. The application is written in Java.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/paulpacifico/shutter-encoder?embed=0\">View Project</a>\n• <a href=\"https://www.shutterencoder.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/262382962/a7a2f180-af11-11ea-95ae-b0f450259b3b",
+        "project_id": 630196988,
+        "content": "💡 <b>wl-kbptr</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nControl the mouse pointer with the keyboard on Wayland compositors.\n<br>\n✨ <b>Key Features:</b>\n• Moves mouse pointer with keyboard\n• Supports multiple modes: floating, tile, bisect, split, click\n• Configurable selection areas\n• Supports screen capture for target detection (opencv)\n• Works with Wayland compositors (Sway, Hyprland, Niri, dwl)\n<br>\n📖 <b>Summary:</b>\nwl-kbptr is a utility that enables users to control the mouse pointer using the keyboard on Wayland. It offers various modes for selecting target areas, including floating, tile, bisect, split, and click, and supports compositors like Sway and Hyprland. It can also use screen capture for automatic target detection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/moverest/wl-kbptr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1b11088a358f89602f478c3b69699b9b63baed5db3ce3fca37eb249495554b1e/moverest/wl-kbptr",
         "platform": "telegram",
-        "quality_score": 0.6499999999999999
+        "quality_score": 0.75
     },
     {
-        "project_id": 689924323,
-        "content": "✨ <b>OsintTube</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nYouTube OSINT analysis\n<br>\n✨ <b>Key Features:</b>\n• Retrieves channel description\n• Retrieves channel location\n• Retrieves total number of videos\n• Retrieves number of subscribers\n• Retrieves total channel views\n<br>\n📖 <b>Summary:</b>\nOsintTube is a Python-based tool designed for performing Open Source Intelligence (OSINT) analysis on YouTube channels. It provides an interactive shell to extract various data points, including channel description, location, video count, subscriber count, views, estimated video duration, join date, category, and estimated earnings. The tool aims to simplify the process of gathering information from YouTube channels for investigative purposes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rdWei/OsintTube?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d7e1d33fe8761af152581bbba13c4bbcdb3e111c26421174241c5e700a2edec1/rdWei/OsintTube",
+        "project_id": 358446986,
+        "content": "🚀 <b>waydroid</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning Android applications on GNU/Linux systems\n<br>\n✨ <b>Key Features:</b>\n• Container-based approach to run Android on Linux\n• Uses Linux namespaces for isolation\n• Direct hardware access for Android system\n• Based on LineageOS\n<br>\n📖 <b>Summary:</b>\nWaydroid enables users to run a complete Android system within a container on a GNU/Linux operating system. It leverages Linux namespaces to provide isolation and direct hardware access for the Android environment. The system image is based on LineageOS, allowing users to run Android applications seamlessly on their Linux desktops.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/waydroid/waydroid?embed=0\">View Project</a>\n• <a href=\"https://waydro.id?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8976e357604c06fb29eb6f92dfecbf1be48ff1c4be03ed9ef121a60e24ea918f/waydroid/waydroid",
         "platform": "telegram",
-        "quality_score": 0.15
+        "quality_score": 0.9000000000000001
     },
     {
-        "project_id": 791194177,
-        "content": "✨ <b>tldx</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nBrainstorming and finding available domain names quickly.\n<br>\n✨ <b>Key Features:</b>\n• Smart keyword-based domain permutations (prefixes, suffixes, TLDs)\n• Fast and concurrent WHOIS availability checks\n• Streams results as they're found\n• Optional filtering by domain length\n<br>\n📖 <b>Summary:</b>\ntldx is a command-line tool designed to help users quickly brainstorm and identify available domain names. It achieves this by generating domain permutations based on keywords, prefixes, suffixes, and TLDs, and then concurrently checking their availability using WHOIS lookups. The tool streams results as they are found and offers options for filtering by domain length.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/brandonyoungdev/tldx?embed=0\">View Project</a>\n• <a href=\"https://brandonyoung.dev/blog/introducing-tldx/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5e472825355de015fbff23aa870d9948cd000025ecb59b12ea40f4c413a25a94/brandonyoungdev/tldx",
-        "platform": "telegram",
-        "quality_score": 0.7499999999999999
-    },
-    {
-        "project_id": 863835427,
-        "content": "🔥 <b>pangolin</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely expose private resources on distributed networks through a tunneled reverse proxy with identity and access control.\n<br>\n✨ <b>Key Features:</b>\n• Reverse Proxy Through WireGuard Tunnel\n• Identity & Access Management\n• Simple Dashboard UI\n• Easy Deployment\n• Modular Design\n<br>\n📖 <b>Summary:</b>\nPangolin is a self-hosted tunneled reverse proxy server designed to securely expose private resources on distributed networks. It provides features like reverse proxy through WireGuard, identity and access management, a simple dashboard UI, and easy deployment options. Pangolin acts as a central hub, connecting isolated networks through encrypted tunnels, enabling easy access to remote services without opening ports.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/fosrl/pangolin?embed=0\">View Project</a>\n• <a href=\"https://fossorial.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/18223ff2ea34ecfb5d22cbec7a8bba87b4f024be9be600b0d4f635f230406131/fosrl/pangolin",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 69675577,
-        "content": "🌟 <b>exporter_exporter</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a single entry point for querying multiple Prometheus exporters, simplifying firewall configurations and enhancing security.\n<br>\n✨ <b>Key Features:</b>\n• Reverse proxy for Prometheus exporters\n• Single port access for multiple exporters\n• TLS with client certificate authentication\n• Metrics verification\n• Script execution for metrics generation\n<br>\n📖 <b>Summary:</b>\nThe exporter_exporter repository offers a reverse proxy solution tailored for Prometheus exporters. It consolidates access to multiple exporters through a single port, simplifying firewall management and providing TLS encryption. Additionally, it verifies metrics and supports script execution for generating custom metrics, making it a versatile tool for monitoring infrastructure.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/QubitProducts/exporter_exporter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/85809dbbc08a23625b9739d61eb91157e15b70c4dc070fefecd40f4ff30bbb1d/QubitProducts/exporter_exporter",
+        "project_id": 994310603,
+        "content": "🔥 <b>gmail-tui</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAccessing and managing Gmail through a terminal user interface.\n<br>\n✨ <b>Key Features:</b>\n• Compose email\n• Read email\n• Reply to email\n<br>\n📖 <b>Summary:</b>\nThe gmail-tui repository provides a terminal-based email client for Gmail, written in Go. It allows users to compose, read, and reply to emails directly from their terminal. The project is still under development, focusing on improving functionality and user experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rdx40/gmail-tui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f4b8379936af9b8b1d1597de23ba9b72d953ed6f45a4a850f6658e59b32c8964/rdx40/gmail-tui",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 774497032,
-        "content": "🚀 <b>PraisonAI</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating and solving problems ranging from simple tasks to complex challenges using multi-agent LLM systems.\n<br>\n✨ <b>Key Features:</b>\n• Automated AI Agents Creation\n• Self Reflection AI Agents\n• Reasoning AI Agents\n• Multi Modal AI Agents\n• Multi Agent Collaboration\n<br>\n📖 <b>Summary:</b>\nPraisonAI is a production-ready Multi AI Agents framework designed for building and managing multi-agent LLM systems. It offers a low-code solution that emphasizes simplicity, customization, and effective human-agent collaboration. The framework supports features like automated agent creation, self-reflection, reasoning, multi-modal capabilities, and integration with tools like LangChain.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MervinPraison/PraisonAI?embed=0\">View Project</a>\n• <a href=\"https://docs.praison.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f9f80a9422b2e16344bc3a67a77a3c8f3769e83838de95b5af56a2d19b3cc9a6/MervinPraison/PraisonAI",
+        "project_id": 742997624,
+        "content": "🔥 <b>SploitScan</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nIdentifying exploits for known vulnerabilities and assessing their exploitation probability.\n<br>\n✨ <b>Key Features:</b>\n• CVE Information Retrieval\n• EPSS Integration\n• Public Exploits Aggregation\n• CISA KEV Integration\n• AI-Powered Risk Assessment\n<br>\n📖 <b>Summary:</b>\nSploitScan is a cybersecurity utility designed to streamline the process of identifying exploits for known vulnerabilities. It aggregates data from various sources, including ExploitDB, CISA KEV, and HackerOne, and provides AI-powered risk assessments to help prioritize patching efforts. The tool also supports importing vulnerability scanner results and offers flexible export options.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/xaitax/SploitScan?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d70fa319c9be5220eea47b0086d5f6f1c65b28e0b187e25d87a5be330239c025/xaitax/SploitScan",
         "platform": "telegram",
-        "quality_score": 0.9
+        "quality_score": 0.75
     },
     {
-        "project_id": 1213463,
-        "content": "💡 <b>cgroup-utils</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and monitoring Linux control groups for resource management and process isolation.\n<br>\n✨ <b>Key Features:</b>\n• Provides utility tools for managing Linux control groups (cgroups).\n• Offers commands like `cgutil top` for monitoring cgroup activities.\n• Includes commands for configuring cgroups (`cgutil configs`), managing events (`cgutil event`), and listing processes within cgroups (`cgutil pgrep`).\n<br>\n📖 <b>Summary:</b>\ncgroup-utils provides a suite of command-line tools for interacting with Linux control groups. It enables users to monitor resource usage, configure cgroup settings, manage processes within cgroups, and visualize the cgroup hierarchy. The utilities simplify cgroup management for both system administrators and developers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/peo3/cgroup-utils?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2a7b21f2d7fa417c40cbbd4fbdee33b878648e7e629f2a29f66380c9857712f5/peo3/cgroup-utils",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 79252808,
-        "content": "✨ <b>js-lingui</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nInternationalizing JavaScript applications for global audiences.\n<br>\n✨ <b>Key Features:</b>\n• Clean and readable code with ICU MessageFormat\n• Universal usage across JavaScript projects, including React and React Native\n• Full rich-text support with React components\n• Powerful tooling for managing i18n workflow (CLI, Vite Plugin, ESLint Plugin)\n<br>\n📖 <b>Summary:</b>\nLingui is a JavaScript internationalization framework that provides tools and libraries for translating applications. It supports ICU MessageFormat, React components, and offers tooling for managing the i18n workflow. Lingui aims to be lightweight, unopinionated, and compatible with existing i18n solutions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lingui/js-lingui?embed=0\">View Project</a>\n• <a href=\"https://lingui.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5ab904cbcd8e3370e4e8bad4168e828ebee2a458b38ec648207b6b3c54418fe7/lingui/js-lingui",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 116014572,
-        "content": "🔥 <b>whatsapp-web-reveng</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nReverse engineering the WhatsApp Web API to create a custom client.\n<br>\n✨ <b>Key Features:</b>\n• Complete description and re-implementation of the WhatsApp Web API\n• WebSocket communication\n• Nix environment support\n• JavaScript decryption routine\n• Python dependencies for encryption and QR code generation\n<br>\n📖 <b>Summary:</b>\nThis repository provides a reverse-engineered implementation of the WhatsApp Web API, focusing on WebSocket communication and encryption. It aims to provide a complete description of the API, enabling the development of custom WhatsApp Web clients. The project includes tools and instructions for setting up the environment using Nix or bare metal installations with Python and Node.js.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sigalor/whatsapp-web-reveng?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/029951aaff1e748ee575c2f37f4405d27672d9f560d6feb590f43811c1336eda/sigalor/whatsapp-web-reveng",
+        "project_id": 369583524,
+        "content": "🚀 <b>nexfil</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/thewhiteh4t/nexfil?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/369583524/da129100-bb5b-11eb-9b9f-141be39be924",
         "platform": "telegram",
         "quality_score": 0.45
     },
     {
-        "project_id": 972282547,
-        "content": "🔥 <b>ipspot</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRetrieving the current system's IP address and location information.\n<br>\n✨ <b>Key Features:</b>\n• Retrieves system's IP address\n• Supports public and private IPv4 detection\n• Uses multiple API providers with fallback mechanism\n• Provides geolocation information\n<br>\n📖 <b>Summary:</b>\nIPSpot is a Python library designed for retrieving a system's IP address and associated geolocation data. It supports both public and private IPv4 addresses, utilizing multiple API providers to ensure reliability. The tool offers a simple and modular approach to IP and geolocation lookups.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/openscilab/ipspot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9ef89926ab3e339d4e31666ea74dc2ce80575011671d153dea7d4e9ea760bc69/openscilab/ipspot",
+        "project_id": 130928221,
+        "content": "🔥 <b>glauth</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/glauth/glauth?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4a0050905e711818c334642989b3f22fe4e7032008048aff025a406fecb44bea/glauth/glauth",
         "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 428292281,
+        "content": "✨ <b>IOPaint</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Sanster/IOPaint?embed=0\">View Project</a>\n• <a href=\"https://www.iopaint.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/428292281/0a45e485-0438-4736-a058-680dfb360c0b",
+        "platform": "telegram",
+        "quality_score": 0.7500000000000001
+    },
+    {
+        "project_id": 388102496,
+        "content": "🔥 <b>PDF-Handling-With-Python</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/prajwollamichhane11/PDF-Handling-With-Python?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/eadbbec28fbf46fa1cad42604b823c8995b2edc6c9bff46af7cd931ec66dfdb9/prajwollamichhane11/PDF-Handling-With-Python",
+        "platform": "telegram",
+        "quality_score": 0.45
+    },
+    {
+        "project_id": 877675290,
+        "content": "🚀 <b>awesome-free-apps</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDiscovering free and useful applications for various platforms.\n<br>\n✨ <b>Key Features:</b>\n• Curated list of free apps\n• Categorized by platform (Windows, macOS, Linux, Android, iOS)\n• Filters for open-source and recommended apps\n• Categorized by function (Audio, Browsers, Communication, etc.)\n<br>\n📖 <b>Summary:</b>\nThis repository provides a curated list of free applications for PC and mobile devices, categorized by platform and function. It offers filters to easily find open-source or recommended apps, making it a valuable resource for users seeking free alternatives to paid software.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Axorax/awesome-free-apps?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/877675290/46ff54a2-f146-4cda-8a08-05baaa081f32",
+        "platform": "telegram",
+        "quality_score": 0.85
     }
 ]
