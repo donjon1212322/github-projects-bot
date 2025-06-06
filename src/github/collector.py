@@ -58,7 +58,7 @@ async def fetch_telegram_posts(api_id, api_hash, channel_username, session_strin
             elif message.date and message.date <= last_day:
                 logging.info(f"Достигнут предел в 24 часов на сообщении от {message.date}")
                 break # Если сообщение старше двух суток, то выходим из цикла
-            if len(messages) > 10:
+            if len(messages) > 4:
                 logging.info("Достигнут лимит в 10 сообщений, прекращаем получение")
                 break # Ограничение на количество сообщений
         
