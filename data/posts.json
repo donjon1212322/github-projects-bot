@@ -1,65 +1,79 @@
 [
     {
-        "project_id": 630196988,
-        "content": "💡 <b>wl-kbptr</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nControl the mouse pointer with the keyboard on Wayland compositors.\n<br>\n✨ <b>Key Features:</b>\n• Moves mouse pointer with keyboard\n• Supports multiple modes: floating, tile, bisect, split, click\n• Configurable selection areas\n• Supports screen capture for target detection (opencv)\n• Works with Wayland compositors (Sway, Hyprland, Niri, dwl)\n<br>\n📖 <b>Summary:</b>\nwl-kbptr is a utility that enables users to control the mouse pointer using the keyboard on Wayland. It offers various modes for selecting target areas, including floating, tile, bisect, split, and click, and supports compositors like Sway and Hyprland. It can also use screen capture for automatic target detection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/moverest/wl-kbptr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1b11088a358f89602f478c3b69699b9b63baed5db3ce3fca37eb249495554b1e/moverest/wl-kbptr",
+        "project_id": 995379598,
+        "content": "💡 <b>3d-model-playground</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nInteractive 3D model manipulation using hand gestures and voice commands.\n<br>\n✨ <b>Key Features:</b>\n• Real-time 3D model control\n• Hand gesture recognition\n• Voice command recognition\n• GLTF model import\n• Interactive web application\n<br>\n📖 <b>Summary:</b>\nThe 3D Model Playground is an interactive web application that allows users to control 3D models in real-time using hand gestures and voice commands. It leverages Three.js for 3D rendering, MediaPipe for computer vision, and the Web Speech API for voice recognition, enabling users to manipulate and animate 3D models through intuitive interactions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/collidingScopes/3d-model-playground?embed=0\">View Project</a>\n• <a href=\"https://collidingscopes.github.io/3d-model-playground/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9fe7f9ca60123bacb390ae34a96a30f6a2ec9c1ce5f018ac3ee462c71c83e9fa/collidingScopes/3d-model-playground",
         "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 1.0
     },
     {
-        "project_id": 358446986,
-        "content": "🚀 <b>waydroid</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning Android applications on GNU/Linux systems\n<br>\n✨ <b>Key Features:</b>\n• Container-based approach to run Android on Linux\n• Uses Linux namespaces for isolation\n• Direct hardware access for Android system\n• Based on LineageOS\n<br>\n📖 <b>Summary:</b>\nWaydroid enables users to run a complete Android system within a container on a GNU/Linux operating system. It leverages Linux namespaces to provide isolation and direct hardware access for the Android environment. The system image is based on LineageOS, allowing users to run Android applications seamlessly on their Linux desktops.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/waydroid/waydroid?embed=0\">View Project</a>\n• <a href=\"https://waydro.id?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8976e357604c06fb29eb6f92dfecbf1be48ff1c4be03ed9ef121a60e24ea918f/waydroid/waydroid",
+        "project_id": 993002543,
+        "content": "🌟 <b>PhoneAgent</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating tasks on an iPhone using OpenAI models, spanning across multiple apps.\n<br>\n✨ <b>Key Features:</b>\n• Uses OpenAI models to automate tasks on an iPhone.\n• Can interact with apps by tapping, swiping, scrolling, and typing.\n• Allows voice control via microphone.\n• Offers an Always On mode for continuous listening.\n• Securely stores OpenAI API key on the device.\n<br>\n📖 <b>Summary:</b>\nPhoneAgent is an iOS application that leverages OpenAI models to automate tasks on an iPhone. It interacts with apps through accessibility features, allowing it to tap, swipe, scroll, type, and open apps based on user prompts. The application also supports voice control and an 'Always On' mode for continuous listening, making it possible to automate tasks hands-free.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rounak/PhoneAgent?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/88ff413259f21ee035aa466b2c2a657c559f15ae5d5eb5eb5c864e37c464a3db/rounak/PhoneAgent",
+        "platform": "telegram",
+        "quality_score": 0.6499999999999999
+    },
+    {
+        "project_id": 951534260,
+        "content": "🔥 <b>rf-detr</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time object detection tasks requiring high accuracy and speed, suitable for edge deployment.\n<br>\n✨ <b>Key Features:</b>\n• Real-time object detection\n• Transformer-based architecture\n• SOTA performance on COCO benchmark\n• Competitive performance at base sizes\n• State-of-the-art performance on RF100-VL benchmark\n<br>\n📖 <b>Summary:</b>\nRF-DETR is a real-time object detection model architecture that achieves state-of-the-art performance on the COCO and RF100-VL benchmarks. It is designed for fine-tuning and can be deployed on edge devices using Roboflow Inference, making it suitable for applications requiring both accuracy and real-time performance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/roboflow/rf-detr?embed=0\">View Project</a>\n• <a href=\"https://blog.roboflow.com/rf-detr/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/736d4a69fdccb8821f7f83f850234830d486d0f79b36c050ad4f414957cd6028/roboflow/rf-detr",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 973180254,
+        "content": "🚀 <b>stagewise</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nConnecting a browser toolbar to code AI agents in a code editor, allowing developers to provide real-time, browser-powered context to their AI agents.\n<br>\n✨ <b>Key Features:</b>\n• Connects frontend UI to code AI agents\n• Allows commenting on any DOM element\n• Sends DOM elements, screenshots, and metadata to AI agent\n<br>\n📖 <b>Summary:</b>\nStagewise is a browser toolbar that bridges the gap between frontend UIs and code AI agents. It allows developers to select and comment on any DOM element, sending relevant context like DOM elements, screenshots, and metadata to the AI agent. This eliminates the need for manually providing file paths and other contextual information, streamlining the AI-assisted development process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/stagewise-io/stagewise?embed=0\">View Project</a>\n• <a href=\"https://stagewise.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/289e13c39c6aedfce98e33d265e45f653cf1e817a57371aa70e8480004acc37a/stagewise-io/stagewise",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 748568485,
+        "content": "🌟 <b>whoBIRD</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nIdentifying bird sounds in real-time using an Android app, without requiring an internet connection.\n<br>\n✨ <b>Key Features:</b>\n• Real-time bird sound identification\n• Offline functionality (no internet required)\n• Database of over 6,000 bird species\n• Customization options (ignore date/place, show images, audio source selection, high pass filter, threshold adjustment, weighted meta model)\n• Option to save .wav files of detections\n<br>\n📖 <b>Summary:</b>\nThe whoBIRD app is an Android application that identifies bird sounds in real-time using the BirdNET framework. It boasts a database of over 6,000 bird species and operates offline. The app offers various customization options, including the ability to filter noise, adjust detection thresholds, and save audio recordings.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/woheller69/whoBIRD?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b13bf5ed243a7e92174a1c5b2a47163b2e096432ad41211d032585477ec7810e/woheller69/whoBIRD",
+        "platform": "telegram",
+        "quality_score": 0.8
+    },
+    {
+        "project_id": 10332822,
+        "content": "🚀 <b>calibre</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and converting e-books across various formats and devices.\n<br>\n✨ <b>Key Features:</b>\n• E-book management (view, convert, edit, catalog)\n• E-book format conversion\n• Communication with e-book reader devices\n• Metadata fetching from the internet\n• Newspaper downloading and conversion to e-books\n<br>\n📖 <b>Summary:</b>\nCalibre is a comprehensive e-book manager that allows users to view, convert, edit, and catalog e-books in various formats. It supports communication with e-book readers, fetches metadata from the internet, and can download and convert newspapers into e-books. Calibre is a cross-platform application available on Linux, Windows, and macOS.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kovidgoyal/calibre?embed=0\">View Project</a>\n• <a href=\"https://calibre-ebook.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ba046025ee3d3b0809f6e8f3e2b1bf57b82f4f9434268318888e5d9b65fbfbe0/kovidgoyal/calibre",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 814028199,
+        "content": "🚀 <b>learn-agentic-ai</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nLearning and implementing Agentic AI systems using Dapr and related technologies for scalable agent orchestration.\n<br>\n✨ <b>Key Features:</b>\n• Dapr Agentic Cloud Ascent (DACA) Design Pattern\n• Agent-Native Cloud Technologies\n• OpenAI Agents SDK integration\n• Knowledge Graph utilization\n• Kubernetes deployment\n<br>\n📖 <b>Summary:</b>\nThe repository provides resources for learning Agentic AI development using the Dapr Agentic Cloud Ascent (DACA) design pattern. It focuses on building scalable AI agent systems leveraging technologies like Dapr, Kubernetes, and the OpenAI Agents SDK. The primary goal is to enable developers to design AI agents capable of handling a large number of concurrent users with minimal resources.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/panaversity/learn-agentic-ai?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9e505bb6cdef71fe8bfc6ac099cd1b13d437d609eb75a0487b22ece771bd1972/panaversity/learn-agentic-ai",
         "platform": "telegram",
         "quality_score": 0.9000000000000001
     },
     {
-        "project_id": 994310603,
-        "content": "🔥 <b>gmail-tui</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAccessing and managing Gmail through a terminal user interface.\n<br>\n✨ <b>Key Features:</b>\n• Compose email\n• Read email\n• Reply to email\n<br>\n📖 <b>Summary:</b>\nThe gmail-tui repository provides a terminal-based email client for Gmail, written in Go. It allows users to compose, read, and reply to emails directly from their terminal. The project is still under development, focusing on improving functionality and user experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rdx40/gmail-tui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f4b8379936af9b8b1d1597de23ba9b72d953ed6f45a4a850f6658e59b32c8964/rdx40/gmail-tui",
+        "project_id": 14508450,
+        "content": "✨ <b>gophish</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSimulating phishing attacks for security awareness training and penetration testing.\n<br>\n✨ <b>Key Features:</b>\n• Phishing campaign setup and execution\n• Security awareness training\n• Cross-platform support (Windows, Mac, Linux)\n• Docker support\n<br>\n📖 <b>Summary:</b>\nGophish is an open-source phishing toolkit designed for businesses and penetration testers. It enables users to quickly set up and execute phishing engagements to assess security vulnerabilities and conduct security awareness training. The toolkit supports multiple platforms and can be deployed via Docker.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gophish/gophish?embed=0\">View Project</a>\n• <a href=\"https://getgophish.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b71642208d084a5db7280330113bf6c8edc88966d97f69c65c3f1b85f0c99e9b/gophish/gophish",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.55
     },
     {
-        "project_id": 742997624,
-        "content": "🔥 <b>SploitScan</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nIdentifying exploits for known vulnerabilities and assessing their exploitation probability.\n<br>\n✨ <b>Key Features:</b>\n• CVE Information Retrieval\n• EPSS Integration\n• Public Exploits Aggregation\n• CISA KEV Integration\n• AI-Powered Risk Assessment\n<br>\n📖 <b>Summary:</b>\nSploitScan is a cybersecurity utility designed to streamline the process of identifying exploits for known vulnerabilities. It aggregates data from various sources, including ExploitDB, CISA KEV, and HackerOne, and provides AI-powered risk assessments to help prioritize patching efforts. The tool also supports importing vulnerability scanner results and offers flexible export options.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/xaitax/SploitScan?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d70fa319c9be5220eea47b0086d5f6f1c65b28e0b187e25d87a5be330239c025/xaitax/SploitScan",
+        "project_id": 776991286,
+        "content": "🚀 <b>chiasmodon</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nOSINT (Open Source Intelligence) gathering for domain reconnaissance and attack surface analysis.\n<br>\n✨ <b>Key Features:</b>\n• Domain information gathering\n• Google Play application information retrieval\n• Credential searching (email, username, password)\n• IP address information retrieval\n• CIDR block information retrieval\n<br>\n📖 <b>Summary:</b>\nChiasmodon is an OSINT tool designed to gather information about a target domain. It allows users to search for domain-related data, including emails, credentials, CIDRs, ASNs, and subdomains, as well as Google Play application information. The tool offers comprehensive scanning capabilities, customizable output formats, and additional options for enhanced data analysis.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/chiasmod0n/chiasmodon?embed=0\">View Project</a>\n• <a href=\"http://chiasmodon.online?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/776991286/65f98959-bec7-414e-bb70-816b5a4a8109",
         "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 0.8
     },
     {
-        "project_id": 369583524,
-        "content": "🚀 <b>nexfil</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/thewhiteh4t/nexfil?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/369583524/da129100-bb5b-11eb-9b9f-141be39be924",
+        "project_id": 20230114,
+        "content": "💡 <b>kippo</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSSH honeypot designed to log brute force attacks and attacker shell interactions.\n<br>\n✨ <b>Key Features:</b>\n• Logs brute force attacks\n• Logs entire shell interaction performed by the attacker\n• Fake filesystem with the ability to add/remove files\n• Fake file contents\n• Session logs stored in UML Compatible format\n<br>\n📖 <b>Summary:</b>\nKippo is a medium interaction SSH honeypot. It's designed to log brute force attacks and the entire shell interaction performed by attackers. Kippo includes features such as a fake filesystem, the ability to log downloaded files, and session replay capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/desaster/kippo?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4a1a7a0621fe7d624003d6662b0083dbd3180df0d41c82156eab4f642e711759/desaster/kippo",
         "platform": "telegram",
         "quality_score": 0.45
     },
     {
-        "project_id": 130928221,
-        "content": "🔥 <b>glauth</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/glauth/glauth?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4a0050905e711818c334642989b3f22fe4e7032008048aff025a406fecb44bea/glauth/glauth",
+        "project_id": 888632546,
+        "content": "🌟 <b>Exploit-Street</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a centralized resource for Windows LPE exploits.\n<br>\n✨ <b>Key Features:</b>\n• Complete list of LPE (Local Privilege Escalation) exploits for Windows (starting from 2023)\n<br>\n📖 <b>Summary:</b>\nThe Exploit-Street repository aims to be a comprehensive collection of Local Privilege Escalation (LPE) exploits for Windows systems, starting from 2023. It addresses the perceived lack of a consolidated resource for these exploits. The repository encourages contributions from the community to ensure its completeness and accuracy.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MzHmO/Exploit-Street?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a6b54ac6ce2f32a9043c9a66ca7f8bda8b7d88403505dc0930dce183057e2b6d/MzHmO/Exploit-Street",
         "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 428292281,
-        "content": "✨ <b>IOPaint</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Sanster/IOPaint?embed=0\">View Project</a>\n• <a href=\"https://www.iopaint.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/428292281/0a45e485-0438-4736-a058-680dfb360c0b",
-        "platform": "telegram",
-        "quality_score": 0.7500000000000001
-    },
-    {
-        "project_id": 388102496,
-        "content": "🔥 <b>PDF-Handling-With-Python</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/prajwollamichhane11/PDF-Handling-With-Python?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/eadbbec28fbf46fa1cad42604b823c8995b2edc6c9bff46af7cd931ec66dfdb9/prajwollamichhane11/PDF-Handling-With-Python",
-        "platform": "telegram",
-        "quality_score": 0.45
-    },
-    {
-        "project_id": 877675290,
-        "content": "🚀 <b>awesome-free-apps</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDiscovering free and useful applications for various platforms.\n<br>\n✨ <b>Key Features:</b>\n• Curated list of free apps\n• Categorized by platform (Windows, macOS, Linux, Android, iOS)\n• Filters for open-source and recommended apps\n• Categorized by function (Audio, Browsers, Communication, etc.)\n<br>\n📖 <b>Summary:</b>\nThis repository provides a curated list of free applications for PC and mobile devices, categorized by platform and function. It offers filters to easily find open-source or recommended apps, making it a valuable resource for users seeking free alternatives to paid software.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Axorax/awesome-free-apps?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/877675290/46ff54a2-f146-4cda-8a08-05baaa081f32",
-        "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.3
     }
 ]
