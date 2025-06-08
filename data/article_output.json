@@ -1,26 +1,26 @@
 {
-    "article": "Hey fellow devs! Ever wished you could dive into the code of a real-world game, learn from a professional-grade architecture, and maybe even contribute to its evolution? Well, hold onto your hats, because Athena Crisis is here to blow your minds! This isn't just another game; it's an open-core turn-based strategy game with a significant portion of its source code available on GitHub under the MIT license.  Think of it as a massive, collaborative coding playground, built with cutting-edge JavaScript and a modular architecture that's both impressive and surprisingly approachable.  The project is split into several packages, each responsible for a specific aspect of the game. This means you can focus on the part that interests you most – be it the game engine, the AI, the user interface, or even the data structures that power the entire game. Want to learn about efficient game state management? Check out the 'apollo' and 'athena' packages.  Curious about how a modern JavaScript game engine works? Dive into 'hera'.  The modular design makes it easy to understand the individual components and how they work together. One of the coolest things about Athena Crisis is its commitment to open-source principles.  Not only can you learn from the existing code, but you can also contribute your own improvements, new features, or even create entirely new games based on its architecture. Imagine extending the game with new units, maps, or even game modes – all thanks to the power of open source. This isn't just a learning opportunity, though.  Contributing to Athena Crisis also gives you a chance to build your portfolio, gain experience working on a large-scale project, and connect with other talented developers. The project is actively maintained and has a supportive community, making it a great place to learn and grow.  The documentation is thorough, and the community is welcoming, making it easy to get started, even if you're new to game development.  If you're looking to level up your JavaScript skills, understand how to build a complex game, or just want to contribute to an awesome project, Athena Crisis is the place to be. The project utilizes pnpm for package management and offers detailed setup instructions, ensuring a smooth onboarding experience. For Windows users, the documentation even provides specific configurations to ensure a hassle-free setup with git bash.  The project boasts an impressive set of tools, including a code generator for game actions and responses, ensuring consistency and maintainability. The architecture emphasizes separation of concerns, making the codebase easier to navigate and understand. This thoughtful design makes it ideal for developers of all levels, from those new to game development to seasoned professionals looking for a new challenge. It's a perfect blend of learning, collaboration, and fun. So, what are you waiting for? Head over to the GitHub repository, clone the project, and get ready to be amazed!",
+    "article": "Hey fellow developers! Ever wished for a magic portal that grants secure access to all your servers, databases, and Kubernetes clusters, all while keeping a meticulous audit trail?  Well, hold onto your hats, because JumpServer is here to make that wish come true! This open-source Privileged Access Management (PAM) tool is a game-changer for DevOps and IT teams.  It's like having a central command center for all your critical infrastructure, but way cooler. Forget juggling multiple SSH keys and RDP connections; JumpServer consolidates everything into a single, user-friendly web interface.\n\nImagine this: you need to access a remote database server.  With JumpServer, you simply log into the web portal, select the server, and boom – you're in! No more fiddling with complex configurations or remembering countless passwords.  JumpServer handles the authentication and authorization securely, ensuring only authorized personnel can access specific resources.  It's like a high-tech security guard for your entire infrastructure.\n\nBut JumpServer is more than just secure access. It's also a powerful auditing tool.  Every action performed through the system is meticulously logged, providing a complete and auditable trail of all privileged activities. This is crucial for compliance and security, giving you peace of mind knowing exactly who accessed what and when.  Forget searching through scattered logs; JumpServer centralizes everything for easy review and reporting.\n\nThe architecture is surprisingly straightforward.  JumpServer acts as a bastion host, sitting between your users and the target systems.  Users authenticate through the JumpServer portal, and JumpServer then establishes the connection to the target system on their behalf. This architecture enhances security by reducing the attack surface and limiting direct access to critical systems.  Think of it like a secure tunnel, protecting your sensitive data from unauthorized access.\n\nJumpServer supports a wide range of systems, including SSH, RDP, Kubernetes, and various databases.  It's incredibly versatile and adaptable, easily integrating into existing workflows.  The quick start guide is remarkably simple, allowing you to set up JumpServer in minutes.  The intuitive interface is a joy to use, making it easy for even non-experts to manage access control and monitor system activity.\n\nWhy should you care?  Because JumpServer saves you time, enhances security, and simplifies your workflow.  No more password fatigue, no more insecure access methods, no more hunting through logs.  JumpServer streamlines your privileged access management, allowing you to focus on what really matters: building and deploying amazing software.  It's a must-have tool for any serious DevOps or IT team.  Give it a try – you won't regret it!",
     "key_takeaways": [
-        "Open-source turn-based strategy game built with JavaScript.",
-        "Modular architecture allows focusing on specific components (engine, AI, UI, etc.).",
-        "Great learning opportunity and chance to contribute to a real-world project.",
-        "Active community and detailed documentation ensure a smooth onboarding experience.",
-        "Uses modern tools and best practices (pnpm, clear code structure)."
+        "Secure and centralized access to all your critical systems.",
+        "Simplified workflow with a user-friendly web interface.",
+        "Robust auditing capabilities for compliance and security.",
+        "Enhanced security through bastion host architecture.",
+        "Supports a wide range of systems and technologies"
     ],
     "tags": [
-        "JavaScript",
-        "Game Development",
-        "Turn-based Strategy",
-        "Open Source",
-        "Athena Crisis"
+        "PAM",
+        "SSH",
+        "RDP",
+        "Kubernetes",
+        "DevOps"
     ],
-    "title": "Level Up Your Skills with Athena Crisis: An Open-Source Game Dev Playground",
-    "stars": 1772,
-    "forks": 130,
-    "open_issues": 6,
-    "languages": "TypeScript",
-    "readme_summary": "Athena Crisis is an open-core turn-based tactical strategy game. The repository provides the source code, licensed under MIT, to improve the existing game, build additional tools, study game development, or create entirely new turn-based strategy games. The codebase is modular, with packages focusing on data structures, game state, rendering, and UI.",
-    "project_id": 796129070,
-    "url": "https://github.com/nkzw-tech/athena-crisis",
-    "description": "Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology."
+    "title": "JumpServer: Your New Secret Weapon for Secure and Streamlined Access",
+    "stars": 27849,
+    "forks": 5486,
+    "open_issues": 63,
+    "languages": "Python",
+    "readme_summary": "JumpServer is an open-source Privileged Access Management (PAM) tool designed to provide DevOps and IT teams with secure, on-demand access to SSH, RDP, Kubernetes, Database, and RemoteApp endpoints. It acts as a bastion host, centralizing and securing access through a web browser, enhancing security and simplifying access management.",
+    "project_id": 21484781,
+    "url": "https://github.com/jumpserver/jumpserver",
+    "description": "JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser."
 }

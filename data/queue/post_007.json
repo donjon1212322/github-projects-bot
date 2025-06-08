@@ -1,0 +1,7 @@
+{
+    "project_id": 239537272,
+    "content": "🚀 <b>shell-secrets</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely managing and accessing sensitive environment variables in shell scripts.\n<br>\n✨ <b>Key Features:</b>\n• Encrypts environment variables using GPG.\n• Reads secret values from encrypted files.\n• Provides a login function to set environment variables.\n• Includes a logout function to unset environment variables.\n• Updates the SECRET_LOGIN environment variable for shell prompt customization.\n<br>\n📖 <b>Summary:</b>\nThe shell-secrets repository provides a tool for managing environment variables by encrypting them with GPG. It allows users to securely store sensitive information in encrypted files and then easily load them into the environment using a simple login/logout mechanism. This helps prevent storing secrets in plain text shell files.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/waj/shell-secrets?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/ee1d7e1cd2aac145e88c6b1eb789b7523c655d0251fef01f769ca5b48f175daa/waj/shell-secrets",
+    "platform": "telegram",
+    "quality_score": 0.35
+}
