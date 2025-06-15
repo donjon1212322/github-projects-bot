@@ -1,0 +1,7 @@
+{
+    "project_id": 749765499,
+    "content": "💡 <b>gocheck</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAiding red teams in malware development by identifying bytes flagged by security solutions.\n<br>\n✨ <b>Key Features:</b>\n• Identifies malicious bytes in malware\n• Uses Windows Defender for scanning\n• Uses AMSI for scanning\n• Supports Kaspersky's AV Engine for scanning\n• Allows concurrent scanning using multiple AV engines\n<br>\n📖 <b>Summary:</b>\nGocheck is a Go-based tool designed to assist red teams in identifying malicious bytes within their malware. It leverages various scanning engines, including Windows Defender, AMSI, and Kaspersky, to pinpoint the specific code segments that trigger security alerts. The tool supports concurrent scanning and offers a debug mode for detailed analysis, making it a valuable asset for malware development and evasion testing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gatariee/gocheck?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/9759a90215620befed780a3df65c03ef7e21f850305a3445706a12e88a36146f/gatariee/gocheck",
+    "platform": "telegram",
+    "quality_score": 0.15
+}

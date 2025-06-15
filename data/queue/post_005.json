@@ -1,0 +1,7 @@
+{
+    "project_id": 180380156,
+    "content": "🌟 <b>DefenderCheck</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nIdentifying problematic code segments in a binary that are flagged by Microsoft Defender, aiding in evasion and payload development.\n<br>\n✨ <b>Key Features:</b>\n• Identifies specific bytes flagged by Microsoft Defender\n• Splits a binary to pinpoint offending bytes\n• Prints flagged bytes to the screen\n<br>\n📖 <b>Summary:</b>\nDefenderCheck is a C# tool designed to identify the specific bytes within a binary that trigger Microsoft Defender's detection. It takes a binary as input, iteratively splits it, and isolates the exact byte sequences that are flagged, printing these bytes to the screen. This functionality assists in understanding and evading Defender's detection mechanisms during payload development and security research.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/matterpreter/DefenderCheck?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/9c24cb2c454ef97ee37415adf76ee469a0a77f0a74d7e183bcddafa4d76e5606/matterpreter/DefenderCheck",
+    "platform": "telegram",
+    "quality_score": 0.25
+}
