@@ -1,7 +1,0 @@
-{
-    "project_id": 139059389,
-    "content": "💡 <b>oomd</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nPreventing kernel-level OOM errors by proactively killing processes in userspace based on system resource monitoring and custom policies.\n<br>\n✨ <b>Key Features:</b>\n• Userspace Out-Of-Memory (OOM) killer\n• Leverages PSI and cgroupv2 for system monitoring\n• Flexible plugin system for custom corrective actions\n• Minimizes kernel space lockups\n• Configuration options for workload protection\n<br>\n📖 <b>Summary:</b>\noomd is a userspace OOM killer designed to prevent system instability caused by out-of-memory errors. It monitors system resources using PSI and cgroupv2, and uses a flexible plugin system to take corrective actions, such as killing processes, before the kernel OOM killer is invoked. This approach allows for customized policies and reduces the risk of system lockups.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/facebookincubator/oomd?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/a4768c5c212d3088f93d69c93e2cf8d6ac4e2a3548ae3cb0877b8794d5fe454d/facebookincubator/oomd",
-    "platform": "telegram",
-    "quality_score": 0.85
-}
