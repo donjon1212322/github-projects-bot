@@ -1,7 +1,0 @@
-{
-    "project_id": 606311829,
-    "content": "🌟 <b>munal-os</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nAn experimental operating system for exploring OS design principles and WASM sandboxing.\n<br>\n✨ <b>Key Features:</b>\n• Unikernel design\n• Cooperative scheduling\n• WASM sandboxing for security\n• Graphical interface with mouse and keyboard support\n• Network driver and TCP stack\n<br>\n📖 <b>Summary:</b>\nMunal OS is an experimental, Rust-based operating system employing a unikernel architecture and cooperative scheduling. It leverages WASM sandboxing to provide a secure environment for applications. The OS features a graphical interface, network stack, UI toolkit, and embedded applications, primarily using VirtIO drivers and avoiding traditional OS components like bootloaders and interrupts for simplicity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Askannz/munal-os?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/22661dfe736c6787d1d686ed871621802c903c864bcc032d0ce69ec48abf9481/Askannz/munal-os",
-    "platform": "telegram",
-    "quality_score": 0.6
-}
