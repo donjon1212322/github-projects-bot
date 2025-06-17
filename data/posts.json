@@ -1,44 +1,58 @@
 [
     {
-        "project_id": 903566213,
-        "content": "🌟 <b>perspt</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nInteracting with various AI models from multiple providers directly in the terminal.\n<br>\n✨ <b>Key Features:</b>\n• Interactive Chat Interface\n• Advanced Streaming\n• Automatic Provider Detection\n<br>\n📖 <b>Summary:</b>\nPerspt is a high-performance CLI application built with Rust that allows users to chat with various AI models from different providers directly in their terminal. It leverages the `genai` crate for unified API access and offers features like real-time streaming, automatic provider detection, and a customizable terminal UI. Perspt aims to provide a reliable and efficient way to explore and interact with the latest AI models.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/eonseed/perspt?embed=0\">View Project</a>\n• <a href=\"https://eonseed.github.io/perspt/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4b3d4572015518419b2397dd3cd46d4d604dc2d225ee8511beadf5f95d14ef55/eonseed/perspt",
+        "project_id": 999138733,
+        "content": "🔥 <b>ip-nose</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nIP geolocation and information retrieval from the command line.\n<br>\n✨ <b>Key Features:</b>\n• IP Geolocation\n• IP Detection\n• Matrix-themed Interface\n• Search History\n• Customizable Configuration\n<br>\n📖 <b>Summary:</b>\nip-nose is a C++ command-line tool for IP geolocation, providing detailed information about IP addresses. It features a unique Matrix-inspired interface, IP detection, search history, and customizable settings. It is designed for developers and network enthusiasts seeking a stylish and efficient IP geolocation solution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Karim93160/ip-nose?embed=0\">View Project</a>\n• <a href=\"https://github.com/Karim93160/ip-nose?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/999138733/0a9596f8-6a73-4952-a6a1-dde0858dc177",
         "platform": "telegram",
-        "quality_score": 1.1000000000000003
+        "quality_score": 0.7
     },
     {
-        "project_id": 996250059,
-        "content": "🌟 <b>depyler</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTransitioning Python codebases to energy-efficient and memory-safe Rust code.\n<br>\n✨ <b>Key Features:</b>\n• Automatic Transpilation (Python to Rust)\n• Memory Safety Guarantees\n• Performance Optimization (Energy Efficiency, Speed)\n• Testing & Verification\n• AWS Lambda Transpilation\n<br>\n📖 <b>Summary:</b>\nDepyler is a Python-to-Rust transpiler designed to convert Python code into high-performance, memory-safe Rust. It offers features like automatic transpilation, memory safety guarantees, performance optimization, and testing & verification. The tool also supports AWS Lambda transpilation, aiming to reduce energy consumption and improve speed in cloud environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/paiml/depyler?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d5cb92e575f0aceb75690949f9c24d6c013f595d6093338e6eed30e06decc9e6/paiml/depyler",
-        "platform": "telegram",
-        "quality_score": 0.6499999999999999
-    },
-    {
-        "project_id": 259053705,
-        "content": "🚀 <b>symbiote</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSocial engineering for capturing webcam images through phishing.\n<br>\n✨ <b>Key Features:</b>\n• Phishing page creation\n• Webcam image capture\n• Tunnelling options (Ngrok, Localhost.run, LocalXpose)\n• Installation script for Kali Linux/Termux\n<br>\n📖 <b>Summary:</b>\nSymbiote is a social engineering tool designed to create phishing pages that request camera permissions, allowing for covert webcam image capture. It provides tunnelling options like Ngrok and LocalXpose and includes an installation script for Kali Linux and Termux. The tool is intended for educational purposes only.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hasanfirnas/symbiote?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/81b9eea0726d3e6b5d0c16d06d6809bbb822edd112d2fc59f3fc7fd7d2396999/hasanfirnas/symbiote",
-        "platform": "telegram",
-        "quality_score": 0.35
-    },
-    {
-        "project_id": 837824487,
-        "content": "🌟 <b>pgassistant</b> | CSS\n<br>\n🎯 <b>Primary Use Case:</b>\nUnderstanding and optimizing PostgreSQL database performance.\n<br>\n✨ <b>Key Features:</b>\n• Database Behavior Analysis\n• Schema Optimization\n• Query Library Management\n• SQL Code Linting\n• OpenAI helper for query plan understanding and optimization\n<br>\n📖 <b>Summary:</b>\nPgAssistant is an open-source tool designed to help developers understand and optimize their PostgreSQL database performance. It provides features such as database behavior analysis, schema optimization, query library management, and integration with LLMs for advanced query analysis and optimization. The tool also offers features like PGTune integration, Docker-compose generation, and RFC compliance checks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nexsol-technologies/pgassistant?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4514f0179346fbb652ccb718be393f81879fb602e2ac5bc59fbdb75a4b2160d3/nexsol-technologies/pgassistant",
+        "project_id": 606311829,
+        "content": "🌟 <b>munal-os</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nAn experimental operating system for exploring OS design principles and WASM sandboxing.\n<br>\n✨ <b>Key Features:</b>\n• Unikernel design\n• Cooperative scheduling\n• WASM sandboxing for security\n• Graphical interface with mouse and keyboard support\n• Network driver and TCP stack\n<br>\n📖 <b>Summary:</b>\nMunal OS is an experimental, Rust-based operating system employing a unikernel architecture and cooperative scheduling. It leverages WASM sandboxing to provide a secure environment for applications. The OS features a graphical interface, network stack, UI toolkit, and embedded applications, primarily using VirtIO drivers and avoiding traditional OS components like bootloaders and interrupts for simplicity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Askannz/munal-os?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/22661dfe736c6787d1d686ed871621802c903c864bcc032d0ce69ec48abf9481/Askannz/munal-os",
         "platform": "telegram",
         "quality_score": 0.6
     },
     {
-        "project_id": 763923484,
-        "content": "✨ <b>tracecat</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurity and IT automation\n<br>\n✨ <b>Key Features:</b>\n• Workflow automation\n• Integration templates\n• No-code UI\n• Lookup tables\n• Case management\n<br>\n📖 <b>Summary:</b>\nTracecat is an open-source automation platform designed for security and IT teams. It provides tools for workflow automation, integration via templates, and case management. The platform utilizes a no-code UI and is orchestrated using Temporal for scalability and reliability.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TracecatHQ/tracecat?embed=0\">View Project</a>\n• <a href=\"https://tracecat.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/695a1d527e9df908369f7efc4d27c3980ba25c0800dcd9766949fafeac528231/TracecatHQ/tracecat",
+        "project_id": 362234372,
+        "content": "💡 <b>cariddi</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurity scanning and reconnaissance of web applications to identify potential vulnerabilities and sensitive information exposure.\n<br>\n✨ <b>Key Features:</b>\n• Crawls URLs from a list of domains\n• Scans for endpoints, secrets, API keys, file extensions, and tokens\n<br>\n📖 <b>Summary:</b>\nCariddi is a Go-based tool designed for comprehensive web application reconnaissance. It crawls specified domains, identifies endpoints, and scans for sensitive information like secrets, API keys, and file extensions. The tool offers various scan options, supports multiple installation methods, and allows for customized configurations, making it suitable for security professionals and bug bounty hunters.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/edoardottt/cariddi?embed=0\">View Project</a>\n• <a href=\"https://edoardottt.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/184fc3a7be561628ddc52f046e50b67fd018f2f176d51980773eb4c497b48d49/edoardottt/cariddi",
         "platform": "telegram",
-        "quality_score": 1.1000000000000003
+        "quality_score": 0.8500000000000001
     },
     {
-        "project_id": 121825520,
-        "content": "🔥 <b>Th3inspector</b> | Perl\n<br>\n🎯 <b>Primary Use Case:</b>\nInformation Gathering\n<br>\n✨ <b>Key Features:</b>\n• Website Information Gathering\n• Phone Number Information Gathering\n• MX Record Lookup\n• WHOIS Lookup\n• Geolocation\n<br>\n📖 <b>Summary:</b>\nTh3inspector is a Perl-based information gathering tool. It consolidates various lookup functionalities such as WHOIS, geolocation, MX records, and subdomain scanning into a single tool. It also includes features like Cloudflare bypass and credit card BIN checking.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Moham3dRiahi/Th3inspector?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/57eb1d7ce19c135d55e64e02054bcb46b23d6319be33181b3af1241b1f41070e/Moham3dRiahi/Th3inspector",
+        "project_id": 825345980,
+        "content": "💡 <b>waypoint</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and managing custom URL shorteners for internal tools, documentation, or any web resources.\n<br>\n✨ <b>Key Features:</b>\n• Human-readable Shortcuts\n• Hierarchical Organization\n• Real-time Updates\n• Flexible Deployment\n• Multiple Access Methods\n<br>\n📖 <b>Summary:</b>\nWayPoint is a fast, lightweight URL mapping and redirection system that dynamically manages URL shortcuts through YAML configuration files. It offers features like human-readable shortcuts, hierarchical organization, real-time updates, and flexible deployment options. WayPoint can be used as a server for web access or integrated with the shell for command-line usage, making it ideal for creating and managing custom URL shorteners.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/NishantJoshi00/waypoint?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e30fcd98476047fd1cf5c0e74b46add01365c6a79c85f30b1b8a030d392bb8fa/NishantJoshi00/waypoint",
         "platform": "telegram",
-        "quality_score": 0.4
+        "quality_score": 0.3
+    },
+    {
+        "project_id": 378998405,
+        "content": "🌟 <b>minecraft-building-assistance-game</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nResearch and development of AI assistants for complex building tasks in Minecraft.\n<br>\n✨ <b>Key Features:</b>\n• Minecraft Building Assistance Game (MBAG) environment\n• AssistanceZero training for AI assistants\n<br>\n📖 <b>Summary:</b>\nThis repository provides the Minecraft Building Assistance Game (MBAG) environment for studying complex assistance games. It includes the implementation of AssistanceZero for training AI assistants and allows integration with Minecraft via Project Malmo. The repository also provides a house dataset for training and evaluation, enabling researchers to develop and test AI agents capable of assisting human players in building tasks within Minecraft.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cassidylaidlaw/minecraft-building-assistance-game?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/22eb004413e21c21d4a57d58aeda17a3a249574860ee7ee07be7bf5c9768d5dd/cassidylaidlaw/minecraft-building-assistance-game",
+        "platform": "telegram",
+        "quality_score": 0.7999999999999999
+    },
+    {
+        "project_id": 963971159,
+        "content": "🚀 <b>Prompt2Flutter</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTransforming text descriptions into Flutter applications\n<br>\n✨ <b>Key Features:</b>\n• Convert natural language descriptions into Flutter code\n• Create complete Flutter projects with proper structure\n• Manage Flutter dependencies automatically\n• Generate UI components and app logic\n• Support for Flutter best practices and patterns\n<br>\n📖 <b>Summary:</b>\nPrompt2Flutter is a proof-of-concept project that uses AI, specifically Google's Gemini model, to convert natural language descriptions into fully functional Flutter applications. It aims to automate the process of Flutter app development by generating code, managing dependencies, and creating UI components based on user input.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/filippofinke/Prompt2Flutter?embed=0\">View Project</a>\n• <a href=\"https://github.com/filippofinke/Prompt2Flutter?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7a67e9b961ecf862f54d2359ac19ac27a27905e0945657c29f205df18be6d989/filippofinke/Prompt2Flutter",
+        "platform": "telegram",
+        "quality_score": 0.3
+    },
+    {
+        "project_id": 859072628,
+        "content": "💡 <b>napkins</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating applications from wireframes.\n<br>\n✨ <b>Key Features:</b>\n• Wireframe to app generation\n• Powered by Llama 4 and Together.ai\n• Code sandbox using Sandpack\n• Image storage using S3\n• Next.js app router with Tailwind CSS\n<br>\n📖 <b>Summary:</b>\nThe napkins.dev repository provides an open-source wireframe-to-app generator. It leverages Llama 4 and Together.ai for LLM inference, Sandpack for a code sandbox environment, and S3 for image storage. The application is built using Next.js with Tailwind CSS, and incorporates Helicone for observability and Plausible for website analytics.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Nutlope/napkins?embed=0\">View Project</a>\n• <a href=\"https://www.napkins.dev/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f4b89c86b8ae22fc3e765c76c9350d5d491c06f54c5ac7ea9799a987bc65d78b/Nutlope/napkins",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 40556106,
+        "content": "✨ <b>wazuh</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nThreat prevention, detection, and response across various environments (on-premises, virtualized, containerized, and cloud-based).\n<br>\n✨ <b>Key Features:</b>\n• Intrusion detection\n• Log data analysis\n• File integrity monitoring\n• Vulnerability detection\n• Configuration assessment\n<br>\n📖 <b>Summary:</b>\nWazuh is an open-source security platform that provides XDR and SIEM capabilities. It uses agents to collect data from endpoints, which is then analyzed by a central server. Wazuh integrates with the Elastic Stack for data visualization and offers features like intrusion detection, log analysis, file integrity monitoring, vulnerability detection, configuration assessment, and incident response.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wazuh/wazuh?embed=0\">View Project</a>\n• <a href=\"https://wazuh.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/79143de1fc41fe91fd962559c91fc729f04bb6822647b2ea5bd521ac3966064e/wazuh/wazuh",
+        "platform": "telegram",
+        "quality_score": 1.1000000000000003
     }
 ]
