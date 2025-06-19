@@ -1,232 +1,228 @@
 [
     {
-        "id": 999844847,
-        "name": "vicut",
-        "description": "A Vim-based, scriptable, headless text editor for the command line.",
-        "url": "https://github.com/km-clay/vicut",
-        "language": "Rust",
-        "stars": 34,
-        "forks": 0,
-        "created_at": "2025-06-10T22:00:36Z",
-        "updated_at": "2025-06-18T08:19:17Z",
-        "topics": [],
-        "quality_score": 0.44999999999999996,
-        "contributors_count": 0,
-        "last_commit_date": "2025-06-18T07:31:34Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/ac6ac4cd0a6f8775b14ddb9e8d48fabc4b802320e4b5717527acece682d01efc/km-clay/vicut"
-        ],
-        "homepage": "",
-        "readme_summary": "Vicut is a command-line text editor that leverages Vim's powerful editing capabilities for non-interactive text processing. It allows users to apply Vim commands to files or standard input, extract specific fields, and format the output as plain text, JSON, or custom templates. Vicut combines the expressiveness of Vim with the utility of command-line tools like sed and awk.",
-        "key_features": [
-            "Apply Vim-style editing commands to files or stdin.",
-            "Output in plain text, JSON, or using a format string.",
-            "Chain multiple editing/extraction commands.",
-            "Multi-threaded stream-style processing.",
-            "In-place file editing."
-        ],
-        "primary_use_case": "Extracting and manipulating text data from files or standard input using Vim commands in a command-line environment.",
-        "open_issues": 0,
-        "cover_image_prompt": "Imagine a skilled sculptor meticulously chiseling away at a rough block of text with Vim commands, revealing a perfectly formed gemstone of structured data. The sculptor's tools are glowing Vim commands like '%s/foo/bar/g' and 'd2W', leaving behind clean, precise cuts. Digital particles flow from the gemstone, transforming into JSON objects and neatly formatted text. Small UI elements display the 'vicut' logo and snippets of Rust code. The scene is set in a minimalist workshop with soft, diffused lighting. The image should be in a 3D isometric illustration style with clean lines and a vibrant color scheme."
-    },
-    {
-        "id": 276821911,
-        "name": "dohot",
-        "description": "DoHoT: making practical use of DNS over HTTPS over Tor",
-        "url": "https://github.com/alecmuffett/dohot",
-        "language": "Shell",
-        "stars": 256,
-        "forks": 12,
-        "created_at": "2020-07-03T06:11:24Z",
-        "updated_at": "2025-06-18T08:18:47Z",
-        "topics": [],
-        "quality_score": 0.35,
-        "contributors_count": 0,
-        "last_commit_date": "2021-11-18T03:53:06Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/d3f2e903afe2ed3a0db32899b054645f52d1571958bcafca9769ee7beca6d454/alecmuffett/dohot"
-        ],
-        "homepage": "",
-        "readme_summary": "The DoHoT project aims to promote and simplify the adoption of DNS over HTTPS over Tor for enhanced privacy. It provides resources and documentation to help users understand and implement this technology, addressing privacy concerns related to traditional DNS protocols. The project emphasizes the benefits of combining DoH and Tor to circumvent surveillance and interference with DNS queries.",
-        "key_features": [
-            "Explanation of DNS over HTTPS over Tor",
-            "Encouragement of adoption of DNS over HTTPS over Tor",
-            "Simplification of adoption of DNS over HTTPS over Tor"
-        ],
-        "primary_use_case": "Improving privacy by using DNS over HTTPS over Tor.",
-        "open_issues": 2,
-        "cover_image_prompt": "A determined traveler, shrouded in a cloak representing Tor, navigating a complex network of interconnected pipes (representing the internet). The traveler holds a glowing orb (representing DNS over HTTPS) protecting their face from prying eyes peering through the pipes. The background shows a cityscape with surveillance cameras, subtly highlighting the privacy concerns. Small UI elements displaying encrypted DNS requests float around the traveler. The scene is set in a slightly dystopian, yet hopeful, future. The image should be in a digital painting style with a focus on dramatic lighting and clear outlines, emphasizing the traveler's journey to secure communication."
-    },
-    {
-        "id": 472962423,
-        "name": "TxtNet-Browser",
-        "description": "An app that lets you browse the web over SMS",
-        "url": "https://github.com/lukeaschenbrenner/TxtNet-Browser",
-        "language": "Java",
-        "stars": 1278,
-        "forks": 30,
-        "created_at": "2022-03-22T22:50:34Z",
-        "updated_at": "2025-06-18T10:10:34Z",
-        "topics": [],
-        "quality_score": 0.75,
-        "contributors_count": 0,
-        "last_commit_date": "2025-06-01T22:50:48Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/dfb55b84db3a8883d47467fb48f363c9973934be1ebba46b70aacfabbb9d46fd/lukeaschenbrenner/TxtNet-Browser"
-        ],
-        "homepage": "",
-        "readme_summary": "TxtNet Browser is an Android app that enables web browsing via SMS, eliminating the need for WiFi or mobile data. It utilizes Brotli compression and a custom encoding format to transmit web content. The app also features a built-in server hosting option, allowing users to act as server hosts and facilitate distributed communication.",
-        "key_features": [
-            "Browse the web over SMS",
-            "No WiFi or mobile data required",
-            "Uses Brotli compression",
-            "Custom Base-114 encoding",
-            "Removes media content, JavaScript, and CSS",
-            "Built-in server hosting option",
-            "Allows users to host their own server"
-        ],
-        "primary_use_case": "Browsing the web over SMS without a mobile data connection.",
-        "open_issues": 8,
-        "cover_image_prompt": "Imagine a person in a remote village, holding up a simple phone to the sky. Beams of light, representing SMS signals, connect the phone to a towering library in the clouds. The library's architecture subtly incorporates UI elements and web page layouts. The person is successfully browsing the library's contents on their phone's screen. The scene is set in a vibrant, sunlit landscape with a clear blue sky. Small digital particles float around the SMS beams, symbolizing data transmission. The composition is clean and focused, emphasizing the connection between the phone and the cloud library. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 486418532,
-        "name": "winutil",
-        "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
-        "url": "https://github.com/ChrisTitusTech/winutil",
-        "language": "PowerShell",
-        "stars": 35993,
-        "forks": 1987,
-        "created_at": "2022-04-28T02:25:19Z",
-        "updated_at": "2025-06-18T09:20:59Z",
-        "topics": [],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-06-14T15:32:56Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/0af13aca143761192e300667ba2959a13b6d25ccee3f3e4b0798f097717ff796/ChrisTitusTech/winutil"
-        ],
-        "homepage": "",
-        "readme_summary": "Winutil is a PowerShell utility designed to automate and simplify common Windows tasks. It focuses on installing software, debloating unnecessary features, troubleshooting system configurations, and resolving Windows update issues. The utility aims to provide a streamlined and efficient way to maintain and optimize Windows systems.",
-        "key_features": [
-            "Installs programs",
-            "Debloats with tweaks",
-            "Troubleshoots with config",
-            "Fixes Windows updates"
-        ],
-        "primary_use_case": "Streamlining Windows system configuration, maintenance, and software installation.",
-        "open_issues": 174,
-        "cover_image_prompt": "Imagine a skilled mechanic in a brightly lit workshop, tuning up a complex machine representing Windows. The mechanic uses various tools (representing tweaks and fixes) to optimize the machine's performance. Digital readouts display system metrics improving in real-time. A toolbox labeled \"WinUtil\" sits nearby, filled with specialized instruments. The scene is clean and efficient, with a focus on clarity and precision. Subtle UI elements float in the background, showing code snippets and configuration settings. The illustration should be in a 3D isometric style, with vibrant colors and clear details, emphasizing the utility's ability to streamline and enhance Windows systems."
-    },
-    {
-        "id": 956337638,
-        "name": "BongoCat",
-        "description": "🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！",
-        "url": "https://github.com/ayangweb/BongoCat",
-        "language": "TypeScript",
-        "stars": 7346,
-        "forks": 345,
-        "created_at": "2025-03-28T04:50:22Z",
-        "updated_at": "2025-06-18T10:01:04Z",
+        "id": 461205332,
+        "name": "zoetic",
+        "description": "🌱 🎥 Markdown presentations using your webcam",
+        "url": "https://github.com/kantord/zoetic",
+        "language": "JavaScript",
+        "stars": 73,
+        "forks": 2,
+        "created_at": "2022-02-19T13:49:30Z",
+        "updated_at": "2025-06-19T08:51:06Z",
         "topics": [
-            "bongo-cat",
-            "bongocat",
-            "cross-platform",
-            "desktop-app",
-            "desktop-pet",
-            "linux",
-            "macos",
-            "pet",
-            "pet-project",
-            "rust",
-            "tauri",
-            "tauri-app",
-            "windows"
+            "jsx",
+            "markdown",
+            "mdx",
+            "mdx-deck",
+            "pre",
+            "presentation",
+            "react",
+            "remote-work",
+            "slides",
+            "slideshow",
+            "webcam",
+            "webcam-streaming"
         ],
-        "quality_score": 0.85,
+        "quality_score": 0.55,
         "contributors_count": 0,
-        "last_commit_date": "2025-06-17T11:35:53Z",
+        "last_commit_date": "2022-11-13T18:25:04Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/eef975f87fd8c47d6d478ff1a0d5b320d90cf2ea90e7efe43ed2ad63ba5dcdc9/ayangweb/BongoCat"
-        ],
-        "homepage": "https://github.com/ayangweb/Awesome-BongoCat",
-        "readme_summary": "BongoCat is a cross-platform desktop pet application that brings the popular Bongo Cat character to Windows, macOS, and Linux. Inspired by Bongo-Cat-Mver, it allows users to have an interactive cat animation on their desktop, adding a touch of fun and personality to their computing experience. The application is built using TypeScript and Tauri, ensuring compatibility across multiple platforms.",
-        "key_features": [
-            "Cross-platform support (Windows, macOS, Linux)",
-            "Desktop pet application",
-            "Inspired by Bongo-Cat-Mver",
-            "Adds interactive cat animations to the desktop"
-        ],
-        "primary_use_case": "Adding a fun, interactive desktop pet (BongoCat) to enhance user experience across different operating systems.",
-        "open_issues": 45,
-        "cover_image_prompt": "A cute cartoon cat sitting at a computer desk, with multiple screens displaying different operating system logos (Windows, macOS, Linux). The cat is playfully interacting with the screens, tapping on them with its paws, causing musical notes and sound waves to emanate from the screens. The desk is surrounded by various tech-related items like keyboards, mice, and headphones. The scene is set in a cozy, colorful room with soft lighting. Small UI elements showing the BongoCat application are subtly displayed on the screens. The image should be in a 3D isometric illustration style with vibrant colors and a playful, inviting atmosphere."
-    },
-    {
-        "id": 966383042,
-        "name": "dead-man-hand",
-        "description": "DMH will execute action when you will not be able to. Dead-man-switch software with privacy in mind.",
-        "url": "https://github.com/bkupidura/dead-man-hand",
-        "language": "Go",
-        "stars": 238,
-        "forks": 7,
-        "created_at": "2025-04-14T20:52:05Z",
-        "updated_at": "2025-06-18T09:05:28Z",
-        "topics": [
-            "golang",
-            "privacy"
-        ],
-        "quality_score": 0.4,
-        "contributors_count": 0,
-        "last_commit_date": "2025-04-29T21:13:30Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/f5bc5d2077d8a35e2687b761c4984df85a715f9e9c29839311ac17ecea2375d0/bkupidura/dead-man-hand"
+            "https://repository-images.githubusercontent.com/461205332/3eb9bd3a-0cb6-417c-ac4e-8057757fc652"
         ],
         "homepage": "",
-        "readme_summary": "The dead-man-hand repository provides a privacy-focused dead man's switch software. It allows users to define actions that will be executed when they are no longer available, ensuring that these actions remain confidential until that specific time. The system uses encryption and integrates with Vault for secure key management, supporting multiple action execution methods.",
+        "readme_summary": "Zoetic is a JavaScript-based tool for creating and presenting slides using Markdown, with the unique feature of integrating a live webcam feed directly into the presentation. It allows users to create slides using Markdown or MDX, and then present them with their webcam feed overlaid, making it suitable for online meetings and remote presentations. Planned features include green screen support, multi-camera support, and virtual webcam functionality.",
         "key_features": [
-            "Privacy focused action execution",
-            "Encryption of actions using age",
-            "Integration with Vault for key management",
-            "Multiple action execution methods (json_post, bulksms, mail)",
-            "High test coverage"
+            "Markdown presentation with webcam integration",
+            "Slide creation using Markdown/MDX",
+            "Live presentation with screen sharing",
+            "Planned features: Green screen support, multi-camera support, virtual webcam support, on-screen drawing, window sharing"
         ],
-        "primary_use_case": "Executing predefined actions when the user is no longer available, ensuring privacy and confidentiality of those actions until that time.",
-        "open_issues": 0,
-        "cover_image_prompt": "An elderly clockmaker meticulously adjusting the gears of a large, ornate clock. Each gear represents a different aspect of the user's digital life. The clock is set to trigger a series of actions, visualized as small, automated robots carrying out tasks like sending emails and posting messages. The clockmaker works in a dimly lit workshop filled with encrypted documents and secure vaults. Subtle digital elements like glowing data streams and UI screens showing encryption keys are integrated into the scene. The repository name, 'Dead Man's Hand,' is subtly engraved on the clock's face. The image should be in a detailed digital painting style with a focus on intricate details and a mysterious atmosphere."
+        "primary_use_case": "Creating and delivering presentations with integrated webcam feed using Markdown.",
+        "open_issues": 1,
+        "cover_image_prompt": "A presenter stands on a stage, seamlessly integrated into their slide presentation via webcam. The slides display various topics, while the presenter's live video feed is cleverly overlaid, creating an engaging and dynamic presentation. The stage is bathed in soft, focused lighting, highlighting the presenter and the slides. Subtle UI elements float around the presenter, representing controls for managing the slides and camera. The repository name, 'zoetic', is subtly displayed on a screen in the background. The image should be in a digital painting style with clean lines and vibrant colors."
     },
     {
-        "id": 895165567,
-        "name": "timr-tui",
-        "description": "TUI to organize your time: Pomodoro, Countdown, Timer.",
-        "url": "https://github.com/sectore/timr-tui",
-        "language": "Rust",
-        "stars": 155,
-        "forks": 11,
-        "created_at": "2024-11-27T17:16:56Z",
-        "updated_at": "2025-06-18T06:04:54Z",
+        "id": 996231722,
+        "name": "Transfer",
+        "description": "A local file server Android app. Upload and download files over Wi-Fi ",
+        "url": "https://github.com/matan-h/Transfer",
+        "language": "Kotlin",
+        "stars": 53,
+        "forks": 2,
+        "created_at": "2025-06-04T16:40:53Z",
+        "updated_at": "2025-06-19T07:59:04Z",
         "topics": [
-            "ratatui",
-            "rust",
-            "tui"
+            "android",
+            "android-app",
+            "file-sharing",
+            "file-sharing-server",
+            "local-network",
+            "local-server",
+            "no-cloud"
         ],
         "quality_score": 0.7499999999999999,
         "contributors_count": 0,
-        "last_commit_date": "2025-06-09T15:00:31Z",
+        "last_commit_date": "2025-06-15T11:10:13Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/12f03a90cf369f2640ac2ff4af807e5ee55dcbb3651558b9021b973c5ff336e7/sectore/timr-tui"
+            "https://opengraph.githubassets.com/431629822ffb41c3410ea642ae889dfd958720786f85dabffd9809b48ec76607/matan-h/Transfer"
         ],
         "homepage": "",
-        "readme_summary": "timr-tui is a terminal-based application built with Rust and Ratatui for managing time using Pomodoro timers, countdowns, and general timers. It offers a CLI interface and customizable keybindings for easy control, allowing users to organize their work and track time efficiently within a terminal environment.",
+        "readme_summary": "Transfer is an Android app that creates a local file server, allowing users to easily upload and download files between devices on the same Wi-Fi network. It offers a simple web interface and command-line access, with security features like IP permissions and password protection.",
         "key_features": [
-            "Pomodoro timer",
-            "Countdown timer",
-            "General timer",
-            "Customizable styles",
-            "CLI interface",
-            "Keybindings for control"
+            "Effortless LAN Sharing",
+            "Configurable Security (IP Permissions, Password Protection)",
+            "Powerful CLI Access (curl-friendly)",
+            "Dual Browse UI (App and Web)",
+            "Quick In-App Transfers (Upload, Paste)"
         ],
-        "primary_use_case": "Organizing time and improving focus using Pomodoro technique, countdowns, and general time tracking within a terminal user interface.",
+        "primary_use_case": "Quickly transfer files between devices on a local network without needing cables, cloud services, or complex configurations.",
+        "open_issues": 3,
+        "cover_image_prompt": "Imagine a friendly bellhop in a bustling hotel lobby, effortlessly transferring suitcases (files) between guests (devices) using a levitating platform. The platform glows with Wi-Fi signals, and each suitcase has a small screen displaying its contents. In the background, a subtle UI element shows an IP address and port number. The scene is bright and welcoming, with a clean, modern aesthetic. The image should be in a 3D isometric illustration style with soft lighting and pastel colors."
+    },
+    {
+        "id": 618260101,
+        "name": "The-50-Front-end-Project",
+        "description": "This git repository consists of a collection of 50 carefully curated frontend projects that showcase your skills and creativity as a frontend developer. Each project is unique and visually stunning, demonstrating your proficiency in a wide range of technologies and design principles",
+        "url": "https://github.com/SudeepAcharjee/The-50-Front-end-Project",
+        "language": "CSS",
+        "stars": 316,
+        "forks": 84,
+        "created_at": "2023-03-24T04:45:03Z",
+        "updated_at": "2025-06-19T09:25:52Z",
+        "topics": [
+            "bootstrap",
+            "css",
+            "html5",
+            "js",
+            "json",
+            "nodejs",
+            "reactjs",
+            "scss",
+            "typescript"
+        ],
+        "quality_score": 0.5,
+        "contributors_count": 0,
+        "last_commit_date": "2025-03-12T18:22:30Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/a7655dbca475ff23e193ad8592fd15b167614d0666909d92ae768773334ef83a/SudeepAcharjee/The-50-Front-end-Project"
+        ],
+        "homepage": "",
+        "readme_summary": "This repository provides a collection of 50 frontend projects designed to help developers enhance their web development skills. The projects cover a wide range of technologies, including HTML, CSS, JavaScript, React, Bootstrap, and Tailwind CSS. It serves as a practical resource for learning and skill improvement through hands-on experience.",
+        "key_features": [
+            "50 frontend projects",
+            "HTML, CSS, JavaScript",
+            "React",
+            "Bootstrap",
+            "Tailwind CSS",
+            "Diverse range of projects"
+        ],
+        "primary_use_case": "Learning and improving frontend web development skills through practical projects.",
         "open_issues": 0,
-        "cover_image_prompt": "Imagine a skilled clockmaker meticulously crafting intricate timepieces within a cozy workshop filled with gears, springs, and miniature screens displaying Ratatui code. The clockmaker is assembling a Pomodoro timer, a countdown clock, and a simple timer, each glowing with a distinct color. Digital particles subtly emanate from the tools, forming visual representations of time intervals and task management. A blueprint on the workbench subtly displays the 'timr-tui' logo. The scene is bathed in warm, inviting light, creating a sense of focused productivity. The image should be in 3D isometric illustration style with rich details and vibrant colors."
+        "cover_image_prompt": "Imagine a grand stage where a spotlight shines on 50 miniature theaters, each showcasing a different frontend project. A master puppeteer stands proudly, holding strings connected to each theater, subtly adjusting the scenes within. Each theater features a unique visual style and interactive element, representing the diverse range of projects. Small screens embedded in the stage display snippets of HTML, CSS, and JavaScript code, subtly connecting the scene to software. The stage is set in a modern, minimalist studio with soft, ambient lighting. The composition is wide and panoramic, capturing the breadth of the collection. The color scheme is vibrant and diverse, reflecting the variety of projects. The image should be in 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 971698957,
+        "name": "domain-scanner",
+        "description": "一个用Go语言编写的强大且灵活的域名注册可用性检查扫描工具 A powerful and flexible domain name availability checker written in Go. This tool helps you find available domain names based on various patterns and filters.",
+        "url": "https://github.com/xuemian168/domain-scanner",
+        "language": "Go",
+        "stars": 340,
+        "forks": 46,
+        "created_at": "2025-04-23T23:34:49Z",
+        "updated_at": "2025-06-19T08:49:19Z",
+        "topics": [
+            "domain",
+            "tld"
+        ],
+        "quality_score": 0.9,
+        "contributors_count": 0,
+        "last_commit_date": "2025-05-28T04:31:31Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/bb651f6ab84ce3e05fee6807499c32140a078b9495b7a89c6f5efb29732797a3/xuemian168/domain-scanner"
+        ],
+        "homepage": "https://zli.li/",
+        "readme_summary": "Domain Scanner is a Go-based tool for checking domain name availability. It uses multiple verification methods like DNS records, WHOIS information, and SSL certificate verification. The tool supports advanced filtering with regular expressions, concurrent processing, and provides detailed verification results, making it easy to find available domain names.",
+        "key_features": [
+            "Multi-method Verification (DNS, WHOIS, SSL)",
+            "Advanced Filtering (Regular Expressions)",
+            "Concurrent Processing (Multi-threaded)",
+            "Smart Error Handling (Automatic Retries)",
+            "Detailed Results (Verification Signatures)",
+            "Configurable Delay"
+        ],
+        "primary_use_case": "Checking domain name availability based on various patterns and filters.",
+        "open_issues": 2,
+        "cover_image_prompt": "Imagine a seasoned cartographer meticulously charting unexplored territories on a digital map. The cartographer uses a specialized lens that reveals the availability of unclaimed lands (domain names), marking them with vibrant colors. Registered territories are shown with established flags and borders. The map is overlaid with subtle digital grids and glowing data streams, representing the real-time scanning process. Small UI elements display domain availability status and registration details. The scene is set in a futuristic map room with soft, ambient lighting. The image should be in a detailed digital painting style with clear outlines and a focus on clarity."
+    },
+    {
+        "id": 942369670,
+        "name": "clippy",
+        "description": "📎 Clippy, now with some AI",
+        "url": "https://github.com/felixrieseberg/clippy",
+        "language": "TypeScript",
+        "stars": 924,
+        "forks": 41,
+        "created_at": "2025-03-04T02:17:19Z",
+        "updated_at": "2025-06-19T10:05:38Z",
+        "topics": [
+            "ai",
+            "clippy",
+            "electron",
+            "llama",
+            "llm",
+            "retro"
+        ],
+        "quality_score": 0.5,
+        "contributors_count": 0,
+        "last_commit_date": "2025-05-08T15:06:14Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/ae66c86cbeeb9fd6797d1bdc431d63ac684726b47f31a742c741b1df9e342cb2/felixrieseberg/clippy"
+        ],
+        "homepage": "https://felixrieseberg.github.io/clippy/",
+        "readme_summary": "Clippy is an Electron-based application that allows users to run large language models (LLMs) locally on their computers. It provides a simple, nostalgic chat interface reminiscent of Microsoft Office 1997's Clippy. The application supports GGUF models via Llama.cpp and offers easy setup and offline operation.",
+        "key_features": [
+            "Simple chat interface",
+            "Batteries included (easy setup, automatic hardware acceleration)",
+            "Custom model support",
+            "Offline operation"
+        ],
+        "primary_use_case": "Running large language models locally with a retro-style user interface.",
+        "open_issues": 37,
+        "cover_image_prompt": "Imagine a retro office cubicle from the 1990s, but instead of a typical computer, there's a glowing, futuristic terminal. Clippy, the iconic paperclip assistant, stands beside it, not offering office advice, but orchestrating complex calculations represented by swirling, colorful data streams. These streams flow into the terminal and produce concise, helpful answers displayed in a classic chat window. Small UI elements showing llama.cpp configurations are subtly visible. The scene is bathed in the soft glow of CRT monitors, creating a nostalgic yet futuristic atmosphere. The image should be in a 3D isometric illustration style with vibrant colors and crisp details."
+    },
+    {
+        "id": 159785192,
+        "name": "ktorm",
+        "description": "A lightweight ORM framework for Kotlin with strong-typed SQL DSL and sequence APIs.",
+        "url": "https://github.com/kotlin-orm/ktorm",
+        "language": "Kotlin",
+        "stars": 2253,
+        "forks": 154,
+        "created_at": "2018-11-30T07:28:36Z",
+        "updated_at": "2025-06-19T08:51:39Z",
+        "topics": [
+            "kotlin",
+            "ktorm",
+            "orm",
+            "sql"
+        ],
+        "quality_score": 0.55,
+        "contributors_count": 0,
+        "last_commit_date": "2024-10-03T12:57:04Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/159785192/9b30d300-7645-11e9-8820-b2b7b5367fa0"
+        ],
+        "homepage": "https://www.ktorm.org",
+        "readme_summary": "Ktorm is a lightweight ORM framework for Kotlin that simplifies database interactions. It offers a strong-typed SQL DSL and sequence APIs, allowing developers to write flexible queries with fine-grained control over generated SQL. The framework is designed to be extensible, supporting custom operators, data types, and database dialects.",
+        "key_features": [
+            "No configuration files or annotations",
+            "Strong typed SQL DSL",
+            "Flexible queries with fine-grained control",
+            "Entity sequence APIs",
+            "Extensible design"
+        ],
+        "primary_use_case": "Simplifying database operations in Kotlin applications using a lightweight ORM framework.",
+        "open_issues": 97,
+        "cover_image_prompt": "A skilled sculptor meticulously chiseling away at a rough block of marble, revealing a perfectly formed database table inside. The sculptor's tools are labeled with \"Kotlin DSL\" and \"Sequence APIs.\" Digital code fragments subtly float around the sculptor, representing SQL queries being generated. The scene is set in a bright, modern workshop with natural light streaming in. The composition is clean and focused, highlighting the transformation from raw data to structured table. The image should be in a 3D isometric illustration style with a pastel color scheme."
     }
 ]

@@ -1,51 +1,44 @@
 [
     {
-        "project_id": 999844847,
-        "content": "🌟 <b>vicut</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting and manipulating text data from files or standard input using Vim commands in a command-line environment.\n<br>\n✨ <b>Key Features:</b>\n• Apply Vim-style editing commands to files or stdin.\n• Output in plain text, JSON, or using a format string.\n• Chain multiple editing/extraction commands.\n• Multi-threaded stream-style processing.\n• In-place file editing.\n<br>\n📖 <b>Summary:</b>\nVicut is a command-line text editor that leverages Vim's powerful editing capabilities for non-interactive text processing. It allows users to apply Vim commands to files or standard input, extract specific fields, and format the output as plain text, JSON, or custom templates. Vicut combines the expressiveness of Vim with the utility of command-line tools like sed and awk.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/km-clay/vicut?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ac6ac4cd0a6f8775b14ddb9e8d48fabc4b802320e4b5717527acece682d01efc/km-clay/vicut",
+        "project_id": 461205332,
+        "content": "🔥 <b>zoetic</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and delivering presentations with integrated webcam feed using Markdown.\n<br>\n✨ <b>Key Features:</b>\n• Markdown presentation with webcam integration\n• Slide creation using Markdown/MDX\n• Live presentation with screen sharing\n<br>\n📖 <b>Summary:</b>\nZoetic is a JavaScript-based tool for creating and presenting slides using Markdown, with the unique feature of integrating a live webcam feed directly into the presentation. It allows users to create slides using Markdown or MDX, and then present them with their webcam feed overlaid, making it suitable for online meetings and remote presentations. Planned features include green screen support, multi-camera support, and virtual webcam functionality.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kantord/zoetic?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/461205332/3eb9bd3a-0cb6-417c-ac4e-8057757fc652",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.55
     },
     {
-        "project_id": 276821911,
-        "content": "🚀 <b>dohot</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nImproving privacy by using DNS over HTTPS over Tor.\n<br>\n✨ <b>Key Features:</b>\n• Explanation of DNS over HTTPS over Tor\n• Encouragement of adoption of DNS over HTTPS over Tor\n• Simplification of adoption of DNS over HTTPS over Tor\n<br>\n📖 <b>Summary:</b>\nThe DoHoT project aims to promote and simplify the adoption of DNS over HTTPS over Tor for enhanced privacy. It provides resources and documentation to help users understand and implement this technology, addressing privacy concerns related to traditional DNS protocols. The project emphasizes the benefits of combining DoH and Tor to circumvent surveillance and interference with DNS queries.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alecmuffett/dohot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d3f2e903afe2ed3a0db32899b054645f52d1571958bcafca9769ee7beca6d454/alecmuffett/dohot",
-        "platform": "telegram",
-        "quality_score": 0.35
-    },
-    {
-        "project_id": 472962423,
-        "content": "🔥 <b>TxtNet-Browser</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nBrowsing the web over SMS without a mobile data connection.\n<br>\n✨ <b>Key Features:</b>\n• Browse the web over SMS\n• No WiFi or mobile data required\n• Uses Brotli compression\n• Custom Base-114 encoding\n• Removes media content, JavaScript, and CSS\n<br>\n📖 <b>Summary:</b>\nTxtNet Browser is an Android app that enables web browsing via SMS, eliminating the need for WiFi or mobile data. It utilizes Brotli compression and a custom encoding format to transmit web content. The app also features a built-in server hosting option, allowing users to act as server hosts and facilitate distributed communication.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lukeaschenbrenner/TxtNet-Browser?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/dfb55b84db3a8883d47467fb48f363c9973934be1ebba46b70aacfabbb9d46fd/lukeaschenbrenner/TxtNet-Browser",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 486418532,
-        "content": "🌟 <b>winutil</b> | PowerShell\n<br>\n🎯 <b>Primary Use Case:</b>\nStreamlining Windows system configuration, maintenance, and software installation.\n<br>\n✨ <b>Key Features:</b>\n• Installs programs\n• Debloats with tweaks\n• Troubleshoots with config\n• Fixes Windows updates\n<br>\n📖 <b>Summary:</b>\nWinutil is a PowerShell utility designed to automate and simplify common Windows tasks. It focuses on installing software, debloating unnecessary features, troubleshooting system configurations, and resolving Windows update issues. The utility aims to provide a streamlined and efficient way to maintain and optimize Windows systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ChrisTitusTech/winutil?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0af13aca143761192e300667ba2959a13b6d25ccee3f3e4b0798f097717ff796/ChrisTitusTech/winutil",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 956337638,
-        "content": "✨ <b>BongoCat</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAdding a fun, interactive desktop pet (BongoCat) to enhance user experience across different operating systems.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform support (Windows, macOS, Linux)\n• Desktop pet application\n• Inspired by Bongo-Cat-Mver\n<br>\n📖 <b>Summary:</b>\nBongoCat is a cross-platform desktop pet application that brings the popular Bongo Cat character to Windows, macOS, and Linux. Inspired by Bongo-Cat-Mver, it allows users to have an interactive cat animation on their desktop, adding a touch of fun and personality to their computing experience. The application is built using TypeScript and Tauri, ensuring compatibility across multiple platforms.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ayangweb/BongoCat?embed=0\">View Project</a>\n• <a href=\"https://github.com/ayangweb/Awesome-BongoCat?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/eef975f87fd8c47d6d478ff1a0d5b320d90cf2ea90e7efe43ed2ad63ba5dcdc9/ayangweb/BongoCat",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 966383042,
-        "content": "🌟 <b>dead-man-hand</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nExecuting predefined actions when the user is no longer available, ensuring privacy and confidentiality of those actions until that time.\n<br>\n✨ <b>Key Features:</b>\n• Privacy focused action execution\n• Encryption of actions using age\n• Integration with Vault for key management\n• Multiple action execution methods (json_post, bulksms, mail)\n• High test coverage\n<br>\n📖 <b>Summary:</b>\nThe dead-man-hand repository provides a privacy-focused dead man's switch software. It allows users to define actions that will be executed when they are no longer available, ensuring that these actions remain confidential until that specific time. The system uses encryption and integrates with Vault for secure key management, supporting multiple action execution methods.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bkupidura/dead-man-hand?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f5bc5d2077d8a35e2687b761c4984df85a715f9e9c29839311ac17ecea2375d0/bkupidura/dead-man-hand",
-        "platform": "telegram",
-        "quality_score": 0.4
-    },
-    {
-        "project_id": 895165567,
-        "content": "🔥 <b>timr-tui</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nOrganizing time and improving focus using Pomodoro technique, countdowns, and general time tracking within a terminal user interface.\n<br>\n✨ <b>Key Features:</b>\n• Pomodoro timer\n• Countdown timer\n• General timer\n• Customizable styles\n• CLI interface\n<br>\n📖 <b>Summary:</b>\ntimr-tui is a terminal-based application built with Rust and Ratatui for managing time using Pomodoro timers, countdowns, and general timers. It offers a CLI interface and customizable keybindings for easy control, allowing users to organize their work and track time efficiently within a terminal environment.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sectore/timr-tui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/12f03a90cf369f2640ac2ff4af807e5ee55dcbb3651558b9021b973c5ff336e7/sectore/timr-tui",
+        "project_id": 996231722,
+        "content": "🚀 <b>Transfer</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nQuickly transfer files between devices on a local network without needing cables, cloud services, or complex configurations.\n<br>\n✨ <b>Key Features:</b>\n• Effortless LAN Sharing\n• Configurable Security (IP Permissions, Password Protection)\n• Powerful CLI Access (curl-friendly)\n• Dual Browse UI (App and Web)\n• Quick In-App Transfers (Upload, Paste)\n<br>\n📖 <b>Summary:</b>\nTransfer is an Android app that creates a local file server, allowing users to easily upload and download files between devices on the same Wi-Fi network. It offers a simple web interface and command-line access, with security features like IP permissions and password protection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/matan-h/Transfer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/431629822ffb41c3410ea642ae889dfd958720786f85dabffd9809b48ec76607/matan-h/Transfer",
         "platform": "telegram",
         "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 618260101,
+        "content": "🌟 <b>The-50-Front-end-Project</b> | CSS\n<br>\n🎯 <b>Primary Use Case:</b>\nLearning and improving frontend web development skills through practical projects.\n<br>\n✨ <b>Key Features:</b>\n• 50 frontend projects\n• HTML, CSS, JavaScript\n• React\n• Bootstrap\n• Tailwind CSS\n<br>\n📖 <b>Summary:</b>\nThis repository provides a collection of 50 frontend projects designed to help developers enhance their web development skills. The projects cover a wide range of technologies, including HTML, CSS, JavaScript, React, Bootstrap, and Tailwind CSS. It serves as a practical resource for learning and skill improvement through hands-on experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SudeepAcharjee/The-50-Front-end-Project?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a7655dbca475ff23e193ad8592fd15b167614d0666909d92ae768773334ef83a/SudeepAcharjee/The-50-Front-end-Project",
+        "platform": "telegram",
+        "quality_score": 0.5
+    },
+    {
+        "project_id": 971698957,
+        "content": "🔥 <b>domain-scanner</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nChecking domain name availability based on various patterns and filters.\n<br>\n✨ <b>Key Features:</b>\n• Multi-method Verification (DNS, WHOIS, SSL)\n• Advanced Filtering (Regular Expressions)\n• Concurrent Processing (Multi-threaded)\n• Smart Error Handling (Automatic Retries)\n• Detailed Results (Verification Signatures)\n<br>\n📖 <b>Summary:</b>\nDomain Scanner is a Go-based tool for checking domain name availability. It uses multiple verification methods like DNS records, WHOIS information, and SSL certificate verification. The tool supports advanced filtering with regular expressions, concurrent processing, and provides detailed verification results, making it easy to find available domain names.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/xuemian168/domain-scanner?embed=0\">View Project</a>\n• <a href=\"https://zli.li/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/bb651f6ab84ce3e05fee6807499c32140a078b9495b7a89c6f5efb29732797a3/xuemian168/domain-scanner",
+        "platform": "telegram",
+        "quality_score": 0.9
+    },
+    {
+        "project_id": 942369670,
+        "content": "✨ <b>clippy</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning large language models locally with a retro-style user interface.\n<br>\n✨ <b>Key Features:</b>\n• Simple chat interface\n• Batteries included (easy setup, automatic hardware acceleration)\n• Custom model support\n• Offline operation\n<br>\n📖 <b>Summary:</b>\nClippy is an Electron-based application that allows users to run large language models (LLMs) locally on their computers. It provides a simple, nostalgic chat interface reminiscent of Microsoft Office 1997's Clippy. The application supports GGUF models via Llama.cpp and offers easy setup and offline operation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/felixrieseberg/clippy?embed=0\">View Project</a>\n• <a href=\"https://felixrieseberg.github.io/clippy/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ae66c86cbeeb9fd6797d1bdc431d63ac684726b47f31a742c741b1df9e342cb2/felixrieseberg/clippy",
+        "platform": "telegram",
+        "quality_score": 0.5
+    },
+    {
+        "project_id": 159785192,
+        "content": "💡 <b>ktorm</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying database operations in Kotlin applications using a lightweight ORM framework.\n<br>\n✨ <b>Key Features:</b>\n• No configuration files or annotations\n• Strong typed SQL DSL\n• Flexible queries with fine-grained control\n• Entity sequence APIs\n• Extensible design\n<br>\n📖 <b>Summary:</b>\nKtorm is a lightweight ORM framework for Kotlin that simplifies database interactions. It offers a strong-typed SQL DSL and sequence APIs, allowing developers to write flexible queries with fine-grained control over generated SQL. The framework is designed to be extensible, supporting custom operators, data types, and database dialects.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kotlin-orm/ktorm?embed=0\">View Project</a>\n• <a href=\"https://www.ktorm.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/159785192/9b30d300-7645-11e9-8820-b2b7b5367fa0",
+        "platform": "telegram",
+        "quality_score": 0.55
     }
 ]
