@@ -1,228 +1,207 @@
 [
     {
-        "id": 461205332,
-        "name": "zoetic",
-        "description": "🌱 🎥 Markdown presentations using your webcam",
-        "url": "https://github.com/kantord/zoetic",
-        "language": "JavaScript",
-        "stars": 73,
-        "forks": 2,
-        "created_at": "2022-02-19T13:49:30Z",
-        "updated_at": "2025-06-19T08:51:06Z",
+        "id": 964314175,
+        "name": "terminator",
+        "description": "Computer use SDK for building agents that learn from human screen recordings. Cross-platform (Windows/macOS/Linux), deterministic, and ready for L5 desktop automation.",
+        "url": "https://github.com/mediar-ai/terminator",
+        "language": "Rust",
+        "stars": 642,
+        "forks": 79,
+        "created_at": "2025-04-11T02:48:04Z",
+        "updated_at": "2025-06-20T10:05:09Z",
         "topics": [
-            "jsx",
-            "markdown",
-            "mdx",
-            "mdx-deck",
-            "pre",
-            "presentation",
-            "react",
-            "remote-work",
-            "slides",
-            "slideshow",
-            "webcam",
-            "webcam-streaming"
-        ],
-        "quality_score": 0.55,
-        "contributors_count": 0,
-        "last_commit_date": "2022-11-13T18:25:04Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/461205332/3eb9bd3a-0cb6-417c-ac4e-8057757fc652"
-        ],
-        "homepage": "",
-        "readme_summary": "Zoetic is a JavaScript-based tool for creating and presenting slides using Markdown, with the unique feature of integrating a live webcam feed directly into the presentation. It allows users to create slides using Markdown or MDX, and then present them with their webcam feed overlaid, making it suitable for online meetings and remote presentations. Planned features include green screen support, multi-camera support, and virtual webcam functionality.",
-        "key_features": [
-            "Markdown presentation with webcam integration",
-            "Slide creation using Markdown/MDX",
-            "Live presentation with screen sharing",
-            "Planned features: Green screen support, multi-camera support, virtual webcam support, on-screen drawing, window sharing"
-        ],
-        "primary_use_case": "Creating and delivering presentations with integrated webcam feed using Markdown.",
-        "open_issues": 1,
-        "cover_image_prompt": "A presenter stands on a stage, seamlessly integrated into their slide presentation via webcam. The slides display various topics, while the presenter's live video feed is cleverly overlaid, creating an engaging and dynamic presentation. The stage is bathed in soft, focused lighting, highlighting the presenter and the slides. Subtle UI elements float around the presenter, representing controls for managing the slides and camera. The repository name, 'zoetic', is subtly displayed on a screen in the background. The image should be in a digital painting style with clean lines and vibrant colors."
-    },
-    {
-        "id": 996231722,
-        "name": "Transfer",
-        "description": "A local file server Android app. Upload and download files over Wi-Fi ",
-        "url": "https://github.com/matan-h/Transfer",
-        "language": "Kotlin",
-        "stars": 53,
-        "forks": 2,
-        "created_at": "2025-06-04T16:40:53Z",
-        "updated_at": "2025-06-19T07:59:04Z",
-        "topics": [
-            "android",
-            "android-app",
-            "file-sharing",
-            "file-sharing-server",
-            "local-network",
-            "local-server",
-            "no-cloud"
-        ],
-        "quality_score": 0.7499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-06-15T11:10:13Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/431629822ffb41c3410ea642ae889dfd958720786f85dabffd9809b48ec76607/matan-h/Transfer"
-        ],
-        "homepage": "",
-        "readme_summary": "Transfer is an Android app that creates a local file server, allowing users to easily upload and download files between devices on the same Wi-Fi network. It offers a simple web interface and command-line access, with security features like IP permissions and password protection.",
-        "key_features": [
-            "Effortless LAN Sharing",
-            "Configurable Security (IP Permissions, Password Protection)",
-            "Powerful CLI Access (curl-friendly)",
-            "Dual Browse UI (App and Web)",
-            "Quick In-App Transfers (Upload, Paste)"
-        ],
-        "primary_use_case": "Quickly transfer files between devices on a local network without needing cables, cloud services, or complex configurations.",
-        "open_issues": 3,
-        "cover_image_prompt": "Imagine a friendly bellhop in a bustling hotel lobby, effortlessly transferring suitcases (files) between guests (devices) using a levitating platform. The platform glows with Wi-Fi signals, and each suitcase has a small screen displaying its contents. In the background, a subtle UI element shows an IP address and port number. The scene is bright and welcoming, with a clean, modern aesthetic. The image should be in a 3D isometric illustration style with soft lighting and pastel colors."
-    },
-    {
-        "id": 618260101,
-        "name": "The-50-Front-end-Project",
-        "description": "This git repository consists of a collection of 50 carefully curated frontend projects that showcase your skills and creativity as a frontend developer. Each project is unique and visually stunning, demonstrating your proficiency in a wide range of technologies and design principles",
-        "url": "https://github.com/SudeepAcharjee/The-50-Front-end-Project",
-        "language": "CSS",
-        "stars": 316,
-        "forks": 84,
-        "created_at": "2023-03-24T04:45:03Z",
-        "updated_at": "2025-06-19T09:25:52Z",
-        "topics": [
-            "bootstrap",
-            "css",
-            "html5",
-            "js",
-            "json",
-            "nodejs",
-            "reactjs",
-            "scss",
-            "typescript"
-        ],
-        "quality_score": 0.5,
-        "contributors_count": 0,
-        "last_commit_date": "2025-03-12T18:22:30Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/a7655dbca475ff23e193ad8592fd15b167614d0666909d92ae768773334ef83a/SudeepAcharjee/The-50-Front-end-Project"
-        ],
-        "homepage": "",
-        "readme_summary": "This repository provides a collection of 50 frontend projects designed to help developers enhance their web development skills. The projects cover a wide range of technologies, including HTML, CSS, JavaScript, React, Bootstrap, and Tailwind CSS. It serves as a practical resource for learning and skill improvement through hands-on experience.",
-        "key_features": [
-            "50 frontend projects",
-            "HTML, CSS, JavaScript",
-            "React",
-            "Bootstrap",
-            "Tailwind CSS",
-            "Diverse range of projects"
-        ],
-        "primary_use_case": "Learning and improving frontend web development skills through practical projects.",
-        "open_issues": 0,
-        "cover_image_prompt": "Imagine a grand stage where a spotlight shines on 50 miniature theaters, each showcasing a different frontend project. A master puppeteer stands proudly, holding strings connected to each theater, subtly adjusting the scenes within. Each theater features a unique visual style and interactive element, representing the diverse range of projects. Small screens embedded in the stage display snippets of HTML, CSS, and JavaScript code, subtly connecting the scene to software. The stage is set in a modern, minimalist studio with soft, ambient lighting. The composition is wide and panoramic, capturing the breadth of the collection. The color scheme is vibrant and diverse, reflecting the variety of projects. The image should be in 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 971698957,
-        "name": "domain-scanner",
-        "description": "一个用Go语言编写的强大且灵活的域名注册可用性检查扫描工具 A powerful and flexible domain name availability checker written in Go. This tool helps you find available domain names based on various patterns and filters.",
-        "url": "https://github.com/xuemian168/domain-scanner",
-        "language": "Go",
-        "stars": 340,
-        "forks": 46,
-        "created_at": "2025-04-23T23:34:49Z",
-        "updated_at": "2025-06-19T08:49:19Z",
-        "topics": [
-            "domain",
-            "tld"
-        ],
-        "quality_score": 0.9,
-        "contributors_count": 0,
-        "last_commit_date": "2025-05-28T04:31:31Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/bb651f6ab84ce3e05fee6807499c32140a078b9495b7a89c6f5efb29732797a3/xuemian168/domain-scanner"
-        ],
-        "homepage": "https://zli.li/",
-        "readme_summary": "Domain Scanner is a Go-based tool for checking domain name availability. It uses multiple verification methods like DNS records, WHOIS information, and SSL certificate verification. The tool supports advanced filtering with regular expressions, concurrent processing, and provides detailed verification results, making it easy to find available domain names.",
-        "key_features": [
-            "Multi-method Verification (DNS, WHOIS, SSL)",
-            "Advanced Filtering (Regular Expressions)",
-            "Concurrent Processing (Multi-threaded)",
-            "Smart Error Handling (Automatic Retries)",
-            "Detailed Results (Verification Signatures)",
-            "Configurable Delay"
-        ],
-        "primary_use_case": "Checking domain name availability based on various patterns and filters.",
-        "open_issues": 2,
-        "cover_image_prompt": "Imagine a seasoned cartographer meticulously charting unexplored territories on a digital map. The cartographer uses a specialized lens that reveals the availability of unclaimed lands (domain names), marking them with vibrant colors. Registered territories are shown with established flags and borders. The map is overlaid with subtle digital grids and glowing data streams, representing the real-time scanning process. Small UI elements display domain availability status and registration details. The scene is set in a futuristic map room with soft, ambient lighting. The image should be in a detailed digital painting style with clear outlines and a focus on clarity."
-    },
-    {
-        "id": 942369670,
-        "name": "clippy",
-        "description": "📎 Clippy, now with some AI",
-        "url": "https://github.com/felixrieseberg/clippy",
-        "language": "TypeScript",
-        "stars": 924,
-        "forks": 41,
-        "created_at": "2025-03-04T02:17:19Z",
-        "updated_at": "2025-06-19T10:05:38Z",
-        "topics": [
+            "agent",
+            "agents",
             "ai",
-            "clippy",
-            "electron",
-            "llama",
             "llm",
-            "retro"
+            "ml",
+            "native",
+            "py",
+            "rust",
+            "ts",
+            "vercel",
+            "vercel-ai-sdk"
         ],
-        "quality_score": 0.5,
+        "quality_score": 1.0000000000000002,
         "contributors_count": 0,
-        "last_commit_date": "2025-05-08T15:06:14Z",
+        "last_commit_date": "2025-06-20T01:39:59Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/ae66c86cbeeb9fd6797d1bdc431d63ac684726b47f31a742c741b1df9e342cb2/felixrieseberg/clippy"
+            "https://opengraph.githubassets.com/d62d763757562a2e71281097b2061287e5792882dc3d3dd3e96ab945591fd5be/mediar-ai/terminator"
         ],
-        "homepage": "https://felixrieseberg.github.io/clippy/",
-        "readme_summary": "Clippy is an Electron-based application that allows users to run large language models (LLMs) locally on their computers. It provides a simple, nostalgic chat interface reminiscent of Microsoft Office 1997's Clippy. The application supports GGUF models via Llama.cpp and offers easy setup and offline operation.",
+        "homepage": "https://docs.screenpi.pe/terminator/introduction",
+        "readme_summary": "Terminator is a computer use SDK designed for building AI agents that learn from human screen recordings to automate desktop applications. It offers cross-platform support (Windows, macOS, Linux), deterministic behavior, and leverages OS-level accessibility for efficient UI interaction. The SDK supports TypeScript, Python, and Rust, making it suitable for various development environments.",
         "key_features": [
-            "Simple chat interface",
-            "Batteries included (easy setup, automatic hardware acceleration)",
-            "Custom model support",
-            "Offline operation"
+            "Cross-platform desktop automation (Windows/macOS/Linux)",
+            "Deterministic behavior",
+            "Designed for AI agents",
+            "Uses OS-level accessibility",
+            "RLHF'd human screen recording as context",
+            "Supports TypeScript, Python, and Rust"
         ],
-        "primary_use_case": "Running large language models locally with a retro-style user interface.",
-        "open_issues": 37,
-        "cover_image_prompt": "Imagine a retro office cubicle from the 1990s, but instead of a typical computer, there's a glowing, futuristic terminal. Clippy, the iconic paperclip assistant, stands beside it, not offering office advice, but orchestrating complex calculations represented by swirling, colorful data streams. These streams flow into the terminal and produce concise, helpful answers displayed in a classic chat window. Small UI elements showing llama.cpp configurations are subtly visible. The scene is bathed in the soft glow of CRT monitors, creating a nostalgic yet futuristic atmosphere. The image should be in a 3D isometric illustration style with vibrant colors and crisp details."
+        "primary_use_case": "Building agents that learn from human screen recordings for desktop automation.",
+        "open_issues": 22,
+        "cover_image_prompt": "A skilled puppeteer controlling miniature desktop applications with glowing threads connected to their interfaces. The puppeteer sits at a workbench surrounded by screens displaying code and data visualizations related to UI automation. The applications, including a calculator and notepad, mimic the puppeteer's movements with precision. The scene is set in a brightly lit workshop filled with tools and gadgets. Small digital elements like floating code snippets and UI elements subtly connect the metaphor to software. The composition is focused and clean with a vibrant color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
     },
     {
-        "id": 159785192,
-        "name": "ktorm",
-        "description": "A lightweight ORM framework for Kotlin with strong-typed SQL DSL and sequence APIs.",
-        "url": "https://github.com/kotlin-orm/ktorm",
-        "language": "Kotlin",
-        "stars": 2253,
-        "forks": 154,
-        "created_at": "2018-11-30T07:28:36Z",
-        "updated_at": "2025-06-19T08:51:39Z",
-        "topics": [
-            "kotlin",
-            "ktorm",
-            "orm",
-            "sql"
-        ],
-        "quality_score": 0.55,
+        "id": 998990487,
+        "name": "enchat",
+        "description": "End-to-end encrypted, ephemeral, self-hosted terminal chat — no accounts, no history, no cloud.",
+        "url": "https://github.com/sudodevdante/enchat",
+        "language": "Python",
+        "stars": 54,
+        "forks": 3,
+        "created_at": "2025-06-09T15:10:56Z",
+        "updated_at": "2025-06-20T09:08:59Z",
+        "topics": [],
+        "quality_score": 0.44999999999999996,
         "contributors_count": 0,
-        "last_commit_date": "2024-10-03T12:57:04Z",
+        "last_commit_date": "2025-06-19T17:30:46Z",
         "media_urls": [
-            "https://repository-images.githubusercontent.com/159785192/9b30d300-7645-11e9-8820-b2b7b5367fa0"
+            "https://opengraph.githubassets.com/db5aa0ba79e75d0bacc9434f171766b4adc495ec9f3b155c95a1efa780831ab4/sudodevdante/enchat"
         ],
-        "homepage": "https://www.ktorm.org",
-        "readme_summary": "Ktorm is a lightweight ORM framework for Kotlin that simplifies database interactions. It offers a strong-typed SQL DSL and sequence APIs, allowing developers to write flexible queries with fine-grained control over generated SQL. The framework is designed to be extensible, supporting custom operators, data types, and database dialects.",
+        "homepage": null,
+        "readme_summary": "Enchat is a terminal-based chat application that provides end-to-end encrypted communication with a focus on privacy and security. It offers features like secure room creation, file sharing, perfect forward secrecy, Tor support, and a zero-knowledge architecture, ensuring that messages are cryptographically protected and invisible to servers and eavesdroppers.",
         "key_features": [
-            "No configuration files or annotations",
-            "Strong typed SQL DSL",
-            "Flexible queries with fine-grained control",
-            "Entity sequence APIs",
-            "Extensible design"
+            "End-to-end encrypted chat",
+            "Secure room and file sharing",
+            "Perfect Forward Secrecy (PFS)",
+            "Tor support",
+            "Zero-knowledge architecture",
+            "Cross-platform support"
         ],
-        "primary_use_case": "Simplifying database operations in Kotlin applications using a lightweight ORM framework.",
-        "open_issues": 97,
-        "cover_image_prompt": "A skilled sculptor meticulously chiseling away at a rough block of marble, revealing a perfectly formed database table inside. The sculptor's tools are labeled with \"Kotlin DSL\" and \"Sequence APIs.\" Digital code fragments subtly float around the sculptor, representing SQL queries being generated. The scene is set in a bright, modern workshop with natural light streaming in. The composition is clean and focused, highlighting the transformation from raw data to structured table. The image should be in a 3D isometric illustration style with a pastel color scheme."
+        "primary_use_case": "End-to-end encrypted, ephemeral terminal chat for private conversations without corporate surveillance or data harvesting.",
+        "open_issues": 2,
+        "cover_image_prompt": "A group of people sitting around a digital campfire, whispering secrets into the flames, which transform into encrypted messages that float away unseen. Each person is represented by a stylized terminal window, and the campfire glows with digital particles. Subtle UI elements on the terminal windows show encrypted chat interfaces. The scene is set in a dark, cozy forest clearing with soft, ambient lighting. The image should be in a 3D isometric illustration style with rich details and a warm color scheme."
+    },
+    {
+        "id": 904467755,
+        "name": "purrcrypt",
+        "description": "A fur-ociously secure encryption tool that encodes your secrets as adorable cat and dog sounds, using real elliptic curve cryptography with a playful disguise.",
+        "url": "https://github.com/vxfemboy/purrcrypt",
+        "language": "Rust",
+        "stars": 500,
+        "forks": 15,
+        "created_at": "2024-12-17T00:22:51Z",
+        "updated_at": "2025-06-20T10:09:44Z",
+        "topics": [
+            "cats",
+            "command-line-tool",
+            "cryptography",
+            "dogs",
+            "elliptic-curves",
+            "encryption",
+            "fun",
+            "pets",
+            "privacy",
+            "secuirty",
+            "steganography",
+            "terminal-app"
+        ],
+        "quality_score": 0.4,
+        "contributors_count": 0,
+        "last_commit_date": "2025-03-11T19:08:01Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/f68e4d6c71558b62038bb47bab3ac25ba82fb1ca99a36ffe0b7daed2dad6fc74/vxfemboy/purrcrypt"
+        ],
+        "homepage": "",
+        "readme_summary": "PurrCrypt is a command-line tool that encrypts data using elliptic curve cryptography and encodes the encrypted data as adorable cat and dog sounds. It provides a fun and unique way to protect sensitive information, offering key generation, management, and the option to choose between 'cat' or 'dog' dialects for the encoded output. The tool aims to make cryptography more approachable and entertaining while maintaining a high level of security.",
+        "key_features": [
+            "Encrypts data using elliptic curve cryptography",
+            "Encodes encrypted data as cat and dog sounds",
+            "Command-line tool interface",
+            "Key generation and management",
+            "Supports different 'pet personalities' (cat or dog dialect)"
+        ],
+        "primary_use_case": "Encrypting files and messages with a playful disguise using real cryptography.",
+        "open_issues": 2,
+        "cover_image_prompt": "A friendly cryptographer, dressed in a lab coat adorned with cat and dog paw prints, is surrounded by adorable kittens and puppies. The cryptographer is whispering secrets into a microphone that transforms the audio into a stream of meows and woofs, which then encrypts a glowing data packet. The encrypted packet is delivered by a carrier pigeon wearing a tiny top hat. UI elements showing elliptic curve cryptography calculations are subtly displayed on nearby screens. The scene is set in a whimsical laboratory filled with yarn balls and chew toys, bathed in soft, playful lighting. The image should be in a 3D isometric illustration style with vibrant colors and a focus on clear, intuitive visual elements."
+    },
+    {
+        "id": 409737972,
+        "name": "Gitnuro",
+        "description": "A FOSS Git multiplatform client for newbies and pros",
+        "url": "https://github.com/JetpackDuba/Gitnuro",
+        "language": "Kotlin",
+        "stars": 1186,
+        "forks": 67,
+        "created_at": "2021-09-23T20:41:02Z",
+        "updated_at": "2025-06-20T08:37:01Z",
+        "topics": [
+            "compose-multiplatform",
+            "git",
+            "jetbrains-compose",
+            "jgit",
+            "kotlin",
+            "multiplatform",
+            "rust"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-06-17T08:23:16Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/67707c5d361cd6e8bcd50fbbaae0bc407115a3ffd036c87b3edeb52ac252048b/JetpackDuba/Gitnuro"
+        ],
+        "homepage": "https://gitnuro.com/",
+        "readme_summary": "Gitnuro is a free and open-source multiplatform Git client built with Jetbrains Compose and JGit. It provides a comprehensive set of Git features, including staging, committing, branching, merging, and history viewing, accessible through a user-friendly interface. The client aims to offer a constraint-free Git experience without relying on web technologies.",
+        "key_features": [
+            "View diffs for text based files",
+            "View history log and all its branches",
+            "Add (stage) & reset (unstage) files",
+            "Clone, Commit, Push, Pull",
+            "Branch and Tag management",
+            "Stash and pop",
+            "Rebase and Merge",
+            "Submodules support",
+            "Theming",
+            "Blame file",
+            "View file history"
+        ],
+        "primary_use_case": "A multiplatform Git client for managing Git repositories, aimed at both beginners and experienced users.",
+        "open_issues": 81,
+        "cover_image_prompt": "Imagine a skilled artisan meticulously crafting a complex clockwork mechanism, each gear representing a Git operation. The artisan carefully adjusts and polishes the gears, ensuring they interlock perfectly to manage the flow of code. A blueprint subtly displaying a branch graph lies on the workbench, and a digital screen embedded in the bench shows real-time commit history. The scene is set in a brightly lit workshop with a clean, organized aesthetic. The illustration should be in a detailed 3D isometric style with a focus on clarity and precision."
+    },
+    {
+        "id": 442716595,
+        "name": "clickvisual",
+        "description": "A lightweight log analytic and data visualize platform  built on clickhouse.",
+        "url": "https://github.com/clickvisual/clickvisual",
+        "language": "Go",
+        "stars": 1594,
+        "forks": 229,
+        "created_at": "2021-12-29T09:00:39Z",
+        "updated_at": "2025-06-20T03:13:27Z",
+        "topics": [
+            "admin",
+            "analytics",
+            "clickhouse",
+            "clickhouse-database",
+            "elk",
+            "go",
+            "golang",
+            "kibana",
+            "kubernetes",
+            "log",
+            "search",
+            "ui"
+        ],
+        "quality_score": 0.6,
+        "contributors_count": 0,
+        "last_commit_date": "2025-04-16T03:52:41Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/0245f4b38cdae0738c54bd1d45289a9286e28bd46cad5ace0b74d2005d62335d/clickvisual/clickvisual"
+        ],
+        "homepage": "https://clickvisual.net",
+        "readme_summary": "ClickVisual is a lightweight, browser-based platform designed for log analytics and visualization on ClickHouse. It offers features such as visual query dashboards, support for raw logs, percentage display for specified fields, and a VS Code style configuration board for Fluent-bit. It also supports easy deployment with Kubernetes and authentication via GitHub and GitLab.",
+        "key_features": [
+            "Visual query dashboard for SQL",
+            "Query histogram and raw logs support",
+            "Percentage display for specified fields",
+            "VS Code style configuration board for Fluent-bit",
+            "Kubernetes deployment support",
+            "GitHub and GitLab Authentication"
+        ],
+        "primary_use_case": "Log analytics and data visualization for ClickHouse.",
+        "open_issues": 62,
+        "cover_image_prompt": "Imagine a skilled cartographer meticulously charting a vast, swirling ocean of log data, transforming it into a clear, navigable map. The cartographer uses specialized tools to analyze the data streams, highlighting key trends and potential hazards. Small screens display real-time log entries and query results, subtly connecting the map to the underlying software. The scene is set in a bright, airy observatory overlooking the data ocean. The composition is clean and focused, emphasizing the clarity and accessibility of the visualized data. The image should be in a 3D isometric illustration style with vibrant colors and crisp details."
     }
 ]
