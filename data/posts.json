@@ -1,51 +1,44 @@
 [
     {
-        "project_id": 438267145,
-        "content": "🚀 <b>quiet</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nPrivate, p2p team communication as an alternative to Slack and Discord.\n<br>\n✨ <b>Key Features:</b>\n• Team Chat\n• End-to-end Encryption\n• Channels\n• Decentralized communication over Tor\n• No central server required\n<br>\n📖 <b>Summary:</b>\nQuiet is a decentralized, peer-to-peer team chat application built on Tor. It offers end-to-end encryption and eliminates the need for a central server, providing a private alternative to traditional team communication platforms like Slack and Discord. Users can create communities and communicate directly with each other, ensuring data privacy and control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TryQuiet/quiet?embed=0\">View Project</a>\n• <a href=\"https://www.tryquiet.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/438267145/6414416f-0916-4a8f-ba1d-0c4e93c1b7c0",
+        "project_id": 715131551,
+        "content": "🚀 <b>cloudypad</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDeploying and managing a personal cloud gaming server to stream games without requiring a powerful local machine or a subscription.\n<br>\n✨ <b>Key Features:</b>\n• Cloud gaming platform alternative\n• Stream games with Moonlight\n• Supports Steam, Pegasus, and Lutris\n<br>\n📖 <b>Summary:</b>\nCloudy Pad is an open-source alternative to cloud gaming platforms like GeForce Now, allowing users to deploy their own gaming server on various cloud providers. It supports streaming via Moonlight, integrates with game launchers like Steam and Lutris, and offers cost management features such as spot instance utilization and automated shutdowns, providing a pay-as-you-go cloud gaming experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/PierreBeucher/cloudypad?embed=0\">View Project</a>\n• <a href=\"https://cloudypad.gg?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/715131551/d48759f4-f391-404c-af61-91c2bc32c337",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 58327877,
+        "content": "🌟 <b>browsh</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBrowsing the web on low-bandwidth connections or resource-constrained devices.\n<br>\n✨ <b>Key Features:</b>\n• Text-based browser\n• TTY rendering\n• Headless Firefox backend\n• Bandwidth optimization\n• SSH/MoSH support\n<br>\n📖 <b>Summary:</b>\nBrowsh is a text-based browser that utilizes a headless Firefox instance to render modern web pages in a terminal or another browser. It's designed for use in situations with limited bandwidth or on devices with low processing power, allowing users to access the web via SSH or MoSH connections.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/browsh-org/browsh?embed=0\">View Project</a>\n• <a href=\"https://www.brow.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0576ecfee725112cebe092367c71ec2c56454c00aa7f6359522f326aa13d2364/browsh-org/browsh",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 792322009,
+        "content": "🚀 <b>packemon</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating and monitoring network packets for debugging, testing, and security analysis.\n<br>\n✨ <b>Key Features:</b>\n• Packet generation with customizable network interfaces\n• Packet monitoring on specified network interfaces\n• TUI interface for packet analysis\n• Packet filtering\n• Detailed packet view\n<br>\n📖 <b>Summary:</b>\nPackémon is a TUI tool for generating and monitoring network packets. It allows users to craft and send custom packets over specified network interfaces and observe network traffic in real-time. The tool provides features for packet filtering and detailed packet analysis, making it suitable for network debugging, testing, and security assessments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ddddddO/packemon?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/792322009/a910c8f1-0f88-4fe4-804b-f772bf0233b7",
+        "platform": "telegram",
+        "quality_score": 0.9
+    },
+    {
+        "project_id": 248058818,
+        "content": "🌟 <b>tracy</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nPerformance analysis and optimization of games and other applications.\n<br>\n✨ <b>Key Features:</b>\n• Real-time profiling\n• Nanosecond resolution\n• Remote telemetry\n• Hybrid frame and sampling profiler\n• CPU profiling (C, C++, Lua, Python, Fortran)\n<br>\n📖 <b>Summary:</b>\nTracy is a real-time, nanosecond-resolution profiler designed for analyzing the performance of applications, particularly games. It supports CPU and GPU profiling, memory allocation tracking, lock contention analysis, and context switch monitoring. Tracy offers remote telemetry and hybrid frame/sampling profiling capabilities, with direct support for C, C++, Lua, Python, and Fortran, as well as bindings for other languages.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wolfpld/tracy?embed=0\">View Project</a>\n• <a href=\"https://tracy.nereid.pl/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/248058818/cfa1df80-5d93-11eb-9eea-b3637187d296",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 968818186,
-        "content": "💡 <b>doc2image</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTransforming documents into image generation prompts for AI art platforms.\n<br>\n✨ <b>Key Features:</b>\n• Intuitive interface\n• Quick setup\n• Flexible AI support (OpenAI & local models)\n• Prompt history\n• Customizable settings\n<br>\n📖 <b>Summary:</b>\nDoc2Image is an AI-powered application that converts documents into creative image prompts. It extracts key points from uploaded files and generates visual descriptions suitable for use with platforms like MidJourney and DALL·E. The application supports both OpenAI and local models, offering a flexible and customizable experience for users to create stunning AI-generated images.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dylannalex/doc2image?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/03d1bf00d4fd1edf1576bd90c8d8928e4854dede188dda43cd06f146b2e948f6/dylannalex/doc2image",
+        "project_id": 974730632,
+        "content": "✨ <b>openresty-manager</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nHost management and reverse proxy setup with a focus on ease of use and security.\n<br>\n✨ <b>Key Features:</b>\n• Web management UI\n• Free SSL support\n• Reverse proxy creation\n• Host management (terminal and file manager)\n• Application store\n<br>\n📖 <b>Summary:</b>\nOpenResty Manager is a host management panel designed as an open-source alternative to OpenResty Edge. It simplifies the process of securing reverse proxy websites, managing hosts, and deploying applications through a user-friendly web interface and an application store. It also automates free SSL certificate management and provides tools for access control and denial of service protection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Safe3/openresty-manager?embed=0\">View Project</a>\n• <a href=\"https://om.uusec.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/974730632/0ccdfed9-1d0f-489a-806b-f768e0bada16",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.6
     },
     {
-        "project_id": 1004995740,
-        "content": "🌟 <b>claudia</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nGUI application and toolkit for managing Claude Code sessions and creating custom AI agents.\n<br>\n✨ <b>Key Features:</b>\n• Project & Session Management\n• Custom AI Agents\n• Advanced Sandboxing\n• Usage Analytics Dashboard\n• MCP Server Management\n<br>\n📖 <b>Summary:</b>\nClaudia is a desktop application that provides a GUI for managing Claude Code sessions, creating custom AI agents, and tracking usage. It offers features like project management, advanced sandboxing, and usage analytics, aiming to bridge the gap between command-line tools and a visual experience for AI-assisted development.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/getAsterisk/claudia?embed=0\">View Project</a>\n• <a href=\"https://claudia.asterisk.so?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c8da1e98f642e5c166ccd0d0ac258eb00d97dc01a6a321c063bb1da946ca6990/getAsterisk/claudia",
+        "project_id": 64713769,
+        "content": "💡 <b>ScreenToGif</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nRecording screen activity, webcam feed, or sketchboard drawings and saving them as GIFs or videos.\n<br>\n✨ <b>Key Features:</b>\n• Screen recording\n• Webcam recording\n• Sketchboard recording\n• GIF creation\n• Video creation\n<br>\n📖 <b>Summary:</b>\nScreenToGif is a tool for recording a selected area of your screen, live webcam feed, or sketchboard drawings. It allows users to edit the recordings and save them as GIFs, videos, or other image formats. The application provides a comprehensive solution for creating and editing screen recordings for various purposes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/NickeManarin/ScreenToGif?embed=0\">View Project</a>\n• <a href=\"http://www.screentogif.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/64713769/4509a580-4b6d-11ea-8635-9961694842b2",
         "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 692417299,
-        "content": "🌟 <b>subs-share</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nSharing and discovering YouTube channel subscriptions with friends and others.\n<br>\n✨ <b>Key Features:</b>\n• See subscribed channels\n• Hide selected channels\n• Group channels for better organisation\n• Arrange your channels in order you like\n• Add custom description for any channel\n<br>\n📖 <b>Summary:</b>\nThis repository provides a way to share your YouTube channel subscriptions with others. It allows users to see, hide, group, and arrange their subscribed channels, and add custom descriptions. The primary use case is to facilitate the discovery of interesting YouTube channels among friends and the wider community.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dcindia/subs-share?embed=0\">View Project</a>\n• <a href=\"https://subsshare.005552.xyz?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b68b43d09913b54e638f91a1b29621db19fb64890b01a2983bfb85c7dd773c4e/dcindia/subs-share",
-        "platform": "telegram",
-        "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 882401154,
-        "content": "✨ <b>AirRemote-Frontend</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nModernizing legacy remote-controlled devices by making them smart and remotely accessible.\n<br>\n✨ <b>Key Features:</b>\n• Record IR signals from existing remote controls.\n• Replay stored signals via a web interface.\n• Create automations for scheduled operations.\n• Captive Portal interface for device initialization and credential provisioning.\n<br>\n📖 <b>Summary:</b>\nAirRemote is a solution that transforms traditional IR-controlled devices into smart devices accessible via a web interface. It allows users to record IR signals from existing remotes, replay them remotely, and create automations for scheduled operations. The system also includes a captive portal for easy device setup and a web interface for managing connected devices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jugeekuz/AirRemote-Frontend?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8fc97ef3ed7b4322739c2673bd56b406adcb501c5f5e2f633b1549a0e6f0279e/jugeekuz/AirRemote-Frontend",
-        "platform": "telegram",
-        "quality_score": 0.4
-    },
-    {
-        "project_id": 991014182,
-        "content": "🌟 <b>Chain-Fox</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated security analysis of blockchain and smart contract projects.\n<br>\n✨ <b>Key Features:</b>\n• Automatic security detection for blockchains and smart contracts\n• Support for multiple languages (Rust, Go, Solidity, C++)\n• Integration with CI/CD pipelines\n• Rule engine for improved accuracy\n• API for web3 ecosystem integration\n<br>\n📖 <b>Summary:</b>\nChain-Fox is an all-in-one platform designed to provide automated security detection for blockchains and smart contracts. It supports multiple languages and offers a range of checkers to identify various bug types, aiming to make blockchain security more accessible and affordable. The platform also focuses on integrating with CI/CD pipelines and the broader web3 ecosystem.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Chain-Fox/Chain-Fox?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ae00d63aaeaedfcf4e99548c5ff4134e2a01e7673f91b2f42f6ceb1d430740a0/Chain-Fox/Chain-Fox",
-        "platform": "telegram",
-        "quality_score": 0.8
-    },
-    {
-        "project_id": 509970897,
-        "content": "💡 <b>tailspin</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nHighlighting and viewing log files of any format without requiring configuration.\n<br>\n✨ <b>Key Features:</b>\n• Views and tails any log file format\n• Requires no setup or configuration\n• Highlights numbers, dates, IP addresses, UUIDs, URLs, and more\n• Offers customizable highlight groups\n• Integrates easily with other commands\n<br>\n📖 <b>Summary:</b>\nTailspin is a log file highlighter that automatically identifies and color-codes key elements within log files, such as dates, numbers, and URLs. It requires no configuration and integrates seamlessly with existing command-line workflows, leveraging `less` for viewing. Tailspin enhances log readability and analysis by providing customizable highlighting for various data types.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bensadeh/tailspin?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/509970897/880c8609-c430-4545-a1bc-e9d6bf142e78",
-        "platform": "telegram",
-        "quality_score": 0.8499999999999999
+        "quality_score": 1.0000000000000002
     }
 ]
