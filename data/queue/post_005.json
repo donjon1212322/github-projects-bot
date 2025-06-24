@@ -1,0 +1,7 @@
+{
+    "project_id": 232385658,
+    "content": "🔥 <b>wal-listener</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nImplementing Event-Driven Architecture by capturing PostgreSQL database changes and publishing them to message brokers for downstream services.\n<br>\n✨ <b>Key Features:</b>\n• Listens to PostgreSQL WAL (Write-Ahead Log) for data changes.\n<br>\n📖 <b>Summary:</b>\nThe WAL-Listener service captures changes in a PostgreSQL database using logical decoding and publishes them as events to various message brokers like NATS, Kafka, RabbitMQ, and Google Pub/Sub. It supports filtering events based on tables and actions, and allows topic mapping for custom routing. This enables the implementation of Event-Driven Architecture with transactional messaging to maintain data consistency across microservices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ihippik/wal-listener?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/52b902190edd311bffbd51e7c8e12fcfe09e6657510886675b92ce8a28c1481b/ihippik/wal-listener",
+    "platform": "telegram",
+    "quality_score": 0.6
+}
