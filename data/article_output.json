@@ -1,26 +1,26 @@
 {
-    "article": "Hey fellow developers! Ever wrestled with parsing binary data?  It's a tedious, error-prone process, right?  Well, get ready to say goodbye to those headaches because I've discovered an absolute game-changer: Kaitai Struct! This isn't your typical library; it's a declarative language that lets you describe binary file formats in a human-readable way.  Think of it as a blueprint for your binary data. You describe the structure once, and Kaitai Struct generates code in your language of choice (C#, Java, JavaScript, Python, Ruby, and more!).\n\nSo, how does it work?  You write a description of your binary format in Kaitai Struct's simple, YAML-like language. This description details the layout of your data: integers, strings, arrays, and more.  The magic happens when you compile this description using the Kaitai Struct compiler (`ksc`).  It automatically generates code that parses your binary data according to your specification, providing a clean, easy-to-use API to access the data in your preferred language. No more wrestling with bit shifts, byte ordering, or arcane data structures! \n\nHere's where it gets really exciting.  Imagine you're working with a complex GIF image.  Normally, you'd spend hours poring over documentation and writing intricate code to extract the image's width, height, and other metadata.  With Kaitai Struct, you simply describe the GIF format once in its declarative language. The compiler then generates the code to handle all the messy low-level details. You can access the image's properties using a clean, intuitive API. It's that simple!\n\nThe real power of Kaitai Struct lies in its cross-language compatibility.  Write your format description once, and you can generate parsers for all your projects, regardless of the language. This means less code duplication and faster development cycles.  The project also boasts a growing collection of pre-built format descriptions, saving you even more time and effort.  Seriously, if you work with binary data, this project is a must-have in your toolkit.\n\nBeyond the technical benefits, Kaitai Struct's community is incredibly active and helpful.  There's a wealth of documentation, examples, and support available, making it easy to get started, even for beginners.  It's a project that's built by developers, for developers, and that's reflected in its design and community.\n\nIn short, Kaitai Struct is a powerful, versatile, and easy-to-use tool that streamlines the process of working with binary data.  It's cross-platform, cross-language, and boasts a vibrant community.  If you're tired of wrestling with binary data, give Kaitai Struct a try.  You won't regret it!",
+    "article": "Ever feel overwhelmed by a gazillion browser tabs, each clinging to a precious piece of web information?  Imagine a world where you can effortlessly bundle entire web pages—images, CSS, JavaScript, the whole shebang—into a single, self-contained HTML file.  That's the magic of `monolith`, a fantastic GitHub project that's changing the way we interact with and store web content.  It's like a supercharged \"Save Page As\" on steroids!\n\n`monolith` tackles the problem of web page archiving and offline access head-on.  Unlike basic save-as functions that often leave broken links and missing assets, `monolith` cleverly embeds all the necessary resources directly into the HTML file. This means you get a perfectly preserved copy of the webpage, complete with all its interactive elements and visual appeal, even when you're offline. No more frustrating broken images or non-functional scripts!  It's as if you've cloned the webpage onto your local drive.\n\nThe beauty of `monolith` lies in its simplicity and cross-platform compatibility.  It's built using Rust, ensuring speed and efficiency.  The installation is a breeze, whether you're on Windows, macOS, Linux, or even using a containerized environment.  The project provides comprehensive instructions for installation via Cargo, Homebrew, Chocolatey, Scoop, Winget, MacPorts, Snapcraft, Guix, NixPkgs, Flox, Pacman,  aports, XBPS, FreeBSD packages, FreeBSD ports, pkgsrc, and Docker. This wide array of installation methods means it's accessible to nearly every developer, regardless of their preferred package manager or operating system.\n\nFor developers, the benefits are clear.  Think about archiving important web pages for reference, creating offline documentation, or easily sharing web content without worrying about missing assets.  `monolith` streamlines this process considerably, saving you time and frustration. Imagine how much easier it would be to create your own offline web archive, perfect for learning or reviewing later! It's a huge timesaver for researchers, educators, or anyone who frequently needs to access web pages offline.\n\nBeyond the core functionality, `monolith`'s design is a testament to clean code and good engineering practices. The project's README is exceptionally well-written, providing clear instructions, examples, and troubleshooting tips. The active development and community support further enhance its value, making it a reliable tool for both personal and professional use.  The project's commitment to cross-platform compatibility and extensive installation options makes it incredibly accessible to a wide range of developers.\n\nIn essence, `monolith` is a simple yet powerful tool that addresses a common problem in a clever and efficient way. Its ease of use, cross-platform support, and ability to create completely self-contained web pages make it a must-have for any developer who values clean offline access to web content.  Give it a try—you won't be disappointed!",
     "key_takeaways": [
-        "Declarative binary data format description language",
-        "Generates parsers for various programming languages",
-        "Cross-platform and cross-language compatibility",
-        "Large community and extensive documentation",
-        "Saves time and effort by automating complex parsing tasks"
+        "Effortlessly bundles entire web pages into single HTML files.",
+        "Preserves all assets (CSS, images, JavaScript) for offline access.",
+        "Supports a wide range of operating systems and package managers.",
+        "Saves developers time and frustration in archiving and sharing web content.",
+        "Simple and efficient design, backed by a supportive community."
     ],
     "tags": [
-        "binary data",
-        "parsing",
-        "compiler",
-        "cross-platform",
-        "cross-language"
+        "web archiving",
+        "offline access",
+        "HTML",
+        "Rust",
+        "cross-platform"
     ],
-    "title": "Kaitai Struct: Revolutionizing Binary Data Parsing",
-    "stars": 4221,
-    "forks": 199,
-    "open_issues": 498,
-    "languages": "Shell",
-    "readme_summary": "Kaitai Struct is a declarative language and toolchain for describing binary data structures. It allows developers to define a format once and then compile it into parsers for various programming languages, simplifying the process of reading and interpreting binary data from files or network streams. The project also includes a repository of pre-defined format descriptions.",
-    "project_id": 52159512,
-    "url": "https://github.com/kaitai-io/kaitai_struct",
-    "description": "Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby"
+    "title": "Monolith: Your New Best Friend for Offline Web Archiving",
+    "stars": 13751,
+    "forks": 391,
+    "open_issues": 56,
+    "languages": "Rust",
+    "readme_summary": "Monolith is a CLI tool and library that saves complete web pages as single, self-contained HTML files. It embeds all CSS, image, and JavaScript assets directly into the HTML, allowing for offline viewing and easy sharing. This eliminates broken links and ensures the page renders correctly even without an internet connection.",
+    "project_id": 82530909,
+    "url": "https://github.com/Y2Z/monolith",
+    "description": "⬛️ CLI tool and library for saving complete web pages as a single HTML file"
 }
