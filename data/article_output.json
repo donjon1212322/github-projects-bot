@@ -1,26 +1,26 @@
 {
-    "article": "Ever feel overwhelmed by a gazillion browser tabs, each clinging to a precious piece of web information?  Imagine a world where you can effortlessly bundle entire web pages—images, CSS, JavaScript, the whole shebang—into a single, self-contained HTML file.  That's the magic of `monolith`, a fantastic GitHub project that's changing the way we interact with and store web content.  It's like a supercharged \"Save Page As\" on steroids!\n\n`monolith` tackles the problem of web page archiving and offline access head-on.  Unlike basic save-as functions that often leave broken links and missing assets, `monolith` cleverly embeds all the necessary resources directly into the HTML file. This means you get a perfectly preserved copy of the webpage, complete with all its interactive elements and visual appeal, even when you're offline. No more frustrating broken images or non-functional scripts!  It's as if you've cloned the webpage onto your local drive.\n\nThe beauty of `monolith` lies in its simplicity and cross-platform compatibility.  It's built using Rust, ensuring speed and efficiency.  The installation is a breeze, whether you're on Windows, macOS, Linux, or even using a containerized environment.  The project provides comprehensive instructions for installation via Cargo, Homebrew, Chocolatey, Scoop, Winget, MacPorts, Snapcraft, Guix, NixPkgs, Flox, Pacman,  aports, XBPS, FreeBSD packages, FreeBSD ports, pkgsrc, and Docker. This wide array of installation methods means it's accessible to nearly every developer, regardless of their preferred package manager or operating system.\n\nFor developers, the benefits are clear.  Think about archiving important web pages for reference, creating offline documentation, or easily sharing web content without worrying about missing assets.  `monolith` streamlines this process considerably, saving you time and frustration. Imagine how much easier it would be to create your own offline web archive, perfect for learning or reviewing later! It's a huge timesaver for researchers, educators, or anyone who frequently needs to access web pages offline.\n\nBeyond the core functionality, `monolith`'s design is a testament to clean code and good engineering practices. The project's README is exceptionally well-written, providing clear instructions, examples, and troubleshooting tips. The active development and community support further enhance its value, making it a reliable tool for both personal and professional use.  The project's commitment to cross-platform compatibility and extensive installation options makes it incredibly accessible to a wide range of developers.\n\nIn essence, `monolith` is a simple yet powerful tool that addresses a common problem in a clever and efficient way. Its ease of use, cross-platform support, and ability to create completely self-contained web pages make it a must-have for any developer who values clean offline access to web content.  Give it a try—you won't be disappointed!",
+    "article": "Ever wished you could control your media player or web browser without lifting a finger, literally?  Meet Lazyeat, a revolutionary project that lets you do just that using hand gestures!  Imagine watching a movie, browsing the web, and effortlessly pausing, scrolling, or switching videos with simple hand movements. No more sticky fingers interrupting your binge-watching sessions! Lazyeat uses computer vision to recognize your gestures and translate them into commands, making multitasking a breeze.\n\nLazyeat's architecture is surprisingly simple. It combines the power of Python for backend processing and Rust with Tauri for the cross-platform frontend. The Python backend handles the core gesture recognition logic, leveraging machine learning models to accurately interpret your hand movements.  The Rust/Tauri frontend provides a sleek and responsive interface, ensuring a smooth user experience across different operating systems. This clever combination ensures efficiency and portability, something many similar projects struggle with.\n\nBut what are the real benefits for developers? First, it's a fantastic example of how to combine different technologies to achieve a seamless user experience. The project is well-documented, making it an excellent resource for learning how to integrate Python and Rust effectively. It's also a great case study in using computer vision in a practical application.  Furthermore, Lazyeat's open-source nature allows developers to contribute, learn, and adapt the code to their own needs, fostering a collaborative learning environment.  The project's modular design makes it easy to extend its functionality or integrate it into other projects, opening up possibilities for creating custom gesture-controlled applications.\n\nThe project currently supports Windows and macOS, with Linux, Android, and iOS versions in development.  The project's README provides detailed instructions on setting up the development environment and building the application.  Whether you're a seasoned developer or a curious beginner, Lazyeat offers something for everyone.  It's a chance to learn from a well-structured, efficient project while contributing to a fun and useful application.  The community is active and welcoming, ready to assist with any questions or challenges you might encounter.  Get involved and contribute to the future of gesture-based computing!\n\nBeyond the technical aspects, Lazyeat's user-friendliness is a significant advantage. The intuitive interface requires minimal learning curve, making it accessible to a wide range of users.  This focus on usability is a testament to the project's commitment to creating a truly useful and enjoyable tool.",
     "key_takeaways": [
-        "Effortlessly bundles entire web pages into single HTML files.",
-        "Preserves all assets (CSS, images, JavaScript) for offline access.",
-        "Supports a wide range of operating systems and package managers.",
-        "Saves developers time and frustration in archiving and sharing web content.",
-        "Simple and efficient design, backed by a supportive community."
+        "Gesture-based control of media players and web browsers.",
+        "Cross-platform compatibility (Windows, macOS, with Linux, Android, and iOS in development).",
+        "Combination of Python and Rust for efficient and portable development.",
+        "Well-documented and open-source, making it easy to contribute and learn.",
+        "Intuitive and user-friendly interface."
     ],
     "tags": [
-        "web archiving",
-        "offline access",
-        "HTML",
-        "Rust",
-        "cross-platform"
+        "gesture control",
+        "computer vision",
+        "python",
+        "rust",
+        "tauri"
     ],
-    "title": "Monolith: Your New Best Friend for Offline Web Archiving",
-    "stars": 13751,
-    "forks": 391,
-    "open_issues": 56,
-    "languages": "Rust",
-    "readme_summary": "Monolith is a CLI tool and library that saves complete web pages as single, self-contained HTML files. It embeds all CSS, image, and JavaScript assets directly into the HTML, allowing for offline viewing and easy sharing. This eliminates broken links and ensures the page renders correctly even without an internet connection.",
-    "project_id": 82530909,
-    "url": "https://github.com/Y2Z/monolith",
-    "description": "⬛️ CLI tool and library for saving complete web pages as a single HTML file"
+    "title": "Lazyeat: Control Your World with Hand Gestures!",
+    "stars": 762,
+    "forks": 31,
+    "open_issues": 9,
+    "languages": "Vue",
+    "readme_summary": "Lazyeat is a hands-free controller that uses gesture recognition to allow users to control their devices while eating. It supports various gestures for cursor control, clicks, scrolling, and key presses, as well as voice input. The primary use case is to avoid touching devices with greasy hands during meals.",
+    "project_id": 942672211,
+    "url": "https://github.com/lanxiuyun/lazyeat",
+    "description": "Lazyeat｜手势隔空控制，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!"
 }
