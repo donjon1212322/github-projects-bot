@@ -1,7 +1,0 @@
-{
-    "project_id": 1009048253,
-    "content": "💡 <b>image_to_pixel_art_wasm</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nImage-to-pixel-art conversions in the browser.\n<br>\n✨ <b>Key Features:</b>\n• K-means palette extraction with user-selectable color count or supply your own palette\n• Transparency is kept intact\n• Down-samples to a fixed tile grid using nearest-neighbour then scales back up, aspect-ratio preserved\n• Pure client-side WASM processing\n<br>\n📖 <b>Summary:</b>\nThis Rust-based WebAssembly library converts raster images into low-color pixel art directly in the browser. It features k-means palette extraction, transparency handling, and downsampling with aspect ratio preservation, all processed client-side via WASM.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gametorch/image_to_pixel_art_wasm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/346a2c3099d5814b4ab55c3f4556cf23c74aa62e81de3f95aafe27f4d01c2087/gametorch/image_to_pixel_art_wasm",
-    "platform": "telegram",
-    "quality_score": 0.6
-}
