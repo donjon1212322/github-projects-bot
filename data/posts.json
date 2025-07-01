@@ -1,51 +1,37 @@
 [
     {
-        "project_id": 258967860,
-        "content": "🔥 <b>Graphite</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\n2D content creation with a focus on procedural and non-destructive workflows.\n<br>\n✨ <b>Key Features:</b>\n• 2D vector and raster graphics editing\n• Node-based, non-destructive, procedural workflow\n• Layer-based compositing\n• All-in-one graphics toolbox\n• Support for photo editing, motion graphics, digital painting, desktop publishing, and VFX compositing\n<br>\n📖 <b>Summary:</b>\nGraphite is a free, open-source 2D graphics editor that combines traditional layer-based editing with a modern node-based procedural workflow. It aims to be an all-in-one graphics toolbox, supporting vector and raster editing, photo editing, motion graphics, and more, built around a core node graph for non-destructive editing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/GraphiteEditor/Graphite?embed=0\">View Project</a>\n• <a href=\"https://graphite.rs?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/258967860/10e3a8b4-f1af-4c0c-aa7e-aae3f62b9ad2",
+        "project_id": 247350713,
+        "content": "🔥 <b>neko</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSecure and private remote browsing, collaborative browser access, and hosting watch parties.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted virtual browser\n• Docker containerization\n• WebRTC streaming\n• Secure and private browsing\n• Multi-user access\n<br>\n📖 <b>Summary:</b>\nNeko is a self-hosted virtual browser that runs in Docker and uses WebRTC for streaming. It provides a secure and private browsing environment accessible from anywhere, with support for multiple users and use cases like collaborative browsing and hosting watch parties. It allows users to run a fully functional browser in an isolated environment.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/m1k1o/neko?embed=0\">View Project</a>\n• <a href=\"https://neko.m1k1o.net/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d2a6f2a3854864a0741c904e781ec95316cb79733eaf4445ec1a6d7389f91f96/m1k1o/neko",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 426848256,
+        "content": "🌟 <b>quadratic</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSpreadsheet application enhanced with AI, code execution, and collaborative features for data analysis and engineering.\n<br>\n✨ <b>Key Features:</b>\n• AI integration\n• Code execution within spreadsheets\n• Real-time collaboration\n• Data connectivity (SQL, ETL)\n• WebAssembly (WASM) based\n<br>\n📖 <b>Summary:</b>\nQuadratic is a spreadsheet application that integrates AI capabilities, code execution, and real-time collaboration. It aims to provide a powerful environment for data analysis, engineering, and general spreadsheet tasks, leveraging technologies like WebAssembly for performance and offering connections to various data sources.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/quadratichq/quadratic?embed=0\">View Project</a>\n• <a href=\"https://QuadraticHQ.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d4679c7c9bf98aca73758d9430b51af8f926fbed9d6d6523f3215f067835b2ce/quadratichq/quadratic",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 821360765,
+        "content": "✨ <b>latitude-llm</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAI prompt engineering, deployment, and evaluation.\n<br>\n✨ <b>Key Features:</b>\n• Prompt Manager with PromptL language support\n• Interactive Playground for prompt testing\n• AI Gateway for prompt deployment as API endpoints\n• Evaluations using LLM-as-judge, programmatic rules, or human review\n• Logs & Observability for prompt interactions\n<br>\n📖 <b>Summary:</b>\nLatitude is an open-source platform designed for AI prompt engineering. It provides tools for building, testing, deploying, and evaluating prompts, enabling teams to collaboratively design and version prompts, test iterations, deploy prompts as API endpoints, monitor performance, and systematically improve prompts.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/latitude-dev/latitude-llm?embed=0\">View Project</a>\n• <a href=\"https://latitude.so?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/29e8f386ea6bced46d967461460a39a73489397b18eea018bcca74a908f27a0b/latitude-dev/latitude-llm",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 915496499,
-        "content": "✨ <b>HomeDockOS</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosting applications and managing a personal cloud on various platforms (Raspberry Pi, x86 systems, etc.)\n<br>\n✨ <b>Key Features:</b>\n• Universal Compatibility across OS and architectures\n• Privacy by Design for secure data management\n• Seamless Integration with web-based access\n• One-click app installation via App Store\n• SSL-Ready Deployments for secure connections\n<br>\n📖 <b>Summary:</b>\nHomeDock OS is a versatile home server operating system designed for self-hosting. It offers an intuitive app store, seamless multi-platform support, and prioritizes privacy and control. It allows users to easily manage their personal cloud on devices like Raspberry Pi and x86 systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BansheeTech/HomeDockOS?embed=0\">View Project</a>\n• <a href=\"https://www.homedock.cloud?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/00bfc4f1e70ce88cecb73f9200277c46a8fe6218160791e87df364ea6fbc9bde/BansheeTech/HomeDockOS",
+        "project_id": 812467608,
+        "content": "🚀 <b>radashi</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a modern TypeScript utility toolkit with fast, readable, and minimal functions.\n<br>\n✨ <b>Key Features:</b>\n• Type-safe\n• Dependency-free\n• Tree-shakeable\n• Fully tested\n• Community-first\n<br>\n📖 <b>Summary:</b>\nRadashi is a modern TypeScript utility library designed to replace larger alternatives like Lodash. It offers a collection of type-safe, dependency-free, and tree-shakeable functions, focusing on performance and readability. Radashi aims to be community-driven and actively maintained, providing developers with essential utility functions for their TypeScript projects.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/radashi-org/radashi?embed=0\">View Project</a>\n• <a href=\"https://radashi.js.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/812467608/9f8908f6-e6cb-41c3-a1ac-0fd64abb38e6",
+        "platform": "telegram",
+        "quality_score": 1.1000000000000003
+    },
+    {
+        "project_id": 105757332,
+        "content": "🚀 <b>art</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting text into visually appealing ASCII art.\n<br>\n✨ <b>Key Features:</b>\n• Text to ASCII art conversion\n• Support for various fonts\n• Collection of pre-made ASCII art\n• Decoration capabilities\n<br>\n📖 <b>Summary:</b>\nThe 'art' library is a Python package designed for converting text into ASCII art. It provides a variety of fonts and pre-made art pieces, allowing users to easily generate fancy and decorative text-based visuals. The library aims to be an easy-to-use tool for adding artistic flair to text-based applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sepandhaghighi/art?embed=0\">View Project</a>\n• <a href=\"https://www.ascii-art.site?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/105757332/fc758200-add9-11eb-802d-668e04e31ce3",
         "platform": "telegram",
         "quality_score": 0.6
-    },
-    {
-        "project_id": 743825398,
-        "content": "🌟 <b>ruoyi-ai</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nRapid development and deployment of personalized AI applications.\n<br>\n✨ <b>Key Features:</b>\n• Full-stack open-source system\n• Localized RAG solution (Langchain4j, Milvus/Weaviate/Qdrant, BGE-large-zh-v1.5)\n• Multi-modal AI engine (OpenAI, Azure, ChatGLM, DIFY)\n• Spring AI MCP support\n<br>\n📖 <b>Summary:</b>\nRuoYi AI is a full-stack AI development platform designed to help developers quickly build and deploy personalized AI applications. It offers features such as a localized RAG solution, multi-modal AI engine support, Spring AI MCP integration, and various enterprise-level extensions like instant messaging and payment system integrations. It also includes innovative functionalities like AI painting and PPT generation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ageerle/ruoyi-ai?embed=0\">View Project</a>\n• <a href=\"https://web.pandarobot.chat?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d90924c9e16aed403c8ac9488d12e703d36274584e791039c1c7cc8b6fdd9c9f/ageerle/ruoyi-ai",
-        "platform": "telegram",
-        "quality_score": 0.6499999999999999
-    },
-    {
-        "project_id": 992618065,
-        "content": "💡 <b>pyleak</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/deepankarm/pyleak?embed=0\">View Project</a>\n• <a href=\"https://pypi.org/project/pyleak/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/39733df373397f9aab0bed5ed4a55f8ac10504c631b54e4ea34eb66d71828324/deepankarm/pyleak",
-        "platform": "telegram",
-        "quality_score": 0.7999999999999999
-    },
-    {
-        "project_id": 26600712,
-        "content": "🚀 <b>gloomy-dungeons-2</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/restorer/gloomy-dungeons-2?embed=0\">View Project</a>\n• <a href=\"http://mobile.zame-dev.org/gloomy-ii/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/51740e45b5cb00a76567e81f3cd0f8d96ce4f7d435d27518aeb30d6bc7d51849/restorer/gloomy-dungeons-2",
-        "platform": "telegram",
-        "quality_score": 0.35
-    },
-    {
-        "project_id": 844305953,
-        "content": "🚀 <b>no-ocr</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying AI-based PDF processing by enabling text and visual queries without relying on OCR.\n<br>\n✨ <b>Key Features:</b>\n• Create and manage PDF/document collections\n• Automated ingestion to build Hugging Face-style datasets\n• Vector-based search over PDF pages in LanceDB\n• Visual question-answering on images and diagrams via Qwen2-VL\n<br>\n📖 <b>Summary:</b>\nNo OCR is a tool that simplifies AI-based PDF processing by allowing users to process and query PDF documents without OCR. It uses embeddings for text and visual queries, supports visual question-answering, and is deployable via Docker. The tool enables users to create and manage document collections, build Hugging Face datasets, and perform vector-based searches.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kyryl-opens-ml/no-ocr?embed=0\">View Project</a>\n• <a href=\"https://no-ocr.com/about?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b5703c2f7c32790263a50bb178d7f02fbcdb807869fa13a1a91618804dcb219d/kyryl-opens-ml/no-ocr",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 735441880,
-        "content": "✨ <b>OpenTune</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Arturo254/OpenTune?embed=0\">View Project</a>\n• <a href=\"https://opentune.netlify.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/98d7ca478eab63cae66bf0fda97658e62fe01d013cf01b2fcfce68a7429799a8/Arturo254/OpenTune",
-        "platform": "telegram",
-        "quality_score": 0.6499999999999999
     }
 ]

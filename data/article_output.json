@@ -1,26 +1,26 @@
 {
-    "article": "Hey fellow developers! Ever wished for a graphics editor that's as flexible and powerful as a game engine?  Meet Graphite, an open-source project that's redefining what's possible in 2D content creation. Forget clunky, restrictive software; Graphite offers a revolutionary approach, blending the best of vector and raster graphics with a node-based workflow.  Imagine building your images like you'd build a game scene, connecting nodes to control every aspect of your design—from simple shapes to complex effects. This isn't just another graphics editor; it's a fully-fledged procedural toolbox. \n\nAt its core, Graphite is a node graph.  Think of it as a network of interconnected modules, each performing a specific task.  You connect these nodes to create intricate chains of operations, transforming and manipulating your images in non-destructive ways. This means you can experiment freely, tweaking your design without fear of losing your original work. It's like having unlimited undo!  Need to change a color? Simply adjust a node; the rest of your image updates automatically. Want to add a complex filter? Just connect the right nodes and watch the magic happen.\n\nBut Graphite isn't just for advanced users. The interface is designed to be intuitive, with familiar tools for vector editing, raster painting, and more.  Whether you're a seasoned graphic designer or a coding newbie, you'll find a comfortable starting point.  Beginners can use the intuitive layer-based interface, while experienced users can dive deep into the node graph for ultimate control.  The flexibility is unparalleled.  It's the best of both worlds!\n\nWhat makes Graphite truly special is its versatility. It's not just for creating static images.  The roadmap includes support for motion graphics, animation, and even VFX compositing.  This means you could potentially use Graphite to create everything from simple logos to complex animated sequences, all within the same environment.  Think of the time and effort you'll save by having one powerful tool for all your 2D needs!\n\nFor developers, Graphite offers a unique opportunity.  It's open-source, so you can contribute to its development, shaping the future of 2D content creation.  Plus, the node-based architecture provides a fantastic foundation for building custom tools and plugins.  Imagine creating your own specialized nodes for unique effects or workflows.  The possibilities are endless!\n\nSo, why should you check out Graphite? It's free, open-source, highly versatile, and offers a unique, non-destructive workflow.  It's a game-changer for 2D artists and developers alike.  Give it a try; you might just find your new favorite graphics tool!",
+    "article": "Tired of bloated utility libraries weighing down your projects?  Meet Radashi, the lightweight, performant, and surprisingly delightful TypeScript utility toolkit!  Think of it as the best parts of Lodash, but without the baggage. Radashi offers a curated collection of essential functions, each meticulously crafted for readability, speed, and robustness.  It's a breath of fresh air in the world of JavaScript utility libraries.\n\nWhat sets Radashi apart is its laser focus on simplicity and efficiency.  Instead of offering a massive, monolithic library with hundreds of functions you'll probably never use, Radashi provides a carefully selected set of the most commonly needed tools. This means smaller bundle sizes, faster load times, and a more streamlined development experience. It's tree-shakeable, meaning you only include the functions you actually use, resulting in incredibly lean code.\n\nBut it's not just about size. Radashi is built with performance in mind.  The functions are highly optimized for speed, and the project maintains continuous benchmarking to ensure that performance regressions are caught early. This means your code will run faster, and your users will have a smoother experience.\n\nThe Radashi community is incredibly active and responsive.  The maintainers are passionate about building a truly collaborative project, and they actively encourage feedback and contributions from users. This community-first approach ensures that Radashi is constantly evolving to meet the needs of developers.  Plus, it's actively maintained, so you can count on it being around for the long haul.\n\nRadashi is also type-safe, thanks to its TypeScript foundation. This means fewer runtime errors and a more predictable development process.  The comprehensive test coverage ensures the reliability of every function, giving you confidence in your code.  Regular nightly releases (the `radashi@beta` package) provide access to the latest improvements and features without disrupting your workflow.  A detailed changelog keeps you informed about every change.\n\nFor those familiar with Radash, Radashi represents the next evolution.  It builds upon the strengths of its predecessor while addressing areas for improvement, resulting in a more refined and robust experience.  Check out their comparison post to see exactly what's new and improved!\n\nIn essence, Radashi offers a compelling alternative to heavier utility libraries. It's a lightweight, performant, and well-maintained solution that will boost your productivity and improve the overall quality of your projects. Give it a try and experience the difference!",
     "key_takeaways": [
-        "Non-destructive editing: Experiment freely without fear of losing your work.",
-        "Node-based workflow: Create complex effects by connecting simple modules.",
-        "Versatile toolset:  Handles vector, raster, and future animation/VFX needs.",
-        "Open-source and community-driven: Contribute to its development and shape its future.",
-        "Intuitive interface: Accessible to both beginners and experienced users."
+        "Lightweight and performant TypeScript utility functions",
+        "Tree-shakeable for smaller bundle sizes",
+        "Active community and responsive maintainers",
+        "Comprehensive test coverage and type safety",
+        "Regular nightly releases and detailed changelog"
     ],
     "tags": [
-        "2D graphics",
-        "vector graphics",
-        "raster graphics",
-        "node-based editor",
-        "open-source"
+        "TypeScript",
+        "utility library",
+        "JavaScript",
+        "performance",
+        "Lodash alternative"
     ],
-    "title": "Graphite: Your All-in-One Procedural Graphics Toolbox",
-    "stars": 14993,
-    "forks": 677,
-    "open_issues": 272,
-    "languages": "Rust",
-    "readme_summary": "Graphite is a free, open-source 2D graphics editor that combines traditional layer-based editing with a modern node-based procedural workflow. It aims to be an all-in-one graphics toolbox, supporting vector and raster editing, photo editing, motion graphics, and more, built around a core node graph for non-destructive editing.",
-    "project_id": 258967860,
-    "url": "https://github.com/GraphiteEditor/Graphite",
-    "description": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow."
+    "title": "Radashi: The Lightweight TypeScript Utility Library That Will Blow You Away",
+    "stars": 598,
+    "forks": 41,
+    "open_issues": 14,
+    "languages": "TypeScript",
+    "readme_summary": "Radashi is a modern TypeScript utility library designed to replace larger alternatives like Lodash. It offers a collection of type-safe, dependency-free, and tree-shakeable functions, focusing on performance and readability. Radashi aims to be community-driven and actively maintained, providing developers with essential utility functions for their TypeScript projects.",
+    "project_id": 812467608,
+    "url": "https://github.com/radashi-org/radashi",
+    "description": "The modern, community-first TypeScript toolkit with all of the fast, readable, and minimal utility functions you need. Type-safe, dependency-free, tree-shakeable, fully tested."
 }
