@@ -1,44 +1,44 @@
 [
     {
-        "project_id": 935422300,
-        "content": "🔥 <b>search-navigator</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing Google search experience with keyboard navigation and quick category switching.\n<br>\n✨ <b>Key Features:</b>\n• Keyboard navigation of Google search results\n<br>\n📖 <b>Summary:</b>\nSearch Navigator is a Chrome extension that improves Google search usability by enabling keyboard navigation of search results and providing shortcuts for switching between different search categories. It also offers quick access to Google Maps and YouTube, and allows for customization of keyboard shortcuts. The extension aims to provide a more efficient and intuitive search experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nwatab/search-navigator?embed=0\">View Project</a>\n• <a href=\"https://chromewebstore.google.com/detail/search-result-navigator/fpinaaaiplppifhmkjdfkimodkkdnoha?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/bac6b715202d168f26a0099c6aa08724e7bd25f53865dd98f80367c9f94793b8/nwatab/search-navigator",
+        "project_id": 1003203718,
+        "content": "🌟 <b>Spline-Path-Control</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating motion controls for animation, particularly for generating control videos for tools like VACE.\n<br>\n✨ <b>Key Features:</b>\n• Multi-Spline Editing\n• Easy To Use Controls\n• Start Frame Control\n• Duration Control\n• Easing Functions (Linear, Ease-in, Ease-out, Ease-in-out)\n<br>\n📖 <b>Summary:</b>\nSpline Path Control is a JavaScript tool for creating and animating shapes along spline paths. It allows users to define complex motions with features like easing, tension control, and shape customization. The tool is primarily used to generate control videos, especially for applications like VACE, and exports animations as WebM files.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/WhatDreamsCost/Spline-Path-Control?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1597e2fd739b06b3e7fd8412c5cebef0d52639d13325853b171700f5db0e3d91/WhatDreamsCost/Spline-Path-Control",
         "platform": "telegram",
-        "quality_score": 0.7499999999999999
+        "quality_score": 0.6
     },
     {
-        "project_id": 1012122505,
-        "content": "🚀 <b>br-cli</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBrowser automation for AI agents, enabling them to interact with web pages through a command-line interface.\n<br>\n✨ <b>Key Features:</b>\n• Browser Action\n• LLM friendly output\n• Daemon mode\n• Structured web page view\n• Secrete management\n<br>\n📖 <b>Summary:</b>\nbr-cli is a command-line tool designed to facilitate browser automation for AI agents. It allows AI agents like Claude Code and Gemini CLI to control web browsers, manage sessions, and perform tasks such as login and data extraction. The tool features LLM-friendly output, daemon mode for persistent sessions, structured web page views, secret management, and history tracking for replay and scripting.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/browsemake/br-cli?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5a73161e4c3efbebac729e17d43c4b5943346612800c03393b5900a0beaf36e9/browsemake/br-cli",
+        "project_id": 358446986,
+        "content": "✨ <b>waydroid</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning Android applications on GNU/Linux systems.\n<br>\n✨ <b>Key Features:</b>\n• Container-based Android system\n• Runs on GNU/Linux systems\n• Uses Linux namespaces for isolation\n• Direct hardware access for Android system\n• Based on LineageOS\n<br>\n📖 <b>Summary:</b>\nWaydroid enables users to run a full Android system within a container on a GNU/Linux distribution. It leverages Linux namespaces to provide isolation and direct hardware access for the Android environment. This allows users to seamlessly run Android applications on their Linux desktops.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/waydroid/waydroid?embed=0\">View Project</a>\n• <a href=\"https://waydro.id?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/56dcb05cc1fc7a4e53abc337dd2b5e6b266acc79c196fddf2e6d698855bfcd3c/waydroid/waydroid",
         "platform": "telegram",
-        "quality_score": 0.7499999999999999
+        "quality_score": 0.9000000000000001
     },
     {
-        "project_id": 966243985,
-        "content": "✨ <b>trackers</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a unified and modular library for multi-object tracking, allowing users to easily integrate and compare different tracking algorithms with various object detectors.\n<br>\n✨ <b>Key Features:</b>\n• Unified library for multi-object tracking\n• Clean room re-implementations of tracking algorithms\n• Modular design for easy tracker swapping\n<br>\n📖 <b>Summary:</b>\nThe `trackers` repository offers a unified Python library for multi-object tracking. It provides clean-room re-implementations of leading tracking algorithms with a modular design, enabling easy integration with object detectors from popular libraries. This allows users to easily swap and compare different trackers for their specific use cases.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/roboflow/trackers?embed=0\">View Project</a>\n• <a href=\"https://trackers.roboflow.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0457514051fc71d30c6c0e8264e0b687e0fdc785fb4f065bdb004a8431d4aebc/roboflow/trackers",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 607845880,
-        "content": "💡 <b>maxtext</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTraining and inference of large language models.\n<br>\n✨ <b>Key Features:</b>\n• High performance LLM framework\n• Scalable training and inference on TPUs and GPUs\n• Written in pure Python/Jax\n• Supports Llama 2, Llama 3, Llama 4, Mistral and Mixtral family, Gemma, Gemma 2, Gemma 3, and DeepSeek family models\n<br>\n📖 <b>Summary:</b>\nMaxText is a high-performance, scalable, open-source LLM framework written in pure Python/Jax. It targets Google Cloud TPUs and GPUs for both training and inference. MaxText supports various open models, including Llama, Mistral, Gemma, and DeepSeek families, aiming to provide a launching point for ambitious LLM projects in research and production.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AI-Hypercomputer/maxtext?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/567849449221d2ee7cb96116411fa2d5902017d8a13c627b73b7f6a13cec346a/AI-Hypercomputer/maxtext",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 962528913,
-        "content": "💡 <b>reTermAI</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSuggesting relevant terminal commands based on user's shell history using AI.\n<br>\n✨ <b>Key Features:</b>\n• Recommends terminal commands based on history using OpenAI or Gemini\n• Supports intelligent matching by keyword or partial input\n• Easy installation via pip\n• Supports zsh and bash shell history\n• API keys managed via .env\n<br>\n📖 <b>Summary:</b>\nreTermAI is a smart command assistant that suggests relevant terminal commands based on your past shell history, leveraging AI models like OpenAI and Gemini. It supports intelligent matching by keyword or partial input and is easily installable via pip, supporting both zsh and bash shells. API keys are managed securely via a .env file.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pie0902/reTermAI?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/aba2b17e0253c76b2b04bb7bd56180595bfdb32622f9ed0e0c9e96908d4c5ad0/pie0902/reTermAI",
+        "project_id": 394178477,
+        "content": "💡 <b>SeaGlass</b> | Nix\n<br>\n🎯 <b>Primary Use Case:</b>\nDeclarative Linux configuration for a personalized setup with dynamic theming and translucency.\n<br>\n✨ <b>Key Features:</b>\n• Dynamic color scheme engine for theming the entire OS and websites\n• Global window background translucency effects\n• Support for running KDE widgets and services in Hyprland\n• Custom monitor configuration and power widgets\n• Modern zsh config\n<br>\n📖 <b>Summary:</b>\nSeaGlass is a Nix-based repository providing declarative Linux configuration files and scripts for reproducing a personalized setup. It features a dynamic color scheme engine, global window translucency, KDE support in Hyprland, and custom widgets, aiming for a consistent and visually appealing user experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alexhulbert/SeaGlass?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a21da638b2447d505a13b04b86b2222ff64d8fba9021703191da7d2ed6503959/alexhulbert/SeaGlass",
         "platform": "telegram",
         "quality_score": 0.4
     },
     {
-        "project_id": 654122609,
-        "content": "✨ <b>lmdeploy</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCompressing, deploying, and serving large language models (LLMs).\n<br>\n✨ <b>Key Features:</b>\n• LLM Compression\n• LLM Deployment\n• LLM Serving\n• PyTorch Inference Engine\n• TurboMind Inference Engine\n<br>\n📖 <b>Summary:</b>\nLMDeploy is a toolkit designed to streamline the process of working with large language models. It focuses on compressing models for efficient storage, deploying them across various platforms, and serving them for inference. The toolkit includes features like quantization, a PyTorch inference engine, and support for VLMs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/InternLM/lmdeploy?embed=0\">View Project</a>\n• <a href=\"https://lmdeploy.readthedocs.io/en/latest/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a1a0de223eaba705e92456a73b4a7cd656a53ad9c6417d31eda7ec4d825398bb/InternLM/lmdeploy",
+        "project_id": 971123250,
+        "content": "🌟 <b>telert</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAlerting on command completion, code execution, and system monitoring events.\n<br>\n✨ <b>Key Features:</b>\n• Multi-channel notifications (Telegram, Teams, Slack, Discord, Email, Pushover)\n• Command completion alerts\n• Code execution alerts\n• System monitoring (processes, logs, network endpoints)\n• CLI tool and Python library\n<br>\n📖 <b>Summary:</b>\nTelert is a versatile utility that provides multi-channel notifications for command completion, code execution, and system monitoring. It supports various notification channels, including messaging apps, email, and mobile devices. Telert can be used as a CLI tool, Python library, or a cloud-hosted API, making it suitable for diverse use cases such as long-running tasks, remote server monitoring, and CI/CD pipelines.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/navig-me/telert?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/971123250/5433c8f1-bec3-4f76-b609-eb1373884b44",
         "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 972735507,
+        "content": "🚀 <b>tablecruncher</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nEditing and viewing large CSV files.\n<br>\n✨ <b>Key Features:</b>\n• Opens huge CSV files effortlessly\n• Built-in JavaScript macro language\n• Supports multiple encodings\n• Four color themes\n<br>\n📖 <b>Summary:</b>\nTablecruncher is a cross-platform CSV editor designed to handle massive files with ease. It features a built-in JavaScript macro language, supports multiple encodings, and offers several color themes. The application is open-source under the GPL v3 license and is available for macOS, Windows, and Linux.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Tablecruncher/tablecruncher?embed=0\">View Project</a>\n• <a href=\"https://tablecruncher.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/972735507/cd4b9698-4eda-4a4c-b513-fddf76991d94",
+        "platform": "telegram",
+        "quality_score": 0.4
+    },
+    {
+        "project_id": 920202654,
+        "content": "🚀 <b>codecafe</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time collaborative code editing for pair programming, teaching, and building web projects together.\n<br>\n✨ <b>Key Features:</b>\n• Pixel-Perfect Live Preview\n• True Real-Time Collaboration\n• VS Code Feel\n• Zero Setup\n<br>\n📖 <b>Summary:</b>\nCodeCafé is a real-time collaborative code editor designed for seamless, browser-based coding. It features a live preview, operational transformation for conflict-free collaboration, a VS Code-like editing experience, and requires zero setup. It's ideal for pair programming, teaching, and collaborative web development.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mrktsm/codecafe?embed=0\">View Project</a>\n• <a href=\"https://codecafe.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d79ab71bf5973b53789afc4102b2c3ee84d6dd88de4955af38853bd2b2018c36/mrktsm/codecafe",
+        "platform": "telegram",
+        "quality_score": 0.85
     }
 ]
