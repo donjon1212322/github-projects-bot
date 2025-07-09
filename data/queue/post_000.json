@@ -1,0 +1,7 @@
+{
+    "project_id": 953075264,
+    "content": "✨ <b>de-pixelate_gaV-O6NPWrI</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nDe-pixelating a specific YouTube video by extracting and reassembling pixel data from multiple frames.\n<br>\n✨ <b>Key Features:</b>\n• Extracting frames from a video using ffmpeg.\n• Manually finding the window position in the frames.\n• Extracting the window content.\n<br>\n📖 <b>Summary:</b>\nThis repository provides a proof-of-concept implementation for de-pixelating a specific YouTube video. It involves extracting frames, identifying a pixelated window, extracting individual pixels from that window across multiple frames, and then accumulating these pixels to reconstruct a higher-resolution image. The code includes scripts for frame extraction and pixel manipulation, demonstrating a method to recover obscured content.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/KoKuToru/de-pixelate_gaV-O6NPWrI?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/fcacf4a8e3a90b10e2c1da053d737097db494e65a625e90d157593aa064c17cd/KoKuToru/de-pixelate_gaV-O6NPWrI",
+    "platform": "telegram",
+    "quality_score": 0.55
+}
