@@ -1,26 +1,26 @@
 {
-    "article": "Hey fellow developers! Ever wished you had a handy Android tool to play around with cryptography, steganography, and hashing?  Well, hold onto your hats, because CryptX is here to blow your mind! This isn't your average security library; it's a fully-fledged Android app built with Jetpack Compose, offering a user-friendly interface for experimenting with various cryptographic techniques.  Think of it as a digital sandbox where you can safely explore the fascinating world of secure coding without needing to dive into complex low-level implementations.\n\nCryptX is designed to be super easy to use.  The app provides a clean and intuitive interface, making it simple to encrypt and decrypt files using popular algorithms like AES, DES, 3DES, Blowfish, and ChaCha20.  No more wrestling with command-line tools or struggling to decipher cryptic documentation; CryptX handles all the heavy lifting, allowing you to focus on understanding the underlying cryptographic concepts.  The encryption and decryption process is simple and straightforward, offering a visual representation that clearly shows the results.\n\nBut CryptX doesn't stop at encryption! It also lets you explore the world of hashing. Generate MD5, SHA-1, SHA-256, and other types of hashes with ease.  The app even includes a hash detector, which attempts to guess the algorithm used to create a given hash. This is incredibly useful for learning how different hashing algorithms work and understanding their properties.  Moreover, the app maintains a history of your operations, allowing you to revisit past encryption, decryption, or hashing tasks.\n\nOne of the coolest features is the file steganography functionality. CryptX allows you to hide files within images (JPG and PNG), effectively concealing your data within seemingly innocent pictures. You can also extract these hidden files, making it a fun and practical way to explore the possibilities of steganography.  This feature is well-integrated into the UI, providing a step-by-step guide and visual feedback throughout the process.\n\nCryptX stands out because it's lightweight, requires no internet permission, doesn't collect any data, and keeps all your files securely stored in the 'Download/cryptx/' directory on your device.  This focus on privacy and security is a significant advantage, making it a trustworthy tool for educational or personal use. The app is entirely open source, so you can examine the code and contribute to its development. It's a great resource for learning about security best practices and seeing how cryptographic algorithms are implemented in a real-world application.\n\nWhile currently only available in English, plans are underway to add multi-language support.  The roadmap also includes exciting additions like RSA and ECC support, further enhancing its capabilities and making it even more valuable for developers looking to expand their knowledge of cryptography.  For now, it's a perfect tool for anyone wanting to get hands-on experience with these critical security concepts without dealing with complex SDKs or libraries. So, what are you waiting for? Download CryptX, start exploring, and become a cryptography master!",
+    "article": "Notely Voice: Revolutionizing Note-Taking with AI! Ever wished you could effortlessly capture lectures, meetings, or even your own brilliant ideas without lifting a finger?  Notely Voice is here to make that dream a reality. This amazing cross-platform note-taking app harnesses the power of Whisper AI for incredibly accurate voice-to-text transcription, making it a game-changer for students, professionals, and anyone who needs to take notes quickly and efficiently. Forget about frantically scribbling or struggling to keep up – Notely Voice lets you focus on what matters most: listening and engaging. But it's not just about voice-to-text; Notely Voice offers a rich, intuitive note-taking experience.  Think rich text editing with headers, bolding, italics, and even the ability to organize your notes with folders and tags.  Need to find a specific note?  The simple search function makes it a breeze. And if you prefer a visual approach, you can also record audio notes and play them back within the app.  The best part?  It works offline!  That means you can capture important information even without an internet connection.  The app is beautifully designed with both light and dark themes to suit your preferences, and it's available on Android and iOS, ensuring a seamless experience across all your devices.  Sharing your notes and audio recordings is also simple, with support for various platforms like Messages, WhatsApp, and Google Drive.  Notely Voice is more than just a note-taking app; it's a productivity powerhouse.  The combination of powerful AI-driven speech recognition, offline capabilities, and a user-friendly interface sets it apart from the competition.  It's built using Kotlin and Compose Multiplatform, ensuring a smooth, performant experience. For developers, Notely Voice is a fantastic example of how to leverage modern technologies to create truly useful applications.  The project's open-source nature allows for community contributions and further development, making it an exciting prospect to follow and potentially contribute to.  If you're looking to improve your workflow, enhance your productivity, or simply explore an innovative application of AI, Notely Voice is a must-see.  Give it a try and experience the future of note-taking!",
     "key_takeaways": [
-        "Easy-to-use Android app for exploring cryptography, steganography, and hashing.",
-        "Supports popular symmetric encryption algorithms (AES, DES, 3DES, Blowfish, ChaCha20).",
-        "Includes a hash generator and detector for various algorithms (MD5, SHA-1, SHA-256, etc.).",
-        "Allows hiding and extracting files within images (JPG/PNG) using steganography.",
-        "Lightweight, privacy-focused, and open-source."
+        "AI-powered voice-to-text transcription with offline capabilities",
+        "Cross-platform availability on Android and iOS",
+        "Rich text editing features for enhanced note organization",
+        "Seamless sharing functionality across multiple platforms",
+        "Open-source nature allowing for community contributions"
     ],
     "tags": [
-        "Android",
-        "Cryptography",
-        "Steganography",
-        "Hashing",
-        "Jetpack Compose"
+        "Kotlin",
+        "Compose Multiplatform",
+        "Whisper AI",
+        "Note-taking App",
+        "Cross-platform"
     ],
-    "title": "CryptX: Your Pocket-Sized Cryptography Playground!",
-    "stars": 45,
-    "forks": 1,
-    "open_issues": 1,
-    "languages": "Kotlin",
-    "readme_summary": "CryptX is an Android toolkit for experimenting with cryptography, steganography, and hashing techniques. It allows users to encrypt and decrypt files using various algorithms, generate and detect hash types, and hide files within images. The application is designed for educational purposes and personal use, with no internet permission or data collection.",
-    "project_id": 971770699,
-    "url": "https://github.com/PersonX-46/CryptX",
-    "description": null
+    "title": "Notely Voice: The AI-Powered Note-Taking App You Need!",
+    "stars": 228,
+    "forks": 4,
+    "open_issues": 8,
+    "languages": "C++",
+    "readme_summary": "NotelyVoice is a cross-platform note-taking application that leverages Whisper AI for accurate speech-to-text conversion. It offers rich text editing, offline capabilities, and seamless integration between voice recording and note creation. The application is designed for students, professionals, and anyone needing hands-free note-taking across Android and iOS devices.",
+    "project_id": 875443471,
+    "url": "https://github.com/tosinonikute/NotelyVoice",
+    "description": "A Notes + AI Voice to Text Audio Transcription App built with Compose Multiplatform Android & iOS using Whisper AI, MVVM and Clean architecture, Jetpack Compose, Material3, Dagger hilt, SQLDelight, Coroutines and Flow"
 }

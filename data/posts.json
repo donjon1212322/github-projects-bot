@@ -1,58 +1,58 @@
 [
     {
-        "project_id": 953075264,
-        "content": "✨ <b>de-pixelate_gaV-O6NPWrI</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nDe-pixelating a specific YouTube video by extracting and reassembling pixel data from multiple frames.\n<br>\n✨ <b>Key Features:</b>\n• Extracting frames from a video using ffmpeg.\n• Manually finding the window position in the frames.\n• Extracting the window content.\n<br>\n📖 <b>Summary:</b>\nThis repository provides a proof-of-concept implementation for de-pixelating a specific YouTube video. It involves extracting frames, identifying a pixelated window, extracting individual pixels from that window across multiple frames, and then accumulating these pixels to reconstruct a higher-resolution image. The code includes scripts for frame extraction and pixel manipulation, demonstrating a method to recover obscured content.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/KoKuToru/de-pixelate_gaV-O6NPWrI?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fcacf4a8e3a90b10e2c1da053d737097db494e65a625e90d157593aa064c17cd/KoKuToru/de-pixelate_gaV-O6NPWrI",
+        "project_id": 1014541989,
+        "content": "🌟 <b>pseudoc</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nCompiling pseudocode into native executables using AI.\n<br>\n✨ <b>Key Features:</b>\n• Non-reproducible builds due to LLM unpredictability\n• Requires internet access for compilation\n• Claims to be a drop-in replacement compiler for any language\n<br>\n📖 <b>Summary:</b>\nPseudoc is a pseudocode compiler that leverages AI to translate pseudocode into Go, which is then compiled into native executables. It uniquely combines AI and compiler technologies, resulting in features like non-reproducible builds and mandatory internet access. The project also claims to be a universal compiler, capable of significantly speeding up code written in other languages like Python.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vytskalt/pseudoc?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6ebc31c929f9d59608526a8a867923e7fc41a7bfa6ebe34e9b6623156455f8d1/vytskalt/pseudoc",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 402229935,
-        "content": "✨ <b>vdu_controls</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nProvides a virtual control panel for adjusting the brightness, contrast, and other settings of external monitors, with features for ambient light integration and preset management.\n<br>\n✨ <b>Key Features:</b>\n• DDC control panel for external monitors\n• Brightness, contrast, and audio controls\n<br>\n📖 <b>Summary:</b>\nvdu_controls is a Python-based application that acts as a DDC control panel for external monitors. It allows users to adjust brightness, contrast, and audio settings, and features an ambient light slider for simultaneous control of multiple displays. The application supports hardware light-meter integration, preset management, and system tray integration, adapting to different desktop environments and themes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/digitaltrails/vdu_controls?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d0076703078bb1b3da1b20a5aec12fe4f9a72e767cb4d75a913219ae540650a3/digitaltrails/vdu_controls",
+        "project_id": 765815503,
+        "content": "🔥 <b>Lumolight</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a simple and customizable flashlight app experience on Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Front and back flash functionality\n• Material You design with light and dark themes\n• Customizable front flash colors, duration, and brightness\n<br>\n📖 <b>Summary:</b>\nLumolight is an open-source Android flashlight application offering both front and back flash capabilities. It features a modern Material You design with theming support and extensive customization options, including color selection, brightness control, and blinking frequency. The app also provides convenient tile support and volume key brightness adjustment for enhanced usability.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BitMavrick/Lumolight?embed=0\">View Project</a>\n• <a href=\"https://play.google.com/store/apps/details?id=com.bitmavrick.lumolight?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/765815503/5b4026fd-b3cd-4a16-8c1f-57178c01485f",
         "platform": "telegram",
-        "quality_score": 0.6499999999999999
+        "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 971770699,
-        "content": "🚀 <b>CryptX</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nA personal Android toolkit for experimenting with cryptography, steganography, and hashing.\n<br>\n✨ <b>Key Features:</b>\n• Encryption & Decryption (AES, DES, 3DES, Blowfish, ChaCha20)\n• Hash Generator (MD5, SHA-1, SHA-256)\n• Hash Detector\n• File Steganography (hide/extract files in JPG/PNG)\n<br>\n📖 <b>Summary:</b>\nCryptX is an Android toolkit for experimenting with cryptography, steganography, and hashing techniques. It allows users to encrypt and decrypt files using various algorithms, generate and detect hash types, and hide files within images. The application is designed for educational purposes and personal use, with no internet permission or data collection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/PersonX-46/CryptX?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c0b2cf5dfef4835b12825c391f7370f79d607d6de05b5c3cbe82b43d4193101d/PersonX-46/CryptX",
+        "project_id": 875443471,
+        "content": "🔥 <b>NotelyVoice</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nCross-platform note-taking with AI-powered voice-to-text transcription.\n<br>\n✨ <b>Key Features:</b>\n• Rich Text Editing with formatting options\n• Simple Search and Smart Filtering of notes\n• Offline Speech-to-Text conversion\n• Audio Recording and Playback\n• Cross-Platform support (Android & iOS)\n<br>\n📖 <b>Summary:</b>\nNotelyVoice is a cross-platform note-taking application that leverages Whisper AI for accurate speech-to-text conversion. It offers rich text editing, offline capabilities, and seamless integration between voice recording and note creation. The application is designed for students, professionals, and anyone needing hands-free note-taking across Android and iOS devices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tosinonikute/NotelyVoice?embed=0\">View Project</a>\n• <a href=\"https://tosinonikute.com/notelyvoice/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/36fb0e359e5357808364b219e638b3efaf50bcec25ee81df728b24af20e59113/tosinonikute/NotelyVoice",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 72767327,
+        "content": "🌟 <b>TheHive</b> | Scala\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurity incident investigation and response for SOCs, CSIRTs, and CERTs.\n<br>\n✨ <b>Key Features:</b>\n• Security Incident Response Platform\n• Collaboration features for multiple analysts\n• Case management from various sources (MISP, SIEM, etc.)\n• Task management with templates and assignments\n<br>\n📖 <b>Summary:</b>\nTheHive is a scalable, open-source security incident response platform designed to streamline incident investigation and response. It facilitates collaboration among security analysts, enables case management from diverse sources, and supports observable analysis through integrations with tools like MISP and Cortex. The platform aims to improve the efficiency and effectiveness of security operations teams.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TheHive-Project/TheHive?embed=0\">View Project</a>\n• <a href=\"https://thehive-project.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/72767327/ea84a680-1b35-11ea-8bf5-f4a5870ea2e4",
+        "platform": "telegram",
+        "quality_score": 0.45
+    },
+    {
+        "project_id": 289516116,
+        "content": "🔥 <b>feroxbuster</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nContent discovery and forced browsing on web applications to identify unlinked resources and potential vulnerabilities.\n<br>\n✨ <b>Key Features:</b>\n• Fast content discovery\n• Recursive directory scanning\n• Forced browsing attack implementation\n• Wordlist-based brute-force enumeration\n<br>\n📖 <b>Summary:</b>\nFeroxbuster is a fast and simple content discovery tool written in Rust. It performs forced browsing by recursively scanning directories using a wordlist to identify unlinked content and potential vulnerabilities in web applications. The tool is designed for penetration testing and security assessments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/epi052/feroxbuster?embed=0\">View Project</a>\n• <a href=\"https://epi052.github.io/feroxbuster-docs/docs/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/289516116/e4e2cc00-0560-11eb-888b-42dbdfc1c72c",
+        "platform": "telegram",
+        "quality_score": 0.65
+    },
+    {
+        "project_id": 5365511,
+        "content": "✨ <b>pwnat</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nEstablishing direct communication between a client and a server, both behind separate NATs, without requiring any configuration changes to the NAT devices.\n<br>\n✨ <b>Key Features:</b>\n• NAT traversal without port forwarding or DMZ\n• No third-party involvement (no proxy, STUN/TURN/UPnP/ICE)\n• Direct client-to-server communication\n• Works even when both client and server are behind NATs\n<br>\n📖 <b>Summary:</b>\n`pwnat` is a tool that enables direct communication between clients and servers located behind separate NATs. It achieves this without requiring port forwarding, DMZ setup, or any third-party involvement. The tool leverages a unique technique involving ICMP packets to bypass NAT restrictions and establish a peer-to-peer connection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/samyk/pwnat?embed=0\">View Project</a>\n• <a href=\"https://samy.pl/pwnat/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e7a34b6b287f5492568de69b46e5a890dbffb786b6931a126456d634eee1b6ad/samyk/pwnat",
+        "platform": "telegram",
+        "quality_score": 0.7500000000000001
+    },
+    {
+        "project_id": 814684486,
+        "content": "💡 <b>gpui-component</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding desktop applications with reusable UI components.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform UI components\n• Native macOS and Windows inspired design\n• Customizable themes\n• Flexible layouts (Dock, Tiles)\n• Virtualized Table and List components\n<br>\n📖 <b>Summary:</b>\nThe gpui-component repository provides a collection of cross-platform UI components for building desktop applications using the GPUI framework. It offers a range of features, including customizable themes, flexible layouts, virtualized lists and tables for high performance, and support for Markdown, HTML, charting, and code highlighting. An experimental WebView component is also available.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/longbridge/gpui-component?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/814684486/fe747a68-1d52-4cb3-94d5-ab0469bec121",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 78869430,
-        "content": "🌟 <b>nakama</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding scalable social and realtime games and apps.\n<br>\n✨ <b>Key Features:</b>\n• User authentication (social, email, device ID)\n• Data storage\n• Social graph and friend connections\n• Realtime chat (1-on-1, group, global)\n• Realtime and turn-based multiplayer\n<br>\n📖 <b>Summary:</b>\nNakama is a distributed server designed for building social and realtime games and applications. It provides a comprehensive suite of features including user authentication, data storage, social networking, realtime chat and multiplayer, leaderboards, tournaments, and in-app notifications. Nakama can be extended with custom logic written in Lua, TypeScript/JavaScript, or Go, and supports deployment to any cloud provider.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/heroiclabs/nakama?embed=0\">View Project</a>\n• <a href=\"https://heroiclabs.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/78869430/07a50265-f18c-4590-b99a-063f42a1cfe8",
+        "project_id": 895253710,
+        "content": "💡 <b>mlx-audio</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEfficient text-to-speech (TTS) and speech-to-speech (STS) generation on Apple Silicon devices.\n<br>\n✨ <b>Key Features:</b>\n• Fast inference on Apple Silicon\n• Multiple language support\n• Voice customization options\n• Adjustable speech speed control\n• Interactive web interface with 3D audio visualization\n<br>\n📖 <b>Summary:</b>\nMLX-Audio is a library built on Apple's MLX framework that enables fast and efficient text-to-speech (TTS) and speech-to-speech (STS) generation, specifically optimized for Apple Silicon. It offers features like voice customization, adjustable speech speed, a web interface with 3D audio visualization, and a REST API for TTS generation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Blaizzy/mlx-audio?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e0e9683ca5760fb8b7189c471ddd2363e28e77126a38c38d653a0820670edfe8/Blaizzy/mlx-audio",
         "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 576223889,
-        "content": "✨ <b>bracket</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosted tournament management system.\n<br>\n✨ <b>Key Features:</b>\n• Supports single elimination, round-robin and swiss formats\n• Build tournament structures with multiple stages and groups/brackets\n• Drag-and-drop matches for rescheduling\n• Customizable dashboard pages for public presentation\n• Team and player management\n<br>\n📖 <b>Summary:</b>\nBracket is a self-hosted tournament system designed for ease of use. It supports various tournament formats, including single elimination, round-robin, and swiss. The system allows users to build complex tournament structures, manage teams and players, and present customizable dashboards.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/evroon/bracket?embed=0\">View Project</a>\n• <a href=\"https://docs.bracketapp.nl?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/576223889/bcb154da-2418-4a4b-9112-a0bddd34c325",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 917868934,
-        "content": "🔥 <b>agents-course</b> | MDX\n<br>\n🎯 <b>Primary Use Case:</b>\nLearning and building AI agents using various frameworks.\n<br>\n✨ <b>Key Features:</b>\n• Comprehensive course on AI agents\n• Covers basics to advanced topics with a final project\n• Hands-on experience with frameworks like smolagents, LangGraph, and LlamaIndex\n• Focus on Agentic RAG\n• Automated agent evaluation and leaderboard\n<br>\n📖 <b>Summary:</b>\nThe agents-course repository provides a comprehensive educational resource for learning about and building AI agents. It covers fundamental concepts, introduces popular frameworks like smolagents, LangGraph, and LlamaIndex, and culminates in a final project involving agent creation, testing, and evaluation. The course emphasizes practical application and includes a leaderboard to showcase student results.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/huggingface/agents-course?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ba3c2c61585994c75281508f61765d9294a501be6a02bc446ed30b71048e6c07/huggingface/agents-course",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 29420377,
-        "content": "🌟 <b>Awesome-CV</b> | TeX\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating professional-looking CVs, résumés, and cover letters using LaTeX.\n<br>\n✨ <b>Key Features:</b>\n• LaTeX template for CV, Résumé, and Cover Letter\n• Easy to customize\n• Clean, semantic markup\n<br>\n📖 <b>Summary:</b>\nAwesome CV is a LaTeX template designed to help users create outstanding CVs, résumés, and cover letters. It provides a customizable and clean template, inspired by Fancy CV, that allows users to easily generate professional-looking documents. The template is designed with semantic markup, making it easy to modify and adapt to individual needs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/posquit0/Awesome-CV?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/29420377/828160ad-6e8d-457e-adad-f2b759e67e2e",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 720209383,
-        "content": "🚀 <b>Cap</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRecord, edit, and share screen recordings as an open-source alternative to Loom.\n<br>\n✨ <b>Key Features:</b>\n• Screen recording\n• Video editing\n• Video sharing\n• Self-hosting option\n<br>\n📖 <b>Summary:</b>\nCap is an open-source alternative to Loom that allows users to record their screens, edit the recordings, and share them quickly. It offers self-hosting options and desktop applications built with Tauri and SolidStart, alongside a web application built with Next.js. The project utilizes a monorepo architecture with shared component and utility libraries.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/CapSoftware/Cap?embed=0\">View Project</a>\n• <a href=\"https://cap.so?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c667f746083018bcc1ecaec2be7fc62df046f84f4856dbf287972c067f9b049a/CapSoftware/Cap",
-        "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 1.0000000000000002
     }
 ]
