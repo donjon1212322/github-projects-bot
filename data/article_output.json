@@ -1,26 +1,26 @@
 {
-    "article": "Notely Voice: Revolutionizing Note-Taking with AI! Ever wished you could effortlessly capture lectures, meetings, or even your own brilliant ideas without lifting a finger?  Notely Voice is here to make that dream a reality. This amazing cross-platform note-taking app harnesses the power of Whisper AI for incredibly accurate voice-to-text transcription, making it a game-changer for students, professionals, and anyone who needs to take notes quickly and efficiently. Forget about frantically scribbling or struggling to keep up – Notely Voice lets you focus on what matters most: listening and engaging. But it's not just about voice-to-text; Notely Voice offers a rich, intuitive note-taking experience.  Think rich text editing with headers, bolding, italics, and even the ability to organize your notes with folders and tags.  Need to find a specific note?  The simple search function makes it a breeze. And if you prefer a visual approach, you can also record audio notes and play them back within the app.  The best part?  It works offline!  That means you can capture important information even without an internet connection.  The app is beautifully designed with both light and dark themes to suit your preferences, and it's available on Android and iOS, ensuring a seamless experience across all your devices.  Sharing your notes and audio recordings is also simple, with support for various platforms like Messages, WhatsApp, and Google Drive.  Notely Voice is more than just a note-taking app; it's a productivity powerhouse.  The combination of powerful AI-driven speech recognition, offline capabilities, and a user-friendly interface sets it apart from the competition.  It's built using Kotlin and Compose Multiplatform, ensuring a smooth, performant experience. For developers, Notely Voice is a fantastic example of how to leverage modern technologies to create truly useful applications.  The project's open-source nature allows for community contributions and further development, making it an exciting prospect to follow and potentially contribute to.  If you're looking to improve your workflow, enhance your productivity, or simply explore an innovative application of AI, Notely Voice is a must-see.  Give it a try and experience the future of note-taking!",
+    "article": "Hey fellow developers! Ever wished you could pull accurate 3D geometry straight from a single image?  Meet MoGe, a groundbreaking model that does just that!  Imagine the possibilities:  building immersive AR experiences, creating realistic 3D models from photos, or even enhancing robotics perception.  This isn't some theoretical concept; MoGe is a real, powerful tool, and it's open-source! \n\nMoGe excels at estimating several key aspects of a scene's 3D structure from a single image (monocular vision). This includes creating accurate point maps (think of it as a cloud of 3D points representing the scene), depth maps (showing how far away each point is from the camera), and even normal maps (indicating the direction of surfaces).  It's like having a mini 3D scanner built directly into your code! \n\nWhat sets MoGe apart is its versatility and accuracy.  Unlike some specialized solutions, MoGe works on a wide variety of images – it's 'open-domain'.  It also gives you the option to feed it the camera's field of view (FOV) for even better precision.  Need to process images of different sizes? No problem! MoGe is designed to handle various resolutions and aspect ratios with ease.  And speed?  MoGe is optimized to be surprisingly fast, achieving 60ms per image on high-end hardware.  But it's designed to be flexible, so you can adjust the resolution for even faster processing if you need it.\n\nSo, what's in it for you?  Well, if you're working on AR/VR, robotics, 3D reconstruction, or any project needing accurate 3D scene understanding, MoGe is a game-changer. It saves you the hassle of complex, multi-camera setups or expensive 3D scanning equipment. The ability to generate metric depth maps and point clouds directly from single images opens a whole new world of creative and practical applications.  You can integrate MoGe into your existing projects to improve the accuracy and efficiency of your 3D vision systems. The code is clean, well-documented, and easy to integrate into your workflow. Plus, it's backed by Microsoft, which adds a layer of confidence in terms of quality and support.\n\nMoGe has recently been updated to version 2, offering significant improvements in accuracy, visual sharpness, and inference speed.  The updated model also provides metric-scale point map predictions, meaning the distances in your 3D model are now accurately represented in real-world units.  This level of precision is a major leap forward in monocular geometry estimation.  And there's more: MoGe-2 now also provides high-quality normal maps, adding another dimension to its 3D reconstruction capabilities.\n\nReady to dive in?  The project is available on GitHub, with easy-to-follow installation instructions and pre-trained models available through Hugging Face.  Check out their website for interactive demos and videos that showcase MoGe's incredible power. Trust me, once you see it in action, you'll be hooked!  This is a project that will significantly impact the way we interact with and understand the 3D world around us, and it's yours to explore.",
     "key_takeaways": [
-        "AI-powered voice-to-text transcription with offline capabilities",
-        "Cross-platform availability on Android and iOS",
-        "Rich text editing features for enhanced note organization",
-        "Seamless sharing functionality across multiple platforms",
-        "Open-source nature allowing for community contributions"
+        "Accurate 3D geometry estimation from single images (monocular vision)",
+        "Handles various image resolutions and aspect ratios",
+        "Fast inference speed (60ms per image on high-end hardware)",
+        "Open-domain applicability (works on a wide variety of images)",
+        "Improved accuracy and features in MoGe-2, including metric-scale point maps and normal maps"
     ],
     "tags": [
-        "Kotlin",
-        "Compose Multiplatform",
-        "Whisper AI",
-        "Note-taking App",
-        "Cross-platform"
+        "3D Reconstruction",
+        "Monocular Vision",
+        "Computer Vision",
+        "Open-Source",
+        "Deep Learning"
     ],
-    "title": "Notely Voice: The AI-Powered Note-Taking App You Need!",
-    "stars": 228,
-    "forks": 4,
-    "open_issues": 8,
-    "languages": "C++",
-    "readme_summary": "NotelyVoice is a cross-platform note-taking application that leverages Whisper AI for accurate speech-to-text conversion. It offers rich text editing, offline capabilities, and seamless integration between voice recording and note creation. The application is designed for students, professionals, and anyone needing hands-free note-taking across Android and iOS devices.",
-    "project_id": 875443471,
-    "url": "https://github.com/tosinonikute/NotelyVoice",
-    "description": "A Notes + AI Voice to Text Audio Transcription App built with Compose Multiplatform Android & iOS using Whisper AI, MVVM and Clean architecture, Jetpack Compose, Material3, Dagger hilt, SQLDelight, Coroutines and Flow"
+    "title": "MoGe: Revolutionizing 3D Geometry Estimation from Single Images",
+    "stars": 1350,
+    "forks": 74,
+    "open_issues": 33,
+    "languages": "Python",
+    "readme_summary": "MoGe is a model designed for estimating 3D geometry from single images. It provides metric point maps, depth maps, normal maps, and camera FOV estimation. The model supports flexible resolutions, optional ground-truth FOV input, and is optimized for speed, making it suitable for various applications requiring monocular geometry estimation.",
+    "project_id": 861761349,
+    "url": "https://github.com/microsoft/MoGe",
+    "description": "[CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision"
 }
