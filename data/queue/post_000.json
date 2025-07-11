@@ -1,7 +1,0 @@
-{
-    "project_id": 861761349,
-    "content": "🔥 <b>MoGe</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRecovering 3D geometry from monocular open-domain images.\n<br>\n✨ <b>Key Features:</b>\n• Accurate 3D geometry estimation (point maps, depth maps, normal maps)\n• Optional ground-truth FOV input for enhanced accuracy\n• Flexible resolution support\n• Optimized for speed (60ms latency on A100/RTX3090 with FP16)\n<br>\n📖 <b>Summary:</b>\nMoGe is a model designed for estimating 3D geometry from single images. It provides metric point maps, depth maps, normal maps, and camera FOV estimation. The model supports flexible resolutions, optional ground-truth FOV input, and is optimized for speed, making it suitable for various applications requiring monocular geometry estimation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/microsoft/MoGe?embed=0\">View Project</a>\n• <a href=\"https://wangrc.site/MoGePage/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/154f3205d3eb7988d547102619bbd3804826550365d17a4f8c85c8d4e9b7bea4/microsoft/MoGe",
-    "platform": "telegram",
-    "quality_score": 0.9000000000000001
-}
