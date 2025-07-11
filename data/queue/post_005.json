@@ -1,7 +1,0 @@
-{
-    "project_id": 5365511,
-    "content": "✨ <b>pwnat</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nEstablishing direct communication between a client and a server, both behind separate NATs, without requiring any configuration changes to the NAT devices.\n<br>\n✨ <b>Key Features:</b>\n• NAT traversal without port forwarding or DMZ\n• No third-party involvement (no proxy, STUN/TURN/UPnP/ICE)\n• Direct client-to-server communication\n• Works even when both client and server are behind NATs\n<br>\n📖 <b>Summary:</b>\n`pwnat` is a tool that enables direct communication between clients and servers located behind separate NATs. It achieves this without requiring port forwarding, DMZ setup, or any third-party involvement. The tool leverages a unique technique involving ICMP packets to bypass NAT restrictions and establish a peer-to-peer connection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/samyk/pwnat?embed=0\">View Project</a>\n• <a href=\"https://samy.pl/pwnat/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/e7a34b6b287f5492568de69b46e5a890dbffb786b6931a126456d634eee1b6ad/samyk/pwnat",
-    "platform": "telegram",
-    "quality_score": 0.7500000000000001
-}
