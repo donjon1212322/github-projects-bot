@@ -1,26 +1,26 @@
 {
-    "article": "Hey fellow developers! Ever wished you could pull accurate 3D geometry straight from a single image?  Meet MoGe, a groundbreaking model that does just that!  Imagine the possibilities:  building immersive AR experiences, creating realistic 3D models from photos, or even enhancing robotics perception.  This isn't some theoretical concept; MoGe is a real, powerful tool, and it's open-source! \n\nMoGe excels at estimating several key aspects of a scene's 3D structure from a single image (monocular vision). This includes creating accurate point maps (think of it as a cloud of 3D points representing the scene), depth maps (showing how far away each point is from the camera), and even normal maps (indicating the direction of surfaces).  It's like having a mini 3D scanner built directly into your code! \n\nWhat sets MoGe apart is its versatility and accuracy.  Unlike some specialized solutions, MoGe works on a wide variety of images – it's 'open-domain'.  It also gives you the option to feed it the camera's field of view (FOV) for even better precision.  Need to process images of different sizes? No problem! MoGe is designed to handle various resolutions and aspect ratios with ease.  And speed?  MoGe is optimized to be surprisingly fast, achieving 60ms per image on high-end hardware.  But it's designed to be flexible, so you can adjust the resolution for even faster processing if you need it.\n\nSo, what's in it for you?  Well, if you're working on AR/VR, robotics, 3D reconstruction, or any project needing accurate 3D scene understanding, MoGe is a game-changer. It saves you the hassle of complex, multi-camera setups or expensive 3D scanning equipment. The ability to generate metric depth maps and point clouds directly from single images opens a whole new world of creative and practical applications.  You can integrate MoGe into your existing projects to improve the accuracy and efficiency of your 3D vision systems. The code is clean, well-documented, and easy to integrate into your workflow. Plus, it's backed by Microsoft, which adds a layer of confidence in terms of quality and support.\n\nMoGe has recently been updated to version 2, offering significant improvements in accuracy, visual sharpness, and inference speed.  The updated model also provides metric-scale point map predictions, meaning the distances in your 3D model are now accurately represented in real-world units.  This level of precision is a major leap forward in monocular geometry estimation.  And there's more: MoGe-2 now also provides high-quality normal maps, adding another dimension to its 3D reconstruction capabilities.\n\nReady to dive in?  The project is available on GitHub, with easy-to-follow installation instructions and pre-trained models available through Hugging Face.  Check out their website for interactive demos and videos that showcase MoGe's incredible power. Trust me, once you see it in action, you'll be hooked!  This is a project that will significantly impact the way we interact with and understand the 3D world around us, and it's yours to explore.",
+    "article": "Hey fellow developers! Ever wished for a super smooth, secure, and easy-to-integrate authentication system?  I've stumbled upon something truly amazing: Hanko! This open-source project is a game-changer for user management and authentication. Forget wrestling with complex authentication libraries – Hanko makes it a breeze.  It supports all the modern authentication methods you'd expect, including passwords, MFA, passkeys, social logins, and even SAML SSO for enterprise integration.  What's really cool is its flexibility; you can configure it to work perfectly with your existing tech stack, whether you're a fan of passkeys only, OAuth only, or a combination of both.  Plus, Hanko prioritizes user privacy with a data minimalist approach and robust security features to combat phishing attempts.  \n\nHanko's architecture is beautifully straightforward. It's made up of three main components: a powerful backend API that handles all the heavy lifting of authentication and user management, a set of handy web components called Hanko Elements, and a user-friendly JavaScript SDK to make integration a walk in the park. The backend is scalable, robust, and lightweight, making it perfect for both small and large applications.  The web components are designed to integrate seamlessly into your existing projects, providing a consistent and modern user experience without needing tons of custom coding. The SDK is a great way to interact with the API directly from your application, giving you full control over the authentication flow. They even have a great quickstart guide and several examples to get you going quickly.  \n\nOne of Hanko's biggest advantages is its ease of integration.  The well-documented API and intuitive web components allow you to add robust authentication to your projects without the usual headaches. You can customize the user interface to match your application's design, making for a seamless and cohesive user experience.  They've also thought about scalability; Hanko is designed to handle a large number of users and authentication requests without breaking a sweat.  It's cloud-native, so you can easily deploy it to various cloud platforms. Hanko also offers a fully managed service on Hanko Cloud if you prefer not to self-host.\n\nImagine the time you'll save! No more struggling with complex authentication libraries, no more security vulnerabilities to worry about, and no more frustrating integration processes.  Hanko streamlines everything, letting you focus on what truly matters: building awesome applications.  And because it's open-source, you get the added benefits of community support, transparency, and the ability to contribute to the project's growth.  Seriously, this is a must-see for any developer looking to improve their authentication game.  Check out the project on GitHub and prepare to be amazed!",
     "key_takeaways": [
-        "Accurate 3D geometry estimation from single images (monocular vision)",
-        "Handles various image resolutions and aspect ratios",
-        "Fast inference speed (60ms per image on high-end hardware)",
-        "Open-domain applicability (works on a wide variety of images)",
-        "Improved accuracy and features in MoGe-2, including metric-scale point maps and normal maps"
+        "Supports all modern authentication methods (passwords, MFA, passkeys, social logins, SAML SSO)",
+        "Easy integration with web components and a robust API",
+        "Flexible configuration options to fit any application",
+        "Prioritizes user privacy with data minimalism and phishing resistance",
+        "Open-source, scalable, and cloud-native architecture"
     ],
     "tags": [
-        "3D Reconstruction",
-        "Monocular Vision",
-        "Computer Vision",
-        "Open-Source",
-        "Deep Learning"
+        "authentication",
+        "user management",
+        "open-source",
+        "web components",
+        "API"
     ],
-    "title": "MoGe: Revolutionizing 3D Geometry Estimation from Single Images",
-    "stars": 1350,
-    "forks": 74,
-    "open_issues": 33,
-    "languages": "Python",
-    "readme_summary": "MoGe is a model designed for estimating 3D geometry from single images. It provides metric point maps, depth maps, normal maps, and camera FOV estimation. The model supports flexible resolutions, optional ground-truth FOV input, and is optimized for speed, making it suitable for various applications requiring monocular geometry estimation.",
-    "project_id": 861761349,
-    "url": "https://github.com/microsoft/MoGe",
-    "description": "[CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision"
+    "title": "Hanko: The Open-Source Authentication Revolution You Need to See!",
+    "stars": 8243,
+    "forks": 962,
+    "open_issues": 42,
+    "languages": "Go",
+    "readme_summary": "Hanko is an open-source authentication and user management system designed for easy integration and privacy. It supports modern authentication methods like passkeys, MFA, and social logins, and offers flexible configuration options. Hanko provides web components and a robust API for building custom frontends.",
+    "project_id": 469828818,
+    "url": "https://github.com/teamhanko/hanko",
+    "description": "Privacy-first Authentication and User Management system with flexible APIs and UI web components. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch."
 }
