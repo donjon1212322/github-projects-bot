@@ -1,0 +1,7 @@
+{
+    "project_id": 113111650,
+    "content": "💡 <b>detect-secrets</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDetecting and preventing secrets in code, particularly in enterprise environments, by scanning for newly committed secrets and providing a baseline for existing ones.\n<br>\n✨ <b>Key Features:</b>\n• Detecting secrets within a code base\n• Preventing new secrets from entering the code base\n• Detecting bypassed preventions\n• Providing a checklist of secrets to roll and migrate\n<br>\n📖 <b>Summary:</b>\ndetect-secrets is a tool designed for enterprise environments to detect and prevent secrets in code. It focuses on preventing new secrets from being committed, detecting bypasses, and providing a checklist for managing existing secrets. It achieves this by scanning diff outputs against regex statements, avoiding the need to scan the entire repository history.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Yelp/detect-secrets?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/894eaeb172afc0daf41fc3823812741fd95c94286046106443247e5e860135b0/Yelp/detect-secrets",
+    "platform": "telegram",
+    "quality_score": 0.65
+}
