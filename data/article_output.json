@@ -1,26 +1,26 @@
 {
-    "article": "Hey fellow developers! Ever wished for a super smooth, secure, and easy-to-integrate authentication system?  I've stumbled upon something truly amazing: Hanko! This open-source project is a game-changer for user management and authentication. Forget wrestling with complex authentication libraries – Hanko makes it a breeze.  It supports all the modern authentication methods you'd expect, including passwords, MFA, passkeys, social logins, and even SAML SSO for enterprise integration.  What's really cool is its flexibility; you can configure it to work perfectly with your existing tech stack, whether you're a fan of passkeys only, OAuth only, or a combination of both.  Plus, Hanko prioritizes user privacy with a data minimalist approach and robust security features to combat phishing attempts.  \n\nHanko's architecture is beautifully straightforward. It's made up of three main components: a powerful backend API that handles all the heavy lifting of authentication and user management, a set of handy web components called Hanko Elements, and a user-friendly JavaScript SDK to make integration a walk in the park. The backend is scalable, robust, and lightweight, making it perfect for both small and large applications.  The web components are designed to integrate seamlessly into your existing projects, providing a consistent and modern user experience without needing tons of custom coding. The SDK is a great way to interact with the API directly from your application, giving you full control over the authentication flow. They even have a great quickstart guide and several examples to get you going quickly.  \n\nOne of Hanko's biggest advantages is its ease of integration.  The well-documented API and intuitive web components allow you to add robust authentication to your projects without the usual headaches. You can customize the user interface to match your application's design, making for a seamless and cohesive user experience.  They've also thought about scalability; Hanko is designed to handle a large number of users and authentication requests without breaking a sweat.  It's cloud-native, so you can easily deploy it to various cloud platforms. Hanko also offers a fully managed service on Hanko Cloud if you prefer not to self-host.\n\nImagine the time you'll save! No more struggling with complex authentication libraries, no more security vulnerabilities to worry about, and no more frustrating integration processes.  Hanko streamlines everything, letting you focus on what truly matters: building awesome applications.  And because it's open-source, you get the added benefits of community support, transparency, and the ability to contribute to the project's growth.  Seriously, this is a must-see for any developer looking to improve their authentication game.  Check out the project on GitHub and prepare to be amazed!",
+    "article": "Ever felt overwhelmed by the sheer volume of unstructured data?  Wish there was a simpler way to wrangle it all, get it ready for AI, and even host your own large language models (LLMs)?  Then you've got to check out Instill Core! This open-source project is a game-changer, offering a complete solution for handling unstructured data, from initial processing to building powerful AI applications.  Think of it as your one-stop shop for taming the wild west of data.  No more juggling multiple tools and wrestling with incompatible systems. Instill Core streamlines the entire process, making it significantly easier to extract insights and build cutting-edge AI solutions.\n\nAt its heart, Instill Core is an ETL (Extract, Transform, Load) processing engine.  This means it handles the messy business of getting your data ready for use. Whether it's text, images, or audio, Instill Core can ingest it, clean it up, and transform it into a consistent format that's perfect for AI models.  It's like having a super-efficient data janitor that takes care of all the tedious prep work, leaving you free to focus on the exciting stuff – building your AI applications!\n\nBut Instill Core doesn't stop at ETL. It goes a step further by making your data AI-ready.  This means it preprocesses your data in ways that make it easier for AI models to understand and analyze.  This includes things like feature extraction and normalization, which can significantly improve the performance of your AI models.  Think of it as giving your AI a head start, making it easier for it to learn and make accurate predictions.\n\nOne of the coolest features of Instill Core is its ability to host open-source LLMs.  This means you can run your own powerful language models without relying on expensive cloud services.  This gives you more control over your data and your costs, allowing you to build and deploy AI applications more efficiently.  Imagine having the power of a state-of-the-art LLM right at your fingertips, without the hefty price tag.\n\nFinally, Instill Core offers RAG (Retrieval Augmented Generation) capabilities.  This is a powerful technique that combines the strengths of LLMs with the ability to access and process external information.  It allows your AI models to answer complex questions by retrieving and synthesizing information from your own data sources.  This is particularly useful for creating chatbots or question-answering systems that have access to a vast knowledge base.\n\nInstill Core offers a significant advantage for developers by simplifying the complex process of managing and utilizing unstructured data for AI applications. It eliminates the need for multiple tools, reduces development time, and allows for more efficient deployment of AI solutions.  The platform's open-source nature ensures community support, ongoing development, and the freedom to customize and extend its functionality to fit specific needs.  The ability to host open-source LLMs provides developers with greater control and cost-effectiveness compared to relying on cloud-based services.  The integration of RAG capabilities enables the creation of more sophisticated and informative AI-powered applications.\n\nIn short, Instill Core is more than just a project; it's a complete ecosystem for building powerful AI applications from unstructured data.  Its streamlined workflow, open-source nature, and advanced features make it a must-have tool for any developer serious about AI.  Give it a try – you won't be disappointed!",
     "key_takeaways": [
-        "Supports all modern authentication methods (passwords, MFA, passkeys, social logins, SAML SSO)",
-        "Easy integration with web components and a robust API",
-        "Flexible configuration options to fit any application",
-        "Prioritizes user privacy with data minimalism and phishing resistance",
-        "Open-source, scalable, and cloud-native architecture"
+        "Streamlined unstructured data processing from ETL to AI-readiness.",
+        "Open-source LLM hosting for cost-effective and controlled AI development.",
+        "Built-in RAG capabilities for creating advanced question-answering systems.",
+        "Simplifies complex workflows, saving developers significant time and effort.",
+        "Active community support and ongoing development ensure long-term viability and customizability."
     ],
     "tags": [
-        "authentication",
-        "user management",
-        "open-source",
-        "web components",
-        "API"
+        "ETL",
+        "AI",
+        "LLM",
+        "Open-Source",
+        "RAG"
     ],
-    "title": "Hanko: The Open-Source Authentication Revolution You Need to See!",
-    "stars": 8243,
-    "forks": 962,
-    "open_issues": 42,
-    "languages": "Go",
-    "readme_summary": "Hanko is an open-source authentication and user management system designed for easy integration and privacy. It supports modern authentication methods like passkeys, MFA, and social logins, and offers flexible configuration options. Hanko provides web components and a robust API for building custom frontends.",
-    "project_id": 469828818,
-    "url": "https://github.com/teamhanko/hanko",
-    "description": "Privacy-first Authentication and User Management system with flexible APIs and UI web components. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch."
+    "title": "Revolutionizing Unstructured Data: Instill Core – Your All-in-One AI Solution",
+    "stars": 2262,
+    "forks": 116,
+    "open_issues": 35,
+    "languages": "Python",
+    "readme_summary": "Instill Core is a full-stack AI infrastructure tool designed to streamline the development of AI-first applications. It offers a complete unstructured data solution, including ETL processing, AI-readiness, open-source LLM hosting, and RAG capabilities. The platform focuses on orchestrating data, models, and pipelines to simplify AI application development.",
+    "project_id": 447609265,
+    "url": "https://github.com/instill-ai/instill-core",
+    "description": "🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications"
 }
