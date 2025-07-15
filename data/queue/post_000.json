@@ -1,7 +1,0 @@
-{
-    "project_id": 119092220,
-    "content": "💡 <b>exodus</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRelocating Linux binaries and their dependencies to systems where they are not natively available or easily installed.\n<br>\n✨ <b>Key Features:</b>\n• Relocates Linux ELF binaries\n• Bundles all binary dependencies\n• Compiles a statically linked wrapper\n• Installs the bundle in ~/.exodus/\n<br>\n📖 <b>Summary:</b>\nExodus is a tool for painless relocation of Linux ELF binaries. It bundles all dependencies, creates a statically linked wrapper, and installs the package on the target machine, enabling software to run on systems where it might otherwise be unavailable due to missing packages or outdated distributions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/intoli/exodus?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/1fe38c7c9742b5fd1050e6c1035374d7ec33b5a8f6fe16b03783abbdebd7627a/intoli/exodus",
-    "platform": "telegram",
-    "quality_score": 0.55
-}
