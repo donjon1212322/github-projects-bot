@@ -1,26 +1,26 @@
 {
-    "article": "Hey fellow developers! Ever struggled with image loading in your Jetpack Compose projects?  Loading images efficiently and smoothly can be a real headache, but what if I told you there's a library that makes it incredibly easy and performant?  Meet Landscapist! This amazing project completely transforms how you handle images in Compose. Forget about dealing with complex image loading logic; Landscapist handles everything for you, from fetching images from the network to displaying them beautifully in your UI.\n\nLandscapist's brilliance lies in its simplicity and flexibility.  It's a highly optimized, pluggable solution that works seamlessly with popular image loading libraries like Glide, Coil, and Fresco.  You can choose the one that best suits your needs, or even switch between them without rewriting your entire codebase!  It's like having a Swiss Army knife for image loading— versatile and ready for any task.\n\nBut Landscapist isn't just about loading images; it's about enhancing the user experience.  Imagine loading images with smooth crossfades, stunning circular reveals, and even blur transformations.  These features aren't just eye candy; they create a polished, professional look and feel that will impress your users.  Plus, you get built-in support for placeholders and error handling, so your app never looks incomplete or broken.\n\nThe best part?  Landscapist is designed with performance in mind.  Many of its composable functions are optimized for minimal recompositions, ensuring that your app remains snappy and responsive, even when dealing with many images.  The library has been meticulously tested and refined to deliver top-notch performance, saving you hours of debugging and optimization work.\n\nLandscapist also offers great features like the ability to easily customize the image loading behavior using plugins,  track image loading states to provide better feedback to the user, and even create your own custom composables for unique image display needs.  It's incredibly flexible, allowing you to tailor it to your specific project requirements.\n\nIf you're building Android apps with Jetpack Compose, Landscapist is a must-have tool.  It simplifies image loading, enhances the user experience, and boosts performance.  It's a game-changer for anyone working with images in Compose, making development faster, easier, and more enjoyable.  Seriously, check it out—you won't regret it!",
+    "article": "Ever wished you had a super-smart, privacy-focused AI assistant that lives entirely on your computer?  Meet AgenticSeek! This incredible open-source project is revolutionizing how we interact with AI by ditching the cloud and embracing local processing.  Imagine an AI that's always available, respects your data, and is as powerful as the best cloud-based options – but without the privacy concerns.\n\nAgenticSeek acts as your personal, autonomous research assistant, coder, and task manager. It's designed to work with local AI models, meaning all your data, searches, and interactions stay securely on your machine.  No more worrying about your information being sent to distant servers! This is a game-changer for developers who value both functionality and security.\n\nThe architecture is elegantly simple.  AgenticSeek uses a combination of local AI models and a smart web browser to complete tasks.  Need to research a topic? AgenticSeek will autonomously browse the web, gather information, and summarize the results for you.  Need help with coding?  It can generate, debug, and run code in multiple programming languages.  The best part?  It seamlessly switches between different AI agents to tackle different aspects of a task, ensuring you get the best possible results.\n\nFor developers, the benefits are enormous.  First, it's a huge boost to productivity.  AgenticSeek automates many tedious tasks, freeing you up to focus on more creative and strategic work. Second, it's a massive win for privacy.  All your data stays on your device, giving you complete control and peace of mind.  Third, it's a fantastic learning opportunity.  By contributing to the project, you'll gain valuable experience working with cutting-edge AI technologies and contribute to a more privacy-respecting digital future.  Finally, its open-source nature means you can customize it to fit your exact needs and preferences.\n\nAgenticSeek isn't just another AI assistant; it's a statement. It's a statement about reclaiming control over our data and embracing a future where AI empowers us without compromising our privacy.  It's still under active development, but the potential is already mind-blowing.  Join the community, contribute your skills, and help shape the future of local AI!",
     "key_takeaways": [
-        "Seamless integration with popular image loading libraries like Glide, Coil, and Fresco.",
-        "Highly optimized for performance and minimal recompositions.",
-        "Beautiful animations and transformations (crossfades, circular reveals, blur) enhance the user experience.",
-        "Easy customization and extension with plugins and custom composables.",
-        "Built-in support for placeholders and error handling for a robust and polished user experience."
+        "Fully local and private AI assistant",
+        "Autonomous web browsing and coding capabilities",
+        "Enhances developer productivity and privacy",
+        "Open-source and community-driven",
+        "Supports multiple programming languages"
     ],
     "tags": [
-        "Jetpack Compose",
-        "Image Loading",
-        "Android Development",
-        "Kotlin",
-        "Glide"
+        "AI",
+        "Privacy",
+        "Open-Source",
+        "Local AI",
+        "Python"
     ],
-    "title": "Landscapist: Revolutionizing Image Loading in Jetpack Compose",
-    "stars": 2327,
-    "forks": 124,
-    "open_issues": 7,
-    "languages": "Kotlin",
-    "readme_summary": "Landscapist is a Kotlin library that simplifies and optimizes image loading in Jetpack Compose and Kotlin Multiplatform projects. It provides a pluggable architecture supporting Glide, Coil, and Fresco, along with features like image state tracing, custom composables, animations, and image plugins for configurable behaviors, all while improving performance with Baseline Profiles.",
-    "project_id": 298332340,
-    "url": "https://github.com/skydoves/landscapist",
-    "description": "🌻 A pluggable, highly optimized Jetpack Compose and Kotlin Multiplatform image loading library that fetches and displays network images with Glide, Coil, and Fresco."
+    "title": "AgenticSeek: Your Privacy-Focused, Local AI Powerhouse",
+    "stars": 20119,
+    "forks": 1991,
+    "open_issues": 25,
+    "languages": "Python",
+    "readme_summary": "AgenticSeek is a local, voice-enabled AI assistant that prioritizes user privacy by running entirely on local hardware. It autonomously browses the web, writes code in multiple languages, and plans complex tasks using a smart agent selection system. The project aims to provide a fully private and customizable AI experience without cloud dependencies.",
+    "project_id": 935604638,
+    "url": "https://github.com/Fosowl/agenticSeek",
+    "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)"
 }

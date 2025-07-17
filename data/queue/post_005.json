@@ -1,0 +1,7 @@
+{
+    "project_id": 28283593,
+    "content": "✨ <b>boulder</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning a certificate authority (CA) that implements the ACME protocol, as used by Let's Encrypt.\n<br>\n✨ <b>Key Features:</b>\n• ACME protocol implementation\n• Certificate issuance and revocation\n• Component-based architecture (Web Front Ends, Registration Authority, Validation Authority, Certificate Authority, Storage Authority, Publisher, OCSP Responder, CRL Updater)\n• gRPC for inter-component communication\n• Docker-based development environment\n<br>\n📖 <b>Summary:</b>\nBoulder is an ACME-based certificate authority implemented in Go. It provides automated certificate issuance and revocation using the ACME protocol. The architecture is component-based, utilizing gRPC for inter-component communication, and a Docker environment is provided for development.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/letsencrypt/boulder?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/3e484f97a7845b071b82ea8e9ae5b78c97b96100763d104d23df118bf267c25b/letsencrypt/boulder",
+    "platform": "telegram",
+    "quality_score": 0.85
+}
