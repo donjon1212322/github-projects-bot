@@ -1,44 +1,30 @@
 [
     {
-        "project_id": 1001684671,
-        "content": "🌟 <b>RapidRAW</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nRAW image editing for photographers who prioritize speed and a clean, simple workflow.\n<br>\n✨ <b>Key Features:</b>\n• Non-destructive editing\n• GPU-accelerated\n• RAW image support\n• Masking\n• Lightweight package\n<br>\n📖 <b>Summary:</b>\nRapidRAW is a GPU-accelerated RAW image editor designed for photographers seeking a fast and intuitive editing experience. It offers non-destructive editing, masking capabilities, and a lightweight cross-platform package. While not focused on perfect color accuracy, it prioritizes a fluid creative process with features like auto adjustments, library filters, and batch exporting.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/CyberTimon/RapidRAW?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1a827efef3e005eb8e9146d58a9b649e3d07bbc64b551d32448bbf52eb03d19d/CyberTimon/RapidRAW",
+        "project_id": 725725007,
+        "content": "🚀 <b>Upscale-A-Video</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-world video super-resolution\n<br>\n✨ <b>Key Features:</b>\n• Temporal-consistent video super-resolution\n• Diffusion-based model\n• Text prompt conditioning\n• AIGC video enhancement\n• YouHQ dataset\n<br>\n📖 <b>Summary:</b>\nUpscale-A-Video is a diffusion-based model designed for video super-resolution. It takes low-resolution videos and optional text prompts as input to generate high-resolution, temporally consistent videos. The model is suitable for enhancing real-world videos and AIGC content.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sczhou/Upscale-A-Video?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/11b9f3186da591c34ef40890dfaa49e6b5fc0e0defd6740490013739a93048d8/sczhou/Upscale-A-Video",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.6000000000000001
     },
     {
-        "project_id": 100093863,
-        "content": "💡 <b>brotab</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging browser tabs from the command line.\n<br>\n✨ <b>Key Features:</b>\n• List browser tabs\n• Close browser tabs\n• Reorder browser tabs\n• Open URLs in tabs\n• Activate specific tabs\n<br>\n📖 <b>Summary:</b>\nBroTab is a command-line tool for managing browser tabs. It allows users to list, close, reorder, open, and activate tabs directly from the terminal. BroTab supports various operations like searching tabs, moving them between windows, and updating tab properties, enhancing productivity for users who prefer command-line interfaces.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/balta2ar/brotab?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b7e139b16a068a1e88273963181c6c84d445d90bfc9947f0fce90117a56f7228/balta2ar/brotab",
+        "project_id": 8530120,
+        "content": "💡 <b>jbake</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating static websites and blogs for developers and designers.\n<br>\n✨ <b>Key Features:</b>\n• Static site generation\n• Blog generation\n• Java-based\n• Supports AsciiDoc and Markdown\n• Uses Gradle build system\n<br>\n📖 <b>Summary:</b>\nJBake is a Java-based static site and blog generator designed for developers and designers. It supports popular markup languages like AsciiDoc and Markdown and provides a flexible platform for creating static websites. A Docker image is available for simplified deployment and usage.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jbake-org/jbake?embed=0\">View Project</a>\n• <a href=\"http://jbake.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7d4092eea30542e37131ffab45ccc289b7b8d3f7e4d56f8bfb2b3045b88c598f/jbake-org/jbake",
         "platform": "telegram",
         "quality_score": 0.55
     },
     {
-        "project_id": 698675911,
-        "content": "🚀 <b>brewkit</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nContainer-native build system for repeatable builds, host agnostic and build process containerization.\n<br>\n✨ <b>Key Features:</b>\n• BuildKit as core\n• Distributed cache\n• Automatic garbage collection\n• Aggressive-caching\n• Mounted secrets\n<br>\n📖 <b>Summary:</b>\nBrewKit is a container-native build system that leverages BuildKit to provide repeatable, host-agnostic builds. It focuses on containerizing the build process and offers features like aggressive caching, mounted secrets, and JSON/JSONNET based build definitions. BrewKit aims to be a single tool for building projects across Docker environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ispringtech/brewkit?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/855a249d431dca65b3bb323e2997bf4e0cc6047a837e5c6e46ce2dbe1cbc680c/ispringtech/brewkit",
+        "project_id": 1009856713,
+        "content": "✨ <b>notebookllama</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and managing a digital notebook powered by LlamaCloud, allowing users to organize and interact with their notes and documents.\n<br>\n✨ <b>Key Features:</b>\n• Open-source alternative to NotebookLM\n• Backed by LlamaCloud\n• Uses uv for dependency management\n• Requires API keys for OpenAI, ElevenLabs, and LlamaCloud\n• Automated agent and pipeline creation\n<br>\n📖 <b>Summary:</b>\nNotebookLlama is an open-source alternative to NotebookLM, leveraging LlamaCloud for backend support. It allows users to create a digital notebook by integrating various API services and provides tools for automated agent and pipeline creation, simplifying the process of managing and interacting with notes and documents.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/run-llama/notebookllama?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/cc7716dba2117fa01ab0c66cf5d449055a195cae0c763744b4e1d0f012cf0e1e/run-llama/notebookllama",
         "platform": "telegram",
-        "quality_score": 0.5
+        "quality_score": 0.8499999999999999
     },
     {
-        "project_id": 856003244,
-        "content": "🚀 <b>jessy-go</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAccelerating JSON serialization and deserialization in Go applications while minimizing memory allocation.\n<br>\n✨ <b>Key Features:</b>\n• High-performance JSON library for Go\n• Drop-in replacement for encoding/json\n• Focus on speed and reduced memory usage\n• Provides both compatibility and fast marshal/unmarshal options\n• Customizable encoding through interfaces\n<br>\n📖 <b>Summary:</b>\nJessy is a high-performance JSON library for Go designed as a drop-in replacement for the standard encoding/json package. It prioritizes speed and reduced memory usage through techniques like unsafe memory access and pre-cached encoders. Jessy offers both compatibility modes and faster, non-compatible options, along with customization through interfaces for specialized encoding needs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/avpetkun/jessy-go?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4868a62b1a1db347aa33145a8cbd5611cadf3f985a38b0d54d0bf85654067497/avpetkun/jessy-go",
+        "project_id": 975891605,
+        "content": "🌟 <b>stoolap</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nHybrid transactional/analytical processing (HTAP) workloads\n<br>\n✨ <b>Key Features:</b>\n• Pure Go Implementation with zero dependencies\n• ACID Transactions with MVCC\n• Lock-Free Design\n• Columnar indexes for fast analytical processing\n• HTAP Capabilities\n<br>\n📖 <b>Summary:</b>\nStoolap is a high-performance NewSQL database written in pure Go with zero dependencies. It offers ACID transactions with MVCC, columnar indexes for fast analytics, and HTAP capabilities, making it suitable for applications requiring both transactional and analytical processing in a single engine. It also boasts PostgreSQL compatibility via a wire protocol server.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/stoolap/stoolap?embed=0\">View Project</a>\n• <a href=\"https://stoolap.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/2484a8797565b4056c845ab96c686978820d51fb2af9d9ed2341ec9fc03cefe0/stoolap/stoolap",
         "platform": "telegram",
-        "quality_score": 0.4
-    },
-    {
-        "project_id": 935604638,
-        "content": "🚀 <b>agenticSeek</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nA fully local, private alternative to cloud-based AI assistants, enabling autonomous web browsing, coding, and task planning without data sharing.\n<br>\n✨ <b>Key Features:</b>\n• Fully local and private operation\n• Autonomous web browsing\n• Autonomous coding assistant\n• Smart agent selection\n• Plans and executes complex tasks\n<br>\n📖 <b>Summary:</b>\nAgenticSeek is a local, voice-enabled AI assistant that prioritizes user privacy by running entirely on local hardware. It autonomously browses the web, writes code in multiple languages, and plans complex tasks using a smart agent selection system. The project aims to provide a fully private and customizable AI experience without cloud dependencies.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Fosowl/agenticSeek?embed=0\">View Project</a>\n• <a href=\"http://agenticseek.tech?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e4a31f421a4660acc5b70701a13086403f01dd0e00fafc6c463131f459e65198/Fosowl/agenticSeek",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 28283593,
-        "content": "✨ <b>boulder</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning a certificate authority (CA) that implements the ACME protocol, as used by Let's Encrypt.\n<br>\n✨ <b>Key Features:</b>\n• ACME protocol implementation\n• Certificate issuance and revocation\n• Component-based architecture (Web Front Ends, Registration Authority, Validation Authority, Certificate Authority, Storage Authority, Publisher, OCSP Responder, CRL Updater)\n• gRPC for inter-component communication\n• Docker-based development environment\n<br>\n📖 <b>Summary:</b>\nBoulder is an ACME-based certificate authority implemented in Go. It provides automated certificate issuance and revocation using the ACME protocol. The architecture is component-based, utilizing gRPC for inter-component communication, and a Docker environment is provided for development.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/letsencrypt/boulder?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3e484f97a7845b071b82ea8e9ae5b78c97b96100763d104d23df118bf267c25b/letsencrypt/boulder",
-        "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.75
     }
 ]
