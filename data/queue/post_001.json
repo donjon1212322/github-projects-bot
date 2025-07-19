@@ -1,7 +1,0 @@
-{
-    "project_id": 817827211,
-    "content": "🌟 <b>vid2text</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting searchable transcriptions from video and audio sources.\n<br>\n✨ <b>Key Features:</b>\n• Multi-source support (YouTube, local videos, M3U8 streams)\n• Local transcription using MLX Whisper or OpenAI Whisper\n• SQLite storage with Datasette web interface\n• Batch processing via YAML configuration\n<br>\n📖 <b>Summary:</b>\nThe vid2text tool enables users to create searchable transcripts from various video and audio sources, including YouTube videos, local files, and M3U8 streams. It leverages local Whisper models for transcription and stores the results in an SQLite database, accessible through a Datasette web interface. Batch processing is supported via YAML configuration files.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kashw1n/vid2text?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/407f9ca622e37c3d47239833c6ab796b4ce50106c636553609c5f3392ba7fc84/kashw1n/vid2text",
-    "platform": "telegram",
-    "quality_score": 0.6499999999999999
-}
