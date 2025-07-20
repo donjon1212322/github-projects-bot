@@ -1,44 +1,44 @@
 [
     {
-        "project_id": 836460535,
-        "content": "🔥 <b>Alice</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA smart desktop AI assistant application.\n<br>\n✨ <b>Key Features:</b>\n• Voice Interaction (VAD, OpenAI TTS)\n• Memory & Context (Short-term, Long-term, Summarization, Emotion awareness)\n• Vision & Visual Output (Screenshot interpretation, Image generation)\n• Computer Use Tools (File system browsing, Shell command execution, Granular command approvals)\n<br>\n📖 <b>Summary:</b>\nAlice is an open-source AI desktop assistant that offers voice interaction, memory & context awareness, vision capabilities, and computer use tools. It allows users to interact with their computer through voice commands, leveraging function calling and customizable settings for a personalized AI experience. Alice is built with Vue.js, Vite, and Electron.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pmbstyle/Alice?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5498517e4e9feaeaa62767c7a298030970b2f41aad51905717f963353338df87/pmbstyle/Alice",
+        "project_id": 999831233,
+        "content": "✨ <b>raycast-linux</b> | Svelte\n<br>\n🎯 <b>Primary Use Case:</b>\nA Raycast-inspired application launcher for Linux systems.\n<br>\n✨ <b>Key Features:</b>\n• Extensible Command Palette\n• Extension Support\n• Powerful Calculator\n• Clipboard History\n• Snippets\n<br>\n📖 <b>Summary:</b>\nRaycast for Linux is an open-source application launcher designed to bring the functionality of Raycast to Linux users. It offers features such as an extensible command palette, extension support, a powerful calculator, clipboard history, snippets, and AI integration, aiming to provide a streamlined and efficient way to interact with your system.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ByteAtATime/raycast-linux?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0f526102e29719f5882ec938215cf511a67d5c74c37ed963dad11495fe9b4a94/ByteAtATime/raycast-linux",
         "platform": "telegram",
-        "quality_score": 0.9
+        "quality_score": 0.5499999999999999
     },
     {
-        "project_id": 817827211,
-        "content": "🌟 <b>vid2text</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting searchable transcriptions from video and audio sources.\n<br>\n✨ <b>Key Features:</b>\n• Multi-source support (YouTube, local videos, M3U8 streams)\n• Local transcription using MLX Whisper or OpenAI Whisper\n• SQLite storage with Datasette web interface\n• Batch processing via YAML configuration\n<br>\n📖 <b>Summary:</b>\nThe vid2text tool enables users to create searchable transcripts from various video and audio sources, including YouTube videos, local files, and M3U8 streams. It leverages local Whisper models for transcription and stores the results in an SQLite database, accessible through a Datasette web interface. Batch processing is supported via YAML configuration files.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kashw1n/vid2text?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/407f9ca622e37c3d47239833c6ab796b4ce50106c636553609c5f3392ba7fc84/kashw1n/vid2text",
-        "platform": "telegram",
-        "quality_score": 0.6499999999999999
-    },
-    {
-        "project_id": 257787813,
-        "content": "🚀 <b>firezone</b> | Elixir\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely manage remote access for organizations of any size using a zero-trust approach.\n<br>\n✨ <b>Key Features:</b>\n• Fast: Built on WireGuard\n• Scalable: Deploy multiple gateways for load balancing and failover\n• Private: Peer-to-peer, end-to-end encrypted tunnels\n• Secure: Zero attack surface due to holepunching tech\n• Open: Open-source codebase\n<br>\n📖 <b>Summary:</b>\nFirezone is an open-source zero-trust access platform built on WireGuard. It provides a modern alternative to legacy VPNs, offering features like granular access control, multiple authentication options, and easy deployment. Firezone aims to provide secure and scalable remote access management for organizations of all sizes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/firezone/firezone?embed=0\">View Project</a>\n• <a href=\"https://www.firezone.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/257787813/7852ca28-8b51-4d6b-ab84-1da339831478",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 867701772,
-        "content": "💡 <b>tewi</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nText-based management of a Transmission BitTorrent daemon.\n<br>\n✨ <b>Key Features:</b>\n• Connect to Transmission daemon by its credentials\n• Browse torrents list\n• Different view modes: card, compact, oneline\n• Display torrent details: overview, files, trackers, peers\n• Add new torrents\n<br>\n📖 <b>Summary:</b>\nTewi is a text-based user interface (TUI) for managing the Transmission BitTorrent daemon. It allows users to connect to a Transmission daemon, browse torrents, view details, add new torrents, and perform various actions like starting, pausing, removing, and verifying torrents, all from a terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/anlar/tewi?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f8b81cf0a1062ff3874b6d8e892b3e960dc0ff6c9e7cd929aaaa8262be2d9efc/anlar/tewi",
-        "platform": "telegram",
-        "quality_score": 0.8499999999999999
-    },
-    {
-        "project_id": 190169745,
-        "content": "🚀 <b>ripe-atlas-software-probe</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nMeasuring Internet connectivity and reachability using a global network of software probes.\n<br>\n✨ <b>Key Features:</b>\n• Internet connectivity measurement\n• Network reachability analysis\n• Software probe implementation\n<br>\n📖 <b>Summary:</b>\nThe ripe-atlas-software-probe repository contains the codebase for the RIPE Atlas software probe, which is part of a global network that measures Internet connectivity and reachability. It allows users to deploy software probes on various platforms, including Debian, Raspberry Pi OS, and Enterprise Linux, to contribute to a real-time understanding of the Internet's state. The repository also supports building an OpenWRT package for embedded devices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/RIPE-NCC/ripe-atlas-software-probe?embed=0\">View Project</a>\n• <a href=\"https://atlas.ripe.net/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6d1f54c4dc9dca274003a83a4e9e85fd9070ce7d38b467e390bc364a7646d4d2/RIPE-NCC/ripe-atlas-software-probe",
-        "platform": "telegram",
-        "quality_score": 0.45
-    },
-    {
-        "project_id": 772283421,
-        "content": "🔥 <b>unsend</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nOpen source alternative to Resend, Sendgrid, Postmark etc. for sending emails reliably and cheaply with a dashboard for managing contacts and sending bulk emails.\n<br>\n✨ <b>Key Features:</b>\n• Add domains\n• Transactional Mails\n• Rest API\n<br>\n📖 <b>Summary:</b>\nUnsend is an open-source email sending infrastructure that leverages Amazon SES to provide a reliable and cost-effective alternative to services like Resend and Sendgrid. It offers a comprehensive dashboard for monitoring email delivery metrics, managing contacts, and sending both transactional and marketing emails. Unsend also supports SMTP and a REST API, with plans to expand to other sending protocols like SMS and push notifications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/unsend-dev/unsend?embed=0\">View Project</a>\n• <a href=\"https://unsend.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f02b45241f20c7f4964cc3dd702bfc829222719f80a84a5bf2662d2c6a70b777/unsend-dev/unsend",
+        "project_id": 583641182,
+        "content": "🔥 <b>favbox</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhances and simplifies bookmark management locally without cloud storage or third-party services.\n<br>\n✨ <b>Key Features:</b>\n• Syncs with browser profile\n• No data sent to third-party services\n• Minimalist, clean UI\n• Tag support for easy organization\n• Advanced search, sorting, and filtering\n<br>\n📖 <b>Summary:</b>\nFavBox is a local-first browser extension for enhanced bookmark management. It provides features like tag support, advanced search, duplicate detection, and local notes, all while keeping your data private and synced with your browser profile. It extends the browser's native bookmarking features without replacing them.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dd3v/favbox?embed=0\">View Project</a>\n• <a href=\"https://chrome.google.com/webstore/detail/favbox/eangbddipcghohfjefjmfihcjgjnnemj?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/583641182/30395700-ac76-4b66-9416-2da389baca25",
         "platform": "telegram",
         "quality_score": 0.7
+    },
+    {
+        "project_id": 985046164,
+        "content": "🌟 <b>telepipe</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nSending messages and files to Telegram channels, chats, or groups directly from the command line, enabling scripting and automation of notifications and alerts.\n<br>\n✨ <b>Key Features:</b>\n• Send messages to Telegram from the command line\n• File upload support\n• Video streaming support\n• Message formatting (Markdown, HTML)\n• Scheduled message delivery\n<br>\n📖 <b>Summary:</b>\nTelepipe is a command-line utility that allows users to send messages and files to Telegram directly from their terminal. It supports features like file uploads, video streaming, message formatting, and scheduled delivery, making it suitable for scripting, monitoring, and automated notifications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Linuxmaster14/telepipe?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f4118c7ed9ee4424938bcd34ad46b55ddf2e2983e73e3e3b0958e901f1a7df81/Linuxmaster14/telepipe",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 657049902,
+        "content": "✨ <b>hub</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-integrated device hub for controlling and interacting with custom-built physical devices using natural language via LLM hosts.\n<br>\n✨ <b>Key Features:</b>\n• Privacy-focused distributed architecture\n• Web application interface accessible on any device\n• AI-integration via Model Context Protocol (MCP)\n• Docker-based deployment for cloud readiness\n<br>\n📖 <b>Summary:</b>\nMerliot Device Hub is an AI-integrated platform that allows users to control custom-built devices using natural language. It emphasizes privacy through a distributed architecture and offers a web-based interface accessible from any device. The hub supports integration with LLMs via the Model Context Protocol and can be deployed using Docker for cloud readiness.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/merliot/hub?embed=0\">View Project</a>\n• <a href=\"https://merliot.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8fea7b4f10f09a801a35853e3b7231c4a5d7b7c5015a5f09d9e01d2940a21d5c/merliot/hub",
+        "platform": "telegram",
+        "quality_score": 0.4
+    },
+    {
+        "project_id": 895202100,
+        "content": "💡 <b>everwilds</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nLearning resource for developers interested in MMORPG networking and netcode architecture.\n<br>\n✨ <b>Key Features:</b>\n• Client-server architecture\n• Character movement with walk animation\n• Basic combat system\n• Simple leveling system\n• Character nameplates toggle\n<br>\n📖 <b>Summary:</b>\nEverwilds is a prototype MMORPG designed as a learning resource. It demonstrates key aspects of MMORPG architecture, particularly networking and player movement synchronization, using techniques similar to those found in World of Warcraft. The project includes a client-server architecture, character movement, combat, leveling, and a chat system.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nickyvanurk/everwilds?embed=0\">View Project</a>\n• <a href=\"http://everwilds.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8e23adaf82be98a958c68bf228277908ac9ec1b9f1817333cdd9b8f0fedea15b/nickyvanurk/everwilds",
+        "platform": "telegram",
+        "quality_score": 0.5
+    },
+    {
+        "project_id": 667568594,
+        "content": "🔥 <b>quik</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nReplacement for the stock Android messaging app.\n<br>\n✨ <b>Key Features:</b>\n• Scheduled Messages\n• Message Backup\n• Speech to Text and Text to Speech\n• Message Blocking and Archiving\n• Voice Messages\n<br>\n📖 <b>Summary:</b>\nQUIK is an open-source Android SMS messenger app that aims to provide a more beautiful and feature-rich experience than the stock messaging app. It offers features such as scheduled messages, message backup, speech-to-text integration, message blocking, voice messages, and support for various attachments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/octoshrimpy/quik?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7606506f1f3b6cc2714bb3a7766c6c18b11bac17cb792d8ddcf546ab9737391b/octoshrimpy/quik",
+        "platform": "telegram",
+        "quality_score": 0.85
     }
 ]
