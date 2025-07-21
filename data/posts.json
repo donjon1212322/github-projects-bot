@@ -1,44 +1,30 @@
 [
     {
-        "project_id": 999831233,
-        "content": "✨ <b>raycast-linux</b> | Svelte\n<br>\n🎯 <b>Primary Use Case:</b>\nA Raycast-inspired application launcher for Linux systems.\n<br>\n✨ <b>Key Features:</b>\n• Extensible Command Palette\n• Extension Support\n• Powerful Calculator\n• Clipboard History\n• Snippets\n<br>\n📖 <b>Summary:</b>\nRaycast for Linux is an open-source application launcher designed to bring the functionality of Raycast to Linux users. It offers features such as an extensible command palette, extension support, a powerful calculator, clipboard history, snippets, and AI integration, aiming to provide a streamlined and efficient way to interact with your system.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ByteAtATime/raycast-linux?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0f526102e29719f5882ec938215cf511a67d5c74c37ed963dad11495fe9b4a94/ByteAtATime/raycast-linux",
-        "platform": "telegram",
-        "quality_score": 0.5499999999999999
-    },
-    {
-        "project_id": 583641182,
-        "content": "🔥 <b>favbox</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhances and simplifies bookmark management locally without cloud storage or third-party services.\n<br>\n✨ <b>Key Features:</b>\n• Syncs with browser profile\n• No data sent to third-party services\n• Minimalist, clean UI\n• Tag support for easy organization\n• Advanced search, sorting, and filtering\n<br>\n📖 <b>Summary:</b>\nFavBox is a local-first browser extension for enhanced bookmark management. It provides features like tag support, advanced search, duplicate detection, and local notes, all while keeping your data private and synced with your browser profile. It extends the browser's native bookmarking features without replacing them.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dd3v/favbox?embed=0\">View Project</a>\n• <a href=\"https://chrome.google.com/webstore/detail/favbox/eangbddipcghohfjefjmfihcjgjnnemj?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/583641182/30395700-ac76-4b66-9416-2da389baca25",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 985046164,
-        "content": "🌟 <b>telepipe</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nSending messages and files to Telegram channels, chats, or groups directly from the command line, enabling scripting and automation of notifications and alerts.\n<br>\n✨ <b>Key Features:</b>\n• Send messages to Telegram from the command line\n• File upload support\n• Video streaming support\n• Message formatting (Markdown, HTML)\n• Scheduled message delivery\n<br>\n📖 <b>Summary:</b>\nTelepipe is a command-line utility that allows users to send messages and files to Telegram directly from their terminal. It supports features like file uploads, video streaming, message formatting, and scheduled delivery, making it suitable for scripting, monitoring, and automated notifications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Linuxmaster14/telepipe?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f4118c7ed9ee4424938bcd34ad46b55ddf2e2983e73e3e3b0958e901f1a7df81/Linuxmaster14/telepipe",
+        "project_id": 1020059248,
+        "content": "🔥 <b>aianywhere</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nQuickly send selected text from any webpage to various AI chat platforms for analysis, research, or prompt engineering.\n<br>\n✨ <b>Key Features:</b>\n• Universal text selection via right-click\n• Integration with multiple AI platforms (ChatGPT, Claude, etc.)\n• Directly sends selected text to AI chat interfaces\n• Allows modification of prompts before sending to AI\n<br>\n📖 <b>Summary:</b>\nAI Anywhere is a browser extension that streamlines the process of using AI tools with web content. It allows users to right-click on any selected text and send it directly to a chosen AI chat interface, eliminating the need for copy-pasting. This facilitates faster research, deeper analysis, and more efficient prompt creation by seamlessly integrating web content with AI tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tohmsc/aianywhere?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6cde57424cd4de507f60049f8ed463d3625821f9aabd154336ca4a521f4da5cd/tohmsc/aianywhere",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 657049902,
-        "content": "✨ <b>hub</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-integrated device hub for controlling and interacting with custom-built physical devices using natural language via LLM hosts.\n<br>\n✨ <b>Key Features:</b>\n• Privacy-focused distributed architecture\n• Web application interface accessible on any device\n• AI-integration via Model Context Protocol (MCP)\n• Docker-based deployment for cloud readiness\n<br>\n📖 <b>Summary:</b>\nMerliot Device Hub is an AI-integrated platform that allows users to control custom-built devices using natural language. It emphasizes privacy through a distributed architecture and offers a web-based interface accessible from any device. The hub supports integration with LLMs via the Model Context Protocol and can be deployed using Docker for cloud readiness.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/merliot/hub?embed=0\">View Project</a>\n• <a href=\"https://merliot.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8fea7b4f10f09a801a35853e3b7231c4a5d7b7c5015a5f09d9e01d2940a21d5c/merliot/hub",
+        "project_id": 1006267824,
+        "content": "✨ <b>clip-vault</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely managing and accessing clipboard history across multiple platforms.\n<br>\n✨ <b>Key Features:</b>\n• End-to-end encryption using SQLCipher\n• Cross-platform compatibility (macOS, Windows, Linux)\n• Fast search functionality\n• Global hotkeys for easy access\n<br>\n📖 <b>Summary:</b>\nClip Vault is a cross-platform clipboard manager that automatically captures and encrypts clipboard history. It provides end-to-end encryption using SQLCipher, fast search capabilities, and global hotkeys for easy access. The application is available for macOS, Windows, and Linux.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/densumesh/clip-vault?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a0195b07b948a904186d8fa8e01485d0091244aca830ea51f1462339e62c2680/densumesh/clip-vault",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 980772545,
+        "content": "🌟 <b>terminal-rain-lightning</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating a terminal-based ASCII rain and lightning animation for entertainment and visual appeal.\n<br>\n✨ <b>Key Features:</b>\n• Smooth ASCII rain effect with varying drop characters\n• Toggleable 'Thunderstorm' mode for more intense rain and lightning\n• Customizable rain and lightning colors via command-line arguments\n• Responsive to terminal resizing\n• Lightweight and runs in most modern terminals\n<br>\n📖 <b>Summary:</b>\nThe terminal-rain-lightning repository provides a Python script that generates a mesmerizing rain and lightning animation directly in the terminal. It features customizable colors, a toggleable thunderstorm mode, and adapts to terminal resizing, offering a lightweight and visually appealing experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rmaake1/terminal-rain-lightning?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e878cb28acdf2b544500cd3ac36b5d3bf2e2a718e1999e3758af635f900f0bb2/rmaake1/terminal-rain-lightning",
         "platform": "telegram",
         "quality_score": 0.4
     },
     {
-        "project_id": 895202100,
-        "content": "💡 <b>everwilds</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nLearning resource for developers interested in MMORPG networking and netcode architecture.\n<br>\n✨ <b>Key Features:</b>\n• Client-server architecture\n• Character movement with walk animation\n• Basic combat system\n• Simple leveling system\n• Character nameplates toggle\n<br>\n📖 <b>Summary:</b>\nEverwilds is a prototype MMORPG designed as a learning resource. It demonstrates key aspects of MMORPG architecture, particularly networking and player movement synchronization, using techniques similar to those found in World of Warcraft. The project includes a client-server architecture, character movement, combat, leveling, and a chat system.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nickyvanurk/everwilds?embed=0\">View Project</a>\n• <a href=\"http://everwilds.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8e23adaf82be98a958c68bf228277908ac9ec1b9f1817333cdd9b8f0fedea15b/nickyvanurk/everwilds",
+        "project_id": 1512901,
+        "content": "🔥 <b>Flexget</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating the downloading and management of various types of content from different sources.\n<br>\n✨ <b>Key Features:</b>\n• Automation of content downloading (torrents, nzbs, podcasts, comics, series, movies)\n• Support for various sources (RSS feeds, HTML pages, CSV files, search engines)\n• YAML-based configuration\n• Extensible through plugins\n<br>\n📖 <b>Summary:</b>\nFlexGet is a multipurpose automation tool that helps users manage and download content like torrents, movies, and podcasts from various sources such as RSS feeds and HTML pages. It uses a YAML-based configuration and offers extensibility through plugins, making it a versatile solution for content automation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Flexget/Flexget?embed=0\">View Project</a>\n• <a href=\"http://www.flexget.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9edfd66be320ea2a5dc6116d77b9f6927b6f440c66724691fe8d3b43fe2e6d36/Flexget/Flexget",
         "platform": "telegram",
-        "quality_score": 0.5
-    },
-    {
-        "project_id": 667568594,
-        "content": "🔥 <b>quik</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nReplacement for the stock Android messaging app.\n<br>\n✨ <b>Key Features:</b>\n• Scheduled Messages\n• Message Backup\n• Speech to Text and Text to Speech\n• Message Blocking and Archiving\n• Voice Messages\n<br>\n📖 <b>Summary:</b>\nQUIK is an open-source Android SMS messenger app that aims to provide a more beautiful and feature-rich experience than the stock messaging app. It offers features such as scheduled messages, message backup, speech-to-text integration, message blocking, voice messages, and support for various attachments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/octoshrimpy/quik?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7606506f1f3b6cc2714bb3a7766c6c18b11bac17cb792d8ddcf546ab9737391b/octoshrimpy/quik",
-        "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.95
     }
 ]
