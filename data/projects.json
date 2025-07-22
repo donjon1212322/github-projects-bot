@@ -1,127 +1,268 @@
 [
     {
-        "id": 1020059248,
-        "name": "aianywhere",
-        "description": "Right click text for AI chat",
-        "url": "https://github.com/tohmsc/aianywhere",
-        "language": "JavaScript",
-        "stars": 2,
-        "forks": 1,
-        "created_at": "2025-07-15T09:23:28Z",
-        "updated_at": "2025-07-21T07:06:05Z",
+        "id": 858442303,
+        "name": "GenCAD",
+        "description": null,
+        "url": "https://github.com/ferdous-alam/GenCAD",
+        "language": "Python",
+        "stars": 228,
+        "forks": 21,
+        "created_at": "2024-09-16T22:42:56Z",
+        "updated_at": "2025-07-22T09:44:24Z",
         "topics": [],
-        "quality_score": 0.44999999999999996,
+        "quality_score": 0.55,
         "contributors_count": 0,
-        "last_commit_date": "2025-07-15T09:54:16Z",
+        "last_commit_date": "2025-07-14T17:19:11Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/6cde57424cd4de507f60049f8ed463d3625821f9aabd154336ca4a521f4da5cd/tohmsc/aianywhere"
+            "https://opengraph.githubassets.com/0629a3dfa942170783121d88409fdea9c00f855a871157faa13a62078c3df98e/ferdous-alam/GenCAD"
         ],
         "homepage": null,
-        "readme_summary": "AI Anywhere is a browser extension that streamlines the process of using AI tools with web content. It allows users to right-click on any selected text and send it directly to a chosen AI chat interface, eliminating the need for copy-pasting. This facilitates faster research, deeper analysis, and more efficient prompt creation by seamlessly integrating web content with AI tools.",
+        "readme_summary": "GenCAD is a project focused on generating Computer-Aided Design (CAD) models from image inputs. It utilizes transformer-based contrastive representation and diffusion priors to achieve this. The repository provides tools for training different models (CSR, CCIP, Diffusion Prior) and visualizing the generated STL models.",
         "key_features": [
-            "Universal text selection via right-click",
-            "Integration with multiple AI platforms (ChatGPT, Claude, etc.)",
-            "Directly sends selected text to AI chat interfaces",
-            "Allows modification of prompts before sending to AI"
+            "Image-conditioned CAD generation",
+            "Transformer-based contrastive representation",
+            "Diffusion priors",
+            "CSR model training",
+            "CCIP model training",
+            "Diffusion Prior training",
+            "STL visualization"
         ],
-        "primary_use_case": "Quickly send selected text from any webpage to various AI chat platforms for analysis, research, or prompt engineering.",
-        "open_issues": 0,
-        "cover_image_prompt": "A librarian sitting at a grand desk, using a magical magnifying glass to highlight text in ancient tomes, instantly sending the highlighted passages to floating AI oracles that offer insights and answers. The librarian is surrounded by stacks of books, each representing a different website. The oracles glow with soft light, displaying snippets of AI-generated text. Subtle UI elements appear as overlays on the books, showing the AI Anywhere extension icon. The scene is set in a cozy, fantastical library with warm lighting. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+        "primary_use_case": "Generating 3D CAD models from image inputs.",
+        "open_issues": 8,
+        "cover_image_prompt": "A skilled architect stands before a digital blueprint, transforming a 2D image into a complex 3D CAD model. The architect uses a special stylus that emits glowing particles, shaping the digital clay into precise forms. A holographic display shows the image input and the evolving CAD design side-by-side. Small UI elements display parameters and code snippets. The scene is set in a bright, modern design studio with a clean, focused composition. The image should be in a 3D isometric illustration style with vibrant colors and crisp details, subtly incorporating the GenCAD logo."
     },
     {
-        "id": 1006267824,
-        "name": "clip-vault",
-        "description": null,
-        "url": "https://github.com/densumesh/clip-vault",
-        "language": "Rust",
-        "stars": 27,
-        "forks": 0,
-        "created_at": "2025-06-21T21:44:53Z",
-        "updated_at": "2025-07-21T09:45:42Z",
-        "topics": [],
+        "id": 1019360350,
+        "name": "grok-cli",
+        "description": "An open-source AI agent that brings the power of Grok directly into your terminal.",
+        "url": "https://github.com/superagent-ai/grok-cli",
+        "language": "TypeScript",
+        "stars": 633,
+        "forks": 71,
+        "created_at": "2025-07-14T07:57:39Z",
+        "updated_at": "2025-07-22T10:12:38Z",
+        "topics": [
+            "agents",
+            "ai",
+            "cli",
+            "code",
+            "grok",
+            "xai"
+        ],
         "quality_score": 0.85,
         "contributors_count": 0,
-        "last_commit_date": "2025-07-18T07:07:44Z",
+        "last_commit_date": "2025-07-22T09:42:04Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/a0195b07b948a904186d8fa8e01485d0091244aca830ea51f1462339e62c2680/densumesh/clip-vault"
-        ],
-        "homepage": null,
-        "readme_summary": "Clip Vault is a cross-platform clipboard manager that automatically captures and encrypts clipboard history. It provides end-to-end encryption using SQLCipher, fast search capabilities, and global hotkeys for easy access. The application is available for macOS, Windows, and Linux.",
-        "key_features": [
-            "End-to-end encryption using SQLCipher",
-            "Cross-platform compatibility (macOS, Windows, Linux)",
-            "Fast search functionality",
-            "Global hotkeys for easy access"
-        ],
-        "primary_use_case": "Securely managing and accessing clipboard history across multiple platforms.",
-        "open_issues": 0,
-        "cover_image_prompt": "A skilled locksmith meticulously safeguarding a vault filled with diverse digital documents (representing clipboard data). The locksmith, dressed in modern attire, uses an intricate, glowing key (representing encryption) to secure each document as it enters the vault. The vault's door displays a subtle UI element showing a search bar and recent clipboard history. The scene is set in a futuristic, minimalist data center with soft, ambient lighting. Small digital particles flow around the vault, symbolizing data streams. The composition is clean and focused, emphasizing security and accessibility. The image should be in 3D isometric illustration style with rich details and a cool color palette."
-    },
-    {
-        "id": 980772545,
-        "name": "terminal-rain-lightning",
-        "description": "Terminal-based ASCII rain and lightning animation.",
-        "url": "https://github.com/rmaake1/terminal-rain-lightning",
-        "language": "Python",
-        "stars": 272,
-        "forks": 8,
-        "created_at": "2025-05-09T17:30:25Z",
-        "updated_at": "2025-07-21T10:04:23Z",
-        "topics": [],
-        "quality_score": 0.4,
-        "contributors_count": 0,
-        "last_commit_date": "2025-05-09T19:03:46Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/e878cb28acdf2b544500cd3ac36b5d3bf2e2a718e1999e3758af635f900f0bb2/rmaake1/terminal-rain-lightning"
+            "https://opengraph.githubassets.com/b2ce9c91f723c44e07ce635ce643213d807fe2e6368f04ca080a51e968a52234/superagent-ai/grok-cli"
         ],
         "homepage": "",
-        "readme_summary": "The terminal-rain-lightning repository provides a Python script that generates a mesmerizing rain and lightning animation directly in the terminal. It features customizable colors, a toggleable thunderstorm mode, and adapts to terminal resizing, offering a lightweight and visually appealing experience.",
+        "readme_summary": "Grok CLI is a conversational AI tool that allows users to interact with their file system and execute shell commands using natural language. It leverages the Grok AI model to provide intelligent file operations, bash integration, and automatic tool selection, all within an interactive terminal UI.",
         "key_features": [
-            "Smooth ASCII rain effect with varying drop characters",
-            "Toggleable 'Thunderstorm' mode for more intense rain and lightning",
-            "Customizable rain and lightning colors via command-line arguments",
-            "Responsive to terminal resizing",
-            "Lightweight and runs in most modern terminals"
+            "Conversational AI interface powered by Grok-3",
+            "Smart File Operations (view, create, edit)",
+            "Bash Integration (execute shell commands)",
+            "Automatic Tool Selection",
+            "Interactive Terminal UI",
+            "Global Installation via npm"
         ],
-        "primary_use_case": "Creating a terminal-based ASCII rain and lightning animation for entertainment and visual appeal.",
-        "open_issues": 2,
-        "cover_image_prompt": "A digital artist sits at a glowing terminal, painting a vibrant cityscape with falling rain and flashes of lightning. The artist uses a palette of glowing colors, bringing the storm to life on the screen. The terminal displays subtle code snippets and UI elements related to the animation. The scene is set in a cozy, modern studio with soft, ambient lighting. The repository name, 'Terminal Rain,' is subtly displayed on a monitor in the background. The image should be in a digital painting style with clean lines and vibrant colors, reminiscent of a stylized weather report."
+        "primary_use_case": "Using natural language to interact with and manipulate files and execute shell commands in a terminal environment.",
+        "open_issues": 7,
+        "cover_image_prompt": "A skilled craftsman in a high-tech workshop uses a conversational interface to command a robotic arm that precisely edits and organizes files on a digital workbench. The craftsman speaks into a microphone, and the robotic arm responds by manipulating files displayed on holographic screens. The workbench is surrounded by subtle visual elements like code snippets and directory structures. The scene is brightly lit and clean, with a focus on precision and efficiency. The image should be in a 3D isometric illustration style with clear details and a modern aesthetic."
     },
     {
-        "id": 1512901,
-        "name": "Flexget",
-        "description": "The official FlexGet repository",
-        "url": "https://github.com/Flexget/Flexget",
-        "language": "Python",
-        "stars": 1838,
-        "forks": 474,
-        "created_at": "2011-03-22T19:33:44Z",
-        "updated_at": "2025-07-21T08:56:20Z",
+        "id": 1006809025,
+        "name": "outside",
+        "description": "A multi-purpose weather client for your terminal!",
+        "url": "https://github.com/BaconIsAVeg/outside",
+        "language": "Rust",
+        "stars": 62,
+        "forks": 2,
+        "created_at": "2025-06-23T02:58:17Z",
+        "updated_at": "2025-07-21T20:54:34Z",
         "topics": [
-            "automation",
-            "hacktoberfest",
-            "movies",
+            "terminal-based",
+            "tui",
+            "utilities",
+            "weather-app"
+        ],
+        "quality_score": 0.6499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-21T18:22:24Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/f9db20d95bdbcc56fea3557cfdb80c43f1ef145768edf5a911e2afa3a3143bdd/BaconIsAVeg/outside"
+        ],
+        "homepage": "",
+        "readme_summary": "The 'outside' repository is a versatile terminal-based weather client written in Rust. It allows users to fetch and display weather information in various formats, including TUI, simple text, detailed reports, JSON, and Waybar-compatible output. The client supports specifying a location or automatically detecting it via IP address, and offers options for unit selection and continuous streaming updates.",
+        "key_features": [
+            "Fetches weather data for a specified location or auto-detects location based on IP address",
+            "Supports metric and imperial units",
+            "Offers multiple output formats: TUI, simple, detailed, JSON, and Waybar",
+            "Provides streaming mode for continuous weather updates",
+            "Caches location and weather data to reduce API calls"
+        ],
+        "primary_use_case": "Displaying weather information in the terminal.",
+        "open_issues": 2,
+        "cover_image_prompt": "A meteorologist standing in front of a large terminal screen, observing weather patterns forming from lines of code. The terminal displays various weather metrics and forecasts, visualized as both text and graphical elements. The meteorologist is adjusting parameters on the screen, influencing the weather patterns in real-time. Subtle digital particles flow around the scene, representing data streams. The repository name, 'Outside,' is subtly displayed on the terminal's header. The scene is set in a modern, minimalist weather station with soft, diffused lighting. The image should be in a flat design style with clear iconography and a cool color scheme."
+    },
+    {
+        "id": 149890803,
+        "name": "novelWriter",
+        "description": "novelWriter is an open source plain text editor designed for writing novels.",
+        "url": "https://github.com/vkbo/novelWriter",
+        "language": "Python",
+        "stars": 2474,
+        "forks": 148,
+        "created_at": "2018-09-22T15:40:59Z",
+        "updated_at": "2025-07-22T09:54:09Z",
+        "topics": [
+            "editor",
+            "linux",
+            "macos",
+            "meta-data",
+            "novels",
+            "novelwriter",
             "python",
-            "rss",
-            "torrent",
-            "tv"
+            "qt5",
+            "synopsis",
+            "text-editor",
+            "windows",
+            "writing-novels"
         ],
         "quality_score": 0.95,
         "contributors_count": 0,
-        "last_commit_date": "2025-07-21T05:03:58Z",
+        "last_commit_date": "2025-07-21T11:45:19Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/9edfd66be320ea2a5dc6116d77b9f6927b6f440c66724691fe8d3b43fe2e6d36/Flexget/Flexget"
+            "https://repository-images.githubusercontent.com/149890803/f938d3c5-80d3-491b-9035-b11dc62f74c4"
         ],
-        "homepage": "http://www.flexget.com",
-        "readme_summary": "FlexGet is a multipurpose automation tool that helps users manage and download content like torrents, movies, and podcasts from various sources such as RSS feeds and HTML pages. It uses a YAML-based configuration and offers extensibility through plugins, making it a versatile solution for content automation.",
+        "homepage": "https://novelwriter.io",
+        "readme_summary": "novelWriter is a plain text editor designed for novelists, enabling them to assemble novels from smaller text documents. It employs a minimal Markdown-inspired syntax and meta-data for comments and synopses. The project's structure is designed for version control, storing core data in XML and meta-data in JSON files.",
         "key_features": [
-            "Automation of content downloading (torrents, nzbs, podcasts, comics, series, movies)",
-            "Support for various sources (RSS feeds, HTML pages, CSV files, search engines)",
-            "YAML-based configuration",
-            "Extensible through plugins"
+            "Plain text editor for novels",
+            "Minimal formatting syntax inspired by Markdown",
+            "Meta data syntax for comments, synopsis, and cross-referencing",
+            "Project storage suitable for version control and file synchronization",
+            "Core project structure stored in a single XML file",
+            "Meta data primarily saved as JSON files"
         ],
-        "primary_use_case": "Automating the downloading and management of various types of content from different sources.",
-        "open_issues": 18,
-        "cover_image_prompt": "A diligent librarian meticulously sorting incoming streams of information (RSS feeds, HTML pages, CSV files) into labeled containers (torrents, movies, series, podcasts). The librarian uses a special tool that automatically categorizes and files each item into the correct container. Subtle UI elements float around the librarian, displaying configuration settings and download progress. The scene is set in a futuristic library with glowing shelves and soft lighting. The image should be in a flat design style with clear iconography and a vibrant color scheme, emphasizing automation and organization."
+        "primary_use_case": "Writing novels assembled from smaller text documents with easy organization of text and notes.",
+        "open_issues": 113,
+        "cover_image_prompt": "Imagine a novelist meticulously crafting a story within a digital treehouse. The treehouse represents novelWriter, with branches symbolizing different chapters and sections of a novel. The novelist, seated at a desk made of glowing UI elements, types on a keyboard, transforming scattered ideas (represented by floating text fragments) into a structured manuscript displayed on a large, transparent screen. The screen shows a synopsis and character outlines. Small JSON files and XML documents float around the treehouse, representing the project's data storage. The scene is bathed in warm, inviting light, creating a cozy and productive atmosphere. The image should be in a 3D isometric illustration style with vibrant colors and intricate details."
+    },
+    {
+        "id": 248248401,
+        "name": "jittor",
+        "description": "Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.",
+        "url": "https://github.com/Jittor/jittor",
+        "language": "Python",
+        "stars": 3187,
+        "forks": 318,
+        "created_at": "2020-03-18T14:06:07Z",
+        "updated_at": "2025-07-15T17:13:56Z",
+        "topics": [
+            "cuda",
+            "deep-learning",
+            "gpu",
+            "jittor",
+            "python"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-15T12:05:00Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/0b47e3eb6ff6d90ea747940ba5b08d800fe7968409bf7e4e420cff623424616d/Jittor/jittor"
+        ],
+        "homepage": "https://cg.cs.tsinghua.edu.cn/jittor/",
+        "readme_summary": "Jittor is a deep learning framework that utilizes JIT compiling and meta-operators to achieve high performance. It offers a Python front-end and a CUDA/C++ back-end, along with a collection of pre-built models for various tasks like image recognition and segmentation. Jittor aims to provide a flexible and efficient platform for developing and deploying deep learning applications.",
+        "key_features": [
+            "JIT compiling",
+            "Meta-operators",
+            "High-performance code generation",
+            "Model libraries (image recognition, detection, segmentation, etc.)",
+            "Python front-end",
+            "CUDA/C++ back-end"
+        ],
+        "primary_use_case": "High-performance deep learning model development and deployment.",
+        "open_issues": 249,
+        "cover_image_prompt": "Imagine a skilled artisan meticulously crafting a complex clockwork mechanism, where each gear represents a different deep learning operation. The artisan carefully assembles and fine-tunes the gears, representing the JIT compilation process, resulting in a powerful and efficient machine. Small screens display code snippets and performance metrics, subtly connecting the artisan's work to software. The scene is set in a bright, modern workshop with a focus on precision and detail. The image should be in a 3D isometric illustration style with vibrant colors and clear outlines."
+    },
+    {
+        "id": 299443676,
+        "name": "snntorch",
+        "description": "Deep and online learning with spiking neural networks in Python",
+        "url": "https://github.com/jeshraghian/snntorch",
+        "language": "Python",
+        "stars": 1645,
+        "forks": 265,
+        "created_at": "2020-09-28T22:14:20Z",
+        "updated_at": "2025-07-22T09:35:56Z",
+        "topics": [
+            "machine-learning",
+            "neural-networks",
+            "neuron-models",
+            "neuroscience",
+            "python",
+            "pytorch",
+            "snn",
+            "spike",
+            "spiking",
+            "spiking-neural-networks"
+        ],
+        "quality_score": 0.95,
+        "contributors_count": 0,
+        "last_commit_date": "2025-06-26T20:14:52Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/299443676/10f1de80-dd79-11eb-9f79-228a8b63b03f"
+        ],
+        "homepage": "https://snntorch.readthedocs.io/en/latest/",
+        "readme_summary": "snnTorch is a Python package built on PyTorch for developing and training spiking neural networks. It provides pre-designed spiking neuron models that can be seamlessly integrated into PyTorch workflows, enabling GPU-accelerated computation for SNNs. The library also supports interoperability with other SNN frameworks through NIR, and offers tools for spike generation, visualization, and functional operations.",
+        "key_features": [
+            "Spiking neuron library integrated with PyTorch autograd",
+            "NIR export and import for interoperability with other SNN libraries",
+            "Functional operations for spike-based arithmetic",
+            "Spike generation and data conversion tools",
+            "Visualization tools for spike-based data",
+            "Surrogate gradient functions",
+            "Dataset utility functions"
+        ],
+        "primary_use_case": "Gradient-based learning with spiking neural networks.",
+        "open_issues": 43,
+        "cover_image_prompt": "A neuroscientist meticulously constructing a miniature brain from interconnected gears and springs, each representing a spiking neuron. The brain sits on a workbench amidst glowing digital schematics and PyTorch code snippets. Tiny electrical sparks jump between the gears, simulating neural activity. A holographic display above the workbench shows a simplified spiking neural network architecture. The scene is set in a brightly lit, futuristic laboratory. The image should be in a detailed 3D isometric illustration style with vibrant colors and a focus on clarity."
+    },
+    {
+        "id": 156187,
+        "name": "dulwich",
+        "description": "Pure-Python Git implementation",
+        "url": "https://github.com/jelmer/dulwich",
+        "language": "Python",
+        "stars": 2135,
+        "forks": 407,
+        "created_at": "2009-03-22T05:09:18Z",
+        "updated_at": "2025-07-21T20:39:37Z",
+        "topics": [
+            "cpython",
+            "dulwich",
+            "git",
+            "pypy",
+            "python",
+            "python-3",
+            "version-control"
+        ],
+        "quality_score": 0.95,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-21T15:42:45Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/05ffd4abbeb29f9509495e795916ae8ade840d80ad2bbb7ce772edacce1c09de/jelmer/dulwich"
+        ],
+        "homepage": "https://www.dulwich.io/",
+        "readme_summary": "Dulwich is a pure-Python Git implementation that provides an interface to Git repositories without relying on the Git executable. It offers both a lower-level API and higher-level plumbing, making it suitable for environments where Git is not available or a pure Python solution is preferred. Optional Rust bindings are available to improve performance for low-level operations.",
+        "key_features": [
+            "Pure Python Git implementation",
+            "Standalone package with no Git dependency",
+            "Optional Rust bindings for performance improvement",
+            "Lower-level API and higher-level plumbing (porcelain)"
+        ],
+        "primary_use_case": "Providing a pure-Python interface to Git repositories for environments where Git is unavailable or a pure Python implementation is required.",
+        "open_issues": 34,
+        "cover_image_prompt": "A skilled cartographer meticulously drawing a detailed map of a vast, uncharted territory. The cartographer uses a pure, clear spring as ink, symbolizing the pure-Python nature of the tool. The territory represents a Git repository, with various landmarks like commit peaks, branch rivers, and merge forests. Small UI elements float around the cartographer, displaying code snippets and version control commands. The scene is set in a sunlit study filled with ancient scrolls and modern tech. The composition is focused and clean with a color scheme of earthy tones and digital blues. The image should be in a detailed digital painting style with clear outlines and rich textures."
     }
 ]
