@@ -1,268 +1,229 @@
 [
     {
-        "id": 858442303,
-        "name": "GenCAD",
-        "description": null,
-        "url": "https://github.com/ferdous-alam/GenCAD",
-        "language": "Python",
-        "stars": 228,
-        "forks": 21,
-        "created_at": "2024-09-16T22:42:56Z",
-        "updated_at": "2025-07-22T09:44:24Z",
-        "topics": [],
-        "quality_score": 0.55,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-14T17:19:11Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/0629a3dfa942170783121d88409fdea9c00f855a871157faa13a62078c3df98e/ferdous-alam/GenCAD"
-        ],
-        "homepage": null,
-        "readme_summary": "GenCAD is a project focused on generating Computer-Aided Design (CAD) models from image inputs. It utilizes transformer-based contrastive representation and diffusion priors to achieve this. The repository provides tools for training different models (CSR, CCIP, Diffusion Prior) and visualizing the generated STL models.",
-        "key_features": [
-            "Image-conditioned CAD generation",
-            "Transformer-based contrastive representation",
-            "Diffusion priors",
-            "CSR model training",
-            "CCIP model training",
-            "Diffusion Prior training",
-            "STL visualization"
-        ],
-        "primary_use_case": "Generating 3D CAD models from image inputs.",
-        "open_issues": 8,
-        "cover_image_prompt": "A skilled architect stands before a digital blueprint, transforming a 2D image into a complex 3D CAD model. The architect uses a special stylus that emits glowing particles, shaping the digital clay into precise forms. A holographic display shows the image input and the evolving CAD design side-by-side. Small UI elements display parameters and code snippets. The scene is set in a bright, modern design studio with a clean, focused composition. The image should be in a 3D isometric illustration style with vibrant colors and crisp details, subtly incorporating the GenCAD logo."
-    },
-    {
-        "id": 1019360350,
-        "name": "grok-cli",
-        "description": "An open-source AI agent that brings the power of Grok directly into your terminal.",
-        "url": "https://github.com/superagent-ai/grok-cli",
+        "id": 912559512,
+        "name": "sim",
+        "description": "Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+        "url": "https://github.com/simstudioai/sim",
         "language": "TypeScript",
-        "stars": 633,
-        "forks": 71,
-        "created_at": "2025-07-14T07:57:39Z",
-        "updated_at": "2025-07-22T10:12:38Z",
+        "stars": 6026,
+        "forks": 824,
+        "created_at": "2025-01-05T22:47:49Z",
+        "updated_at": "2025-07-23T10:10:05Z",
         "topics": [
+            "agent-workflow",
+            "agentic-workflow",
             "agents",
             "ai",
-            "cli",
-            "code",
-            "grok",
-            "xai"
+            "aiagents",
+            "anthropic",
+            "artificial-intelligence",
+            "automation",
+            "chatbot",
+            "deepseek",
+            "gemini",
+            "low-code",
+            "nextjs",
+            "no-code",
+            "openai",
+            "rag",
+            "react",
+            "typescript"
+        ],
+        "quality_score": 1.0000000000000002,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-23T09:20:55Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/5ecc51a8eb467b47e88c65bf64054ff18dc84776ae4bef1efc9aacf881815d45/simstudioai/sim"
+        ],
+        "homepage": "https://www.simstudio.ai",
+        "readme_summary": "Sim Studio is an open-source AI agent workflow builder that provides a lightweight and intuitive interface for quickly building and deploying LLMs. It offers various self-hosting options and supports integration with local models, enabling users to create and manage AI agents for diverse applications.",
+        "key_features": [
+            "AI agent workflow builder",
+            "Lightweight and intuitive interface",
+            "Low-code/no-code platform",
+            "Self-hosting options (NPM, Docker Compose, Dev Containers)",
+            "Support for local models",
+            "Integration with tools via AI agents"
+        ],
+        "primary_use_case": "Building and deploying AI agent workflows.",
+        "open_issues": 21,
+        "cover_image_prompt": "Imagine a skilled architect meticulously crafting intricate blueprints for a futuristic city, each building representing an AI agent. The architect uses a special interface that allows them to connect these buildings with various tools and resources, symbolized by pipelines and power lines. The city is vibrant and dynamic, showcasing the seamless integration of AI agents within a larger ecosystem. Small UI elements display agent workflows and data flows. The scene is set in a bright, airy studio with a holographic display. The image should be in 3D isometric illustration style with clean lines and vibrant colors."
+    },
+    {
+        "id": 783343310,
+        "name": "ConvertX",
+        "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+        "url": "https://github.com/C4illin/ConvertX",
+        "language": "TypeScript",
+        "stars": 5663,
+        "forks": 229,
+        "created_at": "2024-04-07T16:21:39Z",
+        "updated_at": "2025-07-23T10:11:42Z",
+        "topics": [
+            "bun",
+            "conversion",
+            "convert",
+            "converter",
+            "document-conversion",
+            "elysia",
+            "file-conversion",
+            "file-converter",
+            "hacktoberfest",
+            "pdf-converter",
+            "self-hosted",
+            "tailwindcss",
+            "typescript"
         ],
         "quality_score": 0.85,
         "contributors_count": 0,
-        "last_commit_date": "2025-07-22T09:42:04Z",
+        "last_commit_date": "2025-07-22T16:15:01Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/b2ce9c91f723c44e07ce635ce643213d807fe2e6368f04ca080a51e968a52234/superagent-ai/grok-cli"
+            "https://repository-images.githubusercontent.com/783343310/5c97fe6b-0ba3-4d51-b04c-704d93920842"
         ],
         "homepage": "",
-        "readme_summary": "Grok CLI is a conversational AI tool that allows users to interact with their file system and execute shell commands using natural language. It leverages the Grok AI model to provide intelligent file operations, bash integration, and automatic tool selection, all within an interactive terminal UI.",
+        "readme_summary": "ConvertX is a self-hosted online file converter that supports over a thousand different formats. It allows users to convert files to different formats, process multiple files at once, and offers features like password protection and multiple accounts. The application is built using TypeScript, Bun, and Elysia.",
         "key_features": [
-            "Conversational AI interface powered by Grok-3",
-            "Smart File Operations (view, create, edit)",
-            "Bash Integration (execute shell commands)",
-            "Automatic Tool Selection",
-            "Interactive Terminal UI",
-            "Global Installation via npm"
+            "Convert files to different formats",
+            "Process multiple files at once",
+            "Password protection",
+            "Multiple accounts"
         ],
-        "primary_use_case": "Using natural language to interact with and manipulate files and execute shell commands in a terminal environment.",
-        "open_issues": 7,
-        "cover_image_prompt": "A skilled craftsman in a high-tech workshop uses a conversational interface to command a robotic arm that precisely edits and organizes files on a digital workbench. The craftsman speaks into a microphone, and the robotic arm responds by manipulating files displayed on holographic screens. The workbench is surrounded by subtle visual elements like code snippets and directory structures. The scene is brightly lit and clean, with a focus on precision and efficiency. The image should be in a 3D isometric illustration style with clear details and a modern aesthetic."
+        "primary_use_case": "Self-hosted online file conversion supporting a wide variety of formats.",
+        "open_issues": 57,
+        "cover_image_prompt": "A skilled artisan in a bright workshop meticulously transforming various raw materials (documents, images, videos) into polished, refined products using a complex array of tools and machines. The artisan carefully feeds a stack of papers into a device that outputs a beautifully typeset book, while another machine converts a blurry photo into a crisp, high-resolution image. Digital screens subtly display file format icons and progress bars. The workshop is filled with soft, diffused light, creating a sense of precision and craftsmanship. The image should be in a 3D isometric illustration style with vibrant colors and intricate details."
     },
     {
-        "id": 1006809025,
-        "name": "outside",
-        "description": "A multi-purpose weather client for your terminal!",
-        "url": "https://github.com/BaconIsAVeg/outside",
+        "id": 1014961703,
+        "name": "nvidia-driver-installer",
+        "description": "支持多种 Linux 发行版的交互式/自动化 NVIDIA 驱动安装脚本",
+        "url": "https://github.com/EM-GeekLab/nvidia-driver-installer",
+        "language": "Shell",
+        "stars": 29,
+        "forks": 1,
+        "created_at": "2025-07-06T18:38:10Z",
+        "updated_at": "2025-07-23T07:06:09Z",
+        "topics": [],
+        "quality_score": 0.75,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-20T15:39:43Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/4e84664caf8e4eae7d3917ff988f5a69c55baad981d8a0ab15f1b311d0639391/EM-GeekLab/nvidia-driver-installer"
+        ],
+        "homepage": null,
+        "readme_summary": "The repository provides a universal NVIDIA driver installation script for multiple Linux distributions. It automates the installation process using package managers, eliminating the need for manual driver downloads and execution. The script aims to simplify and streamline NVIDIA driver installation across different Linux environments.",
+        "key_features": [
+            "Automated NVIDIA driver installation",
+            "Supports multiple Linux distributions",
+            "Uses package managers (dnf, apt, zypper) for installation",
+            "Provides a highly automated installation experience"
+        ],
+        "primary_use_case": "Automating the installation of NVIDIA drivers on various Linux distributions.",
+        "open_issues": 1,
+        "cover_image_prompt": "A skilled mechanic in a futuristic garage, automatically installing a complex NVIDIA driver into a sleek, open-chassis computer. The mechanic uses a specialized wrench that glows with digital energy, seamlessly connecting the driver components. UI elements float around the computer, displaying progress bars and system information. Wires and cables are neatly organized, representing the various Linux distributions supported. The repository name is subtly displayed on a nearby monitor. The scene is well-lit and clean, in a 3D isometric illustration style with vibrant colors and sharp details."
+    },
+    {
+        "id": 630196988,
+        "name": "wl-kbptr",
+        "description": "Control the mouse pointer with the keyboard on Wayland.",
+        "url": "https://github.com/moverest/wl-kbptr",
+        "language": "C",
+        "stars": 327,
+        "forks": 18,
+        "created_at": "2023-04-19T21:53:26Z",
+        "updated_at": "2025-07-23T10:12:22Z",
+        "topics": [
+            "hyprland",
+            "mouse-pointer-control",
+            "niri",
+            "swaywm",
+            "wayland"
+        ],
+        "quality_score": 0.75,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-19T00:32:52Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/438a0e88bde0bd7993bd221d9fdfbcc8dae300be616230fae736714fe038a02e/moverest/wl-kbptr"
+        ],
+        "homepage": "",
+        "readme_summary": "The wl-kbptr utility enables users to control the mouse pointer with the keyboard on Wayland. It offers various modes like floating, tile, bisect, split, and click for precise pointer control. The floating mode can automatically detect target areas using OpenCV, and it supports compositors implementing the wlr-layer-shell-unstable-v1 and wlr-virtual-pointer-unstable-v1 protocols.",
+        "key_features": [
+            "Controls mouse pointer with keyboard",
+            "Supports multiple modes: floating, tile, bisect, split, and click",
+            "Floating mode supports auto-detection of areas using OpenCV",
+            "Compatible with Wayland compositors supporting wlr-layer-shell-unstable-v1, wlr-virtual-pointer-unstable-v1, and optionally wlr-screencopy-unstable-v1"
+        ],
+        "primary_use_case": "Control the mouse pointer using the keyboard on Wayland compositors.",
+        "open_issues": 11,
+        "cover_image_prompt": "Imagine a skilled calligrapher using an ornate keyboard as their pen, precisely guiding a glowing cursor across a digital canvas. The canvas displays various application windows, each subtly reacting to the calligrapher's keystrokes. Digital particles emanate from the keyboard, forming the cursor's path with pinpoint accuracy. Small UI elements showing keyboard shortcuts and cursor coordinates float around the scene. The setting is a minimalist workspace with soft, ambient lighting. The image should be in a 3D isometric illustration style with clean lines and a vibrant color scheme."
+    },
+    {
+        "id": 784546140,
+        "name": "reader",
+        "description": "Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/",
+        "url": "https://github.com/jina-ai/reader",
+        "language": "TypeScript",
+        "stars": 8988,
+        "forks": 705,
+        "created_at": "2024-04-10T04:05:06Z",
+        "updated_at": "2025-07-23T08:50:52Z",
+        "topics": [
+            "llm",
+            "proxy"
+        ],
+        "quality_score": 0.7,
+        "contributors_count": 0,
+        "last_commit_date": "2025-05-08T03:47:39Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/784546140/b70d20c4-e318-441a-ab24-feebf7c58d75"
+        ],
+        "homepage": "https://jina.ai/reader",
+        "readme_summary": "The 'Reader' repository provides a service to convert any URL into an LLM-friendly input, improving the performance of LLMs in tasks like RAG and agent systems. It offers both a URL-to-text conversion service and a web search service that returns the top 5 results in an LLM-friendly format. The service is provided via a free, stable, and scalable API.",
+        "key_features": [
+            "Converts URLs to LLM-friendly input",
+            "Web search functionality with LLM-friendly output",
+            "Free, stable, and scalable API",
+            "Supports reading arbitrary PDFs from URLs",
+            "Image captioning"
+        ],
+        "primary_use_case": "Converting web content and search results into a format easily digestible by Large Language Models (LLMs) for improved performance in tasks like RAG and agent systems.",
+        "open_issues": 103,
+        "cover_image_prompt": "Imagine a skilled librarian meticulously transforming messy stacks of books (representing URLs) into neatly organized, easily readable scrolls (LLM-friendly input). The librarian uses a special magnifying glass that cleans and formats the text as it's copied. In the background, a vast digital library stretches into the distance, symbolizing the web. Subtle UI elements float around the librarian, displaying code snippets and data visualizations. The scene is bathed in warm, inviting light, creating a sense of knowledge and accessibility. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 322484700,
+        "name": "jj",
+        "description": "A Git-compatible VCS that is both simple and powerful",
+        "url": "https://github.com/jj-vcs/jj",
         "language": "Rust",
-        "stars": 62,
-        "forks": 2,
-        "created_at": "2025-06-23T02:58:17Z",
-        "updated_at": "2025-07-21T20:54:34Z",
+        "stars": 17835,
+        "forks": 591,
+        "created_at": "2020-12-18T04:05:27Z",
+        "updated_at": "2025-07-23T09:57:44Z",
         "topics": [
-            "terminal-based",
-            "tui",
-            "utilities",
-            "weather-app"
-        ],
-        "quality_score": 0.6499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-21T18:22:24Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/f9db20d95bdbcc56fea3557cfdb80c43f1ef145768edf5a911e2afa3a3143bdd/BaconIsAVeg/outside"
-        ],
-        "homepage": "",
-        "readme_summary": "The 'outside' repository is a versatile terminal-based weather client written in Rust. It allows users to fetch and display weather information in various formats, including TUI, simple text, detailed reports, JSON, and Waybar-compatible output. The client supports specifying a location or automatically detecting it via IP address, and offers options for unit selection and continuous streaming updates.",
-        "key_features": [
-            "Fetches weather data for a specified location or auto-detects location based on IP address",
-            "Supports metric and imperial units",
-            "Offers multiple output formats: TUI, simple, detailed, JSON, and Waybar",
-            "Provides streaming mode for continuous weather updates",
-            "Caches location and weather data to reduce API calls"
-        ],
-        "primary_use_case": "Displaying weather information in the terminal.",
-        "open_issues": 2,
-        "cover_image_prompt": "A meteorologist standing in front of a large terminal screen, observing weather patterns forming from lines of code. The terminal displays various weather metrics and forecasts, visualized as both text and graphical elements. The meteorologist is adjusting parameters on the screen, influencing the weather patterns in real-time. Subtle digital particles flow around the scene, representing data streams. The repository name, 'Outside,' is subtly displayed on the terminal's header. The scene is set in a modern, minimalist weather station with soft, diffused lighting. The image should be in a flat design style with clear iconography and a cool color scheme."
-    },
-    {
-        "id": 149890803,
-        "name": "novelWriter",
-        "description": "novelWriter is an open source plain text editor designed for writing novels.",
-        "url": "https://github.com/vkbo/novelWriter",
-        "language": "Python",
-        "stars": 2474,
-        "forks": 148,
-        "created_at": "2018-09-22T15:40:59Z",
-        "updated_at": "2025-07-22T09:54:09Z",
-        "topics": [
-            "editor",
-            "linux",
-            "macos",
-            "meta-data",
-            "novels",
-            "novelwriter",
-            "python",
-            "qt5",
-            "synopsis",
-            "text-editor",
-            "windows",
-            "writing-novels"
-        ],
-        "quality_score": 0.95,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-21T11:45:19Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/149890803/f938d3c5-80d3-491b-9035-b11dc62f74c4"
-        ],
-        "homepage": "https://novelwriter.io",
-        "readme_summary": "novelWriter is a plain text editor designed for novelists, enabling them to assemble novels from smaller text documents. It employs a minimal Markdown-inspired syntax and meta-data for comments and synopses. The project's structure is designed for version control, storing core data in XML and meta-data in JSON files.",
-        "key_features": [
-            "Plain text editor for novels",
-            "Minimal formatting syntax inspired by Markdown",
-            "Meta data syntax for comments, synopsis, and cross-referencing",
-            "Project storage suitable for version control and file synchronization",
-            "Core project structure stored in a single XML file",
-            "Meta data primarily saved as JSON files"
-        ],
-        "primary_use_case": "Writing novels assembled from smaller text documents with easy organization of text and notes.",
-        "open_issues": 113,
-        "cover_image_prompt": "Imagine a novelist meticulously crafting a story within a digital treehouse. The treehouse represents novelWriter, with branches symbolizing different chapters and sections of a novel. The novelist, seated at a desk made of glowing UI elements, types on a keyboard, transforming scattered ideas (represented by floating text fragments) into a structured manuscript displayed on a large, transparent screen. The screen shows a synopsis and character outlines. Small JSON files and XML documents float around the treehouse, representing the project's data storage. The scene is bathed in warm, inviting light, creating a cozy and productive atmosphere. The image should be in a 3D isometric illustration style with vibrant colors and intricate details."
-    },
-    {
-        "id": 248248401,
-        "name": "jittor",
-        "description": "Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.",
-        "url": "https://github.com/Jittor/jittor",
-        "language": "Python",
-        "stars": 3187,
-        "forks": 318,
-        "created_at": "2020-03-18T14:06:07Z",
-        "updated_at": "2025-07-15T17:13:56Z",
-        "topics": [
-            "cuda",
-            "deep-learning",
-            "gpu",
-            "jittor",
-            "python"
+            "cli",
+            "git",
+            "jj",
+            "jujutsu",
+            "mercurial",
+            "vcs"
         ],
         "quality_score": 0.85,
         "contributors_count": 0,
-        "last_commit_date": "2025-07-15T12:05:00Z",
+        "last_commit_date": "2025-07-23T01:05:07Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/0b47e3eb6ff6d90ea747940ba5b08d800fe7968409bf7e4e420cff623424616d/Jittor/jittor"
+            "https://opengraph.githubassets.com/730497010398521932214750d3a25d01ae4cd1e398f442248abaff3efbc7fbf5/jj-vcs/jj"
         ],
-        "homepage": "https://cg.cs.tsinghua.edu.cn/jittor/",
-        "readme_summary": "Jittor is a deep learning framework that utilizes JIT compiling and meta-operators to achieve high performance. It offers a Python front-end and a CUDA/C++ back-end, along with a collection of pre-built models for various tasks like image recognition and segmentation. Jittor aims to provide a flexible and efficient platform for developing and deploying deep learning applications.",
+        "homepage": "https://jj-vcs.github.io/jj/",
+        "readme_summary": "Jujutsu is a Git-compatible version control system designed for ease of use and powerful history manipulation. It abstracts the user interface from the storage layer, allowing for different backends. It incorporates features from Git, Mercurial, and Darcs to provide a flexible and efficient version control experience.",
         "key_features": [
-            "JIT compiling",
-            "Meta-operators",
-            "High-performance code generation",
-            "Model libraries (image recognition, detection, segmentation, etc.)",
-            "Python front-end",
-            "CUDA/C++ back-end"
+            "Git-compatible VCS",
+            "Easy to use",
+            "Abstracts user interface and version control algorithms from storage systems",
+            "Mercurial-inspired features (revsets, anonymous branches)",
+            "First-class conflict objects (inspired by Darcs)"
         ],
-        "primary_use_case": "High-performance deep learning model development and deployment.",
-        "open_issues": 249,
-        "cover_image_prompt": "Imagine a skilled artisan meticulously crafting a complex clockwork mechanism, where each gear represents a different deep learning operation. The artisan carefully assembles and fine-tunes the gears, representing the JIT compilation process, resulting in a powerful and efficient machine. Small screens display code snippets and performance metrics, subtly connecting the artisan's work to software. The scene is set in a bright, modern workshop with a focus on precision and detail. The image should be in a 3D isometric illustration style with vibrant colors and clear outlines."
-    },
-    {
-        "id": 299443676,
-        "name": "snntorch",
-        "description": "Deep and online learning with spiking neural networks in Python",
-        "url": "https://github.com/jeshraghian/snntorch",
-        "language": "Python",
-        "stars": 1645,
-        "forks": 265,
-        "created_at": "2020-09-28T22:14:20Z",
-        "updated_at": "2025-07-22T09:35:56Z",
-        "topics": [
-            "machine-learning",
-            "neural-networks",
-            "neuron-models",
-            "neuroscience",
-            "python",
-            "pytorch",
-            "snn",
-            "spike",
-            "spiking",
-            "spiking-neural-networks"
-        ],
-        "quality_score": 0.95,
-        "contributors_count": 0,
-        "last_commit_date": "2025-06-26T20:14:52Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/299443676/10f1de80-dd79-11eb-9f79-228a8b63b03f"
-        ],
-        "homepage": "https://snntorch.readthedocs.io/en/latest/",
-        "readme_summary": "snnTorch is a Python package built on PyTorch for developing and training spiking neural networks. It provides pre-designed spiking neuron models that can be seamlessly integrated into PyTorch workflows, enabling GPU-accelerated computation for SNNs. The library also supports interoperability with other SNN frameworks through NIR, and offers tools for spike generation, visualization, and functional operations.",
-        "key_features": [
-            "Spiking neuron library integrated with PyTorch autograd",
-            "NIR export and import for interoperability with other SNN libraries",
-            "Functional operations for spike-based arithmetic",
-            "Spike generation and data conversion tools",
-            "Visualization tools for spike-based data",
-            "Surrogate gradient functions",
-            "Dataset utility functions"
-        ],
-        "primary_use_case": "Gradient-based learning with spiking neural networks.",
-        "open_issues": 43,
-        "cover_image_prompt": "A neuroscientist meticulously constructing a miniature brain from interconnected gears and springs, each representing a spiking neuron. The brain sits on a workbench amidst glowing digital schematics and PyTorch code snippets. Tiny electrical sparks jump between the gears, simulating neural activity. A holographic display above the workbench shows a simplified spiking neural network architecture. The scene is set in a brightly lit, futuristic laboratory. The image should be in a detailed 3D isometric illustration style with vibrant colors and a focus on clarity."
-    },
-    {
-        "id": 156187,
-        "name": "dulwich",
-        "description": "Pure-Python Git implementation",
-        "url": "https://github.com/jelmer/dulwich",
-        "language": "Python",
-        "stars": 2135,
-        "forks": 407,
-        "created_at": "2009-03-22T05:09:18Z",
-        "updated_at": "2025-07-21T20:39:37Z",
-        "topics": [
-            "cpython",
-            "dulwich",
-            "git",
-            "pypy",
-            "python",
-            "python-3",
-            "version-control"
-        ],
-        "quality_score": 0.95,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-21T15:42:45Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/05ffd4abbeb29f9509495e795916ae8ade840d80ad2bbb7ce772edacce1c09de/jelmer/dulwich"
-        ],
-        "homepage": "https://www.dulwich.io/",
-        "readme_summary": "Dulwich is a pure-Python Git implementation that provides an interface to Git repositories without relying on the Git executable. It offers both a lower-level API and higher-level plumbing, making it suitable for environments where Git is not available or a pure Python solution is preferred. Optional Rust bindings are available to improve performance for low-level operations.",
-        "key_features": [
-            "Pure Python Git implementation",
-            "Standalone package with no Git dependency",
-            "Optional Rust bindings for performance improvement",
-            "Lower-level API and higher-level plumbing (porcelain)"
-        ],
-        "primary_use_case": "Providing a pure-Python interface to Git repositories for environments where Git is unavailable or a pure Python implementation is required.",
-        "open_issues": 34,
-        "cover_image_prompt": "A skilled cartographer meticulously drawing a detailed map of a vast, uncharted territory. The cartographer uses a pure, clear spring as ink, symbolizing the pure-Python nature of the tool. The territory represents a Git repository, with various landmarks like commit peaks, branch rivers, and merge forests. Small UI elements float around the cartographer, displaying code snippets and version control commands. The scene is set in a sunlit study filled with ancient scrolls and modern tech. The composition is focused and clean with a color scheme of earthy tones and digital blues. The image should be in a detailed digital painting style with clear outlines and rich textures."
+        "primary_use_case": "Version control for software projects",
+        "open_issues": 533,
+        "cover_image_prompt": "A skilled sculptor meticulously chiseling a complex statue from a single block of stone, representing a software project's history. The sculptor uses various tools inspired by Git, Mercurial, and Darcs, each subtly glowing with digital energy. The statue's layers reveal different versions and resolved conflicts, visualized as distinct strata within the stone. Small UI elements float around the sculptor, displaying code diffs and version control commands. The scene is set in a bright, modern studio with a clean, focused composition. The image should be in 3D isometric illustration style with rich details and a harmonious color scheme."
     }
 ]
