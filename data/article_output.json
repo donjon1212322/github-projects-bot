@@ -1,26 +1,26 @@
 {
-    "article": "Hey fellow developers! Ever wished you could effortlessly transform any webpage, Vue, or React project into a sleek desktop or mobile app in mere minutes?  Meet PakePlus – a game-changer that's making waves in the development world. Forget wrestling with complex build processes and hefty dependencies; PakePlus streamlines the entire process, resulting in apps under 5MB!  This isn't some magic trick; it's powered by the efficiency of Rust and Tauri, making it significantly faster and lighter than Electron-based alternatives.  Imagine packaging your web app for Windows, macOS, Linux, Android, and iOS—all from a single, simplified workflow. PakePlus handles the heavy lifting, allowing you to focus on what you do best: building amazing applications.\n\nOne of the coolest features is its minimal size.  We're talking about apps that are, on average, 20 times smaller than those built with Electron, and significantly faster too.  This translates to a better user experience, quicker downloads, and less strain on resources.  No more bloated apps hogging up storage space!  Plus, the built-in features are a real treat.  You get shortcuts, immersive window options, and easy customization, all without needing to write a single line of extra code for these features.  The setup is incredibly straightforward.  Essentially, you just need your GitHub token to get started—that's it!  No need to install complex local dependencies; PakePlus leverages GitHub Actions for seamless cloud-based packaging.  This means you can focus on your project, not on configuring your build environment.\n\nBut it gets even better.  PakePlus boasts internationalization support, automatically adapting to your system's language.  Fancy adding some custom JavaScript?  Go for it!  The ability to inject your own JS into the page opens up a world of possibilities.  The UI is clean, intuitive, and user-friendly, perfect for beginners and seasoned pros alike. It even supports Chinese names for your app packaging!  And if you're worried about security, rest assured: your token is stored locally, and your project remains safely within your own Git repository.  You can even package locally without a GitHub Token in under 30 seconds.  The local packaging is simple and convenient.\n\nBeyond basic packaging, PakePlus lets your JS scripts access system-level APIs. Need to download files, execute commands, or open new windows? No problem.  It also supports static file packaging, so you can easily drop in your compiled `dist` folder or `index.html` from your Vue or React project and create your client app in no time. There's even a debug mode to help you iron out any wrinkles.  But don't just take my word for it.  Head over to the GitHub repository and give it a try.  You might be surprised at how easy it is to turn your web projects into fully-fledged desktop and mobile apps. The web version is also available, offering a convenient way to test and explore the capabilities of PakePlus, though the client is recommended for its enhanced features.",
+    "article": "Ever feel overwhelmed by the sheer volume of information when researching a topic?  Wish you had a single tool to seamlessly integrate web searches, code execution, and language model capabilities? Then you absolutely HAVE to check out DeerFlow!  This isn't your average research tool; it's a game-changer.  DeerFlow is a Deep Research framework designed to streamline the entire research process, from initial brainstorming to final report generation. Think of it as a supercharged research assistant that combines the power of large language models with the practicality of specialized tools for web crawling and Python code execution.  It's like having a personal research team at your fingertips! \n\nThe architecture is brilliantly simple. DeerFlow cleverly integrates several key components. It leverages the strengths of powerful language models to understand your research questions and generate insightful hypotheses. These hypotheses are then used to guide targeted web searches and data collection.  DeerFlow also allows you to execute Python code directly within the research workflow, enabling you to analyze data, visualize results, and perform complex calculations without ever leaving the platform. The best part?  The entire process is automated to a large degree, saving you countless hours of tedious manual work.  Imagine having a tool that can automatically gather relevant information from multiple sources, execute the necessary code, and then create a comprehensive report complete with images and charts—all in one go. That's the magic of DeerFlow! \n\nDeerFlow’s benefits for developers are numerous.  First and foremost, it drastically reduces research time. The automated data collection and analysis features allow you to focus on the higher-level aspects of your research, such as formulating insightful questions and interpreting the results.  Secondly, it promotes reproducibility.  The entire research process is documented, making it easy to retrace your steps and ensure the accuracy of your findings.  This is invaluable for collaborative projects or when you need to revisit your work later.  Third, DeerFlow's seamless integration with Python empowers developers to leverage their existing coding skills and incorporate custom analysis techniques into their research.  It's not just a black box; it's a highly adaptable and extensible tool.  Finally, DeerFlow supports one-click deployment on Volcengine, making it incredibly easy to set up and use.  This removes the technical barriers to entry, allowing even those without extensive cloud computing experience to benefit from the power of this innovative platform. \n\nDeerFlow is more than just a tool; it's a new way of thinking about research. It's a paradigm shift that empowers developers to be more efficient, more productive, and ultimately, more successful in their endeavors.  Seriously, you need to check this out!",
     "key_takeaways": [
-        "Blazing-fast and lightweight apps (under 5MB!), significantly smaller and faster than Electron.",
-        "Effortless cross-platform packaging for Windows, macOS, Linux, Android, and iOS.",
-        "Simplified workflow: No complex dependencies, just your GitHub token (or no token for local packaging).",
-        "Rich built-in features: Shortcuts, immersive windows, customization, and internationalization support.",
-        "Supports custom JavaScript injection and system-level API calls in JS scripts."
+        "Streamlines the entire research process, from initial brainstorming to report generation.",
+        "Integrates language models, web crawling, and Python code execution.",
+        "Drastically reduces research time and promotes reproducibility.",
+        "Empowers developers to leverage existing coding skills.",
+        "Supports one-click deployment on Volcengine."
     ],
     "tags": [
-        "Rust",
-        "Tauri",
-        "Cross-platform",
-        "Web App Packaging",
-        "Mobile App Packaging"
+        "Deep Research",
+        "Language Models",
+        "Web Crawling",
+        "Python",
+        "Volcengine"
     ],
-    "title": "PakePlus: Turn Your Web App into a Desktop/Mobile App in Minutes!",
-    "stars": 5156,
-    "forks": 3322,
-    "open_issues": 57,
-    "languages": "Vue",
-    "readme_summary": "PakePlus is a tool for converting web pages and web applications into native desktop and mobile apps. It leverages Rust Tauri to create small, fast applications with features like custom JavaScript injection and cross-platform support. PakePlus offers both cloud-based and local packaging options, making it easy to create applications without complex local dependencies.",
-    "project_id": 855186891,
-    "url": "https://github.com/Sjj1024/PakePlus",
-    "description": "Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app"
+    "title": "DeerFlow: Your New Secret Weapon for Deep Research",
+    "stars": 15645,
+    "forks": 1954,
+    "open_issues": 170,
+    "languages": "Python",
+    "readme_summary": "DeerFlow is a community-driven Deep Research framework that combines language models with tools like web search, crawling, and Python execution. It aims to facilitate efficient research workflows by leveraging the power of language models and specialized tools. The framework supports one-click deployment on Volcengine for easy accessibility.",
+    "project_id": 979115477,
+    "url": "https://github.com/bytedance/deer-flow",
+    "description": "DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community."
 }
