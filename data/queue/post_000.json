@@ -1,7 +1,0 @@
-{
-    "project_id": 1024955521,
-    "content": "✨ <b>neuralagent</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating desktop tasks such as typing, clicking, browser navigation, form filling, and email sending.\n<br>\n✨ <b>Key Features:</b>\n• Desktop automation with `pyautogui`\n• Background automation (Windows Only) via WSL (browser-only)\n• Supports Claude, GPT-4, Azure OpenAI, and Bedrock\n• Modular agents (Planner, Classifier, Suggestor, Title)\n• Multimodal (text + vision)\n<br>\n📖 <b>Summary:</b>\nNeuralAgent is an AI personal assistant that automates desktop tasks. It uses large language models to perform actions like typing, clicking, navigating browsers, and filling out forms. The architecture consists of a FastAPI backend, an Electron-based desktop application with a React frontend, and supports multiple LLMs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/withneural/neuralagent?embed=0\">View Project</a>\n• <a href=\"https://www.getneuralagent.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/e4aa4fbb07ea22370e6152710aec89c55fc61a49e8d5c9dcc3e757477b2b757a/withneural/neuralagent",
-    "platform": "telegram",
-    "quality_score": 0.55
-}
