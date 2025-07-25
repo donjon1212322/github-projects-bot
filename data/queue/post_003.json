@@ -1,7 +1,0 @@
-{
-    "project_id": 979060063,
-    "content": "💡 <b>pyroki</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRobot kinematic optimization\n<br>\n✨ <b>Key Features:</b>\n• Differentiable robot forward kinematics from URDF\n• Automatic collision primitive generation\n• Differentiable collision bodies with numpy broadcasting\n• Common cost implementations (pose, collision, manipulability)\n• Arbitrary costs with autodiff or analytical Jacobians\n<br>\n📖 <b>Summary:</b>\nPyRoki is a Python toolkit for robot kinematic optimization. It provides differentiable forward kinematics, automatic collision primitive generation, and various cost implementations. It supports cross-platform execution via JAX and integrates with a Levenberg-Marquardt solver for optimization on manifolds.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/chungmin99/pyroki?embed=0\">View Project</a>\n• <a href=\"https://pyroki-toolkit.github.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/5429f685220dfeb2edc4903711bdf7dd9fd3426000f5ad39aee7a9a3f84e5799/chungmin99/pyroki",
-    "platform": "telegram",
-    "quality_score": 0.7
-}
