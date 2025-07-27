@@ -1,7 +1,0 @@
-{
-    "project_id": 994292224,
-    "content": "🌟 <b>ExeRay</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDetecting malicious Windows executables for incident response.\n<br>\n✨ <b>Key Features:</b>\n• Hybrid detection (Random Forest/XGBoost + rule-based checks)\n• Real-time predictions with confidence scores\n• Handles obfuscated/novel malware better than signature-based tools\n• Static feature extraction (entropy, imports, metadata)\n<br>\n📖 <b>Summary:</b>\nExeRay is a tool for detecting malicious Windows executables using machine learning. It employs a hybrid detection approach combining Random Forest and XGBoost algorithms with rule-based checks. The tool extracts static features like entropy, imports, and metadata for real-time classification, offering an advantage over signature-based methods in handling obfuscated or novel malware.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MohamedMostafa010/ExeRay?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/9612525dc00a0e97a607ae2a7302d4fb48d8b72e8b2ba479e9f0fe76ff6fa163/MohamedMostafa010/ExeRay",
-    "platform": "telegram",
-    "quality_score": 0.44999999999999996
-}
