@@ -1,30 +1,30 @@
 {
-    "title": "Ramparts: Your AI's New Security Guard for MCP Servers!",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nRamparts is a security scanner designed for Model Context Protocol (MCP) servers. It discovers capabilities, performs static and LLM-powered analysis, and provides risk assessments to identify vulnerabilities in MCP server implementations, helping developers secure AI agent interactions with external resources.\n\n## 🔑 Key Takeaways\n\n- ✅ Ramparts is a fast and lightweight security scanner for MCP servers.\n\n- ✅ It uses static analysis and AI-powered detection to find vulnerabilities.\n\n- ✅ It provides actionable recommendations to fix identified issues.\n\n- ✅ It's easy to use, regardless of your security expertise.\n\n- ✅ It saves time and resources by preventing costly security breaches.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 14\n- 🍴 Forks: 1\n- ❗ Open Issues: 0\n\n\n## 🛠 Tech Stack\n- ✅ Rust\n\n\nHey fellow developers! Ever felt a little uneasy about the security of those cool Model Context Protocol (MCP) servers you're using?  I know I have. That's why I'm super excited to share this awesome GitHub project: Ramparts, an MCP security scanner!  Think of it as a comprehensive security checkup for your MCP servers, helping you identify potential vulnerabilities before they become a problem. \n\nMCP is amazing for letting AI agents access all sorts of resources, but this power comes with responsibility.  Ramparts helps you shoulder that responsibility.  It scans your MCP servers for weaknesses, like unauthorized file access, risky database queries, or even sneaky command injection attempts.  It's like having a security guard for your AI's digital world.\n\nSo, how does it work?  Ramparts uses a multi-pronged approach. First, it thoroughly explores your MCP server, identifying all available tools and resources.  Then, it employs a combination of clever static analysis rules and the power of AI to detect potential vulnerabilities.  It doesn't just flag problems; it also provides clear, actionable recommendations to fix them. Imagine having a smart assistant that not only finds the problems but also tells you how to solve them! This is a huge time saver, especially for those complex security issues that can take hours to track down.\n\nThe best part?  Ramparts is designed to be user-friendly. You don't need to be a security expert to use it. The interface is intuitive, and the results are presented in a way that's easy to understand.  Whether you're building your own MCP servers or using third-party ones, Ramparts gives you peace of mind, ensuring your AI agents are interacting with the world safely and securely.  It's a must-have tool for anyone serious about building and using secure MCP-based applications.  Integrating Ramparts into your development workflow is a simple way to significantly improve your application's security posture.\n\nBut it's not just about security; it's also about efficiency. By proactively identifying vulnerabilities, Ramparts helps prevent costly security breaches and saves you countless hours of debugging and troubleshooting.  It's an investment in the long-term health and security of your projects.  Plus, it makes you look like a security rockstar to your team and clients!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/getjavelin/ramparts)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Kreuzberg: The Python Document Intelligence Framework That Will Blow Your Mind!",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nKreuzberg is a Python document intelligence framework designed to extract text, metadata, and structured information from a wide range of document formats, including PDFs, images, and Office documents. It provides a unified API with both synchronous and asynchronous options, leveraging open-source technologies like Pandoc, PDFium, and Tesseract for robust format support and accurate data extraction.\n\n## 🔑 Key Takeaways\n\n- ✅ Unified API for all document types\n\n- ✅ Blazing-fast processing speeds (30+ docs/second)\n\n- ✅ Extensible plugin architecture for custom extractors\n\n- ✅ Easy integration with CLI, Python, and Docker\n\n- ✅ Robust open-source foundation (Pandoc, PDFium, Tesseract)\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 1983\n- 🍴 Forks: 78\n- ❗ Open Issues: 3\n\n\n## 🛠 Tech Stack\n- ✅ Python\n\n\nHey fellow developers! Ever wished there was a simpler, faster way to extract information from all those documents flooding your inbox?  I have some seriously exciting news: meet Kreuzberg, the Python document intelligence framework that's about to revolutionize how you handle PDFs, Word docs, images, and more!  Imagine a world where extracting text, metadata, and even structured table data from any document type is a breeze. That's the promise of Kreuzberg. It's built on top of powerful open-source tools like Pandoc, PDFium, and Tesseract, meaning it's robust, reliable, and incredibly efficient. Forget fiddling with multiple tools and libraries – Kreuzberg provides a unified, easy-to-use API for all your document processing needs.  Need to extract text from a PDF? Done. Want to grab metadata like the author or creation date?  No problem.  Need to recognize tables and their contents? Kreuzberg has you covered.  It even offers OCR capabilities, handling scanned documents or images with ease, using multiple OCR engines for optimal results.  The best part? It's blazing fast.  Seriously, the benchmarks are impressive – we're talking 30+ documents processed per second.  Kreuzberg's architecture is designed for efficiency.  The small installation size and minimal memory footprint make it perfect for any environment, from your local machine to a cloud-based server.  But it's not just about speed and efficiency.  Kreuzberg is also incredibly extensible.  Its plugin architecture lets you easily add custom extractors to handle specialized document formats or extract specific data points that are important to your workflow. Whether you are building a web application or a command-line tool, Kreuzberg's asynchronous and synchronous APIs provide consistent interfaces.  The entire codebase is type-annotated, so you get the benefits of type safety and enhanced code readability.  Think of the time you'll save, not having to write custom solutions for each document type you encounter.  Plus, the consistent API means less time debugging and more time building amazing things.  Kreuzberg is also incredibly easy to integrate into your existing projects.  The CLI makes quick experimentation a snap, and the Python library seamlessly integrates into any Python workflow.  There's even a Docker image for easy deployment!  Want to give it a try? The documentation is top-notch, and there's a vibrant community ready to help you get started.  Seriously, check out the benchmarks; you'll be amazed by the speed.  If you're tired of wrestling with document processing, Kreuzberg is the solution you've been waiting for.  Join the future of document intelligence today!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/Goldziher/kreuzberg)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "mcp",
-            "slug": "mcp"
+            "name": "python",
+            "slug": "python"
         },
         {
-            "name": "security",
-            "slug": "security"
+            "name": "document processing",
+            "slug": "document-processing"
         },
         {
-            "name": "scanner",
-            "slug": "scanner"
+            "name": "ocr",
+            "slug": "ocr"
         },
         {
-            "name": "rust",
-            "slug": "rust"
+            "name": "pdf",
+            "slug": "pdf"
         },
         {
-            "name": "ai",
-            "slug": "ai"
+            "name": "api",
+            "slug": "api"
         }
     ],
-    "slug": "ramparts-your-ais-new-security-guard-for-mcp-servers",
-    "project_id": 1024582976,
+    "slug": "kreuzberg-the-python-document-intelligence-framework-that-will-blow-your-mind",
+    "project_id": 925434317,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
