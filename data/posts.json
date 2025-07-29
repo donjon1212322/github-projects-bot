@@ -1,51 +1,30 @@
 [
     {
-        "project_id": 1018267033,
-        "content": "✨ <b>alman</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and creating shell aliases to improve command-line efficiency.\n<br>\n✨ <b>Key Features:</b>\n• Intelligent alias suggestions based on command history\n• TUI for managing aliases\n• Cross-shell support (Bash, Zsh, Fish)\n• Alias organization across multiple files\n<br>\n📖 <b>Summary:</b>\nAlman is a command-line tool and TUI that helps users manage shell aliases. It provides intelligent suggestions based on command history and allows users to organize aliases across multiple files and shells, streamlining their command-line workflow.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vaibhav-mattoo/alman?embed=0\">View Project</a>\n• <a href=\"https://github.com/vaibhav-mattoo/alman?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e47242b19922ae996d6a0d34257ab4dec879f15f87b8e6117d95ddf006de8da7/vaibhav-mattoo/alman",
+        "project_id": 992907328,
+        "content": "💡 <b>SimRepo</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing GitHub by showing similar projects in a repository's sidebar and providing personalized recommendations.\n<br>\n✨ <b>Key Features:</b>\n• Provides similar repositories for repositories with more than 150 stars\n<br>\n📖 <b>Summary:</b>\nSimRepo is a web extension that enhances GitHub by suggesting similar repositories in the sidebar of a repository page. It also provides personalized recommendations on the user's home page based on their starred repositories. The extension uses machine learning and vector embeddings to find similar projects, improving discoverability and exploration of GitHub repositories.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Mubelotix/SimRepo?embed=0\">View Project</a>\n• <a href=\"https://chromewebstore.google.com/detail/simrepo/jieoogmcigenidbkgnkaakagdnlnieap?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/992907328/68520cfc-837e-4854-8755-c877f0a70aa9",
         "platform": "telegram",
-        "quality_score": 0.7499999999999999
+        "quality_score": 0.5499999999999999
     },
     {
-        "project_id": 847016830,
-        "content": "✨ <b>virshle</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging multiple virtual machines from the command line using TOML configuration files.\n<br>\n✨ <b>Key Features:</b>\n• Virtual machine management via command line\n• Configuration using TOML files\n• Support for cloud-hypervisor and linux-kvm\n• Network configuration using openvswitch\n• VM template definitions\n<br>\n📖 <b>Summary:</b>\nVirshle is a command-line utility for managing virtual machines. It leverages cloud-hypervisor and linux-kvm for virtualization and openvswitch for network configuration. Virshle allows users to define VM templates using TOML files, simplifying the creation and management of virtual machines on local or clustered nodes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pipelight/virshle?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e6d9321ab3461a2fc2c1b61735b7e7cbd27c1a6cda4a3ba39c1ae560013de749/pipelight/virshle",
+        "project_id": 942837343,
+        "content": "✨ <b>claude-task-master</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-driven development task management, particularly within the Cursor AI environment.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered task management\n• Integration with Cursor AI and other IDEs\n• Customizable configuration with API keys for various AI providers\n• Comprehensive documentation and tutorials\n<br>\n📖 <b>Summary:</b>\nTask Master is an AI-powered task management system designed to integrate seamlessly with Cursor AI and other IDEs. It allows developers to manage and prioritize tasks using AI, leveraging various AI providers through API key configuration. The system provides comprehensive documentation and a one-click installation option for Cursor, streamlining the setup process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/eyaltoledano/claude-task-master?embed=0\">View Project</a>\n• <a href=\"https://task-master.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1debe7f3a33a5cf46d38587b9cff5a468628fb76bcb9c8d7ea3418d4c5bfb497/eyaltoledano/claude-task-master",
+        "platform": "telegram",
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 983763510,
+        "content": "💡 <b>magic</b> | PHP\n<br>\n🎯 <b>Primary Use Case:</b>\nQuickly build and deploy AI applications to achieve a 100x increase in productivity for enterprises of all sizes.\n<br>\n✨ <b>Key Features:</b>\n• All-in-one AI productivity platform\n• General-purpose AI Agent (Super Magic)\n• Visual AI workflow orchestration (Magic Flow)\n<br>\n📖 <b>Summary:</b>\nMagic is an open-source, all-in-one AI productivity platform designed to help enterprises rapidly develop and deploy AI applications. It features a general-purpose AI Agent, a visual workflow orchestration system, and an integrated instant messaging system. The platform also includes tools like an AI Agent framework and an HTML to Markdown converter, providing a comprehensive suite for AI-driven productivity enhancement.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dtyq/magic?embed=0\">View Project</a>\n• <a href=\"https://www.letsmagic.ai/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/44022dd1e555b0d1d4cea42837b4c9804934cc5917d27d2eaae2859e82b82de7/dtyq/magic",
+        "platform": "telegram",
+        "quality_score": 0.9000000000000001
+    },
+    {
+        "project_id": 539550390,
+        "content": "✨ <b>raspirus</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nMalware scanning of local files, folders, and USB drives.\n<br>\n✨ <b>Key Features:</b>\n• Comprehensive file scans (including compressed files)\n• Privacy-prioritized scanning\n• Cross-platform compatibility\n• Fast and reliable malware detection\n• Sleek modern interface\n<br>\n📖 <b>Summary:</b>\nRaspirus is a rules-based malware scanner designed for user-friendliness and resource efficiency. Originally intended for scanning USB drives with a Raspberry Pi, it has evolved into a versatile tool capable of scanning local files and folders across multiple platforms, emphasizing privacy and speed.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Raspirus/raspirus?embed=0\">View Project</a>\n• <a href=\"https://raspirus.deno.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/539550390/72dfecb0-4472-4678-9b0c-1b9209530a50",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 1003770515,
-        "content": "🚀 <b>ytsurf</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nSearching and playing YouTube videos from the command line.\n<br>\n✨ <b>Key Features:</b>\n• Search YouTube from the terminal\n• Interactive selection with fzf or rofi\n• Download videos or audio\n• Select video format/quality\n• External config file for default options\n<br>\n📖 <b>Summary:</b>\nytsurf is a shell script that allows users to search for YouTube videos directly from their terminal. It provides features like interactive selection using `fzf` or `rofi`, video downloading, format selection, and configuration options, making it a convenient tool for command-line YouTube access.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Stan-breaks/ytsurf?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/dbc87ef9eb1985916fda56c7e58a1400e6b4b6949b2efb555a2709f5063bea60/Stan-breaks/ytsurf",
-        "platform": "telegram",
-        "quality_score": 0.7499999999999999
-    },
-    {
-        "project_id": 15019962,
-        "content": "💡 <b>tldr</b> | Markdown\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding concise and practical examples for command-line tools to help users quickly understand and use them.\n<br>\n✨ <b>Key Features:</b>\n• Community-maintained help pages for command-line tools\n• Simpler and more approachable alternative to traditional man pages\n<br>\n📖 <b>Summary:</b>\nThe tldr-pages repository offers a collection of community-maintained, simplified help pages for command-line tools, serving as a more approachable alternative to traditional man pages. It provides practical examples for various commands across different operating systems and can be accessed through multiple clients or a web interface, making it easier for users to quickly understand and utilize command-line tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tldr-pages/tldr?embed=0\">View Project</a>\n• <a href=\"https://tldr.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/15019962/aa6a8d00-b4a3-11ea-92f4-5cca1da75be2",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 357897199,
-        "content": "🌟 <b>netbird</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating secure, configuration-free private networks for organizations or home use.\n<br>\n✨ <b>Key Features:</b>\n• WireGuard-based overlay network\n• Centralized access control system\n• Peer-to-peer connections\n• SSO & MFA support\n• Admin Web UI\n<br>\n📖 <b>Summary:</b>\nNetBird is a platform that simplifies the creation of secure private networks by combining a WireGuard-based overlay network with a centralized access control system. It offers features like peer-to-peer connections, SSO & MFA support, and a user-friendly web UI. NetBird aims to eliminate the complexities of traditional VPN setups, making secure remote access and network management more accessible.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/netbirdio/netbird?embed=0\">View Project</a>\n• <a href=\"https://netbird.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/292116e559ddfe6cf521ad6475b240206b9c51b3dfd782433183cf9eb1d80f0c/netbirdio/netbird",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 812975380,
-        "content": "🔥 <b>agent-zero</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating a personal, adaptable AI assistant that uses the computer's operating system as a tool to accomplish tasks.\n<br>\n✨ <b>Key Features:</b>\n• General-purpose Assistant\n• Computer as a Tool\n• Multi-agent Cooperation\n<br>\n📖 <b>Summary:</b>\nAgent Zero is an AI framework for building dynamic, general-purpose personal assistants. It leverages the operating system as a tool, enabling the agent to write code and use the terminal to create custom tools. The framework also supports multi-agent cooperation, where agents can delegate tasks to subordinate agents.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/agent0ai/agent-zero?embed=0\">View Project</a>\n• <a href=\"https://agent-zero.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/812975380/186b70cc-fae4-4cd9-ae08-7dbe09b6b649",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 829640443,
-        "content": "🌟 <b>tensorzero</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding and managing industrial-grade LLM applications\n<br>\n✨ <b>Key Features:</b>\n• LLM Gateway with low latency\n• Observability for inferences and feedback\n• Optimization of prompts, models, and inference strategies\n• Evaluation of inferences and workflows\n• Experimentation with A/B testing and routing\n<br>\n📖 <b>Summary:</b>\nTensorZero is an open-source stack designed for building and managing industrial-grade LLM applications. It unifies key components like an LLM gateway, observability tools, optimization strategies, evaluation frameworks, and experimentation features. It allows users to access LLMs through a unified API, optimize performance, and implement robust testing and deployment strategies.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tensorzero/tensorzero?embed=0\">View Project</a>\n• <a href=\"https://tensorzero.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/829640443/26b7c5c4-c12c-4e89-beaf-a4233f1dac87",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
     }
 ]
