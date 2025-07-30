@@ -1,7 +1,0 @@
-{
-    "project_id": 652712035,
-    "content": "🔥 <b>airllm</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning large language models with limited GPU memory.\n<br>\n✨ <b>Key Features:</b>\n• Enables inference of 70B LLMs on a single 4GB GPU\n• Supports Llama3.1 405B on 8GB VRAM\n• Offers 8bit/4bit quantization\n• Supports CPU inference\n• Supports non-sharded models\n<br>\n📖 <b>Summary:</b>\nAirLLM optimizes memory usage for LLM inference, allowing 70B models to run on a single 4GB GPU without quantization. It supports various models like Llama, ChatGLM, QWen, and offers features like model compression and CPU inference. The library aims to make large language models accessible on resource-constrained environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lyogavin/airllm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/32404435dd9fc4e8db7676158afed2224355ff93befe5ed0c5d2c812c50eb94c/lyogavin/airllm",
-    "platform": "telegram",
-    "quality_score": 0.6
-}
