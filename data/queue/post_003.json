@@ -1,0 +1,7 @@
+{
+    "project_id": 144310404,
+    "content": "💡 <b>script_exporter</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nExecuting scripts and exporting their output and exit status as Prometheus metrics for monitoring purposes.\n<br>\n✨ <b>Key Features:</b>\n• Executes scripts\n• Collects metrics from script output\n• Collects metrics from script exit status\n• Configurable via YAML file\n• Supports configuration reloading\n<br>\n📖 <b>Summary:</b>\nThe Script Exporter is a Prometheus exporter that allows users to execute custom scripts and collect metrics from their output or exit status. It is configured via a YAML file, supports configuration reloading, and provides Docker images for easy deployment. The exporter is designed to enable monitoring of systems and applications by leveraging the flexibility of custom scripts.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ricoberger/script_exporter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/c4db3da585b23f67ebe456da08b4fc05dcb97dd32e25989a9a087f3bb8fdc236/ricoberger/script_exporter",
+    "platform": "telegram",
+    "quality_score": 0.7499999999999999
+}

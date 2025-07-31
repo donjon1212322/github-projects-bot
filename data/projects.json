@@ -1,195 +1,200 @@
 [
     {
-        "id": 1027789393,
-        "name": "rewindtty",
-        "description": "A terminal session recorder and replayer written in C that allows you to capture and replay terminal sessions with precise timing.",
-        "url": "https://github.com/debba/rewindtty",
+        "id": 1028245499,
+        "name": "wayland-bongocat",
+        "description": "bongocat for your desktop ₍^. .^₎",
+        "url": "https://github.com/saatvik333/wayland-bongocat",
         "language": "C",
-        "stars": 16,
+        "stars": 84,
+        "forks": 2,
+        "created_at": "2025-07-29T08:40:53Z",
+        "updated_at": "2025-07-31T10:06:15Z",
+        "topics": [
+            "bongo-cat",
+            "bongocat",
+            "cat",
+            "cute",
+            "overlay",
+            "wayland"
+        ],
+        "quality_score": 0.75,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-31T08:58:57Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/60ee35a6a67b568e454f860822bd227fba9d8e36c94b8d920c3df03b0e59c2d0/saatvik333/wayland-bongocat"
+        ],
+        "homepage": "",
+        "readme_summary": "The wayland-bongocat repository provides a Wayland-native overlay that displays an animated bongo cat reacting to keyboard input. It's designed for streamers and content creators to add a fun visual element to their desktop. Key features include real-time animation, hot-reload configuration, dynamic device detection, and optimized performance.",
+        "key_features": [
+            "Real-time Animation based on keyboard input",
+            "Hot-Reload Configuration",
+            "Dynamic Device Detection",
+            "Performance Optimized",
+            "Wayland Native",
+            "Lightweight",
+            "Multi-device Support",
+            "Embedded Assets",
+            "Cross-platform"
+        ],
+        "primary_use_case": "Displaying an animated bongo cat overlay that reacts to keyboard input, primarily for streamers and content creators.",
+        "open_issues": 1,
+        "cover_image_prompt": "Imagine a playful cartoon cat sitting at a futuristic control panel, its paws dancing across glowing keys. The cat's actions are mirrored on a large screen above, displaying vibrant animations that react instantly to each keystroke. Digital particles swirl around the cat, subtly forming keyboard layouts and code snippets. The control panel is sleek and modern, with the repository name subtly displayed on a small screen. The scene is brightly lit with a playful, energetic mood. The image should be in a 3D isometric illustration style with clean lines and vibrant colors."
+    },
+    {
+        "id": 1021753449,
+        "name": "his",
+        "description": "A command history utility with icons and colors that works on Windows and GNU/Linux.",
+        "url": "https://github.com/terroo/his",
+        "language": "C++",
+        "stars": 22,
         "forks": 0,
-        "created_at": "2025-07-28T14:34:09Z",
-        "updated_at": "2025-07-30T09:14:04Z",
-        "topics": [],
-        "quality_score": 0.6,
+        "created_at": "2025-07-17T22:35:00Z",
+        "updated_at": "2025-07-30T20:31:55Z",
+        "topics": [
+            "cli",
+            "command-line",
+            "cpp",
+            "fuzzy-search",
+            "history"
+        ],
+        "quality_score": 0.44999999999999996,
         "contributors_count": 0,
-        "last_commit_date": "2025-07-29T08:48:22Z",
+        "last_commit_date": "2025-07-24T23:52:26Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/f54810e030376fcc3e574e77e9e4f7f87a1ebca4b766d930e1a90724e17145cc/debba/rewindtty"
+            "https://opengraph.githubassets.com/9b7bdb239b8b3d50cfd983edaddcce174608f53e33ab10ce5a9780b81817ebab/terroo/his"
         ],
-        "homepage": "",
-        "readme_summary": "RewindTTY is a C-based terminal session recorder and replayer. It captures terminal input/output with accurate timing information and stores it in a JSON format. The tool allows users to replay sessions with original timing, making it useful for debugging, auditing, or creating demonstrations.",
+        "homepage": "https://youtu.be/gILIsK3MiGQ",
+        "readme_summary": "The `his` utility enhances command-line productivity by providing a visually rich and easily searchable command history. It uses icons and colors to categorize commands and offers fuzzy search for quick retrieval. `his` is designed to work seamlessly on both Windows and GNU/Linux operating systems.",
         "key_features": [
-            "Record terminal sessions with accurate timing",
-            "Replay sessions with original timing",
-            "Store sessions in JSON format",
-            "Graceful shutdown and file closure on interruption",
-            "Lightweight with minimal dependencies"
+            "Command history utility",
+            "Icons for command types",
+            "Color-coded command history",
+            "Fuzzy search functionality",
+            "Cross-platform support (Windows and GNU/Linux)"
         ],
-        "primary_use_case": "Capturing and replaying terminal sessions with precise timing for debugging, auditing, or demonstration purposes.",
+        "primary_use_case": "Efficiently accessing and executing previously used commands with visual cues and fuzzy search.",
         "open_issues": 0,
-        "cover_image_prompt": "An archivist meticulously rewinding a giant, glowing film reel representing a terminal session. The archivist uses a special crank that emits sparks of JSON data. The rewound session is displayed on a holographic screen, showing perfectly timed commands and outputs. Small UI elements float around the scene, displaying code snippets and timing information. The scene is set in a futuristic archive with warm, inviting lighting. The image should be in a detailed 3D isometric illustration style with vibrant colors and clear details."
+        "cover_image_prompt": "Imagine a seasoned detective in a dimly lit, noir-style office, surrounded by stacks of old case files (representing command history). The detective holds a magnifying glass (fuzzy search) over a file, with glowing icons (representing command types) subtly highlighting important details. A holographic screen displays a command line interface with color-coded entries. The scene is set in a retro-futuristic setting with a mix of analog and digital elements. The image should be in a digital painting style with sharp focus, dramatic lighting, and a cool color palette, emphasizing clarity and efficiency."
     },
     {
-        "id": 188700274,
-        "name": "copyparty",
-        "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
-        "url": "https://github.com/9001/copyparty",
-        "language": "Python",
-        "stars": 11836,
-        "forks": 358,
-        "created_at": "2019-05-26T15:28:33Z",
-        "updated_at": "2025-07-30T10:13:46Z",
-        "topics": [
-            "copyparty",
-            "file-server",
-            "file-sharing",
-            "file-upload-server",
-            "ftp-server",
-            "nas-frontend",
-            "tftp-server",
-            "webdav-server"
-        ],
-        "quality_score": 1.0000000000000002,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-29T20:24:17Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/188700274/42754d5b-fa34-45dd-9030-6ff0c16036be"
-        ],
-        "homepage": "",
-        "readme_summary": "Copyparty is a portable file server that supports resumable uploads and downloads through a web browser. It offers multiple protocols including HTTP, WebDAV, FTP, TFTP, and SMB, and provides features like media indexing, thumbnails, file management, and sharing capabilities. It can be deployed on various devices and has optional Android and iOS integrations.",
-        "key_features": [
-            "Resumable uploads/downloads",
-            "HTTP, WebDAV, FTP, TFTP, SMB protocols",
-            "Android app and iOS shortcuts",
-            "Media indexer and thumbnails",
-            "File manager (cut/paste, rename, delete)",
-            "Shares (temporary links)",
-            "Batch rename",
-            "RSS feeds",
-            "Media player with playlist support"
-        ],
-        "primary_use_case": "Turning almost any device into a file server with resumable uploads/downloads.",
-        "open_issues": 69,
-        "cover_image_prompt": "A friendly octopus wearing a server rack as a hat, juggling various file types (images, documents, videos) with its tentacles. Each tentacle represents a different protocol (HTTP, WebDAV, FTP, TFTP, SMB), indicated by small icons near the tentacle's base. The octopus is smiling and standing on a small device (like a Raspberry Pi), symbolizing portability. Subtle UI elements float around the octopus, showing upload progress bars and thumbnail previews. The scene is brightly lit with a clean, modern aesthetic. The image should be in a 3D isometric illustration style with vibrant colors and clear details."
-    },
-    {
-        "id": 949199938,
-        "name": "machine-learning-visualized",
-        "description": "ML algorithms implemented and derived from first-principles in Jupyter Notebooks and NumPy",
-        "url": "https://github.com/gavinkhung/machine-learning-visualized",
-        "language": "Shell",
-        "stars": 784,
-        "forks": 43,
-        "created_at": "2025-03-15T22:31:42Z",
-        "updated_at": "2025-07-30T09:38:10Z",
-        "topics": [
-            "book",
-            "jupyter-notebook",
-            "latex",
-            "machine-learning",
-            "neural-network",
-            "numpy",
-            "python"
-        ],
-        "quality_score": 0.5499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-09T06:51:29Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/b0a529646911ea6e2899294323058f1e300f897e2e01a8cddd58e0e87084c20e/gavinkhung/machine-learning-visualized"
-        ],
-        "homepage": "https://ml-visualized.com/",
-        "readme_summary": "The Machine Learning Visualized repository provides Jupyter Notebook implementations of various machine learning algorithms, derived from first principles using NumPy. It focuses on visualizing the training process and the impact of weights on loss functions through interactive notebooks. The repository serves as a platform for learning and understanding machine learning concepts through interactive code and visualizations.",
-        "key_features": [
-            "Implements machine learning algorithms from first principles",
-            "Provides Jupyter Notebooks with mathematical derivations",
-            "Offers interactive notebooks for visualizing weight influence on loss functions",
-            "Generates visualizations of machine learning algorithms during training",
-            "Uses Jupyter Book to create a website with Markdown and Jupyter Notebooks"
-        ],
-        "primary_use_case": "Learning and visualizing machine learning algorithms through code and interactive notebooks.",
-        "open_issues": 3,
-        "cover_image_prompt": "A sculptor meticulously chisels away at a rough block of marble, revealing a perfectly formed neural network within. The sculptor's tools are labeled with mathematical equations and NumPy code snippets. Digital projections display visualizations of machine learning algorithms training and converging. The scene is set in a bright, modern workshop filled with glowing particles representing data. The composition is clean and focused, with a warm color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 652712035,
-        "name": "airllm",
-        "description": "AirLLM 70B inference with single 4GB GPU",
-        "url": "https://github.com/lyogavin/airllm",
-        "language": "Jupyter Notebook",
-        "stars": 5881,
-        "forks": 460,
-        "created_at": "2023-06-12T16:28:41Z",
-        "updated_at": "2025-07-30T09:56:06Z",
-        "topics": [
-            "chinese-llm",
-            "chinese-nlp",
-            "finetune",
-            "generative-ai",
-            "instruct-gpt",
-            "instruction-set",
-            "llama",
-            "llm",
-            "lora",
-            "open-models",
-            "open-source",
-            "open-source-models",
-            "qlora"
-        ],
-        "quality_score": 0.6,
-        "contributors_count": 0,
-        "last_commit_date": "2025-05-06T13:11:40Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/32404435dd9fc4e8db7676158afed2224355ff93befe5ed0c5d2c812c50eb94c/lyogavin/airllm"
-        ],
-        "homepage": "",
-        "readme_summary": "AirLLM optimizes memory usage for LLM inference, allowing 70B models to run on a single 4GB GPU without quantization. It supports various models like Llama, ChatGLM, QWen, and offers features like model compression and CPU inference. The library aims to make large language models accessible on resource-constrained environments.",
-        "key_features": [
-            "Enables inference of 70B LLMs on a single 4GB GPU",
-            "Supports Llama3.1 405B on 8GB VRAM",
-            "Offers 8bit/4bit quantization",
-            "Supports CPU inference",
-            "Supports non-sharded models",
-            "Supports multiple models: ChatGLM, QWen, Baichuan, Mistral, InternLM",
-            "Provides model compression for faster inference",
-            "Supports MacOS"
-        ],
-        "primary_use_case": "Running large language models with limited GPU memory.",
-        "open_issues": 112,
-        "cover_image_prompt": "Imagine a skilled architect effortlessly constructing a towering skyscraper, each floor representing a layer of a complex AI model. The architect uses lightweight, translucent building blocks, symbolizing efficient memory usage, to build the structure on a single, compact foundation representing a 4GB GPU. The skyscraper glows with a soft, internal light, showcasing the power of inference. Subtle UI elements float around the structure, displaying real-time performance metrics and code snippets. The scene is set in a futuristic cityscape with a clear blue sky. The image should be in a 3D isometric illustration style with vibrant colors and sharp details."
-    },
-    {
-        "id": 319848237,
-        "name": "doggo",
-        "description": ":dog: Command-line DNS Client for Humans. Written in Golang",
-        "url": "https://github.com/mr-karan/doggo",
+        "id": 1023879521,
+        "name": "txplain",
+        "description": "Open-source AI-powered blockchain transaction analysis",
+        "url": "https://github.com/txplain/txplain",
         "language": "Go",
-        "stars": 3742,
-        "forks": 122,
-        "created_at": "2020-12-09T05:07:07Z",
-        "updated_at": "2025-07-30T05:27:53Z",
+        "stars": 23,
+        "forks": 2,
+        "created_at": "2025-07-21T20:57:31Z",
+        "updated_at": "2025-07-30T19:23:30Z",
         "topics": [
-            "dns",
-            "dns-client",
-            "doh"
+            "ai",
+            "blockchain",
+            "ethereum",
+            "llm",
+            "web3"
         ],
-        "quality_score": 0.85,
+        "quality_score": 0.44999999999999996,
         "contributors_count": 0,
-        "last_commit_date": "2025-07-08T06:40:24Z",
+        "last_commit_date": "2025-07-24T22:17:42Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/8a7c7eb4957ed5fd4b256333a82ce9d353fecd0b8ebc4fa02150f60059cafc81/mr-karan/doggo"
+            "https://opengraph.githubassets.com/7fdd99d363b7bc43811a0460accf873eedd2ca79214bee3a5897cf1ae8124438/txplain/txplain"
         ],
-        "homepage": "https://doggo.mrkaran.dev/",
-        "readme_summary": "Doggo is a command-line DNS client written in Go that provides human-readable output and supports multiple DNS protocols like DoH, DoT, and DoQ. It allows users to perform DNS lookups, query specific record types, and obtain results in JSON format for scripting. Doggo offers cross-platform support and aims to be a modern alternative to traditional DNS tools like `dig`.",
+        "homepage": "https://txplain.com",
+        "readme_summary": "Txplain is an open-source AI-powered service that transforms complex blockchain transaction data into human-readable summaries. It uses direct blockchain calls and contract introspection, leveraging AI to provide accurate and comprehensive transaction analysis across multiple networks like Ethereum, Polygon, and Arbitrum.",
         "key_features": [
-            "Human-readable output",
-            "JSON output support",
-            "Multiple transport protocols (DoH, DoT, DoQ, TCP, UDP, DNSCrypt)",
-            "Multiple resolver support",
-            "Reverse DNS lookups",
-            "Cross-platform support"
+            "Dynamic Contract Introspection",
+            "Real-time Signature Resolution",
+            "Live Token Metadata",
+            "AI-Powered Analysis",
+            "Multi-Network Support",
+            "Minimal External Dependencies"
         ],
-        "primary_use_case": "Command-line DNS client for performing DNS lookups and queries.",
-        "open_issues": 30,
-        "cover_image_prompt": "A skilled cartographer meticulously charting unknown territories on a digital map, representing DNS resolution. The cartographer uses a magical compass that points towards different servers (DoH, DoT, DoQ), each visualized as unique islands in a vast ocean of data. The map displays domain names as constellations, and the cartographer's quill transforms these names into precise coordinates. Small UI elements float around the scene, showing DNS query results and network protocols. The setting is a futuristic library filled with glowing servers and data streams. The image should be in a 3D isometric illustration style with vibrant colors and crisp details."
+        "primary_use_case": "Blockchain transaction analysis and explanation",
+        "open_issues": 0,
+        "cover_image_prompt": "Imagine a skilled translator meticulously deciphering ancient blockchain ledgers, transforming complex, encrypted data into clear, understandable narratives displayed on a holographic screen. The translator uses AI-powered lenses to highlight key transaction details, while subtle digital particles flow from the ledgers, forming concise summaries. The scene is set in a futuristic library filled with glowing data streams and subtle UI elements displaying transaction details. The image should be in a detailed digital painting style with vibrant colors and a focus on clarity."
+    },
+    {
+        "id": 144310404,
+        "name": "script_exporter",
+        "description": "Prometheus exporter to execute scripts and collect metrics from the output or the exit status.",
+        "url": "https://github.com/ricoberger/script_exporter",
+        "language": "Go",
+        "stars": 404,
+        "forks": 89,
+        "created_at": "2018-08-10T16:39:57Z",
+        "updated_at": "2025-07-31T05:35:21Z",
+        "topics": [
+            "docker",
+            "go",
+            "kubernetes",
+            "prometheus",
+            "prometheus-exporter",
+            "script",
+            "scripts"
+        ],
+        "quality_score": 0.7499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-15T07:51:29Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/c4db3da585b23f67ebe456da08b4fc05dcb97dd32e25989a9a087f3bb8fdc236/ricoberger/script_exporter"
+        ],
+        "homepage": null,
+        "readme_summary": "The Script Exporter is a Prometheus exporter that allows users to execute custom scripts and collect metrics from their output or exit status. It is configured via a YAML file, supports configuration reloading, and provides Docker images for easy deployment. The exporter is designed to enable monitoring of systems and applications by leveraging the flexibility of custom scripts.",
+        "key_features": [
+            "Executes scripts",
+            "Collects metrics from script output",
+            "Collects metrics from script exit status",
+            "Configurable via YAML file",
+            "Supports configuration reloading",
+            "Provides Docker image and Docker Compose setup",
+            "Offers example scripts for various use cases"
+        ],
+        "primary_use_case": "Executing scripts and exporting their output and exit status as Prometheus metrics for monitoring purposes.",
+        "open_issues": 3,
+        "cover_image_prompt": "Imagine a diligent librarian meticulously cataloging scrolls, each representing a script. The librarian carefully examines each scroll, extracting key information and organizing it into labeled jars, symbolizing metrics. A large, glowing Prometheus symbol hovers above the librarian, overseeing the process. Subtle UI elements display script execution details and metric values. The scene is set in a grand, yet modern library with warm, inviting lighting. The image should be in a detailed digital painting style, emphasizing clarity and precision."
+    },
+    {
+        "id": 791603222,
+        "name": "mynav",
+        "description": "Workspace and session management TUI",
+        "url": "https://github.com/GianlucaP106/mynav",
+        "language": "Go",
+        "stars": 169,
+        "forks": 6,
+        "created_at": "2024-04-25T02:45:11Z",
+        "updated_at": "2025-07-30T20:59:30Z",
+        "topics": [
+            "cli",
+            "development",
+            "go",
+            "management",
+            "productivity",
+            "sessions",
+            "terminal",
+            "tmux",
+            "tui",
+            "workspaces"
+        ],
+        "quality_score": 0.6499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-03T00:56:23Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/889acf8d7127d78549f87654c2158b303d7e8e22aa33328ad67de9116522ef82/GianlucaP106/mynav"
+        ],
+        "homepage": "",
+        "readme_summary": "Mynav is a terminal-based workspace navigator and session manager built in Go. It helps developers organize and manage multiple projects through an intuitive interface, seamlessly integrating with tmux sessions. Mynav provides features for workspace management, advanced session management, and an enhanced developer experience with fuzzy search, keyboard shortcuts, and a Lazygit-like UI.",
+        "key_features": [
+            "Workspace Management (grouping, creation, navigation)",
+            "Advanced Session Management (create, modify, delete, enter sessions, live preview, fast switching)",
+            "Fuzzy search",
+            "Tmux integration",
+            "Keyboard shortcuts",
+            "Git integration",
+            "Lazygit-like terminal UI",
+            "Vim-style navigation"
+        ],
+        "primary_use_case": "Organizing and managing multiple projects and tmux sessions through a terminal-based user interface.",
+        "open_issues": 7,
+        "cover_image_prompt": "Imagine a ship captain at the helm of a vessel, navigating through a sea of open application windows represented as floating islands. The captain uses a glowing compass, symbolizing MyNav, to chart a course between these islands, effortlessly switching between workspaces and sessions. The ship's bridge is adorned with subtle UI elements and glowing digital charts, representing tmux integration and session previews. The scene is bathed in the soft glow of a monitor screen, creating a focused and productive atmosphere. The illustration should be in a clean, 3D isometric style with vibrant colors and clear details."
     }
 ]
