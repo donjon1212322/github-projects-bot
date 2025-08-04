@@ -1,36 +1,43 @@
 [
     {
-        "project_id": 1018762828,
-        "content": "🔥 <b>AutoMV</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating music videos from user-provided ideas using a combination of AI-powered services for prompt generation, image generation, and music generation.\n<br>\n✨ <b>Key Features:</b>\n• Transforms ideas into music videos\n• Uses OpenAI API for prompt and scene generation\n• Uses Runware API for image generation\n• Uses Suno API for music generation\n• Uses Supabase for database and storage\n<br>\n📖 <b>Summary:</b>\nAuto-MV Creator is a web application that allows users to transform their ideas into complete music videos. It leverages several APIs, including OpenAI for prompt generation, Runware for image creation, and Suno for music generation, alongside Supabase for data storage. The application requires a separate webhook deployment to handle asynchronous music generation callbacks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/YinTokey/AutoMV?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b58ce2291a5436fea6f8dc7ff351108cdffc41888e04eb88cd53145c08d7f20a/YinTokey/AutoMV",
+        "project_id": 1028755205,
+        "content": "✨ <b>Smart_Segments</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nIntelligent object detection and selection in Krita using AI-powered segmentation.\n<br>\n✨ <b>Key Features:</b>\n• AI-Powered Segmentation\n• Interactive Selection\n• Real-time Preview\n• Smart Tools Integration\n• Artist-Friendly Design\n<br>\n📖 <b>Summary:</b>\nSmart Segments is a Krita plugin that leverages AI to provide intelligent, one-click object detection and selection. It allows artists to quickly and easily segment their artwork, offering features like real-time preview and seamless integration with Krita's native tools, streamlining the digital art workflow.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/a904guy/Smart_Segments?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/323458b1265668ff121bc90320c63b1fc0316aa31a5da085266b3081d9bcf9f6/a904guy/Smart_Segments",
+        "platform": "telegram",
+        "quality_score": 0.5499999999999999
+    },
+    {
+        "project_id": 1026808170,
+        "content": "💡 <b>TubeSummary</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSummarizing YouTube videos using AI to quickly extract key insights.\n<br>\n✨ <b>Key Features:</b>\n• Summarize YouTube videos instantly with a single click\n• AI-powered follow-up Q&A below the video\n• Support for multiple LLM providers (OpenAI-compatible)\n• Prompts and provider credentials fully customizable\n• Works on latest Firefox, Chrome, and more\n<br>\n📖 <b>Summary:</b>\nTubeSummary is a browser extension that uses AI to generate summaries of YouTube videos. It allows users to quickly understand the content of a video without watching the entire thing. The extension supports multiple LLM providers and offers customizable prompts and credentials.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/n0vella/TubeSummary?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c1fcc52981f7ff8e7a73976dbfb4b2869ad7f2cbd37909dbfe32e912edf0c5a5/n0vella/TubeSummary",
+        "platform": "telegram",
+        "quality_score": 0.5499999999999999
+    },
+    {
+        "project_id": 1005564798,
+        "content": "✨ <b>Twocast</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-powered generation of bilingual, two-person podcasts from various input sources like topics, links, documents, and list pages.\n<br>\n✨ <b>Key Features:</b>\n• Two-person Podcast generation\n• Generates 3-5 minute podcasts with one click\n• Supports multiple generation methods: Topic, Link, Document (doc/pdf/txt), List Page\n• Multi-language support\n<br>\n📖 <b>Summary:</b>\nTwocast is an AI podcast generator that creates bilingual, two-person podcasts. It supports multiple input methods, including topics, links, documents, and list pages, and generates podcasts with downloadable audio, outlines, and scripts. The platform integrates with Fish Audio, Minimax, and Google Gemini for voice synthesis and language processing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/panyanyany/Twocast?embed=0\">View Project</a>\n• <a href=\"https://twocast.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a30df9b0d66af57e78f1cbfaecf3502c084bc6ac3e994b83fd8fa925c059547c/panyanyany/Twocast",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 20677163,
-        "content": "🌟 <b>MediaInfo</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nDisplaying technical and tag data for video and audio files.\n<br>\n✨ <b>Key Features:</b>\n• Unified display of technical data for video and audio files\n• CLI and GUI availability on various desktop operating systems\n• GUI options for Windows and Linux (Qt, UWP, VCL, wxWidgets)\n<br>\n📖 <b>Summary:</b>\nMediaInfo provides a unified display of the most relevant technical and tag data for video and audio files. It offers both a command-line interface (CLI) and graphical user interfaces (GUIs) for various operating systems, including Windows and Linux. The tool supports multiple CPU architectures and provides different GUI options like Qt, UWP, VCL, and wxWidgets.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MediaArea/MediaInfo?embed=0\">View Project</a>\n• <a href=\"https://MediaArea.net/MediaInfo?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/549b9b5048716ad9387c254c205b59e8ef83f7667acef2fbb152354d207ac39a/MediaArea/MediaInfo",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 964395174,
-        "content": "🌟 <b>dyad</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding AI applications locally and privately.\n<br>\n✨ <b>Key Features:</b>\n• Local operation\n• Bring your own API keys\n• Cross-platform compatibility\n<br>\n📖 <b>Summary:</b>\nDyad is a local, open-source AI app builder that allows users to create AI applications on their own machines. It emphasizes privacy, control, and the ability to use your own AI API keys, offering a fast and flexible development experience without vendor lock-in. Dyad is cross-platform, supporting both Mac and Windows.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dyad-sh/dyad?embed=0\">View Project</a>\n• <a href=\"https://dyad.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2f582b4d1af3134f0b0501fff8a1d4e39fdb273d8e7565a0e8501dfde853ce8e/dyad-sh/dyad",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 893031915,
-        "content": "🚀 <b>helix-db</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nIntelligent data storage for Retrieval Augmented Generation (RAG) and AI applications, leveraging both graph and vector data.\n<br>\n✨ <b>Key Features:</b>\n• Fast & Efficient performance compared to other graph and vector databases\n• Native support for graph and vector data types for RAG applications\n• Reliable storage powered by LMDB\n• ACID Compliant for data integrity\n<br>\n📖 <b>Summary:</b>\nHelixDB is a graph-vector database built in Rust, designed for RAG and AI applications. It combines graph relationships with vector embeddings, providing a powerful solution for knowledge representation and retrieval. HelixDB utilizes LMDB for reliable storage and offers ACID compliance, ensuring data integrity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HelixDB/helix-db?embed=0\">View Project</a>\n• <a href=\"https://helix-db.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3b24acfa133a9cae2575e64f6ce4cce20ded80df8b412e0dee42b7a820ca3077/HelixDB/helix-db",
+        "project_id": 903039267,
+        "content": "✨ <b>BookLore</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and reading personal book and comic collections in a self-hosted environment.\n<br>\n✨ <b>Key Features:</b>\n• Powerful Book Organization with Libraries and Shelves\n• Intelligent Metadata Management from multiple sources\n• Multi-User Access with Permissions\n• Built-in PDF, ePub, and CBX Reader\n• OPDS 1.2 Integration\n<br>\n📖 <b>Summary:</b>\nBookLore is a self-hosted web application designed for organizing, managing, and reading personal book and comic collections. It offers features such as metadata management, multi-user support with permission controls, built-in readers for various ebook formats, and OPDS integration, providing a comprehensive solution for building and exploring a personal digital library.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/booklore-app/BookLore?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/cf6b2458ac50293f156162805067a1b3c1395acf17a2fe1effbb54a00e5a624a/booklore-app/BookLore",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 197033610,
-        "content": "🔥 <b>hash</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding a self-structuring knowledge graph from various data sources.\n<br>\n✨ <b>Key Features:</b>\n• Self-building database\n• Open-source\n• Multi-tenant\n• Real-time data integration\n• Autonomous agents for data management\n<br>\n📖 <b>Summary:</b>\nThe HASH repository provides an open-source, multi-tenant, self-building knowledge graph. It automatically integrates and structures data from various sources in real-time, allowing users to visually browse and manage both data and schemas. Intelligent agents can be deployed to maintain the database, ensuring data quality and integrity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hashintel/hash?embed=0\">View Project</a>\n• <a href=\"https://hash.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ebfeb9e2d972ece4168d5a48e77ec1d18cd172628c6144836777d6d9bd9ae5e1/hashintel/hash",
+        "project_id": 1006414368,
+        "content": "🌟 <b>OpenCut</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nOpen-source video editing\n<br>\n✨ <b>Key Features:</b>\n• Timeline-based editing\n• Multi-track support\n• Real-time preview\n• No watermarks or subscriptions\n<br>\n📖 <b>Summary:</b>\nOpenCut is an open-source video editor designed as an alternative to CapCut. It offers timeline-based editing, multi-track support, and real-time preview capabilities without watermarks or subscriptions. The project aims to provide a simple and privacy-focused video editing solution for web, desktop, and mobile platforms.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/OpenCut-app/OpenCut?embed=0\">View Project</a>\n• <a href=\"https://opencut.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3eb74659762fe7090a4e0295dc5806c3389dcfe832b8d0493dadb6743425332f/OpenCut-app/OpenCut",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 14434734,
+        "content": "🌟 <b>binwalk</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nFirmware analysis\n<br>\n✨ <b>Key Features:</b>\n• Identifies embedded files and data.\n• Extracts embedded files and data.\n• Supports a wide variety of file types.\n• Performs entropy analysis to identify compression or encryption.\n• Can be integrated into Rust projects.\n<br>\n📖 <b>Summary:</b>\nBinwalk is a firmware analysis tool written in Rust that identifies and extracts embedded files and data from various file types. It utilizes entropy analysis to detect compression or encryption and can be integrated into other Rust projects. The tool aims to provide fast and detailed analysis results.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ReFirmLabs/binwalk?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f8aa84eaaefeabd7e69ca5a1e6b8a117a40192a3c8fed85c00a48b662dbff190/ReFirmLabs/binwalk",
         "platform": "telegram",
         "quality_score": 0.95
     }
