@@ -1,210 +1,222 @@
 [
     {
-        "id": 1028755205,
-        "name": "Smart_Segments",
-        "description": "KRITA Plugin - Smart Segments - AI Segment Anything Model 2",
-        "url": "https://github.com/a904guy/Smart_Segments",
-        "language": "Python",
-        "stars": 8,
-        "forks": 0,
-        "created_at": "2025-07-30T02:47:12Z",
-        "updated_at": "2025-08-04T09:33:47Z",
-        "topics": [],
-        "quality_score": 0.5499999999999999,
+        "id": 938279809,
+        "name": "desktop_homunculus",
+        "description": "Desktop mascot built with bevy",
+        "url": "https://github.com/not-elm/desktop_homunculus",
+        "language": "Rust",
+        "stars": 25,
+        "forks": 1,
+        "created_at": "2025-02-24T17:48:00Z",
+        "updated_at": "2025-08-05T09:07:00Z",
+        "topics": [
+            "bevy",
+            "desktop-pet",
+            "vrm",
+            "vrma"
+        ],
+        "quality_score": 0.65,
         "contributors_count": 0,
-        "last_commit_date": "2025-07-31T00:30:35Z",
+        "last_commit_date": "2025-07-31T14:29:13Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/323458b1265668ff121bc90320c63b1fc0316aa31a5da085266b3081d9bcf9f6/a904guy/Smart_Segments"
+            "https://opengraph.githubassets.com/ac5be8dcf3412b65b9a17c67290387bc80b9e37596f49ca4b17e2fcf19525ce6/not-elm/desktop_homunculus"
         ],
         "homepage": "",
-        "readme_summary": "Smart Segments is a Krita plugin that leverages AI to provide intelligent, one-click object detection and selection. It allows artists to quickly and easily segment their artwork, offering features like real-time preview and seamless integration with Krita's native tools, streamlining the digital art workflow.",
+        "readme_summary": "Desktop Homunculus is a Rust-based application that uses the Bevy game engine to create interactive desktop pets. It features AI-powered chat integration with ChatGPT and VoiceVox, advanced VRM character support, and an extensible MOD system for customization. The application aims to enhance the user experience by providing a personalized and engaging desktop companion.",
         "key_features": [
-            "AI-Powered Segmentation",
-            "Interactive Selection",
-            "Real-time Preview",
-            "Smart Tools Integration",
-            "Artist-Friendly Design",
-            "One-Click Setup"
+            "AI-Powered Chat Integration (ChatGPT, VoiceVox)",
+            "Advanced VRM Character System (Multiple Models, VRMA Support)",
+            "Extensible MOD System (TypeScript SDK, HTTP API)",
+            "Power Efficient Design (Framerate Optimization)",
+            "Developer-Friendly Architecture (Bevy Game Engine, WebView Integration, Cross-Platform)"
         ],
-        "primary_use_case": "Intelligent object detection and selection in Krita using AI-powered segmentation.",
-        "open_issues": 0,
-        "cover_image_prompt": "Imagine a skilled artist in a digital studio, using a magical brush that intelligently selects and separates different parts of a digital painting with a single stroke. The brush emits a soft, glowing light, highlighting the selected segments with precision. Around the artist, floating UI elements display the Krita interface and the 'Smart Segments' plugin logo. The studio is filled with vibrant colors and a sense of creative flow. The image should be in a 3D isometric illustration style with rich details and a focus on clarity."
+        "primary_use_case": "A cross-platform desktop pet application that brings intelligent 3D VRM characters to life on your desktop, allowing for AI-powered conversations, custom animations, and interactions with your workflow.",
+        "open_issues": 1,
+        "cover_image_prompt": "Imagine a friendly, customizable digital avatar perched on the edge of a computer screen, acting as a helpful assistant. The avatar is interacting with floating windows and applications, organizing them with a playful touch. Small speech bubbles display snippets of conversation, powered by AI, while subtle code elements glow softly in the background. The scene is set in a bright, modern workspace with a clean and inviting atmosphere. The image should be in a 3D isometric illustration style with vibrant colors and crisp details, conveying a sense of helpfulness and technological integration."
     },
     {
-        "id": 1026808170,
-        "name": "TubeSummary",
-        "description": null,
-        "url": "https://github.com/n0vella/TubeSummary",
-        "language": "TypeScript",
-        "stars": 7,
-        "forks": 1,
-        "created_at": "2025-07-26T16:51:01Z",
-        "updated_at": "2025-08-04T08:22:51Z",
-        "topics": [],
-        "quality_score": 0.5499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-02T09:30:27Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/c1fcc52981f7ff8e7a73976dbfb4b2869ad7f2cbd37909dbfe32e912edf0c5a5/n0vella/TubeSummary"
-        ],
-        "homepage": null,
-        "readme_summary": "TubeSummary is a browser extension that uses AI to generate summaries of YouTube videos. It allows users to quickly understand the content of a video without watching the entire thing. The extension supports multiple LLM providers and offers customizable prompts and credentials.",
-        "key_features": [
-            "Summarize YouTube videos instantly with a single click",
-            "AI-powered follow-up Q&A below the video",
-            "Support for multiple LLM providers (OpenAI-compatible)",
-            "Prompts and provider credentials fully customizable",
-            "Works on latest Firefox, Chrome, and more"
-        ],
-        "primary_use_case": "Summarizing YouTube videos using AI to quickly extract key insights.",
-        "open_issues": 0,
-        "cover_image_prompt": "Imagine a diligent librarian standing amidst towering shelves of YouTube videos, each represented as a colorful book. The librarian holds a magnifying glass, focusing on a single video, and a beam of light extracts the key information, transforming it into a concise summary displayed on a floating tablet. Subtle UI elements and code snippets float around the librarian, connecting the scene to software. The repository name, 'TubeSummary,' is subtly etched on the librarian's desk. The scene is set in a bright, organized library with a warm, inviting atmosphere. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 1005564798,
-        "name": "Twocast",
-        "description": "AI Podcast Generator for bilingual episodes, Multi Languages, Alternative to NotebookLLM；真人对话AI播客生成器，多语言，多音色",
-        "url": "https://github.com/panyanyany/Twocast",
-        "language": "TypeScript",
-        "stars": 955,
-        "forks": 84,
-        "created_at": "2025-06-20T12:33:14Z",
-        "updated_at": "2025-08-04T09:07:06Z",
+        "id": 1029255337,
+        "name": "rallies-cli",
+        "description": "Rallies is an AI powered investment research tool",
+        "url": "https://github.com/ralliesai/rallies-cli",
+        "language": "Python",
+        "stars": 98,
+        "forks": 11,
+        "created_at": "2025-07-30T18:54:25Z",
+        "updated_at": "2025-08-05T09:57:21Z",
         "topics": [
-            "podcast",
-            "podcast-generator",
-            "voice-cloning",
-            "voice-synthesis"
+            "agentic-ai",
+            "agents",
+            "finace",
+            "investing"
+        ],
+        "quality_score": 0.65,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-31T04:48:09Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/e1d8749ae201bf1f704e0a59b2abe3840ca12f8738fd6346bfd416b5fe733e29/ralliesai/rallies-cli"
+        ],
+        "homepage": "https://rallies.ai",
+        "readme_summary": "Rallies-cli is an AI-powered investment research tool that combines the conversational abilities of AI with real-time financial data. It allows traders and investors to perform complex queries, analyze market trends, and gain insights that are not readily available with traditional tools like ChatGPT due to their lack of real-time data. The tool provides functionalities for technical analysis, news monitoring, and advanced market analysis.",
+        "key_features": [
+            "AI-powered investment research",
+            "Real-time financial data integration",
+            "ChatGPT-like conversational interface for trading and investment analysis",
+            "Technical analysis tools",
+            "News and events monitoring"
+        ],
+        "primary_use_case": "Intelligent investment research and analysis using real-time financial data and AI.",
+        "open_issues": 1,
+        "cover_image_prompt": "Imagine a seasoned financial analyst, empowered by a futuristic AI assistant, meticulously crafting investment strategies. The analyst, surrounded by glowing charts and real-time market data streams, uses the AI tool to dissect complex financial information. The AI assistant, visualized as a helpful digital entity, highlights key insights and potential opportunities. Subtle UI elements display the 'rallies-cli' interface, showcasing real-time data analysis and investment recommendations. The scene is set in a modern, high-tech office with a vibrant, data-driven atmosphere. The illustration should be in a clean, 3D isometric style with bright, inviting colors and clear visual cues."
+    },
+    {
+        "id": 1029413969,
+        "name": "AgentGuard",
+        "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
+        "url": "https://github.com/dipampaul17/AgentGuard",
+        "language": "JavaScript",
+        "stars": 92,
+        "forks": 5,
+        "created_at": "2025-07-31T02:46:39Z",
+        "updated_at": "2025-08-05T05:24:41Z",
+        "topics": [
+            "ai-agents",
+            "anthropic",
+            "anthropic-claude",
+            "cost-monitoring",
+            "debugging",
+            "guardrails",
+            "llm",
+            "observability",
+            "openai",
+            "openai-api",
+            "prompt-engineering",
+            "token-usage"
+        ],
+        "quality_score": 0.6499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-31T15:20:54Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/90496f7a047354f79dbbdd4f9c5d322aa22429895c6b7286ff7ab7cc46a6636c/dipampaul17/AgentGuard"
+        ],
+        "homepage": "",
+        "readme_summary": "AgentGuard is a real-time guardrail for AI agents that monitors token spend and automatically stops execution when a defined cost limit is reached. It helps developers avoid unexpected high costs due to infinite loops or other bugs in their AI workflows by providing immediate feedback and control over API usage.",
+        "key_features": [
+            "Real-time monitoring of AI API costs",
+            "Automatic process termination when budget limit is reached",
+            "Multiple protection modes (throw, notify, kill)",
+            "Detailed savings reports"
+        ],
+        "primary_use_case": "Preventing runaway costs in AI agent development by monitoring token usage and terminating processes when a defined budget is exceeded.",
+        "open_issues": 0,
+        "cover_image_prompt": "A diligent accountant meticulously guarding a vault filled with digital coins, preventing them from overflowing into a fiery pit labeled 'Runaway Costs'. The accountant uses a high-tech monitor displaying real-time token usage and cost analysis. The vault is brightly lit, contrasting with the dark, ominous pit. Small UI elements on the monitor show code snippets and cost limits. The scene is set in a futuristic bank with glowing interfaces. The image should be in 3D isometric illustration style with vibrant colors and sharp details."
+    },
+    {
+        "id": 1020609153,
+        "name": "Bella",
+        "description": "Bella is best",
+        "url": "https://github.com/Jackywine/Bella",
+        "language": "JavaScript",
+        "stars": 5195,
+        "forks": 822,
+        "created_at": "2025-07-16T06:14:09Z",
+        "updated_at": "2025-08-05T10:11:21Z",
+        "topics": [],
+        "quality_score": 0.75,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-29T09:33:42Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/b0ea01066dfa980d2e801cac408ae6932060b816a5a5b32827e048789f5e6d2a/Jackywine/Bella"
+        ],
+        "homepage": "",
+        "readme_summary": "Bella AI is a digital companion built with JavaScript, Node.js, and AI models like Whisper and a local LLM. It offers voice perception, visual expression, and enhanced LLM dialogue, aiming to create a personalized and interactive experience. The project envisions a digital friend that evolves and grows with the user.",
+        "key_features": [
+            "Voice Perception (Whisper ASR)",
+            "Visual Expression (video playback with cross-fading)",
+            "User Interface (elegant and responsive)",
+            "AI Core Architecture (modular design)",
+            "Web Service (HTTP server, CORS support)",
+            "Model Management (automatic download)",
+            "Basic Interaction (affinity system, emotional feedback)",
+            "Enhanced LLM Dialogue (optimized prompts)"
+        ],
+        "primary_use_case": "A digital companion that provides voice-based interaction, visual expression, and AI-powered dialogue.",
+        "open_issues": 49,
+        "cover_image_prompt": "A friendly, glowing AI companion (Bella) extending a hand from a smartphone screen to a user. The user is smiling and reaching back, symbolizing a growing connection. The smartphone displays a simple, elegant chat interface. Subtle digital particles float around Bella, representing her intelligence and responsiveness. The background shows a blurred, modern living space, suggesting Bella's integration into daily life. The repository name, 'Bella AI,' is subtly displayed on the phone's screen. The image should be in a 3D isometric illustration style with soft, warm lighting and vibrant colors."
+    },
+    {
+        "id": 873956523,
+        "name": "say",
+        "description": "Say - A Whisper AI Notes app",
+        "url": "https://github.com/addyosmani/say",
+        "language": "TypeScript",
+        "stars": 312,
+        "forks": 30,
+        "created_at": "2024-10-17T02:25:01Z",
+        "updated_at": "2025-08-05T09:34:37Z",
+        "topics": [
+            "dictation",
+            "reactjs",
+            "transcription",
+            "voice-dictation",
+            "whisper-ai"
+        ],
+        "quality_score": 0.45,
+        "contributors_count": 0,
+        "last_commit_date": "2024-12-23T23:41:09Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/047ff638c961c05cc25ea1dcdd8a5a8ab1dc765b25217cb313e09df6d1578429/addyosmani/say"
+        ],
+        "homepage": "https://say.addy.ie",
+        "readme_summary": "Say is a voice transcription app that converts speech to text using machine learning directly in the browser. It offers features such as browser-based recording, rich text editing, audio visualization, and local storage, all within a modern and responsive user interface. The app is built with React, TypeScript, and utilizes technologies like Transformers.js and Tailwind CSS.",
+        "key_features": [
+            "Browser-based Recording",
+            "ML-Powered Transcription",
+            "Rich Text Editing",
+            "Audio Visualization",
+            "Local Storage",
+            "Modern UI",
+            "Fast Performance"
+        ],
+        "primary_use_case": "Voice transcription and note-taking within a browser environment.",
+        "open_issues": 2,
+        "cover_image_prompt": "A skilled scribe in a sunlit library, effortlessly transcribing spoken words from a floating, glowing microphone into elegantly formatted text on a digital scroll. The microphone captures the scribe's voice, visualized as shimmering sound waves transforming into clear, digital characters on the scroll. Subtle UI elements displaying transcription settings and real-time waveform visualizations are visible on nearby holographic displays. The scene is bathed in warm, inviting light, creating a sense of ease and efficiency. The image should be in a detailed digital painting style with soft gradients and a focus on clarity."
+    },
+    {
+        "id": 901023446,
+        "name": "mcp-knowledge-graph",
+        "description": "MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development",
+        "url": "https://github.com/shaneholloman/mcp-knowledge-graph",
+        "language": "JavaScript",
+        "stars": 544,
+        "forks": 75,
+        "created_at": "2024-12-09T22:41:07Z",
+        "updated_at": "2025-08-05T09:16:00Z",
+        "topics": [
+            "ai-memory",
+            "claude-ai",
+            "knowledge-graph",
+            "mcp",
+            "memory-server",
+            "typescript"
         ],
         "quality_score": 0.44999999999999996,
         "contributors_count": 0,
-        "last_commit_date": "2025-07-01T03:46:08Z",
+        "last_commit_date": "2025-05-29T14:14:34Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/a30df9b0d66af57e78f1cbfaecf3502c084bc6ac3e994b83fd8fa925c059547c/panyanyany/Twocast"
-        ],
-        "homepage": "https://twocast.app/",
-        "readme_summary": "Twocast is an AI podcast generator that creates bilingual, two-person podcasts. It supports multiple input methods, including topics, links, documents, and list pages, and generates podcasts with downloadable audio, outlines, and scripts. The platform integrates with Fish Audio, Minimax, and Google Gemini for voice synthesis and language processing.",
-        "key_features": [
-            "Two-person Podcast generation",
-            "Generates 3-5 minute podcasts with one click",
-            "Supports multiple generation methods: Topic, Link, Document (doc/pdf/txt), List Page",
-            "Multi-language support",
-            "Downloadable audio",
-            "Podcast content includes: Audio, Outline, Script",
-            "Supports Fish Audio, Minimax, Google Gemini"
-        ],
-        "primary_use_case": "AI-powered generation of bilingual, two-person podcasts from various input sources like topics, links, documents, and list pages.",
-        "open_issues": 0,
-        "cover_image_prompt": "Imagine a skilled playwright directing two AI actors on a stage. The playwright feeds scripts (documents, links, topics) into a control panel, which then generates outlines and scripts. The AI actors, represented by glowing humanoid figures, then perform a podcast dialogue, their voices synthesized and broadcast through speakers. The stage is surrounded by screens displaying waveforms and podcast outlines. The scene is set in a futuristic studio with dynamic lighting. Digital particles representing language flow between the playwright, the control panel, and the AI actors. The image should be in a 3D isometric illustration style with vibrant colors and clear details."
-    },
-    {
-        "id": 903039267,
-        "name": "BookLore",
-        "description": "BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.",
-        "url": "https://github.com/booklore-app/BookLore",
-        "language": "Java",
-        "stars": 3695,
-        "forks": 180,
-        "created_at": "2024-12-13T19:54:00Z",
-        "updated_at": "2025-08-04T09:42:35Z",
-        "topics": [
-            "angular",
-            "book-management",
-            "ebooks",
-            "java",
-            "library-management-system",
-            "metadata-management",
-            "oidc",
-            "opds",
-            "self-hosted",
-            "spring-boot"
-        ],
-        "quality_score": 1.0000000000000002,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-30T19:28:26Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/cf6b2458ac50293f156162805067a1b3c1395acf17a2fe1effbb54a00e5a624a/booklore-app/BookLore"
-        ],
-        "homepage": "",
-        "readme_summary": "BookLore is a self-hosted web application designed for organizing, managing, and reading personal book and comic collections. It offers features such as metadata management, multi-user support with permission controls, built-in readers for various ebook formats, and OPDS integration, providing a comprehensive solution for building and exploring a personal digital library.",
-        "key_features": [
-            "Powerful Book Organization with Libraries and Shelves",
-            "Intelligent Metadata Management from multiple sources",
-            "Multi-User Access with Permissions",
-            "Built-in PDF, ePub, and CBX Reader",
-            "OPDS 1.2 Integration",
-            "Flexible Authentication (OIDC, JWT)",
-            "Smart Batch Upload with BookDrop Folder",
-            "Send Books by Email",
-            "Mobile-Optimized UI",
-            "Open Source & Self-Hosted",
-            "Active Development"
-        ],
-        "primary_use_case": "Managing and reading personal book and comic collections in a self-hosted environment.",
-        "open_issues": 126,
-        "cover_image_prompt": "Imagine a grand library where books float gently in the air, guided by a friendly librarian who uses a magical interface to organize them. The librarian, with a warm smile, effortlessly categorizes books by genre, author, and even mood, as glowing metadata tags attach themselves to each volume. A subtle UI overlay shows a book's cover and reading progress. The scene is bathed in soft, inviting light, creating an atmosphere of organized discovery. Small digital particles swirl around the books, representing the flow of data. The repository name, 'BookLore,' is subtly etched into a nearby bookshelf. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 1006414368,
-        "name": "OpenCut",
-        "description": "The open-source CapCut alternative",
-        "url": "https://github.com/OpenCut-app/OpenCut",
-        "language": "TypeScript",
-        "stars": 29231,
-        "forks": 2692,
-        "created_at": "2025-06-22T08:02:17Z",
-        "updated_at": "2025-08-04T10:15:07Z",
-        "topics": [
-            "editor",
-            "oss",
-            "videoeditor"
-        ],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-04T01:14:14Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/3eb74659762fe7090a4e0295dc5806c3389dcfe832b8d0493dadb6743425332f/OpenCut-app/OpenCut"
-        ],
-        "homepage": "https://opencut.app",
-        "readme_summary": "OpenCut is an open-source video editor designed as an alternative to CapCut. It offers timeline-based editing, multi-track support, and real-time preview capabilities without watermarks or subscriptions. The project aims to provide a simple and privacy-focused video editing solution for web, desktop, and mobile platforms.",
-        "key_features": [
-            "Timeline-based editing",
-            "Multi-track support",
-            "Real-time preview",
-            "No watermarks or subscriptions"
-        ],
-        "primary_use_case": "Open-source video editing",
-        "open_issues": 100,
-        "cover_image_prompt": "A skilled artisan meticulously crafting a complex video sculpture from raw digital clay on a futuristic workbench. The artisan uses advanced tools to shape the clay, adding intricate details and effects. Finished sections of the sculpture float nearby, displaying vibrant colors and dynamic motion. Subtle UI elements and timelines are projected onto the workbench, showing the editing process. The repository's name, 'OpenCut,' is subtly etched into the base of the sculpture. The scene is brightly lit with a clean, modern aesthetic. The image should be in 3D isometric illustration style with crisp details and a vibrant color palette."
-    },
-    {
-        "id": 14434734,
-        "name": "binwalk",
-        "description": "Firmware Analysis Tool",
-        "url": "https://github.com/ReFirmLabs/binwalk",
-        "language": "Rust",
-        "stars": 12807,
-        "forks": 1670,
-        "created_at": "2013-11-15T20:45:40Z",
-        "updated_at": "2025-08-04T08:51:59Z",
-        "topics": [],
-        "quality_score": 0.95,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-15T18:28:58Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/f8aa84eaaefeabd7e69ca5a1e6b8a117a40192a3c8fed85c00a48b662dbff190/ReFirmLabs/binwalk"
+            "https://opengraph.githubassets.com/633f6c62ce52644a66260b3775c28f1d8cc597b8da7a0cddfdd37c52140056c6/shaneholloman/mcp-knowledge-graph"
         ],
         "homepage": null,
-        "readme_summary": "Binwalk is a firmware analysis tool written in Rust that identifies and extracts embedded files and data from various file types. It utilizes entropy analysis to detect compression or encryption and can be integrated into other Rust projects. The tool aims to provide fast and detailed analysis results.",
+        "readme_summary": "The `mcp-knowledge-graph` repository provides a local knowledge graph memory server for AI models, enabling persistent memory across chats. It utilizes entities, relations, and observations to structure knowledge and offers an API for managing the knowledge graph. This allows AI models to remember user information and context.",
         "key_features": [
-            "Identifies embedded files and data.",
-            "Extracts embedded files and data.",
-            "Supports a wide variety of file types.",
-            "Performs entropy analysis to identify compression or encryption.",
-            "Can be integrated into Rust projects."
+            "Persistent memory for AI models",
+            "Local knowledge graph storage",
+            "Customizable memory path",
+            "Entities, Relations, and Observations data model",
+            "API for creating, deleting, and reading entities, relations, and observations"
         ],
-        "primary_use_case": "Firmware analysis",
-        "open_issues": 32,
-        "cover_image_prompt": "An archaeologist carefully brushing away sand from an ancient artifact (firmware) to reveal hidden chambers (embedded files) within. The archaeologist uses a magnifying glass that displays subtle code snippets and data visualizations. The artifact rests on a table in a brightly lit tent, with digital particles swirling around it, highlighting the analysis process. The repository name, 'Binwalk,' is subtly etched onto the table. The scene is in a 3D isometric illustration style with clear details and a warm color scheme."
+        "primary_use_case": "Providing AI models with persistent memory by storing and retrieving information from a local knowledge graph.",
+        "open_issues": 4,
+        "cover_image_prompt": "Imagine a librarian meticulously organizing thoughts and memories represented as glowing orbs, placing them into a vast, interconnected network of shelves symbolizing a knowledge graph. The librarian, with a focused expression, uses a magnifying glass to examine each orb before carefully positioning it. Subtle UI elements float around the scene, displaying entity names and relationships. The setting is a grand, futuristic library with soft, ambient lighting. The image should be in a 3D isometric illustration style with rich details and a warm color scheme."
     }
 ]
