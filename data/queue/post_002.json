@@ -1,0 +1,7 @@
+{
+    "project_id": 995113401,
+    "content": "🔥 <b>unregistry</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDeploying Docker images to remote servers without the overhead of managing a container registry.\n<br>\n✨ <b>Key Features:</b>\n• Directly pushes Docker images to remote servers\n• Eliminates the need for an external registry\n• Transfers only missing layers for efficiency\n• Uses SSH for secure transfer\n<br>\n📖 <b>Summary:</b>\nUnregistry allows users to push Docker images directly to remote servers over SSH, bypassing the need for a container registry. It efficiently transfers only the missing layers, making the process faster and more resource-friendly than traditional methods like save/load or rebuilding remotely. This tool simplifies image deployment for scenarios where a full-fledged registry is unnecessary.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/psviderski/unregistry?embed=0\">View Project</a>\n• <a href=\"https://uncloud.run?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/e159cdf2fbd2ae68cd04a908fae262e890348d8b111400cbad5546f5c97b04c1/psviderski/unregistry",
+    "platform": "telegram",
+    "quality_score": 0.85
+}

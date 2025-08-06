@@ -1,222 +1,213 @@
 [
     {
-        "id": 938279809,
-        "name": "desktop_homunculus",
-        "description": "Desktop mascot built with bevy",
-        "url": "https://github.com/not-elm/desktop_homunculus",
-        "language": "Rust",
-        "stars": 25,
-        "forks": 1,
-        "created_at": "2025-02-24T17:48:00Z",
-        "updated_at": "2025-08-05T09:07:00Z",
-        "topics": [
-            "bevy",
-            "desktop-pet",
-            "vrm",
-            "vrma"
-        ],
-        "quality_score": 0.65,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-31T14:29:13Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/ac5be8dcf3412b65b9a17c67290387bc80b9e37596f49ca4b17e2fcf19525ce6/not-elm/desktop_homunculus"
-        ],
-        "homepage": "",
-        "readme_summary": "Desktop Homunculus is a Rust-based application that uses the Bevy game engine to create interactive desktop pets. It features AI-powered chat integration with ChatGPT and VoiceVox, advanced VRM character support, and an extensible MOD system for customization. The application aims to enhance the user experience by providing a personalized and engaging desktop companion.",
-        "key_features": [
-            "AI-Powered Chat Integration (ChatGPT, VoiceVox)",
-            "Advanced VRM Character System (Multiple Models, VRMA Support)",
-            "Extensible MOD System (TypeScript SDK, HTTP API)",
-            "Power Efficient Design (Framerate Optimization)",
-            "Developer-Friendly Architecture (Bevy Game Engine, WebView Integration, Cross-Platform)"
-        ],
-        "primary_use_case": "A cross-platform desktop pet application that brings intelligent 3D VRM characters to life on your desktop, allowing for AI-powered conversations, custom animations, and interactions with your workflow.",
-        "open_issues": 1,
-        "cover_image_prompt": "Imagine a friendly, customizable digital avatar perched on the edge of a computer screen, acting as a helpful assistant. The avatar is interacting with floating windows and applications, organizing them with a playful touch. Small speech bubbles display snippets of conversation, powered by AI, while subtle code elements glow softly in the background. The scene is set in a bright, modern workspace with a clean and inviting atmosphere. The image should be in a 3D isometric illustration style with vibrant colors and crisp details, conveying a sense of helpfulness and technological integration."
-    },
-    {
-        "id": 1029255337,
-        "name": "rallies-cli",
-        "description": "Rallies is an AI powered investment research tool",
-        "url": "https://github.com/ralliesai/rallies-cli",
-        "language": "Python",
-        "stars": 98,
-        "forks": 11,
-        "created_at": "2025-07-30T18:54:25Z",
-        "updated_at": "2025-08-05T09:57:21Z",
-        "topics": [
-            "agentic-ai",
-            "agents",
-            "finace",
-            "investing"
-        ],
-        "quality_score": 0.65,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-31T04:48:09Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/e1d8749ae201bf1f704e0a59b2abe3840ca12f8738fd6346bfd416b5fe733e29/ralliesai/rallies-cli"
-        ],
-        "homepage": "https://rallies.ai",
-        "readme_summary": "Rallies-cli is an AI-powered investment research tool that combines the conversational abilities of AI with real-time financial data. It allows traders and investors to perform complex queries, analyze market trends, and gain insights that are not readily available with traditional tools like ChatGPT due to their lack of real-time data. The tool provides functionalities for technical analysis, news monitoring, and advanced market analysis.",
-        "key_features": [
-            "AI-powered investment research",
-            "Real-time financial data integration",
-            "ChatGPT-like conversational interface for trading and investment analysis",
-            "Technical analysis tools",
-            "News and events monitoring"
-        ],
-        "primary_use_case": "Intelligent investment research and analysis using real-time financial data and AI.",
-        "open_issues": 1,
-        "cover_image_prompt": "Imagine a seasoned financial analyst, empowered by a futuristic AI assistant, meticulously crafting investment strategies. The analyst, surrounded by glowing charts and real-time market data streams, uses the AI tool to dissect complex financial information. The AI assistant, visualized as a helpful digital entity, highlights key insights and potential opportunities. Subtle UI elements display the 'rallies-cli' interface, showcasing real-time data analysis and investment recommendations. The scene is set in a modern, high-tech office with a vibrant, data-driven atmosphere. The illustration should be in a clean, 3D isometric style with bright, inviting colors and clear visual cues."
-    },
-    {
-        "id": 1029413969,
-        "name": "AgentGuard",
-        "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
-        "url": "https://github.com/dipampaul17/AgentGuard",
-        "language": "JavaScript",
-        "stars": 92,
-        "forks": 5,
-        "created_at": "2025-07-31T02:46:39Z",
-        "updated_at": "2025-08-05T05:24:41Z",
-        "topics": [
-            "ai-agents",
-            "anthropic",
-            "anthropic-claude",
-            "cost-monitoring",
-            "debugging",
-            "guardrails",
-            "llm",
-            "observability",
-            "openai",
-            "openai-api",
-            "prompt-engineering",
-            "token-usage"
-        ],
-        "quality_score": 0.6499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-31T15:20:54Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/90496f7a047354f79dbbdd4f9c5d322aa22429895c6b7286ff7ab7cc46a6636c/dipampaul17/AgentGuard"
-        ],
-        "homepage": "",
-        "readme_summary": "AgentGuard is a real-time guardrail for AI agents that monitors token spend and automatically stops execution when a defined cost limit is reached. It helps developers avoid unexpected high costs due to infinite loops or other bugs in their AI workflows by providing immediate feedback and control over API usage.",
-        "key_features": [
-            "Real-time monitoring of AI API costs",
-            "Automatic process termination when budget limit is reached",
-            "Multiple protection modes (throw, notify, kill)",
-            "Detailed savings reports"
-        ],
-        "primary_use_case": "Preventing runaway costs in AI agent development by monitoring token usage and terminating processes when a defined budget is exceeded.",
-        "open_issues": 0,
-        "cover_image_prompt": "A diligent accountant meticulously guarding a vault filled with digital coins, preventing them from overflowing into a fiery pit labeled 'Runaway Costs'. The accountant uses a high-tech monitor displaying real-time token usage and cost analysis. The vault is brightly lit, contrasting with the dark, ominous pit. Small UI elements on the monitor show code snippets and cost limits. The scene is set in a futuristic bank with glowing interfaces. The image should be in 3D isometric illustration style with vibrant colors and sharp details."
-    },
-    {
-        "id": 1020609153,
-        "name": "Bella",
-        "description": "Bella is best",
-        "url": "https://github.com/Jackywine/Bella",
-        "language": "JavaScript",
-        "stars": 5195,
-        "forks": 822,
-        "created_at": "2025-07-16T06:14:09Z",
-        "updated_at": "2025-08-05T10:11:21Z",
+        "id": 987670088,
+        "name": "crush",
+        "description": "The glamourous AI coding agent for your favourite terminal 💘",
+        "url": "https://github.com/charmbracelet/crush",
+        "language": "Go",
+        "stars": 7580,
+        "forks": 316,
+        "created_at": "2025-05-21T12:14:57Z",
+        "updated_at": "2025-08-06T10:09:56Z",
         "topics": [],
-        "quality_score": 0.75,
+        "quality_score": 0.85,
         "contributors_count": 0,
-        "last_commit_date": "2025-07-29T09:33:42Z",
+        "last_commit_date": "2025-08-06T10:04:53Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/b0ea01066dfa980d2e801cac408ae6932060b816a5a5b32827e048789f5e6d2a/Jackywine/Bella"
+            "https://repository-images.githubusercontent.com/987670088/9247ccb4-650d-4811-ba21-a1b5b47b4e70"
         ],
         "homepage": "",
-        "readme_summary": "Bella AI is a digital companion built with JavaScript, Node.js, and AI models like Whisper and a local LLM. It offers voice perception, visual expression, and enhanced LLM dialogue, aiming to create a personalized and interactive experience. The project envisions a digital friend that evolves and grows with the user.",
+        "readme_summary": "Crush is an AI coding agent designed to enhance the developer experience within the terminal. It offers features such as multi-model LLM support, session-based context management, and LSP integration to provide intelligent code suggestions and assistance. Crush aims to streamline coding workflows and improve developer productivity across various operating systems.",
         "key_features": [
-            "Voice Perception (Whisper ASR)",
-            "Visual Expression (video playback with cross-fading)",
-            "User Interface (elegant and responsive)",
-            "AI Core Architecture (modular design)",
-            "Web Service (HTTP server, CORS support)",
-            "Model Management (automatic download)",
-            "Basic Interaction (affinity system, emotional feedback)",
-            "Enhanced LLM Dialogue (optimized prompts)"
+            "Multi-Model LLM support",
+            "Flexible LLM switching",
+            "Session-based context management",
+            "LSP-enhanced context",
+            "Extensible capabilities via MCPs",
+            "Cross-platform compatibility"
         ],
-        "primary_use_case": "A digital companion that provides voice-based interaction, visual expression, and AI-powered dialogue.",
-        "open_issues": 49,
-        "cover_image_prompt": "A friendly, glowing AI companion (Bella) extending a hand from a smartphone screen to a user. The user is smiling and reaching back, symbolizing a growing connection. The smartphone displays a simple, elegant chat interface. Subtle digital particles float around Bella, representing her intelligence and responsiveness. The background shows a blurred, modern living space, suggesting Bella's integration into daily life. The repository name, 'Bella AI,' is subtly displayed on the phone's screen. The image should be in a 3D isometric illustration style with soft, warm lighting and vibrant colors."
+        "primary_use_case": "AI-assisted coding in the terminal",
+        "open_issues": 140,
+        "cover_image_prompt": "Imagine a skilled artisan in a workshop, meticulously crafting code with the help of a magical, glowing assistant. The artisan, representing the developer, is shaping lines of code on a digital canvas, while the assistant, embodying Crush, whispers suggestions and insights. The workshop is filled with subtle tech elements: floating code snippets, holographic documentation, and glowing particles of data. The artisan's tools are seamlessly integrated with the assistant, creating a harmonious workflow. The scene is bathed in soft, ethereal light, creating a sense of collaboration and innovation. The image should be in a 3D isometric illustration style with vibrant colors and rich details, subtly incorporating the Crush logo."
     },
     {
-        "id": 873956523,
-        "name": "say",
-        "description": "Say - A Whisper AI Notes app",
-        "url": "https://github.com/addyosmani/say",
-        "language": "TypeScript",
-        "stars": 312,
-        "forks": 30,
-        "created_at": "2024-10-17T02:25:01Z",
-        "updated_at": "2025-08-05T09:34:37Z",
+        "id": 1010007564,
+        "name": "erys",
+        "description": "erys: Terminal Interface for Jupyter Notebooks.",
+        "url": "https://github.com/natibek/erys",
+        "language": "Python",
+        "stars": 64,
+        "forks": 1,
+        "created_at": "2025-06-28T06:30:49Z",
+        "updated_at": "2025-08-06T04:23:01Z",
         "topics": [
-            "dictation",
-            "reactjs",
-            "transcription",
-            "voice-dictation",
-            "whisper-ai"
+            "jupyter-notebook",
+            "terminal",
+            "textual",
+            "tui"
         ],
-        "quality_score": 0.45,
+        "quality_score": 0.65,
         "contributors_count": 0,
-        "last_commit_date": "2024-12-23T23:41:09Z",
+        "last_commit_date": "2025-07-28T23:53:24Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/047ff638c961c05cc25ea1dcdd8a5a8ab1dc765b25217cb313e09df6d1578429/addyosmani/say"
+            "https://opengraph.githubassets.com/62b29fdf7a3cd412bed92b51d30c033b9fd22c0eab9a15a172d17fa8c7c7904b/natibek/erys"
         ],
-        "homepage": "https://say.addy.ie",
-        "readme_summary": "Say is a voice transcription app that converts speech to text using machine learning directly in the browser. It offers features such as browser-based recording, rich text editing, audio visualization, and local storage, all within a modern and responsive user interface. The app is built with React, TypeScript, and utilizes technologies like Transformers.js and Tailwind CSS.",
+        "homepage": "https://pypi.org/project/erys/",
+        "readme_summary": "Erys is a terminal interface for Jupyter Notebooks, enabling users to open, create, edit, run, and save notebooks and other text files directly from the terminal. It leverages Textual for the interface and jupyter_client for code execution, providing a streamlined workflow for developers who prefer a terminal-based environment.",
         "key_features": [
-            "Browser-based Recording",
-            "ML-Powered Transcription",
-            "Rich Text Editing",
-            "Audio Visualization",
-            "Local Storage",
-            "Modern UI",
-            "Fast Performance"
+            "Opening existing Jupyter Notebooks",
+            "Creating, editing, and saving Jupyter Notebooks",
+            "Executing Python code within code cells in the terminal",
+            "Directory tree navigation for file management",
+            "Saving notebooks in format version 4.5"
         ],
-        "primary_use_case": "Voice transcription and note-taking within a browser environment.",
-        "open_issues": 2,
-        "cover_image_prompt": "A skilled scribe in a sunlit library, effortlessly transcribing spoken words from a floating, glowing microphone into elegantly formatted text on a digital scroll. The microphone captures the scribe's voice, visualized as shimmering sound waves transforming into clear, digital characters on the scroll. Subtle UI elements displaying transcription settings and real-time waveform visualizations are visible on nearby holographic displays. The scene is bathed in warm, inviting light, creating a sense of ease and efficiency. The image should be in a detailed digital painting style with soft gradients and a focus on clarity."
+        "primary_use_case": "Interacting with Jupyter Notebooks directly from the terminal.",
+        "open_issues": 1,
+        "cover_image_prompt": "Imagine a skilled conductor leading an orchestra, but instead of musicians, the orchestra is composed of glowing Jupyter Notebook cells. The conductor, representing Erys, stands at a terminal, using it as a baton to orchestrate the execution of code within each cell. Each cell glows brighter as it's activated, and the terminal screen displays the output in a visually appealing way. The scene is set in a modern, minimalist studio with soft, ambient lighting. Subtle UI elements and code snippets float around the conductor, connecting the metaphor to software. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
     },
     {
-        "id": 901023446,
-        "name": "mcp-knowledge-graph",
-        "description": "MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development",
-        "url": "https://github.com/shaneholloman/mcp-knowledge-graph",
-        "language": "JavaScript",
-        "stars": 544,
-        "forks": 75,
-        "created_at": "2024-12-09T22:41:07Z",
-        "updated_at": "2025-08-05T09:16:00Z",
+        "id": 995113401,
+        "name": "unregistry",
+        "description": "Push docker images directly to remote servers without an external registry",
+        "url": "https://github.com/psviderski/unregistry",
+        "language": "Go",
+        "stars": 3600,
+        "forks": 51,
+        "created_at": "2025-06-03T01:48:51Z",
+        "updated_at": "2025-08-06T09:46:05Z",
         "topics": [
-            "ai-memory",
-            "claude-ai",
-            "knowledge-graph",
-            "mcp",
-            "memory-server",
-            "typescript"
+            "containerd",
+            "docker",
+            "golang",
+            "kubernetes",
+            "oci",
+            "registry"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-22T06:57:56Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/e159cdf2fbd2ae68cd04a908fae262e890348d8b111400cbad5546f5c97b04c1/psviderski/unregistry"
+        ],
+        "homepage": "https://uncloud.run",
+        "readme_summary": "Unregistry allows users to push Docker images directly to remote servers over SSH, bypassing the need for a container registry. It efficiently transfers only the missing layers, making the process faster and more resource-friendly than traditional methods like save/load or rebuilding remotely. This tool simplifies image deployment for scenarios where a full-fledged registry is unnecessary.",
+        "key_features": [
+            "Directly pushes Docker images to remote servers",
+            "Eliminates the need for an external registry",
+            "Transfers only missing layers for efficiency",
+            "Uses SSH for secure transfer"
+        ],
+        "primary_use_case": "Deploying Docker images to remote servers without the overhead of managing a container registry.",
+        "open_issues": 12,
+        "cover_image_prompt": "Imagine a skilled archer effortlessly firing arrows (representing Docker images) directly from their quiver (local Docker daemon) to a distant target (remote server) without needing a middleman or intermediary (external registry). The archer stands confidently, with a subtle digital interface on their arm displaying transfer progress. The target glows faintly, indicating successful image delivery. The scene is set in a minimalist, clean environment with soft, diffused lighting. The illustration should be in a 3D isometric style with a focus on clarity and ease of understanding."
+    },
+    {
+        "id": 948904124,
+        "name": "Skywork-R1V",
+        "description": "Skywork-R1V is an advanced multimodal AI model series developed by Skywork AI (Kunlun Inc.), specializing in vision-language reasoning.",
+        "url": "https://github.com/SkyworkAI/Skywork-R1V",
+        "language": "Python",
+        "stars": 2923,
+        "forks": 267,
+        "created_at": "2025-03-15T08:11:44Z",
+        "updated_at": "2025-08-06T06:15:09Z",
+        "topics": [
+            "deepseek-r1",
+            "grpo",
+            "llm",
+            "multimodal-r1",
+            "multimodal-understanding",
+            "r1v",
+            "reasoning",
+            "reinforcement-learning",
+            "skywork-r1v",
+            "vlm",
+            "vlm-r1"
+        ],
+        "quality_score": 0.8,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-02T12:41:47Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/50dae545e87a81517fd6a9a8c53d55865e19e5bc49c73597cd19c41ce83c684b/SkyworkAI/Skywork-R1V"
+        ],
+        "homepage": "https://arxiv.org/abs/2507.06167",
+        "readme_summary": "Skywork-R1V is a multimodal AI model series specializing in vision-language reasoning. It leverages reinforcement learning for fine-tuning and achieves state-of-the-art performance on various multimodal reasoning benchmarks. Quantized versions are available for efficient inference on different hardware configurations.",
+        "key_features": [
+            "Multimodal reasoning",
+            "Vision-language understanding",
+            "Reinforcement learning fine-tuning",
+            "Quantized versions for efficient inference (AWQ, GGUF)",
+            "State-of-the-art performance on multimodal reasoning benchmarks"
+        ],
+        "primary_use_case": "Multimodal reasoning and understanding, particularly for vision-language tasks.",
+        "open_issues": 26,
+        "cover_image_prompt": "Imagine a skilled cartographer meticulously charting a vast, uncharted territory using a magical lens. The lens transforms fragmented images and scattered data points into a cohesive, detailed map, revealing hidden pathways and connections. The cartographer works in a futuristic library filled with glowing screens displaying multimodal data streams and intricate reasoning algorithms. Small UI elements show the Skywork-R1V logo and data visualization interfaces. The scene is bathed in soft, ethereal light, creating a sense of discovery and understanding. The image should be in a 3D isometric illustration style with vibrant colors and intricate details."
+    },
+    {
+        "id": 924722083,
+        "name": "ui-experiments",
+        "description": "Beautifully designed open-source layouts and UI experiments built with Origin UI and shadcn/ui.",
+        "url": "https://github.com/origin-space/ui-experiments",
+        "language": "TypeScript",
+        "stars": 1165,
+        "forks": 137,
+        "created_at": "2025-01-30T14:42:26Z",
+        "updated_at": "2025-08-06T09:53:22Z",
+        "topics": [],
+        "quality_score": 0.4,
+        "contributors_count": 0,
+        "last_commit_date": "2025-05-16T17:45:22Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/1852fcc6ca32fb65bbf3f68c4bbdf08e504bee321b64a98ab330f344d104e5ec/origin-space/ui-experiments"
+        ],
+        "homepage": "https://originui.com/layouts",
+        "readme_summary": "The ui-experiments repository offers a collection of beautifully designed, open-source UI layouts and experiments. It leverages Origin UI and shadcn/ui components, providing developers with practical examples and starting points for their projects. The repository also includes a shadcn/ui monorepo template for streamlined development.",
+        "key_features": [
+            "Pre-designed layouts",
+            "UI experiments",
+            "shadcn/ui monorepo template",
+            "Origin UI components"
+        ],
+        "primary_use_case": "Providing developers with ready-to-use UI layouts and experiments built with Origin UI and shadcn/ui to accelerate development and inspire design.",
+        "open_issues": 1,
+        "cover_image_prompt": "A skilled architect meticulously arranging pre-designed building blocks (UI components) to construct diverse and visually appealing layouts on a digital blueprint. The blueprint displays various UI elements like dashboards, calendars, and charts. Subtle digital particles flow around the blocks, representing code and data. A small screen in the background displays the repository name 'ui-experiments'. The scene is set in a bright, modern design studio with isometric perspective. The image should be in 3D isometric illustration style with clean lines, vibrant colors, and a focus on clarity."
+    },
+    {
+        "id": 994310603,
+        "name": "gmail-tui",
+        "description": "gmail but in your terminal using go",
+        "url": "https://github.com/rdx40/gmail-tui",
+        "language": "Go",
+        "stars": 32,
+        "forks": 2,
+        "created_at": "2025-06-01T17:07:10Z",
+        "updated_at": "2025-08-06T07:47:09Z",
+        "topics": [
+            "gmail",
+            "go",
+            "go-application",
+            "golang-application"
         ],
         "quality_score": 0.44999999999999996,
         "contributors_count": 0,
-        "last_commit_date": "2025-05-29T14:14:34Z",
+        "last_commit_date": "2025-07-07T17:42:45Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/633f6c62ce52644a66260b3775c28f1d8cc597b8da7a0cddfdd37c52140056c6/shaneholloman/mcp-knowledge-graph"
+            "https://opengraph.githubassets.com/cb4fcbbe16d7fd3adef16eb171c69c29113e783b911701f29f7716a96f069ebb/rdx40/gmail-tui"
         ],
-        "homepage": null,
-        "readme_summary": "The `mcp-knowledge-graph` repository provides a local knowledge graph memory server for AI models, enabling persistent memory across chats. It utilizes entities, relations, and observations to structure knowledge and offers an API for managing the knowledge graph. This allows AI models to remember user information and context.",
+        "homepage": "",
+        "readme_summary": "Gmail TUI is a terminal-based Gmail client that allows users to manage their email directly from the command line. It offers features like composing emails, managing labels, searching, and handling attachments, all with a focus on keyboard navigation and efficiency. The application uses OAuth2 for secure authentication and provides a lightweight alternative to the web-based Gmail interface.",
         "key_features": [
-            "Persistent memory for AI models",
-            "Local knowledge graph storage",
-            "Customizable memory path",
-            "Entities, Relations, and Observations data model",
-            "API for creating, deleting, and reading entities, relations, and observations"
+            "Full email management in the terminal",
+            "Secure OAuth2 authentication",
+            "Keyboard-driven navigation",
+            "Rich text composition with attachments",
+            "Gmail label integration",
+            "Advanced search with Gmail operators",
+            "Offline cache",
+            "Customizable themes"
         ],
-        "primary_use_case": "Providing AI models with persistent memory by storing and retrieving information from a local knowledge graph.",
-        "open_issues": 4,
-        "cover_image_prompt": "Imagine a librarian meticulously organizing thoughts and memories represented as glowing orbs, placing them into a vast, interconnected network of shelves symbolizing a knowledge graph. The librarian, with a focused expression, uses a magnifying glass to examine each orb before carefully positioning it. Subtle UI elements float around the scene, displaying entity names and relationships. The setting is a grand, futuristic library with soft, ambient lighting. The image should be in a 3D isometric illustration style with rich details and a warm color scheme."
+        "primary_use_case": "Managing Gmail within a terminal interface for increased efficiency and keyboard-centric workflow.",
+        "open_issues": 3,
+        "cover_image_prompt": "Imagine a bustling post office where tiny robots, each representing a line of code, are diligently sorting and delivering digital letters (emails). The main robot, labeled 'Gmail-TUI', stands at a central console, efficiently managing the flow of messages with a keyboard. Some robots are composing letters with miniature styluses, while others are attaching digital files. The post office is filled with glowing screens displaying email labels and search queries. The scene is rendered in a clean, 3D isometric illustration style with bright, cheerful colors and subtle tech details."
     }
 ]
