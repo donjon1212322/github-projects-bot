@@ -1,213 +1,264 @@
 [
     {
-        "id": 987670088,
-        "name": "crush",
-        "description": "The glamourous AI coding agent for your favourite terminal 💘",
-        "url": "https://github.com/charmbracelet/crush",
-        "language": "Go",
-        "stars": 7580,
-        "forks": 316,
-        "created_at": "2025-05-21T12:14:57Z",
-        "updated_at": "2025-08-06T10:09:56Z",
-        "topics": [],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-06T10:04:53Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/987670088/9247ccb4-650d-4811-ba21-a1b5b47b4e70"
-        ],
-        "homepage": "",
-        "readme_summary": "Crush is an AI coding agent designed to enhance the developer experience within the terminal. It offers features such as multi-model LLM support, session-based context management, and LSP integration to provide intelligent code suggestions and assistance. Crush aims to streamline coding workflows and improve developer productivity across various operating systems.",
-        "key_features": [
-            "Multi-Model LLM support",
-            "Flexible LLM switching",
-            "Session-based context management",
-            "LSP-enhanced context",
-            "Extensible capabilities via MCPs",
-            "Cross-platform compatibility"
-        ],
-        "primary_use_case": "AI-assisted coding in the terminal",
-        "open_issues": 140,
-        "cover_image_prompt": "Imagine a skilled artisan in a workshop, meticulously crafting code with the help of a magical, glowing assistant. The artisan, representing the developer, is shaping lines of code on a digital canvas, while the assistant, embodying Crush, whispers suggestions and insights. The workshop is filled with subtle tech elements: floating code snippets, holographic documentation, and glowing particles of data. The artisan's tools are seamlessly integrated with the assistant, creating a harmonious workflow. The scene is bathed in soft, ethereal light, creating a sense of collaboration and innovation. The image should be in a 3D isometric illustration style with vibrant colors and rich details, subtly incorporating the Crush logo."
-    },
-    {
-        "id": 1010007564,
-        "name": "erys",
-        "description": "erys: Terminal Interface for Jupyter Notebooks.",
-        "url": "https://github.com/natibek/erys",
-        "language": "Python",
-        "stars": 64,
-        "forks": 1,
-        "created_at": "2025-06-28T06:30:49Z",
-        "updated_at": "2025-08-06T04:23:01Z",
-        "topics": [
-            "jupyter-notebook",
-            "terminal",
-            "textual",
-            "tui"
-        ],
-        "quality_score": 0.65,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-28T23:53:24Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/62b29fdf7a3cd412bed92b51d30c033b9fd22c0eab9a15a172d17fa8c7c7904b/natibek/erys"
-        ],
-        "homepage": "https://pypi.org/project/erys/",
-        "readme_summary": "Erys is a terminal interface for Jupyter Notebooks, enabling users to open, create, edit, run, and save notebooks and other text files directly from the terminal. It leverages Textual for the interface and jupyter_client for code execution, providing a streamlined workflow for developers who prefer a terminal-based environment.",
-        "key_features": [
-            "Opening existing Jupyter Notebooks",
-            "Creating, editing, and saving Jupyter Notebooks",
-            "Executing Python code within code cells in the terminal",
-            "Directory tree navigation for file management",
-            "Saving notebooks in format version 4.5"
-        ],
-        "primary_use_case": "Interacting with Jupyter Notebooks directly from the terminal.",
-        "open_issues": 1,
-        "cover_image_prompt": "Imagine a skilled conductor leading an orchestra, but instead of musicians, the orchestra is composed of glowing Jupyter Notebook cells. The conductor, representing Erys, stands at a terminal, using it as a baton to orchestrate the execution of code within each cell. Each cell glows brighter as it's activated, and the terminal screen displays the output in a visually appealing way. The scene is set in a modern, minimalist studio with soft, ambient lighting. Subtle UI elements and code snippets float around the conductor, connecting the metaphor to software. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 995113401,
-        "name": "unregistry",
-        "description": "Push docker images directly to remote servers without an external registry",
-        "url": "https://github.com/psviderski/unregistry",
-        "language": "Go",
-        "stars": 3600,
-        "forks": 51,
-        "created_at": "2025-06-03T01:48:51Z",
-        "updated_at": "2025-08-06T09:46:05Z",
-        "topics": [
-            "containerd",
-            "docker",
-            "golang",
-            "kubernetes",
-            "oci",
-            "registry"
-        ],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-22T06:57:56Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/e159cdf2fbd2ae68cd04a908fae262e890348d8b111400cbad5546f5c97b04c1/psviderski/unregistry"
-        ],
-        "homepage": "https://uncloud.run",
-        "readme_summary": "Unregistry allows users to push Docker images directly to remote servers over SSH, bypassing the need for a container registry. It efficiently transfers only the missing layers, making the process faster and more resource-friendly than traditional methods like save/load or rebuilding remotely. This tool simplifies image deployment for scenarios where a full-fledged registry is unnecessary.",
-        "key_features": [
-            "Directly pushes Docker images to remote servers",
-            "Eliminates the need for an external registry",
-            "Transfers only missing layers for efficiency",
-            "Uses SSH for secure transfer"
-        ],
-        "primary_use_case": "Deploying Docker images to remote servers without the overhead of managing a container registry.",
-        "open_issues": 12,
-        "cover_image_prompt": "Imagine a skilled archer effortlessly firing arrows (representing Docker images) directly from their quiver (local Docker daemon) to a distant target (remote server) without needing a middleman or intermediary (external registry). The archer stands confidently, with a subtle digital interface on their arm displaying transfer progress. The target glows faintly, indicating successful image delivery. The scene is set in a minimalist, clean environment with soft, diffused lighting. The illustration should be in a 3D isometric style with a focus on clarity and ease of understanding."
-    },
-    {
-        "id": 948904124,
-        "name": "Skywork-R1V",
-        "description": "Skywork-R1V is an advanced multimodal AI model series developed by Skywork AI (Kunlun Inc.), specializing in vision-language reasoning.",
-        "url": "https://github.com/SkyworkAI/Skywork-R1V",
-        "language": "Python",
-        "stars": 2923,
-        "forks": 267,
-        "created_at": "2025-03-15T08:11:44Z",
-        "updated_at": "2025-08-06T06:15:09Z",
-        "topics": [
-            "deepseek-r1",
-            "grpo",
-            "llm",
-            "multimodal-r1",
-            "multimodal-understanding",
-            "r1v",
-            "reasoning",
-            "reinforcement-learning",
-            "skywork-r1v",
-            "vlm",
-            "vlm-r1"
-        ],
-        "quality_score": 0.8,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-02T12:41:47Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/50dae545e87a81517fd6a9a8c53d55865e19e5bc49c73597cd19c41ce83c684b/SkyworkAI/Skywork-R1V"
-        ],
-        "homepage": "https://arxiv.org/abs/2507.06167",
-        "readme_summary": "Skywork-R1V is a multimodal AI model series specializing in vision-language reasoning. It leverages reinforcement learning for fine-tuning and achieves state-of-the-art performance on various multimodal reasoning benchmarks. Quantized versions are available for efficient inference on different hardware configurations.",
-        "key_features": [
-            "Multimodal reasoning",
-            "Vision-language understanding",
-            "Reinforcement learning fine-tuning",
-            "Quantized versions for efficient inference (AWQ, GGUF)",
-            "State-of-the-art performance on multimodal reasoning benchmarks"
-        ],
-        "primary_use_case": "Multimodal reasoning and understanding, particularly for vision-language tasks.",
-        "open_issues": 26,
-        "cover_image_prompt": "Imagine a skilled cartographer meticulously charting a vast, uncharted territory using a magical lens. The lens transforms fragmented images and scattered data points into a cohesive, detailed map, revealing hidden pathways and connections. The cartographer works in a futuristic library filled with glowing screens displaying multimodal data streams and intricate reasoning algorithms. Small UI elements show the Skywork-R1V logo and data visualization interfaces. The scene is bathed in soft, ethereal light, creating a sense of discovery and understanding. The image should be in a 3D isometric illustration style with vibrant colors and intricate details."
-    },
-    {
-        "id": 924722083,
-        "name": "ui-experiments",
-        "description": "Beautifully designed open-source layouts and UI experiments built with Origin UI and shadcn/ui.",
-        "url": "https://github.com/origin-space/ui-experiments",
+        "id": 960686967,
+        "name": "robo-boy",
+        "description": "A web application for controlling ROS 2 robots, tailored for mobile usage. Inspired by retro handheld consoles.",
+        "url": "https://github.com/tessel-la/robo-boy",
         "language": "TypeScript",
-        "stars": 1165,
-        "forks": 137,
-        "created_at": "2025-01-30T14:42:26Z",
-        "updated_at": "2025-08-06T09:53:22Z",
-        "topics": [],
-        "quality_score": 0.4,
-        "contributors_count": 0,
-        "last_commit_date": "2025-05-16T17:45:22Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/1852fcc6ca32fb65bbf3f68c4bbdf08e504bee321b64a98ab330f344d104e5ec/origin-space/ui-experiments"
-        ],
-        "homepage": "https://originui.com/layouts",
-        "readme_summary": "The ui-experiments repository offers a collection of beautifully designed, open-source UI layouts and experiments. It leverages Origin UI and shadcn/ui components, providing developers with practical examples and starting points for their projects. The repository also includes a shadcn/ui monorepo template for streamlined development.",
-        "key_features": [
-            "Pre-designed layouts",
-            "UI experiments",
-            "shadcn/ui monorepo template",
-            "Origin UI components"
-        ],
-        "primary_use_case": "Providing developers with ready-to-use UI layouts and experiments built with Origin UI and shadcn/ui to accelerate development and inspire design.",
-        "open_issues": 1,
-        "cover_image_prompt": "A skilled architect meticulously arranging pre-designed building blocks (UI components) to construct diverse and visually appealing layouts on a digital blueprint. The blueprint displays various UI elements like dashboards, calendars, and charts. Subtle digital particles flow around the blocks, representing code and data. A small screen in the background displays the repository name 'ui-experiments'. The scene is set in a bright, modern design studio with isometric perspective. The image should be in 3D isometric illustration style with clean lines, vibrant colors, and a focus on clarity."
-    },
-    {
-        "id": 994310603,
-        "name": "gmail-tui",
-        "description": "gmail but in your terminal using go",
-        "url": "https://github.com/rdx40/gmail-tui",
-        "language": "Go",
-        "stars": 32,
+        "stars": 46,
         "forks": 2,
-        "created_at": "2025-06-01T17:07:10Z",
-        "updated_at": "2025-08-06T07:47:09Z",
-        "topics": [
-            "gmail",
-            "go",
-            "go-application",
-            "golang-application"
-        ],
-        "quality_score": 0.44999999999999996,
+        "created_at": "2025-04-04T21:49:44Z",
+        "updated_at": "2025-08-07T07:06:57Z",
+        "topics": [],
+        "quality_score": 0.9,
         "contributors_count": 0,
-        "last_commit_date": "2025-07-07T17:42:45Z",
+        "last_commit_date": "2025-07-22T19:05:37Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/cb4fcbbe16d7fd3adef16eb171c69c29113e783b911701f29f7716a96f069ebb/rdx40/gmail-tui"
+            "https://opengraph.githubassets.com/ef4adf3c1a6e522c254abb41d81daf454cb5b7055ad7f88088061360631f1689/tessel-la/robo-boy"
         ],
         "homepage": "",
-        "readme_summary": "Gmail TUI is a terminal-based Gmail client that allows users to manage their email directly from the command line. It offers features like composing emails, managing labels, searching, and handling attachments, all with a focus on keyboard navigation and efficiency. The application uses OAuth2 for secure authentication and provides a lightweight alternative to the web-based Gmail interface.",
+        "readme_summary": "Robo-Boy is a web application designed for controlling ROS 2 robots, with a focus on mobile usability and inspired by retro handheld consoles. It features a React frontend, ROS 2 integration via rosbridge, camera stream display, interchangeable control interfaces, 3D visualization support and customizable themes, providing a versatile and user-friendly robot control experience.",
         "key_features": [
-            "Full email management in the terminal",
-            "Secure OAuth2 authentication",
-            "Keyboard-driven navigation",
-            "Rich text composition with attachments",
-            "Gmail label integration",
-            "Advanced search with Gmail operators",
-            "Offline cache",
+            "Responsive design for desktop and mobile",
+            "ROS 2 connection (via rosbridge)",
+            "Camera stream display (via web_video_server)",
+            "Interchangeable control interfaces",
+            "3D visualization support",
             "Customizable themes"
         ],
-        "primary_use_case": "Managing Gmail within a terminal interface for increased efficiency and keyboard-centric workflow.",
-        "open_issues": 3,
-        "cover_image_prompt": "Imagine a bustling post office where tiny robots, each representing a line of code, are diligently sorting and delivering digital letters (emails). The main robot, labeled 'Gmail-TUI', stands at a central console, efficiently managing the flow of messages with a keyboard. Some robots are composing letters with miniature styluses, while others are attaching digital files. The post office is filled with glowing screens displaying email labels and search queries. The scene is rendered in a clean, 3D isometric illustration style with bright, cheerful colors and subtle tech details."
+        "primary_use_case": "Controlling ROS 2 robots via a web application, especially on mobile devices.",
+        "open_issues": 0,
+        "cover_image_prompt": "Imagine a skilled pilot sitting in a retro-futuristic cockpit, expertly maneuvering a complex ROS 2 robot using a handheld console resembling a classic Game Boy. The console's screen displays real-time camera feeds and sensor data from the robot. Outside the cockpit window, the robot navigates a challenging environment, showcasing its capabilities. Subtle UI elements and code snippets float around the cockpit, hinting at the underlying technology. The scene is bathed in a soft, nostalgic glow, reminiscent of 8-bit games. The image should be in a vibrant 3D isometric illustration style with clean lines and rich details."
+    },
+    {
+        "id": 651944895,
+        "name": "Cavasik",
+        "description": "Audio visualizer based on CAVA",
+        "url": "https://github.com/TheWisker/Cavasik",
+        "language": "Python",
+        "stars": 138,
+        "forks": 8,
+        "created_at": "2023-06-10T15:21:47Z",
+        "updated_at": "2025-08-07T09:12:45Z",
+        "topics": [
+            "audio",
+            "audio-visualizer",
+            "cava",
+            "eye-candy",
+            "flatpak",
+            "gnome",
+            "python"
+        ],
+        "quality_score": 0.7499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-07T01:10:08Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/651944895/00139716-601e-4558-825f-f4bbb7153fab"
+        ],
+        "homepage": "https://flathub.org/apps/io.github.TheWisker.Cavasik",
+        "readme_summary": "Cavasik is an audio visualizer based on CAVA, offering extended capabilities and a customizable interface. It provides various drawing modes, color options, and configuration settings to create dynamic visual representations of audio. Users can control the visualizer through a graphical interface or a DBus interface, and even load color schemes from files.",
+        "key_features": [
+            "Five normal drawing modes",
+            "Two circle drawing modes",
+            "Five mirror drawing modes",
+            "Four drawing directions",
+            "Customizable LibAdwaita interface",
+            "Customizable background and foreground colors (single color or gradient)",
+            "Color animation",
+            "Configurable smoothing and noise reduction",
+            "DBus interface for color control",
+            "Color configuration from file on startup"
+        ],
+        "primary_use_case": "Audio visualization",
+        "open_issues": 2,
+        "cover_image_prompt": "Imagine a skilled conductor leading an orchestra, each instrument representing a different frequency of sound. As the music plays, vibrant colors emanate from the instruments, swirling and dancing in harmony with the sound. The conductor's baton subtly controls the flow and intensity of these colors, creating a mesmerizing visual representation of the audio. Small screens around the orchestra display real-time frequency data and color palettes. The scene is set in a modern concert hall with dynamic lighting that enhances the visual spectacle. The image should be in a vibrant digital painting style with smooth gradients and clear details."
+    },
+    {
+        "id": 1028391416,
+        "name": "duelr",
+        "description": "Compare LLMs in one click",
+        "url": "https://github.com/stashlabs/duelr",
+        "language": "TypeScript",
+        "stars": 23,
+        "forks": 0,
+        "created_at": "2025-07-29T13:11:53Z",
+        "updated_at": "2025-08-07T07:58:48Z",
+        "topics": [
+            "ai",
+            "llm",
+            "mlops",
+            "nextjs",
+            "open-source",
+            "shadcn-ui",
+            "typescript"
+        ],
+        "quality_score": 0.5499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-04T20:14:22Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/43eb5d4bbcdd6502309e9f19598505e033d1b5c03bb5d71f707fe9bbce2b24ad/stashlabs/duelr"
+        ],
+        "homepage": "",
+        "readme_summary": "Duelr is an open-source tool designed to evaluate and compare the performance of various Large Language Models (LLMs). It allows users to test multiple LLMs simultaneously, tracking key metrics such as latency, token usage, and cost, while also providing quality scores for readability and JSON validity. Duelr aims to provide transparency and facilitate informed decisions when selecting LLMs.",
+        "key_features": [
+            "Parallel Comparison of LLMs",
+            "Comprehensive Metrics (latency, token usage, cost)",
+            "Quality Scoring (length simplicity, readability, JSON validity)",
+            "Cost Transparency",
+            "Extensible provider system"
+        ],
+        "primary_use_case": "Evaluating and comparing Large Language Model responses across different providers.",
+        "open_issues": 0,
+        "cover_image_prompt": "Imagine a chef meticulously tasting dishes prepared by robot cooks, each representing a different LLM. The chef, embodying 'Duelr', carefully analyzes each dish for flavor (quality), speed of preparation (latency), and ingredient cost (token usage). Subtle UI elements float around the scene, displaying metrics like readability scores and JSON validity. The setting is a brightly lit, modern kitchen. The image should be in a 3D isometric illustration style with vibrant colors and clean lines, conveying a sense of precision and comparison."
+    },
+    {
+        "id": 3564353,
+        "name": "Baikal",
+        "description": "Baïkal is a Calendar+Contacts server",
+        "url": "https://github.com/sabre-io/Baikal",
+        "language": "PHP",
+        "stars": 2816,
+        "forks": 299,
+        "created_at": "2012-02-27T20:22:55Z",
+        "updated_at": "2025-08-07T09:37:20Z",
+        "topics": [],
+        "quality_score": 0.55,
+        "contributors_count": 0,
+        "last_commit_date": "2025-04-16T18:05:04Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/c4506fa8539231ea2ca9bea533d14984e7379640ae442678d111801c6512bf26/sabre-io/Baikal"
+        ],
+        "homepage": "https://sabre.io/baikal/",
+        "readme_summary": "Baikal is a CalDAV and CardDAV server designed for managing calendars and contacts. It provides resources for installation, upgrading, and troubleshooting. The project aims to be accessible to users with varying levels of IT experience, offering detailed guides for setup and maintenance.",
+        "key_features": [
+            "CalDAV server",
+            "CardDAV server",
+            "Installation and upgrade instructions available",
+            "Guides for installation and maintenance available for users with limited IT experience"
+        ],
+        "primary_use_case": "Calendar and Contacts server",
+        "open_issues": 101,
+        "cover_image_prompt": "A skilled clockmaker meticulously assembling intricate gears representing appointments and contacts into a smoothly functioning, ornate clock. The clock face displays dates and contact icons instead of numbers. Light streams through a window illuminating the workshop, casting a warm glow on the clockmaker's focused expression. Subtle UI elements float around the clock, displaying calendar entries and contact details. The repository name, 'Baikal,' is subtly engraved on the clock's base. The image should be in a detailed, 3D isometric illustration style with a vintage aesthetic and a color scheme of warm golds and blues."
+    },
+    {
+        "id": 455878073,
+        "name": "warpgate",
+        "description": "Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software",
+        "url": "https://github.com/warp-tech/warpgate",
+        "language": "Rust",
+        "stars": 5168,
+        "forks": 164,
+        "created_at": "2022-02-05T13:30:51Z",
+        "updated_at": "2025-08-07T10:02:13Z",
+        "topics": [
+            "bastion",
+            "bastion-host",
+            "https",
+            "https-proxy",
+            "infrastructure",
+            "mysql",
+            "mysql-proxy",
+            "pam",
+            "postgresql-proxy",
+            "privileged-access-management",
+            "proxy",
+            "rust",
+            "ssh",
+            "ssh-server"
+        ],
+        "quality_score": 0.95,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-04T19:40:38Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/c0e91a64de8f6872b5e497061cbede94d5a7e29ac5440e58eb6bd016a4c736af/warp-tech/warpgate"
+        ],
+        "homepage": "https://warpgate.null.page",
+        "readme_summary": "Warpgate is a bastion host solution written in Rust that provides secure access to SSH, HTTPS, MySQL, and PostgreSQL servers. It features session recording, 2FA/SSO support, and a web UI for management, all within a single binary and without the need for client-side software.",
+        "key_features": [
+            "Smart SSH, HTTPS, MySQL and PostgreSQL bastion host",
+            "No client-side software required",
+            "Session recording and replay via web UI",
+            "Direct connection forwarding (not a jump host)",
+            "Native 2FA and SSO support (TOTP & OpenID Connect)",
+            "Single binary with no dependencies",
+            "Written in Rust"
+        ],
+        "primary_use_case": "Securely manage and monitor access to servers and databases without requiring client-side software.",
+        "open_issues": 109,
+        "cover_image_prompt": "A skilled gatekeeper stands before a glowing portal, meticulously inspecting digital travelers before granting them access. The gatekeeper examines each traveler's credentials, represented by data packets, ensuring they match the destination displayed on a holographic screen above the portal. Approved travelers pass through, leaving a shimmering trail of light, while unauthorized attempts are blocked by a protective barrier. Small UI elements display real-time connection logs and security protocols. The scene is set in a futuristic server room with cool, blue lighting. The image should be in a 3D isometric illustration style with crisp details and a clean, modern aesthetic."
+    },
+    {
+        "id": 992393505,
+        "name": "LLMFeeder",
+        "description": "Brower extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!",
+        "url": "https://github.com/jatinkrmalik/LLMFeeder",
+        "language": "JavaScript",
+        "stars": 141,
+        "forks": 22,
+        "created_at": "2025-05-29T04:53:42Z",
+        "updated_at": "2025-08-07T08:14:46Z",
+        "topics": [
+            "automation",
+            "browser",
+            "chrome-extension",
+            "converter",
+            "developer-tools",
+            "firefox-addon",
+            "llm",
+            "markdown"
+        ],
+        "quality_score": 0.8500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-06-17T21:25:25Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/34ad6c3101b73409d95d296b0bca5079ebf4d6c596531359fc3112afa924e953/jatinkrmalik/LLMFeeder"
+        ],
+        "homepage": "",
+        "readme_summary": "LLMFeeder is a browser extension that simplifies the process of extracting and converting web page content into clean Markdown. It utilizes a readability algorithm for smart content extraction, offers dark/light mode theming, and provides enhanced image processing. The extension allows users to copy the converted Markdown to the clipboard or download it as a file, making it ideal for feeding web content to LLMs.",
+        "key_features": [
+            "Smart Content Extraction using Readability algorithm",
+            "Dark/Light Mode with preference persistence",
+            "Enhanced Image Processing with smart alt text generation",
+            "One-Click content processing and copy to clipboard",
+            "Download as File (.md)"
+        ],
+        "primary_use_case": "Converting web pages to clean Markdown format for use as context in Large Language Models (LLMs).",
+        "open_issues": 18,
+        "cover_image_prompt": "A librarian meticulously transforming messy stacks of web pages into neatly organized Markdown notebooks. The librarian uses a special tool that extracts the core content, cleans it up, and neatly binds it into a notebook. Glowing digital particles float around the librarian, representing the conversion process. A small screen in the background displays a webpage being converted into Markdown. The scene is set in a bright, modern library with warm lighting. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 980173830,
+        "name": "kingfisher",
+        "description": "Kingfisher is a blazingly fast secret‑scanning and validation tool built in Rust",
+        "url": "https://github.com/mongodb/kingfisher",
+        "language": "Rust",
+        "stars": 494,
+        "forks": 24,
+        "created_at": "2025-05-08T17:27:15Z",
+        "updated_at": "2025-08-07T09:53:36Z",
+        "topics": [],
+        "quality_score": 0.8499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-07T05:44:17Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/1ceb408a2709bcf15ee228ef69d7b1ac72e3982184350ae65af6b8749346c9ac/mongodb/kingfisher"
+        ],
+        "homepage": "",
+        "readme_summary": "Kingfisher is a blazingly fast secret-scanning and validation tool built in Rust. It leverages Hyperscan and Tree-Sitter for performance and language-aware parsing. Kingfisher offers live validation, supports various targets like Git repositories, S3 buckets, and Docker images, and includes baseline management to ignore known secrets.",
+        "key_features": [
+            "Live validation via cloud-provider APIs",
+            "Supports scanning GitLab repos, S3 buckets, Docker images, Jira issues, and Slack messages",
+            "Supports extracting and scanning compressed files for secrets",
+            "Baseline mode to ignore known secrets and flag only new ones",
+            "Language-aware detection for ~20 languages",
+            "Native Windows binary",
+            "Multithreaded, Hyperscan-powered scanning",
+            "Extensible rules with hundreds of built-in detectors and YAML-defined custom rules",
+            "Multiple targets: Git history, Docker images, Jira issues, Slack messages, AWS S3",
+            "Baseline management to suppress known secrets"
+        ],
+        "primary_use_case": "Secret scanning and validation to prevent secrets from reaching production.",
+        "open_issues": 4,
+        "cover_image_prompt": "A kingfisher bird, perched on a branch overlooking a digital stream, swiftly snatches glowing secrets (represented as small, colorful fish) from the water. The stream flows from a large, open code repository visualized as a mountain with cascading lines of code. The kingfisher's beak emits a beam of light that validates each secret before it's secured in a nest filled with gems. Subtle UI elements displaying scanning results and security metrics are visible in the background. The scene is set in a vibrant, stylized natural environment with soft, diffused lighting. The image should be in a 3D isometric illustration style with clean lines and rich details."
     }
 ]
