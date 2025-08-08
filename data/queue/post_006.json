@@ -1,7 +1,0 @@
-{
-    "project_id": 980173830,
-    "content": "✨ <b>kingfisher</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSecret scanning and validation to prevent secrets from reaching production.\n<br>\n✨ <b>Key Features:</b>\n• Live validation via cloud-provider APIs\n• Supports scanning GitLab repos, S3 buckets, Docker images, Jira issues, and Slack messages\n• Supports extracting and scanning compressed files for secrets\n• Baseline mode to ignore known secrets and flag only new ones\n• Language-aware detection for ~20 languages\n<br>\n📖 <b>Summary:</b>\nKingfisher is a blazingly fast secret-scanning and validation tool built in Rust. It leverages Hyperscan and Tree-Sitter for performance and language-aware parsing. Kingfisher offers live validation, supports various targets like Git repositories, S3 buckets, and Docker images, and includes baseline management to ignore known secrets.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mongodb/kingfisher?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/1ceb408a2709bcf15ee228ef69d7b1ac72e3982184350ae65af6b8749346c9ac/mongodb/kingfisher",
-    "platform": "telegram",
-    "quality_score": 0.8499999999999999
-}
