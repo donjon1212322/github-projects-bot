@@ -1,44 +1,44 @@
 [
     {
-        "project_id": 951646417,
-        "content": "✨ <b>ios-simulator-mcp</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nQuality Assurance tasks via MCP tool calls, allowing AI assistants to validate UI consistency and behavior after feature implementation.\n<br>\n✨ <b>Key Features:</b>\n• Get the ID of the currently booted iOS simulator\n• Describe all accessibility elements on screen\n• Tap on screen coordinates\n• Input text\n• Swipe between coordinates\n<br>\n📖 <b>Summary:</b>\nThe iOS Simulator MCP Server enables interaction with iOS simulators through a Model Context Protocol. It provides functionalities to retrieve simulator information, control UI interactions (tapping, swiping, text input), inspect UI elements, take screenshots, and integrate with AI agents for visual feedback, primarily used for automated QA testing and validation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/joshuayoes/ios-simulator-mcp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/95b178f153b22313d94d337138feb25ac9a68f131d7a0cfbb2632b2e9306e12b/joshuayoes/ios-simulator-mcp",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1028470147,
-        "content": "🔥 <b>FSB</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-powered browser automation for tasks like web testing, data entry, research, social media automation, and e-commerce activities.\n<br>\n✨ <b>Key Features:</b>\n• Multi-Model AI Support (Grok, Gemini, and more)\n• Natural Language Interface\n• Smart DOM Analysis\n• Comprehensive Automation (click, type, scroll, etc.)\n• CAPTCHA Integration\n<br>\n📖 <b>Summary:</b>\nFSB is a Chrome extension that provides AI-powered browser automation through a natural language interface. It supports multiple AI models, analyzes webpage structure, and automates tasks like form filling and navigation. The primary use case is to streamline repetitive browsing tasks and automate workflows for web testing, data entry, research, and more.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/LakshmanTurlapati/FSB?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a0fccc565943e7e87b007c8ee328fc352a02f1cc5e2cd66147f43b3a3fe7c075/LakshmanTurlapati/FSB",
+        "project_id": 958273723,
+        "content": "🚀 <b>every-pdf</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nComprehensive desktop application for everyday document tasks and professional-level PDF editing.\n<br>\n✨ <b>Key Features:</b>\n• PDF Editor (Add Text, Signature, Image, Checkbox)\n• Split PDF files\n• Merge PDF documents\n• Add Watermark\n• Rotate & Reorder pages\n<br>\n📖 <b>Summary:</b>\nEvery PDF is a desktop application designed for comprehensive PDF management. It offers features such as editing, splitting, merging, watermarking, rotating, and reordering PDF documents. The application aims to provide a one-stop solution for both basic and advanced PDF-related tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DDULDDUCK/every-pdf?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d5667d91420ebcb5fdb93e17b2857f9f1829541d0985a40415804aa2f97ef632/DDULDDUCK/every-pdf",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 628160489,
-        "content": "🌟 <b>SimpMusic</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nA FOSS YouTube Music client for Android with features from Spotify, Musixmatch, SponsorBlock, and ReturnYouTubeDislike.\n<br>\n✨ <b>Key Features:</b>\n• Play music from YouTube Music or YouTube for free, without ads and in the background\n<br>\n📖 <b>Summary:</b>\nSimpMusic is a free and open-source Android music player that utilizes YouTube Music as its backend. It offers a variety of features, including ad-free playback, background play, offline support, synced lyrics, and integration with services like Musixmatch, Spotify, SponsorBlock, and Return YouTube Dislike. The app aims to provide a comprehensive music listening experience by combining the vast library of YouTube Music with the convenience of a dedicated music player.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/maxrave-dev/SimpMusic?embed=0\">View Project</a>\n• <a href=\"https://simpmusic.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/628160489/d1caf378-9996-45bd-aad8-360494ce98be",
+        "project_id": 1032006359,
+        "content": "💡 <b>ranni</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting images to ASCII art for terminal display or other text-based applications.\n<br>\n✨ <b>Key Features:</b>\n• Image to ASCII conversion\n• Scalable ASCII art output\n• Supports image formats provided by the 'image' crate\n<br>\n📖 <b>Summary:</b>\nThe 'ranni' repository is a Rust-based tool for converting images into ASCII art. It allows users to specify the scale of the output and supports various image formats through the 'image' crate. The primary use case is generating ASCII representations of images for display in environments where graphical interfaces are limited or unavailable.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Krak9n/ranni?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c32f615bf1ae53016482342916b771db51612df9a0248e3b8cfe61bd40ea46d1/Krak9n/ranni",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 60667730,
+        "content": "✨ <b>lvgl</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating embedded graphical user interfaces (GUIs) for microcontrollers (MCUs) and microprocessors (MPUs).\n<br>\n✨ <b>Key Features:</b>\n• Free and portable C library\n• 30+ built-in widgets\n• Flexible style system\n• Flexbox and Grid layouts\n• UTF-8 text rendering with CJK support\n<br>\n📖 <b>Summary:</b>\nLVGL is a free and open-source embedded graphics library written in C, designed for creating user interfaces on resource-constrained devices. It offers a wide range of features including widgets, styling, layouts, and text rendering, making it suitable for various display types and input methods. LVGL aims to provide a comprehensive solution for developing modern and visually appealing GUIs on embedded systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lvgl/lvgl?embed=0\">View Project</a>\n• <a href=\"https://lvgl.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9ba60747545e13d41f6e7b91787195de490674e618c19e274eac39fc471a00be/lvgl/lvgl",
+        "platform": "telegram",
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 998699154,
+        "content": "🌟 <b>Self-Forcing</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time, streaming video generation using autoregressive video diffusion models.\n<br>\n✨ <b>Key Features:</b>\n• Simulates inference during training\n• Autoregressive rollout with KV caching\n• Real-time, streaming video generation\n• Matches quality of state-of-the-art diffusion models\n<br>\n📖 <b>Summary:</b>\nThe Self-Forcing repository trains autoregressive video diffusion models by simulating the inference process during training, using autoregressive rollout with KV caching. This approach addresses the train-test distribution mismatch, enabling real-time, streaming video generation. It achieves performance comparable to state-of-the-art diffusion models, even on a single RTX 4090.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/guandeh17/Self-Forcing?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/22566198bdbb03bac4367148c0d91bb2497ec627645ff4e92917e19bc1a481d3/guandeh17/Self-Forcing",
+        "platform": "telegram",
+        "quality_score": 0.6499999999999999
+    },
+    {
+        "project_id": 426848256,
+        "content": "💡 <b>quadratic</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nData analysis and manipulation with AI and code integration within a spreadsheet environment.\n<br>\n✨ <b>Key Features:</b>\n• Spreadsheet functionality\n• AI integration\n• Code execution within cells\n• Data connections (SQL, ETL)\n• Collaboration\n<br>\n📖 <b>Summary:</b>\nQuadratic is a spreadsheet application that integrates AI and code execution directly into cells, enabling users to perform advanced data analysis and manipulation. It supports data connections and facilitates collaborative work, making it suitable for data science, data engineering, and general data analysis tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/quadratichq/quadratic?embed=0\">View Project</a>\n• <a href=\"https://QuadraticHQ.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/de07d0b3a943d0c9d116b36ccf81ab09432a4ceade5ed4bdfaa486ddf842b110/quadratichq/quadratic",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 33242423,
-        "content": "💡 <b>flowblade</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and editing videos from various media sources, applying effects, and producing a final video output.\n<br>\n✨ <b>Key Features:</b>\n• Multitrack non-linear video editing\n• Image compositing with blend modes and wipes\n• Extensive image and audio filters\n• Media generator plugin framework\n• Batch encoding and media re-linking\n<br>\n📖 <b>Summary:</b>\nFlowblade is a multitrack non-linear video editor for Linux that allows users to compose movies from video, audio, and graphics files. It offers a range of editing tools, image compositing features, and audio/video filters. Flowblade supports various media formats and provides advanced features like media generation, batch encoding, and USB shuttle control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jliljebl/flowblade?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/87cca8a157cefa7ad0640edb947376d7a390d5ae498ed7783cde6be9ea6613ad/jliljebl/flowblade",
+        "project_id": 571613891,
+        "content": "🚀 <b>supervision</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nReusable computer vision tools for tasks like object detection, instance segmentation, and tracking.\n<br>\n✨ <b>Key Features:</b>\n• Model agnostic design\n• Connectors for popular libraries (Ultralytics, Transformers, MMDetection)\n• Customizable annotators\n• Tools for loading datasets, drawing detections, and counting objects\n<br>\n📖 <b>Summary:</b>\nSupervision is a Python package providing reusable computer vision tools. It offers model-agnostic connectors for popular libraries and customizable annotators, simplifying tasks such as loading datasets, visualizing detections, and counting objects in images and videos. It aims to streamline computer vision workflows.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/roboflow/supervision?embed=0\">View Project</a>\n• <a href=\"https://supervision.roboflow.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8c7a6d56c9f60ebd6b09b00d77b0c79ba8a6e3eab98d0bc0a9ec793fe896e3f6/roboflow/supervision",
         "platform": "telegram",
-        "quality_score": 0.5
-    },
-    {
-        "project_id": 988821906,
-        "content": "🚀 <b>winhider</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nHiding sensitive or distracting windows during screen sharing sessions while still being able to use them.\n<br>\n✨ <b>Key Features:</b>\n• Hides windows from screensharing\n• Hides windows from taskbar and taskswitcher (Alt-Tab)\n• Allows normal use of hidden windows\n• GUI and CLI interface\n• Winget installation support\n<br>\n📖 <b>Summary:</b>\nWinHider is a C++ application designed to hide specific windows from being visible during screen sharing sessions and from the taskbar/taskswitcher. This allows users to maintain privacy and reduce distractions while still being able to interact with the hidden applications. It offers both a graphical user interface (GUI) and a command-line interface (CLI) for managing window visibility.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aamitn/winhider?embed=0\">View Project</a>\n• <a href=\"http://winhider.bitmutex.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c1c9ff7f26b04b433bc22418c4f0a5385c88699b74a3b3865fb40732072cee63/aamitn/winhider",
-        "platform": "telegram",
-        "quality_score": 0.8500000000000001
-    },
-    {
-        "project_id": 99286908,
-        "content": "🌟 <b>Addon</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomatically remove tracking elements from URLs to protect user privacy.\n<br>\n✨ <b>Key Features:</b>\n• Removes tracking from URLs automatically\n• Blocks some common ad domains (optional)\n• Built-in tool to clean up multiple URLs at once\n<br>\n📖 <b>Summary:</b>\nClearURLs is a browser extension that automatically removes tracking elements from URLs, enhancing user privacy while browsing. It supports various browsers and offers features like blocking ad domains, cleaning multiple URLs, preventing tracking injection, and providing a context menu option for copying clean links. The extension aims to provide a cleaner and more private browsing experience by removing unnecessary tracking parameters from web addresses.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ClearURLs/Addon?embed=0\">View Project</a>\n• <a href=\"http://docs.clearurls.xyz?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/677703cbec589fe2c473cd7fa16f2e8c57c0b04124340c00a7ce4f73504adbef/ClearURLs/Addon",
-        "platform": "telegram",
-        "quality_score": 0.7500000000000001
+        "quality_score": 0.85
     }
 ]
