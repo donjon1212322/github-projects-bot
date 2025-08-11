@@ -1,7 +1,0 @@
-{
-    "project_id": 1025842535,
-    "content": "🌟 <b>vistadream</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\n3D scene reconstruction from single images\n<br>\n✨ <b>Key Features:</b>\n• Reconstructs 3D scenes from single-view images.\n• Uses Flux-based diffusion models for image outpainting and inpainting.\n• Employs 3D Gaussian Splatting for efficient 3D scene representation.\n• Integrates Rerun for real-time 3D visualization and debugging.\n<br>\n📖 <b>Summary:</b>\nVistaDream is a framework for reconstructing 3D scenes from single images. It leverages Flux diffusion models for image outpainting and inpainting, 3D Gaussian Splatting for efficient scene representation, and Rerun for real-time visualization. The framework uses a two-stage pipeline involving coarse 3D scaffold construction and multi-view consistency sampling to generate high-quality novel views.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rerun-io/vistadream?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/b3357fc4ac6763742ea327165857ae5598923345989907ac8b5eb891114d2740/rerun-io/vistadream",
-    "platform": "telegram",
-    "quality_score": 0.44999999999999996
-}
