@@ -1,0 +1,7 @@
+{
+    "project_id": 727111358,
+    "content": "✨ <b>email-linter</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nIdentifying potentially compromised masked email addresses by analyzing sender addresses.\n<br>\n✨ <b>Key Features:</b>\n• Identifies spam and phishing emails received at masked email addresses.\n• Works with Fastmail, Topicbox, and any email service with a JMAP API.\n• Lists masked addresses and their senders to spot suspicious activity.\n<br>\n📖 <b>Summary:</b>\nEmail Linter is a command-line tool designed to help users easily identify spam and phishing emails received at masked email addresses. It works by connecting to email services via the JMAP API, listing masked addresses, and displaying the senders they have received from, allowing users to quickly spot suspicious activity. The tool supports services like Fastmail and Topicbox.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wheelercj/email-linter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/8c164914f5644c69be5ee717b94b0c3ebf63da82e12f5e20ac3f7fca56f5ea32/wheelercj/email-linter",
+    "platform": "telegram",
+    "quality_score": 0.65
+}
