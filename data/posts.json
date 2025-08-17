@@ -1,51 +1,58 @@
 [
     {
-        "project_id": 77145066,
-        "content": "🌟 <b>docker-android</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAndroid application development and testing in isolated environments.\n<br>\n✨ <b>Key Features:</b>\n• Android emulation within Docker containers\n• noVNC support for remote access and control\n• Support for multiple Android versions and device profiles\n• ADB connect for external control\n• Integration with cloud solutions like Genymotion Cloud\n<br>\n📖 <b>Summary:</b>\nThe docker-android repository provides Docker images for running Android emulators, enabling developers to build and test Android applications in isolated environments. It supports various Android versions, device profiles, and remote access via noVNC, facilitating efficient and consistent testing workflows. The solution also integrates with cloud services and testing frameworks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/budtmo/docker-android?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/462a216d8aabae83277a730a82bb32e3422e247eb5766400a2934202fe33f9c7/budtmo/docker-android",
+        "project_id": 758197374,
+        "content": "🚀 <b>parlant</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding and deploying LLM agents that reliably follow instructions in real-world applications.\n<br>\n✨ <b>Key Features:</b>\n• Guaranteed compliance with instructions\n• Principle-based AI agent development\n• Easy deployment (60 seconds)\n• Tools for defining agent behavior\n• React widget integration\n<br>\n📖 <b>Summary:</b>\nParlant is a Python framework for building LLM agents designed for control and real-world use. It ensures agents follow instructions by using a principle-based approach rather than relying on system prompts. Parlant allows developers to define agent behavior with natural language and deploy agents quickly, offering guaranteed compliance and easy integration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/emcie-co/parlant?embed=0\">View Project</a>\n• <a href=\"https://www.parlant.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/930d553f895889eceddd71d16834d65b4f08b78d937bbb3b3a12bca2f2f9f033/emcie-co/parlant",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.95
     },
     {
-        "project_id": 707667804,
-        "content": "🌟 <b>Bluetooth-LE-Spam</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating phantom Bluetooth device advertisements to trigger pop-up dialogs on nearby devices for testing or demonstration purposes.\n<br>\n✨ <b>Key Features:</b>\n• Sends BLE advertisements mimicking various services\n• Triggers unwanted pop-up dialogs on nearby devices\n• Simulates Apple device popups, Microsoft Swift Pair, and Samsung Easy Setup\n<br>\n📖 <b>Summary:</b>\nThe Bluetooth LE Spam repository provides an Android application that leverages Bluetooth Low Energy to broadcast fake device advertisements. This can trigger unwanted pop-up dialogs on nearby devices, simulating connection requests or other service notifications. The app also includes a spam detector to identify the source of such advertisements.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/simondankelmann/Bluetooth-LE-Spam?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/dcdb1178f41976e60b7bfcba9598f288a23da69b770b28e37d7e0218d445306d/simondankelmann/Bluetooth-LE-Spam",
+        "project_id": 993676621,
+        "content": "✨ <b>PolymarketViewer</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nBrowsing and interacting with Polymarket prediction markets on Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Browse active prediction market events\n• Filter and search events\n• Sort events by various criteria\n• View detailed event information\n• Display interactive price history charts\n<br>\n📖 <b>Summary:</b>\nPolymarket Viewer is an Android application that allows users to browse, filter, and interact with prediction markets on Polymarket.com. It provides features such as detailed event information, interactive price charts, and a comment system, all within a Material 3 designed interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Streamatico/PolymarketViewer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1fd5dbdd4dbe5ce9dec0725c709873b7b891b60912fa1465405ffe33b542beda/Streamatico/PolymarketViewer",
         "platform": "telegram",
-        "quality_score": 0.7
+        "quality_score": 0.7499999999999999
     },
     {
-        "project_id": 1003646358,
-        "content": "🔥 <b>OmniAvatar</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating realistic avatar videos from audio input.\n<br>\n✨ <b>Key Features:</b>\n• Audio-driven avatar video generation\n• Adaptive body animation\n• Model weights for 1.3B and 14B parameter models available\n• Inference code released\n• LoRA and audio condition weights provided\n<br>\n📖 <b>Summary:</b>\nOmniAvatar is a project focused on efficient audio-driven avatar video generation with adaptive body animation. It provides model weights and inference code for both 1.3B and 14B parameter models, along with LoRA and audio condition weights. The project leverages Hugging Face for model distribution and includes instructions for installation, model download, and inference.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Omni-Avatar/OmniAvatar?embed=0\">View Project</a>\n• <a href=\"https://omni-avatar.github.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a9d078bb6ca0b28a9b1dc77e178ccac900790be002706942a66cf18c20a92d06/Omni-Avatar/OmniAvatar",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 969084914,
-        "content": "💡 <b>doWM</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nCustomizing and managing the X11 windowing environment on Linux systems.\n<br>\n✨ <b>Key Features:</b>\n• Floating and tiling window management\n• Written in Go\n• Configurable via YAML and shell scripts\n• X11 support\n<br>\n📖 <b>Summary:</b>\ndoWM is a window manager for X11, written in Go, that provides both floating and tiling window management capabilities. It is configured using YAML files and shell scripts, allowing users to customize their window management experience. The primary goal is to provide a simple and beautiful window management solution for Linux users.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BobdaProgrammer/doWM?embed=0\">View Project</a>\n• <a href=\"https://dowm.softwarespot.top?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/06d500e0ef61c882055a53d96169b14ed682d36504223edacc02523f790bedb8/BobdaProgrammer/doWM",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 490028114,
-        "content": "🌟 <b>beelzebub</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDetecting and analyzing cyber attacks by creating a secure honeypot environment.\n<br>\n✨ <b>Key Features:</b>\n• Low-code configuration using YAML-based, modular service definitions\n• LLM integration for simulating real systems and creating high-interaction honeypot experiences\n<br>\n📖 <b>Summary:</b>\nBeelzebub is a low-code honeypot framework that leverages AI to create realistic, high-interaction honeypot environments. It supports multiple protocols, integrates with LLMs for deception, and provides observability through Prometheus and ELK stack. It is designed to detect and analyze cyber attacks in a secure and easily manageable way.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mariocandela/beelzebub?embed=0\">View Project</a>\n• <a href=\"https://beelzebub-honeypot.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/490028114/6bb2bae0-6869-4731-960d-3d7880c1066a",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1003143578,
-        "content": "✨ <b>agents-towards-production</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding production-ready GenAI agents that scale from prototype to enterprise.\n<br>\n✨ <b>Key Features:</b>\n• End-to-end tutorials for GenAI agents\n• Stateful workflows\n• Vector memory\n• Real-time web search API integration\n• Docker deployment\n<br>\n📖 <b>Summary:</b>\nThe repository provides comprehensive, code-first tutorials for building production-grade GenAI agents. It covers various aspects, including stateful workflows, vector memory, real-time web search APIs, and deployment strategies. The tutorials aim to guide users through the process of scaling AI agents from initial prototypes to enterprise-level applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/NirDiamant/agents-towards-production?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/862dfe87a852cdf490b99dd5ba6aa48eed2f00742b63f92861e140e5242fbe2f/NirDiamant/agents-towards-production",
+        "project_id": 1031165657,
+        "content": "🌟 <b>EntangleMe</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDemonstrates quantum teleportation as a message transfer system.\n<br>\n✨ <b>Key Features:</b>\n• Simulates quantum teleportation for message transfer\n• Uses Qiskit for quantum circuit simulation\n• Web interface for sending and receiving bits\n• Frontend built with React\n• Backend built with FastAPI\n<br>\n📖 <b>Summary:</b>\nEntangleMe simulates quantum teleportation for secure message transfer using Qiskit. It provides a web interface built with React and FastAPI, allowing users to send and receive bits, demonstrating the principles of quantum communication. The project serves as a practical example of applying quantum computing to real-world communication systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dev-Ninjaa/EntangleMe?embed=0\">View Project</a>\n• <a href=\"https://entangleme.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8e86c416c48d1032835efea33165f7aced75fc49cd4ea7f795c5c9b248593ca9/dev-Ninjaa/EntangleMe",
         "platform": "telegram",
         "quality_score": 0.8
     },
     {
-        "project_id": 1000968426,
-        "content": "🚀 <b>js-data-structures</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nLearning and demonstrating data structures in the context of frontend development using JavaScript and Vue.js.\n<br>\n✨ <b>Key Features:</b>\n• Demonstrates data structures in JavaScript\n• Provides practical examples for frontend development\n• Uses Vue.js for implementation\n<br>\n📖 <b>Summary:</b>\nThis repository serves as a practical guide for frontend developers to learn and understand data structures. It provides real-world examples implemented in JavaScript with Vue.js, covering common data structures like arrays, lists, maps, and trees. The project aims to bridge the gap between theoretical knowledge and practical application in frontend development.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/RuSaG0/js-data-structures?embed=0\">View Project</a>\n• <a href=\"https://rusag0.github.io/js-data-structures/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/abad4a69d3decadfd26e92fe28ccb67b9e30d17de6c0616cea105a486bca7f9c/RuSaG0/js-data-structures",
+        "project_id": 512188824,
+        "content": "🌟 <b>cdimage</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nBurning visible images onto CD-R media using custom software and algorithms.\n<br>\n✨ <b>Key Features:</b>\n• Burns visible pictures onto a compact disc surface\n• GUI with visual preview mode\n• Coordinate conversion code based on unDEFER's implementation\n• Ported to modern Qt6\n• Windows binary build available\n<br>\n📖 <b>Summary:</b>\nThe CDImage repository provides a tool for burning visible pictures onto the surface of a compact disc. It includes a GUI with a visual preview mode and utilizes coordinate conversion code inspired by previous similar projects. The project has been ported to Qt6 and a Windows binary build is available, offering a way to create unique, visually customized CDs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/arduinocelentano/cdimage?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ef72846ddacb6893ce3c878417af6fa452f093bd401f08e8e5f0155d5131860e/arduinocelentano/cdimage",
         "platform": "telegram",
-        "quality_score": 0.8
+        "quality_score": 0.25
+    },
+    {
+        "project_id": 319029846,
+        "content": "🌟 <b>Depixelization_poc</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRecovering obscured text from pixelized images, particularly those pixelized using a linear box filter.\n<br>\n✨ <b>Key Features:</b>\n• Recovers plaintext from pixelized screenshots\n• Works on images pixelized with a linear box filter\n• Includes tools for showing box detection and generating pixelated images\n<br>\n📖 <b>Summary:</b>\nThe Depix repository provides a proof-of-concept technique for recovering plaintext from pixelized screenshots. It focuses on images pixelized with a linear box filter and includes tools for visualizing box detection and generating pixelated images. The repository offers example usages demonstrating how to recover text from images pixelized with different software and settings.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/spipm/Depixelization_poc?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/aad79a62d50511fdeb440981adb20dfb38b97afc623ef3e5ac4f00925e08dded/spipm/Depixelization_poc",
+        "platform": "telegram",
+        "quality_score": 0.35
+    },
+    {
+        "project_id": 23044617,
+        "content": "🔥 <b>popmotion</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating delightful user interfaces with simple animation libraries.\n<br>\n✨ <b>Key Features:</b>\n• Keyframe and spring animations for numbers, colors, and complex strings\n• Composable and portable design for various JavaScript environments\n• TypeScript codebase with high test coverage\n<br>\n📖 <b>Summary:</b>\nPopmotion is a JavaScript animation library designed for creating smooth and engaging user interfaces. It supports keyframe and spring animations for a variety of data types, including numbers, colors, and complex strings. Its composable and portable design makes it suitable for various JavaScript environments, and its small size ensures minimal impact on application performance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Popmotion/popmotion?embed=0\">View Project</a>\n• <a href=\"https://popmotion.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/46249a3ea2ac563954f51ead88f85487bf5f477b394d2f13455139e38282e64f/Popmotion/popmotion",
+        "platform": "telegram",
+        "quality_score": 0.45
+    },
+    {
+        "project_id": 9114826,
+        "content": "🔥 <b>Medoo</b> | PHP\n<br>\n🎯 <b>Primary Use Case:</b>\nAccelerating database development in PHP projects.\n<br>\n✨ <b>Key Features:</b>\n• Lightweight framework with minimal dependencies\n• Simple and intuitive API\n• Supports complex SQL queries and data mapping\n• Compatible with multiple database systems (MySQL, MariaDB, PostgreSQL, SQLite, MSSQL, Oracle, Sybase)\n• Integrates with popular PHP frameworks\n<br>\n📖 <b>Summary:</b>\nMedoo is a lightweight PHP database framework designed to accelerate development by providing a simple and intuitive API for interacting with various database systems. It supports complex SQL queries, data mapping, and integrates seamlessly with popular PHP frameworks, making it a versatile tool for database-driven applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/catfan/Medoo?embed=0\">View Project</a>\n• <a href=\"https://medoo.in?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/9114826/74410600-f77a-11e9-9994-04de808acc47",
+        "platform": "telegram",
+        "quality_score": 0.65
+    },
+    {
+        "project_id": 453068084,
+        "content": "🚀 <b>risingwave</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time processing, analysis, and management of event data.\n<br>\n✨ <b>Key Features:</b>\n• Real-time event streaming platform\n• PostgreSQL compatibility\n• S3 as primary storage\n• Apache Iceberg integration\n• SQL and Python interfaces\n<br>\n📖 <b>Summary:</b>\nRisingWave is a real-time event streaming platform that offers a simple and cost-effective way to process, analyze, and manage real-time event data. It features PostgreSQL compatibility, S3 storage, and Apache Iceberg integration. RisingWave supports both SQL and Python interfaces for interacting with streaming data.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/risingwavelabs/risingwave?embed=0\">View Project</a>\n• <a href=\"https://go.risingwave.com/slack?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/453068084/5f79d6ef-c316-48ef-abac-ea202138d0da",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
     }
 ]
