@@ -1,30 +1,30 @@
 {
-    "title": "Perspt: Your Terminal's New AI Powerhouse!",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nPerspt is a high-performance CLI application built with Rust that allows users to interact with various AI models directly from their terminal. It supports multiple providers like OpenAI, Anthropic, and Google Gemini, offering features like real-time streaming, automatic provider detection, and a customizable interface for both interactive chat and scripting.\n\n## 🔑 Key Takeaways\n\n- ✅ Blazing-fast performance thanks to Rust\n\n- ✅ Supports multiple AI models from various providers\n\n- ✅ Beautiful and intuitive terminal UI\n\n- ✅ Seamless integration into your development workflow\n\n- ✅ Robust error handling and reliability\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 24\n- 🍴 Forks: 4\n- ❗ Open Issues: 3\n\n\n## 🛠 Tech Stack\n- ✅ Rust\n\n\nHey developers! Ever wished you could tap into the power of AI directly from your terminal?  Well, hold onto your hats because Perspt is here to revolutionize your workflow! This amazing Rust-based CLI application lets you chat with various AI models – from OpenAI's GPT-4 to Google's Gemini – all within the comfort of your terminal. Forget juggling browser tabs and clunky interfaces; Perspt brings the AI conversation right to your command line.\n\nWhat makes Perspt so special?  First, it's blazing fast.  Built with Rust, it offers incredible performance and reliability. No more agonizing waits for responses; Perspt streams results in real-time, making the interaction incredibly smooth and responsive.  Imagine the efficiency boost!  Second, it's incredibly versatile.  Perspt supports a wide range of AI models from different providers, so you can choose the one that best fits your needs.  Switching between models is a breeze, thanks to its smart configuration system.\n\nBut it's not just about speed and versatility. Perspt also boasts a beautiful, modern terminal UI.  The interface is intuitive and easy to navigate, with features like smooth scrolling and custom markdown rendering.  No more staring at plain text responses; Perspt makes the AI interaction visually appealing and engaging.  And setting it up is a walk in the park!  It automatically detects available providers based on your environment variables, so you're up and running in seconds. Just set your API keys, and you're ready to go!\n\nThe benefits for developers are significant.  Imagine quickly prototyping ideas by directly querying an LLM from your command line.  Think about debugging code by getting instant feedback from an AI assistant.  Perspt empowers you to integrate AI seamlessly into your development workflow, saving you time and boosting productivity.  Need to quickly summarize a large codebase?  Perspt can help.  Want to generate code snippets?  Perspt's got you covered.  It's a game-changer for any developer looking to leverage the power of AI in their daily work.\n\nBeyond its core functionality, Perspt is also incredibly robust.  It includes comprehensive error handling and panic recovery, ensuring that your terminal stays safe and stable even during unexpected issues.  It's a testament to the careful engineering and attention to detail that went into building this application.  The developers have truly thought of everything, from smooth animations to intelligent configuration loading.  It's clear that a lot of love and care went into creating this tool, and it shows in every aspect of the user experience.\n\nIn short, Perspt is a must-have tool for any developer who wants to integrate AI into their workflow effortlessly and efficiently.  It's fast, reliable, versatile, and beautiful—a perfect blend of power and elegance.  So, what are you waiting for? Give Perspt a try and experience the future of AI-powered development!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/eonseed/perspt)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Blinko: Your AI-Powered, Self-Hosted Note-Taking Revolution",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nBlinko is an open-source, self-hosted personal AI note tool that prioritizes privacy. It allows users to quickly capture and organize their thoughts with AI-enhanced retrieval using RAG, ensuring efficient access to information while maintaining complete control over their data. Blinko supports Markdown and offers multi-platform support via Tauri.\n\n## 🔑 Key Takeaways\n\n- ✅ AI-powered search for effortless note retrieval\n\n- ✅ Self-hosting for complete data control and privacy\n\n- ✅ Lightweight and cross-platform architecture for optimal performance\n\n- ✅ Plain text and Markdown support for easy sharing and collaboration\n\n- ✅ Open-source nature for community involvement and continuous improvement\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 5631\n- 🍴 Forks: 407\n- ❗ Open Issues: 170\n\n\n## 🛠 Tech Stack\n- ✅ TypeScript\n\n\nEver feel like your brilliant ideas vanish into the digital ether before you can capture them?  Blinko is here to rescue those fleeting thoughts! This open-source, self-hosted note-taking application is designed for speed and efficiency, letting you jot down ideas, code snippets, or meeting notes in a flash.  Forget cumbersome apps; Blinko's streamlined interface lets you focus on your thoughts, not the software.\n\nWhat makes Blinko truly special is its AI-powered search.  Using Retrieval-Augmented Generation (RAG), Blinko can understand the *meaning* of your notes, not just keywords.  Need to find that code snippet you wrote last week about asynchronous JavaScript?  Just ask Blinko, and it'll likely find it, even if you don't remember the exact terms you used. This is a game-changer for anyone who's ever spent hours searching through a mountain of disorganized notes.\n\nBlinko is built with Tauri, resulting in a lightweight, fast, and cross-platform application.  This means it runs smoothly on macOS, Windows, Linux, and even Android.  You can self-host it, giving you complete control over your data and ensuring your privacy. No more worrying about cloud services accessing your personal notes!\n\nAnother fantastic feature is the use of plain text and Markdown. This allows for easy sharing, collaboration, and effortless integration with other tools in your development workflow.  No proprietary file formats to lock you in—just clean, simple text that's easy to manage and share.\n\nBlinko's open-source nature is a huge plus for developers.  You can contribute to the project, improve it, and even learn from its well-structured codebase.  It's a chance to be part of a collaborative community and make a real difference in a tool that benefits everyone.\n\nFor developers, Blinko offers a significant advantage: the ability to quickly capture and retrieve information without the overhead of complex note-taking systems.  Imagine the time saved by instantly finding that crucial code snippet or design document.  The seamless integration with Markdown allows for rich formatting and easy sharing, making collaboration a breeze. And the self-hosting aspect ensures your data remains under your control, a crucial factor for many developers.\n\nThe lightweight architecture means Blinko won't hog your system resources, leaving you more power for your other applications.  It's a truly efficient and effective tool designed to enhance productivity, not hinder it.  Seriously, check out the demo; you'll be amazed at how simple yet powerful it is!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/blinkospace/blinko)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
+        {
+            "name": "note-taking",
+            "slug": "note-taking"
+        },
         {
             "name": "ai",
             "slug": "ai"
         },
         {
-            "name": "cli",
-            "slug": "cli"
+            "name": "open-source",
+            "slug": "open-source"
         },
         {
-            "name": "rust",
-            "slug": "rust"
+            "name": "self-hosted",
+            "slug": "self-hosted"
         },
         {
-            "name": "llm",
-            "slug": "llm"
-        },
-        {
-            "name": "terminal",
-            "slug": "terminal"
+            "name": "tauri",
+            "slug": "tauri"
         }
     ],
-    "slug": "perspt-your-terminals-new-ai-powerhouse",
-    "project_id": 903566213,
+    "slug": "blinko-your-ai-powered-self-hosted-note-taking-revolution",
+    "project_id": 877230294,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
