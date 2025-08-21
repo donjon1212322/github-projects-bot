@@ -1,26 +1,26 @@
 {
-    "article": "Ever feel like your brilliant ideas vanish into the digital ether before you can capture them?  Blinko is here to rescue those fleeting thoughts! This open-source, self-hosted note-taking application is designed for speed and efficiency, letting you jot down ideas, code snippets, or meeting notes in a flash.  Forget cumbersome apps; Blinko's streamlined interface lets you focus on your thoughts, not the software.\n\nWhat makes Blinko truly special is its AI-powered search.  Using Retrieval-Augmented Generation (RAG), Blinko can understand the *meaning* of your notes, not just keywords.  Need to find that code snippet you wrote last week about asynchronous JavaScript?  Just ask Blinko, and it'll likely find it, even if you don't remember the exact terms you used. This is a game-changer for anyone who's ever spent hours searching through a mountain of disorganized notes.\n\nBlinko is built with Tauri, resulting in a lightweight, fast, and cross-platform application.  This means it runs smoothly on macOS, Windows, Linux, and even Android.  You can self-host it, giving you complete control over your data and ensuring your privacy. No more worrying about cloud services accessing your personal notes!\n\nAnother fantastic feature is the use of plain text and Markdown. This allows for easy sharing, collaboration, and effortless integration with other tools in your development workflow.  No proprietary file formats to lock you in—just clean, simple text that's easy to manage and share.\n\nBlinko's open-source nature is a huge plus for developers.  You can contribute to the project, improve it, and even learn from its well-structured codebase.  It's a chance to be part of a collaborative community and make a real difference in a tool that benefits everyone.\n\nFor developers, Blinko offers a significant advantage: the ability to quickly capture and retrieve information without the overhead of complex note-taking systems.  Imagine the time saved by instantly finding that crucial code snippet or design document.  The seamless integration with Markdown allows for rich formatting and easy sharing, making collaboration a breeze. And the self-hosting aspect ensures your data remains under your control, a crucial factor for many developers.\n\nThe lightweight architecture means Blinko won't hog your system resources, leaving you more power for your other applications.  It's a truly efficient and effective tool designed to enhance productivity, not hinder it.  Seriously, check out the demo; you'll be amazed at how simple yet powerful it is!",
+    "article": "Hey fellow developers! Ever wished there was a single, streamlined tool to manage all those pesky Linux system setup tasks?  Meet Linutil, a distro-agnostic toolbox built in Rust that's designed to simplify your life.  Forget juggling multiple commands and scripts – Linutil brings it all together in one user-friendly package.  It handles application setup, system optimization, and more, making your Linux experience smoother and more efficient.\n\nLinutil's architecture is elegantly simple. It's built with Rust, meaning it's fast, reliable, and secure.  The core functionality is delivered through a powerful command-line interface (CLI) that's intuitive and easy to navigate.  Need to install a specific application?  Linutil handles it. Want to optimize your system for gaming? Linutil's got you covered.  The best part? It works across different Linux distributions, so you don't have to worry about compatibility issues.\n\nOne of the coolest things about Linutil is its extensibility.  It's designed to be modular, allowing developers to easily add new features and integrations.  This means that the community can contribute to the project, expanding its functionality over time and ensuring it remains relevant and useful.  And if you run into any issues, the developers actively encourage feedback and contributions, making it a truly collaborative project.\n\nSo, what are the benefits for developers?  First and foremost, time savings. Linutil automates many tedious tasks, allowing you to focus on more important things – like coding!  Secondly, it improves workflow consistency.  Whether you're working on your own machine or a remote server, Linutil provides a consistent and reliable way to manage your system.  Thirdly, it simplifies the process of setting up development environments, allowing you to quickly and easily get started on new projects.  Finally, it's just plain fun to use! The CLI is well-designed and easy to use, making the whole process enjoyable.\n\nLinutil also offers configuration options through a TOML file, enabling customization to fit your specific needs.  You can define automatic commands, bypass size checks and skip confirmation prompts. This level of customization empowers you to tailor Linutil to your specific workflow and preferences.\n\nInstallation is a breeze. You can grab it via a simple curl command, use your preferred AUR helper if you're on Arch Linux, or install it directly through Cargo if you're a Rust enthusiast.  Extensive documentation is available online, guiding you through every step of the way.  The project also boasts a thriving community, ready to offer support and assistance.\n\nIn short, Linutil is a game-changer for Linux developers. It's a powerful, versatile, and easy-to-use tool that can significantly improve your productivity and overall Linux experience.  Check it out – you won't be disappointed!",
     "key_takeaways": [
-        "AI-powered search for effortless note retrieval",
-        "Self-hosting for complete data control and privacy",
-        "Lightweight and cross-platform architecture for optimal performance",
-        "Plain text and Markdown support for easy sharing and collaboration",
-        "Open-source nature for community involvement and continuous improvement"
+        "Streamlines Linux system setup tasks",
+        "Distro-agnostic and built with Rust for speed and reliability",
+        "Offers a user-friendly CLI and supports custom configurations",
+        "Saves developers time and improves workflow consistency",
+        "Active community and extensive documentation"
     ],
     "tags": [
-        "note-taking",
-        "AI",
-        "open-source",
-        "self-hosted",
-        "Tauri"
+        "Linux",
+        "Rust",
+        "CLI",
+        "System Administration",
+        "DevOps"
     ],
-    "title": "Blinko: Your AI-Powered, Self-Hosted Note-Taking Revolution",
-    "stars": 5631,
-    "forks": 407,
-    "open_issues": 170,
-    "languages": "TypeScript",
-    "readme_summary": "Blinko is an open-source, self-hosted personal AI note tool that prioritizes privacy. It allows users to quickly capture and organize their thoughts with AI-enhanced retrieval using RAG, ensuring efficient access to information while maintaining complete control over their data. Blinko supports Markdown and offers multi-platform support via Tauri.",
-    "project_id": 877230294,
-    "url": "https://github.com/blinkospace/blinko",
-    "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript ."
+    "title": "Linutil: Your New Best Friend for Effortless Linux System Management",
+    "stars": 4161,
+    "forks": 330,
+    "open_issues": 36,
+    "languages": "Shell",
+    "readme_summary": "Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks, including application setup and system optimization. It offers a command-line interface with configuration options via TOML files and is available through various package repositories like AUR, OpenSUSE, and Cargo, making it easily accessible for a wide range of Linux users.",
+    "project_id": 800692439,
+    "url": "https://github.com/ChrisTitusTech/linutil",
+    "description": "Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks."
 }
