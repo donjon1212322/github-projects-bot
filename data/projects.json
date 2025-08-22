@@ -1,283 +1,299 @@
 [
     {
-        "id": 800692439,
-        "name": "linutil",
-        "description": "Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.",
-        "url": "https://github.com/ChrisTitusTech/linutil",
-        "language": "Shell",
-        "stars": 4161,
-        "forks": 330,
-        "created_at": "2024-05-14T20:14:47Z",
-        "updated_at": "2025-08-21T10:11:20Z",
-        "topics": [
-            "linux"
-        ],
-        "quality_score": 1.0000000000000002,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-19T18:40:38Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/874f8e6c035fdd89cd9af94e798e1aed28fc415fab8bcdac4e652d5e2d2fa6b1/ChrisTitusTech/linutil"
-        ],
-        "homepage": "https://christitus.com",
-        "readme_summary": "Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks, including application setup and system optimization. It offers a command-line interface with configuration options via TOML files and is available through various package repositories like AUR, OpenSUSE, and Cargo, making it easily accessible for a wide range of Linux users.",
-        "key_features": [
-            "Distro-agnostic",
-            "Simplifies Linux tasks",
-            "Application setup",
-            "System optimization",
-            "Configuration via TOML",
-            "Available in multiple repositories (AUR, OpenSUSE, Cargo)"
-        ],
-        "primary_use_case": "Simplifying and automating common Linux system administration and application setup tasks.",
-        "open_issues": 36,
-        "cover_image_prompt": "A skilled mechanic in a high-tech workshop, tuning up a Linux system represented as a complex engine. The mechanic uses specialized tools (scripts) to optimize various components, with digital readouts displaying performance metrics. Completed tasks glow with a soft, green light. The workshop is clean and organized, with subtle UI elements and code snippets visible on nearby screens. The repository name, 'Linutil,' is subtly etched on one of the tools. The scene is brightly lit and inviting, in a 3D isometric illustration style with clear details and vibrant colors."
-    },
-    {
-        "id": 1037244554,
-        "name": "dnSurfer",
-        "description": "A web browser that surfs entirely over DNS",
-        "url": "https://github.com/nadchif/dnSurfer",
-        "language": "JavaScript",
-        "stars": 16,
-        "forks": 1,
-        "created_at": "2025-08-13T09:28:59Z",
-        "updated_at": "2025-08-21T09:46:12Z",
-        "topics": [
-            "dns",
-            "electron",
-            "javascript",
-            "linux",
-            "network-security"
-        ],
-        "quality_score": 0.44999999999999996,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-13T17:49:31Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/fae8fdbbfd36e6fbcbbf3743e1956c4f060b32906dac6694cdd1cf2fdf414f31/nadchif/dnSurfer"
-        ],
-        "homepage": "https://dev.to/dchif/making-a-browser-that-slips-past-wi-fi-captive-portals-and-why-this-loophole-isnt-worth-it-13o",
-        "readme_summary": "dnSurfer is a proof-of-concept web browser that operates entirely over DNS, enabling text-only browsing by converting DNS queries into web content. It uses a client-server architecture with a custom DNS server and an Electron-based desktop application. The primary use case is to bypass network restrictions and captive portals.",
-        "key_features": [
-            "Text-only web browser operating entirely over DNS",
-            "Client-server architecture using DNS queries for web content",
-            "Custom DNS server serving stripped-down web pages as DNS responses",
-            "Electron-based desktop application",
-            "Circumvents captive portals"
-        ],
-        "primary_use_case": "Bypassing network restrictions and captive portals by surfing the web using DNS queries.",
-        "open_issues": 0,
-        "cover_image_prompt": "Imagine a surfer riding a wave of DNS queries, bypassing a towering wall representing a captive portal. The surfer, holding a surfboard shaped like a browser window, navigates effortlessly through the DNS wave, which is composed of swirling text records. On the shore, a simplified webpage is displayed on a small, retro computer. Subtle digital particles emanate from the DNS wave, highlighting the data transfer. The repository name, 'dnSurfer,' is subtly etched onto the surfboard. The scene is set during a vibrant sunset, creating a sense of freedom and circumventing restrictions. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 1030455649,
-        "name": "iOS-OCR-Server",
-        "description": "iOS OCR Server, using Apple's Vision Framework API.",
-        "url": "https://github.com/riddleling/iOS-OCR-Server",
-        "language": "Swift",
-        "stars": 30,
-        "forks": 2,
-        "created_at": "2025-08-01T17:07:54Z",
-        "updated_at": "2025-08-21T09:31:23Z",
-        "topics": [
-            "http-server",
-            "ios",
-            "ocr",
-            "vision-framework"
-        ],
-        "quality_score": 0.44999999999999996,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-19T13:44:11Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/40cc2e6411f53af5e67b4697193a79025633ad94b9852d903a15015206d094c6/riddleling/iOS-OCR-Server"
-        ],
-        "homepage": "https://apps.apple.com/us/app/ocr-server/id6749533041",
-        "readme_summary": "This repository provides a local OCR server using Apple's Vision Framework, enabling text recognition on images without cloud dependencies. It features a JSON API for easy integration and supports multiple languages, ensuring complete privacy and unlimited usage.",
-        "key_features": [
-            "High-precision OCR powered by Apple’s Vision Framework",
-            "Supports multiple languages with automatic detection",
-            "Upload via web interface and receive OCR results within seconds",
-            "JSON API for easy integration into apps",
-            "100% local processing, no cloud, full privacy"
-        ],
-        "primary_use_case": "Local OCR without cloud services",
-        "open_issues": 0,
-        "cover_image_prompt": "A diligent librarian meticulously scanning ancient scrolls with a high-tech magnifying glass, instantly converting the archaic text into modern digital characters displayed on a nearby holographic screen. The librarian sits amidst towering shelves filled with both physical books and glowing data servers, symbolizing the blend of traditional knowledge and cutting-edge technology. Subtle UI elements on the screen show the OCR process in action, with snippets of code subtly integrated into the background. The scene is bathed in soft, warm light, creating a sense of focused productivity. The image should be in a 3D isometric illustration style with clean lines and vibrant colors."
-    },
-    {
-        "id": 992578965,
-        "name": "comfyui-lumi-batcher",
-        "description": "ComfyUI Lumi Batcher is a batch processing extension plugin designed for ComfyUI, aiming to improve workflow debugging efficiency. Traditional debugging methods require adjusting parameters one by one, while this tool significantly enhances work efficiency through batch processing capabilities.",
-        "url": "https://github.com/bytedance/comfyui-lumi-batcher",
-        "language": "TypeScript",
-        "stars": 388,
-        "forks": 15,
-        "created_at": "2025-05-29T11:36:41Z",
-        "updated_at": "2025-08-21T09:21:00Z",
-        "topics": [],
-        "quality_score": 0.6,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-11T11:23:43Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/a07384a617d23aac0e9e2b4f89aa7dbf2835f5ccd5fa4cb1d9b8edd1bfbb21e3/bytedance/comfyui-lumi-batcher"
-        ],
-        "homepage": "",
-        "readme_summary": "ComfyUI Lumi Batcher is a batch processing extension for ComfyUI that improves workflow debugging and AIGC creation efficiency. It allows users to cross-test any workflow parameter, combine parameters creatively, and visually manage results in multi-dimensional grids. The extension supports text, image, and video creation workflows and offers an intuitive interface for easy adoption.",
-        "key_features": [
-            "Batch processing of ComfyUI workflows",
-            "Flexible parameter grouping and cross-testing",
-            "Visual result management with multi-dimensional grids",
-            "Support for text, image, and video creation workflows",
-            "Easy adoption with an intuitive interface"
-        ],
-        "primary_use_case": "Enhancing AIGC creation efficiency through batch processing and parameter testing in ComfyUI.",
-        "open_issues": 8,
-        "cover_image_prompt": "Imagine a skilled artisan meticulously crafting multiple identical clay figures simultaneously on a potter's wheel, each representing a slightly different parameter setting. The artisan's hands move swiftly, adjusting dials and levers that control the wheel's speed and the clay's composition. Subtle UI elements float around the scene, displaying parameter names and values. The background features a grid of finished figures, showcasing the variations achieved through batch processing. The scene is bathed in soft, focused lighting, highlighting the artisan's precision and the subtle differences in the figures. The image should be in a 3D isometric illustration style with clean lines and vibrant colors."
-    },
-    {
-        "id": 976756036,
-        "name": "vago",
-        "description": "A practical Go toolkit with generic utilities for working with slices, maps, and functional programming primitives, streams, databases and more",
-        "url": "https://github.com/sonirico/vago",
+        "id": 997887280,
+        "name": "lyricScribe",
+        "description": "A live lyrics fetcher for MPRIS compatible players made with Go",
+        "url": "https://github.com/user354015/lyricScribe",
         "language": "Go",
-        "stars": 87,
-        "forks": 2,
-        "created_at": "2025-05-02T17:32:52Z",
-        "updated_at": "2025-08-21T09:27:35Z",
+        "stars": 19,
+        "forks": 1,
+        "created_at": "2025-06-07T12:06:27Z",
+        "updated_at": "2025-08-22T10:06:46Z",
         "topics": [
-            "functional",
-            "generics",
-            "go",
-            "golang",
-            "maps",
-            "monads",
-            "programming",
-            "slices",
-            "streams",
-            "toolkit",
-            "utils"
+            "live-lyrics",
+            "lyrics",
+            "lyrics-fetcher",
+            "music",
+            "synced-lyrics"
         ],
-        "quality_score": 0.5499999999999999,
+        "quality_score": 0.55,
         "contributors_count": 0,
-        "last_commit_date": "2025-07-18T15:42:55Z",
+        "last_commit_date": "2025-08-22T09:37:31Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/592a788c5c96e552e78bea0e403c7e15b9594b8698082d7fd37f0926fa28086f/sonirico/vago"
+            "https://opengraph.githubassets.com/fc56783b78a76d9a4f73434c76eee347ebd26b86334c047f5e33f6a2df4cb239/user354015/lyricScribe"
         ],
         "homepage": "",
-        "readme_summary": "Vago is a Go toolkit offering a wide range of utilities for slices, maps, functional programming, streams, and databases. It emphasizes modularity through Go workspaces, ensuring lightweight imports and faster builds by isolating dependencies for each module. This allows developers to use only the necessary components without unnecessary bloat.",
+        "readme_summary": "lyricScribe is a Go script designed to fetch, check, and display synchronized lyrics for songs played using MPRIS-compatible music players. It allows users to easily view lyrics in sync with their music, and offers configuration options, including specific support for floating lyrics on Hyprland.",
         "key_features": [
-            "Generic utilities for slices and maps",
-            "Functional programming primitives",
-            "Stream processing",
-            "Database access and management",
-            "Modular design with isolated dependencies"
+            "Downloads synced lyrics",
+            "Checks lyrics",
+            "Displays synced lyrics for MPRIS compatible players",
+            "Configuration options",
+            "Hyprland floating lyrics support"
         ],
-        "primary_use_case": "Provides a comprehensive toolkit for Go developers to enhance productivity and code quality with a variety of utilities and modules.",
-        "open_issues": 0,
-        "cover_image_prompt": "A skilled artisan in a workshop meticulously crafting a versatile Swiss Army knife from raw digital materials. The knife's various tools – a database connector, a functional programming module, a stream processor, and more – are clearly visible and labeled with icons. The artisan uses a holographic interface to shape and refine each tool, ensuring seamless integration. The workshop is filled with subtle tech elements like glowing data streams and code snippets projected onto the walls. The scene is brightly lit and has a clean, organized feel. The image should be in 3D isometric illustration style with vibrant colors and sharp details."
+        "primary_use_case": "Fetching and displaying synced lyrics for music played through MPRIS compatible players.",
+        "open_issues": 1,
+        "cover_image_prompt": "A diligent scribe meticulously transcribing musical notes flowing from a grand piano onto a digital screen displaying synchronized lyrics. The scribe's quill emits glowing particles that form the words on the screen, perfectly aligned with the musical notes. A small UI element in the corner shows the lyricScribe logo and real-time lyric synchronization. The scene is set in a cozy music room with warm lighting. The image should be in a digital painting style with clear outlines and vibrant colors, creating a harmonious blend of music and technology."
     },
     {
-        "id": 786489968,
-        "name": "wealth-tracker",
-        "description": "💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI 能力，结合每种资产的特性和当前环境，提供适宜的财务建议。",
-        "url": "https://github.com/nicejade/wealth-tracker",
-        "language": "Svelte",
-        "stars": 692,
-        "forks": 55,
-        "created_at": "2024-04-14T16:13:58Z",
-        "updated_at": "2025-08-21T08:18:45Z",
+        "id": 1030855297,
+        "name": "spill",
+        "description": "transient clipboard server for windows",
+        "url": "https://github.com/inversepolarity/spill",
+        "language": "C++",
+        "stars": 3,
+        "forks": 0,
+        "created_at": "2025-08-02T13:24:05Z",
+        "updated_at": "2025-08-22T08:05:55Z",
         "topics": [
-            "analyzer",
-            "axios",
-            "dayjs",
-            "fastify",
-            "flowbite",
-            "nodejs",
-            "sequelize",
-            "sqlite3",
-            "svelte",
-            "tailwindcss",
-            "vite"
+            "clipboard",
+            "clipboard-server",
+            "cpp17",
+            "flask",
+            "python",
+            "win32"
         ],
-        "quality_score": 0.7,
+        "quality_score": 0.44999999999999996,
         "contributors_count": 0,
-        "last_commit_date": "2025-08-20T16:18:49Z",
+        "last_commit_date": "2025-08-02T22:55:58Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/bfee6bdeeada301ca81718dfa04719b160f67227b87440a59089bc94de7bdda8/nicejade/wealth-tracker"
+            "https://opengraph.githubassets.com/536209edd005003d3c191d01b50dc95c92eba4aaa18550dd3d5890fea7774e7b/inversepolarity/spill"
         ],
-        "homepage": "https://fund.lovejade.cn",
-        "readme_summary": "Wealth Tracker is a personal finance application designed to comprehensively record and display a user's asset status, providing a clear understanding of their financial situation. It leverages AI to offer tailored financial advice based on asset characteristics and current market conditions. The application aims to simplify personal asset management and reveal overall wealth trends through an intuitive user interface.",
+        "homepage": "http://ip.evenzero.in",
+        "readme_summary": "Spill is a transient clipboard server for Windows that allows users to copy and paste data between different machines. It supports both local and remote access via HTTP or HTTPS, and ensures that no data is permanently stored. The application also offers Unicode support and the ability to minimize to the system tray.",
         "key_features": [
-            "Easy-to-use interface",
-            "Data visualization",
-            "Local deployment",
-            "Open-source code",
-            "Multi-language support",
-            "AI-powered financial advice",
-            "Wealth insights recording"
+            "Runs locally or on an external host (HTTP or HTTPS)",
+            "Fully transient data storage",
+            "Unicode support",
+            "Minimize to tray"
         ],
-        "primary_use_case": "Personal asset tracking and analysis",
-        "open_issues": 14,
-        "cover_image_prompt": "A skilled gardener tending to a flourishing money tree whose leaves are financial assets like stocks, bonds, and crypto coins. The gardener uses a tablet displaying charts and AI-driven insights to nourish the tree, ensuring healthy growth and diversification. Roots of the tree are connected to a secure, encrypted vault, symbolizing data privacy and security. The scene is set in a bright, futuristic greenhouse with subtle digital interfaces displaying asset allocations and performance metrics. The image should be in a 3D isometric illustration style with vibrant colors and clean, modern design."
-    },
-    {
-        "id": 943643497,
-        "name": "NetSonar",
-        "description": "Network pings and other utilities",
-        "url": "https://github.com/sn4k3/NetSonar",
-        "language": "C#",
-        "stars": 522,
-        "forks": 33,
-        "created_at": "2025-03-06T03:22:55Z",
-        "updated_at": "2025-08-21T08:39:51Z",
-        "topics": [],
-        "quality_score": 0.5499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-08T14:52:26Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/5708170c12a36dc5ce7f43e78ca8d78a7d486342a7af6e278947177d39507a42/sn4k3/NetSonar"
-        ],
-        "homepage": null,
-        "readme_summary": "NetSonar is a network diagnostics tool written in C# that allows users to perform network pings, manage network interfaces, and discover local devices/services. It offers features like multi-protocol latency checks, subnet scanning, port/service detection, and real-time interface configuration, making it suitable for administrators and developers needing lightweight, cross-platform network analysis.",
-        "key_features": [
-            "Network Pings (ICMP/TCP/UDP/HTTP)",
-            "Interface Management",
-            "Cross-Platform Compatibility",
-            "Modern UI",
-            "Charts and Visualizations",
-            "Customizable Themes",
-            "Open Source"
-        ],
-        "primary_use_case": "Network diagnostics and analysis for administrators and developers.",
-        "open_issues": 2,
-        "cover_image_prompt": "A seasoned network engineer, depicted as a detective, meticulously examines a complex network map projected onto a holographic screen. The engineer uses a magnifying glass that emits digital pulses, highlighting potential bottlenecks and vulnerabilities within the network. The map displays various interconnected devices and servers represented by stylized icons. Small UI elements showing real-time ping results and network statistics float around the engineer. The scene is set in a dimly lit, futuristic control room with a blue and green color scheme. The image should be in a 3D isometric illustration style with sharp details and a focus on clarity."
-    },
-    {
-        "id": 1014592707,
-        "name": "muvera-py",
-        "description": "Python Implementation of MUVERA (Multi-Vector Retrieval via Fixed Dimensional Encodings)",
-        "url": "https://github.com/sigridjineth/muvera-py",
-        "language": "Python",
-        "stars": 295,
-        "forks": 13,
-        "created_at": "2025-07-06T03:02:23Z",
-        "updated_at": "2025-08-21T00:05:23Z",
-        "topics": [],
-        "quality_score": 0.3,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-06T04:21:02Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/7c666efbef6c0ee5784aedeec3f69d9a4cc25b2b89d04f4f59e08423e8b9db4c/sigridjineth/muvera-py"
-        ],
-        "homepage": "https://github.com/google/graph-mining/tree/main/sketching/point_cloud",
-        "readme_summary": "This repository provides a Python implementation of the MUVERA algorithm, which uses Fixed-Dimensional Encoding (FDE) to transform multiple vectors into a single fixed-size vector. This allows for efficient similarity searches in large datasets where documents are represented by multiple vectors, preserving the relationships between them.",
-        "key_features": [
-            "Transforms multiple vectors into a single fixed-size vector.",
-            "Preserves similarity relationships between multi-vector sets.",
-            "Provides a Python implementation of the MUVERA algorithm.",
-            "Maintains fidelity to the original C++ implementation."
-        ],
-        "primary_use_case": "Efficiently searching through billions of documents represented by hundreds of vectors, as in ColBERT-style models.",
+        "primary_use_case": "Transient clipboard server for Windows",
         "open_issues": 0,
-        "cover_image_prompt": "Imagine a skilled artisan meticulously crafting a mosaic from countless tiny, colorful tiles (representing individual vectors). The artisan carefully arranges these tiles to form a single, cohesive image (the fixed-dimensional encoding), preserving the overall pattern and relationships of the original tiles. Subtle digital elements, like glowing code snippets embedded within the mosaic, hint at the underlying technology. The scene is bathed in warm, inviting light, suggesting accessibility and ease of use. The style is a 3D isometric illustration with vibrant colors and rich details."
+        "cover_image_prompt": "A diligent scribe meticulously copying information from a fleeting, ethereal scroll onto a more permanent, sturdy tablet. The scroll represents the clipboard data, appearing translucent and temporary, while the tablet symbolizes the persistent storage. The scribe's quill glows with a soft, digital light, subtly hinting at the software aspect. Small UI elements float around the scene, displaying snippets of text being transferred. The setting is a minimalist, modern workspace with a focus on clarity and efficiency. The image should be in a flat design style with clear iconography and a pastel color scheme."
+    },
+    {
+        "id": 1031499454,
+        "name": "protector",
+        "description": "Real-time privacy protection for smart glasses",
+        "url": "https://github.com/PrivacyIsAllYouNeed/protector",
+        "language": "Python",
+        "stars": 69,
+        "forks": 4,
+        "created_at": "2025-08-03T21:44:07Z",
+        "updated_at": "2025-08-22T07:57:50Z",
+        "topics": [],
+        "quality_score": 0.44999999999999996,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-13T18:53:31Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/42dc5a084618f1e7a7d9c309bbe841f69c2b8150fb5917c96fa3e65d7db5ec83/PrivacyIsAllYouNeed/protector"
+        ],
+        "homepage": "https://privacy.camera",
+        "readme_summary": "The 'protector' repository provides real-time privacy protection for smart glasses by filtering camera feeds. It anonymizes faces, manages consent through voice detection, and operates offline. The system offers developer-friendly features like easy camera replacement and an HTTP API for control, making it suitable for AI assistants, social apps, and enterprise applications.",
+        "key_features": [
+            "Anonymizes faces (blur or ellipse masking)",
+            "Manages consent (detects verbal consent)",
+            "Real-time processing (720p 30fps)",
+            "100% offline operation",
+            "Recording",
+            "Easy camera replacement",
+            "RTMP input / multiple output formats",
+            "HTTP API for control"
+        ],
+        "primary_use_case": "Real-time privacy protection for smart glasses applications.",
+        "open_issues": 0,
+        "cover_image_prompt": "A skilled artisan carefully crafting privacy filters onto a pair of smart glasses in a bright, modern workshop. The artisan uses delicate tools to apply layers of protection, represented by glowing, translucent shields, over the lenses. A stream of digital data flows into the glasses, while a clean, anonymized output emerges. Subtle UI elements and code snippets float in the background, reinforcing the software aspect. The workshop is filled with soft, diffused light, creating a sense of security and innovation. The image should be in 3D isometric illustration style with vibrant colors and crisp details."
+    },
+    {
+        "id": 1034662181,
+        "name": "wlgblock",
+        "description": "Wayland Gameboy locker",
+        "url": "https://github.com/AdoPi/wlgblock",
+        "language": "C",
+        "stars": 159,
+        "forks": 2,
+        "created_at": "2025-08-08T19:04:49Z",
+        "updated_at": "2025-08-22T04:38:27Z",
+        "topics": [],
+        "quality_score": 0.55,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-10T11:52:57Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/2343b406ee4ceacb28aedcfb429c11d4ace08ed34e8e81856fa469c3597ba586/AdoPi/wlgblock"
+        ],
+        "homepage": "",
+        "readme_summary": "The wlgblock repository provides a unique way to lock and unlock a Wayland session by using a Gameboy emulator as a locker. It replaces the traditional password screen with a custom Pokémon game, where the user must solve a puzzle to unlock their session. The project leverages the ext-session-lock-v1 protocol for secure locking and involves patching both a Gameboy emulator and a Pokémon game to achieve this functionality.",
+        "key_features": [
+            "Replaces password screen with a Gameboy emulator.",
+            "Uses a patched Pokémon game as a session unlock mechanism.",
+            "Implements a custom Wayland window using EGL and keyboard listeners.",
+            "Utilizes the ext-session-lock-v1 protocol for secure session locking.",
+            "Hacks a Gameboy emulator (GBCC) to integrate with the Wayland window.",
+            "Patches a Pokémon game (pokecrystal) to implement custom password logic."
+        ],
+        "primary_use_case": "Replacing the standard Wayland password screen with a Gameboy emulator running a custom Pokémon game, requiring the user to solve a puzzle within the game to unlock their session.",
+        "open_issues": 1,
+        "cover_image_prompt": "Imagine a pixelated Game Boy screen displaying a locked door. A determined character inside the Game Boy is solving a Pokémon puzzle, manipulating sprites and navigating menus. Upon solving the puzzle, the locked door on the Game Boy screen swings open, revealing a modern desktop environment beyond. Subtle code snippets and Wayland logos float around the Game Boy, hinting at the underlying technology. The scene is lit with a soft, nostalgic glow, emphasizing the blend of retro gaming and modern OS security. The image should be in a vibrant, 3D isometric illustration style with clear details and a playful color scheme."
+    },
+    {
+        "id": 289516116,
+        "name": "feroxbuster",
+        "description": "A fast, simple, recursive content discovery tool written in Rust.",
+        "url": "https://github.com/epi052/feroxbuster",
+        "language": "Rust",
+        "stars": 6884,
+        "forks": 548,
+        "created_at": "2020-08-22T15:36:19Z",
+        "updated_at": "2025-08-22T08:57:13Z",
+        "topics": [
+            "content-discovery",
+            "enumeration",
+            "hacktoberfest",
+            "pentest",
+            "pentesting-tool",
+            "rust",
+            "url-bruteforcer",
+            "web"
+        ],
+        "quality_score": 0.95,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-03T13:18:50Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/289516116/e4e2cc00-0560-11eb-888b-42dbdfc1c72c"
+        ],
+        "homepage": "https://epi052.github.io/feroxbuster-docs/docs/",
+        "readme_summary": "Feroxbuster is a content discovery tool written in Rust that performs forced browsing to identify unlinked resources on web applications. It uses brute force combined with a wordlist to recursively search for hidden files and directories, helping to uncover sensitive information and potential vulnerabilities.",
+        "key_features": [
+            "Fast content discovery",
+            "Recursive directory enumeration",
+            "Forced browsing",
+            "Wordlist-based scanning"
+        ],
+        "primary_use_case": "Content discovery and enumeration of hidden or unlinked resources on web servers.",
+        "open_issues": 24,
+        "cover_image_prompt": "A seasoned archaeologist carefully brushing away sand to reveal hidden doorways in an ancient temple representing a website. The archaeologist holds a magnifying glass, revealing subtle clues and paths not immediately visible. The temple is adorned with UI elements and glowing digital particles, subtly connecting the scene to software. Small code snippets are etched into the temple walls as secondary details. The scene is set in a sunlit jungle clearing with a sense of discovery. The image should be in a detailed digital painting style with clear outlines and vibrant colors."
+    },
+    {
+        "id": 314763206,
+        "name": "urlhunter",
+        "description": "a recon tool that allows searching on URLs that are exposed via shortener services",
+        "url": "https://github.com/utkusen/urlhunter",
+        "language": "Go",
+        "stars": 1639,
+        "forks": 116,
+        "created_at": "2020-11-21T08:05:57Z",
+        "updated_at": "2025-08-22T08:37:52Z",
+        "topics": [
+            "bugbounty",
+            "intelligence",
+            "osint",
+            "recon",
+            "security"
+        ],
+        "quality_score": 0.35,
+        "contributors_count": 0,
+        "last_commit_date": "2025-01-23T15:47:00Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/314763206/b8466780-2cfa-11eb-874f-c28a74c678b0"
+        ],
+        "homepage": "",
+        "readme_summary": "urlhunter is a Go-based reconnaissance tool designed to discover URLs exposed through shortener services. It leverages the URLTeam's archive of brute-forced URLs, allowing users to search for specific keywords or regular expressions within specified date ranges. The tool is useful for security researchers and bug bounty hunters seeking to uncover hidden or sensitive information.",
+        "key_features": [
+            "Searches for URLs exposed via shortener services.",
+            "Analyzes URLTeam's collections of brute-forced URLs.",
+            "Supports keyword-based searching with single, multiple (AND logic), and regex options.",
+            "Allows specifying date ranges for archive analysis.",
+            "Offers output to file and archive removal options.",
+            "Provides a workaround for Archive.org throttling via local torrent downloads."
+        ],
+        "primary_use_case": "Reconnaissance and intelligence gathering, particularly for bug bounty hunting and cyber threat intelligence.",
+        "open_issues": 0,
+        "cover_image_prompt": "Imagine a detective meticulously sifting through a vast digital haystack, illuminated by the glow of a monitor displaying lines of code. The detective, representing urlhunter, uses a magnifying glass to examine tiny, scattered URLs, each a potential clue. These URLs, like shimmering threads, lead to a treasure chest overflowing with valuable intelligence. The background features stylized representations of URL shortener services, subtly integrated into the scene. The overall style is a clean, modern digital illustration with a focus on clarity and visual storytelling, employing a cool color palette to evoke a sense of focused investigation."
+    },
+    {
+        "id": 4927517,
+        "name": "arkime",
+        "description": "Arkime is an open source, large scale, full packet capturing, indexing, and database system.",
+        "url": "https://github.com/arkime/arkime",
+        "language": "JavaScript",
+        "stars": 6766,
+        "forks": 1086,
+        "created_at": "2012-07-06T16:10:55Z",
+        "updated_at": "2025-08-22T08:19:44Z",
+        "topics": [
+            "big-data",
+            "c",
+            "javascript",
+            "network-monitoring",
+            "nsm",
+            "packet-capture",
+            "pcap",
+            "security"
+        ],
+        "quality_score": 0.95,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-15T14:48:46Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/404f6866c947f0315f4fe2391a1e4c896161b02abb7e01a834d407ca7fd68350/arkime/arkime"
+        ],
+        "homepage": "https://arkime.com",
+        "readme_summary": "Arkime is an open-source network analysis tool that captures and indexes network traffic for security monitoring and analysis. It stores data in standard PCAP format, provides a web interface for browsing and searching, and offers APIs for programmatic access. Arkime is designed to scale to handle large network environments.",
+        "key_features": [
+            "Full packet capture and storage in PCAP format",
+            "Indexed access to network traffic",
+            "Web interface for browsing, searching, and exporting PCAPs",
+            "APIs for downloading PCAP data and JSON session data",
+            "Scalable architecture for handling high traffic volumes",
+            "Metadata retention based on Elasticsearch cluster scale"
+        ],
+        "primary_use_case": "Network analysis and security monitoring through full packet capture and indexing.",
+        "open_issues": 75,
+        "cover_image_prompt": "Imagine a skilled cartographer meticulously charting a vast, swirling ocean of network data. The cartographer uses specialized tools to capture individual packets, represented as glowing fish, and carefully logs them into detailed maps and indexes. A large magnifying glass hovers over the scene, highlighting specific data points and connections. Subtle UI elements float in the background, displaying real-time network traffic and search queries. The scene is bathed in a soft, ethereal light, creating a sense of discovery and control. The image should be in a detailed digital painting style with vibrant colors and clear outlines."
+    },
+    {
+        "id": 303766501,
+        "name": "tolgee-platform",
+        "description": "Developer & translator friendly web-based localization platform",
+        "url": "https://github.com/tolgee/tolgee-platform",
+        "language": "TypeScript",
+        "stars": 3411,
+        "forks": 292,
+        "created_at": "2020-10-13T16:36:39Z",
+        "updated_at": "2025-08-22T07:44:58Z",
+        "topics": [
+            "angular",
+            "hacktoberfest",
+            "i18n",
+            "i18next",
+            "internationalization",
+            "javascript",
+            "l10n",
+            "localization",
+            "localization-tool",
+            "react",
+            "svelte",
+            "translation",
+            "translation-management",
+            "translations",
+            "translations-api",
+            "vue"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-22T07:44:54Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/0912d42d86463aaff7f7aba4c2e006fafa83c510b454c8bcb22eac762f867924/tolgee/tolgee-platform"
+        ],
+        "homepage": "https://tolgee.io",
+        "readme_summary": "Tolgee is an open-source localization platform designed to streamline the translation process for developers and translators. It offers features like in-context translation, one-click screenshots, and production environment translation capabilities. Tolgee integrates seamlessly into applications through powerful SDKs, providing a truly embedded translation experience.",
+        "key_features": [
+            "In-context translation",
+            "One-click screenshots for translation",
+            "Translation directly on production environments",
+            "True integrations via SDKs"
+        ],
+        "primary_use_case": "Web-based localization platform for developers and translators.",
+        "open_issues": 165,
+        "cover_image_prompt": "Imagine a skilled artisan meticulously crafting a vibrant tapestry, weaving together threads of different languages. Each thread represents a translated phrase, carefully chosen and placed to create a beautiful, cohesive design. The artisan uses a digital loom with a user-friendly interface, displaying real-time previews of the tapestry. Small screens show snippets of code and translation suggestions. The scene is set in a bright, modern workshop with natural light. The image should be in a 3D isometric illustration style with rich details and vibrant colors, subtly incorporating the Tolgee logo."
     }
 ]

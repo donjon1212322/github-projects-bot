@@ -1,26 +1,26 @@
 {
-    "article": "Hey fellow developers! Ever wished there was a single, streamlined tool to manage all those pesky Linux system setup tasks?  Meet Linutil, a distro-agnostic toolbox built in Rust that's designed to simplify your life.  Forget juggling multiple commands and scripts – Linutil brings it all together in one user-friendly package.  It handles application setup, system optimization, and more, making your Linux experience smoother and more efficient.\n\nLinutil's architecture is elegantly simple. It's built with Rust, meaning it's fast, reliable, and secure.  The core functionality is delivered through a powerful command-line interface (CLI) that's intuitive and easy to navigate.  Need to install a specific application?  Linutil handles it. Want to optimize your system for gaming? Linutil's got you covered.  The best part? It works across different Linux distributions, so you don't have to worry about compatibility issues.\n\nOne of the coolest things about Linutil is its extensibility.  It's designed to be modular, allowing developers to easily add new features and integrations.  This means that the community can contribute to the project, expanding its functionality over time and ensuring it remains relevant and useful.  And if you run into any issues, the developers actively encourage feedback and contributions, making it a truly collaborative project.\n\nSo, what are the benefits for developers?  First and foremost, time savings. Linutil automates many tedious tasks, allowing you to focus on more important things – like coding!  Secondly, it improves workflow consistency.  Whether you're working on your own machine or a remote server, Linutil provides a consistent and reliable way to manage your system.  Thirdly, it simplifies the process of setting up development environments, allowing you to quickly and easily get started on new projects.  Finally, it's just plain fun to use! The CLI is well-designed and easy to use, making the whole process enjoyable.\n\nLinutil also offers configuration options through a TOML file, enabling customization to fit your specific needs.  You can define automatic commands, bypass size checks and skip confirmation prompts. This level of customization empowers you to tailor Linutil to your specific workflow and preferences.\n\nInstallation is a breeze. You can grab it via a simple curl command, use your preferred AUR helper if you're on Arch Linux, or install it directly through Cargo if you're a Rust enthusiast.  Extensive documentation is available online, guiding you through every step of the way.  The project also boasts a thriving community, ready to offer support and assistance.\n\nIn short, Linutil is a game-changer for Linux developers. It's a powerful, versatile, and easy-to-use tool that can significantly improve your productivity and overall Linux experience.  Check it out – you won't be disappointed!",
+    "article": "Hey fellow developers! Ever wished there was a super-fast tool to uncover hidden files and directories on a website?  Meet Feroxbuster, a game-changer in the world of web security and penetration testing!  This Rust-based tool is incredibly efficient at performing \"Forced Browsing\", a technique used to discover resources a website doesn't explicitly link to but might still be accessible. Think of it like this: imagine a website with a secret room full of goodies – Feroxbuster is the key to finding that hidden room.  It systematically tries different file paths and directories, identifying those that return a positive response. This can reveal sensitive information like source code, credentials, internal network addresses, and much more.  Why is this important? Because these hidden resources represent potential vulnerabilities that attackers could exploit. So, Feroxbuster helps you find and fix these vulnerabilities *before* attackers do.  The best part? It's blazing fast thanks to its Rust foundation.  Feroxbuster's architecture is straightforward: it takes a target URL and a wordlist (a list of potential file and directory names) as input. It then efficiently iterates through the wordlist, testing each combination against the target URL.  The results are presented in a clear, concise format, highlighting the discovered resources and their associated HTTP status codes.  This makes analyzing the findings incredibly easy.   The benefits for developers are huge.  First, it significantly speeds up the process of security assessments. Second, it helps proactively identify and address potential security weaknesses, reducing the risk of exploitation. Third, it's incredibly easy to use and requires minimal setup.  Feroxbuster is a true asset for developers who care about security, and it’s a must-have tool in any ethical hacker’s arsenal.  It's open-source, constantly improving, and has a fantastic community behind it. So, go ahead, give it a try and see how it transforms your security testing workflow! You'll be amazed by how many hidden resources it uncovers, and you'll sleep better knowing you've done your part to secure your web applications.",
     "key_takeaways": [
-        "Streamlines Linux system setup tasks",
-        "Distro-agnostic and built with Rust for speed and reliability",
-        "Offers a user-friendly CLI and supports custom configurations",
-        "Saves developers time and improves workflow consistency",
-        "Active community and extensive documentation"
+        "Feroxbuster is a fast, efficient tool for discovering hidden web resources.",
+        "It helps identify potential security vulnerabilities before attackers can exploit them.",
+        "It's incredibly easy to use and requires minimal setup.",
+        "Built with Rust for optimal speed and performance.",
+        "It's open-source and actively developed by a supportive community."
     ],
     "tags": [
-        "Linux",
-        "Rust",
-        "CLI",
-        "System Administration",
-        "DevOps"
+        "web security",
+        "penetration testing",
+        "forced browsing",
+        "rust",
+        "security assessment"
     ],
-    "title": "Linutil: Your New Best Friend for Effortless Linux System Management",
-    "stars": 4161,
-    "forks": 330,
-    "open_issues": 36,
-    "languages": "Shell",
-    "readme_summary": "Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks, including application setup and system optimization. It offers a command-line interface with configuration options via TOML files and is available through various package repositories like AUR, OpenSUSE, and Cargo, making it easily accessible for a wide range of Linux users.",
-    "project_id": 800692439,
-    "url": "https://github.com/ChrisTitusTech/linutil",
-    "description": "Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks."
+    "title": "Feroxbuster: Uncover Hidden Web Resources with This Blazing-Fast Tool!",
+    "stars": 6884,
+    "forks": 548,
+    "open_issues": 24,
+    "languages": "Rust",
+    "readme_summary": "Feroxbuster is a content discovery tool written in Rust that performs forced browsing to identify unlinked resources on web applications. It uses brute force combined with a wordlist to recursively search for hidden files and directories, helping to uncover sensitive information and potential vulnerabilities.",
+    "project_id": 289516116,
+    "url": "https://github.com/epi052/feroxbuster",
+    "description": "A fast, simple, recursive content discovery tool written in Rust."
 }
