@@ -1,26 +1,26 @@
 {
-    "article": "Hey fellow developers! Ever wished there was a super-fast tool to uncover hidden files and directories on a website?  Meet Feroxbuster, a game-changer in the world of web security and penetration testing!  This Rust-based tool is incredibly efficient at performing \"Forced Browsing\", a technique used to discover resources a website doesn't explicitly link to but might still be accessible. Think of it like this: imagine a website with a secret room full of goodies – Feroxbuster is the key to finding that hidden room.  It systematically tries different file paths and directories, identifying those that return a positive response. This can reveal sensitive information like source code, credentials, internal network addresses, and much more.  Why is this important? Because these hidden resources represent potential vulnerabilities that attackers could exploit. So, Feroxbuster helps you find and fix these vulnerabilities *before* attackers do.  The best part? It's blazing fast thanks to its Rust foundation.  Feroxbuster's architecture is straightforward: it takes a target URL and a wordlist (a list of potential file and directory names) as input. It then efficiently iterates through the wordlist, testing each combination against the target URL.  The results are presented in a clear, concise format, highlighting the discovered resources and their associated HTTP status codes.  This makes analyzing the findings incredibly easy.   The benefits for developers are huge.  First, it significantly speeds up the process of security assessments. Second, it helps proactively identify and address potential security weaknesses, reducing the risk of exploitation. Third, it's incredibly easy to use and requires minimal setup.  Feroxbuster is a true asset for developers who care about security, and it’s a must-have tool in any ethical hacker’s arsenal.  It's open-source, constantly improving, and has a fantastic community behind it. So, go ahead, give it a try and see how it transforms your security testing workflow! You'll be amazed by how many hidden resources it uncovers, and you'll sleep better knowing you've done your part to secure your web applications.",
+    "article": "Ever wished your phone could understand you like a personal assistant, anticipating your needs and handling complex tasks without you lifting a finger?  Meet Panda, the revolutionary new AI phone operator that's changing the game! This isn't your average voice assistant; Panda actively interacts with your phone's interface, performing actions across different apps based on your natural language commands. Imagine saying, \"Send a birthday message to my brother including a picture from last year's vacation,\" and having Panda flawlessly execute that multi-step task. That's the power of Panda.  It's built on a clever multi-agent system, where different components work together seamlessly.  Think of it like a team: one part sees the screen (like eyes), another part makes decisions (like the brain), and a third part takes action (like hands). The 'eyes' use Android's Accessibility Service to see what's on your screen, understanding the layout and elements. The 'brain' uses powerful LLM models to understand your requests and plan the steps needed to complete them.  The 'hands' then perform the actions, tapping buttons, swiping, and typing to interact with your apps.  All this happens locally on your device, prioritizing your privacy and security. What makes Panda truly special is its persistent memory. It remembers your preferences, contacts, and past interactions, making each experience more personalized and efficient. This means Panda learns your habits, becoming a truly helpful assistant over time.  For developers, Panda offers a fantastic opportunity to explore cutting-edge AI and accessibility technologies.  The project's open-source nature allows for collaboration and contribution, fostering innovation within the Android development community.  By contributing to Panda, developers can gain valuable experience in UI automation, LLM integration, and building intelligent agents.  Panda simplifies complex interactions with your phone, making technology more accessible to everyone. It is built entirely in Kotlin, a modern and efficient language, making the codebase easy to navigate and understand.  Moreover, the project's well-structured architecture makes it an excellent learning resource for those interested in multi-agent systems and AI-powered applications.  This project is a game-changer, offering a glimpse into the future of mobile interaction. Its potential benefits are immense, impacting not only developers but also the way we interact with our smartphones.",
     "key_takeaways": [
-        "Feroxbuster is a fast, efficient tool for discovering hidden web resources.",
-        "It helps identify potential security vulnerabilities before attackers can exploit them.",
-        "It's incredibly easy to use and requires minimal setup.",
-        "Built with Rust for optimal speed and performance.",
-        "It's open-source and actively developed by a supportive community."
+        "Panda is a proactive, on-device AI agent for Android that autonomously understands natural language commands and operates your phone's UI.",
+        "It uses a multi-agent system (eyes, brain, hands) for intelligent UI automation and task completion.",
+        "Panda features persistent, personalized local memory, learning your preferences and habits over time.",
+        "The project is open-source, written in Kotlin, and offers developers a chance to contribute and learn from cutting-edge AI and accessibility technologies.",
+        "Panda simplifies complex phone interactions, making technology more accessible."
     ],
     "tags": [
-        "web security",
-        "penetration testing",
-        "forced browsing",
-        "rust",
-        "security assessment"
+        "Android",
+        "AI",
+        "Accessibility",
+        "Kotlin",
+        "LLM"
     ],
-    "title": "Feroxbuster: Uncover Hidden Web Resources with This Blazing-Fast Tool!",
-    "stars": 6884,
-    "forks": 548,
-    "open_issues": 24,
-    "languages": "Rust",
-    "readme_summary": "Feroxbuster is a content discovery tool written in Rust that performs forced browsing to identify unlinked resources on web applications. It uses brute force combined with a wordlist to recursively search for hidden files and directories, helping to uncover sensitive information and potential vulnerabilities.",
-    "project_id": 289516116,
-    "url": "https://github.com/epi052/feroxbuster",
-    "description": "A fast, simple, recursive content discovery tool written in Rust."
+    "title": "🐼 Panda: Your Personal AI Phone Operator",
+    "stars": 88,
+    "forks": 13,
+    "open_issues": 23,
+    "languages": "Kotlin",
+    "readme_summary": "Panda is an on-device AI agent for Android that automates phone tasks through natural language commands. It utilizes intelligent UI automation, high-quality voice, and persistent local memory to provide a personalized assistant experience. The agent interacts with the Android Accessibility Service to control the device and leverages LLMs for reasoning and planning.",
+    "project_id": 996430110,
+    "url": "https://github.com/Ayush0Chaudhary/blurr",
+    "description": "AI agents can now use real Android, just like a human."
 }

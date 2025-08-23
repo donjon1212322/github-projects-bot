@@ -1,58 +1,37 @@
 [
     {
-        "project_id": 997887280,
-        "content": "🔥 <b>lyricScribe</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nFetching and displaying synced lyrics for music played through MPRIS compatible players.\n<br>\n✨ <b>Key Features:</b>\n• Downloads synced lyrics\n• Checks lyrics\n• Displays synced lyrics for MPRIS compatible players\n• Configuration options\n• Hyprland floating lyrics support\n<br>\n📖 <b>Summary:</b>\nlyricScribe is a Go script designed to fetch, check, and display synchronized lyrics for songs played using MPRIS-compatible music players. It allows users to easily view lyrics in sync with their music, and offers configuration options, including specific support for floating lyrics on Hyprland.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/user354015/lyricScribe?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fc56783b78a76d9a4f73434c76eee347ebd26b86334c047f5e33f6a2df4cb239/user354015/lyricScribe",
+        "project_id": 996430110,
+        "content": "🌟 <b>blurr</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nAutonomous on-device AI agent for Android that understands natural language commands and operates the phone's UI to achieve them.\n<br>\n✨ <b>Key Features:</b>\n• Intelligent UI Automation\n• High Quality Voice\n• Persistent & Personalized local Memory\n<br>\n📖 <b>Summary:</b>\nPanda is an on-device AI agent for Android that automates phone tasks through natural language commands. It utilizes intelligent UI automation, high-quality voice, and persistent local memory to provide a personalized assistant experience. The agent interacts with the Android Accessibility Service to control the device and leverages LLMs for reasoning and planning.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Ayush0Chaudhary/blurr?embed=0\">View Project</a>\n• <a href=\"https://panda-delta-lemon.vercel.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5190a5a6a34545466905a7f516bf4ad40f0c6639bf22f3104794c4e41434e116/Ayush0Chaudhary/blurr",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.75
     },
     {
-        "project_id": 1030855297,
-        "content": "🔥 <b>spill</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nTransient clipboard server for Windows\n<br>\n✨ <b>Key Features:</b>\n• Runs locally or on an external host (HTTP or HTTPS)\n• Fully transient data storage\n• Unicode support\n• Minimize to tray\n<br>\n📖 <b>Summary:</b>\nSpill is a transient clipboard server for Windows that allows users to copy and paste data between different machines. It supports both local and remote access via HTTP or HTTPS, and ensures that no data is permanently stored. The application also offers Unicode support and the ability to minimize to the system tray.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/inversepolarity/spill?embed=0\">View Project</a>\n• <a href=\"http://ip.evenzero.in?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/536209edd005003d3c191d01b50dc95c92eba4aaa18550dd3d5890fea7774e7b/inversepolarity/spill",
+        "project_id": 1032912306,
+        "content": "💡 <b>tododo</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging todo lists in a terminal-based user interface without requiring an account or database.\n<br>\n✨ <b>Key Features:</b>\n• Keyboard based TUI\n• Markdown file storage (.tododo.md)\n• Create/Toggle Complete/Edit/Delete tasks\n• Hide completed tasks\n<br>\n📖 <b>Summary:</b>\nTododo is a terminal-based todo manager that utilizes markdown files for data storage. It provides a keyboard-driven interface for creating, editing, completing, and deleting tasks, as well as hiding completed tasks. The primary goal is to offer a simple and account-free todo management solution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bmarse/tododo?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1efd519b3ac99625021964f8d54822b227b64e3a2df4853a80715713ab332f66/bmarse/tododo",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.5499999999999999
     },
     {
-        "project_id": 1031499454,
-        "content": "💡 <b>protector</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time privacy protection for smart glasses applications.\n<br>\n✨ <b>Key Features:</b>\n• Anonymizes faces (blur or ellipse masking)\n• Manages consent (detects verbal consent)\n• Real-time processing (720p 30fps)\n• 100% offline operation\n• Recording\n<br>\n📖 <b>Summary:</b>\nThe 'protector' repository provides real-time privacy protection for smart glasses by filtering camera feeds. It anonymizes faces, manages consent through voice detection, and operates offline. The system offers developer-friendly features like easy camera replacement and an HTTP API for control, making it suitable for AI assistants, social apps, and enterprise applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/PrivacyIsAllYouNeed/protector?embed=0\">View Project</a>\n• <a href=\"https://privacy.camera?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/42dc5a084618f1e7a7d9c309bbe841f69c2b8150fb5917c96fa3e65d7db5ec83/PrivacyIsAllYouNeed/protector",
+        "project_id": 2304783,
+        "content": "🚀 <b>w3af</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nIdentifying and exploiting vulnerabilities in web applications.\n<br>\n✨ <b>Key Features:</b>\n• Web application vulnerability scanning\n• Identifies 200+ vulnerabilities\n• Cross-Site Scripting (XSS) detection\n• SQL injection detection\n• OS commanding detection\n<br>\n📖 <b>Summary:</b>\nThe w3af repository provides a web application attack and audit framework, functioning as an open-source web vulnerability scanner. It helps developers and penetration testers identify and exploit vulnerabilities such as Cross-Site Scripting, SQL injection, and OS commanding in their web applications, with the capability to detect over 200 different types of vulnerabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/andresriancho/w3af?embed=0\">View Project</a>\n• <a href=\"http://w3af.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/bacc4635aa0e8d28067cb51f905adc52dc724f4c09151a7f28495464236a1bd1/andresriancho/w3af",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.45
     },
     {
-        "project_id": 1034662181,
-        "content": "✨ <b>wlgblock</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nReplacing the standard Wayland password screen with a Gameboy emulator running a custom Pokémon game, requiring the user to solve a puzzle within the game to unlock their session.\n<br>\n✨ <b>Key Features:</b>\n• Replaces password screen with a Gameboy emulator.\n• Uses a patched Pokémon game as a session unlock mechanism.\n<br>\n📖 <b>Summary:</b>\nThe wlgblock repository provides a unique way to lock and unlock a Wayland session by using a Gameboy emulator as a locker. It replaces the traditional password screen with a custom Pokémon game, where the user must solve a puzzle to unlock their session. The project leverages the ext-session-lock-v1 protocol for secure locking and involves patching both a Gameboy emulator and a Pokémon game to achieve this functionality.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AdoPi/wlgblock?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2343b406ee4ceacb28aedcfb429c11d4ace08ed34e8e81856fa469c3597ba586/AdoPi/wlgblock",
+        "project_id": 225918779,
+        "content": "🚀 <b>Ghost</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRemotely accessing and controlling Android devices for post-exploitation activities using the Android Debug Bridge.\n<br>\n✨ <b>Key Features:</b>\n• Android post-exploitation\n• Remote access via Android Debug Bridge (ADB)\n• Exploitation framework\n<br>\n📖 <b>Summary:</b>\nGhost Framework is an Android post-exploitation framework that leverages the Android Debug Bridge (ADB) to enable remote access and control of Android devices. It provides a platform for executing post-exploitation tasks on compromised or targeted Android systems. The framework facilitates various hacking and penetration testing activities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/EntySec/Ghost?embed=0\">View Project</a>\n• <a href=\"https://entysec.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/225918779/02630e80-dec2-11eb-93fe-824af5790307",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.6
     },
     {
-        "project_id": 289516116,
-        "content": "💡 <b>feroxbuster</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nContent discovery and enumeration of hidden or unlinked resources on web servers.\n<br>\n✨ <b>Key Features:</b>\n• Fast content discovery\n• Recursive directory enumeration\n• Forced browsing\n• Wordlist-based scanning\n<br>\n📖 <b>Summary:</b>\nFeroxbuster is a content discovery tool written in Rust that performs forced browsing to identify unlinked resources on web applications. It uses brute force combined with a wordlist to recursively search for hidden files and directories, helping to uncover sensitive information and potential vulnerabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/epi052/feroxbuster?embed=0\">View Project</a>\n• <a href=\"https://epi052.github.io/feroxbuster-docs/docs/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/289516116/e4e2cc00-0560-11eb-888b-42dbdfc1c72c",
+        "project_id": 937214641,
+        "content": "🚀 <b>matkap</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nHunting down malicious Telegram bots by identifying leaked bot tokens and chat IDs.\n<br>\n✨ <b>Key Features:</b>\n• FOFA & URLScan Integration for Bot Token/Chat ID Hunting\n• Export Logs of Hunt Results\n<br>\n📖 <b>Summary:</b>\nMatkap is a Python-based tool designed to hunt down malicious Telegram bots. It achieves this by integrating with FOFA and URLScan to search for leaked bot tokens and chat IDs. The tool also provides functionality to export hunt logs for further analysis.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/0x6rss/matkap?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/701de2bdedf89d00e7d7bbacea6310e97b8ed1d781bacd1c41a22efda4a180fe/0x6rss/matkap",
         "platform": "telegram",
-        "quality_score": 0.95
-    },
-    {
-        "project_id": 314763206,
-        "content": "🚀 <b>urlhunter</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nReconnaissance and intelligence gathering, particularly for bug bounty hunting and cyber threat intelligence.\n<br>\n✨ <b>Key Features:</b>\n• Searches for URLs exposed via shortener services.\n• Analyzes URLTeam's collections of brute-forced URLs.\n• Supports keyword-based searching with single, multiple (AND logic), and regex options.\n• Allows specifying date ranges for archive analysis.\n<br>\n📖 <b>Summary:</b>\nurlhunter is a Go-based reconnaissance tool designed to discover URLs exposed through shortener services. It leverages the URLTeam's archive of brute-forced URLs, allowing users to search for specific keywords or regular expressions within specified date ranges. The tool is useful for security researchers and bug bounty hunters seeking to uncover hidden or sensitive information.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/utkusen/urlhunter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/314763206/b8466780-2cfa-11eb-874f-c28a74c678b0",
-        "platform": "telegram",
-        "quality_score": 0.35
-    },
-    {
-        "project_id": 4927517,
-        "content": "🔥 <b>arkime</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nNetwork analysis and security monitoring through full packet capture and indexing.\n<br>\n✨ <b>Key Features:</b>\n• Full packet capture and storage in PCAP format\n• Indexed access to network traffic\n• Web interface for browsing, searching, and exporting PCAPs\n• APIs for downloading PCAP data and JSON session data\n• Scalable architecture for handling high traffic volumes\n<br>\n📖 <b>Summary:</b>\nArkime is an open-source network analysis tool that captures and indexes network traffic for security monitoring and analysis. It stores data in standard PCAP format, provides a web interface for browsing and searching, and offers APIs for programmatic access. Arkime is designed to scale to handle large network environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/arkime/arkime?embed=0\">View Project</a>\n• <a href=\"https://arkime.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/404f6866c947f0315f4fe2391a1e4c896161b02abb7e01a834d407ca7fd68350/arkime/arkime",
-        "platform": "telegram",
-        "quality_score": 0.95
-    },
-    {
-        "project_id": 303766501,
-        "content": "🔥 <b>tolgee-platform</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nWeb-based localization platform for developers and translators.\n<br>\n✨ <b>Key Features:</b>\n• In-context translation\n• One-click screenshots for translation\n• Translation directly on production environments\n• True integrations via SDKs\n<br>\n📖 <b>Summary:</b>\nTolgee is an open-source localization platform designed to streamline the translation process for developers and translators. It offers features like in-context translation, one-click screenshots, and production environment translation capabilities. Tolgee integrates seamlessly into applications through powerful SDKs, providing a truly embedded translation experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tolgee/tolgee-platform?embed=0\">View Project</a>\n• <a href=\"https://tolgee.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0912d42d86463aaff7f7aba4c2e006fafa83c510b454c8bcb22eac762f867924/tolgee/tolgee-platform",
-        "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.75
     }
 ]
