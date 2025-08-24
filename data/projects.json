@@ -1,187 +1,255 @@
 [
     {
-        "id": 996430110,
-        "name": "blurr",
-        "description": "AI agents can now use real Android, just like a human.",
-        "url": "https://github.com/Ayush0Chaudhary/blurr",
-        "language": "Kotlin",
-        "stars": 88,
-        "forks": 13,
-        "created_at": "2025-06-05T00:10:27Z",
-        "updated_at": "2025-08-23T10:08:24Z",
+        "id": 1039282306,
+        "name": "mobile-use",
+        "description": "AI agents can now use real Android and iOS apps, just like a human.",
+        "url": "https://github.com/minitap-ai/mobile-use",
+        "language": "Python",
+        "stars": 1070,
+        "forks": 66,
+        "created_at": "2025-08-16T21:49:49Z",
+        "updated_at": "2025-08-24T09:54:55Z",
         "topics": [
-            "accessibility",
-            "agent",
-            "ai-assistant",
-            "ai-automation",
-            "app",
-            "automation",
+            "agents",
+            "ai",
             "browser-use",
+            "langgraph",
+            "mobile",
             "mobile-use",
-            "operator"
+            "python"
         ],
-        "quality_score": 0.75,
+        "quality_score": 0.7499999999999999,
         "contributors_count": 0,
-        "last_commit_date": "2025-08-23T05:08:29Z",
+        "last_commit_date": "2025-08-24T08:47:16Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/5190a5a6a34545466905a7f516bf4ad40f0c6639bf22f3104794c4e41434e116/Ayush0Chaudhary/blurr"
+            "https://opengraph.githubassets.com/0877badf4331885cb7d26c9712a2708bdae213e8bb73801de6ce03b83fb03e73/minitap-ai/mobile-use"
         ],
-        "homepage": "https://panda-delta-lemon.vercel.app/",
-        "readme_summary": "Panda is an on-device AI agent for Android that automates phone tasks through natural language commands. It utilizes intelligent UI automation, high-quality voice, and persistent local memory to provide a personalized assistant experience. The agent interacts with the Android Accessibility Service to control the device and leverages LLMs for reasoning and planning.",
+        "homepage": "https://minitap.ai",
+        "readme_summary": "The mobile-use repository provides an AI agent that enables users to automate tasks on their mobile devices using natural language. It features UI-aware automation, data scraping capabilities, and is extensible with different LLMs, allowing users to interact with and extract information from mobile apps programmatically.",
         "key_features": [
-            "Intelligent UI Automation",
-            "High Quality Voice",
-            "Persistent & Personalized local Memory"
+            "Natural Language Control",
+            "UI-Aware Automation",
+            "Data Scraping",
+            "Extensible & Customizable"
         ],
-        "primary_use_case": "Autonomous on-device AI agent for Android that understands natural language commands and operates the phone's UI to achieve them.",
-        "open_issues": 23,
-        "cover_image_prompt": "Imagine a friendly Android robot butler diligently managing a chaotic array of apps on a smartphone screen, effortlessly handling tasks like sending messages, setting reminders, and ordering groceries. The robot, with a helpful expression, navigates the phone's interface with precision, while the user relaxes in a hammock nearby, sipping a drink. Subtle UI elements and code snippets float around the robot, hinting at the underlying AI technology. The scene is set in a bright, sunny outdoor setting with a clear blue sky. The illustration should be in a 3D isometric style with vibrant colors and a focus on clarity and user-friendliness."
+        "primary_use_case": "Automating interactions with Android and iOS apps using natural language commands.",
+        "open_issues": 9,
+        "cover_image_prompt": "Imagine a skilled conductor leading an orchestra where each instrument represents a mobile app. The conductor, symbolizing the AI agent, uses a natural language score to guide the orchestra, creating harmonious actions across different apps. The conductor's stand displays subtle UI elements and code snippets, connecting the musical performance to software automation. The scene is set in a modern concert hall with warm, inviting lighting. The image should be in a vibrant, 3D isometric illustration style with rich details and clear visual cues, subtly incorporating the 'mobile-use' logo on the conductor's baton."
     },
     {
-        "id": 1032912306,
-        "name": "tododo",
-        "description": "The todo manager that should be extinct",
-        "url": "https://github.com/bmarse/tododo",
-        "language": "Go",
-        "stars": 11,
-        "forks": 0,
-        "created_at": "2025-08-06T02:59:10Z",
-        "updated_at": "2025-08-23T10:06:16Z",
+        "id": 615538501,
+        "name": "octos",
+        "description": "Create and share web-based interactive, animated wallpapers on Windows :rocket: Available on the Microsoft Store",
+        "url": "https://github.com/underpig1/octos",
+        "language": "C++",
+        "stars": 561,
+        "forks": 6,
+        "created_at": "2023-03-17T23:53:48Z",
+        "updated_at": "2025-08-24T09:13:02Z",
+        "topics": [
+            "css",
+            "desktop",
+            "display",
+            "engine",
+            "graphics",
+            "html",
+            "javascript",
+            "octos",
+            "wallpaper",
+            "windows"
+        ],
+        "quality_score": 0.7,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-24T03:07:00Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/615538501/6d63159c-737d-4434-a520-d7c4fe193143"
+        ],
+        "homepage": "https://underpig1.github.io/octos/",
+        "readme_summary": "Octos is a dynamic desktop engine that allows users to create and share live, interactive wallpapers using web technologies like HTML, CSS, and JavaScript. It leverages the Octos API to integrate with Windows features and offers a community platform for sharing creations. Octos is designed to be performant and customizable, supporting a wide range of interactive content.",
+        "key_features": [
+            "Create interactive wallpapers using HTML/CSS/JS",
+            "Powered by the Octos API for Windows integration",
+            "Supports games, websites, and videos as wallpapers",
+            "Optimized for performance on various machines",
+            "Community for sharing and downloading wallpapers",
+            "Multi-monitor support"
+        ],
+        "primary_use_case": "Creating and sharing interactive, web-based wallpapers for Windows desktops.",
+        "open_issues": 4,
+        "cover_image_prompt": "Imagine a skilled artisan in a futuristic workshop, crafting interactive stained-glass windows. The artisan uses glowing tools that represent HTML, CSS, and JavaScript, carefully assembling them onto a transparent pane representing a Windows desktop. Each pane comes alive with vibrant animations and responds to touch. Completed windows float upwards, displaying community-created designs. Small screens display code snippets and API calls. The workshop is filled with soft, ambient light, highlighting the intricate details of each window. The image should be in a 3D isometric illustration style with rich textures and a warm color palette."
+    },
+    {
+        "id": 637533152,
+        "name": "pyapp",
+        "description": "Runtime installer for Python applications",
+        "url": "https://github.com/ofek/pyapp",
+        "language": "Rust",
+        "stars": 1580,
+        "forks": 43,
+        "created_at": "2023-05-07T20:56:04Z",
+        "updated_at": "2025-08-24T08:43:31Z",
+        "topics": [
+            "application",
+            "build",
+            "cli",
+            "packaging",
+            "python",
+            "rust"
+        ],
+        "quality_score": 0.7,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-17T16:19:50Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/7013f7f643973b3e9352e36afb30c22609f4c297936f04a032a6534ab4e42bbe/ofek/pyapp"
+        ],
+        "homepage": "https://ofek.dev/pyapp/",
+        "readme_summary": "PyApp is a tool designed to wrap Python applications, creating standalone, self-bootstrapping binaries for various platforms. It offers features like optional management commands for self-updates and highly configurable runtime behavior. This allows developers to easily distribute their Python applications as single executable files.",
+        "key_features": [
+            "Easily build standalone binaries for every platform",
+            "Optional management commands providing functionality such as self updates",
+            "Extremely configurable runtime behavior allowing for targeting of different end users"
+        ],
+        "primary_use_case": "Runtime installer for Python applications",
+        "open_issues": 17,
+        "cover_image_prompt": "A skilled artisan meticulously crafting a set of Russian nesting dolls, each doll perfectly encapsulating a smaller, fully functional Python application. The largest doll is labeled 'PyApp', and as each doll is opened, it reveals a miniature application ready to run. Subtle UI elements and glowing code snippets float around the artisan's workbench, connecting the craft to software packaging. The scene is set in a bright, organized workshop with a warm, inviting atmosphere. The image should be in a 3D isometric illustration style with vibrant colors and intricate details."
+    },
+    {
+        "id": 910446631,
+        "name": "unbaited",
+        "description": null,
+        "url": "https://github.com/danielpetho/unbaited",
+        "language": "TypeScript",
+        "stars": 68,
+        "forks": 2,
+        "created_at": "2024-12-31T09:46:47Z",
+        "updated_at": "2025-08-24T05:32:56Z",
         "topics": [],
-        "quality_score": 0.5499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-22T02:31:25Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/1efd519b3ac99625021964f8d54822b227b64e3a2df4853a80715713ab332f66/bmarse/tododo"
-        ],
-        "homepage": "",
-        "readme_summary": "Tododo is a terminal-based todo manager that utilizes markdown files for data storage. It provides a keyboard-driven interface for creating, editing, completing, and deleting tasks, as well as hiding completed tasks. The primary goal is to offer a simple and account-free todo management solution.",
-        "key_features": [
-            "Keyboard based TUI",
-            "Markdown file storage (.tododo.md)",
-            "Create/Toggle Complete/Edit/Delete tasks",
-            "Hide completed tasks"
-        ],
-        "primary_use_case": "Managing todo lists in a terminal-based user interface without requiring an account or database.",
-        "open_issues": 0,
-        "cover_image_prompt": "Imagine a meticulous gardener tending to a garden of tasks. The gardener, representing the user, carefully prunes (deletes), plants (creates), and nurtures (edits) each task, represented by vibrant, leafy plants. Some plants are marked with checkmarks (completed tasks), while others are still growing. The garden is neatly organized within a markdown file, subtly visible as the garden's blueprint. Digital particles float around the gardener, representing the software aspect. The scene is set in a sunlit, minimalist greenhouse. The image should be in a flat design style with clear iconography and a pastel color scheme."
-    },
-    {
-        "id": 2304783,
-        "name": "w3af",
-        "description": "w3af: web application attack and audit framework, the open source web vulnerability scanner.",
-        "url": "https://github.com/andresriancho/w3af",
-        "language": "Python",
-        "stars": 4757,
-        "forks": 1229,
-        "created_at": "2011-08-31T23:20:34Z",
-        "updated_at": "2025-08-23T09:03:22Z",
-        "topics": [
-            "appsec",
-            "cross-site-scripting",
-            "scanner",
-            "security",
-            "sql-injection"
-        ],
-        "quality_score": 0.45,
-        "contributors_count": 0,
-        "last_commit_date": "2020-06-16T11:27:26Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/bacc4635aa0e8d28067cb51f905adc52dc724f4c09151a7f28495464236a1bd1/andresriancho/w3af"
-        ],
-        "homepage": "http://w3af.org/",
-        "readme_summary": "The w3af repository provides a web application attack and audit framework, functioning as an open-source web vulnerability scanner. It helps developers and penetration testers identify and exploit vulnerabilities such as Cross-Site Scripting, SQL injection, and OS commanding in their web applications, with the capability to detect over 200 different types of vulnerabilities.",
-        "key_features": [
-            "Web application vulnerability scanning",
-            "Identifies 200+ vulnerabilities",
-            "Cross-Site Scripting (XSS) detection",
-            "SQL injection detection",
-            "OS commanding detection"
-        ],
-        "primary_use_case": "Identifying and exploiting vulnerabilities in web applications.",
-        "open_issues": 1993,
-        "cover_image_prompt": "A seasoned detective meticulously inspecting a towering skyscraper made of interconnected web pages. The detective uses a magnifying glass that emits digital code, revealing hidden vulnerabilities like cracks and weak points in the building's structure. Some vulnerabilities are highlighted with glowing red outlines, while secure sections shine with a green aura. Small screens display security logs and vulnerability reports. The scene is set at night with dramatic lighting. The repository name, 'w3af', is subtly displayed on the detective's badge. The image should be in a digital painting style with clean lines, clear details, and a focus on conveying security and thoroughness."
-    },
-    {
-        "id": 225918779,
-        "name": "Ghost",
-        "description": "Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device.",
-        "url": "https://github.com/EntySec/Ghost",
-        "language": "Python",
-        "stars": 3118,
-        "forks": 1006,
-        "created_at": "2019-12-04T17:13:49Z",
-        "updated_at": "2025-08-23T08:31:36Z",
-        "topics": [
-            "adb",
-            "android",
-            "android-debug-bridge",
-            "android-device",
-            "android-exploit",
-            "android-hack",
-            "android-hacking",
-            "android-rat",
-            "backdoor",
-            "entysec",
-            "exploit",
-            "exploitation-framework",
-            "hack",
-            "hacking",
-            "hacking-tools",
-            "kali-linux",
-            "post-exploitation",
-            "rat",
-            "remote-access",
-            "remote-shell"
-        ],
-        "quality_score": 0.6,
-        "contributors_count": 0,
-        "last_commit_date": "2024-09-20T14:08:09Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/225918779/02630e80-dec2-11eb-93fe-824af5790307"
-        ],
-        "homepage": "https://entysec.com",
-        "readme_summary": "Ghost Framework is an Android post-exploitation framework that leverages the Android Debug Bridge (ADB) to enable remote access and control of Android devices. It provides a platform for executing post-exploitation tasks on compromised or targeted Android systems. The framework facilitates various hacking and penetration testing activities.",
-        "key_features": [
-            "Android post-exploitation",
-            "Remote access via Android Debug Bridge (ADB)",
-            "Exploitation framework"
-        ],
-        "primary_use_case": "Remotely accessing and controlling Android devices for post-exploitation activities using the Android Debug Bridge.",
-        "open_issues": 2,
-        "cover_image_prompt": "A skilled locksmith remotely picking the lock of a complex, futuristic Android device using a set of digital tools. The device is displayed on a workbench, surrounded by holographic schematics and data streams representing the ADB connection. The locksmith wears a focused expression, with a UI element displaying the Ghost Framework logo subtly projected onto their glasses. The scene is set in a clean, modern workshop with cool, blue lighting. The composition is focused and clear, highlighting the remote access and control. The image should be in a 3D isometric illustration style with sharp details and a vibrant color scheme."
-    },
-    {
-        "id": 937214641,
-        "name": "matkap",
-        "description": "Matkap - hunt down malicious Telegram bots",
-        "url": "https://github.com/0x6rss/matkap",
-        "language": "Python",
-        "stars": 712,
-        "forks": 130,
-        "created_at": "2025-02-22T15:58:05Z",
-        "updated_at": "2025-08-23T07:36:20Z",
-        "topics": [
-            "cti",
-            "intelligence",
-            "malware",
-            "osint",
-            "telegram"
-        ],
         "quality_score": 0.75,
         "contributors_count": 0,
-        "last_commit_date": "2025-08-11T13:27:59Z",
+        "last_commit_date": "2025-08-13T23:29:19Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/701de2bdedf89d00e7d7bbacea6310e97b8ed1d781bacd1c41a22efda4a180fe/0x6rss/matkap"
+            "https://opengraph.githubassets.com/093b1fea52b6bbee84f68ca5c5595b00ce559ff8cb200feb90f93f42ed7cfe3a/danielpetho/unbaited"
+        ],
+        "homepage": "https://unbaited.danielpetho.com",
+        "readme_summary": "Unbaited is a browser extension that utilizes Groq's API to analyze and filter content on X (formerly Twitter). It identifies and blurs engagement bait and inflammatory tweets, giving users control over their feed. The extension supports Chrome, Firefox, and Safari and allows for customization of the analysis process.",
+        "key_features": [
+            "Filters engagement bait and inflammatory content from X (formerly Twitter) feeds.",
+            "Uses Groq's API for fast tweet analysis.",
+            "Blurs tweets identified as engagement bait or political.",
+            "Allows users to reveal hidden tweets with a click.",
+            "Customizable system prompt for analysis."
+        ],
+        "primary_use_case": "Filtering unwanted content from X (Twitter) feeds using AI.",
+        "open_issues": 1,
+        "cover_image_prompt": "Imagine a librarian meticulously sifting through a towering wall of chaotic, inflammatory tweets, represented as messy scrolls. The librarian uses a special magnifying glass that filters out the noise, revealing only the valuable, insightful content, which transforms into neatly organized books on the shelves. Subtle UI elements float around the librarian, showing the 'unbaited' extension interface. The scene is set in a serene, futuristic library with soft, diffused lighting. The image should be in a 3D isometric illustration style with clean lines, a calming color palette, and subtle digital enhancements."
+    },
+    {
+        "id": 722597620,
+        "name": "rustfs",
+        "description": "🚀 High-performance distributed object storage for MinIO  alternative.",
+        "url": "https://github.com/rustfs/rustfs",
+        "language": "Rust",
+        "stars": 7811,
+        "forks": 386,
+        "created_at": "2023-11-23T13:45:10Z",
+        "updated_at": "2025-08-24T09:45:48Z",
+        "topics": [
+            "bigdata",
+            "cloud-native",
+            "distributed-systems",
+            "filesystem",
+            "minio",
+            "object-storage",
+            "oss",
+            "rust",
+            "s3"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-24T02:54:48Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/f2c8e1327eaace36867417af8a96d5aae0f8c6aa9dd97122241e806f61c7e8a6/rustfs/rustfs"
+        ],
+        "homepage": "https://rustfs.com/download/",
+        "readme_summary": "RustFS is a high-performance distributed object storage system built with Rust, aiming to be an alternative to MinIO. It offers features like S3 compatibility, support for data lakes, and a user-friendly experience, all while being open-source under the Apache 2.0 license. RustFS is currently under rapid development and not recommended for production use.",
+        "key_features": [
+            "High Performance",
+            "Distributed Architecture",
+            "S3 Compatibility",
+            "Data Lake Support",
+            "Open Source",
+            "User-Friendly"
+        ],
+        "primary_use_case": "High-performance distributed object storage",
+        "open_issues": 27,
+        "cover_image_prompt": "Imagine a skilled artisan in a high-tech workshop, meticulously crafting a sturdy, intricately designed treasure chest (representing object storage). The artisan uses glowing, digital bricks (representing Rust code) to construct the chest, ensuring its strength and security. Data streams flow into the chest, visualized as shimmering, colorful gems. A holographic interface displays S3 compatibility logos and performance metrics. The workshop is clean and modern, bathed in soft, ambient light. The image should be in a 3D isometric illustration style with vibrant colors and sharp details, conveying reliability and high performance."
+    },
+    {
+        "id": 1029817410,
+        "name": "harmony",
+        "description": "Renderer for the harmony response format to be used with gpt-oss",
+        "url": "https://github.com/openai/harmony",
+        "language": "Rust",
+        "stars": 3615,
+        "forks": 179,
+        "created_at": "2025-07-31T16:10:01Z",
+        "updated_at": "2025-08-24T09:33:45Z",
+        "topics": [],
+        "quality_score": 0.95,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-15T23:28:10Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/9ce663ce981bf42cc07b94ade6d0d769b7a5a800e4c1b3241495a261fc805f22/openai/harmony"
         ],
         "homepage": "",
-        "readme_summary": "Matkap is a Python-based tool designed to hunt down malicious Telegram bots. It achieves this by integrating with FOFA and URLScan to search for leaked bot tokens and chat IDs. The tool also provides functionality to export hunt logs for further analysis.",
+        "readme_summary": "The `harmony` repository provides a Rust-based renderer and parser for the harmony response format, designed for use with OpenAI's gpt-oss models. It ensures consistent formatting, supports multiple output channels, and offers both Rust and Python implementations to facilitate building custom inference solutions.",
         "key_features": [
-            "FOFA & URLScan Integration for Bot Token/Chat ID Hunting",
-            "Export Logs of Hunt Results"
+            "Consistent formatting for rendering and parsing",
+            "High-performance Rust implementation",
+            "First-class Python support with typed stubs",
+            "Enables multiple output channels for chain of thought and tool calling",
+            "Supports tool namespaces and structured outputs"
         ],
-        "primary_use_case": "Hunting down malicious Telegram bots by identifying leaked bot tokens and chat IDs.",
-        "open_issues": 1,
-        "cover_image_prompt": "A detective, clad in a trench coat and fedora, peers through a magnifying glass at a digital telegram message pinned to a corkboard covered in interconnected strings representing the Telegram network. The telegram glows faintly with a malicious green aura, while the detective's magnifying glass highlights lines of code and suspicious URLs embedded within the message. Small UI elements displaying FOFA and URLScan logos are subtly integrated into the corkboard. The scene is set in a dimly lit, noir-style office with a single desk lamp illuminating the investigation. The image should be in a digital painting style with sharp focus and a dark, moody color scheme."
+        "primary_use_case": "Rendering and parsing the harmony response format for use with gpt-oss models, particularly when building custom inference solutions.",
+        "open_issues": 21,
+        "cover_image_prompt": "A skilled artisan meticulously crafting a series of intricate, interlocking gears. Each gear represents a different aspect of a conversation: system instructions, developer tools, user input, and assistant responses. The gears are made of polished metal and glow with a soft, internal light, symbolizing the clear and structured communication facilitated by the Harmony format. The artisan uses specialized tools to ensure each gear fits perfectly, creating a seamless and efficient mechanism. Subtle UI elements and code snippets are projected onto the gears, connecting the metaphor to software. The scene is set in a clean, modern workshop with warm lighting. The image should be in 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 996231722,
+        "name": "Transfer",
+        "description": "A local file server Android app. Upload and download files over Wi-Fi ",
+        "url": "https://github.com/matan-h/Transfer",
+        "language": "Kotlin",
+        "stars": 318,
+        "forks": 12,
+        "created_at": "2025-06-04T16:40:53Z",
+        "updated_at": "2025-08-24T09:50:55Z",
+        "topics": [
+            "android",
+            "android-app",
+            "file-sharing",
+            "file-sharing-server",
+            "local-network",
+            "local-server",
+            "no-cloud"
+        ],
+        "quality_score": 0.7499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-24T09:50:44Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/1f5074333c77f534984ee25d6d7ea5f7886fab3e7823f9efeb5365937f89063f/matan-h/Transfer"
+        ],
+        "homepage": "",
+        "readme_summary": "Transfer is an Android app that creates a local file server, enabling easy file sharing over Wi-Fi. It offers features like IP-based access control, password protection, and CLI support, providing a convenient alternative to USB drives or cloud storage for local network file transfers.",
+        "key_features": [
+            "Effortless LAN Sharing over HTTP",
+            "Configurable Security (IP Permissions, Password Protection)",
+            "Powerful CLI Access (curl-friendly)",
+            "Dual Browse UI (App and Web Interface)",
+            "Quick In-App Transfers (Upload, Paste)"
+        ],
+        "primary_use_case": "Quickly transfer files between devices on a local network without using USB cables or cloud services.",
+        "open_issues": 11,
+        "cover_image_prompt": "Imagine a skilled artisan in a workshop, effortlessly transferring digital files between various devices scattered around the room. The artisan uses glowing threads of light to connect a laptop, tablet, and smartphone to a central, open chest representing the shared folder. Each device displays a small UI element showing the Transfer app interface. The scene is bathed in warm, inviting light, with subtle digital particles floating in the air, symbolizing data packets. The composition is clean and focused, with a color scheme of soft blues and greens. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
     }
 ]

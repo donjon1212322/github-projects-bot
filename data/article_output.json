@@ -1,26 +1,26 @@
 {
-    "article": "Ever wished your phone could understand you like a personal assistant, anticipating your needs and handling complex tasks without you lifting a finger?  Meet Panda, the revolutionary new AI phone operator that's changing the game! This isn't your average voice assistant; Panda actively interacts with your phone's interface, performing actions across different apps based on your natural language commands. Imagine saying, \"Send a birthday message to my brother including a picture from last year's vacation,\" and having Panda flawlessly execute that multi-step task. That's the power of Panda.  It's built on a clever multi-agent system, where different components work together seamlessly.  Think of it like a team: one part sees the screen (like eyes), another part makes decisions (like the brain), and a third part takes action (like hands). The 'eyes' use Android's Accessibility Service to see what's on your screen, understanding the layout and elements. The 'brain' uses powerful LLM models to understand your requests and plan the steps needed to complete them.  The 'hands' then perform the actions, tapping buttons, swiping, and typing to interact with your apps.  All this happens locally on your device, prioritizing your privacy and security. What makes Panda truly special is its persistent memory. It remembers your preferences, contacts, and past interactions, making each experience more personalized and efficient. This means Panda learns your habits, becoming a truly helpful assistant over time.  For developers, Panda offers a fantastic opportunity to explore cutting-edge AI and accessibility technologies.  The project's open-source nature allows for collaboration and contribution, fostering innovation within the Android development community.  By contributing to Panda, developers can gain valuable experience in UI automation, LLM integration, and building intelligent agents.  Panda simplifies complex interactions with your phone, making technology more accessible to everyone. It is built entirely in Kotlin, a modern and efficient language, making the codebase easy to navigate and understand.  Moreover, the project's well-structured architecture makes it an excellent learning resource for those interested in multi-agent systems and AI-powered applications.  This project is a game-changer, offering a glimpse into the future of mobile interaction. Its potential benefits are immense, impacting not only developers but also the way we interact with our smartphones.",
+    "article": "Ever wished for a smoother, more consistent way to interact with large language models?  Meet OpenAI Harmony, a game-changer in how we structure prompts and interpret responses from models like the gpt-oss series. Forget wrestling with inconsistent formats and ambiguous outputs; Harmony brings order and predictability to the world of LLM interaction.  It's like having a universal translator for your conversations with AI.\n\nHarmony isn't just about pretty formatting; it's a powerful framework that defines conversation structure, generates reasoning outputs, and even structures function calls. Imagine guiding your LLM through complex tasks with clear instructions and getting well-organized, easy-to-understand results in return.  That's the power of Harmony.\n\nThe beauty of Harmony lies in its simplicity. It mimics the familiar OpenAI Responses API, making it easy to adopt if you've worked with OpenAI models before.  The format is designed to seamlessly integrate into your existing workflows, requiring minimal changes to your code.  It's all about making your interactions with LLMs more efficient and less error-prone.\n\nBut what does this mean for you, the developer?  Well, for starters, Harmony offers consistent formatting, ensuring that your prompts and responses are always structured in the same way.  This eliminates a major source of errors and inconsistencies that can plague LLM interactions.  It's like having a perfectly organized toolbox, where every tool is in its designated place and readily accessible.\n\nBeyond consistency, Harmony provides blazing-fast performance.  The heavy lifting is handled by a highly optimized Rust implementation, ensuring that your applications run smoothly and efficiently.  No more waiting around for sluggish responses; Harmony gets things done quickly and effectively.  And to make things even better, it boasts first-class Python support, with easy installation via pip and comprehensive documentation to guide you every step of the way.\n\nWhether you're building your own inference solution or using an existing API, Harmony can significantly improve your development workflow. It simplifies complex interactions, reduces errors, and boosts performance.  No more struggling with messy outputs or ambiguous responses.  With Harmony, you'll have a clearer, more efficient way to harness the power of LLMs.\n\nThe project also offers a well-structured library, with detailed documentation and examples for both Python and Rust, making it easy to integrate into your projects regardless of your preferred language.  The community-driven approach ensures continuous improvement and support, guaranteeing a long-term solution for your LLM interaction needs.  Harmony is not just a library; it's a gateway to a more streamlined and efficient future of LLM development.",
     "key_takeaways": [
-        "Panda is a proactive, on-device AI agent for Android that autonomously understands natural language commands and operates your phone's UI.",
-        "It uses a multi-agent system (eyes, brain, hands) for intelligent UI automation and task completion.",
-        "Panda features persistent, personalized local memory, learning your preferences and habits over time.",
-        "The project is open-source, written in Kotlin, and offers developers a chance to contribute and learn from cutting-edge AI and accessibility technologies.",
-        "Panda simplifies complex phone interactions, making technology more accessible."
+        "Consistent formatting for cleaner LLM interactions.",
+        "Blazing-fast performance thanks to a Rust implementation.",
+        "First-class Python support with easy installation and comprehensive documentation.",
+        "Simplified complex interactions and reduced errors.",
+        "Community-driven development for continuous improvement and support."
     ],
     "tags": [
-        "Android",
-        "AI",
-        "Accessibility",
-        "Kotlin",
-        "LLM"
+        "LLM",
+        "OpenAI",
+        "gpt-oss",
+        "Harmony",
+        "Prompt Engineering"
     ],
-    "title": "🐼 Panda: Your Personal AI Phone Operator",
-    "stars": 88,
-    "forks": 13,
-    "open_issues": 23,
-    "languages": "Kotlin",
-    "readme_summary": "Panda is an on-device AI agent for Android that automates phone tasks through natural language commands. It utilizes intelligent UI automation, high-quality voice, and persistent local memory to provide a personalized assistant experience. The agent interacts with the Android Accessibility Service to control the device and leverages LLMs for reasoning and planning.",
-    "project_id": 996430110,
-    "url": "https://github.com/Ayush0Chaudhary/blurr",
-    "description": "AI agents can now use real Android, just like a human."
+    "title": "Revolutionizing LLM Interactions: OpenAI Harmony",
+    "stars": 3615,
+    "forks": 179,
+    "open_issues": 21,
+    "languages": "Rust",
+    "readme_summary": "The `harmony` repository provides a Rust-based renderer and parser for the harmony response format, designed for use with OpenAI's gpt-oss models. It ensures consistent formatting, supports multiple output channels, and offers both Rust and Python implementations to facilitate building custom inference solutions.",
+    "project_id": 1029817410,
+    "url": "https://github.com/openai/harmony",
+    "description": "Renderer for the harmony response format to be used with gpt-oss"
 }

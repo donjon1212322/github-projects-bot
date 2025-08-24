@@ -1,37 +1,51 @@
 [
     {
-        "project_id": 996430110,
-        "content": "🌟 <b>blurr</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nAutonomous on-device AI agent for Android that understands natural language commands and operates the phone's UI to achieve them.\n<br>\n✨ <b>Key Features:</b>\n• Intelligent UI Automation\n• High Quality Voice\n• Persistent & Personalized local Memory\n<br>\n📖 <b>Summary:</b>\nPanda is an on-device AI agent for Android that automates phone tasks through natural language commands. It utilizes intelligent UI automation, high-quality voice, and persistent local memory to provide a personalized assistant experience. The agent interacts with the Android Accessibility Service to control the device and leverages LLMs for reasoning and planning.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Ayush0Chaudhary/blurr?embed=0\">View Project</a>\n• <a href=\"https://panda-delta-lemon.vercel.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5190a5a6a34545466905a7f516bf4ad40f0c6639bf22f3104794c4e41434e116/Ayush0Chaudhary/blurr",
+        "project_id": 1039282306,
+        "content": "💡 <b>mobile-use</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating interactions with Android and iOS apps using natural language commands.\n<br>\n✨ <b>Key Features:</b>\n• Natural Language Control\n• UI-Aware Automation\n• Data Scraping\n• Extensible & Customizable\n<br>\n📖 <b>Summary:</b>\nThe mobile-use repository provides an AI agent that enables users to automate tasks on their mobile devices using natural language. It features UI-aware automation, data scraping capabilities, and is extensible with different LLMs, allowing users to interact with and extract information from mobile apps programmatically.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/minitap-ai/mobile-use?embed=0\">View Project</a>\n• <a href=\"https://minitap.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0877badf4331885cb7d26c9712a2708bdae213e8bb73801de6ce03b83fb03e73/minitap-ai/mobile-use",
+        "platform": "telegram",
+        "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 615538501,
+        "content": "✨ <b>octos</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and sharing interactive, web-based wallpapers for Windows desktops.\n<br>\n✨ <b>Key Features:</b>\n• Create interactive wallpapers using HTML/CSS/JS\n• Powered by the Octos API for Windows integration\n• Supports games, websites, and videos as wallpapers\n• Optimized for performance on various machines\n<br>\n📖 <b>Summary:</b>\nOctos is a dynamic desktop engine that allows users to create and share live, interactive wallpapers using web technologies like HTML, CSS, and JavaScript. It leverages the Octos API to integrate with Windows features and offers a community platform for sharing creations. Octos is designed to be performant and customizable, supporting a wide range of interactive content.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/underpig1/octos?embed=0\">View Project</a>\n• <a href=\"https://underpig1.github.io/octos/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/615538501/6d63159c-737d-4434-a520-d7c4fe193143",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 637533152,
+        "content": "🌟 <b>pyapp</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nRuntime installer for Python applications\n<br>\n✨ <b>Key Features:</b>\n• Easily build standalone binaries for every platform\n• Optional management commands providing functionality such as self updates\n• Extremely configurable runtime behavior allowing for targeting of different end users\n<br>\n📖 <b>Summary:</b>\nPyApp is a tool designed to wrap Python applications, creating standalone, self-bootstrapping binaries for various platforms. It offers features like optional management commands for self-updates and highly configurable runtime behavior. This allows developers to easily distribute their Python applications as single executable files.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ofek/pyapp?embed=0\">View Project</a>\n• <a href=\"https://ofek.dev/pyapp/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7013f7f643973b3e9352e36afb30c22609f4c297936f04a032a6534ab4e42bbe/ofek/pyapp",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 910446631,
+        "content": "💡 <b>unbaited</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nFiltering unwanted content from X (Twitter) feeds using AI.\n<br>\n✨ <b>Key Features:</b>\n• Filters engagement bait and inflammatory content from X (formerly Twitter) feeds.\n• Uses Groq's API for fast tweet analysis.\n• Blurs tweets identified as engagement bait or political.\n• Allows users to reveal hidden tweets with a click.\n• Customizable system prompt for analysis.\n<br>\n📖 <b>Summary:</b>\nUnbaited is a browser extension that utilizes Groq's API to analyze and filter content on X (formerly Twitter). It identifies and blurs engagement bait and inflammatory tweets, giving users control over their feed. The extension supports Chrome, Firefox, and Safari and allows for customization of the analysis process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/danielpetho/unbaited?embed=0\">View Project</a>\n• <a href=\"https://unbaited.danielpetho.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/093b1fea52b6bbee84f68ca5c5595b00ce559ff8cb200feb90f93f42ed7cfe3a/danielpetho/unbaited",
         "platform": "telegram",
         "quality_score": 0.75
     },
     {
-        "project_id": 1032912306,
-        "content": "💡 <b>tododo</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging todo lists in a terminal-based user interface without requiring an account or database.\n<br>\n✨ <b>Key Features:</b>\n• Keyboard based TUI\n• Markdown file storage (.tododo.md)\n• Create/Toggle Complete/Edit/Delete tasks\n• Hide completed tasks\n<br>\n📖 <b>Summary:</b>\nTododo is a terminal-based todo manager that utilizes markdown files for data storage. It provides a keyboard-driven interface for creating, editing, completing, and deleting tasks, as well as hiding completed tasks. The primary goal is to offer a simple and account-free todo management solution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bmarse/tododo?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1efd519b3ac99625021964f8d54822b227b64e3a2df4853a80715713ab332f66/bmarse/tododo",
+        "project_id": 722597620,
+        "content": "🔥 <b>rustfs</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nHigh-performance distributed object storage\n<br>\n✨ <b>Key Features:</b>\n• High Performance\n• Distributed Architecture\n• S3 Compatibility\n• Data Lake Support\n• Open Source\n<br>\n📖 <b>Summary:</b>\nRustFS is a high-performance distributed object storage system built with Rust, aiming to be an alternative to MinIO. It offers features like S3 compatibility, support for data lakes, and a user-friendly experience, all while being open-source under the Apache 2.0 license. RustFS is currently under rapid development and not recommended for production use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rustfs/rustfs?embed=0\">View Project</a>\n• <a href=\"https://rustfs.com/download/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f2c8e1327eaace36867417af8a96d5aae0f8c6aa9dd97122241e806f61c7e8a6/rustfs/rustfs",
         "platform": "telegram",
-        "quality_score": 0.5499999999999999
+        "quality_score": 0.85
     },
     {
-        "project_id": 2304783,
-        "content": "🚀 <b>w3af</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nIdentifying and exploiting vulnerabilities in web applications.\n<br>\n✨ <b>Key Features:</b>\n• Web application vulnerability scanning\n• Identifies 200+ vulnerabilities\n• Cross-Site Scripting (XSS) detection\n• SQL injection detection\n• OS commanding detection\n<br>\n📖 <b>Summary:</b>\nThe w3af repository provides a web application attack and audit framework, functioning as an open-source web vulnerability scanner. It helps developers and penetration testers identify and exploit vulnerabilities such as Cross-Site Scripting, SQL injection, and OS commanding in their web applications, with the capability to detect over 200 different types of vulnerabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/andresriancho/w3af?embed=0\">View Project</a>\n• <a href=\"http://w3af.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/bacc4635aa0e8d28067cb51f905adc52dc724f4c09151a7f28495464236a1bd1/andresriancho/w3af",
+        "project_id": 1029817410,
+        "content": "✨ <b>harmony</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nRendering and parsing the harmony response format for use with gpt-oss models, particularly when building custom inference solutions.\n<br>\n✨ <b>Key Features:</b>\n• Consistent formatting for rendering and parsing\n• High-performance Rust implementation\n• First-class Python support with typed stubs\n• Enables multiple output channels for chain of thought and tool calling\n• Supports tool namespaces and structured outputs\n<br>\n📖 <b>Summary:</b>\nThe `harmony` repository provides a Rust-based renderer and parser for the harmony response format, designed for use with OpenAI's gpt-oss models. It ensures consistent formatting, supports multiple output channels, and offers both Rust and Python implementations to facilitate building custom inference solutions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/openai/harmony?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9ce663ce981bf42cc07b94ade6d0d769b7a5a800e4c1b3241495a261fc805f22/openai/harmony",
         "platform": "telegram",
-        "quality_score": 0.45
+        "quality_score": 0.95
     },
     {
-        "project_id": 225918779,
-        "content": "🚀 <b>Ghost</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRemotely accessing and controlling Android devices for post-exploitation activities using the Android Debug Bridge.\n<br>\n✨ <b>Key Features:</b>\n• Android post-exploitation\n• Remote access via Android Debug Bridge (ADB)\n• Exploitation framework\n<br>\n📖 <b>Summary:</b>\nGhost Framework is an Android post-exploitation framework that leverages the Android Debug Bridge (ADB) to enable remote access and control of Android devices. It provides a platform for executing post-exploitation tasks on compromised or targeted Android systems. The framework facilitates various hacking and penetration testing activities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/EntySec/Ghost?embed=0\">View Project</a>\n• <a href=\"https://entysec.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/225918779/02630e80-dec2-11eb-93fe-824af5790307",
+        "project_id": 996231722,
+        "content": "🌟 <b>Transfer</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nQuickly transfer files between devices on a local network without using USB cables or cloud services.\n<br>\n✨ <b>Key Features:</b>\n• Effortless LAN Sharing over HTTP\n• Configurable Security (IP Permissions, Password Protection)\n• Powerful CLI Access (curl-friendly)\n• Dual Browse UI (App and Web Interface)\n• Quick In-App Transfers (Upload, Paste)\n<br>\n📖 <b>Summary:</b>\nTransfer is an Android app that creates a local file server, enabling easy file sharing over Wi-Fi. It offers features like IP-based access control, password protection, and CLI support, providing a convenient alternative to USB drives or cloud storage for local network file transfers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/matan-h/Transfer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1f5074333c77f534984ee25d6d7ea5f7886fab3e7823f9efeb5365937f89063f/matan-h/Transfer",
         "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 937214641,
-        "content": "🚀 <b>matkap</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nHunting down malicious Telegram bots by identifying leaked bot tokens and chat IDs.\n<br>\n✨ <b>Key Features:</b>\n• FOFA & URLScan Integration for Bot Token/Chat ID Hunting\n• Export Logs of Hunt Results\n<br>\n📖 <b>Summary:</b>\nMatkap is a Python-based tool designed to hunt down malicious Telegram bots. It achieves this by integrating with FOFA and URLScan to search for leaked bot tokens and chat IDs. The tool also provides functionality to export hunt logs for further analysis.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/0x6rss/matkap?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/701de2bdedf89d00e7d7bbacea6310e97b8ed1d781bacd1c41a22efda4a180fe/0x6rss/matkap",
-        "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 0.7499999999999999
     }
 ]
