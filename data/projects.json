@@ -1,255 +1,119 @@
 [
     {
-        "id": 1039282306,
-        "name": "mobile-use",
-        "description": "AI agents can now use real Android and iOS apps, just like a human.",
-        "url": "https://github.com/minitap-ai/mobile-use",
+        "id": 662640428,
+        "name": "winapps",
+        "description": " Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/",
+        "url": "https://github.com/winapps-org/winapps",
+        "language": "Shell",
+        "stars": 6916,
+        "forks": 212,
+        "created_at": "2023-07-05T15:05:25Z",
+        "updated_at": "2025-08-25T10:13:09Z",
+        "topics": [
+            "cassowary",
+            "docker",
+            "freerdp",
+            "gnome",
+            "hacktoberfest",
+            "integration",
+            "kde",
+            "libvirt",
+            "linux",
+            "linux-app",
+            "nautilus",
+            "nix-flake",
+            "podman",
+            "qemu",
+            "qemu-kvm",
+            "seamless",
+            "winapps",
+            "windows",
+            "wine",
+            "xfce"
+        ],
+        "quality_score": 0.9000000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-24T15:26:46Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/666126e9caa20d67edd0e55be913e3b1a9d38c78dfe2d995a1d60bca0e1f5cd3/winapps-org/winapps"
+        ],
+        "homepage": "",
+        "readme_summary": "The winapps repository enables users to run Windows applications on Linux distributions like Ubuntu and Fedora, integrating them seamlessly with desktop environments such as GNOME, KDE, and XFCE. It leverages technologies like Docker, Podman, libvirt, and FreeRDP to provide a native-like experience for Windows applications within Linux, including features like Nautilus integration and a taskbar widget for easy management.",
+        "key_features": [
+            "Runs Windows applications on Linux.",
+            "Seamless integration with KDE Plasma, GNOME, and XFCE.",
+            "Supports Docker, Podman, and libvirt.",
+            "Uses FreeRDP for rendering.",
+            "Nautilus integration for file opening.",
+            "Taskbar widget for administration.",
+            "Automatic opening of Microsoft Office links."
+        ],
+        "primary_use_case": "Running Windows applications seamlessly within a Linux environment.",
+        "open_issues": 85,
+        "cover_image_prompt": "A skilled stage magician seamlessly pulling Windows applications, represented by glowing icons like Word and Photoshop, out of a Linux terminal, depicted as a sleek, futuristic portal. The applications float effortlessly into a vibrant desktop environment, blending perfectly with native Linux applications. Subtle code snippets and UI elements are projected onto the magician's cloak, hinting at the underlying technology. The scene is set on a modern stage with dynamic lighting and a captivated audience. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 1035648869,
+        "name": "py-mcp-manager",
+        "description": "Simple MCP Manager Desktop Application",
+        "url": "https://github.com/namuan/py-mcp-manager",
         "language": "Python",
-        "stars": 1070,
-        "forks": 66,
-        "created_at": "2025-08-16T21:49:49Z",
-        "updated_at": "2025-08-24T09:54:55Z",
+        "stars": 17,
+        "forks": 1,
+        "created_at": "2025-08-10T21:03:25Z",
+        "updated_at": "2025-08-25T10:12:16Z",
         "topics": [
-            "agents",
-            "ai",
-            "browser-use",
-            "langgraph",
-            "mobile",
-            "mobile-use",
-            "python"
+            "desktop-app",
+            "mcp",
+            "pyqt6",
+            "python3"
         ],
-        "quality_score": 0.7499999999999999,
+        "quality_score": 0.44999999999999996,
         "contributors_count": 0,
-        "last_commit_date": "2025-08-24T08:47:16Z",
+        "last_commit_date": "2025-08-17T09:32:15Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/0877badf4331885cb7d26c9712a2708bdae213e8bb73801de6ce03b83fb03e73/minitap-ai/mobile-use"
+            "https://opengraph.githubassets.com/6bef5ac03a8185e2a9c59345392d6a6feab2fe218a93ad17e6fabb16af3f787e/namuan/py-mcp-manager"
         ],
-        "homepage": "https://minitap.ai",
-        "readme_summary": "The mobile-use repository provides an AI agent that enables users to automate tasks on their mobile devices using natural language. It features UI-aware automation, data scraping capabilities, and is extensible with different LLMs, allowing users to interact with and extract information from mobile apps programmatically.",
+        "homepage": "",
+        "readme_summary": "The py-mcp-manager repository provides a desktop application for managing MCP servers. It simplifies the process of configuring, starting, stopping, and monitoring multiple MCP servers from a single graphical interface. The application allows users to manage server configurations, monitor logs, and control server status in real-time.",
         "key_features": [
-            "Natural Language Control",
-            "UI-Aware Automation",
-            "Data Scraping",
-            "Extensible & Customizable"
+            "Manages multiple MCP servers from a single interface",
+            "Configures, starts, and stops MCP servers",
+            "Monitors server logs and status in real-time",
+            "Provides a graphical interface for server management",
+            "Allows importing/exporting server configurations"
         ],
-        "primary_use_case": "Automating interactions with Android and iOS apps using natural language commands.",
-        "open_issues": 9,
-        "cover_image_prompt": "Imagine a skilled conductor leading an orchestra where each instrument represents a mobile app. The conductor, symbolizing the AI agent, uses a natural language score to guide the orchestra, creating harmonious actions across different apps. The conductor's stand displays subtle UI elements and code snippets, connecting the musical performance to software automation. The scene is set in a modern concert hall with warm, inviting lighting. The image should be in a vibrant, 3D isometric illustration style with rich details and clear visual cues, subtly incorporating the 'mobile-use' logo on the conductor's baton."
+        "primary_use_case": "Simplifying the management of Model Context Protocol (MCP) servers through a desktop application.",
+        "open_issues": 0,
+        "cover_image_prompt": "A conductor orchestrating a symphony of server icons, each representing an MCP server. The conductor stands on a platform resembling a desktop application window, with controls for starting, stopping, and configuring servers. Each server icon emits a unique melody, visualized as glowing sound waves, indicating its status and activity. Small screens display server logs and configuration details as musical notes. The scene is set in a grand concert hall with warm, inviting lighting. The image should be in a 3D isometric illustration style with rich details and vibrant colors, conveying control and harmony."
     },
     {
-        "id": 615538501,
-        "name": "octos",
-        "description": "Create and share web-based interactive, animated wallpapers on Windows :rocket: Available on the Microsoft Store",
-        "url": "https://github.com/underpig1/octos",
-        "language": "C++",
-        "stars": 561,
-        "forks": 6,
-        "created_at": "2023-03-17T23:53:48Z",
-        "updated_at": "2025-08-24T09:13:02Z",
-        "topics": [
-            "css",
-            "desktop",
-            "display",
-            "engine",
-            "graphics",
-            "html",
-            "javascript",
-            "octos",
-            "wallpaper",
-            "windows"
-        ],
-        "quality_score": 0.7,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-24T03:07:00Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/615538501/6d63159c-737d-4434-a520-d7c4fe193143"
-        ],
-        "homepage": "https://underpig1.github.io/octos/",
-        "readme_summary": "Octos is a dynamic desktop engine that allows users to create and share live, interactive wallpapers using web technologies like HTML, CSS, and JavaScript. It leverages the Octos API to integrate with Windows features and offers a community platform for sharing creations. Octos is designed to be performant and customizable, supporting a wide range of interactive content.",
-        "key_features": [
-            "Create interactive wallpapers using HTML/CSS/JS",
-            "Powered by the Octos API for Windows integration",
-            "Supports games, websites, and videos as wallpapers",
-            "Optimized for performance on various machines",
-            "Community for sharing and downloading wallpapers",
-            "Multi-monitor support"
-        ],
-        "primary_use_case": "Creating and sharing interactive, web-based wallpapers for Windows desktops.",
-        "open_issues": 4,
-        "cover_image_prompt": "Imagine a skilled artisan in a futuristic workshop, crafting interactive stained-glass windows. The artisan uses glowing tools that represent HTML, CSS, and JavaScript, carefully assembling them onto a transparent pane representing a Windows desktop. Each pane comes alive with vibrant animations and responds to touch. Completed windows float upwards, displaying community-created designs. Small screens display code snippets and API calls. The workshop is filled with soft, ambient light, highlighting the intricate details of each window. The image should be in a 3D isometric illustration style with rich textures and a warm color palette."
-    },
-    {
-        "id": 637533152,
-        "name": "pyapp",
-        "description": "Runtime installer for Python applications",
-        "url": "https://github.com/ofek/pyapp",
-        "language": "Rust",
-        "stars": 1580,
-        "forks": 43,
-        "created_at": "2023-05-07T20:56:04Z",
-        "updated_at": "2025-08-24T08:43:31Z",
-        "topics": [
-            "application",
-            "build",
-            "cli",
-            "packaging",
-            "python",
-            "rust"
-        ],
-        "quality_score": 0.7,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-17T16:19:50Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/7013f7f643973b3e9352e36afb30c22609f4c297936f04a032a6534ab4e42bbe/ofek/pyapp"
-        ],
-        "homepage": "https://ofek.dev/pyapp/",
-        "readme_summary": "PyApp is a tool designed to wrap Python applications, creating standalone, self-bootstrapping binaries for various platforms. It offers features like optional management commands for self-updates and highly configurable runtime behavior. This allows developers to easily distribute their Python applications as single executable files.",
-        "key_features": [
-            "Easily build standalone binaries for every platform",
-            "Optional management commands providing functionality such as self updates",
-            "Extremely configurable runtime behavior allowing for targeting of different end users"
-        ],
-        "primary_use_case": "Runtime installer for Python applications",
-        "open_issues": 17,
-        "cover_image_prompt": "A skilled artisan meticulously crafting a set of Russian nesting dolls, each doll perfectly encapsulating a smaller, fully functional Python application. The largest doll is labeled 'PyApp', and as each doll is opened, it reveals a miniature application ready to run. Subtle UI elements and glowing code snippets float around the artisan's workbench, connecting the craft to software packaging. The scene is set in a bright, organized workshop with a warm, inviting atmosphere. The image should be in a 3D isometric illustration style with vibrant colors and intricate details."
-    },
-    {
-        "id": 910446631,
-        "name": "unbaited",
-        "description": null,
-        "url": "https://github.com/danielpetho/unbaited",
+        "id": 728438436,
+        "name": "mesh2motion-app",
+        "description": "Import a 3D Model and automatically assign and export animations",
+        "url": "https://github.com/scottpetrovic/mesh2motion-app",
         "language": "TypeScript",
-        "stars": 68,
-        "forks": 2,
-        "created_at": "2024-12-31T09:46:47Z",
-        "updated_at": "2025-08-24T05:32:56Z",
+        "stars": 1161,
+        "forks": 93,
+        "created_at": "2023-12-07T00:08:05Z",
+        "updated_at": "2025-08-25T10:09:05Z",
         "topics": [],
-        "quality_score": 0.75,
+        "quality_score": 0.6499999999999999,
         "contributors_count": 0,
-        "last_commit_date": "2025-08-13T23:29:19Z",
+        "last_commit_date": "2025-08-25T02:27:05Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/093b1fea52b6bbee84f68ca5c5595b00ce559ff8cb200feb90f93f42ed7cfe3a/danielpetho/unbaited"
+            "https://opengraph.githubassets.com/6a0dcbc21f7e0d86ff0726572a86915a7658e8e1ba348032d3395d82efaf6b85/scottpetrovic/mesh2motion-app"
         ],
-        "homepage": "https://unbaited.danielpetho.com",
-        "readme_summary": "Unbaited is a browser extension that utilizes Groq's API to analyze and filter content on X (formerly Twitter). It identifies and blurs engagement bait and inflammatory tweets, giving users control over their feed. The extension supports Chrome, Firefox, and Safari and allows for customization of the analysis process.",
+        "homepage": null,
+        "readme_summary": "The mesh2motion-app repository provides a tool to import 3D models, automatically assign skeletons, and export animations. It supports GLB/GLTF formats and allows users to modify skeletons and test animations before exporting. The application aims to provide a flexible, open-source alternative to existing animation tools.",
         "key_features": [
-            "Filters engagement bait and inflammatory content from X (formerly Twitter) feeds.",
-            "Uses Groq's API for fast tweet analysis.",
-            "Blurs tweets identified as engagement bait or political.",
-            "Allows users to reveal hidden tweets with a click.",
-            "Customizable system prompt for analysis."
+            "Imports 3D models (GLB/GLTF)",
+            "Assigns and modifies skeletons",
+            "Applies and tests animations",
+            "Exports animations (GLB/GLTF)"
         ],
-        "primary_use_case": "Filtering unwanted content from X (Twitter) feeds using AI.",
-        "open_issues": 1,
-        "cover_image_prompt": "Imagine a librarian meticulously sifting through a towering wall of chaotic, inflammatory tweets, represented as messy scrolls. The librarian uses a special magnifying glass that filters out the noise, revealing only the valuable, insightful content, which transforms into neatly organized books on the shelves. Subtle UI elements float around the librarian, showing the 'unbaited' extension interface. The scene is set in a serene, futuristic library with soft, diffused lighting. The image should be in a 3D isometric illustration style with clean lines, a calming color palette, and subtle digital enhancements."
-    },
-    {
-        "id": 722597620,
-        "name": "rustfs",
-        "description": "🚀 High-performance distributed object storage for MinIO  alternative.",
-        "url": "https://github.com/rustfs/rustfs",
-        "language": "Rust",
-        "stars": 7811,
-        "forks": 386,
-        "created_at": "2023-11-23T13:45:10Z",
-        "updated_at": "2025-08-24T09:45:48Z",
-        "topics": [
-            "bigdata",
-            "cloud-native",
-            "distributed-systems",
-            "filesystem",
-            "minio",
-            "object-storage",
-            "oss",
-            "rust",
-            "s3"
-        ],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-24T02:54:48Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/f2c8e1327eaace36867417af8a96d5aae0f8c6aa9dd97122241e806f61c7e8a6/rustfs/rustfs"
-        ],
-        "homepage": "https://rustfs.com/download/",
-        "readme_summary": "RustFS is a high-performance distributed object storage system built with Rust, aiming to be an alternative to MinIO. It offers features like S3 compatibility, support for data lakes, and a user-friendly experience, all while being open-source under the Apache 2.0 license. RustFS is currently under rapid development and not recommended for production use.",
-        "key_features": [
-            "High Performance",
-            "Distributed Architecture",
-            "S3 Compatibility",
-            "Data Lake Support",
-            "Open Source",
-            "User-Friendly"
-        ],
-        "primary_use_case": "High-performance distributed object storage",
-        "open_issues": 27,
-        "cover_image_prompt": "Imagine a skilled artisan in a high-tech workshop, meticulously crafting a sturdy, intricately designed treasure chest (representing object storage). The artisan uses glowing, digital bricks (representing Rust code) to construct the chest, ensuring its strength and security. Data streams flow into the chest, visualized as shimmering, colorful gems. A holographic interface displays S3 compatibility logos and performance metrics. The workshop is clean and modern, bathed in soft, ambient light. The image should be in a 3D isometric illustration style with vibrant colors and sharp details, conveying reliability and high performance."
-    },
-    {
-        "id": 1029817410,
-        "name": "harmony",
-        "description": "Renderer for the harmony response format to be used with gpt-oss",
-        "url": "https://github.com/openai/harmony",
-        "language": "Rust",
-        "stars": 3615,
-        "forks": 179,
-        "created_at": "2025-07-31T16:10:01Z",
-        "updated_at": "2025-08-24T09:33:45Z",
-        "topics": [],
-        "quality_score": 0.95,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-15T23:28:10Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/9ce663ce981bf42cc07b94ade6d0d769b7a5a800e4c1b3241495a261fc805f22/openai/harmony"
-        ],
-        "homepage": "",
-        "readme_summary": "The `harmony` repository provides a Rust-based renderer and parser for the harmony response format, designed for use with OpenAI's gpt-oss models. It ensures consistent formatting, supports multiple output channels, and offers both Rust and Python implementations to facilitate building custom inference solutions.",
-        "key_features": [
-            "Consistent formatting for rendering and parsing",
-            "High-performance Rust implementation",
-            "First-class Python support with typed stubs",
-            "Enables multiple output channels for chain of thought and tool calling",
-            "Supports tool namespaces and structured outputs"
-        ],
-        "primary_use_case": "Rendering and parsing the harmony response format for use with gpt-oss models, particularly when building custom inference solutions.",
-        "open_issues": 21,
-        "cover_image_prompt": "A skilled artisan meticulously crafting a series of intricate, interlocking gears. Each gear represents a different aspect of a conversation: system instructions, developer tools, user input, and assistant responses. The gears are made of polished metal and glow with a soft, internal light, symbolizing the clear and structured communication facilitated by the Harmony format. The artisan uses specialized tools to ensure each gear fits perfectly, creating a seamless and efficient mechanism. Subtle UI elements and code snippets are projected onto the gears, connecting the metaphor to software. The scene is set in a clean, modern workshop with warm lighting. The image should be in 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 996231722,
-        "name": "Transfer",
-        "description": "A local file server Android app. Upload and download files over Wi-Fi ",
-        "url": "https://github.com/matan-h/Transfer",
-        "language": "Kotlin",
-        "stars": 318,
-        "forks": 12,
-        "created_at": "2025-06-04T16:40:53Z",
-        "updated_at": "2025-08-24T09:50:55Z",
-        "topics": [
-            "android",
-            "android-app",
-            "file-sharing",
-            "file-sharing-server",
-            "local-network",
-            "local-server",
-            "no-cloud"
-        ],
-        "quality_score": 0.7499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-24T09:50:44Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/1f5074333c77f534984ee25d6d7ea5f7886fab3e7823f9efeb5365937f89063f/matan-h/Transfer"
-        ],
-        "homepage": "",
-        "readme_summary": "Transfer is an Android app that creates a local file server, enabling easy file sharing over Wi-Fi. It offers features like IP-based access control, password protection, and CLI support, providing a convenient alternative to USB drives or cloud storage for local network file transfers.",
-        "key_features": [
-            "Effortless LAN Sharing over HTTP",
-            "Configurable Security (IP Permissions, Password Protection)",
-            "Powerful CLI Access (curl-friendly)",
-            "Dual Browse UI (App and Web Interface)",
-            "Quick In-App Transfers (Upload, Paste)"
-        ],
-        "primary_use_case": "Quickly transfer files between devices on a local network without using USB cables or cloud services.",
-        "open_issues": 11,
-        "cover_image_prompt": "Imagine a skilled artisan in a workshop, effortlessly transferring digital files between various devices scattered around the room. The artisan uses glowing threads of light to connect a laptop, tablet, and smartphone to a central, open chest representing the shared folder. Each device displays a small UI element showing the Transfer app interface. The scene is bathed in warm, inviting light, with subtle digital particles floating in the air, symbolizing data packets. The composition is clean and focused, with a color scheme of soft blues and greens. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+        "primary_use_case": "Automatically assigning and exporting animations to 3D models.",
+        "open_issues": 15,
+        "cover_image_prompt": "A skilled artisan meticulously assembling a complex clockwork animation from individual 3D model parts. The artisan carefully fits bones and joints, bringing the static model to life with fluid motion. Digital screens display animation timelines and code snippets, subtly connecting the craft to software. The scene is set in a bright, organized workshop filled with tools and spare parts. The composition is clean and focused with a warm, inviting color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
     }
 ]
