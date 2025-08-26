@@ -1,26 +1,26 @@
 {
-    "article": "Run Windows applications directly on your Linux system!  That's the magic of WinApps, a project that's completely changed how I work.  No more dual-booting or clunky virtual machines; just seamless integration of Windows apps into your Linux desktop.  Imagine effortlessly opening Microsoft Office documents or using your favorite Adobe Creative Cloud apps without leaving your comfortable Linux environment. That's the promise of WinApps.\n\nSo, how does it work?  WinApps cleverly uses Docker, Podman, or libvirt to create a lightweight Windows virtual machine.  It then scans this virtual machine to identify all installed Windows applications, creating shortcuts for them on your Linux desktop.  This means you can launch your Windows applications just like any other Linux application. The secret sauce is FreeRDP, which handles the rendering, making the Windows apps appear and behave as if they were native to your Linux system.\n\nBut it gets even better! WinApps goes beyond simple application launching.  It provides seamless file sharing between your Linux and Windows environments. Your Linux home directory is automatically accessible from within the Windows VM, and Nautilus integration lets you right-click files and choose to open them with specific Windows applications.  A handy taskbar widget provides easy management of the Windows subsystem and quick access to your Windows apps.  Even better, it automatically opens Microsoft Office links (like those from emails) in the appropriate Windows application. (Pro-tip: you might need a User-Agent switcher browser extension to ensure seamless operation with Office Online.)\n\nThis project is a game-changer for developers who frequently switch between Linux and Windows.  It eliminates the hassle of context switching, saving you valuable time and improving your workflow.  You can finally enjoy the best of both worlds – the power and flexibility of Linux and the compatibility of Windows applications – all without sacrificing efficiency or convenience.  If you're tired of virtual machine overhead or dual-booting, WinApps offers a streamlined and integrated solution.\n\nThe level of integration is astonishing. I used to dread having to switch to Windows for specific tasks, but now it's all just a click away. It's fast, it's stable, and it just works.  The community support is great too, which is always a plus. If you're a developer who needs both operating systems, give WinApps a try! You won't regret it.",
+    "article": "Tired of wrestling with Dockerfiles and container complexities just to run a simple application?  Then get ready to meet Process Compose – a game-changer for managing non-containerized apps!  This fantastic Go-based project lets you orchestrate your applications with ease, using a simple YAML configuration file.  Think of it as a lightweight, streamlined version of docker-compose, but without the container overhead.  It's perfect for those times when you just want to get your application up and running without the added complexity of containers.  \n\nProcess Compose's magic lies in its intuitive YAML configuration. You define your processes, their dependencies, and startup order in a clear, readable format.  Need one process to finish before another starts? No problem! Process Compose handles the dependencies for you. Want to run multiple instances of a process? It's got you covered.  The configuration file is remarkably similar to docker-compose's format, making the transition incredibly smooth for those familiar with the concept.  \n\nBut the benefits extend far beyond simple process management. Process Compose offers a rich feature set including process recovery policies, per-process environment variables, and even a slick terminal user interface (TUI) for monitoring your applications.  Imagine being able to easily restart processes, view logs in real-time, and manage your entire application workflow from a single, elegant interface.  The TUI is particularly impressive; it provides a clear, concise overview of your running processes, allowing for quick identification and resolution of any issues.  \n\nProcess Compose also supports process arguments using bash or zsh style syntax, simplifying the way you pass parameters to your applications.  It handles global and per-process environment variables, making configuration flexible and straightforward.  Furthermore, its built-in logging capabilities are a significant advantage, providing a centralized and organized view of your application's activity.  The project also boasts a REST API, enabling integration with other systems and tools, and supports log caching and configurable shortcuts.  \n\nFor developers, the advantages are numerous.  It simplifies the deployment and management of non-containerized applications, saving time and effort.  The intuitive YAML configuration and powerful features eliminate the need for complex scripting and manual intervention, ultimately improving workflow efficiency and reducing the risk of errors.  The single binary file nature of Process Compose ensures easy installation and portability across different systems, eliminating dependency headaches.  Whether you're working on a small personal project or a large-scale enterprise application, Process Compose can significantly streamline your development process.  The ease of use and powerful features make it a must-have tool for any developer's arsenal.  Seriously, check it out! You won't regret it.",
     "key_takeaways": [
-        "Seamlessly run Windows applications on Linux desktops.",
-        "Improved workflow by eliminating the need for dual-booting or bulky VMs.",
-        "Easy integration with Linux file managers and taskbars.",
-        "Supports almost all Windows applications, including Microsoft 365 and Adobe Creative Cloud.",
-        "Active community support and ongoing development."
+        "Simplified management of non-containerized applications.",
+        "Intuitive YAML configuration similar to docker-compose.",
+        "Rich feature set including process recovery, environment variables, and a TUI.",
+        "Improved workflow efficiency and reduced risk of errors.",
+        "Easy installation and portability."
     ],
     "tags": [
-        "Linux",
-        "Windows",
-        "Virtualization",
-        "Docker",
-        "FreeRDP"
+        "process orchestration",
+        "application management",
+        "Go",
+        "YAML",
+        "no-containers"
     ],
-    "title": "Run Windows Apps on Linux – Effortlessly!",
-    "stars": 6916,
-    "forks": 212,
-    "open_issues": 85,
-    "languages": "Shell",
-    "readme_summary": "The winapps repository enables users to run Windows applications on Linux distributions like Ubuntu and Fedora, integrating them seamlessly with desktop environments such as GNOME, KDE, and XFCE. It leverages technologies like Docker, Podman, libvirt, and FreeRDP to provide a native-like experience for Windows applications within Linux, including features like Nautilus integration and a taskbar widget for easy management.",
-    "project_id": 662640428,
-    "url": "https://github.com/winapps-org/winapps",
-    "description": " Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/"
+    "title": "Revolutionize Your Workflow: Process Compose - The Docker-less Orchestrator You've Been Waiting For!",
+    "stars": 1755,
+    "forks": 78,
+    "open_issues": 30,
+    "languages": "Go",
+    "readme_summary": "Process Compose is a Go-based scheduler and orchestrator designed to manage non-containerized applications. It allows users to define workflows using a simple YAML schema, manage process dependencies, and execute processes in parallel or serially. It offers features such as health checks, a TUI, and a REST API, providing a comprehensive solution for managing applications without Docker.",
+    "project_id": 478293508,
+    "url": "https://github.com/F1bonacc1/process-compose",
+    "description": "Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications."
 }

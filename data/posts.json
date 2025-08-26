@@ -1,23 +1,51 @@
 [
     {
-        "project_id": 662640428,
-        "content": "🌟 <b>winapps</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning Windows applications seamlessly within a Linux environment.\n<br>\n✨ <b>Key Features:</b>\n• Runs Windows applications on Linux.\n• Seamless integration with KDE Plasma, GNOME, and XFCE.\n• Supports Docker, Podman, and libvirt.\n• Uses FreeRDP for rendering.\n• Nautilus integration for file opening.\n<br>\n📖 <b>Summary:</b>\nThe winapps repository enables users to run Windows applications on Linux distributions like Ubuntu and Fedora, integrating them seamlessly with desktop environments such as GNOME, KDE, and XFCE. It leverages technologies like Docker, Podman, libvirt, and FreeRDP to provide a native-like experience for Windows applications within Linux, including features like Nautilus integration and a taskbar widget for easy management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/winapps-org/winapps?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/666126e9caa20d67edd0e55be913e3b1a9d38c78dfe2d995a1d60bca0e1f5cd3/winapps-org/winapps",
+        "project_id": 223287266,
+        "content": "💡 <b>zee</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTerminal-based text editing\n<br>\n✨ <b>Key Features:</b>\n• High performance (100 FPS editor)\n• Rope data structure for buffers\n• Edit tree history (undo/redo)\n• Tree-sitter for syntax highlighting and validation\n• Multi-buffer, multi-pane support\n<br>\n📖 <b>Summary:</b>\nZee is a modern, terminal-based text editor written in Rust, inspired by Emacs. It emphasizes performance and leverages technologies like rope data structures and Tree-sitter for efficient text manipulation and syntax highlighting. Zee aims to provide a fast and feature-rich editing experience within the terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/zee-editor/zee?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/26ed3b98601d2e897efc591abfab163265b433ecde1c816638212dcfffdd6849/zee-editor/zee",
         "platform": "telegram",
-        "quality_score": 0.9000000000000001
+        "quality_score": 0.55
     },
     {
-        "project_id": 1035648869,
-        "content": "🌟 <b>py-mcp-manager</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying the management of Model Context Protocol (MCP) servers through a desktop application.\n<br>\n✨ <b>Key Features:</b>\n• Manages multiple MCP servers from a single interface\n• Configures, starts, and stops MCP servers\n• Monitors server logs and status in real-time\n• Provides a graphical interface for server management\n• Allows importing/exporting server configurations\n<br>\n📖 <b>Summary:</b>\nThe py-mcp-manager repository provides a desktop application for managing MCP servers. It simplifies the process of configuring, starting, stopping, and monitoring multiple MCP servers from a single graphical interface. The application allows users to manage server configurations, monitor logs, and control server status in real-time.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/namuan/py-mcp-manager?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6bef5ac03a8185e2a9c59345392d6a6feab2fe218a93ad17e6fabb16af3f787e/namuan/py-mcp-manager",
+        "project_id": 386913925,
+        "content": "✨ <b>discordo</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTerminal-based Discord client\n<br>\n✨ <b>Key Features:</b>\n• Lightweight\n• Configurable\n• Mouse & clipboard support\n• Attachments\n• Notifications\n<br>\n📖 <b>Summary:</b>\nDiscordo is a lightweight and feature-rich Discord terminal client designed for users who prefer a text-based interface. It supports essential Discord features like attachments, notifications, and markdown, along with security features like 2-Factor authentication. Discordo is cross-platform, offering prebuilt binaries and package manager support for easy installation on various operating systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ayn2op/discordo?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4ec15d79522e88b71120fa73b86b4365ca0e00e939bba2c849348d3f778929ed/ayn2op/discordo",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 792805133,
+        "content": "🔥 <b>tabiew</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nViewing and querying tabular data files.\n<br>\n✨ <b>Key Features:</b>\n• Vim-style keybindings\n• SQL support\n• Support for various tabular data formats (CSV, Parquet, JSON, JSONL, Arrow, FWF, Sqlite, Excel)\n• Fuzzy search\n• Scripting support\n<br>\n📖 <b>Summary:</b>\nTabiew is a lightweight TUI application designed for viewing and querying tabular data files. It supports a variety of formats, including CSV, Parquet, and JSON, and offers features like SQL support, fuzzy search, and Vim-style keybindings. Tabiew provides a user-friendly way to interact with and analyze data directly from the terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/shshemi/tabiew?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/670be81947a0712707cc50eb64d98f1e3ab4eb9521bcdf75de9fd1170e2e4707/shshemi/tabiew",
+        "platform": "telegram",
+        "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 1031397464,
+        "content": "🚀 <b>Ikea-like-captcha</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating conceptual illustrations for software repositories using AI\n<br>\n✨ <b>Key Features:</b>\n• Ikea assembly-themed CAPTCHA\n• Conceptual illustration generation guide\n<br>\n📖 <b>Summary:</b>\nThe repository provides a guide for creating Leonardo.AI prompts to generate conceptual illustrations that visually represent the function of a software repository. It uses the metaphor of assembling IKEA furniture to represent solving a CAPTCHA, and provides instructions for creating prompts that translate technical concepts into easily understandable visuals.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SomeMedic/Ikea-like-captcha?embed=0\">View Project</a>\n• <a href=\"https://ikea-like-captcha.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/af39989e9dea37f7d096d3b01816d8e87f64967df6a43cf94a730e3e81b30df0/SomeMedic/Ikea-like-captcha",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 728438436,
-        "content": "🌟 <b>mesh2motion-app</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomatically assigning and exporting animations to 3D models.\n<br>\n✨ <b>Key Features:</b>\n• Imports 3D models (GLB/GLTF)\n• Assigns and modifies skeletons\n• Applies and tests animations\n• Exports animations (GLB/GLTF)\n<br>\n📖 <b>Summary:</b>\nThe mesh2motion-app repository provides a tool to import 3D models, automatically assign skeletons, and export animations. It supports GLB/GLTF formats and allows users to modify skeletons and test animations before exporting. The application aims to provide a flexible, open-source alternative to existing animation tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/scottpetrovic/mesh2motion-app?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6a0dcbc21f7e0d86ff0726572a86915a7658e8e1ba348032d3395d82efaf6b85/scottpetrovic/mesh2motion-app",
+        "project_id": 781022269,
+        "content": "🔥 <b>prompt-eng-interactive-tutorial</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nLearning and practicing prompt engineering techniques for the Claude AI model.\n<br>\n✨ <b>Key Features:</b>\n• Step-by-step guide to prompt engineering with Claude.\n• Nine chapters with lessons and exercises.\n• Example Playground for experimentation.\n• Advanced methods in the appendix.\n<br>\n📖 <b>Summary:</b>\nThis repository provides an interactive tutorial for learning prompt engineering with Anthropic's Claude AI model. It offers a structured course with lessons, exercises, and a playground to practice writing and troubleshooting prompts. The tutorial covers basic prompt structure, common failure modes, and advanced techniques to help users build effective prompts for various use cases.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/anthropics/prompt-eng-interactive-tutorial?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/bf23680e3182b401b1e33719a6d1dd234c8acffaa6d06bc6d5a32dc32e33efc0/anthropics/prompt-eng-interactive-tutorial",
         "platform": "telegram",
-        "quality_score": 0.6499999999999999
+        "quality_score": 0.45
+    },
+    {
+        "project_id": 478293508,
+        "content": "🚀 <b>process-compose</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and orchestrating non-containerized applications.\n<br>\n✨ <b>Key Features:</b>\n• Processes execution (parallel or serial)\n• Processes dependencies and startup order\n• Process recovery policies\n• Manual process restart\n• Processes arguments (bash/zsh style)\n<br>\n📖 <b>Summary:</b>\nProcess Compose is a Go-based scheduler and orchestrator designed to manage non-containerized applications. It allows users to define workflows using a simple YAML schema, manage process dependencies, and execute processes in parallel or serially. It offers features such as health checks, a TUI, and a REST API, providing a comprehensive solution for managing applications without Docker.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/F1bonacc1/process-compose?embed=0\">View Project</a>\n• <a href=\"https://f1bonacc1.github.io/process-compose/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/754bb2f5aba49a16c10c91c68ee80fd1af33b777d51e957356d261a1c4b4a40b/F1bonacc1/process-compose",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 190254663,
+        "content": "🌟 <b>ripgrep-all</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSearching for text within a variety of file types, including archives and documents, using ripgrep's powerful regex capabilities.\n<br>\n✨ <b>Key Features:</b>\n• Extends ripgrep to search within various file types (PDFs, E-Books, Office documents, zip, tar.gz, etc.)\n• Recursively descends into archives to find matches.\n• Provides adapters for different file formats.\n• Supports custom adapters.\n• Integrates with fzf.\n<br>\n📖 <b>Summary:</b>\nrga (ripgrep-all) enhances the functionality of ripgrep by enabling it to search within a multitude of file types such as PDFs, E-Books, Office documents, and archives. It recursively descends into archives and uses adapters to handle different file formats, allowing users to efficiently search for text across diverse file types.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/phiresky/ripgrep-all?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a74e8774aa2ad7bcd3856c5c5b45307832f903f373797baaabdcae4eea4ac1e9/phiresky/ripgrep-all",
+        "platform": "telegram",
+        "quality_score": 0.55
     }
 ]
