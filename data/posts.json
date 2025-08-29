@@ -1,44 +1,44 @@
 [
     {
-        "project_id": 284358500,
-        "content": "🌟 <b>mpvpaper</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nSetting videos as wallpaper on Wayland compositors.\n<br>\n✨ <b>Key Features:</b>\n• Plays videos as wallpaper on wlroots-based Wayland compositors\n• Supports mpv options forwarding\n• Allows control via keyboard bindings or mpv input-ipc-server\n<br>\n📖 <b>Summary:</b>\nmpvpaper is a wallpaper program designed for wlroots-based Wayland compositors, enabling users to play videos as their desktop background. It leverages mpv for video playback and offers functionalities such as forwarding mpv options and control through keyboard bindings or an mpv input-ipc-server, providing a dynamic and customizable wallpaper experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/GhostNaN/mpvpaper?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/721293dbcc7ff61a2147363504841751b30474d2002ee2110262fdbf682fa86b/GhostNaN/mpvpaper",
+        "project_id": 991575077,
+        "content": "💡 <b>mpvpaper-stop</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomatically pauses and resumes mpvpaper animated wallpapers based on window visibility in Hyprland.\n<br>\n✨ <b>Key Features:</b>\n• Automatic pause/resume of mpvpaper based on window visibility\n• Configurable polling period\n• Option to fork into the background\n• Verbose mode for debugging\n• Customizable path for mpvpaper's IPC socket\n<br>\n📖 <b>Summary:</b>\nThe `mpvpaper-stop` utility automatically pauses `mpvpaper` when any window becomes visible on the active Hyprland workspace and resumes playback when no windows are displayed. It achieves this by monitoring window visibility via Hyprland's IPC socket and controlling `mpvpaper`'s playback status through its IPC socket, ensuring video wallpapers only play when visible.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pvtoari/mpvpaper-stop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4cd31fdf60771ff90f7300c2dee6174d89c3b351efb48a04387bb9159968a85a/pvtoari/mpvpaper-stop",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 92111509,
+        "content": "✨ <b>Trilium</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding a personal knowledge base\n<br>\n✨ <b>Key Features:</b>\n• Hierarchical note organization\n• WYSIWYG note editor with markdown support\n• Code note support with syntax highlighting\n• Full text search and note hoisting\n• Note versioning\n<br>\n📖 <b>Summary:</b>\nTrilium Notes is a free, open-source, cross-platform note-taking application designed for building large personal knowledge bases. It offers hierarchical note organization, a rich WYSIWYG editor, code support, encryption, synchronization, and advanced features like scripting and relation maps. Trilium Notes scales well and provides a touch-optimized mobile frontend.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TriliumNext/Trilium?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4deef76f474f07d46a816375d82d7c599a9bdccb9b074f409cff2dd6d413dd31/TriliumNext/Trilium",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 1009399156,
+        "content": "🔥 <b>TEMPEST-LoRa</b> | MATLAB\n<br>\n🎯 <b>Primary Use Case:</b>\nDemonstrates a cross-technology covert communication technique using electromagnetic radiation from video cables to transmit data to LoRa receivers.\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\nThis repository provides MATLAB code and instructions to reproduce a covert communication technique called TEMPEST-LoRa. It allows users to generate malicious images or videos that, when displayed, cause VGA or HDMI cables to emit electromagnetic radiation that can be received and decoded by standard LoRa devices. The repository includes tools for configuring transmission parameters, encoding payloads, generating attack videos, and analyzing captured LoRa signals.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/XieyangSun/TEMPEST-LoRa?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4e35f3765cb3d29d9d7fb0195cf9d90a2a170ae5a671fbd74809df7dd1524911/XieyangSun/TEMPEST-LoRa",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 402229935,
+        "content": "🚀 <b>vdu_controls</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nControl and adjust brightness, contrast, and other settings of external monitors, especially in response to ambient light conditions.\n<br>\n✨ <b>Key Features:</b>\n• DDC control panel for external monitors\n• Ambient light level adjustment for multiple displays\n• Presets for different settings (night, day, etc.)\n• System tray integration\n<br>\n📖 <b>Summary:</b>\nvdu_controls is a Python-based application that provides a control panel for external monitors, allowing users to adjust brightness, contrast, and audio settings. It features an ambient-light-level slider to simultaneously control multiple displays and supports presets for different scenarios. The application can run in the system tray and automatically adapt to light and dark desktop themes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/digitaltrails/vdu_controls?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d1adcb96d2dc2cbbaaad7d96d7e536faad9c28f2b4a25c8952ea024137f9262c/digitaltrails/vdu_controls",
+        "platform": "telegram",
+        "quality_score": 0.6499999999999999
+    },
+    {
+        "project_id": 873217205,
+        "content": "🌟 <b>vulnhuntr</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated vulnerability detection in GitHub repositories using LLMs and static code analysis.\n<br>\n✨ <b>Key Features:</b>\n• Zero-shot vulnerability discovery using LLMs\n• Static code analysis for vulnerability detection\n• Identifies multi-step, security-bypassing vulnerabilities\n• Supports Python codebases\n• Integration with LLMs (Claude and GPT)\n<br>\n📖 <b>Summary:</b>\nVulnhuntr is a tool that leverages LLMs to automatically discover remotely exploitable vulnerabilities in Python codebases. It performs static code analysis to identify complex, multi-step vulnerabilities, focusing on common vulnerability classes such as LFI, RCE, and XSS. The tool is designed to analyze GitHub repositories and requires an API key for the LLM service.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/protectai/vulnhuntr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f67a1c475f02ae29e1ff387a0c7d623e03c139a9a353b4397a634e88d9e9b0f5/protectai/vulnhuntr",
         "platform": "telegram",
         "quality_score": 0.45
     },
     {
-        "project_id": 221912385,
-        "content": "🔥 <b>nemu</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nNcurses-based terminal UI management of QEMU virtual machines.\n<br>\n✨ <b>Key Features:</b>\n• Install/delete/clone/rename VM\n• Show VM status, CPU usage\n• Start/stop/shutdown/reset VM\n• Connect to VM via VNC or SPICE protocol\n• Full VM snapshots\n<br>\n📖 <b>Summary:</b>\nnEMU is a terminal-based user interface for managing QEMU virtual machines. It provides a curses-based interface to perform common VM operations such as installing, deleting, starting, stopping, and configuring VMs. It supports features like snapshots, USB, networking, VirtFS, OVA import, and remote control via D-Bus.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nemuTUI/nemu?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/221912385/fa1f0280-07b6-11ea-895d-178b16c42c41",
+        "project_id": 971770699,
+        "content": "💡 <b>CryptX</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nA personal Android toolkit for experimenting with cryptography, steganography, and hashing techniques.\n<br>\n✨ <b>Key Features:</b>\n• Encryption & Decryption (AES, DES, 3DES, Blowfish, ChaCha20)\n• Hash Generator (MD5, SHA-1, SHA-256 and more)\n• Hash Detector\n• File Steganography (hide/extract files in JPG/PNG images)\n<br>\n📖 <b>Summary:</b>\nCryptX is an Android toolkit designed for experimenting with various security techniques. It allows users to encrypt and decrypt data using common algorithms, generate and detect hash types, and hide files within images using steganography. The application is built with Jetpack Compose and does not require internet permissions or collect any data.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/PersonX-46/CryptX?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4d7a500375a28f00650a98685db5501a6eafa3a8508af723fc7a0616e74e9755/PersonX-46/CryptX",
         "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 820087727,
-        "content": "💡 <b>onlook</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nVisually building, styling, and editing React applications with AI assistance.\n<br>\n✨ <b>Key Features:</b>\n• Visual editing of React apps\n• AI-powered design suggestions\n• Real-time code editor\n• Next.js and Tailwind CSS support\n• Rapid prototyping and deployment\n<br>\n📖 <b>Summary:</b>\nOnlook is an open-source, visual-first code editor designed for building websites, prototypes, and designs with AI in Next.js and Tailwind CSS. It allows users to make edits directly in the browser DOM with a visual editor, offering a design-in-realtime experience with code and serving as an open-source alternative to tools like Bolt.new and Webflow.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/onlook-dev/onlook?embed=0\">View Project</a>\n• <a href=\"https://onlook.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/37da6e3c4eac2e31f5299075d6b2ffc553676e390ae1099b08d184c92b426559/onlook-dev/onlook",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 1012154922,
-        "content": "🚀 <b>openrouter-bot</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nLaunching a Telegram bot to interact with AI models through OpenRouter or local LLMs.\n<br>\n✨ <b>Key Features:</b>\n• Telegram bot integration\n• Communication with free and paid AI models via OpenRouter\n• Support for local LLMs (e.g., via LM Studio)\n• Model switching\n<br>\n📖 <b>Summary:</b>\nThe openrouter-bot repository provides a way to quickly deploy a Telegram bot that can communicate with various AI models via the OpenRouter API or local setups like LM Studio. It supports features like model switching and Markdown formatting, offering a streamlined experience for interacting with AI models through Telegram. The project also optimizes the container startup process for faster deployment.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lifailon/openrouter-bot?embed=0\">View Project</a>\n• <a href=\"https://hub.docker.com/r/lifailon/openrouter-bot?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fe99c0abc99e2192056bd64fd939c8c549cc05e35a232cf9d5b2d0bc78a07154/Lifailon/openrouter-bot",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 1010271930,
-        "content": "🚀 <b>drinfo</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring disk usage on Linux systems.\n<br>\n✨ <b>Key Features:</b>\n• Physical Drive, Network (cloud) Drive Detection\n• Colorful Progress Bars\n• Human-Readable Sizes\n• Terminal Responsive\n• Detailed Information (mount point, filesystem type, device path, UUID, label, mount options, used, available, inodes, SMART status)\n<br>\n📖 <b>Summary:</b>\nDrinfo is a Linux command-line tool designed to monitor disk usage. It provides detailed information about physical and network drives, including cloud drives, presenting the data with colorful progress bars and human-readable sizes. The tool adapts to terminal width and displays mount point, filesystem type, device path, UUID, label, mount options, used space, available space, inodes, and SMART status.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lennart1978/drinfo?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1010271930/d9712d60-c6fe-427d-b01d-69efe20d8016",
-        "platform": "telegram",
-        "quality_score": 0.3
-    },
-    {
-        "project_id": 1002125012,
-        "content": "🚀 <b>vibe-kanban</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and orchestrating AI coding agents to streamline software development.\n<br>\n✨ <b>Key Features:</b>\n• Switching between different coding agents\n• Orchestrating execution of multiple coding agents in parallel or sequence\n• Reviewing work and starting dev servers\n• Tracking task status\n• Centralizing configuration of coding agent MCP configs\n<br>\n📖 <b>Summary:</b>\nVibe Kanban is a Kanban board designed to manage AI coding agents. It allows users to easily switch between agents, orchestrate their execution, review their work, track task status, and centralize configuration. The primary use case is to streamline the software development process by effectively managing AI-powered coding assistance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BloopAI/vibe-kanban?embed=0\">View Project</a>\n• <a href=\"https://www.vibekanban.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/cc98688a2aaf8f6af5d7c6db7b30ec90171f1bf6117082244c030e185bfb7564/BloopAI/vibe-kanban",
-        "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.7499999999999999
     }
 ]

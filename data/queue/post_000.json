@@ -1,0 +1,7 @@
+{
+    "project_id": 991575077,
+    "content": "💡 <b>mpvpaper-stop</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomatically pauses and resumes mpvpaper animated wallpapers based on window visibility in Hyprland.\n<br>\n✨ <b>Key Features:</b>\n• Automatic pause/resume of mpvpaper based on window visibility\n• Configurable polling period\n• Option to fork into the background\n• Verbose mode for debugging\n• Customizable path for mpvpaper's IPC socket\n<br>\n📖 <b>Summary:</b>\nThe `mpvpaper-stop` utility automatically pauses `mpvpaper` when any window becomes visible on the active Hyprland workspace and resumes playback when no windows are displayed. It achieves this by monitoring window visibility via Hyprland's IPC socket and controlling `mpvpaper`'s playback status through its IPC socket, ensuring video wallpapers only play when visible.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pvtoari/mpvpaper-stop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/4cd31fdf60771ff90f7300c2dee6174d89c3b351efb48a04387bb9159968a85a/pvtoari/mpvpaper-stop",
+    "platform": "telegram",
+    "quality_score": 0.44999999999999996
+}

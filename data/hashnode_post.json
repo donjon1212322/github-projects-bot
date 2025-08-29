@@ -1,30 +1,30 @@
 {
-    "title": "Onlook: The Visual-First Code Editor That Will Change How You Build Websites",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nOnlook is an open-source, visual-first code editor designed for building websites, prototypes, and designs with AI in Next.js and Tailwind CSS. It allows users to make edits directly in the browser DOM with a visual editor, offering a design-in-realtime experience with code and serving as an open-source alternative to tools like Bolt.new and Webflow.\n\n## 🔑 Key Takeaways\n\n- ✅ Visual-first code editor for streamlined web development\n\n- ✅ Combines the ease of visual design tools with the power of code\n\n- ✅ Built on Next.js and Tailwind CSS for performance and scalability\n\n- ✅ Real-time code editor with features like checkpoints and CLI access\n\n- ✅ Accelerates prototyping, improves collaboration, and boosts developer productivity\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 21951\n- 🍴 Forks: 1518\n- ❗ Open Issues: 274\n\n\n## 🛠 Tech Stack\n- ✅ TypeScript\n\n\nHey fellow developers! Ever wished you could build websites and prototypes with the ease of a visual editor, but with the power of code?  Well, hold onto your hats because Onlook is here to revolutionize how we approach web development! This open-source project is essentially a visual-first code editor that lets you design and develop simultaneously. Imagine a seamless blend of Figma's intuitive interface and the robustness of a real-time code editor – that's Onlook in a nutshell.\n\nOnlook's architecture is built on Next.js and Tailwind CSS, providing a solid foundation for performance and scalability.  It allows you to create Next.js apps in seconds, starting from either text prompts or even images! You can visually edit your app using a Figma-like interface, previewing changes in real-time.  This visual editing isn't just about aesthetics; it's about directly manipulating the browser's DOM, making the connection between design and code incredibly transparent. You manage brand assets, navigate pages, browse layers, and even manage project images all within this intuitive visual environment.\n\nBut it's not just a pretty face. Onlook offers a full-fledged real-time code editor, letting you dive into the nitty-gritty whenever you need to.  It also includes features like saving and restoring from checkpoints, running commands via the CLI, and even connecting with an app marketplace (coming soon!).  Deployment is a breeze – generate sharable links or link your custom domain in seconds.  The entire workflow is designed to be streamlined and efficient, saving you countless hours of tedious back-and-forth between design and development.\n\nWhat are the benefits for developers?  Well, for starters, Onlook drastically reduces the time it takes to build prototypes and MVPs. The visual editor accelerates the design process, while the integrated code editor empowers you to fine-tune every detail.  It also enhances collaboration, with real-time editing features (coming soon!) allowing teams to work together seamlessly. Onlook promotes a more intuitive and efficient development cycle, leading to faster iteration and improved productivity.  It’s an excellent tool for both seasoned developers looking to streamline their workflow and newcomers eager to explore web development in a visually engaging way.  Think of it as a bridge connecting the creative and technical sides of web development, making the entire process significantly more enjoyable and less frustrating.\n\nOnlook is still under active development, but the core features are already incredibly impressive.  The community is actively involved, contributing to its growth and evolution.  Check out their GitHub page to see the roadmap and contribute to this exciting project!  It’s an open-source project, so you can even contribute to the development yourself!  This is a game-changer for how we build websites and prototypes, and it's definitely something you need to check out!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/onlook-dev/onlook)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Trilium Notes: Your Personal Knowledge Management Powerhouse",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nTrilium Notes is a free, open-source, cross-platform note-taking application designed for building large personal knowledge bases. It offers hierarchical note organization, a rich WYSIWYG editor, code support, encryption, synchronization, and advanced features like scripting and relation maps. Trilium Notes scales well and provides a touch-optimized mobile frontend.\n\n## 🔑 Key Takeaways\n\n- ✅ Hierarchical note organization with unlimited nesting and note cloning.\n\n- ✅ Rich WYSIWYG editor with support for code, math, images, and tables.\n\n- ✅ Seamless note versioning and powerful full-text search.\n\n- ✅ Flexible note attributes for advanced organization and scripting.\n\n- ✅ Open-source, cross-platform, and supports self-hosted synchronization.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 30575\n- 🍴 Forks: 2038\n- ❗ Open Issues: 1102\n\n\n## 🛠 Tech Stack\n- ✅ TypeScript\n\n\nTired of juggling notes across multiple apps?  Wish you had one place to organize your thoughts, code snippets, research papers, and everything in between? Then get ready to meet Trilium Notes – a game-changing, open-source note-taking application that's about to revolutionize how you manage information.  Trilium isn't just another note-taker; it's a powerful, flexible system designed for building extensive personal knowledge bases. Imagine a hierarchical system where notes are organized into a deeply nested tree structure, allowing you to connect ideas in a truly intuitive way. Need to link a note to multiple branches of your knowledge tree?  No problem. Trilium allows for easy note cloning, ensuring that information can reside in multiple relevant locations.  But Trilium is more than just organization. Its rich WYSIWYG editor lets you create notes with tables, images, and even mathematical equations – all formatted beautifully using its robust markdown support.  For developers, the ability to seamlessly edit code within notes, complete with syntax highlighting, is a true game-changer. Imagine keeping all your project notes, code examples, and API documentation in one place.  Finding what you need is a breeze thanks to Trilium's lightning-fast full-text search and intelligent note navigation features.  And if you're worried about losing your precious data, rest assured – Trilium offers seamless note versioning, allowing you to revert to previous versions whenever needed.  The app also supports note attributes, enabling powerful organization, querying, and even advanced scripting for automation.  Beyond the core features, Trilium boasts support for multiple languages, OpenID and TOTP integration for heightened security, and options for self-hosted synchronization.  You can even share your notes publicly.  Want to visualize your notes? Trilium offers relation maps and link maps to see the connections between your ideas.  It even supports mind maps, geo maps, and sketching diagrams using Excalidraw.  And if you're a power user, Trilium's REST API opens up a world of automation possibilities.  This is truly a note-taking app built for the future, scaling seamlessly even to hundreds of thousands of notes without sacrificing performance.  It even has a mobile-friendly frontend for those who prefer to work on the go.  With its built-in dark theme and support for user-created themes, you can customize the experience to fit your preferences.  Trilium is not just an app; it's a comprehensive ecosystem designed to empower you to manage your knowledge effectively and efficiently.  It's the ultimate tool for personal knowledge management, and it's completely free and open-source.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/TriliumNext/Trilium)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "next.js",
-            "slug": "next.js"
+            "name": "note-taking",
+            "slug": "note-taking"
         },
         {
-            "name": "tailwind css",
-            "slug": "tailwind-css"
+            "name": "knowledge management",
+            "slug": "knowledge-management"
         },
         {
-            "name": "visual editor",
-            "slug": "visual-editor"
-        },
-        {
-            "name": "web development",
-            "slug": "web-development"
-        },
-        {
-            "name": "open source",
+            "name": "open-source",
             "slug": "open-source"
+        },
+        {
+            "name": "personal productivity",
+            "slug": "personal-productivity"
+        },
+        {
+            "name": "hierarchical",
+            "slug": "hierarchical"
         }
     ],
-    "slug": "onlook-the-visual-first-code-editor-that-will-change-how-you-build-websites",
-    "project_id": 820087727,
+    "slug": "trilium-notes-your-personal-knowledge-management-powerhouse",
+    "project_id": 92111509,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
