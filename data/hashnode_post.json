@@ -1,30 +1,30 @@
 {
-    "title": "Trilium Notes: Your Personal Knowledge Management Powerhouse",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nTrilium Notes is a free, open-source, cross-platform note-taking application designed for building large personal knowledge bases. It offers hierarchical note organization, a rich WYSIWYG editor, code support, encryption, synchronization, and advanced features like scripting and relation maps. Trilium Notes scales well and provides a touch-optimized mobile frontend.\n\n## 🔑 Key Takeaways\n\n- ✅ Hierarchical note organization with unlimited nesting and note cloning.\n\n- ✅ Rich WYSIWYG editor with support for code, math, images, and tables.\n\n- ✅ Seamless note versioning and powerful full-text search.\n\n- ✅ Flexible note attributes for advanced organization and scripting.\n\n- ✅ Open-source, cross-platform, and supports self-hosted synchronization.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 30575\n- 🍴 Forks: 2038\n- ❗ Open Issues: 1102\n\n\n## 🛠 Tech Stack\n- ✅ TypeScript\n\n\nTired of juggling notes across multiple apps?  Wish you had one place to organize your thoughts, code snippets, research papers, and everything in between? Then get ready to meet Trilium Notes – a game-changing, open-source note-taking application that's about to revolutionize how you manage information.  Trilium isn't just another note-taker; it's a powerful, flexible system designed for building extensive personal knowledge bases. Imagine a hierarchical system where notes are organized into a deeply nested tree structure, allowing you to connect ideas in a truly intuitive way. Need to link a note to multiple branches of your knowledge tree?  No problem. Trilium allows for easy note cloning, ensuring that information can reside in multiple relevant locations.  But Trilium is more than just organization. Its rich WYSIWYG editor lets you create notes with tables, images, and even mathematical equations – all formatted beautifully using its robust markdown support.  For developers, the ability to seamlessly edit code within notes, complete with syntax highlighting, is a true game-changer. Imagine keeping all your project notes, code examples, and API documentation in one place.  Finding what you need is a breeze thanks to Trilium's lightning-fast full-text search and intelligent note navigation features.  And if you're worried about losing your precious data, rest assured – Trilium offers seamless note versioning, allowing you to revert to previous versions whenever needed.  The app also supports note attributes, enabling powerful organization, querying, and even advanced scripting for automation.  Beyond the core features, Trilium boasts support for multiple languages, OpenID and TOTP integration for heightened security, and options for self-hosted synchronization.  You can even share your notes publicly.  Want to visualize your notes? Trilium offers relation maps and link maps to see the connections between your ideas.  It even supports mind maps, geo maps, and sketching diagrams using Excalidraw.  And if you're a power user, Trilium's REST API opens up a world of automation possibilities.  This is truly a note-taking app built for the future, scaling seamlessly even to hundreds of thousands of notes without sacrificing performance.  It even has a mobile-friendly frontend for those who prefer to work on the go.  With its built-in dark theme and support for user-created themes, you can customize the experience to fit your preferences.  Trilium is not just an app; it's a comprehensive ecosystem designed to empower you to manage your knowledge effectively and efficiently.  It's the ultimate tool for personal knowledge management, and it's completely free and open-source.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/TriliumNext/Trilium)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Commix: Your New Secret Weapon for Command Injection Vulnerability Hunting",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nCommix is an open-source penetration testing tool written in Python that automates the detection and exploitation of command injection vulnerabilities. It allows security professionals and researchers to identify and exploit command injection flaws in web applications and other systems.\n\n## 🔑 Key Takeaways\n\n- ✅ Automates command injection vulnerability detection and exploitation\n\n- ✅ Saves time and effort in security testing\n\n- ✅ Provides detailed reports and explanations\n\n- ✅ Easy to use, even for non-security experts\n\n- ✅ Well-documented and supported by an active community\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 5414\n- 🍴 Forks: 888\n- ❗ Open Issues: 5\n\n\n## 🛠 Tech Stack\n- ✅ Python\n\n\nHey fellow developers! Ever wished there was an easier way to hunt down command injection vulnerabilities?  Well, hold onto your hats, because I've just discovered a project that's a total game-changer: Commix! This open-source penetration testing tool automates the process of finding and exploiting these vulnerabilities, saving you tons of time and effort.  Think of it as a super-powered, automated detective for your web applications.  Instead of manually crafting payloads and painstakingly checking for vulnerabilities, Commix does the heavy lifting for you.  It's incredibly versatile, supporting various operating systems and working seamlessly with different web technologies. The project itself is beautifully maintained, with clear documentation and a friendly community always ready to help.  Commix isn't just about finding vulnerabilities; it's about understanding how they work.  The tool provides detailed reports that explain the vulnerabilities it detects, helping you learn more about the underlying mechanisms.  This is invaluable for improving your security skills and building more resilient applications.  One of the coolest things about Commix is its ease of use. The command-line interface is intuitive, making it accessible even for developers who aren't security experts.  It's designed to be efficient and effective, letting you quickly scan applications and identify potential problems.  Imagine the time you'll save by automating this critical security testing step. The project is also very well documented.  There's a comprehensive wiki that provides detailed instructions, usage examples, and tips and tricks for getting the most out of Commix.  This means you can quickly get up and running, even if you're new to penetration testing or command injection vulnerabilities.  Plus, the community is active and helpful, so if you ever get stuck, you'll find support readily available.  In short, Commix is a must-have tool for any developer serious about application security. It's efficient, effective, and easy to use, making it a perfect addition to your security arsenal.  Give it a try; you won't regret it!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/commixproject/commix)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "note-taking",
-            "slug": "note-taking"
+            "name": "penetration testing",
+            "slug": "penetration-testing"
         },
         {
-            "name": "knowledge management",
-            "slug": "knowledge-management"
+            "name": "command injection",
+            "slug": "command-injection"
         },
         {
-            "name": "open-source",
-            "slug": "open-source"
+            "name": "security",
+            "slug": "security"
         },
         {
-            "name": "personal productivity",
-            "slug": "personal-productivity"
+            "name": "python",
+            "slug": "python"
         },
         {
-            "name": "hierarchical",
-            "slug": "hierarchical"
+            "name": "opensouce",
+            "slug": "opensouce"
         }
     ],
-    "slug": "trilium-notes-your-personal-knowledge-management-powerhouse",
-    "project_id": 92111509,
+    "slug": "commix-your-new-secret-weapon-for-command-injection-vulnerability-hunting",
+    "project_id": 32572504,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
