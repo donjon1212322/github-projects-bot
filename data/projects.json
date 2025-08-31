@@ -1,220 +1,251 @@
 [
     {
-        "id": 1041039196,
-        "name": "wifi-3d-fusion",
-        "description": "WiFi-3D-Fusion is an open-source research project that leverages WiFi CSI signals and deep learning to estimate 3D human pose, fusing wireless sensing with computer vision techniques for next-generation spatial awareness.",
-        "url": "https://github.com/MaliosDark/wifi-3d-fusion",
-        "language": "Python",
-        "stars": 408,
-        "forks": 18,
-        "created_at": "2025-08-19T22:22:13Z",
-        "updated_at": "2025-08-30T10:03:22Z",
-        "topics": [],
-        "quality_score": 0.6,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-26T21:22:36Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/1041039196/ac401968-2dc8-417c-8738-899d5f5b9e03"
-        ],
-        "homepage": "",
-        "readme_summary": "The WiFi-3D-Fusion repository focuses on estimating 3D human pose using WiFi Channel State Information (CSI) signals and deep learning techniques. It aims to fuse wireless sensing with computer vision to achieve advanced spatial awareness, enabling applications like activity recognition and human-computer interaction.",
-        "key_features": [
-            "3D human pose estimation",
-            "WiFi CSI signal processing",
-            "Deep learning-based pose estimation",
-            "Fusion of wireless sensing and computer vision"
-        ],
-        "primary_use_case": "Research and development of advanced spatial awareness systems using WiFi and deep learning.",
-        "open_issues": 0,
-        "cover_image_prompt": "Imagine a skilled sculptor shaping a human figure out of shimmering WiFi waves in a bright, modern studio. The sculptor carefully molds the waves, guided by a holographic display showing the underlying code and data visualizations. The finished sculpture is a clear, recognizable human form, radiating a soft, blue glow. Small UI elements float around the scene, displaying real-time pose estimation data. The repository name, 'WiFi-3D-Fusion,' is subtly etched into the base of the sculpture. The composition is clean and focused, with a vibrant color scheme. The image should be in a 3D isometric illustration style with rich details and a sense of technological artistry."
-    },
-    {
-        "id": 1045681332,
-        "name": "vimmaster",
-        "description": "VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels. No installs required—just open `index.html` and start practicing.",
-        "url": "https://github.com/renzorlive/vimmaster",
-        "language": "HTML",
-        "stars": 981,
-        "forks": 43,
-        "created_at": "2025-08-27T14:53:51Z",
-        "updated_at": "2025-08-30T09:57:47Z",
-        "topics": [
-            "coding",
-            "education",
-            "game",
-            "indie-game",
-            "vim"
-        ],
-        "quality_score": 0.6,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-29T17:32:26Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/2286e0c35108ce25140f3f626eb0d9695f8fc08a80304f76e463a19dccba99f1/renzorlive/vimmaster"
-        ],
-        "homepage": "https://renzorlive.github.io/vimmaster/",
-        "readme_summary": "VIM Master is an in-browser game designed to teach users core Vim motions and editing commands through a series of short, focused levels. It requires no installation, allowing users to practice Vim skills directly in their browser.",
-        "key_features": [
-            "Normal/Insert modes with status bar",
-            "Command log",
-            "Action outcome validation",
-            "Support for basic Vim commands (h, j, k, l, w, b, e, gg, G, 0, $, x, dd, dw, yy, p, i, a, o/O, cw, D, r, :q, :wq)",
-            "Numeric counts for motions/operators",
-            "Undo/redo support (u, Ctrl+r)",
-            "Completion modal",
-            "Ctrl-[ mapped to Escape",
-            "Vim-style search (/, ?)",
-            "Finish celebration",
-            "Badge system",
-            "Cheat Mode",
-            "Challenge Mode"
-        ],
-        "primary_use_case": "Learning and practicing Vim motions and editing commands in an interactive game environment.",
-        "open_issues": 5,
-        "cover_image_prompt": "Imagine a grandmaster chess player, but instead of chess pieces, they are moving lines of code on a holographic board. Each move corresponds to a Vim command, and successful sequences light up the board with vibrant colors. The player is focused, with subtle UI elements displaying the current Vim mode and command log. The background features a stylized representation of a text editor. The repository name, 'VIM Master,' is subtly etched onto the base of the holographic board. The scene is set in a futuristic training room with soft, diffused lighting. The image should be in a 3D isometric illustration style with clean lines and a vibrant color palette."
-    },
-    {
-        "id": 105698144,
-        "name": "popsicle",
-        "description": "Multiple USB File Flasher",
-        "url": "https://github.com/pop-os/popsicle",
+        "id": 933836904,
+        "name": "flow-like",
+        "description": "Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.",
+        "url": "https://github.com/TM9657/flow-like",
         "language": "Rust",
-        "stars": 734,
-        "forks": 86,
-        "created_at": "2017-10-03T20:12:37Z",
-        "updated_at": "2025-08-29T18:21:15Z",
-        "topics": [],
-        "quality_score": 0.65,
+        "stars": 121,
+        "forks": 11,
+        "created_at": "2025-02-16T19:50:25Z",
+        "updated_at": "2025-08-31T09:56:58Z",
+        "topics": [
+            "agents",
+            "llm",
+            "rust",
+            "typed",
+            "visual-scripting",
+            "workflow"
+        ],
+        "quality_score": 1.0,
         "contributors_count": 0,
-        "last_commit_date": "2025-05-16T17:31:43Z",
+        "last_commit_date": "2025-08-24T21:04:58Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/90a87459f5854aba5864a36f5a1fe9245786878c3b02b9114187a2dc533d3389/pop-os/popsicle"
+            "https://repository-images.githubusercontent.com/933836904/294099d4-14ef-4e54-a1a0-a28a88e2ac7e"
         ],
-        "homepage": "",
-        "readme_summary": "Popsicle is a Linux utility, written in Rust, designed for flashing multiple USB devices in parallel. It provides both a command-line interface (CLI) and a GTK-based graphical user interface for selecting images and devices, monitoring the flashing process, and viewing a summary upon completion.",
+        "homepage": "https://flow-like.com",
+        "readme_summary": "Flow-Like is a strongly typed, open-source workflow operating system built with Rust. It provides a no-code workflow IDE, a node catalog, and tools for managing teams, templates, and projects, with seamless integration of LLMs and ML models for automation.",
         "key_features": [
-            "Parallel USB device flashing",
-            "CLI and GTK front ends",
-            "Dynamic device list refresh",
-            "Image selection",
-            "Device selection",
-            "Flashing progress monitoring",
-            "Summary of flashing process",
-            "Internationalization support using Project Fluent"
+            "Typed Workflows",
+            "Modular Frontend for Apps",
+            "Node Catalog",
+            "No-Code Workflow IDE",
+            "Team and Project Management",
+            "LLM and ML Integration",
+            "Rust-based Performance",
+            "Open Source"
         ],
-        "primary_use_case": "Flashing multiple USB devices simultaneously on Linux systems.",
-        "open_issues": 26,
-        "cover_image_prompt": "A baker standing in front of a large oven, simultaneously loading multiple USB-shaped loaves of bread into it. The oven has a digital display showing progress bars for each loaf. Once baked, the loaves are ejected, each stamped with a different operating system logo. Small screens around the oven show flashing logs and device status. The scene is set in a clean, modern bakery with bright, inviting lighting. The image should be in 3D isometric illustration style with vibrant colors and clear details."
+        "primary_use_case": "Enterprise-grade workflow automation with a focus on typed data flow and integration of AI models.",
+        "open_issues": 75,
+        "cover_image_prompt": "A skilled architect meticulously designing a complex city of interconnected buildings, each representing a different workflow node. Data streams flow like glowing rivers between the buildings, clearly labeled with data types. The architect uses a holographic interface to connect and manage the data flow, ensuring each connection is perfectly aligned. Small UI elements display node configurations and data transformations. The city is set against a backdrop of a futuristic server farm with subtle server lights. The composition is clean and focused with a blue and green color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
     },
     {
-        "id": 1001009739,
-        "name": "NewVideoFormatConverter",
-        "description": null,
-        "url": "https://github.com/JialiLiang/NewVideoFormatConverter",
-        "language": "Python",
-        "stars": 26,
-        "forks": 4,
-        "created_at": "2025-06-12T17:04:07Z",
-        "updated_at": "2025-08-30T08:26:35Z",
+        "id": 1044944990,
+        "name": "vaultenv",
+        "description": "Secure local env management app",
+        "url": "https://github.com/atasoya/vaultenv",
+        "language": "TypeScript",
+        "stars": 7,
+        "forks": 0,
+        "created_at": "2025-08-26T12:35:16Z",
+        "updated_at": "2025-08-30T19:36:58Z",
         "topics": [],
         "quality_score": 0.44999999999999996,
         "contributors_count": 0,
-        "last_commit_date": "2025-08-19T07:59:02Z",
+        "last_commit_date": "2025-08-29T12:47:42Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/0d60bc1f9420e0dd9805912d5ae3d1b807fb63ea518e45576e6fba74ad8e4d6b/JialiLiang/NewVideoFormatConverter"
-        ],
-        "homepage": null,
-        "readme_summary": "The NewVideoFormatConverter is a Python-based toolkit for video processing, offering features like video format conversion, AI-powered localization (AdLocalizer), and additional tools for static generation, hook remixing, and montage creation. It allows users to convert videos to different formats, translate and generate voiceovers for videos in multiple languages using AI, and provides a modular file structure for better organization and maintainability.",
-        "key_features": [
-            "Video format conversion (square, landscape, vertical)",
-            "AI-powered video localization (AdLocalizer)",
-            "Multi-language translation with OpenAI GPT-4",
-            "Voice generation with ElevenLabs",
-            "Background processing with real-time progress",
-            "Modular file structure"
-        ],
-        "primary_use_case": "Converting video formats and localizing video content for different audiences and platforms using AI-powered tools.",
-        "open_issues": 0,
-        "cover_image_prompt": "A skilled artisan in a vibrant workshop meticulously reshaping a large, amorphous clay sculpture into various distinct forms: a perfect square, a wide landscape, and a tall vertical. AI assistants float around, translating spoken words into different languages, which then materialize as subtitles on the sculptures. Small screens display video editing interfaces and language translation settings. The workshop is filled with digital particles and glowing elements, subtly connecting the artistic process to software. The composition is clean and focused, with a warm color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 68485692,
-        "name": "mapscii",
-        "description": "🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows",
-        "url": "https://github.com/rastapasta/mapscii",
-        "language": "JavaScript",
-        "stars": 8366,
-        "forks": 271,
-        "created_at": "2016-09-18T00:40:43Z",
-        "updated_at": "2025-08-30T09:26:58Z",
-        "topics": [
-            "ascii-art",
-            "braille",
-            "console",
-            "console-application",
-            "map",
-            "openstreetmap",
-            "vector-tiles"
-        ],
-        "quality_score": 0.6000000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2023-01-10T15:14:17Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/a9add72d3cfe71e592f5ad7ad541fa32492d7c9bb568803714f8c7c6c9d28da2/rastapasta/mapscii"
+            "https://opengraph.githubassets.com/930962c6e9d2d6b87c662ddaf9f4a8c61bdef747ded476a14e876dcd7136b6f2/atasoya/vaultenv"
         ],
         "homepage": "",
-        "readme_summary": "MapSCII is a console-based application that renders a world map using Braille and ASCII characters. It allows users to explore map data, discover points of interest, and customize the map's appearance, all within a terminal environment.",
+        "readme_summary": "Vaultenv is a secure local environment variable management application built with TypeScript and Electron. It allows users to encrypt, import, export, and manage environment variables locally, enhancing security through electron's `safeStorage` feature. The application supports multiple platforms (Windows, macOS, Linux) and uses SQLite for data storage.",
         "key_features": [
-            "Mouse-based drag and zoom",
-            "Point-of-Interest discovery",
-            "Mapbox Styles support for customization",
-            "Vector tile server compatibility",
-            "Offline VectorTile/MBTiles support",
-            "Terminal compatibility (Linux, OSX)",
-            "Optimized algorithms for performance"
+            "Local encryption with electron `safeStorage`",
+            "Import and export env files",
+            "Env management"
         ],
-        "primary_use_case": "Interactive exploration of map data within a terminal.",
-        "open_issues": 39,
-        "cover_image_prompt": "A cartographer sitting at a vintage computer, transforming complex vector map data into a beautiful, detailed world map rendered entirely in Braille and ASCII characters on the screen. The cartographer uses a magnifying glass to examine the intricate details of the map. Small UI elements on the screen show the map data being processed. The scene is set in a cozy, dimly lit study filled with maps and globes. Digital particles flow from the computer, forming the ASCII map. The composition is focused and clean, with a warm color scheme. The image should be in a 3D isometric illustration style with rich details."
+        "primary_use_case": "Securely manage local environment variables for development projects.",
+        "open_issues": 0,
+        "cover_image_prompt": "A blacksmith meticulously forging keys in a high-tech workshop, each key glowing with a unique digital aura. The blacksmith carefully places these keys into a vault-like structure, representing the secure storage of environment variables. UI elements float subtly around the scene, showing snippets of code and configuration settings. The vault is surrounded by screens displaying project names and corresponding environment settings. The workshop is clean and well-lit, with a focus on precision and security. The repository name, 'Vaultenv,' is subtly etched onto the vault door. The image should be in a 3D isometric illustration style with vibrant colors and sharp details."
     },
     {
-        "id": 32572504,
-        "name": "commix",
-        "description": "Automated All-in-One OS Command Injection Exploitation Tool.",
-        "url": "https://github.com/commixproject/commix",
+        "id": 749647889,
+        "name": "MiniCPM-V",
+        "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone",
+        "url": "https://github.com/OpenBMB/MiniCPM-V",
         "language": "Python",
-        "stars": 5414,
-        "forks": 888,
-        "created_at": "2015-03-20T08:38:26Z",
-        "updated_at": "2025-08-30T09:25:25Z",
+        "stars": 20650,
+        "forks": 1514,
+        "created_at": "2024-01-29T05:30:33Z",
+        "updated_at": "2025-08-31T09:35:16Z",
         "topics": [
-            "bugbounty",
-            "command-injection",
-            "commix",
-            "detection",
-            "exploitation",
-            "open-source",
-            "pentesting",
-            "python",
-            "takeover",
-            "vulnerability-scanner"
+            "minicpm",
+            "minicpm-v",
+            "multi-modal"
+        ],
+        "quality_score": 0.9000000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-31T03:24:58Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/17b97ee350d9e1a8294c70f9063602b3668b387c7471913633302239ca640f4e/OpenBMB/MiniCPM-V"
+        ],
+        "homepage": "",
+        "readme_summary": "The MiniCPM-V repository hosts a series of efficient end-side multimodal Large Language Models (MLLMs). The models accept images, videos, and text as inputs, delivering high-quality text outputs, with MiniCPM-o additionally supporting audio inputs and speech outputs. The most notable models are MiniCPM-V 4.5, which excels in vision-language tasks, and MiniCPM-o 2.6, which supports multimodal live streaming and real-time speech conversation.",
+        "key_features": [
+            "Single Image Understanding",
+            "Multi Image Understanding",
+            "High-FPS Video Understanding",
+            "End-side deployment",
+            "Multilingual support",
+            "Handwritten OCR",
+            "Complex table/document parsing",
+            "Real-time speech conversation (MiniCPM-o)",
+            "Multimodal live streaming (MiniCPM-o)"
+        ],
+        "primary_use_case": "On-device multimodal understanding and generation for applications requiring image, video, text, and audio processing.",
+        "open_issues": 69,
+        "cover_image_prompt": "Imagine a skilled artisan meticulously crafting a miniature, intricate city inside a smartphone. The artisan carefully places tiny buildings representing images, videos, and text documents into the city. The city then comes alive, with information flowing out of the phone in the form of articulate speech bubbles. Small UI elements on the phone's screen show the model processing the inputs. The scene is set in a brightly lit workshop with a clean, focused composition. Digital particles representing data subtly float around the artisan. The image should be in a 3D isometric illustration style with vibrant colors and rich details."
+    },
+    {
+        "id": 75212086,
+        "name": "docker-compose-wait",
+        "description": "A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever)",
+        "url": "https://github.com/ufoscout/docker-compose-wait",
+        "language": "Rust",
+        "stars": 1693,
+        "forks": 146,
+        "created_at": "2016-11-30T17:48:49Z",
+        "updated_at": "2025-08-31T08:14:33Z",
+        "topics": [
+            "containers",
+            "docker",
+            "docker-images",
+            "dockerfile",
+            "kubernetes",
+            "sleep",
+            "synchronization",
+            "wait"
+        ],
+        "quality_score": 0.7,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-22T14:57:11Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/3a57e527d0047b74b359a496e39803c25fce16afdddfd2f668838af3161520f4/ufoscout/docker-compose-wait"
+        ],
+        "homepage": "",
+        "readme_summary": "The `docker-compose-wait` utility is a command-line tool designed to ensure that Docker containers start in the correct order, particularly when using Docker Compose, Kubernetes, or similar orchestration tools. It allows a container to wait for specific conditions, such as a TCP port being open or a file existing, on other containers before starting its own application.",
+        "key_features": [
+            "Waits for a fixed amount of time.",
+            "Waits until a TCP port is open on a target image.",
+            "Waits until a file or directory is present on the local filesystem.",
+            "Can be used in Dockerfiles or directly in docker-compose.yml.",
+            "Supports images without a shell (e.g., distroless, scratch)."
+        ],
+        "primary_use_case": "Ensuring dependent Docker containers are fully operational before starting an application container, preventing startup errors due to missing dependencies.",
+        "open_issues": 2,
+        "cover_image_prompt": "A diligent clockmaker meticulously assembling a complex clockwork city, where each building represents a Docker container. The clockmaker carefully connects gears (representing dependencies) between the buildings, ensuring each component is synchronized and starts at the correct time. Some buildings glow with activity, indicating they are ready, while others are still being connected. A small screen displays a Docker Compose file with the `WAIT_HOSTS` variable highlighted. The scene is set in a brightly lit workshop with a steampunk aesthetic. The image should be in 3D isometric illustration style with intricate details and vibrant colors."
+    },
+    {
+        "id": 1002166349,
+        "name": "dockpeek",
+        "description": "Simple dashboard showing Docker ports with clickable links for multiple hosts",
+        "url": "https://github.com/dockpeek/dockpeek",
+        "language": "CSS",
+        "stars": 454,
+        "forks": 13,
+        "created_at": "2025-06-14T21:26:09Z",
+        "updated_at": "2025-08-31T10:10:15Z",
+        "topics": [],
+        "quality_score": 0.44999999999999996,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-30T18:24:17Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/835c92221d946e2c89c7da7bd0b720d817050611d785c9f7a38ed0e3e37fbad6/dockpeek/dockpeek"
+        ],
+        "homepage": "",
+        "readme_summary": "Dockpeek is a lightweight Docker dashboard that provides a clean interface for viewing and accessing exposed container ports. It supports both local Docker sockets and remote hosts via `socket-proxy`, enabling management of multiple Docker environments from a single location. Additionally, it includes image update checking to easily identify available updates for container images.",
+        "key_features": [
+            "Port Mapping Overview",
+            "Click-to-Access URLs",
+            "Multi-Host Support",
+            "Zero Configuration",
+            "Image Update Checking"
+        ],
+        "primary_use_case": "Centralized Docker port management and container access with image update monitoring.",
+        "open_issues": 5,
+        "cover_image_prompt": "A lighthouse keeper standing atop a digital lighthouse, overseeing a harbor filled with container ships. The lighthouse beams highlight the open ports on each ship, displaying their URLs on holographic screens. The keeper uses a control panel to monitor image updates, with glowing indicators showing available upgrades. Small code snippets and data visualizations float around the scene, subtly connecting the metaphor to software. The scene is set at dusk with a blue and orange color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 25178920,
+        "name": "dockerize",
+        "description": "Utility to simplify running applications in docker containers",
+        "url": "https://github.com/jwilder/dockerize",
+        "language": "Go",
+        "stars": 5117,
+        "forks": 421,
+        "created_at": "2014-10-13T21:36:02Z",
+        "updated_at": "2025-08-31T10:10:03Z",
+        "topics": [
+            "docker",
+            "go"
+        ],
+        "quality_score": 0.7,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-24T00:22:49Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/6c08aceb58cb803db8c3348c92dabf3cd76459be5a6621473103cf42f175fc53/jwilder/dockerize"
+        ],
+        "homepage": null,
+        "readme_summary": "The `dockerize` utility simplifies running applications in Docker containers by providing features like generating configuration files from templates, tailing log files to stdout/stderr, and waiting for service availability before starting the main process. It's particularly useful for applications that require configuration via environment variables or need to centralize logging.",
+        "key_features": [
+            "Configuration file generation from templates",
+            "Tailing multiple log files to stdout/stderr",
+            "Waiting for service availability (TCP, HTTP(S), unix)",
+            "Base Docker image provided"
+        ],
+        "primary_use_case": "Simplifying application deployment and configuration within Docker containers, especially when dealing with environment-specific configurations and service dependencies.",
+        "open_issues": 41,
+        "cover_image_prompt": "A skilled chef in a bustling kitchen, expertly adjusting the dials on various cooking appliances (representing applications) based on a master control panel displaying environment variables. Steam (representing logs) is channeled neatly into a central exhaust system. The chef carefully monitors a status board showing service dependencies being met before starting the main oven. Small UI elements on the control panel show configuration templates and log streams. The scene is set in a clean, modern kitchen with bright, focused lighting. The image should be in a 3D isometric illustration style with vibrant colors and clear details."
+    },
+    {
+        "id": 247350713,
+        "name": "neko",
+        "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+        "url": "https://github.com/m1k1o/neko",
+        "language": "Go",
+        "stars": 15183,
+        "forks": 1011,
+        "created_at": "2020-03-14T20:46:07Z",
+        "updated_at": "2025-08-31T10:09:48Z",
+        "topics": [
+            "docker",
+            "golang",
+            "media-streaming",
+            "remote-control",
+            "remote-desktop",
+            "self-hosted",
+            "virtual-browser",
+            "vue",
+            "webrtc"
         ],
         "quality_score": 0.85,
         "contributors_count": 0,
-        "last_commit_date": "2025-08-29T03:52:30Z",
+        "last_commit_date": "2025-08-19T20:16:44Z",
         "media_urls": [
-            "https://repository-images.githubusercontent.com/32572504/08c0a000-a9d2-11eb-9822-19a56056c6d4"
+            "https://opengraph.githubassets.com/2968bae5a2648f08f830d8a390605d891500d04e670a4bdafaa26cca557345f5/m1k1o/neko"
         ],
-        "homepage": "https://commixproject.com",
-        "readme_summary": "Commix is an open-source penetration testing tool written in Python that automates the detection and exploitation of command injection vulnerabilities. It allows security professionals and researchers to identify and exploit command injection flaws in web applications and other systems.",
+        "homepage": "https://neko.m1k1o.net/",
+        "readme_summary": "Neko is a self-hosted virtual browser that runs in a Docker container and uses WebRTC for streaming. It provides a secure and private browsing environment accessible from anywhere, allowing users to run applications and perform tasks as they would on a regular browser. Neko also supports simultaneous access by multiple users, making it suitable for teams, organizations, watch parties, and interactive presentations.",
         "key_features": [
-            "Automated detection of command injection vulnerabilities",
-            "Exploitation of command injection vulnerabilities",
-            "Support for various operating systems",
-            "Extensive options and switches for customization",
-            "Filters bypasses techniques"
+            "Self-hosted virtual browser",
+            "Docker containerization",
+            "WebRTC streaming",
+            "Secure and private browsing",
+            "Multiple user access",
+            "Remote control",
+            "Media streaming"
         ],
-        "primary_use_case": "Penetration testing and vulnerability assessment for command injection flaws.",
-        "open_issues": 5,
-        "cover_image_prompt": "A detective meticulously examining a network of pipes and wires, tracing a malicious command injected into the system. The detective uses a magnifying glass to find the injected command, which appears as a glowing, corrupted data stream flowing through the network. Small UI elements display code snippets and server logs, subtly connecting the scene to software. The setting is a dimly lit server room with flickering lights, creating a sense of urgency. The image should be in a 3D isometric illustration style with clear outlines and a dark blue and green color scheme."
+        "primary_use_case": "Providing a secure, private, and remotely accessible browsing environment for individuals and teams.",
+        "open_issues": 134,
+        "cover_image_prompt": "A lighthouse keeper sitting at a control panel, guiding a browser icon safely through a stormy sea of internet threats. The lighthouse beam projects a secure WebRTC connection, shielding the browser from viruses and trackers represented as dark waves and shadowy figures. Small UI elements on the control panel display connection status and security metrics. The scene is set in a cozy, high-tech lighthouse interior with warm, inviting lighting. Digital particles representing data flow around the browser icon. The composition is focused and clear, with a blue and orange color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
     }
 ]
