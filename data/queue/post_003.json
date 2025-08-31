@@ -1,7 +1,0 @@
-{
-    "project_id": 75212086,
-    "content": "💡 <b>docker-compose-wait</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nEnsuring dependent Docker containers are fully operational before starting an application container, preventing startup errors due to missing dependencies.\n<br>\n✨ <b>Key Features:</b>\n• Waits for a fixed amount of time.\n• Waits until a TCP port is open on a target image.\n• Waits until a file or directory is present on the local filesystem.\n<br>\n📖 <b>Summary:</b>\nThe `docker-compose-wait` utility is a command-line tool designed to ensure that Docker containers start in the correct order, particularly when using Docker Compose, Kubernetes, or similar orchestration tools. It allows a container to wait for specific conditions, such as a TCP port being open or a file existing, on other containers before starting its own application.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ufoscout/docker-compose-wait?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/3a57e527d0047b74b359a496e39803c25fce16afdddfd2f668838af3161520f4/ufoscout/docker-compose-wait",
-    "platform": "telegram",
-    "quality_score": 0.7
-}
