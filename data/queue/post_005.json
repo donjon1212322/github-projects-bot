@@ -1,7 +1,0 @@
-{
-    "project_id": 25178920,
-    "content": "✨ <b>dockerize</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying application deployment and configuration within Docker containers, especially when dealing with environment-specific configurations and service dependencies.\n<br>\n✨ <b>Key Features:</b>\n• Configuration file generation from templates\n• Tailing multiple log files to stdout/stderr\n• Waiting for service availability (TCP, HTTP(S), unix)\n• Base Docker image provided\n<br>\n📖 <b>Summary:</b>\nThe `dockerize` utility simplifies running applications in Docker containers by providing features like generating configuration files from templates, tailing log files to stdout/stderr, and waiting for service availability before starting the main process. It's particularly useful for applications that require configuration via environment variables or need to centralize logging.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jwilder/dockerize?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/6c08aceb58cb803db8c3348c92dabf3cd76459be5a6621473103cf42f175fc53/jwilder/dockerize",
-    "platform": "telegram",
-    "quality_score": 0.7
-}
