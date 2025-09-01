@@ -1,7 +1,0 @@
-{
-    "project_id": 574716825,
-    "content": "💡 <b>WiFi-password-stealer</b> | PowerShell\n<br>\n🎯 <b>Primary Use Case:</b>\nDemonstrating keystroke injection techniques for security research and penetration testing to extract WiFi credentials from target systems.\n<br>\n✨ <b>Key Features:</b>\n• Keystroke injection for automated command execution\n• WiFi data exfiltration (SSID and password)\n• Windows exploit via email (SMTP)\n• Linux exploit via USB storage\n• Rubber Ducky attack implementation\n<br>\n📖 <b>Summary:</b>\nThe WiFi-password-stealer repository provides tools to extract stored WiFi data (SSID and password) from Windows and Linux systems using keystroke injection. It demonstrates how a device, like a Raspberry Pi Pico configured as a Rubber Ducky, can be used to automate data exfiltration, simulating a USB-based attack.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AleksaMCode/WiFi-password-stealer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/93c74d06b45eda7b45aa317261eb31c722936a05b52e441d22ca39eaf3db33c5/AleksaMCode/WiFi-password-stealer",
-    "platform": "telegram",
-    "quality_score": 0.44999999999999996
-}
