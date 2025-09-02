@@ -1,26 +1,26 @@
 {
-    "title": "Revolutionize Your Data Workflow with Wren AI: The Open-Source GenBI Agent",
-    "article": "Tired of wrestling with complex SQL queries and drowning in endless data?  Meet Wren AI, the game-changing open-source GenBI agent that lets you interact with your databases using plain English.  Imagine asking your data questions like you would a colleague, and instantly getting precise SQL queries, insightful charts, and AI-generated summaries – all without writing a single line of SQL!  That's the power of Wren AI.\n\nWren AI's magic lies in its innovative architecture. It cleverly combines the power of natural language processing (NLP) with a robust semantic layer.  This means Wren AI not only understands what you're asking but also understands the structure and relationships within your database. This semantic layer acts like a smart translator, ensuring that your natural language questions are transformed into accurate and efficient SQL queries, preventing common errors and saving you valuable time.\n\nThe benefits for developers are immense.  First, it dramatically reduces the learning curve for SQL.  No more spending hours poring over documentation or struggling with complex syntax.  Second, it significantly boosts productivity.  You can quickly analyze data, generate reports, and extract insights with unprecedented speed. Third, it enhances the overall quality of your data analysis by minimizing human error and ensuring that your queries are optimized for performance.  Wren AI also generates insightful charts and concise AI-written summaries, providing decision-ready context in seconds.  You can even embed Wren AI's functionality into your applications via a simple API, opening up a world of possibilities for creating custom agents, powerful SaaS features, and intelligent chatbots.\n\nBut that's not all! Wren AI is open-source, allowing you to contribute to its development, customize it to your specific needs, and integrate it seamlessly into your existing workflows.  The project is actively maintained and boasts a thriving community, ensuring you have access to support and resources whenever you need them.  This commitment to open collaboration makes Wren AI a truly special project, setting it apart from other similar tools.\n\nSetting up Wren AI is surprisingly easy.  You can have it up and running in minutes, whether you choose to install it locally or leverage the managed cloud service.  Comprehensive documentation and readily available support ensure a smooth onboarding experience, regardless of your technical expertise.  The flexibility to choose between self-hosting and using the cloud service gives you the control to select the deployment option that best fits your project's requirements and infrastructure.",
+    "title": "HunyuanVideo-Foley: AI-Powered Foley Audio Generation for Video Creators",
+    "article": "Tired of spending hours searching for the perfect sound effects to match your videos?  Imagine a world where you could generate professional-grade Foley audio with just a few clicks. That's the power of HunyuanVideo-Foley, a groundbreaking open-source project from Tencent Hunyuan. This innovative tool leverages the magic of multimodal diffusion and representation alignment to create high-fidelity sound effects that seamlessly sync with your video content.  Think realistic footsteps matching a character's movement, or the subtle creak of a door perfectly timed with the action on screen.  HunyuanVideo-Foley isn't just about generating sounds; it's about creating immersive experiences.  The model analyzes both the visual and textual aspects of your video to produce audio that's not only accurate but emotionally resonant.  This means that the generated sound effects aren't just generic; they're tailored to the specific context of your video, enhancing the overall viewing experience.  The architecture of HunyuanVideo-Foley is designed for efficiency and ease of use.  It's built to handle diverse scenarios, from short videos to feature films, making it a versatile tool for content creators of all levels.  The high-fidelity 48kHz output ensures professional-quality audio, ready for immediate use in your projects.  But the benefits extend beyond just the quality of the audio.  HunyuanVideo-Foley can significantly reduce the time and effort required for sound design, freeing you up to focus on other aspects of your video production.  Imagine the time saved – no more endless searching through sound libraries or painstakingly editing audio clips.  This project truly democratizes access to high-quality sound design, empowering creators to bring their visions to life with unparalleled ease and efficiency.  This is more than just a tool; it's a game-changer for the video production workflow. It simplifies a previously complex and time-consuming process, allowing creators to focus on what matters most – storytelling. By combining cutting-edge AI technology with user-friendly design, HunyuanVideo-Foley opens up exciting new possibilities for content creators of all skill levels.  Whether you're a seasoned filmmaker or a budding YouTuber, HunyuanVideo-Foley is a tool that can elevate your video production to the next level.  Check out the demo videos and code repository to see it in action. You won't be disappointed!",
     "key_takeaways": [
-        "Interact with databases using natural language instead of complex SQL.",
-        "Get accurate SQL queries, insightful charts, and AI-generated summaries instantly.",
-        "Significantly boosts developer productivity and reduces the SQL learning curve.",
-        "Easily embed Wren AI's functionality into your applications via a simple API.",
-        "Open-source and actively maintained, with a thriving community and comprehensive documentation."
+        "Generates high-fidelity Foley audio synchronized with video content.",
+        "Utilizes multimodal diffusion and representation alignment for superior audio quality.",
+        "Significantly reduces time and effort required for sound design.",
+        "Supports diverse scenarios, from short videos to feature films.",
+        "Provides professional-grade 48kHz audio output."
     ],
     "tags": [
-        "Open Source",
-        "GenBI",
-        "Text-to-SQL",
-        "Data Analysis",
-        "AI"
+        "AI",
+        "Foley",
+        "Audio Generation",
+        "Video Production",
+        "Multimodal"
     ],
-    "stars": 11199,
-    "forks": 1122,
-    "open_issues": 210,
-    "languages": "TypeScript",
-    "readme_summary": "Wren AI is an open-source GenBI agent that allows users to query databases using natural language. It generates SQL queries (Text-to-SQL), creates charts (Text-to-Chart), and provides AI-powered insights, aiming to simplify business intelligence tasks.",
-    "project_id": 771350543,
-    "url": "https://github.com/Canner/WrenAI",
-    "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds."
+    "stars": 273,
+    "forks": 22,
+    "open_issues": 8,
+    "languages": "Python",
+    "readme_summary": "The HunyuanVideo-Foley repository introduces a multimodal diffusion model for generating high-fidelity Foley audio synchronized with video content. It aims to provide professional-grade AI sound effect generation for video creators, applicable to various scenarios like short videos, films, and games.",
+    "project_id": 1038414944,
+    "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley",
+    "description": "HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation."
 }

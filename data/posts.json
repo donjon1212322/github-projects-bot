@@ -1,43 +1,57 @@
 [
     {
-        "project_id": 574716825,
-        "content": "💡 <b>WiFi-password-stealer</b> | PowerShell\n<br>\n🎯 <b>Primary Use Case:</b>\nDemonstrating keystroke injection techniques for security research and penetration testing to extract WiFi credentials from target systems.\n<br>\n✨ <b>Key Features:</b>\n• Keystroke injection for automated command execution\n• WiFi data exfiltration (SSID and password)\n• Windows exploit via email (SMTP)\n• Linux exploit via USB storage\n• Rubber Ducky attack implementation\n<br>\n📖 <b>Summary:</b>\nThe WiFi-password-stealer repository provides tools to extract stored WiFi data (SSID and password) from Windows and Linux systems using keystroke injection. It demonstrates how a device, like a Raspberry Pi Pico configured as a Rubber Ducky, can be used to automate data exfiltration, simulating a USB-based attack.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AleksaMCode/WiFi-password-stealer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/93c74d06b45eda7b45aa317261eb31c722936a05b52e441d22ca39eaf3db33c5/AleksaMCode/WiFi-password-stealer",
-        "platform": "telegram",
-        "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 1003531567,
-        "content": "💡 <b>reddit2shorts</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated creation of YouTube Shorts from Reddit content.\n<br>\n✨ <b>Key Features:</b>\n• Generates YouTube Shorts from Reddit posts\n• Supports random post selection or specific post ID\n• Configurable number of comments to include\n• Text-to-speech functionality (Google TTS)\n• Video upload to YouTube or TikTok\n<br>\n📖 <b>Summary:</b>\nThe reddit2shorts repository is a TypeScript-based tool that automates the creation of YouTube Shorts from Reddit posts. It extracts content from Reddit, generates videos, and optionally uploads them to YouTube or TikTok, utilizing text-to-speech and background media.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yogeshdofficial/reddit2shorts?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b5cc17eee0330d32f14c6a57f9ace41e703f6d05c333455976e2a4eeba0576f0/yogeshdofficial/reddit2shorts",
-        "platform": "telegram",
-        "quality_score": 0.5499999999999999
-    },
-    {
-        "project_id": 771350543,
-        "content": "🌟 <b>WrenAI</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying data interaction and analysis by enabling users to query databases and generate insights using natural language, without requiring SQL knowledge.\n<br>\n✨ <b>Key Features:</b>\n• Natural language to SQL conversion\n• AI-generated insights and summaries\n• Automated chart creation\n• Semantic layer for accuracy and governance\n• Embeddable API for custom applications\n<br>\n📖 <b>Summary:</b>\nWren AI is an open-source GenBI agent that allows users to query databases using natural language. It generates SQL queries (Text-to-SQL), creates charts (Text-to-Chart), and provides AI-powered insights, aiming to simplify business intelligence tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Canner/WrenAI?embed=0\">View Project</a>\n• <a href=\"https://getwren.ai/oss?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0c6e99873d1eece0343c709ec9770078b0795a4a5855ab98b9b7ba1545eff6e6/Canner/WrenAI",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 746689243,
-        "content": "🚀 <b>kafka-ui</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring and managing Apache Kafka clusters.\n<br>\n✨ <b>Key Features:</b>\n• Topic Insights\n• Configuration Wizard\n• Multi-Cluster Management\n• Metrics Dashboard\n• Kafka Brokers Overview\n<br>\n📖 <b>Summary:</b>\nKafka UI is an open-source web interface designed for monitoring and managing Apache Kafka clusters. It provides a user-friendly dashboard to track key metrics such as brokers, topics, partitions, production, and consumption, enabling users to observe data flows, troubleshoot issues, and optimize performance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kafbat/kafka-ui?embed=0\">View Project</a>\n• <a href=\"https://kafbat.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/746689243/b6715355-a1a2-4537-863c-a33b8a26a0c8",
+        "project_id": 743140652,
+        "content": "🚀 <b>windows</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning Windows operating systems inside Docker containers for development, testing, or virtualization purposes.\n<br>\n✨ <b>Key Features:</b>\n• ISO downloader\n• KVM acceleration\n• Web-based viewer\n<br>\n📖 <b>Summary:</b>\nThis repository provides a way to run Windows operating systems inside Docker containers. It includes features for downloading ISO images, KVM acceleration, and a web-based viewer, enabling users to easily create and manage Windows virtual machines.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dockur/windows?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/743140652/69c0c16a-9695-484e-861e-9b07c0507f45",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 1021753449,
-        "content": "🔥 <b>his</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nEfficiently accessing and re-executing commands from the command-line history.\n<br>\n✨ <b>Key Features:</b>\n• Command history\n• Icons and colors for visual enhancement\n• Cross-platform compatibility (Windows and GNU/Linux)\n• Fuzzy search\n<br>\n📖 <b>Summary:</b>\n`his` is a command history utility designed for both Windows and GNU/Linux operating systems. It enhances the command-line experience by providing a visually appealing and efficient way to access and execute previously used commands, incorporating features like icons and colors for improved usability.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/terroo/his?embed=0\">View Project</a>\n• <a href=\"https://youtu.be/gILIsK3MiGQ?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6e8284de975eae555a6d4a110d1a77a72df161f08f17383c8104d84c9bf255f5/terroo/his",
+        "project_id": 37347459,
+        "content": "🚀 <b>ungoogled-chromium</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a Chromium-based web browser without Google integration, focusing on privacy and user control.\n<br>\n✨ <b>Key Features:</b>\n• Removes dependency on Google web services\n• Retains the default Chromium experience\n• Enhances privacy, control, and transparency\n• Disables functionality specific to Google domains\n• Blocks internal requests to Google at runtime\n<br>\n📖 <b>Summary:</b>\nThe ungoogled-chromium project aims to provide a version of Google Chromium without dependencies on Google web services. It focuses on enhancing privacy, control, and transparency by removing Google-specific code and binaries, and disabling features that compromise user control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ungoogled-software/ungoogled-chromium?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a008ce11f1157d0eab1ea5eabf9c647ccb444c858f9ff318bbaebba78d62b635/ungoogled-software/ungoogled-chromium",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 1038414944,
+        "content": "🌟 <b>HunyuanVideo-Foley</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating synchronized Foley audio for video content creation.\n<br>\n✨ <b>Key Features:</b>\n• Multi-scenario audio-visual synchronization\n• Multi-modal balance between visual and textual information\n• 48kHz Hi-Fi audio output\n<br>\n📖 <b>Summary:</b>\nThe HunyuanVideo-Foley repository introduces a multimodal diffusion model for generating high-fidelity Foley audio synchronized with video content. It aims to provide professional-grade AI sound effect generation for video creators, applicable to various scenarios like short videos, films, and games.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6ae4a1f368e172f5fecd2ac49dc2831ce73e6dd1b4a3a5dd3fef0dc60fcd2504/Tencent-Hunyuan/HunyuanVideo-Foley",
+        "platform": "telegram",
+        "quality_score": 0.9
+    },
+    {
+        "project_id": 933284834,
+        "content": "🚀 <b>fzfm</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nFuzzy finding and managing files and directories in the terminal.\n<br>\n✨ <b>Key Features:</b>\n• Navigate directories seamlessly using only your keyboard\n• Blazing-fast fuzzy search powered by `fzf`\n• File preview using `bat` (fallback to `cat`)\n• Directory preview using `eza` (fallback to `ls`)\n• Customizable multimedia file opener\n<br>\n📖 <b>Summary:</b>\nThe fzfm repository provides a fuzzy finder file manager implemented in shell script. It leverages `fzf` for fast fuzzy searching and offers features like file and directory previews, customizable media opening, and configuration via environment variables, aiming to provide a seamless keyboard-driven file navigation experience in the terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ashish0kumar/fzfm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a3d39e645a7ca19d69224937d0465432d6b4f0e0c8ab75d531776e0d5a24a87b/ashish0kumar/fzfm",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 792322009,
+        "content": "💡 <b>packemon</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nNetwork packet generation and analysis for security testing, network troubleshooting, and protocol exploration.\n<br>\n✨ <b>Key Features:</b>\n• Packet generation with custom payloads\n• Packet monitoring on specified network interfaces\n• TUI interface for interactive packet analysis\n• Cross-platform support (Windows, macOS, Linux)\n• Packet filtering and detailed packet view\n<br>\n📖 <b>Summary:</b>\nPackémon is a TUI tool written in Go for generating and monitoring network packets. It allows users to craft and send custom packets to specific network interfaces, as well as capture and analyze network traffic in real-time, supporting Windows, macOS, and Linux.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ddddddO/packemon?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/792322009/a910c8f1-0f88-4fe4-804b-f772bf0233b7",
+        "platform": "telegram",
+        "quality_score": 0.9
+    },
+    {
+        "project_id": 438267145,
+        "content": "🔥 <b>quiet</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nPrivate and secure team communication without reliance on central servers.\n<br>\n✨ <b>Key Features:</b>\n• Team Chat\n• End-to-end Encryption\n• Channels\n• Decentralized architecture\n• Tor integration for secure communication\n<br>\n📖 <b>Summary:</b>\nQuiet is a decentralized, peer-to-peer team chat application that aims to provide a private alternative to platforms like Slack and Discord. It leverages Tor for secure communication and OrbitDB for data synchronization directly between users' devices, eliminating the need for a central server. The application is built with TypeScript, Electron, and React Native.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TryQuiet/quiet?embed=0\">View Project</a>\n• <a href=\"https://www.tryquiet.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/438267145/6414416f-0916-4a8f-ba1d-0c4e93c1b7c0",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 998990487,
+        "content": "✨ <b>enchat</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPrivate and secure terminal-based communication.\n<br>\n✨ <b>Key Features:</b>\n• Real-Time Encrypted Chat\n• Secure Room & File Sharing\n• Perfect Forward Secrecy (PFS)\n• Tor Support\n• Zero-Knowledge Architecture\n<br>\n📖 <b>Summary:</b>\nEnchat is a self-hosted terminal chat application that provides end-to-end encrypted, ephemeral communication. It prioritizes privacy by design, offering features like zero-knowledge architecture, perfect forward secrecy, and Tor support to ensure secure conversations without reliance on centralized servers or data tracking.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sudodevdante/enchat?embed=0\">View Project</a>\n• <a href=\"https://enchat.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/15b73a41cc1f8e68133b382bc84b99b62ddecd10f6ab6a542702145fef5b4a92/sudodevdante/enchat",
         "platform": "telegram",
         "quality_score": 0.4
     },
     {
-        "project_id": 835103731,
-        "content": "💡 <b>colanode</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTeam collaboration and knowledge management with a focus on data privacy and local-first functionality.\n<br>\n✨ <b>Key Features:</b>\n• Real-Time Chat\n• Rich Text Pages\n• Customizable Databases\n• File Management\n• Local-first workflow with SQLite database\n<br>\n📖 <b>Summary:</b>\nColanode is an open-source, local-first collaboration workspace designed as an alternative to Slack and Notion. It prioritizes data privacy and control by allowing users to self-host their data while providing real-time chat, rich text pages, customizable databases, and file management capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/colanode/colanode?embed=0\">View Project</a>\n• <a href=\"https://colanode.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0644a13c284c68ae48a456d70ac6ee1505a3c2986f0a316cee4693a61b03d84a/colanode/colanode",
+        "project_id": 1045247927,
+        "content": "🚀 <b>actions-up</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nUpdating GitHub Actions dependencies to the latest versions with SHA pinning for improved security and reproducibility.\n<br>\n✨ <b>Key Features:</b>\n• Auto-discovery of actions in workflows and composite actions\n• SHA Pinning for enhanced security and reproducibility\n• Batch updates for efficient dependency management\n• Interactive selection of actions to update\n• Breaking changes detection to prevent unexpected issues\n<br>\n📖 <b>Summary:</b>\nActions Up is a CLI tool written in TypeScript designed to automate the process of updating GitHub Actions dependencies in workflows and composite actions. It enhances security and reproducibility by pinning actions to specific commit SHAs, offering interactive and automated update modes, and detecting potential breaking changes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/azat-io/actions-up?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1045247927/bec6e866-bf5b-46a6-8b8e-9bd4258de42b",
         "platform": "telegram",
         "quality_score": 0.85
     }
