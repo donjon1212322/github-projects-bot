@@ -1,26 +1,26 @@
 {
-    "title": "HunyuanVideo-Foley: AI-Powered Foley Audio Generation for Video Creators",
-    "article": "Tired of spending hours searching for the perfect sound effects to match your videos?  Imagine a world where you could generate professional-grade Foley audio with just a few clicks. That's the power of HunyuanVideo-Foley, a groundbreaking open-source project from Tencent Hunyuan. This innovative tool leverages the magic of multimodal diffusion and representation alignment to create high-fidelity sound effects that seamlessly sync with your video content.  Think realistic footsteps matching a character's movement, or the subtle creak of a door perfectly timed with the action on screen.  HunyuanVideo-Foley isn't just about generating sounds; it's about creating immersive experiences.  The model analyzes both the visual and textual aspects of your video to produce audio that's not only accurate but emotionally resonant.  This means that the generated sound effects aren't just generic; they're tailored to the specific context of your video, enhancing the overall viewing experience.  The architecture of HunyuanVideo-Foley is designed for efficiency and ease of use.  It's built to handle diverse scenarios, from short videos to feature films, making it a versatile tool for content creators of all levels.  The high-fidelity 48kHz output ensures professional-quality audio, ready for immediate use in your projects.  But the benefits extend beyond just the quality of the audio.  HunyuanVideo-Foley can significantly reduce the time and effort required for sound design, freeing you up to focus on other aspects of your video production.  Imagine the time saved – no more endless searching through sound libraries or painstakingly editing audio clips.  This project truly democratizes access to high-quality sound design, empowering creators to bring their visions to life with unparalleled ease and efficiency.  This is more than just a tool; it's a game-changer for the video production workflow. It simplifies a previously complex and time-consuming process, allowing creators to focus on what matters most – storytelling. By combining cutting-edge AI technology with user-friendly design, HunyuanVideo-Foley opens up exciting new possibilities for content creators of all skill levels.  Whether you're a seasoned filmmaker or a budding YouTuber, HunyuanVideo-Foley is a tool that can elevate your video production to the next level.  Check out the demo videos and code repository to see it in action. You won't be disappointed!",
+    "title": "Termix: Your All-in-One Server Management Platform",
+    "article": "Tired of juggling multiple tools to manage your servers?  Wish there was a single, intuitive interface to handle everything from SSH access to remote file editing? Then get ready to meet Termix! This open-source project is a game-changer for developers who need a streamlined way to oversee their server infrastructure.  Imagine a world where you can access your servers, manage SSH tunnels, and edit files remotely, all within a single, elegantly designed web application. That's the promise of Termix.\n\nTermix provides a comprehensive suite of tools built with developer convenience in mind.  It's built using modern technologies like React, TypeScript, and Tailwind CSS, resulting in a fast, responsive, and visually appealing interface. The core functionality revolves around secure SSH access.  You can connect to your servers via a fully-featured terminal, complete with split-screen support for enhanced productivity and a tab system for seamless multitasking.  Need to set up an SSH tunnel? Termix makes it a breeze, with automatic reconnection and health monitoring to ensure your connections stay up and running.  Beyond SSH access, Termix boasts a powerful remote file editor. Edit code, configuration files, or any other text-based files directly on your servers with syntax highlighting, and manage files through intuitive upload, removal, renaming, and deletion functionalities.\n\nWhat sets Termix apart is its focus on ease of use and organization.  The SSH host manager allows you to save, organize, and manage your SSH connections using tags and folders, making it simple to keep track of even the most complex server setups.  And if you're looking for a quick overview of your server's health, Termix provides real-time statistics on CPU, memory, and HDD usage, keeping you informed at a glance.  Security is paramount, with secure user authentication, admin controls, and support for OIDC and 2FA (TOTP) to protect your valuable server infrastructure. The entire platform is designed with a modern, clean UI and supports multiple languages, including English and Chinese.\n\nBut Termix is more than just a collection of features; it's a vision for a more efficient and integrated server management experience. The project is actively developed, with a roadmap filled with exciting planned features such as improved admin control for finer-grained permissions and the ability to share hosts, theming options for customization, enhanced terminal support with protocols like VNC and RDP, and even mobile support to manage your servers on the go. This commitment to continuous improvement makes Termix a long-term solution that will evolve alongside your needs.\n\nInstalling Termix is straightforward, thanks to comprehensive documentation and a sample docker-compose file.  Whether you're a seasoned DevOps engineer or a solo developer, Termix offers a level of simplicity and power that will transform your server management workflow.  Dive in, explore the possibilities, and experience the future of server management.",
     "key_takeaways": [
-        "Generates high-fidelity Foley audio synchronized with video content.",
-        "Utilizes multimodal diffusion and representation alignment for superior audio quality.",
-        "Significantly reduces time and effort required for sound design.",
-        "Supports diverse scenarios, from short videos to feature films.",
-        "Provides professional-grade 48kHz audio output."
+        "All-in-one server management platform with SSH terminal, tunneling, and remote file editing.",
+        "Modern, intuitive web UI built with React, TypeScript, and Tailwind CSS.",
+        "Secure user authentication with admin controls, OIDC, and 2FA support.",
+        "Easy installation via Docker, with comprehensive documentation.",
+        "Active development with a roadmap of exciting new features."
     ],
     "tags": [
-        "AI",
-        "Foley",
-        "Audio Generation",
-        "Video Production",
-        "Multimodal"
+        "SSH",
+        "Server Management",
+        "React",
+        "TypeScript",
+        "Docker"
     ],
-    "stars": 273,
-    "forks": 22,
-    "open_issues": 8,
-    "languages": "Python",
-    "readme_summary": "The HunyuanVideo-Foley repository introduces a multimodal diffusion model for generating high-fidelity Foley audio synchronized with video content. It aims to provide professional-grade AI sound effect generation for video creators, applicable to various scenarios like short videos, films, and games.",
-    "project_id": 1038414944,
-    "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley",
-    "description": "HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation."
+    "stars": 2245,
+    "forks": 85,
+    "open_issues": 37,
+    "languages": "TypeScript",
+    "readme_summary": "Termix is a web-based server management platform written in TypeScript. It provides SSH terminal access, SSH tunneling, and remote file editing capabilities through a web interface, aiming to be a self-hosted, all-in-one server management solution.",
+    "project_id": 893684207,
+    "url": "https://github.com/LukeGus/Termix",
+    "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities."
 }

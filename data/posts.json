@@ -1,58 +1,51 @@
 [
     {
-        "project_id": 743140652,
-        "content": "🚀 <b>windows</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning Windows operating systems inside Docker containers for development, testing, or virtualization purposes.\n<br>\n✨ <b>Key Features:</b>\n• ISO downloader\n• KVM acceleration\n• Web-based viewer\n<br>\n📖 <b>Summary:</b>\nThis repository provides a way to run Windows operating systems inside Docker containers. It includes features for downloading ISO images, KVM acceleration, and a web-based viewer, enabling users to easily create and manage Windows virtual machines.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dockur/windows?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/743140652/69c0c16a-9695-484e-861e-9b07c0507f45",
+        "project_id": 893684207,
+        "content": "🌟 <b>Termix</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCentralized web-based server management, providing SSH terminal, tunneling, and file editing functionalities.\n<br>\n✨ <b>Key Features:</b>\n• SSH Terminal Access with split-screen and tab support\n• SSH Tunnel Management with automatic reconnection and health monitoring\n• Remote File Editor with syntax highlighting and file management\n• SSH Host Manager for saving and organizing SSH connections\n• Server Stats for viewing CPU, memory, and HDD usage\n<br>\n📖 <b>Summary:</b>\nTermix is a web-based server management platform written in TypeScript. It provides SSH terminal access, SSH tunneling, and remote file editing capabilities through a web interface, aiming to be a self-hosted, all-in-one server management solution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/LukeGus/Termix?embed=0\">View Project</a>\n• <a href=\"https://docs.termix.site/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6b0885db9250dd995cdc47650d5f175c858af8953c98ec1e1b3df695f70b6a37/LukeGus/Termix",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 37347459,
-        "content": "🚀 <b>ungoogled-chromium</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a Chromium-based web browser without Google integration, focusing on privacy and user control.\n<br>\n✨ <b>Key Features:</b>\n• Removes dependency on Google web services\n• Retains the default Chromium experience\n• Enhances privacy, control, and transparency\n• Disables functionality specific to Google domains\n• Blocks internal requests to Google at runtime\n<br>\n📖 <b>Summary:</b>\nThe ungoogled-chromium project aims to provide a version of Google Chromium without dependencies on Google web services. It focuses on enhancing privacy, control, and transparency by removing Google-specific code and binaries, and disabling features that compromise user control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ungoogled-software/ungoogled-chromium?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a008ce11f1157d0eab1ea5eabf9c647ccb444c858f9ff318bbaebba78d62b635/ungoogled-software/ungoogled-chromium",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1038414944,
-        "content": "🌟 <b>HunyuanVideo-Foley</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating synchronized Foley audio for video content creation.\n<br>\n✨ <b>Key Features:</b>\n• Multi-scenario audio-visual synchronization\n• Multi-modal balance between visual and textual information\n• 48kHz Hi-Fi audio output\n<br>\n📖 <b>Summary:</b>\nThe HunyuanVideo-Foley repository introduces a multimodal diffusion model for generating high-fidelity Foley audio synchronized with video content. It aims to provide professional-grade AI sound effect generation for video creators, applicable to various scenarios like short videos, films, and games.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6ae4a1f368e172f5fecd2ac49dc2831ce73e6dd1b4a3a5dd3fef0dc60fcd2504/Tencent-Hunyuan/HunyuanVideo-Foley",
-        "platform": "telegram",
-        "quality_score": 0.9
-    },
-    {
-        "project_id": 933284834,
-        "content": "🚀 <b>fzfm</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nFuzzy finding and managing files and directories in the terminal.\n<br>\n✨ <b>Key Features:</b>\n• Navigate directories seamlessly using only your keyboard\n• Blazing-fast fuzzy search powered by `fzf`\n• File preview using `bat` (fallback to `cat`)\n• Directory preview using `eza` (fallback to `ls`)\n• Customizable multimedia file opener\n<br>\n📖 <b>Summary:</b>\nThe fzfm repository provides a fuzzy finder file manager implemented in shell script. It leverages `fzf` for fast fuzzy searching and offers features like file and directory previews, customizable media opening, and configuration via environment variables, aiming to provide a seamless keyboard-driven file navigation experience in the terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ashish0kumar/fzfm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a3d39e645a7ca19d69224937d0465432d6b4f0e0c8ab75d531776e0d5a24a87b/ashish0kumar/fzfm",
+        "project_id": 1041701020,
+        "content": "🔥 <b>ascii-converter</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting multimedia files and webcam streams into ASCII art for display in the terminal or saving as files.\n<br>\n✨ <b>Key Features:</b>\n• Image to ASCII conversion\n• GIF to ASCII conversion\n• Video to ASCII conversion\n• Audio to ASCII conversion\n• Webcam to ASCII conversion\n<br>\n📖 <b>Summary:</b>\nThe ASCII Converter is a command-line tool written in Go that converts images, GIFs, audio, videos, and webcam streams into ASCII art. It supports various input formats and allows users to preview the ASCII art in the terminal or save it to files.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Apollo478/ascii-converter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d625effda339b5b4e301e407e6463631b87b38fae5b81e81d9d746c216e95a54/Apollo478/ascii-converter",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 792322009,
-        "content": "💡 <b>packemon</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nNetwork packet generation and analysis for security testing, network troubleshooting, and protocol exploration.\n<br>\n✨ <b>Key Features:</b>\n• Packet generation with custom payloads\n• Packet monitoring on specified network interfaces\n• TUI interface for interactive packet analysis\n• Cross-platform support (Windows, macOS, Linux)\n• Packet filtering and detailed packet view\n<br>\n📖 <b>Summary:</b>\nPackémon is a TUI tool written in Go for generating and monitoring network packets. It allows users to craft and send custom packets to specific network interfaces, as well as capture and analyze network traffic in real-time, supporting Windows, macOS, and Linux.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ddddddO/packemon?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/792322009/a910c8f1-0f88-4fe4-804b-f772bf0233b7",
+        "project_id": 573661753,
+        "content": "🌟 <b>activepieces</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAI workflow automation and integration of various services using a no-code or low-code approach, particularly for AI agents and MCPs.\n<br>\n✨ <b>Key Features:</b>\n• Open Source and Extensible\n• Type-Safe Pieces Framework (TypeScript)\n• MCP Server Functionality for AI Agents\n<br>\n📖 <b>Summary:</b>\nActivepieces is an open-source, TypeScript-based AI automation platform positioned as a Zapier alternative. It emphasizes extensibility through a type-safe framework, allowing users to create and share integrations (pieces) that can be used as MCP servers for AI agents. The platform offers a no-code builder, AI SDK, and enterprise-ready features, focusing on security and human-in-the-loop capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/activepieces/activepieces?embed=0\">View Project</a>\n• <a href=\"https://www.activepieces.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/04e85d6bdf67da8b3aced4e5ae69ddc0c8ad3a97646ba06bef24464a8956f805/activepieces/activepieces",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 1008866688,
+        "content": "✨ <b>oh-my-logo</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating visually appealing ASCII art logos for terminal display and project branding.\n<br>\n✨ <b>Key Features:</b>\n• Two Rendering Modes (outlined or filled)\n• 13 Beautiful Palettes\n• Vertical, horizontal, and diagonal gradients\n• Multi-line Support\n• Zero Dependencies (npx usage)\n<br>\n📖 <b>Summary:</b>\noh-my-logo is a TypeScript-based tool for generating visually appealing ASCII art logos with gradient colors in the terminal. It offers features like different rendering modes, customizable palettes, and multi-line support, making it suitable for project banners, startup logos, or terminal customization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/shinshin86/oh-my-logo?embed=0\">View Project</a>\n• <a href=\"https://www.npmjs.com/package/oh-my-logo?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1008866688/2a712ee4-0181-4ba4-949c-404a60267d59",
+        "platform": "telegram",
+        "quality_score": 0.8
+    },
+    {
+        "project_id": 1005246104,
+        "content": "🌟 <b>fireplexity</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-driven search engine for web, news, and images with real-time data and citations.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered search\n• Real-time citations\n• Streaming responses\n• Live data integration\n• Web search\n<br>\n📖 <b>Summary:</b>\nFireplexity v2 is an AI search engine that provides real-time citations, streaming responses, and live data. It supports searching across web, news, and images, offering a comprehensive search experience powered by Firecrawl.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/firecrawl/fireplexity?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0d89296bc96d1de97b67fe2744847734c3911ea81838ce97a39582c1d72ffc45/firecrawl/fireplexity",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 942672211,
+        "content": "✨ <b>lazyeat</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nContactless control of devices during activities like eating, where users want to avoid touching devices with dirty hands.\n<br>\n✨ <b>Key Features:</b>\n• Hands-free convenience\n• Intuitive gesture control\n• Multi-platform support (Windows, MacOS, Linux)\n• Voice input integration\n<br>\n📖 <b>Summary:</b>\nLazyeat is a hands-free control tool that uses gesture recognition and voice input to allow users to interact with their devices without touching them. It's designed for situations where users have dirty or greasy hands, such as while eating, enabling them to pause videos, adjust volume, and navigate content through gestures and voice commands.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lanxiuyun/lazyeat?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3c946a2047b455dc643ff2d2befed25e09f3fecd4e0f220b6b791aeedcf56dd6/lanxiuyun/lazyeat",
         "platform": "telegram",
         "quality_score": 0.9
     },
     {
-        "project_id": 438267145,
-        "content": "🔥 <b>quiet</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nPrivate and secure team communication without reliance on central servers.\n<br>\n✨ <b>Key Features:</b>\n• Team Chat\n• End-to-end Encryption\n• Channels\n• Decentralized architecture\n• Tor integration for secure communication\n<br>\n📖 <b>Summary:</b>\nQuiet is a decentralized, peer-to-peer team chat application that aims to provide a private alternative to platforms like Slack and Discord. It leverages Tor for secure communication and OrbitDB for data synchronization directly between users' devices, eliminating the need for a central server. The application is built with TypeScript, Electron, and React Native.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TryQuiet/quiet?embed=0\">View Project</a>\n• <a href=\"https://www.tryquiet.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/438267145/6414416f-0916-4a8f-ba1d-0c4e93c1b7c0",
+        "project_id": 635958781,
+        "content": "💡 <b>pinstr</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCurating and sharing interests with others in a decentralized social network.\n<br>\n✨ <b>Key Features:</b>\n• Decentralized backend with Nostr protocol\n• Open-source and free to use\n• Create customized public boards of pins on almost any topic\n• Like, Comment, and Zap other users' boards\n• Easy-to-use interface\n<br>\n📖 <b>Summary:</b>\nPinstr is a decentralized social network built on the Nostr protocol, enabling users to curate and share their interests through customizable boards. It offers features like creating public boards, liking/commenting on other users' content, and attaching Nostr profiles and notes to boards, all while being open-source and free to use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sepehr-safari/pinstr?embed=0\">View Project</a>\n• <a href=\"https://pinstr.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e2e1bbf6a6e638e19c0344958b41b85d27121e6f0bb2503f9b4c0c7f0e7b34f4/sepehr-safari/pinstr",
         "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 998990487,
-        "content": "✨ <b>enchat</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPrivate and secure terminal-based communication.\n<br>\n✨ <b>Key Features:</b>\n• Real-Time Encrypted Chat\n• Secure Room & File Sharing\n• Perfect Forward Secrecy (PFS)\n• Tor Support\n• Zero-Knowledge Architecture\n<br>\n📖 <b>Summary:</b>\nEnchat is a self-hosted terminal chat application that provides end-to-end encrypted, ephemeral communication. It prioritizes privacy by design, offering features like zero-knowledge architecture, perfect forward secrecy, and Tor support to ensure secure conversations without reliance on centralized servers or data tracking.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sudodevdante/enchat?embed=0\">View Project</a>\n• <a href=\"https://enchat.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/15b73a41cc1f8e68133b382bc84b99b62ddecd10f6ab6a542702145fef5b4a92/sudodevdante/enchat",
-        "platform": "telegram",
-        "quality_score": 0.4
-    },
-    {
-        "project_id": 1045247927,
-        "content": "🚀 <b>actions-up</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nUpdating GitHub Actions dependencies to the latest versions with SHA pinning for improved security and reproducibility.\n<br>\n✨ <b>Key Features:</b>\n• Auto-discovery of actions in workflows and composite actions\n• SHA Pinning for enhanced security and reproducibility\n• Batch updates for efficient dependency management\n• Interactive selection of actions to update\n• Breaking changes detection to prevent unexpected issues\n<br>\n📖 <b>Summary:</b>\nActions Up is a CLI tool written in TypeScript designed to automate the process of updating GitHub Actions dependencies in workflows and composite actions. It enhances security and reproducibility by pinning actions to specific commit SHAs, offering interactive and automated update modes, and detecting potential breaking changes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/azat-io/actions-up?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1045247927/bec6e866-bf5b-46a6-8b8e-9bd4258de42b",
-        "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.3
     }
 ]
