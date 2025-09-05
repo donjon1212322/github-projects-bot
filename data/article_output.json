@@ -1,26 +1,26 @@
 {
-    "title": "Never Wonder About Your Internet Speed Again: Introducing Speedtest Tracker!",
-    "article": "Hey fellow developers!  Are you tired of unreliable internet slowing down your workflow?  Do you ever wonder if your ISP is delivering the speeds they promised?  Then get ready to meet Speedtest Tracker, a game-changing self-hosted application that's about to become your new best friend.  This isn't your average speed test; it's a comprehensive monitoring system that keeps a constant eye on your connection, providing detailed insights and alerts.  Think of it as a personal internet performance detective, always on the case.  Speedtest Tracker automates the process of testing your internet speed at regular intervals. It goes beyond just showing you the current speed; it captures a wealth of data, including download and upload speeds, ping, and packet loss.  This information is then neatly presented in an easy-to-understand dashboard, allowing you to visualize your connection's performance over time.  The real magic, however, lies in its ability to track this data over time.  You can see historical trends, identify recurring issues, and even get notifications if your connection dips below a certain threshold.  This proactive approach allows you to address problems before they significantly impact your productivity.  The beauty of Speedtest Tracker is its simplicity. It's containerized, meaning you can run it practically anywhere—from your home server to cloud platforms like Docker.  The setup process is straightforward, with clear documentation guiding you through the steps.  Plus, there are pre-built images available for popular NAS systems like Synology and Unraid, making deployment a breeze.  The application is highly configurable, allowing you to tailor the testing frequency and notification settings to your specific needs.  You can choose how often you want speed tests to run and what conditions trigger alerts—whether it's a drop in download speed, high latency, or significant packet loss.  Speedtest Tracker is more than just a tool; it's a time-saver. Imagine the hours you'll save by proactively identifying and resolving internet issues before they disrupt your workflow.  It offers peace of mind, knowing that your connection is constantly being monitored and that you'll be alerted immediately if anything goes wrong.  No more guesswork or frustrating troubleshooting sessions—just clear, actionable data at your fingertips.  If you're a developer who values efficiency, reliability, and a proactive approach to problem-solving, then Speedtest Tracker is a must-have. It's the ultimate tool for ensuring your internet connection remains a consistent and reliable asset, not a source of frustration.  Give it a try; you won't regret it!",
+    "title": "MarkFlowy: Your New AI-Powered Markdown Editor",
+    "article": "Hey fellow developers!  Ever wished for a Markdown editor that was not only sleek and efficient but also smart enough to assist you with your writing?  Well, hold onto your hats, because MarkFlowy is here to revolutionize your workflow! This isn't your grandpappy's Markdown editor; MarkFlowy is a modern, intelligent tool built to boost your productivity. Forget clunky interfaces and endless formatting struggles – MarkFlowy streamlines the entire process, making Markdown editing a breeze.\n\nOne of the things that sets MarkFlowy apart is its built-in AI capabilities.  Imagine effortlessly translating articles into any language with a single click, generating concise abstracts, or even exporting entire conversations in an instant.  MarkFlowy integrates seamlessly with powerful AI models like DeepSeek and ChatGPT, transforming these models into your personal writing assistants.  Need to summarize a lengthy document?  No problem! Want to translate a technical manual?  MarkFlowy's got you covered!\n\nBut the brilliance of MarkFlowy extends beyond AI.  It's incredibly lightweight, boasting a footprint of less than 10MB. This means lightning-fast performance and minimal resource consumption, allowing you to focus on what matters most – your code!  The editor itself is built on the robust remirror framework, ensuring a smooth and highly scalable editing experience.  You can switch between source code mode and WYSIWYG editing, whichever suits your style best.\n\nCustomization is another key feature.  MarkFlowy supports custom themes, allowing you to personalize the editor to perfectly match your preferences.  And guess what? You can even share your custom themes with the community, contributing to a vibrant ecosystem of collaborative design.\n\nMarkFlowy is available for Linux, macOS, and Windows, making it accessible to a wide range of developers.  While the macOS aarch64 version has a small hurdle due to Apple's security policies (easily bypassed via a simple terminal command), the team is actively working to resolve this.  You can download it from the official GitHub release page or via a dedicated download link. \n\nBut why should *you* care?  Because MarkFlowy saves you time, simplifies your workflow, and helps you write better.  It's the perfect blend of power and elegance, combining the best of AI and a user-friendly interface.  It's the Markdown editor I've always dreamed of, and I think you'll love it too!  Give it a try and let me know what you think.  Contribute to the project, share your themes, and let's build an amazing community around this awesome tool!",
     "key_takeaways": [
-        "Automated internet speed testing at regular intervals.",
-        "Detailed historical data and trend analysis.",
-        "Configurable notification alerts for performance drops.",
-        "Easy setup and deployment via Docker and NAS support.",
-        "Proactive identification and resolution of internet issues."
+        "AI-powered features for translation, summarization, and conversation export.",
+        "Lightweight and high-performance design (under 10MB).",
+        "Supports multiple editing modes (source code and WYSIWYG).",
+        "Customizable themes and community sharing.",
+        "Available for Linux, macOS, and Windows."
     ],
     "tags": [
-        "self-hosted",
-        "monitoring",
-        "internet speed",
-        "docker",
-        "notifications"
+        "Markdown",
+        "Editor",
+        "AI",
+        "Tauri",
+        "Remirror"
     ],
-    "stars": 4230,
-    "forks": 153,
-    "open_issues": 41,
-    "languages": "PHP",
-    "readme_summary": "Speedtest Tracker is a self-hosted application designed to monitor the performance and uptime of your internet connection. It allows users to schedule regular speed tests, capture detailed metrics like download/upload speeds and ping, and track historical data to identify trends and issues.",
-    "project_id": 535309783,
-    "url": "https://github.com/alexjustesen/speedtest-tracker",
-    "description": "Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection."
+    "stars": 1491,
+    "forks": 49,
+    "open_issues": 32,
+    "languages": "Rust",
+    "readme_summary": "MarkFlowy is a lightweight and intelligent Markdown editor built with Rust and Tauri, offering features like AI assistance (DeepSeek, ChatGPT), custom themes, and multiple editing modes (source code, WYSIWYG). It aims to provide an efficient, beautiful, and data-safe Markdown editing experience across Linux, macOS, and Windows.",
+    "project_id": 496233655,
+    "url": "https://github.com/drl990114/MarkFlowy",
+    "description": "A markdown editor, which is lighter, smarter and purer. 一个 Markdown 编辑器，但是更轻快、更智能、更纯粹。"
 }
