@@ -1,7 +1,0 @@
-{
-    "project_id": 1047498571,
-    "content": "✨ <b>localports</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nQuickly identify which processes are listening on specific network ports.\n<br>\n✨ <b>Key Features:</b>\n• Lists all listening network ports\n• Shows the binary path for each port\n• Filters out system processes\n• Clean table output with port, PID, and binary information\n<br>\n📖 <b>Summary:</b>\nThe `localports` repository provides a command-line tool written in Rust that lists network ports and their associated binaries. It helps developers quickly identify which processes are using specific ports, filtering out system processes to focus on developer-relevant applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/diegoholiveira/localports?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/0abce8ed6c19b3eff52592193df31abdbe9fa6fa710fe7b79428b4ed9b1b5a82/diegoholiveira/localports",
-    "platform": "telegram",
-    "quality_score": 0.5499999999999999
-}
