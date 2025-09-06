@@ -1,242 +1,150 @@
 [
     {
-        "id": 1033999973,
-        "name": "sourcerer-mcp",
-        "description": "MCP for semantic code search & navigation that reduces token waste",
-        "url": "https://github.com/st3v3nmw/sourcerer-mcp",
-        "language": "Go",
-        "stars": 31,
-        "forks": 3,
-        "created_at": "2025-08-07T17:17:00Z",
-        "updated_at": "2025-09-05T08:44:25Z",
-        "topics": [
-            "claude-code",
-            "code-analysis",
-            "code-navigation",
-            "code-search",
-            "mcp",
-            "mcp-server",
-            "model-context-protocol",
-            "semantic-search"
+        "id": 1049730948,
+        "name": "richpixelvid",
+        "description": "Play videos in your terminal using rich-pixel",
+        "url": "https://github.com/pj4533/richpixelvid",
+        "language": "Python",
+        "stars": 3,
+        "forks": 0,
+        "created_at": "2025-09-03T12:16:07Z",
+        "updated_at": "2025-09-06T07:01:57Z",
+        "topics": [],
+        "quality_score": 0.44999999999999996,
+        "contributors_count": 0,
+        "last_commit_date": "2025-09-03T12:16:43Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/e3204131aecc3c0f920b6a68d932ae57238bae19b8465abfd2b4de94f005a6a4/pj4533/richpixelvid"
         ],
+        "homepage": null,
+        "readme_summary": "The Rich-Pixel Video Player is a Python-based tool that allows users to play videos in their terminal using Unicode half-block characters, creating a retro-style visual experience. It supports various video formats and offers options for controlling frame rate, looping, and video dimensions within the terminal.",
+        "key_features": [
+            "Automatic terminal size detection and video scaling",
+            "Configurable frame rate",
+            "Memory-efficient streaming",
+            "Support for various video formats (mp4, avi, mov, mkv, etc.)",
+            "Loop playback option",
+            "Graceful interrupt handling (Ctrl+C)"
+        ],
+        "primary_use_case": "Playing videos in the terminal with a retro, pixelated aesthetic.",
+        "open_issues": 0,
+        "cover_image_prompt": "An old-fashioned film projector casting a beam of light onto a terminal screen, displaying a pixelated video of a bustling city street. The projector is powered by glowing code snippets and digital circuits. The terminal screen is made of individual Unicode half-block characters that form the video. Small UI elements float around the scene, showing frame rate controls and video settings. The scene is set in a dimly lit, vintage theater with a modern twist. The image should be in a 3D isometric illustration style with vibrant colors and sharp details."
+    },
+    {
+        "id": 1047498571,
+        "name": "localports",
+        "description": "List network ports with their associated binaries",
+        "url": "https://github.com/diegoholiveira/localports",
+        "language": "Rust",
+        "stars": 35,
+        "forks": 1,
+        "created_at": "2025-08-30T14:59:42Z",
+        "updated_at": "2025-09-06T07:30:19Z",
+        "topics": [],
         "quality_score": 0.5499999999999999,
         "contributors_count": 0,
-        "last_commit_date": "2025-08-30T13:38:40Z",
+        "last_commit_date": "2025-08-30T16:06:25Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/d3be0be15b7fb8755ec8d7eb59c5f93ee5f70676d570614b32af1ecf58a59a3c/st3v3nmw/sourcerer-mcp"
+            "https://opengraph.githubassets.com/0abce8ed6c19b3eff52592193df31abdbe9fa6fa710fe7b79428b4ed9b1b5a82/diegoholiveira/localports"
         ],
-        "homepage": "",
-        "readme_summary": "Sourcerer MCP is a tool for semantic code search and navigation, designed to reduce token usage for AI agents. It builds a semantic index of a codebase, allowing agents to search conceptually and jump directly to relevant code chunks instead of reading entire files.",
+        "homepage": null,
+        "readme_summary": "The `localports` repository provides a command-line tool written in Rust that lists network ports and their associated binaries. It helps developers quickly identify which processes are using specific ports, filtering out system processes to focus on developer-relevant applications.",
         "key_features": [
-            "Semantic code search",
-            "Code navigation",
-            "Token usage reduction for AI agents",
-            "Code parsing and chunking using Tree-sitter",
-            "File system integration with `.gitignore` support",
-            "Persistent vector database using chromem-go",
-            "OpenAI embeddings for semantic similarity",
-            "MCP tools for semantic search and code retrieval"
+            "Lists all listening network ports",
+            "Shows the binary path for each port",
+            "Filters out system processes",
+            "Clean table output with port, PID, and binary information"
         ],
-        "primary_use_case": "Enabling AI agents to efficiently search and navigate codebases by providing semantic understanding and reducing token consumption.",
+        "primary_use_case": "Quickly identify which processes are listening on specific network ports.",
         "open_issues": 0,
-        "cover_image_prompt": "A librarian, surrounded by towering shelves of code books, uses a magical monocle to instantly locate specific code passages based on their meaning, not just keywords. The monocle emits a beam of light that highlights the relevant sections, while irrelevant pages fade into the background. Small UI elements float around the librarian, displaying code snippets and search queries. The scene is set in a grand, futuristic library with soft, warm lighting. The image should be in a 3D isometric illustration style with intricate details and a focus on clarity."
+        "cover_image_prompt": "A detective with a magnifying glass examines a city map where each building represents a network port. The detective is tracing connections between the buildings and small, glowing figures representing processes. The magnifying glass highlights the port number and the associated process's icon. A subtle UI overlay shows a table with port, PID, and binary information. The scene is set in a dimly lit, futuristic office with holographic displays. The image should be in a 3D isometric illustration style with clear details and a cool color scheme, emphasizing clarity and investigation."
     },
     {
-        "id": 496233655,
-        "name": "MarkFlowy",
-        "description": "A markdown editor, which is lighter, smarter and purer. 一个 Markdown 编辑器，但是更轻快、更智能、更纯粹。",
-        "url": "https://github.com/drl990114/MarkFlowy",
-        "language": "Rust",
-        "stars": 1491,
-        "forks": 49,
-        "created_at": "2022-05-25T13:03:26Z",
-        "updated_at": "2025-09-05T08:57:27Z",
-        "topics": [
-            "ai",
-            "chatgpt",
-            "deepseek",
-            "editor",
-            "linux-app",
-            "macos-app",
-            "markdown",
-            "markdowneditor",
-            "notes-app",
-            "prosemirror",
-            "reactjs",
-            "rust-lang",
-            "tauri",
-            "typescript",
-            "windows-app"
-        ],
+        "id": 1033896376,
+        "name": "dinov3",
+        "description": "Reference PyTorch implementation and models for DINOv3",
+        "url": "https://github.com/facebookresearch/dinov3",
+        "language": "Jupyter Notebook",
+        "stars": 6565,
+        "forks": 352,
+        "created_at": "2025-08-07T14:11:34Z",
+        "updated_at": "2025-09-06T09:44:03Z",
+        "topics": [],
         "quality_score": 0.85,
         "contributors_count": 0,
-        "last_commit_date": "2025-09-01T13:55:55Z",
+        "last_commit_date": "2025-09-04T07:18:55Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/b564aad3e456931ab0d96df4c44420c10f47576f352fef05308c91bb03e02c86/drl990114/MarkFlowy"
-        ],
-        "homepage": "https://www.markflowy.cc",
-        "readme_summary": "MarkFlowy is a lightweight and intelligent Markdown editor built with Rust and Tauri, offering features like AI assistance (DeepSeek, ChatGPT), custom themes, and multiple editing modes (source code, WYSIWYG). It aims to provide an efficient, beautiful, and data-safe Markdown editing experience across Linux, macOS, and Windows.",
-        "key_features": [
-            "Built-in AI (DeepSeek, ChatGPT)",
-            "Lightweight (less than 10MB)",
-            "High availability (remiirror editor)",
-            "Multiple editing modes (source code, WYSIWYG)",
-            "Custom Theme support"
-        ],
-        "primary_use_case": "Creating and editing Markdown documents with AI-powered features and customizability.",
-        "open_issues": 32,
-        "cover_image_prompt": "A skilled artisan meticulously crafting a digital scroll using a set of advanced tools. The scroll represents a Markdown document, and the tools symbolize MarkFlowy's features: an AI assistant (represented by a small, helpful robot), a lightweight hammer, and a theming palette. The artisan works in a clean, modern workshop filled with subtle tech elements like floating code snippets and glowing data particles. A small screen displays the MarkFlowy logo. The scene is brightly lit with a focus on clarity and precision. The image should be in a 3D isometric illustration style with vibrant colors and rich details."
-    },
-    {
-        "id": 431446432,
-        "name": "gravity_defied_cpp",
-        "description": "Rewrite Gravity Defied mobile game from Java to C++ & SDL",
-        "url": "https://github.com/rgimad/gravity_defied_cpp",
-        "language": "C++",
-        "stars": 71,
-        "forks": 8,
-        "created_at": "2021-11-24T10:47:49Z",
-        "updated_at": "2025-09-05T05:23:37Z",
-        "topics": [
-            "cpp",
-            "gamedev",
-            "gravity-defied",
-            "j2me",
-            "sdl",
-            "sdl2"
-        ],
-        "quality_score": 0.55,
-        "contributors_count": 0,
-        "last_commit_date": "2025-05-12T20:13:00Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/34a9963808d0b21137ef214c33c5db32d064d706ac68d81bb6e3bc1c05a85aa8/rgimad/gravity_defied_cpp"
+            "https://opengraph.githubassets.com/ecdc604b47309e116baac9965b2ea6cf5ca101139751d765e28f1a14266e5ed7/facebookresearch/dinov3"
         ],
         "homepage": "",
-        "readme_summary": "The repository is a C++ and SDL2 port of the mobile game Gravity Defied, originally developed for the J2ME platform. It aims to recreate all the features of the original game using C++ and the SDL2 library.",
+        "readme_summary": "The DINOv3 repository provides a PyTorch implementation of the DINOv3 self-supervised vision model. It offers pretrained models and code for generating high-quality dense image features, enabling strong performance on various vision tasks without fine-tuning. The models are available on Hugging Face Hub and supported by the Transformers library.",
         "key_features": [
-            "C++ port of Gravity Defied",
-            "SDL2 implementation",
-            "Replicates original game features"
+            "PyTorch implementation of DINOv3",
+            "Pretrained ViT models (ViT-S, ViT-S+, ViT-B, ViT-L, ViT-H+)",
+            "High-resolution dense features",
+            "Self-supervised learning",
+            "Availability on Hugging Face Hub",
+            "Support by Transformers library"
         ],
-        "primary_use_case": "Recreating and playing Gravity Defied on modern systems using C++ and SDL2.",
-        "open_issues": 5,
-        "cover_image_prompt": "A determined cyclist navigates a treacherous, gravity-defying track suspended in the air, reminiscent of the original Gravity Defied game. The track is composed of fragmented mobile phone screens, subtly displaying J2ME code fading into clean C++ code. The cyclist's path is illuminated by a glowing SDL2 logo, guiding them forward. The background features a stylized cityscape with a retro-futuristic aesthetic. Small digital particles representing game physics float around the cyclist and track. The composition is dynamic and focused, with a vibrant color scheme. The image should be in a 3D isometric illustration style with rich details and clear outlines."
+        "primary_use_case": "Generating high-quality dense image features for various vision tasks using self-supervised learning.",
+        "open_issues": 58,
+        "cover_image_prompt": "A skilled cartographer meticulously crafting a detailed map of a vast, uncharted territory using advanced surveying tools. The cartographer uses a special lens to analyze the terrain, revealing hidden patterns and intricate details that glow with digital light. The map transforms into a vibrant, high-resolution image filled with rich information. Small UI elements display the DINOv3 logo and data processing metrics. The scene is set in a futuristic cartography lab with soft, ambient lighting. The composition is focused and clear, emphasizing the transformation of raw data into a comprehensive visual representation. The image should be in 3D isometric illustration style with vibrant colors and sharp details."
     },
     {
-        "id": 47767967,
-        "name": "bootique",
-        "description": "Bootique is a minimally opinionated platform for modern runnable Java apps.",
-        "url": "https://github.com/bootique/bootique",
-        "language": "Java",
-        "stars": 1421,
-        "forks": 283,
-        "created_at": "2015-12-10T14:45:15Z",
-        "updated_at": "2025-09-05T06:20:06Z",
-        "topics": [
-            "bootique",
-            "dependency-injection",
-            "java",
-            "runnable-jar"
-        ],
-        "quality_score": 0.7499999999999999,
+        "id": 1032808806,
+        "name": "strix",
+        "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻 ",
+        "url": "https://github.com/usestrix/strix",
+        "language": "Python",
+        "stars": 600,
+        "forks": 56,
+        "created_at": "2025-08-05T21:28:30Z",
+        "updated_at": "2025-09-06T09:30:57Z",
+        "topics": [],
+        "quality_score": 0.6499999999999999,
         "contributors_count": 0,
-        "last_commit_date": "2025-08-30T19:10:18Z",
+        "last_commit_date": "2025-09-01T03:50:04Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/8b6466ef81864a98a773f02c5a09138e6636ea2f7d2c01521f0d3bbbced951e0/bootique/bootique"
+            "https://opengraph.githubassets.com/136038945d4c11e911cf3ab2d7b5dd32c4f9408180d21729bcc732c09724403d/usestrix/strix"
         ],
-        "homepage": "https://bootique.io",
-        "readme_summary": "Bootique is a platform for building runnable Java applications without requiring a JavaEE container. It allows developers to create REST services, web apps, jobs, and DB migration tasks that can be run as simple commands, making it suitable for building microservices.",
+        "homepage": "https://usestrix.com/",
+        "readme_summary": "Strix is an open-source AI-powered security tool that acts as an autonomous hacker to find vulnerabilities in applications. It uses dynamic testing and exploitation to validate vulnerabilities, aiming to provide accurate security testing with fewer false positives than static analysis tools.",
         "key_features": [
-            "Dependency Injection",
-            "Module-based architecture",
-            "Container-less execution",
-            "Support for REST services, web apps, jobs, and DB migration tasks"
+            "Agentic Security Tools (HTTP Proxy, Browser Automation, Terminal Environments, Python Runtime, Reconnaissance, Code Analysis, Knowledge Management)",
+            "Comprehensive Vulnerability Detection (Access Control, Injection Attacks, Server-Side, Client-Side, Business Logic, Authentication, Infrastructure)",
+            "Graph of Agents (Distributed Workflows, Scalable Testing, Dynamic Coordination)"
         ],
-        "primary_use_case": "Building runnable Java applications and microservices.",
-        "open_issues": 17,
-        "cover_image_prompt": "A skilled architect meticulously assembling a miniature city from individual building blocks, each representing a Bootique module. The city is powered by a central, glowing core, symbolizing the Bootique framework. Small screens display code snippets and dependency graphs, subtly connecting the physical construction to software development. The scene is set in a bright, modern workshop with a focus on precision and modularity. The composition is clean and focused, with a balanced color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 2788710,
-        "name": "jclasslib",
-        "description": "jclasslib bytecode editor is a tool that visualizes all aspects of compiled Java class files and the contained bytecode.",
-        "url": "https://github.com/ingokegel/jclasslib",
-        "language": "Kotlin",
-        "stars": 2926,
-        "forks": 422,
-        "created_at": "2011-11-16T15:29:25Z",
-        "updated_at": "2025-09-04T20:52:31Z",
-        "topics": [
-            "bytecode",
-            "gui",
-            "java",
-            "kotlin"
-        ],
-        "quality_score": 0.7500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-05T09:46:41Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/77852238dc3ae383e72781304015ab3883f9f187fb30ebdb4f9225db82d86a98/ingokegel/jclasslib"
-        ],
-        "homepage": "",
-        "readme_summary": "jclasslib bytecode editor is a tool for visualizing and editing compiled Java class files and bytecode. It also includes a Kotlin Multiplatform library for reading and writing Java class files, available on Maven Central.",
-        "key_features": [
-            "Visualizes Java class files and bytecode",
-            "Edits class file aspects in the UI",
-            "Provides a Kotlin Multiplatform library for reading and writing class files",
-            "Supports editing constant pool entries and bytecode instructions",
-            "Offers a dark mode",
-            "Includes localizations",
-            "Has an IntelliJ IDEA plugin"
-        ],
-        "primary_use_case": "Analyzing, editing, and understanding Java bytecode.",
-        "open_issues": 10,
-        "cover_image_prompt": "A watchmaker meticulously examining the inner gears of a complex clockwork mechanism representing a Java class file. The watchmaker uses specialized tools to adjust and refine the gears, each representing a bytecode instruction. A magnifying glass reveals intricate details and data flowing through the mechanism. Small screens display disassembled code snippets and data visualizations. The repository name, 'jclasslib,' is subtly engraved on the watchmaker's workbench. The scene is set in a brightly lit workshop with a clean, focused composition. The image should be in a detailed 3D isometric illustration style with vibrant colors."
-    },
-    {
-        "id": 107745806,
-        "name": "kotlin-result",
-        "description": "A multiplatform Result monad for modelling success or failure operations.",
-        "url": "https://github.com/michaelbull/kotlin-result",
-        "language": "Kotlin",
-        "stars": 1182,
-        "forks": 75,
-        "created_at": "2017-10-21T02:42:29Z",
-        "updated_at": "2025-09-04T20:14:02Z",
-        "topics": [
-            "browser",
-            "class",
-            "either",
-            "fp",
-            "functional",
-            "functional-programming",
-            "ios",
-            "js",
-            "jvm",
-            "kotlin",
-            "kotlin-multiplatform",
-            "monad",
-            "result",
-            "type"
-        ],
-        "quality_score": 0.6,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-03T16:58:55Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/ac0030758defbbdbadd36f42466631adeea390104e8ae475e6f6817c5c3a9ef7/michaelbull/kotlin-result"
-        ],
-        "homepage": "",
-        "readme_summary": "The kotlin-result repository provides a multiplatform Result monad for Kotlin, enabling developers to model operations that can either succeed with a value or fail with an error. It promotes functional programming principles like Railway Oriented Programming by clearly separating success and failure paths, and it's designed to minimize overhead through inline value classes.",
-        "key_features": [
-            "Multiplatform support (JVM, JS, Native)",
-            "Result monad for handling success/failure",
-            "Railway Oriented Programming support",
-            "Inline value class implementation for zero-overhead success path",
-            "Exception handling with runCatching",
-            "Mappings to Result types in other languages (Elm, Haskell, Rust, Scala)"
-        ],
-        "primary_use_case": "Modeling operations that can result in either a successful value or an error, providing a clear and type-safe way to handle potential failures in Kotlin applications across multiple platforms.",
+        "primary_use_case": "Automated security testing and vulnerability detection in applications, including web applications, codebases, and repositories.",
         "open_issues": 3,
-        "cover_image_prompt": "A seasoned explorer carefully navigating a treacherous mountain pass, representing a function call. The explorer carries a backpack labeled 'Input' and has two potential paths ahead: a sunny, clear path leading to a 'Success' destination, and a dark, rocky path leading to an 'Error' chasm. A small, glowing compass subtly displays 'kotlin-result'. The scene is set in a stylized, mountainous landscape with dramatic lighting. Small UI elements showing code snippets are subtly embedded in the rocks. The composition is a wide shot emphasizing the two distinct paths. The image should be in a 3D isometric illustration style with vibrant colors and clear details."
+        "cover_image_prompt": "A team of AI agents, depicted as futuristic hackers with glowing interfaces, meticulously examining the blueprints of a digital fortress. One agent uses a magnifying glass to identify weak points, while another tests the walls with simulated attacks. Data streams flow around them, highlighting vulnerabilities and security metrics. Small screens display code snippets and security reports. The scene is set in a high-tech security operations center with blue and green lighting. The image should be in 3D isometric illustration style with sharp details and vibrant colors."
+    },
+    {
+        "id": 29600789,
+        "name": "emoji-translate",
+        "description": ":books: Translate text to ✨emoji ✨!",
+        "url": "https://github.com/notwaldorf/emoji-translate",
+        "language": "JavaScript",
+        "stars": 1652,
+        "forks": 160,
+        "created_at": "2015-01-21T17:06:30Z",
+        "updated_at": "2025-09-06T08:01:41Z",
+        "topics": [],
+        "quality_score": 0.45,
+        "contributors_count": 0,
+        "last_commit_date": "2018-02-13T15:53:48Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/6c95950b75cbadbabb42f703e61b5a934a1bf19899d0071dcbe4fc9688827110/notwaldorf/emoji-translate"
+        ],
+        "homepage": "http://meowni.ca/emoji-translate/",
+        "readme_summary": "The `emoji-translate` repository provides a JavaScript library and a Chrome extension that translates text into emoji. It allows users to convert English text into strings of emoji, either for standalone use or within a browser environment.",
+        "key_features": [
+            "Translation of text to emoji",
+            "Standalone library usage via npm",
+            "Chrome extension for translating web pages",
+            "API with methods for emoji translation and display"
+        ],
+        "primary_use_case": "Translating text into emoji for communication and display purposes.",
+        "open_issues": 5,
+        "cover_image_prompt": "A friendly robot meticulously replacing words in a children's book with corresponding emoji stickers. The book lies open on a workbench amidst colorful emoji sheets and digital displays showing code snippets related to emoji translation. The robot uses a precision tool to carefully apply each emoji. Soft, playful lighting illuminates the scene, creating a whimsical and engaging atmosphere. Small UI elements on the workbench subtly display the repository name. The composition is clean and focused, with a vibrant color scheme. The image should be in a 3D isometric illustration style with rich details."
     }
 ]
