@@ -1,37 +1,44 @@
 [
     {
-        "project_id": 1049730948,
-        "content": "🌟 <b>richpixelvid</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying videos in the terminal with a retro, pixelated aesthetic.\n<br>\n✨ <b>Key Features:</b>\n• Automatic terminal size detection and video scaling\n• Configurable frame rate\n• Memory-efficient streaming\n• Support for various video formats (mp4, avi, mov, mkv, etc.)\n• Loop playback option\n<br>\n📖 <b>Summary:</b>\nThe Rich-Pixel Video Player is a Python-based tool that allows users to play videos in their terminal using Unicode half-block characters, creating a retro-style visual experience. It supports various video formats and offers options for controlling frame rate, looping, and video dimensions within the terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pj4533/richpixelvid?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e3204131aecc3c0f920b6a68d932ae57238bae19b8465abfd2b4de94f005a6a4/pj4533/richpixelvid",
-        "platform": "telegram",
-        "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 1047498571,
-        "content": "✨ <b>localports</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nQuickly identify which processes are listening on specific network ports.\n<br>\n✨ <b>Key Features:</b>\n• Lists all listening network ports\n• Shows the binary path for each port\n• Filters out system processes\n• Clean table output with port, PID, and binary information\n<br>\n📖 <b>Summary:</b>\nThe `localports` repository provides a command-line tool written in Rust that lists network ports and their associated binaries. It helps developers quickly identify which processes are using specific ports, filtering out system processes to focus on developer-relevant applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/diegoholiveira/localports?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0abce8ed6c19b3eff52592193df31abdbe9fa6fa710fe7b79428b4ed9b1b5a82/diegoholiveira/localports",
-        "platform": "telegram",
-        "quality_score": 0.5499999999999999
-    },
-    {
-        "project_id": 1033896376,
-        "content": "🌟 <b>dinov3</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating high-quality dense image features for various vision tasks using self-supervised learning.\n<br>\n✨ <b>Key Features:</b>\n• PyTorch implementation of DINOv3\n• Pretrained ViT models (ViT-S, ViT-S+, ViT-B, ViT-L, ViT-H+)\n• High-resolution dense features\n• Self-supervised learning\n• Availability on Hugging Face Hub\n<br>\n📖 <b>Summary:</b>\nThe DINOv3 repository provides a PyTorch implementation of the DINOv3 self-supervised vision model. It offers pretrained models and code for generating high-quality dense image features, enabling strong performance on various vision tasks without fine-tuning. The models are available on Hugging Face Hub and supported by the Transformers library.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/facebookresearch/dinov3?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ecdc604b47309e116baac9965b2ea6cf5ca101139751d765e28f1a14266e5ed7/facebookresearch/dinov3",
+        "project_id": 68968979,
+        "content": "🔥 <b>nuclear</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nStreaming music from free online sources on a desktop application.\n<br>\n✨ <b>Key Features:</b>\n• Streaming from free sources\n• Cross-platform support (Linux, Windows, Mac)\n• Plugin system\n• Theming support (in future version)\n• Auto-update (in future version)\n<br>\n📖 <b>Summary:</b>\nNuclear is a desktop music player that focuses on streaming music from free sources. The project is currently undergoing a rewrite to improve maintainability, performance, and plugin support, with plans to migrate from Electron to Tauri and incorporate Rust for performance-critical components.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nukeop/nuclear?embed=0\">View Project</a>\n• <a href=\"https://nuclearplayer.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/68968979/c88d1c71-f086-4058-b3fa-67fd20defb4f",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 1032808806,
-        "content": "🚀 <b>strix</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated security testing and vulnerability detection in applications, including web applications, codebases, and repositories.\n<br>\n✨ <b>Key Features:</b>\n• Agentic Security Tools (HTTP Proxy, Browser Automation, Terminal Environments, Python Runtime, Reconnaissance, Code Analysis, Knowledge Management)\n<br>\n📖 <b>Summary:</b>\nStrix is an open-source AI-powered security tool that acts as an autonomous hacker to find vulnerabilities in applications. It uses dynamic testing and exploitation to validate vulnerabilities, aiming to provide accurate security testing with fewer false positives than static analysis tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/usestrix/strix?embed=0\">View Project</a>\n• <a href=\"https://usestrix.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/136038945d4c11e911cf3ab2d7b5dd32c4f9408180d21729bcc732c09724403d/usestrix/strix",
+        "project_id": 1028492186,
+        "content": "🚀 <b>eigent</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating complex workflows using a multi-agent AI workforce.\n<br>\n✨ <b>Key Features:</b>\n• Zero Setup\n• Multi-Agent Coordination\n• Enterprise Feature (SSO/Access control)\n• Local Deployment\n• Open Source\n<br>\n📖 <b>Summary:</b>\nEigent is a multi-agent workforce desktop application that allows users to build, manage, and deploy custom AI workforces. It leverages parallel execution, customization, and privacy protection to automate complex workflows. It offers both a cloud version for instant access and a self-hosting community edition for local control and customization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/eigent-ai/eigent?embed=0\">View Project</a>\n• <a href=\"https://www.eigent.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/2500e373b6b766bb35a870705261fe26dd470aa9d47a1ecf0ff2d2f85dbf3bab/eigent-ai/eigent",
         "platform": "telegram",
-        "quality_score": 0.6499999999999999
+        "quality_score": 0.85
     },
     {
-        "project_id": 29600789,
-        "content": "✨ <b>emoji-translate</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTranslating text into emoji for communication and display purposes.\n<br>\n✨ <b>Key Features:</b>\n• Translation of text to emoji\n• Standalone library usage via npm\n• Chrome extension for translating web pages\n• API with methods for emoji translation and display\n<br>\n📖 <b>Summary:</b>\nThe `emoji-translate` repository provides a JavaScript library and a Chrome extension that translates text into emoji. It allows users to convert English text into strings of emoji, either for standalone use or within a browser environment.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/notwaldorf/emoji-translate?embed=0\">View Project</a>\n• <a href=\"http://meowni.ca/emoji-translate/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6c95950b75cbadbabb42f703e61b5a934a1bf19899d0071dcbe4fc9688827110/notwaldorf/emoji-translate",
+        "project_id": 1046855459,
+        "content": "✨ <b>ShadeOfColor2</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nHiding files inside PNG images for privacy, bypassing file restrictions, or data exfiltration.\n<br>\n✨ <b>Key Features:</b>\n• Two-way conversion (crypt/decrypt)\n• Embedded metadata (signature, file size, filename, SHA1 hash)\n• Cross-platform compatibility\n• Integrity check\n<br>\n📖 <b>Summary:</b>\nShadeOfColor is a cross-platform C# tool that allows users to hide files inside PNG images. It provides a way to convert any file into a PNG image and later recover the original file, offering a method for sending files through channels that restrict certain file types or adding an extra layer of privacy.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/archistico/ShadeOfColor2?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9385dc8741eae47b18f1838901f385da8668fd93453ced5aa62f7fd0ea966e21/archistico/ShadeOfColor2",
         "platform": "telegram",
-        "quality_score": 0.45
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 1027340108,
+        "content": "🚀 <b>QueryWeaver</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting natural language questions into SQL queries for easier database interaction.\n<br>\n✨ <b>Key Features:</b>\n• Text2SQL conversion\n• Graph-powered schema understanding\n• REST API\n• Model Context Protocol (MCP) support\n• Docker deployment\n<br>\n📖 <b>Summary:</b>\nQueryWeaver is an open-source Text2SQL tool that converts natural language questions into SQL queries using graph-powered schema understanding. It allows users to interact with databases using plain English, simplifying data retrieval and analysis by generating SQL queries and returning results.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/FalkorDB/QueryWeaver?embed=0\">View Project</a>\n• <a href=\"https://app.queryweaver.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1027340108/472d11da-9629-4cae-a826-3210a13ed34e",
+        "platform": "telegram",
+        "quality_score": 1.1000000000000003
+    },
+    {
+        "project_id": 164687666,
+        "content": "💡 <b>DotDotGoose</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManually counting objects in images to generate training data for computer vision models.\n<br>\n✨ <b>Key Features:</b>\n• Manual object counting in images\n• Data collection for training and validation of computer-assisted counting models\n• Cross-platform compatibility (developed on Ubuntu 22.04)\n• Executable download available for users who don't want to install from scratch\n<br>\n📖 <b>Summary:</b>\nDotDotGoose is a free, open-source Python tool designed to assist users in manually counting objects within images. It is particularly useful for generating training and validation data for computer-assisted counting applications, especially in fields like wildlife monitoring.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/persts/DotDotGoose?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fbc8810f6f84723d74d345c8d8f8d7a6a5422e97ca92fb801f81616c8045a214/persts/DotDotGoose",
+        "platform": "telegram",
+        "quality_score": 0.35
+    },
+    {
+        "project_id": 969547739,
+        "content": "💡 <b>sks-space-cli</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplified VPS management and project deployment.\n<br>\n✨ <b>Key Features:</b>\n• Automated SSH management\n• Project deployment via `rsync`\n• Server cleanup\n• Server monitoring\n• Project initialization\n<br>\n📖 <b>Summary:</b>\nThe `sks-space-cli` is a command-line tool designed to simplify VPS (Virtual Private Server) management. It automates tasks such as connecting to the server via SSH, setting up the environment, deploying projects (SPA, Node.js, static files), and performing cleanup operations, aiming to streamline the deployment process for developers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/s1mba121/sks-space-cli?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ae9c3e83b1c2f0979f75490775bc69e7b8812b7e7dc8bfd07fe71939cfd936bd/s1mba121/sks-space-cli",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
     }
 ]
