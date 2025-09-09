@@ -1,0 +1,7 @@
+{
+    "project_id": 1039587768,
+    "content": "💡 <b>osaurus</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning LLMs locally on Apple Silicon Macs for development, experimentation, and privacy-focused AI applications.\n<br>\n✨ <b>Key Features:</b>\n• Native MLX runtime optimized for Apple Silicon\n• OpenAI API compatible (/v1/models, /v1/chat/completions)\n• Ollama API compatible (/chat endpoint with NDJSON streaming)\n• Function/Tool calling (OpenAI-style)\n• Fast token streaming (Server-Sent Events)\n<br>\n📖 <b>Summary:</b>\nOsaurus is a native, Apple Silicon-only local LLM server, similar to Ollama. It leverages Apple's MLX framework for optimized performance on M-series chips. It features a SwiftUI app and a SwiftNIO server with OpenAI and Ollama-compatible endpoints, enabling local LLM inference and experimentation on macOS.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dinoki-ai/osaurus?embed=0\">View Project</a>\n• <a href=\"https://dinoki.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/feb53f72ab3170256f5226badc7376f63d1bb77f07950342191eb225a0e4e0f6/dinoki-ai/osaurus",
+    "platform": "telegram",
+    "quality_score": 0.9
+}
