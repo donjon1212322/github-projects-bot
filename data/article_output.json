@@ -1,26 +1,26 @@
 {
-    "title": "BlenderMCP: Unleash the Power of AI in Your 3D Modeling Workflow!",
-    "article": "Tired of spending hours painstakingly modeling 3D objects?  Imagine a world where you could simply describe your vision in natural language, and an AI would bring it to life in Blender. That's the promise of BlenderMCP, a groundbreaking project that connects Blender to Claude AI, opening up exciting new possibilities for 3D artists and developers. BlenderMCP uses the Model Context Protocol (MCP) to facilitate a seamless two-way conversation between Blender and Claude.  This means you can use natural language prompts to control almost every aspect of your 3D scene. Want to create a detailed spaceship?  Just describe it to Claude, and watch as Blender constructs it based on your instructions.  Need to modify the materials?  A simple prompt will update the textures and colors. The beauty of BlenderMCP lies in its simplicity.  It's designed to be user-friendly, even for developers who aren't AI experts.  The architecture is fairly straightforward: a Blender add-on acts as a bridge, communicating with a Python server that handles the interaction with Claude. This server implements the MCP protocol, ensuring efficient and reliable communication.  Installation is surprisingly smooth.  You'll need Blender 3.0 or newer, Python 3.10 or higher, and the uv package manager (easily installed via brew on Mac or PowerShell on Windows).  Once set up, you'll be amazed at how quickly you can start creating complex 3D models.  What truly sets BlenderMCP apart is its potential benefits for developers.  It drastically reduces the time and effort required for many common 3D modeling tasks, allowing you to focus on the creative aspects of your projects.  It also simplifies complex processes, making it easier to experiment and iterate on your designs.  The ability to directly control Blender through natural language opens up a whole new level of flexibility. Imagine generating 3D models based on text descriptions, using Claude's advanced capabilities to create intricate details and realistic textures. BlenderMCP supports various features including object manipulation, material control, and even code execution within Blender.  This means you can automate repetitive tasks, extend Blender's functionality with custom scripts, and seamlessly integrate AI into your workflow.  The project is actively developed and supported by a passionate community, ensuring that it continues to improve and evolve.  Join the Discord community to share your feedback, collaborate with other developers, and contribute to the project's growth. This isn't just about creating 3D models; it's about pushing the boundaries of what's possible with AI and 3D modeling.  It's about empowering creators with tools that were previously unimaginable.  If you're looking to revolutionize your 3D workflow and take your creations to the next level, BlenderMCP is a must-have tool.  Check it out today and start building the future of 3D modeling!",
+    "title": "Revolutionizing Data Handling with Hugging Face AI Sheets: No-Code AI for Everyone!",
+    "article": "Tired of wrestling with complex datasets and endless lines of code?  Get ready to say hello to Hugging Face AI Sheets, a game-changing open-source tool that's about to transform how you handle data.  Imagine a spreadsheet, but supercharged with the power of AI. That's essentially what AI Sheets brings to the table.  It lets you build, enrich, and transform datasets using AI models without writing a single line of code.  Seriously!  This isn't some magic trick; it's a robust, user-friendly interface that puts the power of AI directly into your hands. \n\nAI Sheets leverages the vast model library of the Hugging Face Hub. This means you have access to thousands of pre-trained AI models, ready to be used for tasks like text generation, translation, classification, and more.  Whether you need to clean up messy data, generate new data points, or transform your existing data into a more useful format, AI Sheets provides the tools you need.  Think of it as a powerful, AI-powered Swiss Army knife for your data. \n\nThe architecture is elegantly simple.  You interact with a spreadsheet-like interface, selecting the data you want to work with and choosing from a range of pre-built AI-powered actions.  The magic happens behind the scenes, with AI Sheets seamlessly integrating with the Hugging Face Hub to fetch and utilize the appropriate models.  No complex configurations or deep learning expertise required.  \n\nFor developers, the benefits are numerous.  First and foremost, it saves you a ton of time and effort.  The tedious tasks of data cleaning, transformation, and enrichment are automated, allowing you to focus on higher-level tasks and more creative aspects of your projects.  Secondly, it democratizes AI.  Even developers with limited AI experience can leverage the power of cutting-edge AI models to improve their workflows and build better applications.  Finally, it enhances collaboration.  The user-friendly interface makes it easy to share your work and collaborate with others, regardless of their technical expertise.\n\nAI Sheets offers several deployment options.  You can run it locally using Docker or pnpm, providing complete control over your environment.  Alternatively, you can utilize the convenient online space for quick experimentation and prototyping.  The flexibility to choose the deployment method best suited to your needs is a huge advantage.  Whether you're a seasoned data scientist or a beginner just starting to explore AI, AI Sheets provides an accessible and powerful way to harness the potential of AI for your data-related projects.  This is a project that truly democratizes access to AI and significantly simplifies data manipulation tasks.  It's intuitive, powerful, and completely changes the game for anyone working with data.",
     "key_takeaways": [
-        "Seamless integration of Claude AI with Blender for natural language 3D modeling.",
-        "Significant time savings and increased efficiency in 3D modeling workflows.",
-        "User-friendly design accessible even to developers without AI expertise.",
-        "Support for object manipulation, material control, and code execution within Blender.",
-        "Active development and a vibrant community for support and collaboration."
+        "No-code AI for data manipulation: Build, enrich, and transform datasets without writing code.",
+        "Access to thousands of pre-trained models: Leverage the power of Hugging Face's vast model library.",
+        "Flexible deployment options: Run locally (Docker, pnpm) or use the online space.",
+        "Time and effort savings: Automate tedious data tasks, freeing you to focus on higher-level work.",
+        "Democratization of AI: Empowers developers of all skill levels to utilize AI in their projects."
     ],
     "tags": [
-        "Blender",
         "AI",
-        "3D Modeling",
-        "Claude",
-        "MCP"
+        "No-Code",
+        "Data Processing",
+        "Hugging Face",
+        "Open Source"
     ],
-    "stars": 13386,
-    "forks": 1259,
-    "open_issues": 16,
-    "languages": "Python",
-    "readme_summary": "BlenderMCP integrates Blender with Claude AI using the Model Context Protocol (MCP), enabling AI-assisted 3D modeling, scene creation, and manipulation. It allows Claude to directly interact with and control Blender through a socket-based server, facilitating object manipulation, material control, scene inspection, and code execution within Blender.",
-    "project_id": 944414751,
-    "url": "https://github.com/ahujasid/blender-mcp",
-    "description": null
+    "stars": 1375,
+    "forks": 116,
+    "open_issues": 3,
+    "languages": "TypeScript",
+    "readme_summary": "AI Sheets is an open-source tool that allows users to build, enrich, and transform datasets using AI models without writing any code. It can be deployed locally or on the Hugging Face Hub, providing access to thousands of open models for data manipulation tasks.",
+    "project_id": 917782991,
+    "url": "https://github.com/huggingface/aisheets",
+    "description": "Build, enrich, and transform datasets using AI models with no code"
 }
