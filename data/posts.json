@@ -1,44 +1,44 @@
 [
     {
-        "project_id": 1019139384,
-        "content": "✨ <b>VisualStoryWriting</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAllowing users to write and edit stories by interacting with visual representations of the story's elements, such as characters, events, and timelines.\n<br>\n✨ <b>Key Features:</b>\n• Visualizing story events and character movements\n• Editing stories by manipulating visual representations\n<br>\n📖 <b>Summary:</b>\nThe Visual Story-Writing repository provides a system that automatically visualizes a story based on its chronological events, characters, actions, and movements. Users can then edit the story by manipulating these visual representations, with the system suggesting edits to the text based on these manipulations using GPT-4o.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/m-damien/VisualStoryWriting?embed=0\">View Project</a>\n• <a href=\"http://damienmasson.com/VisualStoryWriting/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/72a458419b132f7bf63dd75fe8f0b47a79e7d5f4a0d3c2827b9bb0446fbe9c50/m-damien/VisualStoryWriting",
+        "project_id": 834082440,
+        "content": "🔥 <b>camoufox</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nWeb scraping with anti-bot evasion and fingerprint spoofing.\n<br>\n✨ <b>Key Features:</b>\n• Invisible to anti-bot systems\n• Fingerprint injection & rotation (without JS injection)\n• Human-like mouse movement\n• Ad blocking & circumvention\n• Memory efficiency\n<br>\n📖 <b>Summary:</b>\nCamoufox is an open-source anti-detect browser based on Firefox, designed for web scraping and anti-bot evasion. It focuses on fingerprint injection and rotation at the C++ level, aiming to be undetectable by anti-bot systems and outperform commercial anti-bot browsers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/daijro/camoufox?embed=0\">View Project</a>\n• <a href=\"https://camoufox.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3224035a54453f1a9f979fe53c4e8080c7bb8dbeb49b2fd4df9cae91958056f6/daijro/camoufox",
         "platform": "telegram",
-        "quality_score": 0.4
+        "quality_score": 0.65
     },
     {
-        "project_id": 917782991,
-        "content": "💡 <b>aisheets</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding, enriching, and transforming datasets using AI models without code.\n<br>\n✨ <b>Key Features:</b>\n• No-code data building, enrichment, and transformation\n• Deployment on local machines or Hugging Face Hub\n• Access to thousands of open models via Inference Providers or local models\n• Integration with Hugging Face Jobs for large dataset generation\n• Support for custom LLMs via OpenAI API specification\n<br>\n📖 <b>Summary:</b>\nAI Sheets is an open-source tool that allows users to build, enrich, and transform datasets using AI models without writing any code. It can be deployed locally or on the Hugging Face Hub, providing access to thousands of open models for data manipulation tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/huggingface/aisheets?embed=0\">View Project</a>\n• <a href=\"https://huggingface.co/spaces/aisheets/sheets?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8a16737628699cbb5f38c4de08c91fcefc89d8fc4c9af38cc1a1a46205b3bf18/huggingface/aisheets",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1006172589,
-        "content": "✨ <b>openspot-music-app</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nStreaming and downloading music for free across multiple devices.\n<br>\n✨ <b>Key Features:</b>\n• Free music streaming\n• Cross-platform support (Android, iOS, Linux, macOS, Windows)\n• High-quality music playback\n• No ads\n• No login required\n<br>\n📖 <b>Summary:</b>\nOpenSpot Music is a free and open-source music streaming application designed for cross-platform use. It allows users to stream and download high-quality music without ads or login requirements, and it offers two applications: OpenSpot Mobile (React Native + Expo) for Android and iOS, and OpenSpot Desktop (Electron) for Linux, macOS, and Windows.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BlackHatDevX/openspot-music-app?embed=0\">View Project</a>\n• <a href=\"https://github.com/BlackHatDevX/openspot-music-app/releases?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1006172589/1d0ec561-487a-4b1d-9f02-82562c106481",
-        "platform": "telegram",
-        "quality_score": 0.8
-    },
-    {
-        "project_id": 1023406764,
-        "content": "🚀 <b>TrackWeight</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nMeasuring the weight of small objects using a MacBook's trackpad.\n<br>\n✨ <b>Key Features:</b>\n• Turns MacBook trackpad into a weighing scale\n• Utilizes Force Touch sensors\n• Requires finger contact for pressure readings\n• Uses Open Multi-Touch Support library for low-level access\n• Calibration process for accuracy\n<br>\n📖 <b>Summary:</b>\nTrackWeight is a macOS application that turns a MacBook's trackpad into a digital weighing scale by utilizing the Force Touch pressure sensors. It leverages a custom fork of the Open Multi-Touch Support library to access trackpad pressure data, allowing users to measure the weight of small objects.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/KrishKrosh/TrackWeight?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e3b50e8009e29c129fc5e58750e974e5508686841635855501bbb0d29af3021c/KrishKrosh/TrackWeight",
+        "project_id": 116322814,
+        "content": "🚀 <b>howdy</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPassword-free authentication on Linux systems using facial recognition.\n<br>\n✨ <b>Key Features:</b>\n• Facial recognition authentication\n• PAM integration\n• IR emitter and camera support\n• Package availability for Debian/Ubuntu, Arch Linux, Fedora, and openSUSE\n<br>\n📖 <b>Summary:</b>\nHowdy provides Windows Hello-style facial authentication for Linux systems. It leverages built-in IR emitters and cameras for facial recognition, enabling password-free authentication for login, screen lock, sudo, and other PAM-integrated functions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/boltgolt/howdy?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/116322814/14ef1700-65da-11e9-9ef0-e720d09a7731",
         "platform": "telegram",
         "quality_score": 0.7
     },
     {
-        "project_id": 383325254,
-        "content": "🌟 <b>MingCute</b> | CSS\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a set of icons for designers and developers to use in web and mobile projects.\n<br>\n✨ <b>Key Features:</b>\n• Simple and exquisite icon designs\n• Available in SVG, PNG, and webfont formats\n• 24x24 grid design with 2px stroke\n• Outline and filled styles\n• NPM package installation\n<br>\n📖 <b>Summary:</b>\nMingCute Icon is an open-source icon library offering simple and exquisite icons for web and mobile use. It provides icons in SVG, PNG, and webfont formats, designed within a 24x24 grid with both outline and filled styles. The library can be used directly from the website, installed as an npm package, or accessed via a Figma plugin.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Richard9394/MingCute?embed=0\">View Project</a>\n• <a href=\"https://www.mingcute.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/383325254/bf9e4e4a-c345-41f9-8096-779f377b8d58",
+        "project_id": 1030990993,
+        "content": "✨ <b>hexora</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nStatic analysis of Python code to identify potentially malicious or harmful patterns.\n<br>\n✨ <b>Key Features:</b>\n• Audit project dependencies for supply-chain attacks\n• Detect malicious scripts from various sources\n• Analyze IoC files from security incidents\n• Audit new packages uploaded to PyPi\n• Provides rule-based static analysis with configurable confidence levels\n<br>\n📖 <b>Summary:</b>\nHexora is a static analysis tool written in Rust designed to detect malicious patterns in Python code. It can be used to audit project dependencies, detect malicious scripts, analyze IoC files, and audit new PyPi packages.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rushter/hexora?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a8779a7bb176439bc8faf9366e6e8c770cb4cf4f08a4db9b5fcf16d2add9e7dc/rushter/hexora",
         "platform": "telegram",
-        "quality_score": 0.5
+        "quality_score": 0.65
     },
     {
-        "project_id": 552877440,
-        "content": "💡 <b>hyperswitch</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nOrchestrating and optimizing payment processing by providing modular components that can be integrated into existing payment stacks.\n<br>\n✨ <b>Key Features:</b>\n• Cost Observability\n• Revenue Recovery\n• Vault (PCI-compliant)\n• Intelligent Routing\n• Reconciliation\n<br>\n📖 <b>Summary:</b>\nHyperswitch is an open-source payments switch written in Rust. It provides a modular payments infrastructure, allowing businesses to select and integrate specific modules like cost observability, revenue recovery, vault, and intelligent routing to optimize their payment processing without vendor lock-in.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/juspay/hyperswitch?embed=0\">View Project</a>\n• <a href=\"https://hyperswitch.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/552877440/fd8b83bc-a093-4f7b-9e16-a0cd1f9f8572",
+        "project_id": 928102730,
+        "content": "🚀 <b>index-tts</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nVideo dubbing and other applications requiring strict audio-visual synchronization, as well as applications needing controllable emotional expression in synthesized speech.\n<br>\n✨ <b>Key Features:</b>\n• Precise speech duration control\n• Disentanglement of emotional expression and speaker identity\n• Zero-shot voice cloning\n• Emotional tone control via text descriptions\n• Improved speech clarity in emotional expressions\n<br>\n📖 <b>Summary:</b>\nIndexTTS2 is an autoregressive zero-shot text-to-speech system focused on controllable speech duration and emotional expression. It allows for precise control over the length of generated speech, independent control over timbre and emotion, and improved speech clarity in highly emotional expressions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/index-tts/index-tts?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f55436d1b150df8cb5be8b4a01c1712f98704977a9f9c6eeedfb71e46bf91b93/index-tts/index-tts",
         "platform": "telegram",
         "quality_score": 0.85
+    },
+    {
+        "project_id": 533087958,
+        "content": "🔥 <b>d2</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating diagrams from text descriptions for software architecture, system design, and other technical documentation purposes.\n<br>\n✨ <b>Key Features:</b>\n• Text-to-diagram conversion\n• Diagram scripting language\n• Multiple export file types (e.g., SVG)\n• Themes\n• Fonts\n<br>\n📖 <b>Summary:</b>\nD2 is a modern diagram scripting language that converts text descriptions into diagrams. It allows users to define diagrams using a text-based syntax and then renders them into various output formats like SVG. D2 aims to simplify the process of creating and maintaining diagrams, especially for software architecture and other technical documentation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/terrastruct/d2?embed=0\">View Project</a>\n• <a href=\"https://d2lang.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/533087958/9449b2c9-1509-476d-8d26-48d8c98380c3",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 362234372,
+        "content": "💡 <b>cariddi</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nWeb reconnaissance and security auditing to identify potential vulnerabilities and sensitive information exposure.\n<br>\n✨ <b>Key Features:</b>\n• Crawls domains for URLs\n• Scans for endpoints\n• Detects secrets and API keys\n• Identifies file extensions\n• Supports custom endpoint and secret files\n<br>\n📖 <b>Summary:</b>\nCariddi is a Go-based tool designed for comprehensive web reconnaissance. It crawls domains to discover URLs and scans them for sensitive information such as API keys, secrets, file extensions, and endpoints. It supports various installation methods and offers extensive scan customization options.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/edoardottt/cariddi?embed=0\">View Project</a>\n• <a href=\"https://edoardottt.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ca7043538ac689d2203347f25a80e493d60e30f7a977ebc79bed90a482aad0f6/edoardottt/cariddi",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
     }
 ]
