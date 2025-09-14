@@ -1,26 +1,26 @@
 {
-    "title": "Cariddi: Unleash the Power of Automated Web Reconnaissance!",
-    "article": "Hey fellow developers! Ever wished there was a tool that could automate the tedious process of web reconnaissance?  Imagine effortlessly scanning websites for hidden endpoints, sensitive secrets, and juicy files. Well, stop imagining because Cariddi is here! This amazing open-source project is a game-changer for security researchers, bug bounty hunters, and anyone involved in web application security. Cariddi takes a list of domains, crawls URLs, and meticulously scans for endpoints, secrets (like API keys and tokens), file extensions, and more.  It's like having a super-powered web spider that works tirelessly to uncover vulnerabilities.  Think of it as a Swiss Army knife for web security, packed with features to make your life easier.  The architecture is straightforward: you provide a list of target URLs (either individually or via a file), and Cariddi does the rest.  It uses efficient crawling techniques to explore websites and employs advanced pattern matching to identify potential security risks.  The results are presented in a clear, concise format, making it easy to pinpoint vulnerabilities.  One of the coolest features is its extensibility. You can customize your scans by specifying which file extensions to look for, or even define your own custom search patterns for secrets and endpoints.  Cariddi is incredibly versatile.  It supports various installation methods, including Homebrew, Snap, Golang, and even building from source.  This flexibility ensures you can easily integrate it into your existing workflow, regardless of your operating system or development environment.  Forget spending hours manually searching for vulnerabilities.  Cariddi automates this process, saving you valuable time and allowing you to focus on more complex tasks.  Whether you're a seasoned security expert or just starting out, Cariddi can significantly enhance your efficiency and effectiveness. It's also incredibly helpful for identifying potential security issues in your own applications, making it an invaluable asset for developers focused on building secure software.  The project is constantly evolving, with regular updates and improvements based on community feedback.  The documentation is comprehensive and easy to follow, making it simple to get up and running in minutes.  Cariddi is more than just a tool; it's a community-driven project that embodies the spirit of open-source collaboration. So, what are you waiting for?  Give Cariddi a try and experience the thrill of automated web reconnaissance!",
+    "title": "PyMax: Unleash the Power of Max Messenger with This Async Python Wrapper!",
+    "article": "Hey fellow developers! Ever wished you could automate tasks or build cool integrations with the Max messenger?  Well, hold onto your hats, because PyMax is here to revolutionize how you interact with this platform. This project is an asynchronous Python wrapper for the Max messenger's API, offering a clean and efficient way to send messages, manage chats, and much more, all without getting bogged down in low-level API details.  Imagine building bots, automating messages, or creating powerful analytics tools—all from the comfort of your Python environment. PyMax handles the heavy lifting, providing a user-friendly interface to interact with Max's API.  It's built with asyncio for speed and efficiency, making it perfect for applications that require real-time interaction.  The architecture is straightforward: PyMax establishes a WebSocket connection to the Max API, enabling seamless communication.  It handles authentication, message formatting, and error handling, abstracting away the complexities of the underlying API.  One of PyMax's standout features is its intuitive design.  Even if you're not an expert in Max's API, you can quickly get started with its well-documented functions and clear examples.  Need to send a message?  Just a single function call.  Want to manage chats?  PyMax provides easy-to-use methods for that too.  This saves you tons of development time, allowing you to focus on the core logic of your applications rather than wrestling with API intricacies.  Beyond the core functionality, PyMax also offers features such as handling incoming messages, retrieving message history, and working with various chat types (one-on-one, groups, channels).  It supports various message types, enabling you to send text, images, and potentially even custom payloads in the future.  The library is actively maintained and continuously improved, with regular updates and new features added based on community feedback.  The project is open-source, which means you can contribute, report issues, or even request new features.  It's all about community collaboration!  Overall, PyMax is a game-changer for developers looking to integrate with the Max messenger. Its ease of use, efficient architecture, and active development make it a must-have tool in your arsenal.  Give it a try and witness the power of seamless Max API integration in your Python projects!  The installation is straightforward using pip or uv, making it quick and easy to get started.  Comprehensive documentation and examples are also available to guide you every step of the way. Let's build amazing things together!",
     "key_takeaways": [
-        "Automates web reconnaissance, saving you valuable time.",
-        "Identifies hidden endpoints, secrets, and files.",
-        "Supports various installation methods and operating systems.",
-        "Highly customizable with options for custom search patterns.",
-        "Active community and ongoing development."
+        "Asynchronous Python wrapper for Max messenger API",
+        "Simplifies interaction with Max's API, saving development time",
+        "Supports sending, editing, deleting messages and managing chats, channels, and dialogs",
+        "Clean, intuitive design with comprehensive documentation",
+        "Active development, community support, and open-source nature"
     ],
     "tags": [
-        "web security",
-        "bug bounty",
-        "pentesting",
-        "Go",
-        "open source"
+        "Python",
+        "Max Messenger",
+        "API Wrapper",
+        "Asynchronous",
+        "WebSocket"
     ],
-    "stars": 2752,
-    "forks": 248,
-    "open_issues": 8,
-    "languages": "Go",
-    "readme_summary": "Cariddi is a Go-based tool designed for comprehensive web reconnaissance. It crawls domains to discover URLs and scans them for sensitive information such as API keys, secrets, file extensions, and endpoints. It supports various installation methods and offers extensive scan customization options.",
-    "project_id": 362234372,
-    "url": "https://github.com/edoardottt/cariddi",
-    "description": "Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more"
+    "stars": 17,
+    "forks": 3,
+    "open_issues": 0,
+    "languages": "Python",
+    "readme_summary": "PyMax is an asynchronous Python wrapper for the Max Messenger API, designed for userbot automation. It provides an interface for sending messages, managing chats, and accessing message history via WebSocket, enabling developers to automate tasks within the Max messaging platform.",
+    "project_id": 1041382729,
+    "url": "https://github.com/noxzion/PyMax",
+    "description": "Асинхронный Python-враппер для работы с внутренним API MAX Manager (Userbot). Упрощает автоматизацию и интеграцию."
 }
