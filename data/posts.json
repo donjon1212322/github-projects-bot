@@ -1,51 +1,51 @@
 [
     {
-        "project_id": 1046385861,
-        "content": "🔥 <b>gittype</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nImproving typing skills and code familiarity through gamified typing challenges using your own source code.\n<br>\n✨ <b>Key Features:</b>\n• Multi-language support\n• Real-time metrics (WPM, accuracy, consistency)\n• Ranking system with developer titles\n• Multiple game modes (Normal, Time Attack, custom difficulty)\n• Pause/resume functionality\n<br>\n📖 <b>Summary:</b>\nGitType is a CLI tool that turns your source code into typing challenges, allowing you to improve your typing skills while familiarizing yourself with your codebase. It supports multiple languages and offers real-time metrics, a ranking system, and various game modes to make code-typing practice engaging and productive.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/unhappychoice/gittype?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1046385861/5f25841f-a887-4d01-9b11-801c304d5aaa",
-        "platform": "telegram",
-        "quality_score": 0.95
-    },
-    {
-        "project_id": 1051869896,
-        "content": "🔥 <b>flint</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging KVM virtual machines with a focus on simplicity and efficiency.\n<br>\n✨ <b>Key Features:</b>\n• Modern Web UI (Next.js + Tailwind)\n• Single Binary (<11MB)\n• Powerful CLI & API\n• Cloud-Init Support\n• Snapshot-Based Templates\n<br>\n📖 <b>Summary:</b>\nFlint is a lightweight KVM management tool designed for developers, sysadmins, and home labs. It provides a modern web UI, CLI, and API for managing virtual machines, emphasizing ease of use and minimal bloat. It supports features like cloud-init, snapshot-based templates, and secure authentication.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ccheshirecat/flint?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1051869896/ad0c965b-19f2-4f39-b123-047325db7b69",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 29745084,
-        "content": "🔥 <b>leantime</b> | PHP\n<br>\n🎯 <b>Primary Use Case:</b>\nProject management for teams, especially those without dedicated project managers, focusing on ease of use and comprehensive feature set.\n<br>\n✨ <b>Key Features:</b>\n• Task management (Kanban, Gantt, table, list, calendar views)\n• Subtasks and dependencies\n• Milestone management\n• Sprint Management\n• Time tracking and timesheets\n<br>\n📖 <b>Summary:</b>\nLeantime is an open-source project management system designed for non-project managers, emphasizing ease of use and accessibility. It combines strategy, planning, and execution features, offering alternatives to tools like Trello, Jira, ClickUp, Monday, and Asana. It includes features for task management, project planning, knowledge management, and administration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Leantime/leantime?embed=0\">View Project</a>\n• <a href=\"https://leantime.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/29745084/2aa39f24-6897-42a5-8987-b5594933c010",
-        "platform": "telegram",
-        "quality_score": 1.1000000000000003
-    },
-    {
-        "project_id": 1039282306,
-        "content": "✨ <b>mobile-use</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating tasks on Android and iOS devices using natural language commands.\n<br>\n✨ <b>Key Features:</b>\n• Natural Language Control\n• UI-Aware Automation\n• Data Scraping\n• Extensible & Customizable\n<br>\n📖 <b>Summary:</b>\nMobile-use is an open-source AI agent that enables natural language control of Android and iOS devices. It allows users to automate tasks, navigate apps, and extract data using natural language commands, effectively bridging the gap between human intention and mobile device interaction.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/minitap-ai/mobile-use?embed=0\">View Project</a>\n• <a href=\"https://minitap.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6823d7883cb686b5a5acc0888bde3a9b533eb9a6a793e6d902abc46480cc5d4d/minitap-ai/mobile-use",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1038323680,
-        "content": "✨ <b>streamdown</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRendering streaming Markdown content, especially from AI models, in React applications.\n<br>\n✨ <b>Key Features:</b>\n• Drop-in replacement for `react-markdown`\n• Streaming-optimized\n• Unterminated block parsing\n• GitHub Flavored Markdown support\n• Math rendering (KaTeX)\n<br>\n📖 <b>Summary:</b>\nStreamdown is a TypeScript library that serves as a drop-in replacement for react-markdown, specifically designed for handling streaming Markdown content, particularly from AI models. It excels at gracefully formatting incomplete or unterminated Markdown blocks, making it suitable for real-time content generation and display.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vercel/streamdown?embed=0\">View Project</a>\n• <a href=\"https://streamdown.ai/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/12261373ac2844e93bad61b8893357bb9b59ad7f22476e8c5b6da092e0a5ed36/vercel/streamdown",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1040397982,
-        "content": "✨ <b>ccpm</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging Claude Code projects with parallel AI agent execution and full traceability using GitHub Issues and Git worktrees.\n<br>\n✨ <b>Key Features:</b>\n• Spec-driven development\n• GitHub Issues integration for task management\n• Git worktrees for parallel execution\n• Parallel AI agent execution\n• Persistent context across sessions\n<br>\n📖 <b>Summary:</b>\nThe ccpm repository provides a project management system tailored for Claude Code, leveraging GitHub Issues and Git worktrees to enable parallel agent execution. It aims to improve team collaboration, maintain context, and ensure traceability throughout the development process, from PRD creation to production code.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/automazeio/ccpm?embed=0\">View Project</a>\n• <a href=\"https://automaze.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/04d2225a53320116ec1f417255f2ee34b43f0b5b4e558be5832ee4f978dff6f8/automazeio/ccpm",
-        "platform": "telegram",
-        "quality_score": 0.9000000000000001
-    },
-    {
-        "project_id": 402229935,
-        "content": "💡 <b>vdu_controls</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nControlling external monitor settings (brightness, contrast, audio) and automating brightness adjustments based on ambient light conditions.\n<br>\n✨ <b>Key Features:</b>\n• Brightness and contrast control\n• Audio control\n• Ambient light-based automatic brightness control (hardware light meter integration)\n<br>\n📖 <b>Summary:</b>\nvdu_controls is a Python-based control panel for external monitors (VDUs) connected via DisplayPort, DVI, HDMI, or USB. It allows users to adjust brightness, contrast, and audio, and supports ambient light-based automatic brightness control using hardware light meters or solar-illumination estimation. The application can run in the system tray and adapts to light and dark Qt desktop themes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/digitaltrails/vdu_controls?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b17674ac82a8ebeccc36766fe98e0d8a0b3e4076af8363cd42cbf209578a7fe6/digitaltrails/vdu_controls",
+        "project_id": 1052645535,
+        "content": "🚀 <b>gacua</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating computer tasks such as gameplay assistance and software installation.\n<br>\n✨ <b>Key Features:</b>\n• Out-of-the-box computer use\n• High accuracy task execution\n• Step-by-step control & observability\n• Remote operation\n<br>\n📖 <b>Summary:</b>\nGACUA (Gemini CLI as Computer Use Agent) is an out-of-the-box computer use agent powered by Gemini CLI. It allows users to automate computer tasks with step-by-step control and observability, enabling remote operation and high accuracy task execution through an \"Image Slicing + Two-Step Grounding\" method.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/openmule/gacua?embed=0\">View Project</a>\n• <a href=\"https://blog.mulerun.com/p/gacua-a-free-and-open-source-computer-use-agent-for-developers/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/564b7594dfa243f10b8efe693300021462ab3008b6f80cbeac6e3a5dfda30c64/openmule/gacua",
         "platform": "telegram",
         "quality_score": 0.6499999999999999
+    },
+    {
+        "project_id": 1053061334,
+        "content": "🚀 <b>yapyap</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nVoice dictation and transcription for text input in Linux environments.\n<br>\n✨ <b>Key Features:</b>\n• Push-to-talk dictation\n• Transcription using whisper.cpp\n• Output to stdout\n• Customizable key combination\n• Model selection for transcription\n<br>\n📖 <b>Summary:</b>\nYapyap is a push-to-talk dictation tool that transcribes audio to text using whisper.cpp and outputs the transcription to stdout. It's primarily designed for Linux and allows users to record audio by holding down a key combination, which is then transcribed and can be piped to other commands for further processing, such as copying to the clipboard and pasting.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lxe/yapyap?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/36898d9bd76957a4f6023f5bb13b0acf38694ecafcb5e250bc510eb3c432097e/lxe/yapyap",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 1006184123,
+        "content": "✨ <b>Windows-Use</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating Windows tasks using AI agents and LLMs.\n<br>\n✨ <b>Key Features:</b>\n• Windows GUI automation\n• AI agent integration\n• Task automation (opening apps, clicking buttons, typing)\n• Shell command execution\n• UI state capture\n<br>\n📖 <b>Summary:</b>\nWindows-Use is a Python-based automation agent that allows AI agents to interact directly with the Windows GUI layer. It enables tasks like opening applications, clicking buttons, typing, and executing shell commands without relying on traditional computer vision models, making it suitable for LLMs to perform computer automation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/CursorTouch/Windows-Use?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/729e64ee7ce13b87de1e1ddfdbaebdc321e3e0a89316b45e025122da656e71fc/CursorTouch/Windows-Use",
+        "platform": "telegram",
+        "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 1047458606,
+        "content": "✨ <b>omarchist</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nVisual creation and editing of Omarchy themes.\n<br>\n✨ <b>Key Features:</b>\n• Theme Designer: Visual editor for creating and editing Omarchy themes\n<br>\n📖 <b>Summary:</b>\nOmarchist is a GUI application built with Tauri/Rust/Svelte for creating and editing themes for Omarchy. It provides a visual editor with color pickers and an intuitive interface to design, preview, and fine-tune themes, simplifying the customization process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tahayvr/omarchist?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1047458606/2c9b9207-5928-4fb3-9baa-3117afce57ba",
+        "platform": "telegram",
+        "quality_score": 0.65
+    },
+    {
+        "project_id": 683332044,
+        "content": "✨ <b>dbcls</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDatabase management and data analysis through a terminal interface.\n<br>\n✨ <b>Key Features:</b>\n• SQL query editing with syntax highlighting\n• Direct query execution from the editor\n• Data visualization with interactive tables\n• Support for multiple database engines (MySQL, PostgreSQL, ClickHouse)\n• Configuration via command line or config file\n<br>\n📖 <b>Summary:</b>\nDbCls is a terminal-based database client that combines SQL query editing with data visualization. It supports multiple database engines like MySQL, PostgreSQL, and ClickHouse, allowing users to execute queries, inspect table schemas, and visualize data using interactive tables.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Sets88/dbcls?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3e52af2389df39a85512695ca461a55fb5215ad41e37fd27157940296e308eeb/Sets88/dbcls",
+        "platform": "telegram",
+        "quality_score": 0.5
+    },
+    {
+        "project_id": 52420005,
+        "content": "🔥 <b>griddb</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nStoring, managing, and analyzing time series data from IoT devices and other big data sources with high performance and flexibility through NoSQL and SQL interfaces.\n<br>\n✨ <b>Key Features:</b>\n• NoSQL interface\n• SQL interface\n• Time series data support\n• IoT data management\n• Big data processing\n<br>\n📖 <b>Summary:</b>\nGridDB is a next-generation open-source database designed for time series, IoT, and big data applications. It offers both NoSQL and SQL interfaces, aiming for fast and easy data management. The repository includes server and Java client components, with additional JDBC driver support available in a separate repository.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/griddb/griddb?embed=0\">View Project</a>\n• <a href=\"https://griddb.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5fc99623c2cd4739f48df69e9d7288df7d010fa87bfe2a492c5fd2af67dfb9b5/griddb/griddb",
+        "platform": "telegram",
+        "quality_score": 0.7000000000000001
+    },
+    {
+        "project_id": 459739627,
+        "content": "🚀 <b>Replibyte</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSeeding development databases with anonymized production data.\n<br>\n✨ <b>Key Features:</b>\n• Support data dump and restore for PostgreSQL, MySQL and MongoDB\n• Analyze your data schema\n• Replace sensitive data with fake data\n• Works on large database (> 10GB)\n• Database Subsetting\n<br>\n📖 <b>Summary:</b>\nReplibyte is a tool designed to seed development databases with production data while ensuring sensitive information is protected. It supports data dumping and restoration for PostgreSQL, MySQL, and MongoDB, and includes features for data subsetting, on-the-fly compression/encryption, and custom data transformations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Qovery/Replibyte?embed=0\">View Project</a>\n• <a href=\"https://www.replibyte.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/459739627/6d24316e-c920-4073-9668-cb89e0802a7a",
+        "platform": "telegram",
+        "quality_score": 0.55
     }
 ]
