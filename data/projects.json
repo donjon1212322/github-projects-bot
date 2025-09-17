@@ -1,263 +1,210 @@
 [
     {
-        "id": 1052645535,
-        "name": "gacua",
-        "description": "The World's First Out-of-the-Box Computer Use Agent Powered by Gemini-CLI @openmule",
-        "url": "https://github.com/openmule/gacua",
-        "language": "TypeScript",
-        "stars": 53,
-        "forks": 6,
-        "created_at": "2025-09-08T10:52:49Z",
-        "updated_at": "2025-09-16T08:22:59Z",
+        "id": 597895841,
+        "name": "data-morph",
+        "description": "Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.",
+        "url": "https://github.com/stefmolin/data-morph",
+        "language": "Python",
+        "stars": 124,
+        "forks": 24,
+        "created_at": "2023-02-05T23:49:12Z",
+        "updated_at": "2025-09-17T06:51:53Z",
         "topics": [
-            "agent",
-            "ai",
-            "computer-use",
-            "gacua"
+            "animation",
+            "python",
+            "simulated-annealing",
+            "summary-statistics",
+            "summary-stats"
         ],
-        "quality_score": 0.6499999999999999,
+        "quality_score": 1.1000000000000003,
         "contributors_count": 0,
-        "last_commit_date": "2025-09-12T03:28:38Z",
+        "last_commit_date": "2025-09-01T18:26:34Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/564b7594dfa243f10b8efe693300021462ab3008b6f80cbeac6e3a5dfda30c64/openmule/gacua"
+            "https://opengraph.githubassets.com/a0adaf5b8008d69489a9032956f1084a0e08fd1ec91a232c1357fc884454bdae/stefmolin/data-morph"
         ],
-        "homepage": "https://blog.mulerun.com/p/gacua-a-free-and-open-source-computer-use-agent-for-developers/",
-        "readme_summary": "GACUA (Gemini CLI as Computer Use Agent) is an out-of-the-box computer use agent powered by Gemini CLI. It allows users to automate computer tasks with step-by-step control and observability, enabling remote operation and high accuracy task execution through an \"Image Slicing + Two-Step Grounding\" method.",
+        "homepage": "https://stefaniemolin.com/data-morph/",
+        "readme_summary": "The data-morph repository provides a tool to morph a dataset of 2D points into various shapes while preserving summary statistics using simulated annealing. It serves as a teaching aid to emphasize the significance of data visualization by demonstrating how datasets with similar summary statistics can appear vastly different when visualized.",
         "key_features": [
-            "Out-of-the-box computer use",
-            "High accuracy task execution",
-            "Step-by-step control & observability",
-            "Remote operation"
+            "Morphing 2D point datasets",
+            "Preserving summary statistics during transformation",
+            "Simulated annealing optimization",
+            "Educational tool for data visualization"
         ],
-        "primary_use_case": "Automating computer tasks such as gameplay assistance and software installation.",
-        "open_issues": 0,
-        "cover_image_prompt": "A skilled puppeteer controlling a computer screen with strings, guiding digital hands that interact with various applications. The puppeteer sits in a brightly lit control room filled with monitors displaying different software interfaces. The strings glow with a soft, blue light, representing the agent's control over the computer. Small UI elements float around the scene, subtly connecting the metaphor to software. The repository name, 'GACUA,' is subtly displayed on one of the monitors. The composition is clean and focused with a vibrant color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
+        "primary_use_case": "Illustrating the importance of data visualization in education.",
+        "open_issues": 6,
+        "cover_image_prompt": "A sculptor meticulously chiseling a block of raw data into a recognizable shape, like a star or a heart, while ghostly numbers representing summary statistics float around the sculpture, remaining constant throughout the process. The sculptor's tools glow with digital light, subtly displaying lines of Python code. The scene is set in a bright, modern art studio with large windows. Small screens display before-and-after data visualizations. The composition is clean and focused, using a pastel color scheme. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
     },
     {
-        "id": 1053061334,
-        "name": "yapyap",
-        "description": "fast and simple push to talk dictation",
-        "url": "https://github.com/lxe/yapyap",
-        "language": "Python",
-        "stars": 19,
+        "id": 1050594574,
+        "name": "sound-of-sort",
+        "description": "Sorting visualizer with image support and sonification",
+        "url": "https://github.com/sahaj-b/sound-of-sort",
+        "language": "Go",
+        "stars": 46,
         "forks": 0,
-        "created_at": "2025-09-09T00:02:10Z",
-        "updated_at": "2025-09-16T08:41:37Z",
+        "created_at": "2025-09-04T16:48:34Z",
+        "updated_at": "2025-09-15T15:58:44Z",
         "topics": [],
-        "quality_score": 0.44999999999999996,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-09T02:20:31Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/36898d9bd76957a4f6023f5bb13b0acf38694ecafcb5e250bc510eb3c432097e/lxe/yapyap"
-        ],
-        "homepage": null,
-        "readme_summary": "Yapyap is a push-to-talk dictation tool that transcribes audio to text using whisper.cpp and outputs the transcription to stdout. It's primarily designed for Linux and allows users to record audio by holding down a key combination, which is then transcribed and can be piped to other commands for further processing, such as copying to the clipboard and pasting.",
-        "key_features": [
-            "Push-to-talk dictation",
-            "Transcription using whisper.cpp",
-            "Output to stdout",
-            "Customizable key combination",
-            "Model selection for transcription",
-            "Linux support (with TODO for Mac and Windows)"
-        ],
-        "primary_use_case": "Voice dictation and transcription for text input in Linux environments.",
-        "open_issues": 0,
-        "cover_image_prompt": "An ancient scribe in a dimly lit study, rapidly transcribing spoken words into a digital document on a holographic screen. The scribe holds a microphone-shaped quill, capturing the voice of a disembodied speaker represented by glowing sound waves. The transcribed text flows directly from the screen to a waiting cursor on a futuristic text editor. Small code snippets related to speech recognition subtly float in the background. The scene is rendered in a 3D isometric illustration style with warm, inviting colors and a focus on clarity and detail."
-    },
-    {
-        "id": 1006184123,
-        "name": "Windows-Use",
-        "description": "🖥️Open-source Computer-Use for Windows",
-        "url": "https://github.com/CursorTouch/Windows-Use",
-        "language": "Python",
-        "stars": 821,
-        "forks": 93,
-        "created_at": "2025-06-21T17:20:41Z",
-        "updated_at": "2025-09-16T10:11:29Z",
-        "topics": [
-            "ai-agents",
-            "browser-automation",
-            "llm",
-            "windows-automation",
-            "windows-use"
-        ],
-        "quality_score": 0.7499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-16T05:25:22Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/729e64ee7ce13b87de1e1ddfdbaebdc321e3e0a89316b45e025122da656e71fc/CursorTouch/Windows-Use"
-        ],
-        "homepage": "",
-        "readme_summary": "Windows-Use is a Python-based automation agent that allows AI agents to interact directly with the Windows GUI layer. It enables tasks like opening applications, clicking buttons, typing, and executing shell commands without relying on traditional computer vision models, making it suitable for LLMs to perform computer automation.",
-        "key_features": [
-            "Windows GUI automation",
-            "AI agent integration",
-            "Task automation (opening apps, clicking buttons, typing)",
-            "Shell command execution",
-            "UI state capture",
-            "LLM integration"
-        ],
-        "primary_use_case": "Automating Windows tasks using AI agents and LLMs.",
-        "open_issues": 5,
-        "cover_image_prompt": "A skilled puppeteer controlling a giant Windows desktop environment with strings attached to various application windows and UI elements. The puppeteer is an AI agent represented by a glowing brain-shaped interface. The desktop displays common applications like a browser, text editor, and command prompt, all responding to the puppeteer's commands. Subtle code snippets and data visualizations float around the scene, connecting the metaphor to software. The scene is set in a futuristic control room with dramatic lighting. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 1047458606,
-        "name": "omarchist",
-        "description": "A GUI app for Omarchy. ",
-        "url": "https://github.com/tahayvr/omarchist",
-        "language": "Rust",
-        "stars": 286,
-        "forks": 14,
-        "created_at": "2025-08-30T13:18:31Z",
-        "updated_at": "2025-09-16T07:35:55Z",
-        "topics": [],
-        "quality_score": 0.65,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-14T10:18:58Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/1047458606/2c9b9207-5928-4fb3-9baa-3117afce57ba"
-        ],
-        "homepage": null,
-        "readme_summary": "Omarchist is a GUI application built with Tauri/Rust/Svelte for creating and editing themes for Omarchy. It provides a visual editor with color pickers and an intuitive interface to design, preview, and fine-tune themes, simplifying the customization process.",
-        "key_features": [
-            "Theme Designer: Visual editor for creating and editing Omarchy themes"
-        ],
-        "primary_use_case": "Visual creation and editing of Omarchy themes.",
-        "open_issues": 2,
-        "cover_image_prompt": "An artist in a brightly lit studio uses a digital palette to paint vibrant color schemes onto a minimalist cityscape model. The artist selects colors using a sophisticated color picker UI displayed on a large monitor. The cityscape changes in real-time to reflect the chosen colors. Small screens around the studio show code snippets and configuration files. The repository name, 'Omarchist,' is subtly displayed on the artist's tablet. The scene is set in a modern, airy studio with natural light. The image should be in 3D isometric illustration style with clean lines and vibrant colors."
-    },
-    {
-        "id": 683332044,
-        "name": "dbcls",
-        "description": "DbCls is a powerful terminal database client that supports various databases",
-        "url": "https://github.com/Sets88/dbcls",
-        "language": "Python",
-        "stars": 25,
-        "forks": 2,
-        "created_at": "2023-08-26T08:15:13Z",
-        "updated_at": "2025-09-16T08:34:50Z",
-        "topics": [
-            "clickhouse",
-            "clickhouse-client",
-            "datagrip",
-            "db",
-            "dbeaver",
-            "mysql",
-            "postgres",
-            "psql"
-        ],
-        "quality_score": 0.5,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-30T06:29:22Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/3e52af2389df39a85512695ca461a55fb5215ad41e37fd27157940296e308eeb/Sets88/dbcls"
-        ],
-        "homepage": "",
-        "readme_summary": "DbCls is a terminal-based database client that combines SQL query editing with data visualization. It supports multiple database engines like MySQL, PostgreSQL, and ClickHouse, allowing users to execute queries, inspect table schemas, and visualize data using interactive tables.",
-        "key_features": [
-            "SQL query editing with syntax highlighting",
-            "Direct query execution from the editor",
-            "Data visualization with interactive tables",
-            "Support for multiple database engines (MySQL, PostgreSQL, ClickHouse)",
-            "Configuration via command line or config file",
-            "Table schema inspection",
-            "Database and table browsing",
-            "Query history and file-based query storage"
-        ],
-        "primary_use_case": "Database management and data analysis through a terminal interface.",
-        "open_issues": 0,
-        "cover_image_prompt": "A skilled artisan sitting at a workbench, meticulously crafting a gemstone from rough data crystals. The artisan uses specialized tools to shape and polish the crystals, revealing intricate patterns and facets within. A holographic display shows SQL queries transforming into these beautiful data gems. The workbench is surrounded by shelves filled with different types of data crystals, each representing a database. The scene is set in a brightly lit workshop with a clean, organized aesthetic. Small UI elements show database connections and query results. The image should be in 3D isometric illustration style with vibrant colors and sharp details."
-    },
-    {
-        "id": 52420005,
-        "name": "griddb",
-        "description": "GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.",
-        "url": "https://github.com/griddb/griddb",
-        "language": "C++",
-        "stars": 2449,
-        "forks": 5038,
-        "created_at": "2016-02-24T06:31:40Z",
-        "updated_at": "2025-09-16T09:41:12Z",
-        "topics": [
-            "bigdata",
-            "database",
-            "fast",
-            "griddb",
-            "iot",
-            "newsql",
-            "nosql",
-            "sql",
-            "time-series",
-            "timeseries"
-        ],
-        "quality_score": 0.7000000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-06-16T02:29:36Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/5fc99623c2cd4739f48df69e9d7288df7d010fa87bfe2a492c5fd2af67dfb9b5/griddb/griddb"
-        ],
-        "homepage": "https://griddb.org/",
-        "readme_summary": "GridDB is a next-generation open-source database designed for time series, IoT, and big data applications. It offers both NoSQL and SQL interfaces, aiming for fast and easy data management. The repository includes server and Java client components, with additional JDBC driver support available in a separate repository.",
-        "key_features": [
-            "NoSQL interface",
-            "SQL interface",
-            "Time series data support",
-            "IoT data management",
-            "Big data processing",
-            "Java client",
-            "JDBC driver (separate repository)"
-        ],
-        "primary_use_case": "Storing, managing, and analyzing time series data from IoT devices and other big data sources with high performance and flexibility through NoSQL and SQL interfaces.",
-        "open_issues": 43,
-        "cover_image_prompt": "A clockmaker meticulously crafting a giant clockwork heart that pulses with streams of data flowing in and out. The heart represents the GridDB database, efficiently managing the flow of time-series data. Tiny robots representing IoT devices feed data streams into the heart, while analysts extract insights via SQL interfaces displayed on holographic screens nearby. Subtle digital elements like glowing data particles and code snippets enhance the scene. The composition is clean and focused, with a blue and green color scheme. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 459739627,
-        "name": "Replibyte",
-        "description": "Seed your development database with real data ⚡️",
-        "url": "https://github.com/Qovery/Replibyte",
-        "language": "Rust",
-        "stars": 4305,
-        "forks": 134,
-        "created_at": "2022-02-15T20:31:25Z",
-        "updated_at": "2025-09-16T09:27:22Z",
-        "topics": [
-            "aws",
-            "backup",
-            "cloud",
-            "cloudnative",
-            "database",
-            "mongodb",
-            "mysql",
-            "postgres",
-            "postgresql",
-            "rust",
-            "rust-lang",
-            "s3"
-        ],
         "quality_score": 0.55,
         "contributors_count": 0,
-        "last_commit_date": "2024-05-04T05:42:24Z",
+        "last_commit_date": "2025-09-13T07:54:08Z",
         "media_urls": [
-            "https://repository-images.githubusercontent.com/459739627/6d24316e-c920-4073-9668-cb89e0802a7a"
+            "https://opengraph.githubassets.com/94348562fa0d1dbc59641ec462c4587f8dc796ca0c2fd38554bc443a18defbfb/sahaj-b/sound-of-sort"
         ],
-        "homepage": "https://www.replibyte.com",
-        "readme_summary": "Replibyte is a tool designed to seed development databases with production data while ensuring sensitive information is protected. It supports data dumping and restoration for PostgreSQL, MySQL, and MongoDB, and includes features for data subsetting, on-the-fly compression/encryption, and custom data transformations.",
+        "homepage": "",
+        "readme_summary": "The sound-of-sort repository is a Go-based terminal application that visualizes and sonifies various sorting algorithms. It renders the sorting process as a bar graph in the terminal and plays a tone for each element access or modification, with the pitch corresponding to the element's value. It also supports sorting ASCII/Unicode art piped via stdin, offering an image mode.",
         "key_features": [
-            "Support data dump and restore for PostgreSQL, MySQL and MongoDB",
-            "Analyze your data schema",
-            "Replace sensitive data with fake data",
-            "Works on large database (> 10GB)",
-            "Database Subsetting",
-            "Start a local database with the production data in a single command",
-            "On-the-fly data (de)compression (Zlib)",
-            "On-the-fly data de/encryption (AES-256)",
-            "Fully stateless and lightweight binary",
-            "Use custom transformers"
+            "Real-time Visualization of sorting algorithms as a bar graph",
+            "Sonification of array element access and modification",
+            "Interactive control of algorithms, speed, volume, and array size",
+            "Image Mode for sorting ASCII/Unicode art",
+            "Variety of sorting algorithms implemented"
         ],
-        "primary_use_case": "Seeding development databases with anonymized production data.",
-        "open_issues": 104,
-        "cover_image_prompt": "A gardener carefully transplanting fully grown trees (production data) into a miniature garden (development database). The gardener wears gloves that automatically blur out certain parts of the trees (sensitive data). Small screens display database schemas and transformation rules. The scene is set in a bright, airy greenhouse with a subtle digital overlay. The repository name, 'Replibyte', is subtly etched into a garden tool. The composition is clean and focused, with a pastel color scheme. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+        "primary_use_case": "Visualizing and sonifying sorting algorithms for educational or demonstrative purposes, and creatively sorting images represented as ASCII/Unicode art.",
+        "open_issues": 1,
+        "cover_image_prompt": "Imagine a skilled musician conducting an orchestra where each instrument represents a data element in an array. As the conductor sorts the instruments (data), the notes they play change in pitch and order, creating a symphony of sorting. A large screen behind the orchestra displays a bar graph that visually represents the sorting process in real-time. Subtle digital elements, like glowing data streams flowing between the instruments and the screen, connect the metaphor to software. The scene is set in a modern concert hall with dynamic lighting that emphasizes the key actions. The image should be in a 3D isometric illustration style with vibrant colors and rich details."
+    },
+    {
+        "id": 907754163,
+        "name": "airweave",
+        "description": "Airweave lets agents search any app",
+        "url": "https://github.com/airweave-ai/airweave",
+        "language": "Python",
+        "stars": 2887,
+        "forks": 368,
+        "created_at": "2024-12-24T10:00:06Z",
+        "updated_at": "2025-09-17T09:20:33Z",
+        "topics": [
+            "agents",
+            "knowledge-graph",
+            "llm",
+            "llm-agent",
+            "rag",
+            "search",
+            "search-agent",
+            "vector-database"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-09-16T17:15:14Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/b50e573ec317f541a87fcb7c78c9a31497c8c0ac23219fc7cd9e9532dceb0854/airweave-ai/airweave"
+        ],
+        "homepage": "https://airweave.ai",
+        "readme_summary": "Airweave is a tool that enables agents to search across various applications by transforming their content into searchable knowledge bases. It provides a standardized interface accessible through REST API or MCP, handling auth, extraction, embedding, and serving. Airweave essentially builds a semantically searchable MCP server.",
+        "key_features": [
+            "Connects to apps, productivity tools, databases, or document stores",
+            "Transforms content into searchable knowledge bases",
+            "Provides a standardized interface for agents",
+            "Exposes search interface via REST API or MCP",
+            "Handles auth, extraction, embedding, and serving"
+        ],
+        "primary_use_case": "Enabling agents to search any app by creating searchable knowledge bases from app content.",
+        "open_issues": 3,
+        "cover_image_prompt": "A librarian meticulously organizing a vast collection of digital documents from various app icons (Gmail, Asana, Github) into a glowing, interconnected knowledge graph. The librarian uses a special lens to categorize and link the documents, making them easily searchable. A small robot assistant helps by fetching and embedding new documents. UI elements showing search queries and results float around the scene. The setting is a futuristic library with soft, ambient lighting. The image should be in 3D isometric illustration style with clean lines and vibrant colors."
+    },
+    {
+        "id": 750678695,
+        "name": "WeClone",
+        "description": "🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  ",
+        "url": "https://github.com/xming521/WeClone",
+        "language": "Python",
+        "stars": 15505,
+        "forks": 1223,
+        "created_at": "2024-01-31T05:11:12Z",
+        "updated_at": "2025-09-17T10:00:32Z",
+        "topics": [
+            "chat-history",
+            "digital-avatar",
+            "llm",
+            "qwen",
+            "telegram"
+        ],
+        "quality_score": 1.1000000000000003,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-27T13:31:46Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/750678695/7d2a5592-c303-4db4-a76d-4360a2751138"
+        ],
+        "homepage": "https://weclone.love",
+        "readme_summary": "WeClone is a one-stop solution for creating digital avatars from chat history. It allows users to fine-tune LLMs with their chat logs to capture their unique style and then bind the model to a chatbot to bring their digital self to life. The project supports multiple platforms like Telegram and aims to provide a secure and controllable way to create personalized digital representations.",
+        "key_features": [
+            "Complete end-to-end solution for creating digital avatars",
+            "Fine-tune LLM using chat history with support for image modal data",
+            "Integrate with Telegram, WhatsApp (coming soon) to create your own digital avatar",
+            "Privacy information filtering with localized fine-tuning and deployment for secure and controllable data"
+        ],
+        "primary_use_case": "Creating digital avatars from chat history by fine-tuning LLMs.",
+        "open_issues": 35,
+        "cover_image_prompt": "A skilled artisan meticulously crafting a digital puppet from threads of chat bubbles, each bubble containing snippets of conversations. The artisan uses a magical loom that weaves these threads into a lifelike avatar. Small screens display training progress and code snippets, subtly connecting the craft to software. The scene is set in a bright, airy workshop filled with digital tools and glowing interfaces. The composition is clean and focused, with a vibrant color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 730932260,
+        "name": "torchtitan",
+        "description": "A PyTorch native platform for training generative AI models",
+        "url": "https://github.com/pytorch/torchtitan",
+        "language": "Python",
+        "stars": 4399,
+        "forks": 518,
+        "created_at": "2023-12-13T01:51:37Z",
+        "updated_at": "2025-09-17T09:46:40Z",
+        "topics": [],
+        "quality_score": 0.95,
+        "contributors_count": 0,
+        "last_commit_date": "2025-09-16T20:19:29Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/becaee5a8f316d09a9aab4521dfabd3d94b5032d3ee37ff4501a0b813836ac17/pytorch/torchtitan"
+        ],
+        "homepage": "",
+        "readme_summary": "Torchtitan is a PyTorch-native platform designed for rapid experimentation and large-scale training of generative AI models. It provides a flexible foundation for developers to build upon, showcasing PyTorch's latest distributed training features, particularly for pretraining large language models like Llama 3.1.",
+        "key_features": [
+            "PyTorch native implementation",
+            "Rapid experimentation",
+            "Large-scale training",
+            "Support for generative AI models",
+            "Extension points for customization",
+            "Showcasing PyTorch's distributed training features",
+            "Support for Llama 3.1 LLMs",
+            "Minimal changes to model code for parallelism",
+            "Clean and minimal codebase"
+        ],
+        "primary_use_case": "Training generative AI models at scale using PyTorch.",
+        "open_issues": 111,
+        "cover_image_prompt": "A team of architects constructing a colossal AI brain from glowing PyTorch code blocks, using blueprints labeled 'Generative Models'. The brain sits atop a powerful server farm, with data streams flowing in and out. One architect holds a 'torchtitan' branded hammer, carefully placing a crucial code block. Small UI elements display training metrics and model architectures. The scene is set in a futuristic workshop with bright, optimistic lighting. The image should be in 3D isometric illustration style with clean lines, vibrant colors, and a focus on clarity."
+    },
+    {
+        "id": 841511741,
+        "name": "D-FINE",
+        "description": "D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement  [ICLR 2025 Spotlight]",
+        "url": "https://github.com/Peterande/D-FINE",
+        "language": "Python",
+        "stars": 2686,
+        "forks": 249,
+        "created_at": "2024-08-12T14:52:39Z",
+        "updated_at": "2025-09-17T06:55:18Z",
+        "topics": [
+            "d-fine",
+            "detr",
+            "object-detection"
+        ],
+        "quality_score": 0.8500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-09T14:33:56Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/2e662875dc396215dc655579fdadc9ee74c4d0696c47694e6064ad44bed5a5a0/Peterande/D-FINE"
+        ],
+        "homepage": "",
+        "readme_summary": "D-FINE is a real-time object detection model that refines bounding box regression in DETRs (Detection Transformers) using Fine-grained Distribution Refinement (FDR). It also introduces Global Optimal Localization Self-Distillation (GO-LSD) to improve performance without increasing inference or training costs. The model excels in challenging conditions, such as backlighting and motion blur, demonstrating high confidence scores and precise localization, especially for small objects.",
+        "key_features": [
+            "Fine-grained Distribution Refinement (FDR)",
+            "Global Optimal Localization Self-Distillation (GO-LSD)",
+            "Real-time object detection",
+            "High performance without additional inference/training costs",
+            "Improved localization precision",
+            "Robustness to challenging conditions (backlighting, motion blur)"
+        ],
+        "primary_use_case": "Real-time object detection, particularly in scenarios requiring high precision and robustness to challenging visual conditions.",
+        "open_issues": 147,
+        "cover_image_prompt": "Imagine a skilled artisan meticulously refining a blurry photograph into a sharp, detailed image using a set of specialized lenses and tools. The artisan represents D-FINE, and the blurry photo symbolizes the initial object detection. As the artisan works, the image becomes increasingly clear, revealing subtle details. Small UI elements displaying object detection bounding boxes and confidence scores subtly overlay the scene. The setting is a brightly lit workshop with a clean, focused composition. The image should be in a 3D isometric illustration style with vibrant colors and rich details."
     }
 ]

@@ -1,26 +1,26 @@
 {
-    "title": "Revolutionizing Windows Automation with Windows-Use: Talk to Your Computer!",
-    "article": "Tired of repetitive Windows tasks slowing you down?  Imagine a world where you could instruct your computer to perform actions simply by typing commands.  Windows-Use makes this a reality! This innovative GitHub project acts as a powerful automation agent, directly interacting with the Windows GUI layer. Unlike traditional methods that rely on image recognition (computer vision), Windows-Use offers a more robust and reliable approach.  It bridges the gap between AI agents and the Windows operating system, allowing you to automate tasks such as opening applications, clicking buttons, typing text, executing shell commands, and capturing UI states.  Think of it as giving your LLM superpowers to directly control your Windows machine.  The architecture is elegantly simple:  Windows-Use uses a Python library to interface directly with Windows system calls, bypassing the need for complex image processing.  This means greater speed, accuracy, and efficiency.  Installation is a breeze, requiring only Python 3.12 or higher and a simple `pip install windows-use` command.  The project provides clear and concise examples demonstrating how to integrate Windows-Use with popular LLMs like Gemini, enabling you to create sophisticated automation workflows.  Imagine building an AI assistant that can manage your emails, schedule appointments, or even play your favorite games—all without writing complex scripts or relying on unreliable screen-scraping techniques.  What really sets Windows-Use apart is its ability to handle complex user interfaces with ease.  It's not just about clicking buttons; it's about understanding and interacting with the entire Windows ecosystem. This opens up a world of possibilities for developers looking to build innovative and efficient applications. The project is actively maintained and welcomes contributions from the community, fostering a collaborative environment for improvement and expansion.  Beyond the technical aspects, the project is also well-documented, with clear examples and tutorials to guide you through the process. The MIT license ensures flexibility and ease of use for both personal and commercial applications. This is a game-changer for anyone working with Windows automation, offering a fresh, efficient, and reliable approach to interacting with the operating system.  The developers have also provided several demos showcasing its capabilities, further highlighting its potential.",
+    "title": "Data Morph: Visualize Your Data Like Never Before!",
+    "article": "Ever wished you could magically transform your datasets into visually appealing shapes while keeping the key stats intact?  Meet Data Morph, a Python library that does just that!  Imagine turning a scatter plot of complex data points into a sleek star, a circle, or any shape you desire – all without losing the essence of your original data.  This isn't just about aesthetics; it's about making data more accessible and understandable.\n\nData Morph uses a clever technique called simulated annealing.  Think of it like carefully reshaping a lump of clay: you're gradually adjusting the positions of your data points to fit the desired shape, but you're constantly monitoring the overall statistical properties (like mean, standard deviation, etc.).  The algorithm ensures these statistics remain consistent, up to a certain number of decimal places, throughout the transformation. This guarantees that your visualization doesn't misrepresent your data.\n\nThe project is incredibly versatile.  You can apply it to various datasets, transforming them into different shapes to suit your needs. Want to show a correlation between two variables in an elegant circle? Data Morph can handle it. Need to present complex multidimensional data in a simplified, visually intuitive way?  Data Morph can do that too.  The library is designed with simplicity in mind. The core functionality is wrapped in a user-friendly interface, making it easy to integrate into your existing workflows.\n\nFor developers, the benefits are clear.  First, it enhances data visualization. You can create engaging and informative visuals to communicate your findings more effectively, whether you're preparing a presentation, writing a report, or simply exploring your data. Second, it simplifies complex data.  Transforming data into simpler shapes can reveal hidden patterns and relationships that might be obscured in a raw scatter plot.  Third, it's easily integrable. Data Morph is a Python library, making it compatible with a wide range of existing tools and workflows. This eliminates the need to learn a new system or migrate your data.\n\nBeyond its practical applications, Data Morph is also a fantastic educational tool.  It helps illustrate the importance of data visualization and the trade-offs involved in simplifying complex information.  The project comes with detailed documentation and examples, making it easy to learn and use, even for those new to data visualization or simulated annealing.  The project's open-source nature encourages collaboration and community contributions, making it an excellent resource for learning and development.",
     "key_takeaways": [
-        "Directly interacts with the Windows GUI layer for precise automation.",
-        "Avoids unreliable computer vision methods for improved accuracy.",
-        "Easy installation and integration with popular LLMs.",
-        "Enables building sophisticated AI assistants for various tasks.",
-        "Actively maintained and welcomes community contributions."
+        "Transforms datasets into various shapes (circles, stars, etc.) while preserving key statistics.",
+        "Uses simulated annealing for a smooth and controlled transformation process.",
+        "Enhances data visualization for clearer communication and easier understanding.",
+        "Simplifies complex data, revealing hidden patterns and relationships.",
+        "Easy to integrate into existing Python workflows; well-documented and open-source."
     ],
     "tags": [
-        "Windows automation",
-        "AI agent",
-        "GUI interaction",
-        "LLM integration",
-        "Python"
+        "data visualization",
+        "python",
+        "simulated annealing",
+        "data transformation",
+        "open source"
     ],
-    "stars": 821,
-    "forks": 93,
-    "open_issues": 5,
+    "stars": 124,
+    "forks": 24,
+    "open_issues": 6,
     "languages": "Python",
-    "readme_summary": "Windows-Use is a Python-based automation agent that allows AI agents to interact directly with the Windows GUI layer. It enables tasks like opening applications, clicking buttons, typing, and executing shell commands without relying on traditional computer vision models, making it suitable for LLMs to perform computer automation.",
-    "project_id": 1006184123,
-    "url": "https://github.com/CursorTouch/Windows-Use",
-    "description": "🖥️Open-source Computer-Use for Windows"
+    "readme_summary": "The data-morph repository provides a tool to morph a dataset of 2D points into various shapes while preserving summary statistics using simulated annealing. It serves as a teaching aid to emphasize the significance of data visualization by demonstrating how datasets with similar summary statistics can appear vastly different when visualized.",
+    "project_id": 597895841,
+    "url": "https://github.com/stefmolin/data-morph",
+    "description": "Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization."
 }
