@@ -1,210 +1,283 @@
 [
     {
-        "id": 597895841,
-        "name": "data-morph",
-        "description": "Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.",
-        "url": "https://github.com/stefmolin/data-morph",
+        "id": 206660580,
+        "name": "detectron2",
+        "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+        "url": "https://github.com/facebookresearch/detectron2",
         "language": "Python",
-        "stars": 124,
-        "forks": 24,
-        "created_at": "2023-02-05T23:49:12Z",
-        "updated_at": "2025-09-17T06:51:53Z",
-        "topics": [
-            "animation",
-            "python",
-            "simulated-annealing",
-            "summary-statistics",
-            "summary-stats"
-        ],
-        "quality_score": 1.1000000000000003,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-01T18:26:34Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/a0adaf5b8008d69489a9032956f1084a0e08fd1ec91a232c1357fc884454bdae/stefmolin/data-morph"
-        ],
-        "homepage": "https://stefaniemolin.com/data-morph/",
-        "readme_summary": "The data-morph repository provides a tool to morph a dataset of 2D points into various shapes while preserving summary statistics using simulated annealing. It serves as a teaching aid to emphasize the significance of data visualization by demonstrating how datasets with similar summary statistics can appear vastly different when visualized.",
-        "key_features": [
-            "Morphing 2D point datasets",
-            "Preserving summary statistics during transformation",
-            "Simulated annealing optimization",
-            "Educational tool for data visualization"
-        ],
-        "primary_use_case": "Illustrating the importance of data visualization in education.",
-        "open_issues": 6,
-        "cover_image_prompt": "A sculptor meticulously chiseling a block of raw data into a recognizable shape, like a star or a heart, while ghostly numbers representing summary statistics float around the sculpture, remaining constant throughout the process. The sculptor's tools glow with digital light, subtly displaying lines of Python code. The scene is set in a bright, modern art studio with large windows. Small screens display before-and-after data visualizations. The composition is clean and focused, using a pastel color scheme. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 1050594574,
-        "name": "sound-of-sort",
-        "description": "Sorting visualizer with image support and sonification",
-        "url": "https://github.com/sahaj-b/sound-of-sort",
-        "language": "Go",
-        "stars": 46,
-        "forks": 0,
-        "created_at": "2025-09-04T16:48:34Z",
-        "updated_at": "2025-09-15T15:58:44Z",
-        "topics": [],
-        "quality_score": 0.55,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-13T07:54:08Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/94348562fa0d1dbc59641ec462c4587f8dc796ca0c2fd38554bc443a18defbfb/sahaj-b/sound-of-sort"
-        ],
-        "homepage": "",
-        "readme_summary": "The sound-of-sort repository is a Go-based terminal application that visualizes and sonifies various sorting algorithms. It renders the sorting process as a bar graph in the terminal and plays a tone for each element access or modification, with the pitch corresponding to the element's value. It also supports sorting ASCII/Unicode art piped via stdin, offering an image mode.",
-        "key_features": [
-            "Real-time Visualization of sorting algorithms as a bar graph",
-            "Sonification of array element access and modification",
-            "Interactive control of algorithms, speed, volume, and array size",
-            "Image Mode for sorting ASCII/Unicode art",
-            "Variety of sorting algorithms implemented"
-        ],
-        "primary_use_case": "Visualizing and sonifying sorting algorithms for educational or demonstrative purposes, and creatively sorting images represented as ASCII/Unicode art.",
-        "open_issues": 1,
-        "cover_image_prompt": "Imagine a skilled musician conducting an orchestra where each instrument represents a data element in an array. As the conductor sorts the instruments (data), the notes they play change in pitch and order, creating a symphony of sorting. A large screen behind the orchestra displays a bar graph that visually represents the sorting process in real-time. Subtle digital elements, like glowing data streams flowing between the instruments and the screen, connect the metaphor to software. The scene is set in a modern concert hall with dynamic lighting that emphasizes the key actions. The image should be in a 3D isometric illustration style with vibrant colors and rich details."
-    },
-    {
-        "id": 907754163,
-        "name": "airweave",
-        "description": "Airweave lets agents search any app",
-        "url": "https://github.com/airweave-ai/airweave",
-        "language": "Python",
-        "stars": 2887,
-        "forks": 368,
-        "created_at": "2024-12-24T10:00:06Z",
-        "updated_at": "2025-09-17T09:20:33Z",
-        "topics": [
-            "agents",
-            "knowledge-graph",
-            "llm",
-            "llm-agent",
-            "rag",
-            "search",
-            "search-agent",
-            "vector-database"
-        ],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-16T17:15:14Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/b50e573ec317f541a87fcb7c78c9a31497c8c0ac23219fc7cd9e9532dceb0854/airweave-ai/airweave"
-        ],
-        "homepage": "https://airweave.ai",
-        "readme_summary": "Airweave is a tool that enables agents to search across various applications by transforming their content into searchable knowledge bases. It provides a standardized interface accessible through REST API or MCP, handling auth, extraction, embedding, and serving. Airweave essentially builds a semantically searchable MCP server.",
-        "key_features": [
-            "Connects to apps, productivity tools, databases, or document stores",
-            "Transforms content into searchable knowledge bases",
-            "Provides a standardized interface for agents",
-            "Exposes search interface via REST API or MCP",
-            "Handles auth, extraction, embedding, and serving"
-        ],
-        "primary_use_case": "Enabling agents to search any app by creating searchable knowledge bases from app content.",
-        "open_issues": 3,
-        "cover_image_prompt": "A librarian meticulously organizing a vast collection of digital documents from various app icons (Gmail, Asana, Github) into a glowing, interconnected knowledge graph. The librarian uses a special lens to categorize and link the documents, making them easily searchable. A small robot assistant helps by fetching and embedding new documents. UI elements showing search queries and results float around the scene. The setting is a futuristic library with soft, ambient lighting. The image should be in 3D isometric illustration style with clean lines and vibrant colors."
-    },
-    {
-        "id": 750678695,
-        "name": "WeClone",
-        "description": "🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  ",
-        "url": "https://github.com/xming521/WeClone",
-        "language": "Python",
-        "stars": 15505,
-        "forks": 1223,
-        "created_at": "2024-01-31T05:11:12Z",
-        "updated_at": "2025-09-17T10:00:32Z",
-        "topics": [
-            "chat-history",
-            "digital-avatar",
-            "llm",
-            "qwen",
-            "telegram"
-        ],
-        "quality_score": 1.1000000000000003,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-27T13:31:46Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/750678695/7d2a5592-c303-4db4-a76d-4360a2751138"
-        ],
-        "homepage": "https://weclone.love",
-        "readme_summary": "WeClone is a one-stop solution for creating digital avatars from chat history. It allows users to fine-tune LLMs with their chat logs to capture their unique style and then bind the model to a chatbot to bring their digital self to life. The project supports multiple platforms like Telegram and aims to provide a secure and controllable way to create personalized digital representations.",
-        "key_features": [
-            "Complete end-to-end solution for creating digital avatars",
-            "Fine-tune LLM using chat history with support for image modal data",
-            "Integrate with Telegram, WhatsApp (coming soon) to create your own digital avatar",
-            "Privacy information filtering with localized fine-tuning and deployment for secure and controllable data"
-        ],
-        "primary_use_case": "Creating digital avatars from chat history by fine-tuning LLMs.",
-        "open_issues": 35,
-        "cover_image_prompt": "A skilled artisan meticulously crafting a digital puppet from threads of chat bubbles, each bubble containing snippets of conversations. The artisan uses a magical loom that weaves these threads into a lifelike avatar. Small screens display training progress and code snippets, subtly connecting the craft to software. The scene is set in a bright, airy workshop filled with digital tools and glowing interfaces. The composition is clean and focused, with a vibrant color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 730932260,
-        "name": "torchtitan",
-        "description": "A PyTorch native platform for training generative AI models",
-        "url": "https://github.com/pytorch/torchtitan",
-        "language": "Python",
-        "stars": 4399,
-        "forks": 518,
-        "created_at": "2023-12-13T01:51:37Z",
-        "updated_at": "2025-09-17T09:46:40Z",
+        "stars": 33085,
+        "forks": 7801,
+        "created_at": "2019-09-05T21:30:20Z",
+        "updated_at": "2025-09-18T10:09:03Z",
         "topics": [],
         "quality_score": 0.95,
         "contributors_count": 0,
-        "last_commit_date": "2025-09-16T20:19:29Z",
+        "last_commit_date": "2025-08-27T22:42:21Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/becaee5a8f316d09a9aab4521dfabd3d94b5032d3ee37ff4501a0b813836ac17/pytorch/torchtitan"
+            "https://opengraph.githubassets.com/53cc6080f5f43e638dfac9797f9e15872175c59465552672c359c7707453c179/facebookresearch/detectron2"
         ],
-        "homepage": "",
-        "readme_summary": "Torchtitan is a PyTorch-native platform designed for rapid experimentation and large-scale training of generative AI models. It provides a flexible foundation for developers to build upon, showcasing PyTorch's latest distributed training features, particularly for pretraining large language models like Llama 3.1.",
+        "homepage": "https://detectron2.readthedocs.io/en/latest/",
+        "readme_summary": "Detectron2 is a next-generation library from Facebook AI Research for object detection, segmentation, and other visual recognition tasks. It serves as a platform for computer vision research and production applications, offering state-of-the-art algorithms and capabilities such as panoptic segmentation and rotated bounding boxes.",
         "key_features": [
-            "PyTorch native implementation",
-            "Rapid experimentation",
-            "Large-scale training",
-            "Support for generative AI models",
-            "Extension points for customization",
-            "Showcasing PyTorch's distributed training features",
-            "Support for Llama 3.1 LLMs",
-            "Minimal changes to model code for parallelism",
-            "Clean and minimal codebase"
+            "Panoptic segmentation",
+            "Densepose",
+            "Cascade R-CNN",
+            "Rotated bounding boxes",
+            "PointRend",
+            "DeepLab",
+            "ViTDet",
+            "MViTv2",
+            "Model export to TorchScript or Caffe2",
+            "Faster training"
         ],
-        "primary_use_case": "Training generative AI models at scale using PyTorch.",
-        "open_issues": 111,
-        "cover_image_prompt": "A team of architects constructing a colossal AI brain from glowing PyTorch code blocks, using blueprints labeled 'Generative Models'. The brain sits atop a powerful server farm, with data streams flowing in and out. One architect holds a 'torchtitan' branded hammer, carefully placing a crucial code block. Small UI elements display training metrics and model architectures. The scene is set in a futuristic workshop with bright, optimistic lighting. The image should be in 3D isometric illustration style with clean lines, vibrant colors, and a focus on clarity."
+        "primary_use_case": "Object detection and segmentation research and production.",
+        "open_issues": 469,
+        "cover_image_prompt": "A skilled cartographer meticulously tracing the outlines of various objects within a vibrant, bustling cityscape using a specialized digital pen. The pen emits glowing particles that form precise bounding boxes and segmentation masks around buildings, vehicles, and people. A holographic display shows the underlying code and algorithms that power the object detection process. The scene is set in a futuristic workshop with soft, diffused lighting. The composition is clean and focused with a blue and orange color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
     },
     {
-        "id": 841511741,
-        "name": "D-FINE",
-        "description": "D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement  [ICLR 2025 Spotlight]",
-        "url": "https://github.com/Peterande/D-FINE",
+        "id": 262296122,
+        "name": "PaddleOCR",
+        "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.",
+        "url": "https://github.com/PaddlePaddle/PaddleOCR",
         "language": "Python",
-        "stars": 2686,
-        "forks": 249,
-        "created_at": "2024-08-12T14:52:39Z",
-        "updated_at": "2025-09-17T06:55:18Z",
+        "stars": 54513,
+        "forks": 8654,
+        "created_at": "2020-05-08T10:38:16Z",
+        "updated_at": "2025-09-18T10:05:00Z",
         "topics": [
-            "d-fine",
-            "detr",
-            "object-detection"
+            "ai4science",
+            "chineseocr",
+            "document-parsing",
+            "document-translation",
+            "kie",
+            "ocr",
+            "pdf-extractor-rag",
+            "pdf-parser",
+            "pdf2markdown",
+            "pp-ocr",
+            "pp-structure",
+            "rag"
         ],
-        "quality_score": 0.8500000000000001,
+        "quality_score": 1.1000000000000003,
         "contributors_count": 0,
-        "last_commit_date": "2025-07-09T14:33:56Z",
+        "last_commit_date": "2025-09-16T02:10:19Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/2e662875dc396215dc655579fdadc9ee74c4d0696c47694e6064ad44bed5a5a0/Peterande/D-FINE"
+            "https://opengraph.githubassets.com/6b50ceea1af66b1748015b58642dec89626e3fac233e6666858dfba76af1b934/PaddlePaddle/PaddleOCR"
+        ],
+        "homepage": "https://www.paddleocr.ai",
+        "readme_summary": "PaddleOCR is a production-ready OCR and document AI engine that converts documents and images into structured, AI-friendly data like JSON and Markdown. It supports over 80 languages and offers end-to-end solutions for text extraction and intelligent document understanding, making it suitable for various AI applications.",
+        "key_features": [
+            "PP-OCRv5 for universal scene text recognition",
+            "PP-StructureV3 for complex document parsing",
+            "Support for 80+ languages",
+            "Industry-leading accuracy",
+            "End-to-end solutions from text extraction to document understanding"
+        ],
+        "primary_use_case": "Converting documents and images into structured data for AI applications.",
+        "open_issues": 137,
+        "cover_image_prompt": "An archaeologist in a brightly lit tent, carefully brushing sand off an ancient stone tablet covered in various scripts. As they brush, the scripts magically transform into neatly organized digital text on a holographic screen beside them. The screen displays JSON and Markdown outputs. Subtle UI elements and code snippets float around the scene. The tent is filled with tools and artifacts. The composition is focused and clean, using a warm color scheme. The image should be in a detailed digital painting style with clear outlines and a sense of discovery."
+    },
+    {
+        "id": 762378215,
+        "name": "brush",
+        "description": "3D Reconstruction for all",
+        "url": "https://github.com/ArthurBrussee/brush",
+        "language": "Rust",
+        "stars": 2575,
+        "forks": 113,
+        "created_at": "2024-02-23T16:50:13Z",
+        "updated_at": "2025-09-18T09:28:18Z",
+        "topics": [
+            "gaussian-splatting",
+            "graphics",
+            "reconstruction"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-09-17T10:58:50Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/e7ed995665f9b52ddddc81f0c67ab130044020fee65cfbdbc65dada65244760e/ArthurBrussee/brush"
         ],
         "homepage": "",
-        "readme_summary": "D-FINE is a real-time object detection model that refines bounding box regression in DETRs (Detection Transformers) using Fine-grained Distribution Refinement (FDR). It also introduces Global Optimal Localization Self-Distillation (GO-LSD) to improve performance without increasing inference or training costs. The model excels in challenging conditions, such as backlighting and motion blur, demonstrating high confidence scores and precise localization, especially for small objects.",
+        "readme_summary": "Brush is a 3D reconstruction engine leveraging Gaussian splatting, designed for broad compatibility across macOS, Windows, Linux, Android, and web browsers. It utilizes WebGPU and the Burn machine learning framework to enable real-time rendering and interactive training on diverse platforms, producing dependency-free binaries.",
         "key_features": [
-            "Fine-grained Distribution Refinement (FDR)",
-            "Global Optimal Localization Self-Distillation (GO-LSD)",
-            "Real-time object detection",
-            "High performance without additional inference/training costs",
-            "Improved localization precision",
-            "Robustness to challenging conditions (backlighting, motion blur)"
+            "Training with COLMAP and Nerfstudio data",
+            "Interactive training with live scene interaction",
+            "Masking image support",
+            "Splat viewer for .ply and .compressed.ply files",
+            "Animation support via .zip and delta frame .ply files",
+            "CLI interface",
+            "Rerun integration for visualization",
+            "WebAssembly compilation for browser support"
         ],
-        "primary_use_case": "Real-time object detection, particularly in scenarios requiring high precision and robustness to challenging visual conditions.",
-        "open_issues": 147,
-        "cover_image_prompt": "Imagine a skilled artisan meticulously refining a blurry photograph into a sharp, detailed image using a set of specialized lenses and tools. The artisan represents D-FINE, and the blurry photo symbolizes the initial object detection. As the artisan works, the image becomes increasingly clear, revealing subtle details. Small UI elements displaying object detection bounding boxes and confidence scores subtly overlay the scene. The setting is a brightly lit workshop with a clean, focused composition. The image should be in a 3D isometric illustration style with vibrant colors and rich details."
+        "primary_use_case": "3D reconstruction and rendering using Gaussian splatting across multiple platforms.",
+        "open_issues": 31,
+        "cover_image_prompt": "An artist sculpting a 3D landscape from scattered digital particles, using a brush that emits glowing Gaussian splats. The landscape morphs from raw data points into a detailed, vibrant scene. A small UI element displays real-time rendering progress and training metrics. The artist's workspace is filled with subtle tech elements like code snippets and data visualizations. The repository name, 'Brush,' is subtly etched into the handle of the brush. The scene is brightly lit and set in a modern studio. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 793722147,
+        "name": "X-Gif-Maker",
+        "description": "Quickly generate gifs from your videos for X (twitter)",
+        "url": "https://github.com/bigasdev/X-Gif-Maker",
+        "language": "C++",
+        "stars": 64,
+        "forks": 1,
+        "created_at": "2024-04-29T18:41:23Z",
+        "updated_at": "2025-09-18T06:31:43Z",
+        "topics": [
+            "converter",
+            "ffmpeg",
+            "ffmpeg-gui",
+            "gif",
+            "video",
+            "video2gif"
+        ],
+        "quality_score": 0.25,
+        "contributors_count": 0,
+        "last_commit_date": "2024-05-27T18:20:31Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/b5a62f5a85e7aa3ceb8ae81c810a3a40c890cfff8cdaf37257e5b33432bf8216/bigasdev/X-Gif-Maker"
+        ],
+        "homepage": "https://bigasdev.net/?tab=home",
+        "readme_summary": "X-Gif-Maker is a C++ tool for quickly converting videos into GIFs, optimized for sharing on platforms like X (Twitter). It provides a user-friendly interface with options to adjust GIF quality and width, utilizes multithreading for performance, and includes shortcut keys for efficient operation.",
+        "key_features": [
+            "Drag and drop video to GIF conversion",
+            "Adjustable GIF quality and width",
+            "Shortcut keys for quick actions",
+            "Multithreading for responsiveness",
+            "Pixel-art UI"
+        ],
+        "primary_use_case": "Creating GIFs from video files for social media sharing, particularly on X (Twitter).",
+        "open_issues": 0,
+        "cover_image_prompt": "Imagine a skilled artisan meticulously crafting a mosaic from video reels, each piece fitting perfectly to form a vibrant, animated GIF. The artisan uses specialized tools to carefully cut and arrange the video segments, adjusting the colors and speed to achieve the desired effect. A digital screen displays the final GIF, ready to be shared. The workshop is filled with glowing particles representing data streams, and the repository name is subtly etched onto a tool. The scene is bathed in warm, inviting light. The image should be in a 3D isometric illustration style with rich details and a harmonious color palette."
+    },
+    {
+        "id": 39315600,
+        "name": "Iosevka",
+        "description": "Versatile typeface for code, from code.",
+        "url": "https://github.com/be5invis/Iosevka",
+        "language": "JavaScript",
+        "stars": 20791,
+        "forks": 623,
+        "created_at": "2015-07-18T23:10:59Z",
+        "updated_at": "2025-09-18T07:11:51Z",
+        "topics": [
+            "font",
+            "iosevka",
+            "ligatures",
+            "monospace-font",
+            "opentype-features",
+            "programming-font",
+            "programming-ligatures",
+            "typeface"
+        ],
+        "quality_score": 0.7499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-09-13T10:31:01Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/4d4d8f064ca64cc636ea1d225199dff38c30de0fae5aaee066eb2bd7a88414ee/be5invis/Iosevka"
+        ],
+        "homepage": "http://be5invis.github.io/Iosevka",
+        "readme_summary": "Iosevka is an open-source typeface family designed for coding, terminal use, and technical documentation. It offers both sans-serif and slab-serif styles, available in monospace and quasi-proportional variants, catering to diverse preferences and use cases.",
+        "key_features": [
+            "Monospace and quasi-proportional options",
+            "Sans-serif and slab-serif styles",
+            "Multiple spacings (Default, Term, Fixed)",
+            "Installation via GitHub Releases and package managers",
+            "OpenType features and ligatures (implied by 'programming-ligatures' topic)"
+        ],
+        "primary_use_case": "Writing code, using in terminals, and preparing technical documents.",
+        "open_issues": 96,
+        "cover_image_prompt": "A skilled calligrapher meticulously crafting letters on a digital drafting table, each character glowing with subtle code-like patterns. The letters seamlessly transition into clean, readable text on nearby screens, showcasing the font's versatility for both code and documents. The drafting table is surrounded by shelves filled with books and coding manuals, subtly hinting at the font's intended use. Small UI elements display font metrics and kerning adjustments. The scene is bathed in soft, diffused light, creating a focused and professional atmosphere. The image should be in a 3D isometric illustration style with a clean, modern aesthetic."
+    },
+    {
+        "id": 617136332,
+        "name": "airunner",
+        "description": "Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows",
+        "url": "https://github.com/Capsize-Games/airunner",
+        "language": "Python",
+        "stars": 1232,
+        "forks": 97,
+        "created_at": "2023-03-21T19:14:03Z",
+        "updated_at": "2025-09-18T03:18:19Z",
+        "topics": [
+            "ai",
+            "ai-art",
+            "art",
+            "asset-generator",
+            "chatbot",
+            "deep-learning",
+            "desktop-app",
+            "image-generation",
+            "mistral",
+            "multimodal",
+            "privacy",
+            "pygame",
+            "pyside6",
+            "python",
+            "self-hosted",
+            "speech-to-text",
+            "stable-diffusion",
+            "text-to-image",
+            "text-to-speech",
+            "text-to-speech-app"
+        ],
+        "quality_score": 1.0000000000000002,
+        "contributors_count": 0,
+        "last_commit_date": "2025-09-09T13:58:52Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/16bf8abc6da6c234906cf25f3934b861ae5e02f4bcc549dddf96c3b5bb6d85ca/Capsize-Games/airunner"
+        ],
+        "homepage": "https://discord.gg/ukcgjEpc5f",
+        "readme_summary": "Airunner is a self-hosted, offline inference engine designed for various AI applications. It supports real-time voice conversations, LLM-powered chatbots, automated workflows, and AI art generation, emphasizing privacy and local processing.",
+        "key_features": [
+            "Real-time conversations with multiple speech engines and auto language detection",
+            "Customizable AI Agents with RAG for personalized interactions",
+            "Enhanced Knowledge Retrieval using local data",
+            "Image Generation & Manipulation with Stable Diffusion and various tools",
+            "Multi-lingual Capabilities for TTS, STT, and GUI",
+            "Privacy and Security through local operation and customizable guardrails",
+            "Performance & Utility with GPU acceleration, theming, and extension API"
+        ],
+        "primary_use_case": "Offline AI inference for art generation, voice conversations, chatbots, and automated workflows with a focus on privacy.",
+        "open_issues": 18,
+        "cover_image_prompt": "A skilled artisan in a cozy workshop, crafting a digital golem from raw data streams. The artisan uses various tools, including a voice synthesizer, a text prompt interface, and an image editor, to shape the golem's personality and abilities. The golem stands animated, ready to assist. Small screens display code snippets and AI parameters. The workshop is filled with glowing particles representing data and creativity. The scene is set in a warmly lit, organized studio. The composition is focused and inviting with a balanced color scheme. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 140680839,
+        "name": "git-bug",
+        "description": "Distributed, offline-first bug tracker embedded in git",
+        "url": "https://github.com/git-bug/git-bug",
+        "language": "Go",
+        "stars": 9497,
+        "forks": 289,
+        "created_at": "2018-07-12T07:55:57Z",
+        "updated_at": "2025-09-18T05:52:58Z",
+        "topics": [
+            "bugtracker",
+            "decentralized-application",
+            "distributed-systems",
+            "git",
+            "gitdb"
+        ],
+        "quality_score": 0.95,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-30T18:16:19Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/140680839/98c44d00-69a6-11e9-9a1c-a6265bc3bcd9"
+        ],
+        "homepage": "",
+        "readme_summary": "git-bug is a distributed, offline-first issue management tool embedded directly within a git repository. It allows users to manage issues, comments, and other related data as git objects, enabling decentralized collaboration and offline access to issue tracking information.",
+        "key_features": [
+            "Native Git Storage",
+            "Distributed & Versioned",
+            "Lightning Fast",
+            "Third-Party Bridges",
+            "Flexible Interfaces",
+            "Effortless Integration"
+        ],
+        "primary_use_case": "Decentralized, offline-first issue tracking integrated into git repositories.",
+        "open_issues": 132,
+        "cover_image_prompt": "A cartographer meticulously drawing a map of a vast, uncharted territory, using a compass that resembles the Git logo. The territory represents a software project, and the map symbolizes the issue tracker, with pins marking bugs and features. The cartographer's desk is surrounded by stacks of Git books and glowing screens displaying code snippets. Digital threads connect the pins on the map, forming a network of issues. The scene is set in a cozy, well-lit study with a vintage aesthetic. The image should be in a detailed digital painting style with warm colors and a sense of adventure."
     }
 ]

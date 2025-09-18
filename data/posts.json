@@ -1,44 +1,51 @@
 [
     {
-        "project_id": 597895841,
-        "content": "🌟 <b>data-morph</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nIllustrating the importance of data visualization in education.\n<br>\n✨ <b>Key Features:</b>\n• Morphing 2D point datasets\n• Preserving summary statistics during transformation\n• Simulated annealing optimization\n• Educational tool for data visualization\n<br>\n📖 <b>Summary:</b>\nThe data-morph repository provides a tool to morph a dataset of 2D points into various shapes while preserving summary statistics using simulated annealing. It serves as a teaching aid to emphasize the significance of data visualization by demonstrating how datasets with similar summary statistics can appear vastly different when visualized.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/stefmolin/data-morph?embed=0\">View Project</a>\n• <a href=\"https://stefaniemolin.com/data-morph/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a0adaf5b8008d69489a9032956f1084a0e08fd1ec91a232c1357fc884454bdae/stefmolin/data-morph",
-        "platform": "telegram",
-        "quality_score": 1.1000000000000003
-    },
-    {
-        "project_id": 1050594574,
-        "content": "🚀 <b>sound-of-sort</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nVisualizing and sonifying sorting algorithms for educational or demonstrative purposes, and creatively sorting images represented as ASCII/Unicode art.\n<br>\n✨ <b>Key Features:</b>\n• Real-time Visualization of sorting algorithms as a bar graph\n• Sonification of array element access and modification\n• Interactive control of algorithms, speed, volume, and array size\n<br>\n📖 <b>Summary:</b>\nThe sound-of-sort repository is a Go-based terminal application that visualizes and sonifies various sorting algorithms. It renders the sorting process as a bar graph in the terminal and plays a tone for each element access or modification, with the pitch corresponding to the element's value. It also supports sorting ASCII/Unicode art piped via stdin, offering an image mode.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sahaj-b/sound-of-sort?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/94348562fa0d1dbc59641ec462c4587f8dc796ca0c2fd38554bc443a18defbfb/sahaj-b/sound-of-sort",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 907754163,
-        "content": "💡 <b>airweave</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling agents to search any app by creating searchable knowledge bases from app content.\n<br>\n✨ <b>Key Features:</b>\n• Connects to apps, productivity tools, databases, or document stores\n• Transforms content into searchable knowledge bases\n• Provides a standardized interface for agents\n• Exposes search interface via REST API or MCP\n<br>\n📖 <b>Summary:</b>\nAirweave is a tool that enables agents to search across various applications by transforming their content into searchable knowledge bases. It provides a standardized interface accessible through REST API or MCP, handling auth, extraction, embedding, and serving. Airweave essentially builds a semantically searchable MCP server.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/airweave-ai/airweave?embed=0\">View Project</a>\n• <a href=\"https://airweave.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b50e573ec317f541a87fcb7c78c9a31497c8c0ac23219fc7cd9e9532dceb0854/airweave-ai/airweave",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 750678695,
-        "content": "✨ <b>WeClone</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating digital avatars from chat history by fine-tuning LLMs.\n<br>\n✨ <b>Key Features:</b>\n• Complete end-to-end solution for creating digital avatars\n• Fine-tune LLM using chat history with support for image modal data\n• Integrate with Telegram, WhatsApp (coming soon) to create your own digital avatar\n<br>\n📖 <b>Summary:</b>\nWeClone is a one-stop solution for creating digital avatars from chat history. It allows users to fine-tune LLMs with their chat logs to capture their unique style and then bind the model to a chatbot to bring their digital self to life. The project supports multiple platforms like Telegram and aims to provide a secure and controllable way to create personalized digital representations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/xming521/WeClone?embed=0\">View Project</a>\n• <a href=\"https://weclone.love?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/750678695/7d2a5592-c303-4db4-a76d-4360a2751138",
-        "platform": "telegram",
-        "quality_score": 1.1000000000000003
-    },
-    {
-        "project_id": 730932260,
-        "content": "🌟 <b>torchtitan</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTraining generative AI models at scale using PyTorch.\n<br>\n✨ <b>Key Features:</b>\n• PyTorch native implementation\n• Rapid experimentation\n• Large-scale training\n• Support for generative AI models\n• Extension points for customization\n<br>\n📖 <b>Summary:</b>\nTorchtitan is a PyTorch-native platform designed for rapid experimentation and large-scale training of generative AI models. It provides a flexible foundation for developers to build upon, showcasing PyTorch's latest distributed training features, particularly for pretraining large language models like Llama 3.1.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pytorch/torchtitan?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/becaee5a8f316d09a9aab4521dfabd3d94b5032d3ee37ff4501a0b813836ac17/pytorch/torchtitan",
+        "project_id": 206660580,
+        "content": "🔥 <b>detectron2</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nObject detection and segmentation research and production.\n<br>\n✨ <b>Key Features:</b>\n• Panoptic segmentation\n• Densepose\n• Cascade R-CNN\n• Rotated bounding boxes\n• PointRend\n<br>\n📖 <b>Summary:</b>\nDetectron2 is a next-generation library from Facebook AI Research for object detection, segmentation, and other visual recognition tasks. It serves as a platform for computer vision research and production applications, offering state-of-the-art algorithms and capabilities such as panoptic segmentation and rotated bounding boxes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/facebookresearch/detectron2?embed=0\">View Project</a>\n• <a href=\"https://detectron2.readthedocs.io/en/latest/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/53cc6080f5f43e638dfac9797f9e15872175c59465552672c359c7707453c179/facebookresearch/detectron2",
         "platform": "telegram",
         "quality_score": 0.95
     },
     {
-        "project_id": 841511741,
-        "content": "✨ <b>D-FINE</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time object detection, particularly in scenarios requiring high precision and robustness to challenging visual conditions.\n<br>\n✨ <b>Key Features:</b>\n• Fine-grained Distribution Refinement (FDR)\n• Global Optimal Localization Self-Distillation (GO-LSD)\n• Real-time object detection\n<br>\n📖 <b>Summary:</b>\nD-FINE is a real-time object detection model that refines bounding box regression in DETRs (Detection Transformers) using Fine-grained Distribution Refinement (FDR). It also introduces Global Optimal Localization Self-Distillation (GO-LSD) to improve performance without increasing inference or training costs. The model excels in challenging conditions, such as backlighting and motion blur, demonstrating high confidence scores and precise localization, especially for small objects.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Peterande/D-FINE?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2e662875dc396215dc655579fdadc9ee74c4d0696c47694e6064ad44bed5a5a0/Peterande/D-FINE",
+        "project_id": 262296122,
+        "content": "🌟 <b>PaddleOCR</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting documents and images into structured data for AI applications.\n<br>\n✨ <b>Key Features:</b>\n• PP-OCRv5 for universal scene text recognition\n• PP-StructureV3 for complex document parsing\n• Support for 80+ languages\n• Industry-leading accuracy\n• End-to-end solutions from text extraction to document understanding\n<br>\n📖 <b>Summary:</b>\nPaddleOCR is a production-ready OCR and document AI engine that converts documents and images into structured, AI-friendly data like JSON and Markdown. It supports over 80 languages and offers end-to-end solutions for text extraction and intelligent document understanding, making it suitable for various AI applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/PaddlePaddle/PaddleOCR?embed=0\">View Project</a>\n• <a href=\"https://www.paddleocr.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6b50ceea1af66b1748015b58642dec89626e3fac233e6666858dfba76af1b934/PaddlePaddle/PaddleOCR",
         "platform": "telegram",
-        "quality_score": 0.8500000000000001
+        "quality_score": 1.1000000000000003
+    },
+    {
+        "project_id": 762378215,
+        "content": "✨ <b>brush</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\n3D reconstruction and rendering using Gaussian splatting across multiple platforms.\n<br>\n✨ <b>Key Features:</b>\n• Training with COLMAP and Nerfstudio data\n• Interactive training with live scene interaction\n• Masking image support\n• Splat viewer for .ply and .compressed.ply files\n• Animation support via .zip and delta frame .ply files\n<br>\n📖 <b>Summary:</b>\nBrush is a 3D reconstruction engine leveraging Gaussian splatting, designed for broad compatibility across macOS, Windows, Linux, Android, and web browsers. It utilizes WebGPU and the Burn machine learning framework to enable real-time rendering and interactive training on diverse platforms, producing dependency-free binaries.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ArthurBrussee/brush?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e7ed995665f9b52ddddc81f0c67ab130044020fee65cfbdbc65dada65244760e/ArthurBrussee/brush",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 793722147,
+        "content": "🚀 <b>X-Gif-Maker</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating GIFs from video files for social media sharing, particularly on X (Twitter).\n<br>\n✨ <b>Key Features:</b>\n• Drag and drop video to GIF conversion\n• Adjustable GIF quality and width\n• Shortcut keys for quick actions\n• Multithreading for responsiveness\n• Pixel-art UI\n<br>\n📖 <b>Summary:</b>\nX-Gif-Maker is a C++ tool for quickly converting videos into GIFs, optimized for sharing on platforms like X (Twitter). It provides a user-friendly interface with options to adjust GIF quality and width, utilizes multithreading for performance, and includes shortcut keys for efficient operation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bigasdev/X-Gif-Maker?embed=0\">View Project</a>\n• <a href=\"https://bigasdev.net/?tab=home?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b5a62f5a85e7aa3ceb8ae81c810a3a40c890cfff8cdaf37257e5b33432bf8216/bigasdev/X-Gif-Maker",
+        "platform": "telegram",
+        "quality_score": 0.25
+    },
+    {
+        "project_id": 39315600,
+        "content": "🌟 <b>Iosevka</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nWriting code, using in terminals, and preparing technical documents.\n<br>\n✨ <b>Key Features:</b>\n• Monospace and quasi-proportional options\n• Sans-serif and slab-serif styles\n• Multiple spacings (Default, Term, Fixed)\n• Installation via GitHub Releases and package managers\n• OpenType features and ligatures (implied by 'programming-ligatures' topic)\n<br>\n📖 <b>Summary:</b>\nIosevka is an open-source typeface family designed for coding, terminal use, and technical documentation. It offers both sans-serif and slab-serif styles, available in monospace and quasi-proportional variants, catering to diverse preferences and use cases.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/be5invis/Iosevka?embed=0\">View Project</a>\n• <a href=\"http://be5invis.github.io/Iosevka?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4d4d8f064ca64cc636ea1d225199dff38c30de0fae5aaee066eb2bd7a88414ee/be5invis/Iosevka",
+        "platform": "telegram",
+        "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 617136332,
+        "content": "🚀 <b>airunner</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nOffline AI inference for art generation, voice conversations, chatbots, and automated workflows with a focus on privacy.\n<br>\n✨ <b>Key Features:</b>\n• Real-time conversations with multiple speech engines and auto language detection\n• Customizable AI Agents with RAG for personalized interactions\n• Enhanced Knowledge Retrieval using local data\n• Image Generation & Manipulation with Stable Diffusion and various tools\n<br>\n📖 <b>Summary:</b>\nAirunner is a self-hosted, offline inference engine designed for various AI applications. It supports real-time voice conversations, LLM-powered chatbots, automated workflows, and AI art generation, emphasizing privacy and local processing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Capsize-Games/airunner?embed=0\">View Project</a>\n• <a href=\"https://discord.gg/ukcgjEpc5f?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/16bf8abc6da6c234906cf25f3934b861ae5e02f4bcc549dddf96c3b5bb6d85ca/Capsize-Games/airunner",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 140680839,
+        "content": "✨ <b>git-bug</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDecentralized, offline-first issue tracking integrated into git repositories.\n<br>\n✨ <b>Key Features:</b>\n• Native Git Storage\n• Distributed & Versioned\n• Lightning Fast\n• Third-Party Bridges\n• Flexible Interfaces\n<br>\n📖 <b>Summary:</b>\ngit-bug is a distributed, offline-first issue management tool embedded directly within a git repository. It allows users to manage issues, comments, and other related data as git objects, enabling decentralized collaboration and offline access to issue tracking information.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/git-bug/git-bug?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/140680839/98c44d00-69a6-11e9-9a1c-a6265bc3bcd9",
+        "platform": "telegram",
+        "quality_score": 0.95
     }
 ]
