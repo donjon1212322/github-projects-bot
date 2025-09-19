@@ -1,51 +1,58 @@
 [
     {
-        "project_id": 206660580,
-        "content": "🔥 <b>detectron2</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nObject detection and segmentation research and production.\n<br>\n✨ <b>Key Features:</b>\n• Panoptic segmentation\n• Densepose\n• Cascade R-CNN\n• Rotated bounding boxes\n• PointRend\n<br>\n📖 <b>Summary:</b>\nDetectron2 is a next-generation library from Facebook AI Research for object detection, segmentation, and other visual recognition tasks. It serves as a platform for computer vision research and production applications, offering state-of-the-art algorithms and capabilities such as panoptic segmentation and rotated bounding boxes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/facebookresearch/detectron2?embed=0\">View Project</a>\n• <a href=\"https://detectron2.readthedocs.io/en/latest/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/53cc6080f5f43e638dfac9797f9e15872175c59465552672c359c7707453c179/facebookresearch/detectron2",
+        "project_id": 200275124,
+        "content": "🔥 <b>dicio-android</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a private and versatile voice assistant experience on Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Voice assistant\n• On-device processing\n• Multilanguage support\n• Speech and graphical feedback\n• Vosk STT engine\n<br>\n📖 <b>Summary:</b>\nDicio is a free and open-source voice assistant for Android that operates on-device for privacy. It supports multiple languages and skills, providing both speech and graphical feedback. It utilizes Vosk for speech-to-text and offers various functionalities like searching, weather updates, lyrics, app opening, calculations, contact management, timers, time queries, navigation, and media control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Stypox/dicio-android?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/200275124/34b32b65-7ea6-4a22-94b4-1b2e06f7b046",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 1055153288,
+        "content": "💡 <b>onion-vanity-address</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating custom Tor Onion Service addresses with a desired prefix for improved memorability or branding.\n<br>\n✨ <b>Key Features:</b>\n• Fast vanity address generation for Tor Onion Services\n• Supports prefix-based searching\n• Offers local installation via `go install`\n• Provides a Docker image for containerized usage\n• Includes Kubernetes deployment manifest for distributed searching\n<br>\n📖 <b>Summary:</b>\nThe `onion-vanity-address` repository provides a tool written in Go for generating Tor Onion Service v3 vanity addresses with a specified prefix. It boasts a fast search algorithm and offers both local installation and Docker image usage, including Kubernetes deployment for distributed searching.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AlexanderYastrebov/onion-vanity-address?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/054e3d3cbc65a3339e0305bf498ff6d077a11d8c307aefad3abaccf32bc58050/AlexanderYastrebov/onion-vanity-address",
+        "platform": "telegram",
+        "quality_score": 0.5499999999999999
+    },
+    {
+        "project_id": 157766521,
+        "content": "🚀 <b>broot</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nEfficiently navigating and exploring directory structures, finding files, and executing commands within those directories.\n<br>\n✨ <b>Key Features:</b>\n• Directory tree overview with unlisted items\n• Fuzzy search for files and directories\n• Navigation with minimal keystrokes\n• Toggling visibility of hidden and gitignored files\n• Regular expression and content-based search\n<br>\n📖 <b>Summary:</b>\nBroot is a command-line tool written in Rust that provides a better way to navigate directory trees, find files, and launch commands. It aims to improve upon traditional tools like `tree` by offering features like fuzzy search, directory overview with unlisted items, and easy `cd` functionality.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Canop/broot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/157766521/1ba51500-61fb-11e9-8dff-9189928d6dbb",
         "platform": "telegram",
         "quality_score": 0.95
     },
     {
-        "project_id": 262296122,
-        "content": "🌟 <b>PaddleOCR</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting documents and images into structured data for AI applications.\n<br>\n✨ <b>Key Features:</b>\n• PP-OCRv5 for universal scene text recognition\n• PP-StructureV3 for complex document parsing\n• Support for 80+ languages\n• Industry-leading accuracy\n• End-to-end solutions from text extraction to document understanding\n<br>\n📖 <b>Summary:</b>\nPaddleOCR is a production-ready OCR and document AI engine that converts documents and images into structured, AI-friendly data like JSON and Markdown. It supports over 80 languages and offers end-to-end solutions for text extraction and intelligent document understanding, making it suitable for various AI applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/PaddlePaddle/PaddleOCR?embed=0\">View Project</a>\n• <a href=\"https://www.paddleocr.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6b50ceea1af66b1748015b58642dec89626e3fac233e6666858dfba76af1b934/PaddlePaddle/PaddleOCR",
-        "platform": "telegram",
-        "quality_score": 1.1000000000000003
-    },
-    {
-        "project_id": 762378215,
-        "content": "✨ <b>brush</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\n3D reconstruction and rendering using Gaussian splatting across multiple platforms.\n<br>\n✨ <b>Key Features:</b>\n• Training with COLMAP and Nerfstudio data\n• Interactive training with live scene interaction\n• Masking image support\n• Splat viewer for .ply and .compressed.ply files\n• Animation support via .zip and delta frame .ply files\n<br>\n📖 <b>Summary:</b>\nBrush is a 3D reconstruction engine leveraging Gaussian splatting, designed for broad compatibility across macOS, Windows, Linux, Android, and web browsers. It utilizes WebGPU and the Burn machine learning framework to enable real-time rendering and interactive training on diverse platforms, producing dependency-free binaries.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ArthurBrussee/brush?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e7ed995665f9b52ddddc81f0c67ab130044020fee65cfbdbc65dada65244760e/ArthurBrussee/brush",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 793722147,
-        "content": "🚀 <b>X-Gif-Maker</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating GIFs from video files for social media sharing, particularly on X (Twitter).\n<br>\n✨ <b>Key Features:</b>\n• Drag and drop video to GIF conversion\n• Adjustable GIF quality and width\n• Shortcut keys for quick actions\n• Multithreading for responsiveness\n• Pixel-art UI\n<br>\n📖 <b>Summary:</b>\nX-Gif-Maker is a C++ tool for quickly converting videos into GIFs, optimized for sharing on platforms like X (Twitter). It provides a user-friendly interface with options to adjust GIF quality and width, utilizes multithreading for performance, and includes shortcut keys for efficient operation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bigasdev/X-Gif-Maker?embed=0\">View Project</a>\n• <a href=\"https://bigasdev.net/?tab=home?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b5a62f5a85e7aa3ceb8ae81c810a3a40c890cfff8cdaf37257e5b33432bf8216/bigasdev/X-Gif-Maker",
-        "platform": "telegram",
-        "quality_score": 0.25
-    },
-    {
-        "project_id": 39315600,
-        "content": "🌟 <b>Iosevka</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nWriting code, using in terminals, and preparing technical documents.\n<br>\n✨ <b>Key Features:</b>\n• Monospace and quasi-proportional options\n• Sans-serif and slab-serif styles\n• Multiple spacings (Default, Term, Fixed)\n• Installation via GitHub Releases and package managers\n• OpenType features and ligatures (implied by 'programming-ligatures' topic)\n<br>\n📖 <b>Summary:</b>\nIosevka is an open-source typeface family designed for coding, terminal use, and technical documentation. It offers both sans-serif and slab-serif styles, available in monospace and quasi-proportional variants, catering to diverse preferences and use cases.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/be5invis/Iosevka?embed=0\">View Project</a>\n• <a href=\"http://be5invis.github.io/Iosevka?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4d4d8f064ca64cc636ea1d225199dff38c30de0fae5aaee066eb2bd7a88414ee/be5invis/Iosevka",
-        "platform": "telegram",
-        "quality_score": 0.7499999999999999
-    },
-    {
-        "project_id": 617136332,
-        "content": "🚀 <b>airunner</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nOffline AI inference for art generation, voice conversations, chatbots, and automated workflows with a focus on privacy.\n<br>\n✨ <b>Key Features:</b>\n• Real-time conversations with multiple speech engines and auto language detection\n• Customizable AI Agents with RAG for personalized interactions\n• Enhanced Knowledge Retrieval using local data\n• Image Generation & Manipulation with Stable Diffusion and various tools\n<br>\n📖 <b>Summary:</b>\nAirunner is a self-hosted, offline inference engine designed for various AI applications. It supports real-time voice conversations, LLM-powered chatbots, automated workflows, and AI art generation, emphasizing privacy and local processing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Capsize-Games/airunner?embed=0\">View Project</a>\n• <a href=\"https://discord.gg/ukcgjEpc5f?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/16bf8abc6da6c234906cf25f3934b861ae5e02f4bcc549dddf96c3b5bb6d85ca/Capsize-Games/airunner",
+        "project_id": 716785366,
+        "content": "🔥 <b>slog-context</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nIntegrating structured logging with Go's context package for enhanced log enrichment and context-aware logging.\n<br>\n✨ <b>Key Features:</b>\n• Adding and retrieving loggers to/from context.\n• Adding attributes to context for automatic inclusion in log lines.\n• Extracting custom context values (e.g., OpenTelemetry TraceID) for logging.\n• Compatibility with both standard library slog and logr.\n<br>\n📖 <b>Summary:</b>\nThe `slog-context` Go library provides utilities for integrating structured logging (slog) with Go's context package. It allows adding and retrieving loggers from contexts, adding attributes to contexts for automatic inclusion in log lines, and extracting custom context values like OpenTelemetry TraceIDs for logging.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/veqryn/slog-context?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c4121140161c17ab9ec9c57bc12977e35970b9c1e45ed0cf686fb9d3d259dfd8/veqryn/slog-context",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 140680839,
-        "content": "✨ <b>git-bug</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDecentralized, offline-first issue tracking integrated into git repositories.\n<br>\n✨ <b>Key Features:</b>\n• Native Git Storage\n• Distributed & Versioned\n• Lightning Fast\n• Third-Party Bridges\n• Flexible Interfaces\n<br>\n📖 <b>Summary:</b>\ngit-bug is a distributed, offline-first issue management tool embedded directly within a git repository. It allows users to manage issues, comments, and other related data as git objects, enabling decentralized collaboration and offline access to issue tracking information.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/git-bug/git-bug?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/140680839/98c44d00-69a6-11e9-9a1c-a6265bc3bcd9",
+        "project_id": 104261253,
+        "content": "🌟 <b>mage</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating build processes and other development tasks using Go instead of Makefiles or similar tools.\n<br>\n✨ <b>Key Features:</b>\n• Uses Go for build scripts\n• No external dependencies (besides Go)\n• Supports multiple magefiles\n• Customizable for different operating systems\n• Can be used as a library\n<br>\n📖 <b>Summary:</b>\nMage is a build tool similar to Make or Rake, but uses Go for writing build scripts. It allows developers to define build tasks as plain Go functions, which Mage then executes as targets, simplifying build processes and eliminating the complexities of traditional Makefiles.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/magefile/mage?embed=0\">View Project</a>\n• <a href=\"https://magefile.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/104261253/9b12d380-7570-11e9-9bab-1bf0e44fa7ee",
         "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 1018413020,
+        "content": "💡 <b>GopherTube</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSearching and watching YouTube videos from the terminal.\n<br>\n✨ <b>Key Features:</b>\n• Fast YouTube search (scrapes YouTube directly)\n• Play videos with mpv\n• Minimal terminal UI (fzf)\n• Keyboard navigation\n• TOML config\n<br>\n📖 <b>Summary:</b>\nGopherTube is a terminal-based YouTube client written in Go. It allows users to search and watch YouTube videos directly from their terminal using `mpv` for playback and `yt-dlp` for downloading. The UI is minimal and keyboard-driven, leveraging `fzf` for a streamlined experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/KrishnaSSH/GopherTube?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1018413020/bd95d8b3-9b5a-419a-b037-0468ab03a231",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 964567893,
+        "content": "🚀 <b>MIRIX</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding a personal AI assistant with advanced memory capabilities.\n<br>\n✨ <b>Key Features:</b>\n• Multi-Agent Memory System\n• Screen Activity Tracking\n• Privacy-First Design\n• Advanced Search\n• Multi-Modal Input\n<br>\n📖 <b>Summary:</b>\nMIRIX is a multi-agent personal assistant that learns and remembers user interactions by tracking on-screen activities and natural language conversations. It consolidates visual and textual data into a structured knowledge base, enabling intelligent responses and personalized assistance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Mirix-AI/MIRIX?embed=0\">View Project</a>\n• <a href=\"https://mirix.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3de28689cb9db94fd548687452b1130d33d59a078022b49da9a6efe228402d0a/Mirix-AI/MIRIX",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 847453935,
+        "content": "💡 <b>cli</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating and scaling QA processes for web and desktop applications.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered vision and control\n• End-to-end testing of web and desktop applications\n• Black-box testing approach\n• Natural language test instruction\n• Integration with CI/CD via GitHub Actions\n<br>\n📖 <b>Summary:</b>\nTestDriver.ai is an autonomous AI agent designed for end-to-end testing of web and desktop applications. It uses AI vision and emulated mouse/keyboard actions to automate QA processes, offering advantages like easier setup, reduced maintenance, and broader application testing capabilities compared to traditional test frameworks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/testdriverai/cli?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5939430de2f98ae69767632e7fa319300025bb86208c0dc95f1d9206508453f8/testdriverai/cli",
+        "platform": "telegram",
+        "quality_score": 0.85
     }
 ]
