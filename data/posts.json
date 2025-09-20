@@ -1,58 +1,44 @@
 [
     {
-        "project_id": 200275124,
-        "content": "🔥 <b>dicio-android</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a private and versatile voice assistant experience on Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Voice assistant\n• On-device processing\n• Multilanguage support\n• Speech and graphical feedback\n• Vosk STT engine\n<br>\n📖 <b>Summary:</b>\nDicio is a free and open-source voice assistant for Android that operates on-device for privacy. It supports multiple languages and skills, providing both speech and graphical feedback. It utilizes Vosk for speech-to-text and offers various functionalities like searching, weather updates, lyrics, app opening, calculations, contact management, timers, time queries, navigation, and media control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Stypox/dicio-android?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/200275124/34b32b65-7ea6-4a22-94b4-1b2e06f7b046",
+        "project_id": 973688295,
+        "content": "💡 <b>rustnet</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time network monitoring and analysis with detailed connection information and protocol inspection.\n<br>\n✨ <b>Key Features:</b>\n• Real-time Network Monitoring\n• Connection States Display (TCP, QUIC, DNS, SSH)\n• Deep Packet Inspection (HTTP, HTTPS/TLS, DNS, SSH, QUIC)\n• Connection Lifecycle Management with configurable timeouts\n• Process Identification (with experimental eBPF support)\n<br>\n📖 <b>Summary:</b>\nRustNet is a cross-platform network monitoring tool built in Rust that provides real-time visibility into network connections. It offers features like deep packet inspection, connection lifecycle management, and a terminal user interface for monitoring TCP, UDP, ICMP, ARP, and QUIC connections, along with process identification and service name resolution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/domcyrus/rustnet?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/2e5e7f53691c5b75eedead77ef4840047cb06aa4dd425cc67fe2014f1cc0c317/domcyrus/rustnet",
+        "platform": "telegram",
+        "quality_score": 0.6499999999999999
+    },
+    {
+        "project_id": 1050983239,
+        "content": "✨ <b>paasword</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating secure, unique passwords based on user input and GPG key signatures, with optional time-based restrictions.\n<br>\n✨ <b>Key Features:</b>\n• GPG private key signing for password derivation\n• Unique password generation for each input\n• Time forgery support for generating future or past passwords\n• Terminal box rendering with CJK/ASCII alignment\n• Plain text output option for scripting\n<br>\n📖 <b>Summary:</b>\nPassword Master is a password generator that uses GPG private key signatures to derive high-strength passwords from user inputs. It supports time forgery, allowing users to generate passwords valid for specific timeframes, enhancing security and control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/biliyoyo520/paasword?embed=0\">View Project</a>\n• <a href=\"https://blog.yoyo250.fun/archives/coding/16.html?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1b859168da58583f3e523446466d589d5650ae2557c436fef334ced354f2a561/biliyoyo520/paasword",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 875443471,
+        "content": "🚀 <b>NotelyVoice</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nVoice transcription and note-taking for students, professionals, doctors, and researchers.\n<br>\n✨ <b>Key Features:</b>\n• Rich Text Editing\n• Simple Search\n• Smart Filtering\n• Organization with folders and tags\n• Advanced Speech-to-Text\n<br>\n📖 <b>Summary:</b>\nNotelyVoice is a cross-platform, private AI voice transcription and note-taking application built with Compose Multiplatform. It leverages Whisper AI for on-device speech-to-text conversion in 50+ languages, ensuring user privacy by avoiding cloud uploads. The app is available on Android and iOS.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tosinonikute/NotelyVoice?embed=0\">View Project</a>\n• <a href=\"https://tosinonikute.com/notelyvoice/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/296310c0aaa9f2e24e69d397f1c7d56d2d4971611bae1a6e86d430d8219f16a8/tosinonikute/NotelyVoice",
+        "platform": "telegram",
+        "quality_score": 0.9
+    },
+    {
+        "project_id": 1054129020,
+        "content": "🚀 <b>repomix_wx</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating compact repository overviews for use in LLM prompts.\n<br>\n✨ <b>Key Features:</b>\n• Choose project/repo directory\n• Included files list (auto-excludes exact and glob patterns)\n• Exclusions: exact file paths and glob ignore patterns\n• Command preview with auto-wrap\n• Run `repomix` in selected root\n<br>\n📖 <b>Summary:</b>\nThe repository provides a GUI wrapper around the `repomix` CLI tool, enabling users to generate compact repository overviews for LLM prompts. It offers features like project directory selection, file exclusion, command preview, and output style selection, with options persisted in a state file.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/UN-9BOT/repomix_wx?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0bc7ed13b09bc817f14d5606bf36e1d35053f2cad020554a9cc40a690cf2d663/UN-9BOT/repomix_wx",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 976357404,
+        "content": "🌟 <b>akniga-scraper</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDownloading audiobooks from akniga.org for offline listening.\n<br>\n✨ <b>Key Features:</b>\n• Downloads audio from akniga.org\n• Automates cookie and book ID retrieval\n• Decrypts HLS link using a key extracted from the website's JavaScript\n• Uses ffmpeg for audio downloading\n<br>\n📖 <b>Summary:</b>\nThe akniga-scraper is a Go-based tool designed to download content from akniga.org. It automates the process of obtaining necessary cookies and book IDs, decrypting the audio HLS link, and ultimately downloading the audio content.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nyakokitsu/akniga-scraper?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/375d808dd981ef8e6fc028fa64a37cf1a40b3275a61e51b956ab89b17ee3071f/nyakokitsu/akniga-scraper",
+        "platform": "telegram",
+        "quality_score": 0.15
+    },
+    {
+        "project_id": 1055829527,
+        "content": "💡 <b>h3xassist</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating the process of recording, transcribing, and summarizing online meetings.\n<br>\n✨ <b>Key Features:</b>\n• Automatic Meeting Join\n• Audio Recording\n• Speech Recognition\n• AI Summarization\n• Calendar Integration\n<br>\n📖 <b>Summary:</b>\nH3xAssist is an automated meeting assistant that records, transcribes, and summarizes online meetings. It supports platforms like Microsoft Teams and Google Meet, offering features like real-time dashboards, AI-generated summaries, and speaker diarization. The system integrates with Outlook calendars and provides a responsive web interface for configuration and usage.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ih3xcode/h3xassist?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/739e10b13e01f0bfed5519387db889a596f8d0587a2eff0d67f870f07d074037/ih3xcode/h3xassist",
         "platform": "telegram",
         "quality_score": 0.7
-    },
-    {
-        "project_id": 1055153288,
-        "content": "💡 <b>onion-vanity-address</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating custom Tor Onion Service addresses with a desired prefix for improved memorability or branding.\n<br>\n✨ <b>Key Features:</b>\n• Fast vanity address generation for Tor Onion Services\n• Supports prefix-based searching\n• Offers local installation via `go install`\n• Provides a Docker image for containerized usage\n• Includes Kubernetes deployment manifest for distributed searching\n<br>\n📖 <b>Summary:</b>\nThe `onion-vanity-address` repository provides a tool written in Go for generating Tor Onion Service v3 vanity addresses with a specified prefix. It boasts a fast search algorithm and offers both local installation and Docker image usage, including Kubernetes deployment for distributed searching.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AlexanderYastrebov/onion-vanity-address?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/054e3d3cbc65a3339e0305bf498ff6d077a11d8c307aefad3abaccf32bc58050/AlexanderYastrebov/onion-vanity-address",
-        "platform": "telegram",
-        "quality_score": 0.5499999999999999
-    },
-    {
-        "project_id": 157766521,
-        "content": "🚀 <b>broot</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nEfficiently navigating and exploring directory structures, finding files, and executing commands within those directories.\n<br>\n✨ <b>Key Features:</b>\n• Directory tree overview with unlisted items\n• Fuzzy search for files and directories\n• Navigation with minimal keystrokes\n• Toggling visibility of hidden and gitignored files\n• Regular expression and content-based search\n<br>\n📖 <b>Summary:</b>\nBroot is a command-line tool written in Rust that provides a better way to navigate directory trees, find files, and launch commands. It aims to improve upon traditional tools like `tree` by offering features like fuzzy search, directory overview with unlisted items, and easy `cd` functionality.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Canop/broot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/157766521/1ba51500-61fb-11e9-8dff-9189928d6dbb",
-        "platform": "telegram",
-        "quality_score": 0.95
-    },
-    {
-        "project_id": 716785366,
-        "content": "🔥 <b>slog-context</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nIntegrating structured logging with Go's context package for enhanced log enrichment and context-aware logging.\n<br>\n✨ <b>Key Features:</b>\n• Adding and retrieving loggers to/from context.\n• Adding attributes to context for automatic inclusion in log lines.\n• Extracting custom context values (e.g., OpenTelemetry TraceID) for logging.\n• Compatibility with both standard library slog and logr.\n<br>\n📖 <b>Summary:</b>\nThe `slog-context` Go library provides utilities for integrating structured logging (slog) with Go's context package. It allows adding and retrieving loggers from contexts, adding attributes to contexts for automatic inclusion in log lines, and extracting custom context values like OpenTelemetry TraceIDs for logging.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/veqryn/slog-context?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c4121140161c17ab9ec9c57bc12977e35970b9c1e45ed0cf686fb9d3d259dfd8/veqryn/slog-context",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 104261253,
-        "content": "🌟 <b>mage</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating build processes and other development tasks using Go instead of Makefiles or similar tools.\n<br>\n✨ <b>Key Features:</b>\n• Uses Go for build scripts\n• No external dependencies (besides Go)\n• Supports multiple magefiles\n• Customizable for different operating systems\n• Can be used as a library\n<br>\n📖 <b>Summary:</b>\nMage is a build tool similar to Make or Rake, but uses Go for writing build scripts. It allows developers to define build tasks as plain Go functions, which Mage then executes as targets, simplifying build processes and eliminating the complexities of traditional Makefiles.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/magefile/mage?embed=0\">View Project</a>\n• <a href=\"https://magefile.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/104261253/9b12d380-7570-11e9-9bab-1bf0e44fa7ee",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 1018413020,
-        "content": "💡 <b>GopherTube</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSearching and watching YouTube videos from the terminal.\n<br>\n✨ <b>Key Features:</b>\n• Fast YouTube search (scrapes YouTube directly)\n• Play videos with mpv\n• Minimal terminal UI (fzf)\n• Keyboard navigation\n• TOML config\n<br>\n📖 <b>Summary:</b>\nGopherTube is a terminal-based YouTube client written in Go. It allows users to search and watch YouTube videos directly from their terminal using `mpv` for playback and `yt-dlp` for downloading. The UI is minimal and keyboard-driven, leveraging `fzf` for a streamlined experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/KrishnaSSH/GopherTube?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1018413020/bd95d8b3-9b5a-419a-b037-0468ab03a231",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 964567893,
-        "content": "🚀 <b>MIRIX</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding a personal AI assistant with advanced memory capabilities.\n<br>\n✨ <b>Key Features:</b>\n• Multi-Agent Memory System\n• Screen Activity Tracking\n• Privacy-First Design\n• Advanced Search\n• Multi-Modal Input\n<br>\n📖 <b>Summary:</b>\nMIRIX is a multi-agent personal assistant that learns and remembers user interactions by tracking on-screen activities and natural language conversations. It consolidates visual and textual data into a structured knowledge base, enabling intelligent responses and personalized assistance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Mirix-AI/MIRIX?embed=0\">View Project</a>\n• <a href=\"https://mirix.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3de28689cb9db94fd548687452b1130d33d59a078022b49da9a6efe228402d0a/Mirix-AI/MIRIX",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 847453935,
-        "content": "💡 <b>cli</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating and scaling QA processes for web and desktop applications.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered vision and control\n• End-to-end testing of web and desktop applications\n• Black-box testing approach\n• Natural language test instruction\n• Integration with CI/CD via GitHub Actions\n<br>\n📖 <b>Summary:</b>\nTestDriver.ai is an autonomous AI agent designed for end-to-end testing of web and desktop applications. It uses AI vision and emulated mouse/keyboard actions to automate QA processes, offering advantages like easier setup, reduced maintenance, and broader application testing capabilities compared to traditional test frameworks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/testdriverai/cli?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5939430de2f98ae69767632e7fa319300025bb86208c0dc95f1d9206508453f8/testdriverai/cli",
-        "platform": "telegram",
-        "quality_score": 0.85
     }
 ]

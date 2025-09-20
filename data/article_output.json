@@ -1,26 +1,26 @@
 {
-    "title": "Supercharge Your Go Logging with slog-context: Contextual Logging Made Easy",
-    "article": "Tired of wrestling with inconsistent logging in your Go applications?  Wish you could effortlessly add contextual information to your logs, regardless of where they're generated? Then you absolutely need to check out `slog-context`! This fantastic Go library solves a common pain point for developers: seamlessly integrating structured logging with the power of context.  Imagine a world where tracing requests across multiple services is as simple as adding a few lines of code.  That's the promise of `slog-context`.  \n\nAt its core, `slog-context` provides two main workflows to enhance your logging experience. First, it allows you to store your logger directly within the context.  This means you can easily access and use the logger throughout your application, without passing it explicitly between functions.  No more tedious parameter passing or global logger variables!  The library provides helpful wrapper functions like `With`, `Info`, `Error`, and more, simplifying the logging process.\n\nThe second, equally powerful workflow involves adding attributes to your context. These attributes are then automatically picked up by `slog-context`'s handler and added to your log lines. This is incredibly useful for adding contextual data like request IDs, user IDs, or even OpenTelemetry tracing information.  Best of all, you don't even need to modify every logging call in your code – the attributes are automatically appended or prepended to your log entries.\n\nBut the magic doesn't stop there. `slog-context` offers seamless integration with OpenTelemetry (OTEL).  Through the `slogotel` package, you can automatically extract trace and span IDs from your context and add them to your logs.  This immediately improves your observability and makes debugging distributed systems a breeze.  Moreover, it integrates with `sloghttp` to automatically add attributes from HTTP middleware, giving you a complete picture of your requests.\n\n`slog-context` supports both the standard library's `slog` and the popular `logr` logging interfaces. This means you can easily integrate it into existing projects without major refactoring.  Whether you're a die-hard `slog` fan or a `logr` enthusiast, this library has you covered.  The automatic conversion between `slog.Logger` and `logr.Logger` ensures smooth interoperability across your entire stack.\n\nThe benefits are clear: improved code readability, simplified logging, enhanced debugging, and seamless integration with popular observability tools.  `slog-context` streamlines your workflow, saving you time and effort. It makes your logging more consistent, accurate, and informative.  Say goodbye to messy, hard-to-debug logs and hello to clean, contextualized logging that makes sense!",
+    "title": "Notely Voice: Revolutionizing Note-Taking with AI-Powered Transcription",
+    "article": "Tired of endless note-taking during lectures or meetings?  Wish you could effortlessly capture every word spoken, without missing a beat? Then get ready to meet Notely Voice, a game-changing app that's about to transform how you work.  Notely Voice is a free, cross-platform application that uses the power of AI-driven voice transcription to turn spoken words into text instantly. Imagine this: you're in a lecture, effortlessly capturing everything the professor says, without even lifting a pen. Or, picture yourself in a meeting, having a detailed record of every decision and discussion point, ready for review later.  That's the magic of Notely Voice.  But it's not just about transcription; Notely Voice is a full-fledged note-taking application.  It allows you to format your notes, add headers and sub-headers, bold or italicize text, and even search your notes quickly.  You can organize your notes into folders and use tags for easy retrieval.  The app supports offline transcription, meaning you can use it anywhere, anytime, even without an internet connection. Notely Voice works seamlessly across Android and iOS, ensuring a consistent experience no matter which device you prefer.  It's built using Compose Multiplatform, a modern UI framework, guaranteeing a smooth and intuitive user experience.  The app offers rich text editing capabilities so you can format your notes with headers, bold text, and other formatting options. You can even filter your notes based on various criteria, making it easier to find what you need.  Beyond the core functionality, Notely Voice prioritizes privacy.  Your notes are yours, and yours alone. This is crucial in an era where data privacy is paramount.  The app's intuitive interface is easy to navigate, even for users who aren't tech-savvy.  It has a clean, modern design and is highly customizable.  The developers are actively working on adding new features and improving existing ones, based on user feedback.  For developers, Notely Voice is a fantastic example of how AI and cross-platform development can combine to create a truly powerful and user-friendly application.  It's a testament to the capabilities of Compose Multiplatform and a great source of inspiration for future projects. The open-source nature of the project also means you can contribute to its development and make it even better. The app supports multiple languages and is constantly being improved through community contributions, making it a truly global tool.  If you're a developer looking for a well-designed, efficient, and innovative application to learn from or a user needing a powerful note-taking tool, Notely Voice is a must-try.",
     "key_takeaways": [
-        "Effortlessly integrate structured logging with context.",
-        "Store loggers directly in the context for easy access.",
-        "Automatically add contextual attributes to log lines without modifying every logging call.",
-        "Seamless integration with OpenTelemetry for improved observability.",
-        "Supports both `slog` and `logr` logging interfaces for maximum flexibility."
+        "AI-powered voice transcription for effortless note-taking",
+        "Cross-platform availability (Android & iOS)",
+        "Offline functionality for use anywhere, anytime",
+        "Rich text editing and organizational tools for enhanced note management",
+        "Privacy-focused design to protect your data"
     ],
     "tags": [
-        "Go",
-        "logging",
-        "slog",
-        "context",
-        "OpenTelemetry"
+        "AI",
+        "Voice Transcription",
+        "Note-Taking",
+        "Compose Multiplatform",
+        "Cross-Platform"
     ],
-    "stars": 138,
-    "forks": 6,
-    "open_issues": 1,
-    "languages": "Go",
-    "readme_summary": "The `slog-context` Go library provides utilities for integrating structured logging (slog) with Go's context package. It allows adding and retrieving loggers from contexts, adding attributes to contexts for automatic inclusion in log lines, and extracting custom context values like OpenTelemetry TraceIDs for logging.",
-    "project_id": 716785366,
-    "url": "https://github.com/veqryn/slog-context",
-    "description": "Use golang structured logging (slog) with context. Add and retrieve logger to and from context. Add attributes to context. Automatically read any custom context values, such as OpenTelemetry TraceID."
+    "stars": 375,
+    "forks": 13,
+    "open_issues": 12,
+    "languages": "C++",
+    "readme_summary": "NotelyVoice is a cross-platform, private AI voice transcription and note-taking application built with Compose Multiplatform. It leverages Whisper AI for on-device speech-to-text conversion in 50+ languages, ensuring user privacy by avoiding cloud uploads. The app is available on Android and iOS.",
+    "project_id": 875443471,
+    "url": "https://github.com/tosinonikute/NotelyVoice",
+    "description": "A 100% private AI voice transcription app that converts speech to text in 50+ languages. Built with Compose Multiplatform for Android & iOS using Whisper AI - no cloud uploads, all processing happens on-device for complete privacy."
 }
