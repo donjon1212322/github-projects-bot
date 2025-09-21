@@ -1,7 +1,0 @@
-{
-    "project_id": 976357404,
-    "content": "🌟 <b>akniga-scraper</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDownloading audiobooks from akniga.org for offline listening.\n<br>\n✨ <b>Key Features:</b>\n• Downloads audio from akniga.org\n• Automates cookie and book ID retrieval\n• Decrypts HLS link using a key extracted from the website's JavaScript\n• Uses ffmpeg for audio downloading\n<br>\n📖 <b>Summary:</b>\nThe akniga-scraper is a Go-based tool designed to download content from akniga.org. It automates the process of obtaining necessary cookies and book IDs, decrypting the audio HLS link, and ultimately downloading the audio content.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nyakokitsu/akniga-scraper?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/375d808dd981ef8e6fc028fa64a37cf1a40b3275a61e51b956ab89b17ee3071f/nyakokitsu/akniga-scraper",
-    "platform": "telegram",
-    "quality_score": 0.15
-}
