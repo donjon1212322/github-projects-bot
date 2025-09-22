@@ -1,7 +1,0 @@
-{
-    "project_id": 1043516507,
-    "content": "✨ <b>port-kill</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nFinding and freeing up blocked ports to facilitate development workflows.\n<br>\n✨ <b>Key Features:</b>\n• Real-time process detection on specific ports or ranges\n• One-shot cleanup (--reset)\n• Smart filtering and ignore lists\n• Port Guard Mode (watch/reserve/auto-resolve)\n• Security Audit Mode (suspicious ports, risk score, JSON)\n<br>\n📖 <b>Summary:</b>\nPort Kill is a Rust-based tool designed to identify and free ports that are blocking development work. It supports macOS, Linux, and Windows, offering a CLI, status bar integration, and an optional dashboard for managing port usage locally or over SSH.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kagehq/port-kill?embed=0\">View Project</a>\n• <a href=\"https://portkill.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/f1bf970e0f44b5f3c84befbc44f8d4c1e413fefbe146131ccfdc83769b6810b0/kagehq/port-kill",
-    "platform": "telegram",
-    "quality_score": 0.85
-}
