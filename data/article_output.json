@@ -1,26 +1,26 @@
 {
-    "title": "Revolutionizing Secure Access: Introducing Octelium!",
-    "article": "Tired of clunky VPNs and complex zero-trust setups?  Get ready to meet Octelium, the open-source, self-hosted platform that's changing the game for secure access. Imagine a world where connecting to your internal resources, APIs, and even AI services is seamless, secure, and incredibly flexible—that's the promise of Octelium.  This isn't your grandpappy's VPN; it's a unified platform that tackles modern security challenges head-on.  At its core, Octelium offers a scalable zero-trust architecture. This means that instead of granting broad access, it verifies every single request, ensuring only authorized users and applications can reach your resources.  Think of it as a highly intelligent bouncer for your digital world, meticulously checking credentials and context before granting entry.  But what makes Octelium truly stand out is its versatility. It's not just a VPN replacement; it's a Swiss Army knife for secure access. Need a secure tunnel for your internal services? Octelium has you covered. Want to build a robust API gateway? Octelium can handle that too.  Need to integrate AI services securely?  Octelium provides a secure and scalable way to do so.  It seamlessly integrates with WireGuard and QUIC for blazing-fast client access, offering a zero-config experience for a smooth and frictionless user journey.  But it goes beyond client access. Octelium also enables clientless access, meaning you can securely access your resources without needing to install any software—perfect for those times when you need quick access from a public computer.  The architecture is remarkably flexible, allowing you to adapt it to your specific needs.  Whether you're a small team or a large enterprise, Octelium scales effortlessly to meet your demands.  One of the most compelling aspects of Octelium is its open-source nature. This means you have complete control over your infrastructure, ensuring transparency and customization.  The community is active and vibrant, constantly contributing to its improvement and expansion.  This isn't just a project; it's a collaborative effort to build a better, more secure digital future.  For developers, the benefits are clear.  Octelium simplifies secure access, saving countless hours of configuration and troubleshooting.  It streamlines workflows, allowing you to focus on building amazing applications instead of wrestling with complex security setups.  It's a powerful tool that solves common problems, enhancing productivity and peace of mind.  With Octelium, you're not just securing your resources; you're empowering your team and boosting your development velocity.  It's a project that deserves your attention.  Check it out; you won't be disappointed!",
+    "title": "Opcode: Your New Best Friend for Claude Code",
+    "article": "Tired of juggling multiple windows and command lines when working with Claude Code?  Wish there was a more intuitive way to manage your projects, agents, and sessions? Then get ready to meet Opcode, the revolutionary new GUI application built to supercharge your Claude Code workflow!  Opcode isn't just another pretty face; it's a powerful toolkit designed to streamline your entire AI-assisted development process. Forget about endless terminal commands and cryptic logs – Opcode provides a clean, user-friendly interface for everything you need.  Imagine effortlessly managing multiple Claude Code projects, each with its own session history and custom agents.  Opcode makes this a reality.  It's like having a dedicated command center for all your Claude Code activities, allowing you to focus on what truly matters: building amazing things.  At its core, Opcode is built on Tauri 2, guaranteeing a fast and responsive experience.  It handles everything from project organization and session management to creating and running custom AI agents.  This means you can create specialized agents tailored to specific tasks – imagine an agent for code generation, another for debugging, and yet another for testing. The possibilities are endless!  But it doesn't stop there. Opcode also includes a comprehensive usage analytics dashboard.  This lets you monitor your Claude API usage and costs in real-time, providing valuable insights into your development patterns and helping you optimize your spending.  You can even export this data for accounting purposes, making it a breeze to track expenses.  The visual charts and detailed breakdowns offer a comprehensive view of your Claude Code usage, enabling you to make informed decisions about your projects and resource allocation.  Opcode isn't just about efficiency; it's about enhancing your overall development experience.  By providing a unified and intuitive interface, Opcode eliminates the friction often associated with using large language models.  It empowers you to experiment more freely, explore new possibilities, and ultimately, become a more productive developer.  So, are you ready to take your Claude Code projects to the next level?  Opcode is the answer.  Give it a try – you won't be disappointed!",
     "key_takeaways": [
-        "Unified zero-trust platform for secure access",
-        "Flexible and scalable architecture for various use cases",
-        "Open-source and community-driven development",
-        "Streamlined workflows and enhanced developer productivity",
-        "Seamless integration with WireGuard and QUIC for fast client access"
+        "Streamlined Claude Code workflow with a user-friendly GUI",
+        "Effortless management of projects, sessions, and custom agents",
+        "Comprehensive usage analytics dashboard for cost tracking and optimization",
+        "Fast and responsive performance thanks to Tauri 2",
+        "Enhanced development experience through intuitive interface and increased efficiency"
     ],
     "tags": [
-        "Zero Trust",
-        "VPN",
-        "API Gateway",
-        "Open Source",
-        "Secure Access"
+        "Claude Code",
+        "GUI",
+        "AI",
+        "Tauri",
+        "Agent Development"
     ],
-    "stars": 2351,
-    "forks": 69,
-    "open_issues": 3,
-    "languages": "Go",
-    "readme_summary": "Octelium is a self-hosted, unified zero trust secure access platform written in Go. It offers functionalities including remote access VPN, ZTNA/BeyondCorp architecture, API/AI gateway, PaaS, and homelab infrastructure, providing secure access to resources via WireGuard/QUIC tunnels and context-aware access control.",
-    "project_id": 985853356,
-    "url": "https://github.com/octelium/octelium",
-    "description": "A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A architectures or even as an ngrok-alternative and a homelab infrastructure."
+    "stars": 17428,
+    "forks": 1290,
+    "open_issues": 220,
+    "languages": "TypeScript",
+    "readme_summary": "Opcode is a desktop application built with Tauri 2 that provides a GUI for managing Claude Code sessions and creating custom agents. It aims to bridge the gap between command-line tools and a visual experience for AI-assisted development, offering features like usage tracking, project management, and background agent execution.",
+    "project_id": 1004995740,
+    "url": "https://github.com/winfunc/opcode",
+    "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more."
 }
