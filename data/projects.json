@@ -1,225 +1,284 @@
 [
     {
-        "id": 993475711,
-        "name": "pwmenu",
-        "description": "Launcher-driven audio manager for Linux",
-        "url": "https://github.com/e-tho/pwmenu",
-        "language": "Rust",
-        "stars": 31,
-        "forks": 0,
-        "created_at": "2025-05-30T21:25:23Z",
-        "updated_at": "2025-09-24T08:41:00Z",
-        "topics": [],
-        "quality_score": 0.5499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-22T22:37:46Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/56e6a6b5289a7af1b7a19ccdd3cfec3671a8abf5d0fb8d0b8991de5d87e9421c/e-tho/pwmenu"
-        ],
-        "homepage": null,
-        "readme_summary": "pwmenu is a launcher-driven audio manager for Linux that allows users to control audio settings through their preferred launcher. It supports various launchers and offers compatibility with font and XDG icons for visual representation of audio controls.",
-        "key_features": [
-            "Launcher-driven audio management",
-            "PipeWire integration",
-            "Support for multiple launchers (Fuzzel, Rofi, Walker, dmenu, custom)",
-            "Font and XDG icon support",
-            "System notifications"
-        ],
-        "primary_use_case": "Managing audio settings on Linux systems using a launcher interface.",
-        "open_issues": 0,
-        "cover_image_prompt": "A conductor orchestrating a symphony of sound levels using a launcher interface as their baton. The conductor stands before a mixing console where each fader is controlled by a launcher menu item. Sound waves emanate from the console, visualizing the audio output. Small UI elements displaying PipeWire connections and audio levels subtly connect the metaphor to software. The scene is set in a modern recording studio with warm, focused lighting. The composition is centered with a clear focus on the conductor and console. The image should be in 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 1004995740,
-        "name": "opcode",
-        "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
-        "url": "https://github.com/winfunc/opcode",
-        "language": "TypeScript",
-        "stars": 17428,
-        "forks": 1290,
-        "created_at": "2025-06-19T13:53:26Z",
-        "updated_at": "2025-09-24T10:04:54Z",
+        "id": 982697710,
+        "name": "Dolphin",
+        "description": "The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.",
+        "url": "https://github.com/bytedance/Dolphin",
+        "language": "Python",
+        "stars": 6610,
+        "forks": 538,
+        "created_at": "2025-05-13T09:20:19Z",
+        "updated_at": "2025-09-25T10:09:15Z",
         "topics": [
-            "anthropic",
-            "anthropic-claude",
-            "claude",
-            "claude-4",
-            "claude-4-opus",
-            "claude-4-sonnet",
-            "claude-ai",
-            "claude-code",
-            "claude-code-sdk",
-            "cursor",
-            "ide",
-            "llm",
-            "llm-code",
-            "rust",
-            "tauri"
+            "document-analysis",
+            "layout-analysis",
+            "ocr",
+            "parser",
+            "pdf",
+            "pdf-converter",
+            "pdf-parser",
+            "python",
+            "vlm-ocr"
         ],
-        "quality_score": 1.0000000000000002,
+        "quality_score": 0.9000000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2025-09-07T12:12:00Z",
+        "last_commit_date": "2025-08-29T10:38:50Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/fb62cd4ae82f7c2efcb9c0d9fba70cb02a17f69e4f46fcba71774f022d2a5e1c/winfunc/opcode"
-        ],
-        "homepage": "https://opcode.sh",
-        "readme_summary": "Opcode is a desktop application built with Tauri 2 that provides a GUI for managing Claude Code sessions and creating custom agents. It aims to bridge the gap between command-line tools and a visual experience for AI-assisted development, offering features like usage tracking, project management, and background agent execution.",
-        "key_features": [
-            "Project & Session Management",
-            "Custom AI Agents",
-            "Usage Analytics Dashboard",
-            "MCP Server Management",
-            "Timeline & Checkpoints",
-            "CLAUDE.md Management"
-        ],
-        "primary_use_case": "Managing Claude Code sessions and creating custom AI agents through a graphical user interface.",
-        "open_issues": 220,
-        "cover_image_prompt": "A conductor orchestrating a symphony of code, with Claude (represented by a stylized AI avatar) as the lead instrument. The conductor uses a tablet displaying Opcode's interface to manage different code sections, visualized as musical notes flowing onto a grand stage. The stage is subtly embedded with UI elements and data visualizations. The scene is set in a modern, minimalist concert hall with soft, focused lighting. Small digital particles enhance the feeling of dynamic code execution. The composition is balanced and elegant with a harmonious color scheme. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 292014229,
-        "name": "zellij",
-        "description": "A terminal workspace with batteries included",
-        "url": "https://github.com/zellij-org/zellij",
-        "language": "Rust",
-        "stars": 26485,
-        "forks": 815,
-        "created_at": "2020-09-01T14:04:28Z",
-        "updated_at": "2025-09-24T09:56:37Z",
-        "topics": [
-            "multiplexer",
-            "terminal",
-            "workspace"
-        ],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-28T15:48:34Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/292014229/b8e9df2e-3a36-4642-9e54-2edffb3a59ef"
-        ],
-        "homepage": "https://zellij.dev",
-        "readme_summary": "Zellij is a terminal workspace and multiplexer written in Rust, designed for developers and ops-oriented users. It aims to provide a great out-of-the-box experience with advanced features like customizable layouts, multiplayer collaboration, floating/stacked panes, and a plugin system supporting WebAssembly.",
-        "key_features": [
-            "Workspace management",
-            "Terminal multiplexing",
-            "Customizable layouts",
-            "Multiplayer collaboration",
-            "Floating and stacked panes",
-            "Plugin system (WebAssembly)",
-            "Built-in web client"
-        ],
-        "primary_use_case": "Improving terminal workflow and productivity for developers and ops personnel.",
-        "open_issues": 1201,
-        "cover_image_prompt": "Imagine a skilled artisan in a workshop, meticulously crafting intricate stained-glass windows, each pane representing a different terminal session. The artisan seamlessly arranges and resizes these panes within a larger frame, symbolizing the workspace. Some panes float ethereally, while others stack neatly. Digital code streams subtly through the glass, and the repository name is etched elegantly into the frame. The workshop is bathed in warm, inviting light, creating a sense of focused productivity. The illustration should be in a 3D isometric style with vibrant colors and sharp details, emphasizing the organized and customizable nature of the terminal workspace."
-    },
-    {
-        "id": 967512112,
-        "name": "qtap",
-        "description": "Qtap: An eBPF agent that captures pre-encrypted network traffic, providing rich context about egress connections and their originating processes.",
-        "url": "https://github.com/qpoint-io/qtap",
-        "language": "C",
-        "stars": 1328,
-        "forks": 40,
-        "created_at": "2025-04-16T15:08:49Z",
-        "updated_at": "2025-09-24T09:15:36Z",
-        "topics": [
-            "containers",
-            "developer-tools",
-            "ebpf",
-            "go",
-            "golang",
-            "kubernetes",
-            "libbpf",
-            "linux",
-            "observability",
-            "security"
-        ],
-        "quality_score": 1.0000000000000002,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-17T17:34:59Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/967512112/f8898d6a-10a1-494e-a05b-3f465d0d72e7"
-        ],
-        "homepage": "https://qpoint.io/qtap",
-        "readme_summary": "Qtap is an eBPF agent designed to capture pre-encrypted network traffic on Linux systems. It provides visibility into egress connections and their originating processes by intercepting data before and after encryption, offering rich context without requiring application modifications or proxies.",
-        "key_features": [
-            "Captures pre-encrypted network traffic",
-            "Provides context about egress connections",
-            "Identifies originating processes",
-            "Operates out-of-band with minimal overhead",
-            "Supports security auditing",
-            "Helps debug network issues",
-            "Aids in API development"
-        ],
-        "primary_use_case": "Understanding and auditing egress network traffic for security, debugging, and API development purposes.",
-        "open_issues": 1,
-        "cover_image_prompt": "A skilled surgeon, wearing a high-tech visor displaying network traffic data, carefully dissects a fiber optic cable to reveal the raw, unencrypted data flowing within. The surgeon's tools glow with digital energy, extracting packets of information. Around the operating table, holographic displays show the originating processes and destinations of the data streams. The scene is set in a sterile, futuristic operating room with bright, focused lighting. Small UI elements display the Qtap logo and real-time data analysis. The composition is clean and focused, using a cool color scheme of blues and greens. The image should be in a 3D isometric illustration style with sharp details and a sense of precision."
-    },
-    {
-        "id": 117710726,
-        "name": "twirp",
-        "description": "A simple RPC framework with protobuf service definitions",
-        "url": "https://github.com/twitchtv/twirp",
-        "language": "Go",
-        "stars": 7437,
-        "forks": 327,
-        "created_at": "2018-01-16T16:37:30Z",
-        "updated_at": "2025-09-24T03:33:49Z",
-        "topics": [
-            "go",
-            "protobuf",
-            "rpc",
-            "twirp"
-        ],
-        "quality_score": 0.55,
-        "contributors_count": 0,
-        "last_commit_date": "2024-08-05T21:36:11Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/3400daccc2eae0e52f3e120a0788da373547181bd96a183a5610f7a854673fed/twitchtv/twirp"
-        ],
-        "homepage": "https://twitchtv.github.io/twirp/docs/intro.html",
-        "readme_summary": "Twirp is a simple RPC framework that uses protobuf service definitions to generate routing and serialization, allowing developers to focus on application logic. It runs on the standard `net/http` server, supports HTTP 1.1 and JSON serialization, and provides autogenerated clients and error handling.",
-        "key_features": [
-            "RPC framework",
-            "Protobuf service definitions",
-            "Code generation (routing, serialization, clients)",
-            "HTTP 1.1 support",
-            "JSON serialization",
-            "Error handling"
-        ],
-        "primary_use_case": "Service-to-service communication",
-        "open_issues": 9,
-        "cover_image_prompt": "A skilled postal worker sorts letters into labeled boxes, each representing a different service. The letters are protobuf messages, and the boxes glow with a soft light, indicating successful routing. A blueprint on the wall shows the service definitions. The worker uses a magnifying glass to inspect each letter, ensuring correct delivery. Small screens display code snippets and service logs. The scene is set in a clean, organized post office with warm, inviting lighting. The composition is balanced and focused. The image should be in a 3D isometric illustration style with clear iconography and vibrant colors."
-    },
-    {
-        "id": 987670088,
-        "name": "crush",
-        "description": "The glamourous AI coding agent for your favourite terminal 💘",
-        "url": "https://github.com/charmbracelet/crush",
-        "language": "Go",
-        "stars": 13070,
-        "forks": 662,
-        "created_at": "2025-05-21T12:14:57Z",
-        "updated_at": "2025-09-24T09:07:03Z",
-        "topics": [],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-24T06:54:37Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/987670088/9247ccb4-650d-4811-ba21-a1b5b47b4e70"
+            "https://opengraph.githubassets.com/a0f33dbccf2478fd80bbdd0fbcb870708b3160f5883655cd25ab07753803362f/bytedance/Dolphin"
         ],
         "homepage": "",
-        "readme_summary": "Crush is an AI coding agent designed to be used within a terminal environment. It allows users to integrate Large Language Models (LLMs) into their existing coding workflows, offering features like multi-model support, session-based context management, and LSP-enhanced code understanding.",
+        "readme_summary": "The Dolphin repository provides code and pre-trained models for document image parsing. It uses a novel multimodal approach called Heterogeneous Anchor Prompting to analyze and parse document images, extracting elements like text, figures, and tables in a structured manner. The model operates in two stages: layout analysis and parallel element parsing.",
         "key_features": [
-            "Multi-Model support",
-            "Flexible LLM switching",
-            "Session-Based context management",
-            "LSP-Enhanced code understanding",
-            "Extensible capabilities via MCPs",
-            "Cross-platform compatibility"
+            "Document image parsing",
+            "Heterogeneous Anchor Prompting",
+            "Two-stage approach (layout analysis and parallel parsing)",
+            "Pre-trained models",
+            "Multi-page PDF document parsing",
+            "TensorRT-LLM support for accelerated inference",
+            "vLLM support for accelerated inference"
         ],
-        "primary_use_case": "AI-assisted coding within a terminal environment.",
-        "open_issues": 195,
-        "cover_image_prompt": "A skilled architect stands before a digital blueprint, consulting with a glowing AI assistant that hovers nearby. The architect gestures at the blueprint, while the AI assistant suggests code snippets and solutions that materialize as shimmering overlays on the plan. The scene takes place in a modern, minimalist office with soft, ambient lighting. Small UI elements displaying code and terminal outputs are subtly integrated into the blueprint. The composition is clean and focused, with a blue and white color scheme. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+        "primary_use_case": "Parsing document images to extract structured information.",
+        "open_issues": 59,
+        "cover_image_prompt": "An architect meticulously examining a blueprint of a sprawling city made of documents. The architect uses a special lens that highlights different sections of the blueprint, transforming them into neatly organized building blocks. The blueprint is filled with text, charts, and images, all glowing with soft light. Small UI elements showing document structure and parsing results float around the architect. The scene is set in a bright, modern studio with a focus on precision and clarity. The image should be in 3D isometric illustration style with clean lines and vibrant colors."
+    },
+    {
+        "id": 914927532,
+        "name": "pxl-srt",
+        "description": "sorts image pixels by color",
+        "url": "https://github.com/solst-ice/pxl-srt",
+        "language": "JavaScript",
+        "stars": 49,
+        "forks": 7,
+        "created_at": "2025-01-10T15:42:43Z",
+        "updated_at": "2025-09-24T17:26:57Z",
+        "topics": [],
+        "quality_score": 0.25,
+        "contributors_count": 0,
+        "last_commit_date": "2025-01-10T15:51:19Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/7e2b9a2c2ed9e666553b701b72ace39e376666135d740df83cdfc7438888373a/solst-ice/pxl-srt"
+        ],
+        "homepage": "",
+        "readme_summary": "PXL-SRT is a web application that sorts the pixels of an image by color. Users can upload an image, and the application will reorganize the pixels into a smooth color gradient, displaying the original and sorted images side by side.",
+        "key_features": [
+            "Drag and drop image upload",
+            "Supports JPG and PNG formats",
+            "Shows original and sorted images side by side",
+            "Multiple image processing in one session",
+            "Color sorting with luminosity grouping"
+        ],
+        "primary_use_case": "Visually re-organizing images by sorting their pixels based on color, creating a gradient effect.",
+        "open_issues": 1,
+        "cover_image_prompt": "An artist meticulously arranging colored tiles on a large mosaic canvas, transforming a jumbled image into a smooth, vibrant color gradient. The artist carefully selects each tile, guided by a digital color palette displayed on a nearby screen. The canvas shows the original, unsorted image on one side, gradually transitioning into the beautifully sorted mosaic on the other. Small UI elements showing color sorting algorithms are subtly overlaid. The scene is set in a bright, modern art studio with natural lighting. The image should be in a flat design style with clear iconography and a harmonious color scheme."
+    },
+    {
+        "id": 1062568676,
+        "name": "pingerr",
+        "description": "Find the most optimal DNS server for your router/machine",
+        "url": "https://github.com/Panchajanya1999/pingerr",
+        "language": "Shell",
+        "stars": 27,
+        "forks": 0,
+        "created_at": "2025-09-23T12:35:14Z",
+        "updated_at": "2025-09-25T10:07:29Z",
+        "topics": [],
+        "quality_score": 0.55,
+        "contributors_count": 0,
+        "last_commit_date": "2025-09-23T16:32:10Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/58ce0cbda2b5659fa3f30b71beb7e96a516ce9f9af4f7e57726094c68ad61d30/Panchajanya1999/pingerr"
+        ],
+        "homepage": null,
+        "readme_summary": "The pingerr repository provides a DNS benchmarking tool that tests over 60 public DNS servers to identify the fastest and most reliable DNS resolver for a given network. It performs multiple test iterations, analyzes DNS-ping correlation, and uses a smart scoring system to provide configuration recommendations.",
+        "key_features": [
+            "Tests 60+ DNS Servers",
+            "Multiple Test Iterations",
+            "DNS-Ping Correlation Analysis",
+            "Smart Scoring System",
+            "Color-Coded Results",
+            "Configuration Recommendations"
+        ],
+        "primary_use_case": "Finding the optimal DNS server for a network by benchmarking multiple public DNS servers.",
+        "open_issues": 1,
+        "cover_image_prompt": "A seasoned explorer standing atop a mountain of servers, holding a compass that points towards the fastest DNS server in the distance. The explorer uses a sextant to measure the latency of signals bouncing off the servers. The base of the mountain is surrounded by a network of interconnected routers and cables. Small UI elements display DNS query times and ping latency. Digital particles flow from the compass towards the optimal server. The scene is set in a vibrant, futuristic landscape with clear skies. The image should be in 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 818001992,
+        "name": "serpl",
+        "description": "A simple terminal UI for search and replace, ala VS Code.",
+        "url": "https://github.com/yassinebridi/serpl",
+        "language": "Rust",
+        "stars": 756,
+        "forks": 10,
+        "created_at": "2024-06-20T22:27:13Z",
+        "updated_at": "2025-09-25T09:59:31Z",
+        "topics": [
+            "ast-grep",
+            "replace",
+            "rust",
+            "search",
+            "terminal",
+            "tui",
+            "vscode"
+        ],
+        "quality_score": 0.7,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-11T09:18:48Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/34e88800ee212c7d0c0e0ad088452d3bb7658e5d5612d7a88cb19d953aa75361/yassinebridi/serpl"
+        ],
+        "homepage": "",
+        "readme_summary": "Serpl is a terminal user interface (TUI) application written in Rust that enables users to search and replace keywords within an entire project folder, offering similar functionality to VS Code. It supports features like case sensitivity, AST Grep, interactive preview of search results, and customizable key bindings.",
+        "key_features": [
+            "Search for keywords across an entire project folder with options for case sensitivity and AST Grep.",
+            "Replace keywords with options for preserving case and AST Grep.",
+            "Interactive preview of search results.",
+            "Keyboard navigation for efficient workflow.",
+            "Configurable key bindings and search modes."
+        ],
+        "primary_use_case": "Searching and replacing keywords in codebases from the terminal.",
+        "open_issues": 19,
+        "cover_image_prompt": "A skilled artisan meticulously repairing a tapestry riddled with errors, using a magnifying glass to identify flawed threads and a needle to weave in perfect replacements. The tapestry represents a large codebase, with interwoven lines of code forming intricate patterns. Small screens display search queries and replacement suggestions, while digital particles highlight the areas being modified. The scene is set in a brightly lit workshop filled with spools of colorful thread. The image should be in a 3D isometric illustration style with vibrant colors and clear details."
+    },
+    {
+        "id": 1051417673,
+        "name": "desktop-tui",
+        "description": "A desktop environment without graphics",
+        "url": "https://github.com/Julien-cpsn/desktop-tui",
+        "language": "Rust",
+        "stars": 936,
+        "forks": 18,
+        "created_at": "2025-09-06T00:42:53Z",
+        "updated_at": "2025-09-25T09:55:52Z",
+        "topics": [],
+        "quality_score": 0.6499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-09-21T20:48:51Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/ce48457a0bc3490c78375be6ab9b210a24ad453788bf4492a729e7879fa37fea/Julien-cpsn/desktop-tui"
+        ],
+        "homepage": null,
+        "readme_summary": "The desktop-tui repository provides a text-based desktop environment, similar to tmux, allowing users to run and manage applications without a graphical interface. It supports features like shortcut files, custom commands, window management, and terminal customization, all accessible through a terminal interface.",
+        "key_features": [
+            "Parse shortcut files containing apps",
+            "Display any application or command that uses stdout",
+            "Change tilling options",
+            "Can let the user select a file or a folder to use its path as a command argument",
+            "Clock"
+        ],
+        "primary_use_case": "Providing a text-based desktop environment for running and managing applications in a terminal.",
+        "open_issues": 5,
+        "cover_image_prompt": "A skilled typist sitting at an old-fashioned typewriter, but instead of paper, the output appears directly as interactive windows and applications on a large, glowing terminal screen. The typist uses shortcut commands to arrange the windows in a tiled layout. The scene is set in a minimalist, modern office with soft lighting. Subtle digital elements like glowing command prompts and data streams flow from the typewriter to the screen. The repository name 'desktop-tui' is subtly displayed on the terminal's title bar. The composition is clean and focused with a muted color scheme. The image should be in a flat design style with clear iconography."
+    },
+    {
+        "id": 637533152,
+        "name": "pyapp",
+        "description": "Runtime installer for Python applications",
+        "url": "https://github.com/ofek/pyapp",
+        "language": "Rust",
+        "stars": 1749,
+        "forks": 52,
+        "created_at": "2023-05-07T20:56:04Z",
+        "updated_at": "2025-09-25T08:53:39Z",
+        "topics": [
+            "application",
+            "build",
+            "cli",
+            "packaging",
+            "python",
+            "rust"
+        ],
+        "quality_score": 0.7,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-17T16:19:50Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/0b509f1f2900cbb77709e4b5a5599cac887a53a21bbc69bbc965b12139a3a60f/ofek/pyapp"
+        ],
+        "homepage": "https://ofek.dev/pyapp/",
+        "readme_summary": "PyApp is a Rust-based tool for creating standalone, self-bootstrapping binaries for Python applications. It simplifies the packaging and distribution process, allowing developers to easily build and deploy their Python applications across various platforms with optional management commands and configurable runtime behavior.",
+        "key_features": [
+            "Easily build standalone binaries for every platform",
+            "Optional management commands providing functionality such as self updates",
+            "Extremely configurable runtime behavior allowing for targeting of different end users"
+        ],
+        "primary_use_case": "Creating runtime installers for Python applications.",
+        "open_issues": 20,
+        "cover_image_prompt": "A skilled artisan carefully placing a miniature Python application inside a protective, futuristic capsule. The artisan uses advanced tools to seal the capsule, ensuring the application is safe and ready for distribution. The capsule glows with a soft, internal light, indicating the application's runtime environment. Small UI elements display the PyApp logo and packaging progress. The scene is set in a clean, modern workshop with bright, focused lighting. The composition is symmetrical and balanced with a cool color scheme. The image should be in 3D isometric illustration style with rich details."
+    },
+    {
+        "id": 1041472829,
+        "name": "DiffMem",
+        "description": "Git Based Memory Storage for Conversational AI Agent",
+        "url": "https://github.com/Growth-Kinetics/DiffMem",
+        "language": "Python",
+        "stars": 640,
+        "forks": 36,
+        "created_at": "2025-08-20T14:35:47Z",
+        "updated_at": "2025-09-25T08:16:31Z",
+        "topics": [],
+        "quality_score": 0.75,
+        "contributors_count": 0,
+        "last_commit_date": "2025-09-02T06:38:25Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/eb2317bcda4d945154f4661306b787a6f602a5a0b04439698b2acbeea13a35cc/Growth-Kinetics/DiffMem"
+        ],
+        "homepage": null,
+        "readme_summary": "DiffMem is a Git-based memory backend designed for AI agents and conversational systems. It leverages Git for tracking the evolution of knowledge and uses Markdown files for human-readable storage. It also uses an in-memory BM25 index for fast, explainable retrieval, enabling efficient and scalable memory management for AI applications.",
+        "key_features": [
+            "Git-based versioning for memory",
+            "Markdown storage for human-readability",
+            "BM25 index for fast retrieval",
+            "Differential intelligence via Git diffs",
+            "Current-state focus for efficient queries",
+            "Modular design with Writer, Context Manager, and Searcher agents"
+        ],
+        "primary_use_case": "Providing a version-controlled and efficient memory system for AI agents, particularly for long-term, evolving knowledge.",
+        "open_issues": 1,
+        "cover_image_prompt": "A librarian meticulously archiving memories represented as glowing orbs into a vast, branching Git tree. The librarian uses a special magnifying glass to examine the 'diffs' between orbs, revealing how memories evolve over time. UI elements displaying commit messages and code snippets subtly connect the scene to software. The setting is a futuristic library with warm, inviting lighting. The composition is a wide shot showing the scale of the memory archive. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 1016047023,
+        "name": "PulseTimer",
+        "description": "A modern work timer with AI-powered recommendations. Get smart timer settings based on your goals, plus beautiful design and focus features.",
+        "url": "https://github.com/Efeckc17/PulseTimer",
+        "language": "JavaScript",
+        "stars": 19,
+        "forks": 0,
+        "created_at": "2025-07-08T12:11:08Z",
+        "updated_at": "2025-09-25T06:06:57Z",
+        "topics": [
+            "ai",
+            "ai-timer",
+            "css",
+            "html5",
+            "javascript",
+            "open-source",
+            "pomodoro",
+            "pomodoro-app",
+            "timer-application",
+            "timer-clock",
+            "timer-website",
+            "web-application"
+        ],
+        "quality_score": 0.44999999999999996,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-23T18:43:39Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/ede951e956aa596c57bff97ca37c9cbb1ed063c90acbbf8fab607b8e5c032dbf/Efeckc17/PulseTimer"
+        ],
+        "homepage": "https://timer.toxi360.org",
+        "readme_summary": "PulseTimer is a modern work timer application with AI-powered recommendations. It offers smart timer settings based on user goals, a clean design, and focus features. The application supports both online usage and local installation, providing flexible timer configurations and productivity tracking.",
+        "key_features": [
+            "AI Assistant for smart timer recommendations",
+            "8 Presets for various activities (Study, Deep Work, etc.)",
+            "Flexible Timer with custom intervals and session names",
+            "Smart Notifications with desktop alerts and audio feedback",
+            "Modern Design with a responsive interface",
+            "Session History for tracking productivity",
+            "Privacy Focused with local data storage"
+        ],
+        "primary_use_case": "Improving focus and productivity through customizable and AI-assisted timer settings for various work and study activities.",
+        "open_issues": 0,
+        "cover_image_prompt": "A diligent clockwork robot sitting at a desk, meticulously organizing gears representing different tasks (coding, writing, research) into a large, central timer. The robot uses a small AI assistant floating beside it to suggest optimal gear arrangements. The timer displays a clear, segmented view of work and break intervals. Subtle UI elements and code snippets float in the background. The scene is set in a brightly lit, minimalist workshop. The composition is clean and focused with a pastel color scheme. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
     }
 ]

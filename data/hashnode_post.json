@@ -1,30 +1,30 @@
 {
-    "title": "Opcode: Your New Best Friend for Claude Code",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nOpcode is a desktop application built with Tauri 2 that provides a GUI for managing Claude Code sessions and creating custom agents. It aims to bridge the gap between command-line tools and a visual experience for AI-assisted development, offering features like usage tracking, project management, and background agent execution.\n\n## 🔑 Key Takeaways\n\n- ✅ Streamlined Claude Code workflow with a user-friendly GUI\n\n- ✅ Effortless management of projects, sessions, and custom agents\n\n- ✅ Comprehensive usage analytics dashboard for cost tracking and optimization\n\n- ✅ Fast and responsive performance thanks to Tauri 2\n\n- ✅ Enhanced development experience through intuitive interface and increased efficiency\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 17428\n- 🍴 Forks: 1290\n- ❗ Open Issues: 220\n\n\n## 🛠 Tech Stack\n- ✅ TypeScript\n\n\nTired of juggling multiple windows and command lines when working with Claude Code?  Wish there was a more intuitive way to manage your projects, agents, and sessions? Then get ready to meet Opcode, the revolutionary new GUI application built to supercharge your Claude Code workflow!  Opcode isn't just another pretty face; it's a powerful toolkit designed to streamline your entire AI-assisted development process. Forget about endless terminal commands and cryptic logs – Opcode provides a clean, user-friendly interface for everything you need.  Imagine effortlessly managing multiple Claude Code projects, each with its own session history and custom agents.  Opcode makes this a reality.  It's like having a dedicated command center for all your Claude Code activities, allowing you to focus on what truly matters: building amazing things.  At its core, Opcode is built on Tauri 2, guaranteeing a fast and responsive experience.  It handles everything from project organization and session management to creating and running custom AI agents.  This means you can create specialized agents tailored to specific tasks – imagine an agent for code generation, another for debugging, and yet another for testing. The possibilities are endless!  But it doesn't stop there. Opcode also includes a comprehensive usage analytics dashboard.  This lets you monitor your Claude API usage and costs in real-time, providing valuable insights into your development patterns and helping you optimize your spending.  You can even export this data for accounting purposes, making it a breeze to track expenses.  The visual charts and detailed breakdowns offer a comprehensive view of your Claude Code usage, enabling you to make informed decisions about your projects and resource allocation.  Opcode isn't just about efficiency; it's about enhancing your overall development experience.  By providing a unified and intuitive interface, Opcode eliminates the friction often associated with using large language models.  It empowers you to experiment more freely, explore new possibilities, and ultimately, become a more productive developer.  So, are you ready to take your Claude Code projects to the next level?  Opcode is the answer.  Give it a try – you won't be disappointed!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/winfunc/opcode)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Dolphin: Effortlessly Parse Document Images!",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nThe Dolphin repository provides code and pre-trained models for document image parsing. It uses a novel multimodal approach called Heterogeneous Anchor Prompting to analyze and parse document images, extracting elements like text, figures, and tables in a structured manner. The model operates in two stages: layout analysis and parallel element parsing.\n\n## 🔑 Key Takeaways\n\n- ✅ Dolphin uses a two-stage approach for efficient and accurate document image parsing.\n\n- ✅ It offers a lightweight architecture and parallel processing for superior speed.\n\n- ✅ Pre-trained models are readily available through Hugging Face and ModelScope.\n\n- ✅ The project supports multi-page PDF document parsing.\n\n- ✅ It's an open-source project with excellent documentation and community support.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 6610\n- 🍴 Forks: 538\n- ❗ Open Issues: 59\n\n\n## 🛠 Tech Stack\n- ✅ Python\n\n\nTired of wrestling with complex document image parsing?  Meet Dolphin, a game-changing project that simplifies the process dramatically.  Imagine a world where extracting text, tables, and figures from scanned documents is as easy as it sounds – that's the promise of Dolphin.  This innovative model uses a clever two-stage approach. First, it analyzes the entire page, figuring out the layout and the order of elements just like a human would read it. Then, it efficiently parses each element individually using what the developers call 'heterogeneous anchors'. Think of these anchors as smart pointers that guide the model to the right information, making the parsing super accurate and fast.  Dolphin isn't just about accuracy; it's also about speed and efficiency. Its lightweight architecture and parallel processing capabilities mean you get results quickly, even with large documents.  The project is open-source, meaning you can easily integrate it into your own workflows.  Whether you're building an OCR application, automating data entry, or working on any project that involves document processing, Dolphin offers a significant advantage.  It's been tested on various datasets and consistently delivers impressive results, outperforming many existing solutions. What's more, it supports multiple page PDFs, enhancing its versatility.  The project offers pre-trained models readily available through Hugging Face and ModelScope, making it incredibly easy to get started.  There's even a handy online demo to try before you commit!  The team behind Dolphin has also provided excellent documentation and support, making the integration process smooth and straightforward. If you're looking to improve your document processing pipeline, save time, and boost your efficiency, look no further than Dolphin.  It's a powerful, versatile, and easy-to-use tool that's set to revolutionize how we handle document images.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/bytedance/Dolphin)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "claude code",
-            "slug": "claude-code"
+            "name": "document image parsing",
+            "slug": "document-image-parsing"
         },
         {
-            "name": "gui",
-            "slug": "gui"
+            "name": "ocr",
+            "slug": "ocr"
         },
         {
-            "name": "ai",
-            "slug": "ai"
+            "name": "multimodal",
+            "slug": "multimodal"
         },
         {
-            "name": "tauri",
-            "slug": "tauri"
+            "name": "open-source",
+            "slug": "open-source"
         },
         {
-            "name": "agent development",
-            "slug": "agent-development"
+            "name": "python",
+            "slug": "python"
         }
     ],
-    "slug": "opcode-your-new-best-friend-for-claude-code",
-    "project_id": 1004995740,
+    "slug": "dolphin-effortlessly-parse-document-images",
+    "project_id": 982697710,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
