@@ -1,7 +1,0 @@
-{
-    "project_id": 1043937336,
-    "content": "🚀 <b>doomscroll-detector</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDetecting and discouraging doomscrolling behavior.\n<br>\n✨ <b>Key Features:</b>\n• YOLOv11 pose estimation for keypoint tracking\n• YOLO object detection for phone detection\n• Heuristic-based reclined posture detection (hip/shoulder alignment)\n• Wrist proximity to phone detection\n• Spoofed penalty counter\n<br>\n📖 <b>Summary:</b>\nThe Doomscrolling Detector is a computer vision pipeline designed to identify and discourage excessive phone usage while in a reclined position. It uses pose estimation and object detection to determine when a user is likely doomscrolling, and then applies a spoofed penalty counter as a deterrent.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/andrew-noble/doomscroll-detector?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/ecdb8c69b6d760cfa2c8bca2fd662653e100ad875ed7b8875cb7a630f661f659/andrew-noble/doomscroll-detector",
-    "platform": "telegram",
-    "quality_score": 0.44999999999999996
-}
