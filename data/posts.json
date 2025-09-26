@@ -1,58 +1,58 @@
 [
     {
-        "project_id": 982697710,
-        "content": "🔥 <b>Dolphin</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nParsing document images to extract structured information.\n<br>\n✨ <b>Key Features:</b>\n• Document image parsing\n• Heterogeneous Anchor Prompting\n• Two-stage approach (layout analysis and parallel parsing)\n• Pre-trained models\n• Multi-page PDF document parsing\n<br>\n📖 <b>Summary:</b>\nThe Dolphin repository provides code and pre-trained models for document image parsing. It uses a novel multimodal approach called Heterogeneous Anchor Prompting to analyze and parse document images, extracting elements like text, figures, and tables in a structured manner. The model operates in two stages: layout analysis and parallel element parsing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bytedance/Dolphin?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a0f33dbccf2478fd80bbdd0fbcb870708b3160f5883655cd25ab07753803362f/bytedance/Dolphin",
-        "platform": "telegram",
-        "quality_score": 0.9000000000000001
-    },
-    {
-        "project_id": 914927532,
-        "content": "💡 <b>pxl-srt</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nVisually re-organizing images by sorting their pixels based on color, creating a gradient effect.\n<br>\n✨ <b>Key Features:</b>\n• Drag and drop image upload\n• Supports JPG and PNG formats\n• Shows original and sorted images side by side\n• Multiple image processing in one session\n• Color sorting with luminosity grouping\n<br>\n📖 <b>Summary:</b>\nPXL-SRT is a web application that sorts the pixels of an image by color. Users can upload an image, and the application will reorganize the pixels into a smooth color gradient, displaying the original and sorted images side by side.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/solst-ice/pxl-srt?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7e2b9a2c2ed9e666553b701b72ace39e376666135d740df83cdfc7438888373a/solst-ice/pxl-srt",
-        "platform": "telegram",
-        "quality_score": 0.25
-    },
-    {
-        "project_id": 1062568676,
-        "content": "🌟 <b>pingerr</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nFinding the optimal DNS server for a network by benchmarking multiple public DNS servers.\n<br>\n✨ <b>Key Features:</b>\n• Tests 60+ DNS Servers\n• Multiple Test Iterations\n• DNS-Ping Correlation Analysis\n• Smart Scoring System\n• Color-Coded Results\n<br>\n📖 <b>Summary:</b>\nThe pingerr repository provides a DNS benchmarking tool that tests over 60 public DNS servers to identify the fastest and most reliable DNS resolver for a given network. It performs multiple test iterations, analyzes DNS-ping correlation, and uses a smart scoring system to provide configuration recommendations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Panchajanya1999/pingerr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/58ce0cbda2b5659fa3f30b71beb7e96a516ce9f9af4f7e57726094c68ad61d30/Panchajanya1999/pingerr",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 818001992,
-        "content": "🚀 <b>serpl</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSearching and replacing keywords in codebases from the terminal.\n<br>\n✨ <b>Key Features:</b>\n• Search for keywords across an entire project folder with options for case sensitivity and AST Grep.\n• Replace keywords with options for preserving case and AST Grep.\n• Interactive preview of search results.\n• Keyboard navigation for efficient workflow.\n• Configurable key bindings and search modes.\n<br>\n📖 <b>Summary:</b>\nSerpl is a terminal user interface (TUI) application written in Rust that enables users to search and replace keywords within an entire project folder, offering similar functionality to VS Code. It supports features like case sensitivity, AST Grep, interactive preview of search results, and customizable key bindings.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yassinebridi/serpl?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/34e88800ee212c7d0c0e0ad088452d3bb7658e5d5612d7a88cb19d953aa75361/yassinebridi/serpl",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 1051417673,
-        "content": "✨ <b>desktop-tui</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a text-based desktop environment for running and managing applications in a terminal.\n<br>\n✨ <b>Key Features:</b>\n• Parse shortcut files containing apps\n• Display any application or command that uses stdout\n• Change tilling options\n• Can let the user select a file or a folder to use its path as a command argument\n• Clock\n<br>\n📖 <b>Summary:</b>\nThe desktop-tui repository provides a text-based desktop environment, similar to tmux, allowing users to run and manage applications without a graphical interface. It supports features like shortcut files, custom commands, window management, and terminal customization, all accessible through a terminal interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Julien-cpsn/desktop-tui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ce48457a0bc3490c78375be6ab9b210a24ad453788bf4492a729e7879fa37fea/Julien-cpsn/desktop-tui",
-        "platform": "telegram",
-        "quality_score": 0.6499999999999999
-    },
-    {
-        "project_id": 637533152,
-        "content": "🔥 <b>pyapp</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating runtime installers for Python applications.\n<br>\n✨ <b>Key Features:</b>\n• Easily build standalone binaries for every platform\n• Optional management commands providing functionality such as self updates\n• Extremely configurable runtime behavior allowing for targeting of different end users\n<br>\n📖 <b>Summary:</b>\nPyApp is a Rust-based tool for creating standalone, self-bootstrapping binaries for Python applications. It simplifies the packaging and distribution process, allowing developers to easily build and deploy their Python applications across various platforms with optional management commands and configurable runtime behavior.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ofek/pyapp?embed=0\">View Project</a>\n• <a href=\"https://ofek.dev/pyapp/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0b509f1f2900cbb77709e4b5a5599cac887a53a21bbc69bbc965b12139a3a60f/ofek/pyapp",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 1041472829,
-        "content": "💡 <b>DiffMem</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a version-controlled and efficient memory system for AI agents, particularly for long-term, evolving knowledge.\n<br>\n✨ <b>Key Features:</b>\n• Git-based versioning for memory\n• Markdown storage for human-readability\n• BM25 index for fast retrieval\n• Differential intelligence via Git diffs\n• Current-state focus for efficient queries\n<br>\n📖 <b>Summary:</b>\nDiffMem is a Git-based memory backend designed for AI agents and conversational systems. It leverages Git for tracking the evolution of knowledge and uses Markdown files for human-readable storage. It also uses an in-memory BM25 index for fast, explainable retrieval, enabling efficient and scalable memory management for AI applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Growth-Kinetics/DiffMem?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/eb2317bcda4d945154f4661306b787a6f602a5a0b04439698b2acbeea13a35cc/Growth-Kinetics/DiffMem",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 1016047023,
-        "content": "💡 <b>PulseTimer</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nImproving focus and productivity through customizable and AI-assisted timer settings for various work and study activities.\n<br>\n✨ <b>Key Features:</b>\n• AI Assistant for smart timer recommendations\n• 8 Presets for various activities (Study, Deep Work, etc.)\n• Flexible Timer with custom intervals and session names\n• Smart Notifications with desktop alerts and audio feedback\n<br>\n📖 <b>Summary:</b>\nPulseTimer is a modern work timer application with AI-powered recommendations. It offers smart timer settings based on user goals, a clean design, and focus features. The application supports both online usage and local installation, providing flexible timer configurations and productivity tracking.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Efeckc17/PulseTimer?embed=0\">View Project</a>\n• <a href=\"https://timer.toxi360.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ede951e956aa596c57bff97ca37c9cbb1ed063c90acbbf8fab607b8e5c032dbf/Efeckc17/PulseTimer",
+        "project_id": 1043937336,
+        "content": "🚀 <b>doomscroll-detector</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDetecting and discouraging doomscrolling behavior.\n<br>\n✨ <b>Key Features:</b>\n• YOLOv11 pose estimation for keypoint tracking\n• YOLO object detection for phone detection\n• Heuristic-based reclined posture detection (hip/shoulder alignment)\n• Wrist proximity to phone detection\n• Spoofed penalty counter\n<br>\n📖 <b>Summary:</b>\nThe Doomscrolling Detector is a computer vision pipeline designed to identify and discourage excessive phone usage while in a reclined position. It uses pose estimation and object detection to determine when a user is likely doomscrolling, and then applies a spoofed penalty counter as a deterrent.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/andrew-noble/doomscroll-detector?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ecdb8c69b6d760cfa2c8bca2fd662653e100ad875ed7b8875cb7a630f661f659/andrew-noble/doomscroll-detector",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 819751459,
+        "content": "🌟 <b>Air-Guard</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring and analyzing wireless communication data to detect and prevent Wi-Fi intrusions and attacks.\n<br>\n✨ <b>Key Features:</b>\n• Real-time WiFi packet capture using ESP32\n• Graphical user interface for easy interaction\n• Live packet statistics and visualization\n• Detection of deauthentication attacks and Evil_Twin attacks\n• Machine learning-based detection of Kr00k vulnerability and web spoofing attacks\n<br>\n📖 <b>Summary:</b>\nAir-Guard is an ESP32-based Wi-Fi Intrusion Detection System that captures and analyzes wireless communication data in real-time. It provides a graphical interface for data visualization, detects various attacks like deauthentication and Evil Twin, and uses machine learning for advanced threat detection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/razvan-radutoiu/Air-Guard?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fca6f68d6f7c897489cc2929c207303a5a0b2c1b91bc6a30b53d438bf41231d7/razvan-radutoiu/Air-Guard",
+        "platform": "telegram",
+        "quality_score": 0.15
+    },
+    {
+        "project_id": 1044117453,
+        "content": "✨ <b>pageindex-mcp</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling users to interact with long PDFs on Claude and other MCP-compatible clients by providing a reasoning-based RAG system.\n<br>\n✨ <b>Key Features:</b>\n• Chat with long PDFs\n• Reasoning-based RAG system\n• Local and online PDF support\n• Free usage (1000 pages)\n• Unlimited conversations\n<br>\n📖 <b>Summary:</b>\nThe PageIndex MCP repository provides a Multi-Client Protocol (MCP) server that allows users to chat with long PDFs using Claude, even when they encounter limit restrictions. It leverages a reasoning-based RAG system to provide human-like interactions with documents, offering features like local and online PDF support and unlimited conversations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/VectifyAI/pageindex-mcp?embed=0\">View Project</a>\n• <a href=\"https://pageindex.ai/mcp?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f61b4296d5d05f3c01700976da2efee3bd6db1a30b3b0fc63965e7337cf9069e/VectifyAI/pageindex-mcp",
+        "platform": "telegram",
+        "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 707614074,
+        "content": "🔥 <b>link-extractor</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEfficiently extracting and managing links from web pages within a browser environment.\n<br>\n✨ <b>Key Features:</b>\n• Extracting links from web pages\n• Parsing links\n• Opening links\n• Filtering links\n<br>\n📖 <b>Summary:</b>\nThe 'link-extractor' repository provides a web extension designed to extract, parse, and open links from web pages. It supports filtering links based on user-defined criteria, enhancing the user's ability to manage and interact with web content efficiently across multiple browsers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cssnr/link-extractor?embed=0\">View Project</a>\n• <a href=\"https://link-extractor.cssnr.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/707614074/5ce6c147-4b15-4715-a78f-89faff8697dd",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 1013031861,
+        "content": "🔥 <b>ssh-bot</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nRemotely executing commands on servers or devices within a home network via Telegram.\n<br>\n✨ <b>Key Features:</b>\n• Executing commands on local or remote hosts via SSH\n• Parallel (asynchronous) command execution\n• SSH connection manager with host availability check\n• Support for directory navigation\n• Combined access to remote hosts by key and/or password\n<br>\n📖 <b>Summary:</b>\nThe ssh-bot is a Telegram bot written in Go that allows users to execute commands on remote hosts via SSH. It eliminates the need for VPNs or external IPs by providing asynchronous command execution and a connection manager with host availability checks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lifailon/ssh-bot?embed=0\">View Project</a>\n• <a href=\"https://hub.docker.com/r/lifailon/ssh-bot?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/302fee52fab0871791c16e0b3cba7ac6a124c4d4b86c8a7d67f150499d3975c9/Lifailon/ssh-bot",
+        "platform": "telegram",
+        "quality_score": 0.4
+    },
+    {
+        "project_id": 831373509,
+        "content": "🚀 <b>uncloud</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDeploying and managing web applications across a network of Docker hosts with minimal cluster management overhead.\n<br>\n✨ <b>Key Features:</b>\n• Deploy anywhere (cloud VMs, bare metal)\n• Docker Compose support\n• Zero-downtime deployments (rolling updates)\n• Service discovery\n• Persistent storage\n<br>\n📖 <b>Summary:</b>\nUncloud is a lightweight container orchestration tool designed to simplify the deployment and management of containerized applications across multiple Docker hosts. It aims to provide the power of multi-machine deployments with the simplicity of Docker, bridging the gap to Kubernetes by offering features like service discovery, load balancing, and automatic HTTPS without the complexity of a central control plane.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/psviderski/uncloud?embed=0\">View Project</a>\n• <a href=\"https://uncloud.run?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/70a740c6da965615e4ba6bb80fb826731b0241122ba19d0ebb614f0ecccb94af/psviderski/uncloud",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 876611731,
+        "content": "🚀 <b>pinguem</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring the availability of hosts and subnets through a web interface and providing metrics for Prometheus.\n<br>\n✨ <b>Key Features:</b>\n• Asynchronous host/subnet availability checking\n• Web interface built with Vue\n• Dynamic address input fields with client-side storage\n• Subnet scanning capability\n• Docker deployment support\n<br>\n📖 <b>Summary:</b>\nPinguem is a web interface built with Vue that allows users to asynchronously check the availability of hosts or subnets. It utilizes the node-ping library for pinging and provides a Prometheus exporter for monitoring ping results. The application can be deployed using Docker or built from source using npm.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lifailon/pinguem?embed=0\">View Project</a>\n• <a href=\"https://hub.docker.com/r/lifailon/pinguem?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/cd3c43099aed1b5f124ea1fdbc9a8603afc4c64751220239b4774bd114bc54c1/Lifailon/pinguem",
+        "platform": "telegram",
+        "quality_score": 0.3
+    },
+    {
+        "project_id": 796010781,
+        "content": "🔥 <b>plutoprint</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating reports, invoices, and visual snapshots from HTML content.\n<br>\n✨ <b>Key Features:</b>\n• Generates PDFs from HTML\n• Generates images from HTML\n• Command-line interface for PDF generation\n• Python API for PDF and image generation\n• QR code generation support\n<br>\n📖 <b>Summary:</b>\nPlutoPrint is a Python library that generates PDFs and images from HTML content. It leverages PlutoBook's rendering engine to provide a simple API for converting HTML into PDF documents or image files, making it suitable for generating reports, invoices, and visual snapshots.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/plutoprint/plutoprint?embed=0\">View Project</a>\n• <a href=\"https://plutoprint.readthedocs.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8e27c5e30b5e24613c1bd1aa7d005bdbbb88da63c530192ead71f411ab398dc7/plutoprint/plutoprint",
+        "platform": "telegram",
+        "quality_score": 0.6499999999999999
     }
 ]

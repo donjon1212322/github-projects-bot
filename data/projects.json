@@ -1,284 +1,297 @@
 [
     {
-        "id": 982697710,
-        "name": "Dolphin",
-        "description": "The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.",
-        "url": "https://github.com/bytedance/Dolphin",
+        "id": 1043937336,
+        "name": "doomscroll-detector",
+        "description": "Computer vision pipeline to detect and punish doomscrolling",
+        "url": "https://github.com/andrew-noble/doomscroll-detector",
         "language": "Python",
-        "stars": 6610,
-        "forks": 538,
-        "created_at": "2025-05-13T09:20:19Z",
-        "updated_at": "2025-09-25T10:09:15Z",
-        "topics": [
-            "document-analysis",
-            "layout-analysis",
-            "ocr",
-            "parser",
-            "pdf",
-            "pdf-converter",
-            "pdf-parser",
-            "python",
-            "vlm-ocr"
-        ],
-        "quality_score": 0.9000000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-29T10:38:50Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/a0f33dbccf2478fd80bbdd0fbcb870708b3160f5883655cd25ab07753803362f/bytedance/Dolphin"
-        ],
-        "homepage": "",
-        "readme_summary": "The Dolphin repository provides code and pre-trained models for document image parsing. It uses a novel multimodal approach called Heterogeneous Anchor Prompting to analyze and parse document images, extracting elements like text, figures, and tables in a structured manner. The model operates in two stages: layout analysis and parallel element parsing.",
-        "key_features": [
-            "Document image parsing",
-            "Heterogeneous Anchor Prompting",
-            "Two-stage approach (layout analysis and parallel parsing)",
-            "Pre-trained models",
-            "Multi-page PDF document parsing",
-            "TensorRT-LLM support for accelerated inference",
-            "vLLM support for accelerated inference"
-        ],
-        "primary_use_case": "Parsing document images to extract structured information.",
-        "open_issues": 59,
-        "cover_image_prompt": "An architect meticulously examining a blueprint of a sprawling city made of documents. The architect uses a special lens that highlights different sections of the blueprint, transforming them into neatly organized building blocks. The blueprint is filled with text, charts, and images, all glowing with soft light. Small UI elements showing document structure and parsing results float around the architect. The scene is set in a bright, modern studio with a focus on precision and clarity. The image should be in 3D isometric illustration style with clean lines and vibrant colors."
-    },
-    {
-        "id": 914927532,
-        "name": "pxl-srt",
-        "description": "sorts image pixels by color",
-        "url": "https://github.com/solst-ice/pxl-srt",
-        "language": "JavaScript",
-        "stars": 49,
-        "forks": 7,
-        "created_at": "2025-01-10T15:42:43Z",
-        "updated_at": "2025-09-24T17:26:57Z",
-        "topics": [],
-        "quality_score": 0.25,
-        "contributors_count": 0,
-        "last_commit_date": "2025-01-10T15:51:19Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/7e2b9a2c2ed9e666553b701b72ace39e376666135d740df83cdfc7438888373a/solst-ice/pxl-srt"
-        ],
-        "homepage": "",
-        "readme_summary": "PXL-SRT is a web application that sorts the pixels of an image by color. Users can upload an image, and the application will reorganize the pixels into a smooth color gradient, displaying the original and sorted images side by side.",
-        "key_features": [
-            "Drag and drop image upload",
-            "Supports JPG and PNG formats",
-            "Shows original and sorted images side by side",
-            "Multiple image processing in one session",
-            "Color sorting with luminosity grouping"
-        ],
-        "primary_use_case": "Visually re-organizing images by sorting their pixels based on color, creating a gradient effect.",
-        "open_issues": 1,
-        "cover_image_prompt": "An artist meticulously arranging colored tiles on a large mosaic canvas, transforming a jumbled image into a smooth, vibrant color gradient. The artist carefully selects each tile, guided by a digital color palette displayed on a nearby screen. The canvas shows the original, unsorted image on one side, gradually transitioning into the beautifully sorted mosaic on the other. Small UI elements showing color sorting algorithms are subtly overlaid. The scene is set in a bright, modern art studio with natural lighting. The image should be in a flat design style with clear iconography and a harmonious color scheme."
-    },
-    {
-        "id": 1062568676,
-        "name": "pingerr",
-        "description": "Find the most optimal DNS server for your router/machine",
-        "url": "https://github.com/Panchajanya1999/pingerr",
-        "language": "Shell",
-        "stars": 27,
+        "stars": 2,
         "forks": 0,
-        "created_at": "2025-09-23T12:35:14Z",
-        "updated_at": "2025-09-25T10:07:29Z",
+        "created_at": "2025-08-24T23:42:16Z",
+        "updated_at": "2025-09-25T03:17:18Z",
         "topics": [],
-        "quality_score": 0.55,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-23T16:32:10Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/58ce0cbda2b5659fa3f30b71beb7e96a516ce9f9af4f7e57726094c68ad61d30/Panchajanya1999/pingerr"
-        ],
-        "homepage": null,
-        "readme_summary": "The pingerr repository provides a DNS benchmarking tool that tests over 60 public DNS servers to identify the fastest and most reliable DNS resolver for a given network. It performs multiple test iterations, analyzes DNS-ping correlation, and uses a smart scoring system to provide configuration recommendations.",
-        "key_features": [
-            "Tests 60+ DNS Servers",
-            "Multiple Test Iterations",
-            "DNS-Ping Correlation Analysis",
-            "Smart Scoring System",
-            "Color-Coded Results",
-            "Configuration Recommendations"
-        ],
-        "primary_use_case": "Finding the optimal DNS server for a network by benchmarking multiple public DNS servers.",
-        "open_issues": 1,
-        "cover_image_prompt": "A seasoned explorer standing atop a mountain of servers, holding a compass that points towards the fastest DNS server in the distance. The explorer uses a sextant to measure the latency of signals bouncing off the servers. The base of the mountain is surrounded by a network of interconnected routers and cables. Small UI elements display DNS query times and ping latency. Digital particles flow from the compass towards the optimal server. The scene is set in a vibrant, futuristic landscape with clear skies. The image should be in 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 818001992,
-        "name": "serpl",
-        "description": "A simple terminal UI for search and replace, ala VS Code.",
-        "url": "https://github.com/yassinebridi/serpl",
-        "language": "Rust",
-        "stars": 756,
-        "forks": 10,
-        "created_at": "2024-06-20T22:27:13Z",
-        "updated_at": "2025-09-25T09:59:31Z",
-        "topics": [
-            "ast-grep",
-            "replace",
-            "rust",
-            "search",
-            "terminal",
-            "tui",
-            "vscode"
-        ],
-        "quality_score": 0.7,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-11T09:18:48Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/34e88800ee212c7d0c0e0ad088452d3bb7658e5d5612d7a88cb19d953aa75361/yassinebridi/serpl"
-        ],
-        "homepage": "",
-        "readme_summary": "Serpl is a terminal user interface (TUI) application written in Rust that enables users to search and replace keywords within an entire project folder, offering similar functionality to VS Code. It supports features like case sensitivity, AST Grep, interactive preview of search results, and customizable key bindings.",
-        "key_features": [
-            "Search for keywords across an entire project folder with options for case sensitivity and AST Grep.",
-            "Replace keywords with options for preserving case and AST Grep.",
-            "Interactive preview of search results.",
-            "Keyboard navigation for efficient workflow.",
-            "Configurable key bindings and search modes."
-        ],
-        "primary_use_case": "Searching and replacing keywords in codebases from the terminal.",
-        "open_issues": 19,
-        "cover_image_prompt": "A skilled artisan meticulously repairing a tapestry riddled with errors, using a magnifying glass to identify flawed threads and a needle to weave in perfect replacements. The tapestry represents a large codebase, with interwoven lines of code forming intricate patterns. Small screens display search queries and replacement suggestions, while digital particles highlight the areas being modified. The scene is set in a brightly lit workshop filled with spools of colorful thread. The image should be in a 3D isometric illustration style with vibrant colors and clear details."
-    },
-    {
-        "id": 1051417673,
-        "name": "desktop-tui",
-        "description": "A desktop environment without graphics",
-        "url": "https://github.com/Julien-cpsn/desktop-tui",
-        "language": "Rust",
-        "stars": 936,
-        "forks": 18,
-        "created_at": "2025-09-06T00:42:53Z",
-        "updated_at": "2025-09-25T09:55:52Z",
-        "topics": [],
-        "quality_score": 0.6499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-21T20:48:51Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/ce48457a0bc3490c78375be6ab9b210a24ad453788bf4492a729e7879fa37fea/Julien-cpsn/desktop-tui"
-        ],
-        "homepage": null,
-        "readme_summary": "The desktop-tui repository provides a text-based desktop environment, similar to tmux, allowing users to run and manage applications without a graphical interface. It supports features like shortcut files, custom commands, window management, and terminal customization, all accessible through a terminal interface.",
-        "key_features": [
-            "Parse shortcut files containing apps",
-            "Display any application or command that uses stdout",
-            "Change tilling options",
-            "Can let the user select a file or a folder to use its path as a command argument",
-            "Clock"
-        ],
-        "primary_use_case": "Providing a text-based desktop environment for running and managing applications in a terminal.",
-        "open_issues": 5,
-        "cover_image_prompt": "A skilled typist sitting at an old-fashioned typewriter, but instead of paper, the output appears directly as interactive windows and applications on a large, glowing terminal screen. The typist uses shortcut commands to arrange the windows in a tiled layout. The scene is set in a minimalist, modern office with soft lighting. Subtle digital elements like glowing command prompts and data streams flow from the typewriter to the screen. The repository name 'desktop-tui' is subtly displayed on the terminal's title bar. The composition is clean and focused with a muted color scheme. The image should be in a flat design style with clear iconography."
-    },
-    {
-        "id": 637533152,
-        "name": "pyapp",
-        "description": "Runtime installer for Python applications",
-        "url": "https://github.com/ofek/pyapp",
-        "language": "Rust",
-        "stars": 1749,
-        "forks": 52,
-        "created_at": "2023-05-07T20:56:04Z",
-        "updated_at": "2025-09-25T08:53:39Z",
-        "topics": [
-            "application",
-            "build",
-            "cli",
-            "packaging",
-            "python",
-            "rust"
-        ],
-        "quality_score": 0.7,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-17T16:19:50Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/0b509f1f2900cbb77709e4b5a5599cac887a53a21bbc69bbc965b12139a3a60f/ofek/pyapp"
-        ],
-        "homepage": "https://ofek.dev/pyapp/",
-        "readme_summary": "PyApp is a Rust-based tool for creating standalone, self-bootstrapping binaries for Python applications. It simplifies the packaging and distribution process, allowing developers to easily build and deploy their Python applications across various platforms with optional management commands and configurable runtime behavior.",
-        "key_features": [
-            "Easily build standalone binaries for every platform",
-            "Optional management commands providing functionality such as self updates",
-            "Extremely configurable runtime behavior allowing for targeting of different end users"
-        ],
-        "primary_use_case": "Creating runtime installers for Python applications.",
-        "open_issues": 20,
-        "cover_image_prompt": "A skilled artisan carefully placing a miniature Python application inside a protective, futuristic capsule. The artisan uses advanced tools to seal the capsule, ensuring the application is safe and ready for distribution. The capsule glows with a soft, internal light, indicating the application's runtime environment. Small UI elements display the PyApp logo and packaging progress. The scene is set in a clean, modern workshop with bright, focused lighting. The composition is symmetrical and balanced with a cool color scheme. The image should be in 3D isometric illustration style with rich details."
-    },
-    {
-        "id": 1041472829,
-        "name": "DiffMem",
-        "description": "Git Based Memory Storage for Conversational AI Agent",
-        "url": "https://github.com/Growth-Kinetics/DiffMem",
-        "language": "Python",
-        "stars": 640,
-        "forks": 36,
-        "created_at": "2025-08-20T14:35:47Z",
-        "updated_at": "2025-09-25T08:16:31Z",
-        "topics": [],
-        "quality_score": 0.75,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-02T06:38:25Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/eb2317bcda4d945154f4661306b787a6f602a5a0b04439698b2acbeea13a35cc/Growth-Kinetics/DiffMem"
-        ],
-        "homepage": null,
-        "readme_summary": "DiffMem is a Git-based memory backend designed for AI agents and conversational systems. It leverages Git for tracking the evolution of knowledge and uses Markdown files for human-readable storage. It also uses an in-memory BM25 index for fast, explainable retrieval, enabling efficient and scalable memory management for AI applications.",
-        "key_features": [
-            "Git-based versioning for memory",
-            "Markdown storage for human-readability",
-            "BM25 index for fast retrieval",
-            "Differential intelligence via Git diffs",
-            "Current-state focus for efficient queries",
-            "Modular design with Writer, Context Manager, and Searcher agents"
-        ],
-        "primary_use_case": "Providing a version-controlled and efficient memory system for AI agents, particularly for long-term, evolving knowledge.",
-        "open_issues": 1,
-        "cover_image_prompt": "A librarian meticulously archiving memories represented as glowing orbs into a vast, branching Git tree. The librarian uses a special magnifying glass to examine the 'diffs' between orbs, revealing how memories evolve over time. UI elements displaying commit messages and code snippets subtly connect the scene to software. The setting is a futuristic library with warm, inviting lighting. The composition is a wide shot showing the scale of the memory archive. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 1016047023,
-        "name": "PulseTimer",
-        "description": "A modern work timer with AI-powered recommendations. Get smart timer settings based on your goals, plus beautiful design and focus features.",
-        "url": "https://github.com/Efeckc17/PulseTimer",
-        "language": "JavaScript",
-        "stars": 19,
-        "forks": 0,
-        "created_at": "2025-07-08T12:11:08Z",
-        "updated_at": "2025-09-25T06:06:57Z",
-        "topics": [
-            "ai",
-            "ai-timer",
-            "css",
-            "html5",
-            "javascript",
-            "open-source",
-            "pomodoro",
-            "pomodoro-app",
-            "timer-application",
-            "timer-clock",
-            "timer-website",
-            "web-application"
-        ],
         "quality_score": 0.44999999999999996,
         "contributors_count": 0,
-        "last_commit_date": "2025-07-23T18:43:39Z",
+        "last_commit_date": "2025-09-23T02:07:38Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/ede951e956aa596c57bff97ca37c9cbb1ed063c90acbbf8fab607b8e5c032dbf/Efeckc17/PulseTimer"
+            "https://opengraph.githubassets.com/ecdb8c69b6d760cfa2c8bca2fd662653e100ad875ed7b8875cb7a630f661f659/andrew-noble/doomscroll-detector"
         ],
-        "homepage": "https://timer.toxi360.org",
-        "readme_summary": "PulseTimer is a modern work timer application with AI-powered recommendations. It offers smart timer settings based on user goals, a clean design, and focus features. The application supports both online usage and local installation, providing flexible timer configurations and productivity tracking.",
+        "homepage": null,
+        "readme_summary": "The Doomscrolling Detector is a computer vision pipeline designed to identify and discourage excessive phone usage while in a reclined position. It uses pose estimation and object detection to determine when a user is likely doomscrolling, and then applies a spoofed penalty counter as a deterrent.",
         "key_features": [
-            "AI Assistant for smart timer recommendations",
-            "8 Presets for various activities (Study, Deep Work, etc.)",
-            "Flexible Timer with custom intervals and session names",
-            "Smart Notifications with desktop alerts and audio feedback",
-            "Modern Design with a responsive interface",
-            "Session History for tracking productivity",
-            "Privacy Focused with local data storage"
+            "YOLOv11 pose estimation for keypoint tracking",
+            "YOLO object detection for phone detection",
+            "Heuristic-based reclined posture detection (hip/shoulder alignment)",
+            "Wrist proximity to phone detection",
+            "Spoofed penalty counter"
         ],
-        "primary_use_case": "Improving focus and productivity through customizable and AI-assisted timer settings for various work and study activities.",
+        "primary_use_case": "Detecting and discouraging doomscrolling behavior.",
         "open_issues": 0,
-        "cover_image_prompt": "A diligent clockwork robot sitting at a desk, meticulously organizing gears representing different tasks (coding, writing, research) into a large, central timer. The robot uses a small AI assistant floating beside it to suggest optimal gear arrangements. The timer displays a clear, segmented view of work and break intervals. Subtle UI elements and code snippets float in the background. The scene is set in a brightly lit, minimalist workshop. The composition is clean and focused with a pastel color scheme. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+        "cover_image_prompt": "A frustrated person sinking into a couch, being slowly consumed by a swirling vortex of social media icons emanating from their phone. A digital hourglass above them shows time rapidly draining away. Subtle UI elements on the phone screen display a rapidly increasing 'doomscroll penalty' counter. The scene is set in a dimly lit living room with a sense of impending regret. Small code snippets related to pose estimation are faintly visible in the background. The composition is a close-up shot with a desaturated color scheme, punctuated by the phone's bright screen. The image should be in a digital painting style with clear outlines and a slightly exaggerated perspective."
+    },
+    {
+        "id": 819751459,
+        "name": "Air-Guard",
+        "description": "ESP32 based Wi-Fi Intrusion Detection System",
+        "url": "https://github.com/razvan-radutoiu/Air-Guard",
+        "language": "Jupyter Notebook",
+        "stars": 7,
+        "forks": 0,
+        "created_at": "2024-06-25T06:16:58Z",
+        "updated_at": "2025-09-26T07:09:08Z",
+        "topics": [],
+        "quality_score": 0.15,
+        "contributors_count": 0,
+        "last_commit_date": "2025-05-11T09:02:27Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/fca6f68d6f7c897489cc2929c207303a5a0b2c1b91bc6a30b53d438bf41231d7/razvan-radutoiu/Air-Guard"
+        ],
+        "homepage": null,
+        "readme_summary": "Air-Guard is an ESP32-based Wi-Fi Intrusion Detection System that captures and analyzes wireless communication data in real-time. It provides a graphical interface for data visualization, detects various attacks like deauthentication and Evil Twin, and uses machine learning for advanced threat detection.",
+        "key_features": [
+            "Real-time WiFi packet capture using ESP32",
+            "Graphical user interface for easy interaction",
+            "Live packet statistics and visualization",
+            "Detection of deauthentication attacks and Evil_Twin attacks",
+            "Machine learning-based detection of Kr00k vulnerability and web spoofing attacks",
+            "Logging and data export via .pcap files or .log files"
+        ],
+        "primary_use_case": "Monitoring and analyzing wireless communication data to detect and prevent Wi-Fi intrusions and attacks.",
+        "open_issues": 0,
+        "cover_image_prompt": "A vigilant knight stands guard over a Wi-Fi router, using a glowing sword to deflect malicious data packets. The router emits a protective shield of energy, while the knight's sword glows brighter upon detecting threats like deauthentication and Evil Twin attacks. Small UI elements float around the knight, displaying real-time packet statistics and security metrics. The scene is set in a futuristic network environment with a blue and green color scheme. The image should be in a 3D isometric illustration style with clean lines and vibrant colors."
+    },
+    {
+        "id": 1044117453,
+        "name": "pageindex-mcp",
+        "description": "MCP server for PageIndex",
+        "url": "https://github.com/VectifyAI/pageindex-mcp",
+        "language": "TypeScript",
+        "stars": 10,
+        "forks": 1,
+        "created_at": "2025-08-25T08:00:01Z",
+        "updated_at": "2025-09-26T06:25:28Z",
+        "topics": [],
+        "quality_score": 0.7499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-09-24T08:04:29Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/f61b4296d5d05f3c01700976da2efee3bd6db1a30b3b0fc63965e7337cf9069e/VectifyAI/pageindex-mcp"
+        ],
+        "homepage": "https://pageindex.ai/mcp",
+        "readme_summary": "The PageIndex MCP repository provides a Multi-Client Protocol (MCP) server that allows users to chat with long PDFs using Claude, even when they encounter limit restrictions. It leverages a reasoning-based RAG system to provide human-like interactions with documents, offering features like local and online PDF support and unlimited conversations.",
+        "key_features": [
+            "Chat with long PDFs",
+            "Reasoning-based RAG system",
+            "Local and online PDF support",
+            "Free usage (1000 pages)",
+            "Unlimited conversations",
+            "Vectorless RAG (no vector DB or chunking)"
+        ],
+        "primary_use_case": "Enabling users to interact with long PDFs on Claude and other MCP-compatible clients by providing a reasoning-based RAG system.",
+        "open_issues": 0,
+        "cover_image_prompt": "A librarian meticulously organizing a vast library of PDF documents, each glowing with inner knowledge. The librarian uses a magnifying glass that transforms complex text into clear, conversational insights, which then float as thought bubbles towards a user interface showing a chat window. Subtle digital particles swirl around the documents, representing the reasoning process. A small screen displays the PageIndex logo. The scene is set in a warmly lit, futuristic library with a clean, focused composition. The image should be in a 3D isometric illustration style with rich details and a vibrant color scheme."
+    },
+    {
+        "id": 707614074,
+        "name": "link-extractor",
+        "description": "Web Extension to extract, parse, and open links with optional filters.",
+        "url": "https://github.com/cssnr/link-extractor",
+        "language": "JavaScript",
+        "stars": 74,
+        "forks": 7,
+        "created_at": "2023-10-20T09:25:00Z",
+        "updated_at": "2025-09-26T08:41:47Z",
+        "topics": [
+            "browser-extension",
+            "chrome-addon",
+            "chrome-extension",
+            "extract-links",
+            "firefox-addon",
+            "firefox-extension",
+            "link-extraction",
+            "link-extractor",
+            "web-extension"
+        ],
+        "quality_score": 0.6,
+        "contributors_count": 0,
+        "last_commit_date": "2025-07-31T00:31:37Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/707614074/5ce6c147-4b15-4715-a78f-89faff8697dd"
+        ],
+        "homepage": "https://link-extractor.cssnr.com",
+        "readme_summary": "The 'link-extractor' repository provides a web extension designed to extract, parse, and open links from web pages. It supports filtering links based on user-defined criteria, enhancing the user's ability to manage and interact with web content efficiently across multiple browsers.",
+        "key_features": [
+            "Extracting links from web pages",
+            "Parsing links",
+            "Opening links",
+            "Filtering links"
+        ],
+        "primary_use_case": "Efficiently extracting and managing links from web pages within a browser environment.",
+        "open_issues": 5,
+        "cover_image_prompt": "A diligent librarian meticulously sorting through a mountain of books, each representing a webpage, and extracting glowing threads (links) from them. The librarian uses a magnifying glass that filters the threads, separating them into organized piles. A small UI element hovers nearby, displaying link extraction options. The scene is set in a grand, sunlit library with subtle digital particles floating in the air. The repository name is subtly etched on the librarian's desk. The composition is focused and clean with a warm, inviting color scheme. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 1013031861,
+        "name": "ssh-bot",
+        "description": "Telegram bot for executing commands on remote hosts via ssh.",
+        "url": "https://github.com/Lifailon/ssh-bot",
+        "language": "Go",
+        "stars": 30,
+        "forks": 2,
+        "created_at": "2025-07-03T08:55:35Z",
+        "updated_at": "2025-09-26T10:04:53Z",
+        "topics": [
+            "bot",
+            "chat-bot",
+            "go",
+            "ssh-client",
+            "telegrambot"
+        ],
+        "quality_score": 0.4,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-08T08:10:59Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/302fee52fab0871791c16e0b3cba7ac6a124c4d4b86c8a7d67f150499d3975c9/Lifailon/ssh-bot"
+        ],
+        "homepage": "https://hub.docker.com/r/lifailon/ssh-bot",
+        "readme_summary": "The ssh-bot is a Telegram bot written in Go that allows users to execute commands on remote hosts via SSH. It eliminates the need for VPNs or external IPs by providing asynchronous command execution and a connection manager with host availability checks.",
+        "key_features": [
+            "Executing commands on local or remote hosts via SSH",
+            "Parallel (asynchronous) command execution",
+            "SSH connection manager with host availability check",
+            "Support for directory navigation",
+            "Combined access to remote hosts by key and/or password",
+            "Error handling for commands requiring user input",
+            "Support for storing and reusing passed variables and functions"
+        ],
+        "primary_use_case": "Remotely executing commands on servers or devices within a home network via Telegram.",
+        "open_issues": 0,
+        "cover_image_prompt": "Imagine a friendly robot butler standing in a high-tech server room, holding a Telegram chat window displaying command prompts. The butler receives commands from the chat and relays them to the servers, which respond with data streams visualized as glowing particles flowing back to the chat window. The server room is clean and organized, with subtle UI elements on the server racks displaying real-time command execution status. The robot has a small screen on its chest displaying the ssh-bot logo. The scene is brightly lit with a cool blue and green color scheme. The image should be in a 3D isometric illustration style with crisp details."
+    },
+    {
+        "id": 831373509,
+        "name": "uncloud",
+        "description": "A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨",
+        "url": "https://github.com/psviderski/uncloud",
+        "language": "Go",
+        "stars": 2390,
+        "forks": 62,
+        "created_at": "2024-07-20T11:13:36Z",
+        "updated_at": "2025-09-26T09:42:48Z",
+        "topics": [
+            "containers",
+            "deployment",
+            "devops",
+            "docker",
+            "docker-compose",
+            "golang",
+            "kubernetes",
+            "orchestration",
+            "self-hosted"
+        ],
+        "quality_score": 1.0000000000000002,
+        "contributors_count": 0,
+        "last_commit_date": "2025-09-24T21:16:36Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/70a740c6da965615e4ba6bb80fb826731b0241122ba19d0ebb614f0ecccb94af/psviderski/uncloud"
+        ],
+        "homepage": "https://uncloud.run",
+        "readme_summary": "Uncloud is a lightweight container orchestration tool designed to simplify the deployment and management of containerized applications across multiple Docker hosts. It aims to provide the power of multi-machine deployments with the simplicity of Docker, bridging the gap to Kubernetes by offering features like service discovery, load balancing, and automatic HTTPS without the complexity of a central control plane.",
+        "key_features": [
+            "Deploy anywhere (cloud VMs, bare metal)",
+            "Docker Compose support",
+            "Zero-downtime deployments (rolling updates)",
+            "Service discovery",
+            "Persistent storage",
+            "Zero-config private network (WireGuard)",
+            "No control plane (decentralized)",
+            "Imperative over declarative approach",
+            "Managed DNS",
+            "Automatic HTTPS (Caddy, Let's Encrypt)",
+            "Docker-like CLI",
+            "Remote management"
+        ],
+        "primary_use_case": "Deploying and managing web applications across a network of Docker hosts with minimal cluster management overhead.",
+        "open_issues": 45,
+        "cover_image_prompt": "A skilled conductor orchestrating a diverse ensemble of servers, each represented by a musical instrument. The conductor uses a Docker Compose sheet as their score, seamlessly blending the sounds into a harmonious web application performance. Wires connect the instruments, forming a secure mesh network. A subtle UI overlay shows deployment progress and server status. The scene is set on a futuristic stage with dynamic lighting. Small digital elements like glowing data streams and server icons subtly connect the metaphor to software. The image should be in 3D isometric illustration style with vibrant colors and rich details."
+    },
+    {
+        "id": 876611731,
+        "name": "pinguem",
+        "description": "Web interface based on Vue for async checking of the availability of the selected hosts or subnet using the node-ping library.",
+        "url": "https://github.com/Lifailon/pinguem",
+        "language": "Vue",
+        "stars": 14,
+        "forks": 0,
+        "created_at": "2024-10-22T09:09:02Z",
+        "updated_at": "2025-09-26T07:36:52Z",
+        "topics": [
+            "docker",
+            "ping",
+            "typescript",
+            "vue",
+            "web"
+        ],
+        "quality_score": 0.3,
+        "contributors_count": 0,
+        "last_commit_date": "2025-02-21T08:36:09Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/cd3c43099aed1b5f124ea1fdbc9a8603afc4c64751220239b4774bd114bc54c1/Lifailon/pinguem"
+        ],
+        "homepage": "https://hub.docker.com/r/lifailon/pinguem",
+        "readme_summary": "Pinguem is a web interface built with Vue that allows users to asynchronously check the availability of hosts or subnets. It utilizes the node-ping library for pinging and provides a Prometheus exporter for monitoring ping results. The application can be deployed using Docker or built from source using npm.",
+        "key_features": [
+            "Asynchronous host/subnet availability checking",
+            "Web interface built with Vue",
+            "Dynamic address input fields with client-side storage",
+            "Subnet scanning capability",
+            "Docker deployment support",
+            "Prometheus exporter for metrics",
+            "API endpoint for retrieving ping results"
+        ],
+        "primary_use_case": "Monitoring the availability of hosts and subnets through a web interface and providing metrics for Prometheus.",
+        "open_issues": 0,
+        "cover_image_prompt": "A lighthouse keeper meticulously observing a network of ships through a high-powered telescope. Each ship represents a host, and the lighthouse beam symbolizes the ping requests. Ships within the beam glow green (available), while those outside are dimmer (unavailable). A small screen next to the keeper displays a simplified UI of the Pinguem interface. The scene is set on a rocky coastline with a stormy sea and dramatic lighting. Subtle digital particles flow from the lighthouse, visualizing the network connections. The image should be in a digital painting style with clear outlines and a focus on conveying network monitoring. The composition is focused and clear, using a cool color scheme."
+    },
+    {
+        "id": 796010781,
+        "name": "plutoprint",
+        "description": "A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook",
+        "url": "https://github.com/plutoprint/plutoprint",
+        "language": "Python",
+        "stars": 956,
+        "forks": 29,
+        "created_at": "2024-05-04T17:00:47Z",
+        "updated_at": "2025-09-26T10:10:45Z",
+        "topics": [
+            "css",
+            "html",
+            "html-to-image",
+            "html-to-pdf",
+            "image-generator",
+            "pdf",
+            "pdf-generator",
+            "plutobook",
+            "python",
+            "svg"
+        ],
+        "quality_score": 0.6499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-09-23T20:49:14Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/8e27c5e30b5e24613c1bd1aa7d005bdbbb88da63c530192ead71f411ab398dc7/plutoprint/plutoprint"
+        ],
+        "homepage": "https://plutoprint.readthedocs.io",
+        "readme_summary": "PlutoPrint is a Python library that generates PDFs and images from HTML content. It leverages PlutoBook's rendering engine to provide a simple API for converting HTML into PDF documents or image files, making it suitable for generating reports, invoices, and visual snapshots.",
+        "key_features": [
+            "Generates PDFs from HTML",
+            "Generates images from HTML",
+            "Command-line interface for PDF generation",
+            "Python API for PDF and image generation",
+            "QR code generation support"
+        ],
+        "primary_use_case": "Generating reports, invoices, and visual snapshots from HTML content.",
+        "open_issues": 2,
+        "cover_image_prompt": "Imagine a skilled artisan meticulously crafting paper documents from shimmering threads of HTML code. The artisan uses a loom-like device that weaves the code into beautifully formatted PDFs and vibrant images. Finished documents float gently around the artisan, showcasing invoices, reports, and visual designs. Subtle UI elements on the loom display live rendering previews and code snippets. The scene is set in a bright, airy workshop filled with spools of colorful code. The image should be in a 3D isometric illustration style with clean lines and a warm color palette."
     }
 ]
