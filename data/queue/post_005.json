@@ -1,0 +1,7 @@
+{
+    "project_id": 3961068,
+    "content": "💡 <b>metadata_parser</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting metadata from web documents.\n<br>\n✨ <b>Key Features:</b>\n• Pulls as much metadata out of a document as possible\n• Allows setting a 'strategy' for finding metadata (e.g., only accept opengraph or page attributes)\n• Lightweight but functional URL validation\n• Verbose logging\n<br>\n📖 <b>Summary:</b>\nMetadataParser is a Python library designed to extract metadata from web documents. It relies on BeautifulSoup for parsing, Requests for fetching documents, and tldextract for domain parsing (which can be disabled). The library has been used in production for parsing billions of documents.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jvanasco/metadata_parser?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/303b093624aed999080a5969fd44a6183b604daa029ea2045c40d3d144451495/jvanasco/metadata_parser",
+    "platform": "telegram",
+    "quality_score": 0.95
+}
