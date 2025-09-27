@@ -1,7 +1,0 @@
-{
-    "project_id": 876611731,
-    "content": "🚀 <b>pinguem</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring the availability of hosts and subnets through a web interface and providing metrics for Prometheus.\n<br>\n✨ <b>Key Features:</b>\n• Asynchronous host/subnet availability checking\n• Web interface built with Vue\n• Dynamic address input fields with client-side storage\n• Subnet scanning capability\n• Docker deployment support\n<br>\n📖 <b>Summary:</b>\nPinguem is a web interface built with Vue that allows users to asynchronously check the availability of hosts or subnets. It utilizes the node-ping library for pinging and provides a Prometheus exporter for monitoring ping results. The application can be deployed using Docker or built from source using npm.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lifailon/pinguem?embed=0\">View Project</a>\n• <a href=\"https://hub.docker.com/r/lifailon/pinguem?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/cd3c43099aed1b5f124ea1fdbc9a8603afc4c64751220239b4774bd114bc54c1/Lifailon/pinguem",
-    "platform": "telegram",
-    "quality_score": 0.3
-}
