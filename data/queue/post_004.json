@@ -1,7 +1,0 @@
-{
-    "project_id": 1013031861,
-    "content": "🔥 <b>ssh-bot</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nRemotely executing commands on servers or devices within a home network via Telegram.\n<br>\n✨ <b>Key Features:</b>\n• Executing commands on local or remote hosts via SSH\n• Parallel (asynchronous) command execution\n• SSH connection manager with host availability check\n• Support for directory navigation\n• Combined access to remote hosts by key and/or password\n<br>\n📖 <b>Summary:</b>\nThe ssh-bot is a Telegram bot written in Go that allows users to execute commands on remote hosts via SSH. It eliminates the need for VPNs or external IPs by providing asynchronous command execution and a connection manager with host availability checks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lifailon/ssh-bot?embed=0\">View Project</a>\n• <a href=\"https://hub.docker.com/r/lifailon/ssh-bot?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/302fee52fab0871791c16e0b3cba7ac6a124c4d4b86c8a7d67f150499d3975c9/Lifailon/ssh-bot",
-    "platform": "telegram",
-    "quality_score": 0.4
-}
