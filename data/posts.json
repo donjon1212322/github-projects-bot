@@ -1,57 +1,50 @@
 [
     {
-        "project_id": 1064663442,
-        "content": "🚀 <b>flareprox</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating HTTP proxies with IP rotation and URL redirection using Cloudflare Workers.\n<br>\n✨ <b>Key Features:</b>\n• HTTP Support for all methods (GET, POST, PUT, DELETE, PATCH, OPTIONS, HEAD)\n• Simple URL Redirection\n• Global Network via Cloudflare CDN\n• Free Tier (100,000 requests per day)\n• Easy Deployment\n<br>\n📖 <b>Summary:</b>\nFlareProx is a Python tool that simplifies the creation of HTTP pass-through proxies using Cloudflare Workers. It enables IP rotation and URL redirection, masking the original IP address through Cloudflare's global network, and supports all HTTP methods, offering a free tier of 100,000 requests per day.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MrTurvey/flareprox?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/05328c5f87a5b68fc8959ea14a6102b514c9c9f65c93e9596c9ebc476f1f67ca/MrTurvey/flareprox",
+        "project_id": 816852045,
+        "content": "🔥 <b>razer-keyboard-snake</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying the Snake game on a Razer keyboard using its RGB lighting.\n<br>\n✨ <b>Key Features:</b>\n• Snake game implemented on Razer keyboard RGB lighting\n• Uses OpenRazer drivers for keyboard control\n• Customizable snake and fruit colors\n• Simple controls using arrow keys\n<br>\n📖 <b>Summary:</b>\nThe Razer Keyboard Snake repository provides a Python implementation of the classic Snake game that is displayed on a Razer keyboard's RGB lighting. The game utilizes the OpenRazer drivers to control the keyboard's LEDs, creating a visually engaging experience where the snake and fruit are represented by colored lights.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lightoshadow/razer-keyboard-snake?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fbd010122043df54b367a41d2431b4f3b6457bb04bd608a96b4adc31f3829e65/lightoshadow/razer-keyboard-snake",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 320628155,
+        "content": "🔥 <b>LaTeX-OCR</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting images of mathematical equations into LaTeX code for digital use.\n<br>\n✨ <b>Key Features:</b>\n• Image to LaTeX conversion using a ViT model\n• Command-line tool for image parsing\n• GUI with screenshot capability and MathJax rendering\n• API for remote access and integration\n• Python library for direct usage\n<br>\n📖 <b>Summary:</b>\nThe pix2tex repository provides a system that converts images of mathematical formulas into LaTeX code using a Vision Transformer (ViT) model. It offers multiple interfaces for prediction, including a command-line tool, a graphical user interface (GUI), an API, and direct usage from within Python.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lukas-blecher/LaTeX-OCR?embed=0\">View Project</a>\n• <a href=\"https://lukas-blecher.github.io/LaTeX-OCR/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/320628155/dd783980-7c4a-11eb-8b7b-9c59814d31b4",
+        "platform": "telegram",
+        "quality_score": 0.45
+    },
+    {
+        "project_id": 103692141,
+        "content": "🚀 <b>vokoscreenNG</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating screencasts and screen recordings for tutorials, presentations, or demonstrations.\n<br>\n✨ <b>Key Features:</b>\n• Screen recording (full screen, area, window)\n• Audio recording from multiple sources\n• Camera support\n• Systray integration\n• Magnifying glass\n<br>\n📖 <b>Summary:</b>\nvokoscreenNG is a screencasting software for Windows and Linux, written in C++. It allows users to record their screen, a specific area, or a window, and supports audio recording from multiple sources and camera integration. It also provides tools like systray, magnifying glass, countdown, timer, Showclick, and Halo.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vkohaupt/vokoscreenNG?embed=0\">View Project</a>\n• <a href=\"https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ad05d6d440516aba66b802f479f838239c4b3a1051fc9a3ee221fa99458271ba/vkohaupt/vokoscreenNG",
+        "platform": "telegram",
+        "quality_score": 0.8
+    },
+    {
+        "project_id": 753417704,
+        "content": "💡 <b>snippai</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nIntelligent image analysis and information extraction from screen captures.\n<br>\n✨ <b>Key Features:</b>\n• Formula Recognition (LaTeX conversion)\n• Text Extraction\n• Table Conversion (to Markdown)\n• Image Analysis\n• Problem Solving\n<br>\n📖 <b>Summary:</b>\nSnippai is an AI-powered snipping tool that enhances the snipping experience by providing intelligent features. It can recognize formulas, extract text, convert tables, analyze images, solve problems, understand code, detect colors, and translate languages directly from images, making it a versatile tool for various tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/xyTom/snippai?embed=0\">View Project</a>\n• <a href=\"https://snippai.de/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/753417704/4813a575-9001-4dcc-8975-80e37f44c1dc",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 2881789,
+        "content": "🔥 <b>Python</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomation of tasks and educational examples for Python beginners.\n<br>\n✨ <b>Key Features:</b>\n• Batch file renaming\n• Directory creation\n• YouTube downloading\n• Google Image downloading\n• Environment variable checking\n<br>\n📖 <b>Summary:</b>\nThis repository is a collection of Python scripts designed to reduce human workload and serve as educational examples for beginners. It includes scripts for tasks such as batch file renaming, directory creation, YouTube downloading, image downloading, environment checking, and system administration tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/geekcomputers/Python?embed=0\">View Project</a>\n• <a href=\"http://www.thegeekblog.co.uk?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/608965d8ab1cf9656750b6190220a3584acd3998cd54d8b6ae4a954ad1169b0b/geekcomputers/Python",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 1056082182,
+        "content": "✨ <b>OnePSE</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDeveloping 2D games in Python using a simplified SDL interface.\n<br>\n✨ <b>Key Features:</b>\n• SDL-based 2D game engine\n• Open-source\n• Simplified SDL interface for Python\n• Actively developed\n<br>\n📖 <b>Summary:</b>\nOnePSE is a free, open-source 2D game engine for Python, built on top of SDL. It aims to simplify the development process with SDL, offering an easier-to-use interface. The engine is under active development and welcomes contributions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/CodCatDev/OnePSE?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1056082182/c838fd78-11f6-4c5b-8b2c-fdc8302389d2",
         "platform": "telegram",
         "quality_score": 0.55
     },
     {
-        "project_id": 693752164,
-        "content": "🚀 <b>basalt</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging Obsidian notes and vaults directly from the terminal for quick editing and access without disrupting the terminal workflow.\n<br>\n✨ <b>Key Features:</b>\n• TUI for Obsidian note management\n• Cross-platform support (Windows, macOS, Linux)\n• WYSIWYG markdown editor in the terminal\n• Customizable key mappings\n• CLI functionality for note operations (find, delete, create)\n<br>\n📖 <b>Summary:</b>\nBasalt is a terminal-based user interface (TUI) application designed for managing Obsidian vaults and notes directly from the command line. It provides a minimalist approach to note management, offering readable markdown rendering and a WYSIWYG experience, aiming to complement Obsidian by enabling quick note editing without leaving the terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/erikjuhani/basalt?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2faff0abf04d8faaba85371637f95e2afe2f09b0bab0602adf2fcd3be4033eb2/erikjuhani/basalt",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1055435059,
-        "content": "🔥 <b>EdgeBox</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDeveloping and testing AI agents with 'Computer Use' capabilities in a local, controlled environment.\n<br>\n✨ <b>Key Features:</b>\n• Full Desktop Environment (Computer Use)\n• Complete Code Interpreter & Shell\n• Seamless LLM Agent Integration (via MCP)\n• GUI and CLI interface\n• Local execution environment\n<br>\n📖 <b>Summary:</b>\nEdgeBox is a local LLM agent sandbox that provides a fully-featured GUI and CLI environment for developing and executing AI agents. It's based on the E2B open-source project and offers complete MCP protocol support, enabling agents to interact with browsers, terminals, and desktop applications locally.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BIGPPWONG/EdgeBox?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/983fc81b5c7429af2bc398d2f4315a046f18e43d7482c09b936509e4c20af958/BIGPPWONG/EdgeBox",
-        "platform": "telegram",
-        "quality_score": 0.7999999999999999
-    },
-    {
-        "project_id": 994110247,
-        "content": "🚀 <b>takumi</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nHigh-throughput image rendering (e.g., Open Graph images, Twitter images) from React components.\n<br>\n✨ <b>Key Features:</b>\n• React components to image rendering\n• Node.js bindings\n• WebAssembly bindings\n• RTL support\n• Variable fonts support\n<br>\n📖 <b>Summary:</b>\nTakumi is a Rust-based image rendering engine that provides bindings for Node.js and WebAssembly. It's designed for high-throughput image rendering workloads, such as generating Open Graph and Twitter images, by allowing developers to render React components to images.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kane50613/takumi?embed=0\">View Project</a>\n• <a href=\"https://takumi.kane.tw?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/994110247/53306eb4-2f69-4169-b4f5-5fea92b9f1c4",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 728438436,
-        "content": "💡 <b>mesh2motion-app</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomatically assigning and exporting animations for 3D models.\n<br>\n✨ <b>Key Features:</b>\n• Import 3D models (GLB/GLTF format)\n• Skeleton type selection\n• Skeleton modification and fitting\n• Animation testing\n• Animation selection and export (GLB/GLTF format)\n<br>\n📖 <b>Summary:</b>\nThe mesh2motion-app repository provides a tool for importing 3D models and automatically assigning and exporting animations. It aims to offer more flexibility than existing tools like Mixamo by supporting various model and skeleton types. The application allows users to import models, select skeleton types, adjust the skeleton to fit the model, test animations, and export the results.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/scottpetrovic/mesh2motion-app?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0d25122433b4cca88dfcd1f695567e0df9485fd90433613ba8ef0e2262c38fef/scottpetrovic/mesh2motion-app",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 1039227029,
-        "content": "✨ <b>doxx</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nViewing, searching, and exporting `.docx` documents from the command line.\n<br>\n✨ <b>Key Features:</b>\n• Beautiful terminal rendering with formatting, tables, and lists\n• Fast search with highlighting\n• Smart tables with proper alignment and Unicode borders\n• Copy to clipboard\n• Export formats (Markdown, CSV, JSON, plain text, ANSI-colored output)\n<br>\n📖 <b>Summary:</b>\ndoxx is a command-line tool written in Rust that allows users to view, search, and export `.docx` files directly in their terminal without requiring Microsoft Word. It supports features like formatted text, tables, lists, search highlighting, and export to various formats like Markdown, CSV, and plain text.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bgreenwell/doxx?embed=0\">View Project</a>\n• <a href=\"https://bgreenwell.github.io/doxx/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f9d16aac640c9455198b258cca25a54c337323dbffb05154bde985b197485fc5/bgreenwell/doxx",
-        "platform": "telegram",
-        "quality_score": 1.1000000000000003
-    },
-    {
-        "project_id": 1006267824,
-        "content": "💡 <b>clip-vault</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely managing and accessing clipboard history across multiple platforms.\n<br>\n✨ <b>Key Features:</b>\n• End-to-end encryption using SQLCipher\n• Cross-platform support (macOS, Windows, Linux)\n• Fast search for clipboard items\n• Global hotkeys for easy access\n<br>\n📖 <b>Summary:</b>\nClip Vault is a secure, cross-platform clipboard manager built with Rust and Tauri. It automatically captures and encrypts clipboard history, making it searchable and accessible across macOS, Windows, and Linux.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/densumesh/clip-vault?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7d9a5ee4c8cea0453af24429d63ea6c6fa13df2bbcfe0a557ea83a5bf4a68c59/densumesh/clip-vault",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 1001684671,
-        "content": "🌟 <b>RapidRAW</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nRAW image editing and color correction for photographers seeking a fast and intuitive workflow.\n<br>\n✨ <b>Key Features:</b>\n• GPU-accelerated image processing\n• Non-destructive editing\n• RAW image support\n• Color grading tools\n• Masking capabilities\n<br>\n📖 <b>Summary:</b>\nRapidRAW is a GPU-accelerated RAW image editor designed for performance and a streamlined user experience. It offers non-destructive editing capabilities and aims to be a lightweight alternative to software like Adobe Lightroom, focusing on speed and ease of use for photographers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/CyberTimon/RapidRAW?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e6ceeeced8e099208ca57a0b78f1bf159118a576cc2366c5daa8788e085360e4/CyberTimon/RapidRAW",
+        "project_id": 648629873,
+        "content": "🔥 <b>puck</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding custom content management systems and visual editing interfaces within React applications.\n<br>\n✨ <b>Key Features:</b>\n• Modular visual editor for React\n• Custom drag-and-drop experiences\n• React component integration\n• No vendor lock-in\n• MIT license\n<br>\n📖 <b>Summary:</b>\nPuck is an open-source visual editor for React.js, enabling developers to build custom drag-and-drop experiences using their own React components. It integrates seamlessly with React environments like Next.js and offers data ownership without vendor lock-in, licensed under MIT for both internal and commercial use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/puckeditor/puck?embed=0\">View Project</a>\n• <a href=\"https://puckeditor.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/648629873/9794aab8-0688-48d6-9454-476f5c571b46",
         "platform": "telegram",
         "quality_score": 0.85
     }
