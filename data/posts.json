@@ -1,44 +1,58 @@
 [
     {
-        "project_id": 1059035975,
-        "content": "💡 <b>commonforms</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating the conversion of static PDFs into interactive, fillable forms.\n<br>\n✨ <b>Key Features:</b>\n• PDF to fillable form conversion\n• CLI and API usage\n• FFDNet model integration\n• Dataset preprocessing code\n<br>\n📖 <b>Summary:</b>\nThe CommonForms repository provides a Python package with a CLI and API to automatically convert PDFs into fillable forms by detecting form fields. It includes pre-trained FFDNet models and dataset preprocessing code for the CommonForms dataset.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jbarrow/commonforms?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4dd952fbbeaf7caf653ea600d9d7a62bafa6e81a0a38c0ac268acd942c797ea9/jbarrow/commonforms",
+        "project_id": 825187044,
+        "content": "🌟 <b>ab-download-manager</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nEfficiently managing and accelerating file downloads on desktop computers.\n<br>\n✨ <b>Key Features:</b>\n• Faster Download Speed\n• Queues and Schedulers\n• Browser Extensions\n• Multiplatform Support (Windows/Linux/Mac)\n• Multiple Themes (Dark/Light)\n<br>\n📖 <b>Summary:</b>\nAB Download Manager is a desktop application built with Kotlin that aims to accelerate and efficiently manage file downloads. It offers features like faster download speeds, download queue management, browser integration through extensions, and cross-platform compatibility (Windows, Linux, Mac).\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/amir1376/ab-download-manager?embed=0\">View Project</a>\n• <a href=\"https://abdownloadmanager.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/825187044/e982f7e5-20e1-4842-a2f3-6281ef8b9f71",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.7499999999999999
     },
     {
-        "project_id": 1037019540,
-        "content": "✨ <b>JAMS</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomatically pausing music when a video starts playing in the browser.\n<br>\n✨ <b>Key Features:</b>\n• Automatic music pausing during video playback\n• Command-line interface for setup and execution\n<br>\n📖 <b>Summary:</b>\nThe JAMS repository provides a tool that automatically pauses music playback when a user is watching a video in their browser. It aims to prevent audio overlap and provide a seamless user experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nevimmu/JAMS?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/39c1d9192647b6471fe38cdcf87c1e3059c4b1c7b0b9de695d7354bd2c2e3a79/nevimmu/JAMS",
+        "project_id": 33037215,
+        "content": "🌟 <b>docker-mailserver</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nSetting up and managing a complete mail server infrastructure using Docker containers.\n<br>\n✨ <b>Key Features:</b>\n• Containerized mail server (SMTP, IMAP, LDAP)\n• Postfix with SMTP/LDAP authentication\n• Dovecot with SASL, IMAP, POP3, LDAP, Sieve, and quotas\n<br>\n📖 <b>Summary:</b>\nThe docker-mailserver repository provides a production-ready, full-stack mail server solution within a Docker container. It includes essential components like Postfix, Dovecot, and anti-spam/anti-virus tools, configured primarily through configuration files rather than a SQL database, aiming for simplicity and ease of deployment.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/docker-mailserver/docker-mailserver?embed=0\">View Project</a>\n• <a href=\"https://docker-mailserver.github.io/docker-mailserver/latest/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/33037215/533fdc00-7d03-11eb-808d-bfc8f3d87004",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 1056028586,
+        "content": "💡 <b>small_projects</b> | Assembly\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding examples of small Assembly projects.\n<br>\n✨ <b>Key Features:</b>\n• Source code for small projects\n• Schematics for small projects\n<br>\n📖 <b>Summary:</b>\nThis repository hosts source code and schematics for small projects developed over the years, as found on mikekohn.net. The projects are written in Assembly language.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mikeakohn/small_projects?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/623e910b792e31b1242fbf022d60c8254dbb665016928f89d0db6550d7d0c107/mikeakohn/small_projects",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 719980575,
-        "content": "✨ <b>awesome-low-level-design</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nLearning Low Level Design and preparing for technical interviews.\n<br>\n✨ <b>Key Features:</b>\n• Fundamental OOP Concepts\n• DRY, YAGNI, and KISS Principles\n• SOLID Principles\n• Creational Design Patterns (Singleton, Factory Method, Abstract Factory, Builder, Prototype)\n• Structural Design Patterns (Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy)\n<br>\n📖 <b>Summary:</b>\nThis repository provides resources for learning Low Level Design (LLD) and Object-Oriented Design (OOD). It aims to help users prepare for technical interviews by offering materials on fundamental concepts, design patterns, and UML diagrams, primarily through links to external articles and resources.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ashishps1/awesome-low-level-design?embed=0\">View Project</a>\n• <a href=\"https://blog.algomaster.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3cad9bf27f23ee47954931481bf952b51f3a736fe31dc9dee2607de1ea1ed6e6/ashishps1/awesome-low-level-design",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 918974884,
-        "content": "💡 <b>tinyauth</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSecuring Docker applications with a simple login screen or OAuth authentication.\n<br>\n✨ <b>Key Features:</b>\n• Authentication middleware\n• Login screen\n• OAuth support (Google, Github, any provider)\n• Support for Traefik, Nginx, and Caddy\n• 2FA (Two-Factor Authentication)\n<br>\n📖 <b>Summary:</b>\nTinyauth is a Go-based authentication middleware designed to easily add a login screen or OAuth to Docker applications. It supports popular reverse proxies like Traefik, Nginx, and Caddy, providing a simple way to secure applications with features like 2FA and SSO.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/steveiliop56/tinyauth?embed=0\">View Project</a>\n• <a href=\"https://tinyauth.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/918974884/24287e83-5d39-4ee5-baba-b4ff5c8b5ba7",
+        "project_id": 1043516507,
+        "content": "🚀 <b>port-kill</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nIdentifying and releasing blocked ports to facilitate software development and deployment.\n<br>\n✨ <b>Key Features:</b>\n• Find and free ports\n• Cross-platform support (macOS, Linux, Windows)\n• CLI interface\n• Status bar integration\n• Optional dashboard\n<br>\n📖 <b>Summary:</b>\nPort Kill is a Rust-based tool designed to identify and free up ports that are blocking development work. It supports macOS, Linux, and Windows, offering both local and remote (SSH) functionality through a CLI, status bar integration, and an optional dashboard.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kagehq/port-kill?embed=0\">View Project</a>\n• <a href=\"https://portkill.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1104148d3c98efd8d1c70359eef2e8ce7a2fbc8c06e429855bf76ee9ca56096f/kagehq/port-kill",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 82530909,
-        "content": "💡 <b>monolith</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSaving web pages for offline access and archival purposes.\n<br>\n✨ <b>Key Features:</b>\n• Saves complete web pages as single HTML files\n• Embeds CSS, images, and JavaScript assets\n• Creates self-contained HTML5 documents\n• Works offline\n• Multiple installation methods (Cargo, Homebrew, Chocolatey, Scoop, Winget, MacPorts, Snapcraft, Guix, NixPkgs, Flox, Pacman, aports, XBPS, FreeBSD packages, FreeBSD ports, pkgsrc, containers, source)\n<br>\n📖 <b>Summary:</b>\nMonolith is a CLI tool and library that saves complete web pages as single HTML files. It embeds all assets (CSS, images, JavaScript) as data URLs, creating a self-contained HTML5 document that can be stored and shared easily, even without an internet connection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Y2Z/monolith?embed=0\">View Project</a>\n• <a href=\"https://crates.io/crates/monolith?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2ace6e5bbdbe9a8da3d065c523ca2046625771b550e4111faa5aefce694847f3/Y2Z/monolith",
+        "project_id": 37319088,
+        "content": "💡 <b>finicky</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nCustomizing which browser opens for specific URLs based on user-defined rules.\n<br>\n✨ <b>Key Features:</b>\n• Route URLs to preferred browsers with matching rules\n• Automatically edit URLs before opening\n• Write rules in JavaScript or TypeScript\n• Create complex routing logic\n• Handle multiple browsers and apps\n<br>\n📖 <b>Summary:</b>\nFinicky is a macOS application that acts as a default browser, allowing users to define rules to route URLs to specific browsers based on matching criteria. It offers features like URL rewriting, JavaScript/TypeScript configuration, and handling multiple browsers, enhancing workflow organization by separating browsing contexts.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/johnste/finicky?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5398557a0328a31b8f36b36a3d25f6e302687e2443a520590a65d18f5db4ad19/johnste/finicky",
         "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 0.85
     },
     {
-        "project_id": 22486533,
-        "content": "🔥 <b>shattered-pixel-dungeon</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding the source code of Shattered Pixel Dungeon for educational purposes and for others to create their own versions of the game.\n<br>\n✨ <b>Key Features:</b>\n• Open-source roguelike game\n• Randomized levels and enemies\n• Hundreds of items to collect and use\n• Cross-platform support (Android, iOS, Desktop)\n• Based on Pixel Dungeon\n<br>\n📖 <b>Summary:</b>\nShattered Pixel Dungeon is an open-source roguelike game based on the source code of Pixel Dungeon. It features randomized levels, enemies, and items, and is available on Android, iOS, and Desktop platforms. The repository provides the game's source code for others to learn from and potentially adapt for their own projects.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/00-Evan/shattered-pixel-dungeon?embed=0\">View Project</a>\n• <a href=\"https://shatteredpixel.com/shatteredpd/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7207e0deff8627915a0bf63152d17c43c3cc37773da4f331693cf6db8833e493/00-Evan/shattered-pixel-dungeon",
+        "project_id": 895926919,
+        "content": "✨ <b>poml</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating structured, maintainable, and versatile prompts for Large Language Models (LLMs).\n<br>\n✨ <b>Key Features:</b>\n• Structured Prompting Markup\n• Comprehensive Data Handling\n• Decoupled Presentation Styling\n• Integrated Templating Engine\n• Rich Development Toolkit (IDE Extension, SDKs)\n<br>\n📖 <b>Summary:</b>\nPOML (Prompt Orchestration Markup Language) is a markup language designed for structuring and managing prompts for Large Language Models (LLMs). It provides features for organizing prompt components, integrating data, and managing presentation variations, addressing challenges like lack of structure and format sensitivity in prompt engineering.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/microsoft/poml?embed=0\">View Project</a>\n• <a href=\"https://microsoft.github.io/poml/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/39902a7c16ea5f7c43476e1f02e23e664154411f1724d76e7415e698a43537b3/microsoft/poml",
         "platform": "telegram",
-        "quality_score": 0.9000000000000001
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 1020924685,
+        "content": "🌟 <b>marchat</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosted, lightweight terminal chat for developers and small teams.\n<br>\n✨ <b>Key Features:</b>\n• Terminal UI (Bubble Tea)\n• Real-time Chat (WebSockets, SQLite)\n• Plugin System\n• E2E Encryption (X25519/ChaCha20-Poly1305)\n• File Sharing\n<br>\n📖 <b>Summary:</b>\nmarchat is a lightweight, self-hosted terminal chat application built in Go, designed for developers and small teams. It features real-time WebSocket messaging, optional end-to-end encryption, a plugin system, file sharing, and an admin panel, all accessible through a terminal UI.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Cod-e-Codes/marchat?embed=0\">View Project</a>\n• <a href=\"https://github.com/Cod-e-Codes/marchat?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1020924685/9346b44d-528a-4d30-8a52-86fe55132fa9",
+        "platform": "telegram",
+        "quality_score": 0.9
+    },
+    {
+        "project_id": 1030990993,
+        "content": "✨ <b>hexora</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nDetecting malicious and harmful patterns in Python code.\n<br>\n✨ <b>Key Features:</b>\n• Audit project dependencies\n• Detect malicious scripts\n• Analyze IoC files\n• Audit new PyPi packages\n• Static analysis of Python code\n<br>\n📖 <b>Summary:</b>\nHexora is a static analysis tool written in Rust designed to detect malicious patterns in Python code. It can be used to audit project dependencies, detect malicious scripts, analyze IoC files, and audit new PyPi packages.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rushter/hexora?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fb1257a9fe17d86e20c4f1cbdf25c62432b9b1b4b3dedff3a049645d0736bfaf/rushter/hexora",
+        "platform": "telegram",
+        "quality_score": 0.65
     }
 ]
