@@ -1,58 +1,58 @@
 [
     {
-        "project_id": 825187044,
-        "content": "🌟 <b>ab-download-manager</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nEfficiently managing and accelerating file downloads on desktop computers.\n<br>\n✨ <b>Key Features:</b>\n• Faster Download Speed\n• Queues and Schedulers\n• Browser Extensions\n• Multiplatform Support (Windows/Linux/Mac)\n• Multiple Themes (Dark/Light)\n<br>\n📖 <b>Summary:</b>\nAB Download Manager is a desktop application built with Kotlin that aims to accelerate and efficiently manage file downloads. It offers features like faster download speeds, download queue management, browser integration through extensions, and cross-platform compatibility (Windows, Linux, Mac).\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/amir1376/ab-download-manager?embed=0\">View Project</a>\n• <a href=\"https://abdownloadmanager.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/825187044/e982f7e5-20e1-4842-a2f3-6281ef8b9f71",
-        "platform": "telegram",
-        "quality_score": 0.7499999999999999
-    },
-    {
-        "project_id": 33037215,
-        "content": "🌟 <b>docker-mailserver</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nSetting up and managing a complete mail server infrastructure using Docker containers.\n<br>\n✨ <b>Key Features:</b>\n• Containerized mail server (SMTP, IMAP, LDAP)\n• Postfix with SMTP/LDAP authentication\n• Dovecot with SASL, IMAP, POP3, LDAP, Sieve, and quotas\n<br>\n📖 <b>Summary:</b>\nThe docker-mailserver repository provides a production-ready, full-stack mail server solution within a Docker container. It includes essential components like Postfix, Dovecot, and anti-spam/anti-virus tools, configured primarily through configuration files rather than a SQL database, aiming for simplicity and ease of deployment.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/docker-mailserver/docker-mailserver?embed=0\">View Project</a>\n• <a href=\"https://docker-mailserver.github.io/docker-mailserver/latest/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/33037215/533fdc00-7d03-11eb-808d-bfc8f3d87004",
+        "project_id": 951534260,
+        "content": "💡 <b>rf-detr</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nObject detection and instance segmentation in real-time applications, particularly where speed and accuracy are critical.\n<br>\n✨ <b>Key Features:</b>\n• Real-time object detection\n• Instance segmentation\n• Transformer-based architecture\n• SOTA performance on COCO\n• Fine-tuning capabilities\n<br>\n📖 <b>Summary:</b>\nRF-DETR is a real-time object detection and instance segmentation model architecture developed by Roboflow. It achieves state-of-the-art performance on the COCO benchmark and is designed for fine-tuning, offering a balance between speed and accuracy for real-time applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/roboflow/rf-detr?embed=0\">View Project</a>\n• <a href=\"https://rfdetr.roboflow.com/1.3.0?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5b592392f92684ab9c78567c80da9b88502a889b88feb744124fb524f73c288e/roboflow/rf-detr",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 1056028586,
-        "content": "💡 <b>small_projects</b> | Assembly\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding examples of small Assembly projects.\n<br>\n✨ <b>Key Features:</b>\n• Source code for small projects\n• Schematics for small projects\n<br>\n📖 <b>Summary:</b>\nThis repository hosts source code and schematics for small projects developed over the years, as found on mikekohn.net. The projects are written in Assembly language.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mikeakohn/small_projects?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/623e910b792e31b1242fbf022d60c8254dbb665016928f89d0db6550d7d0c107/mikeakohn/small_projects",
+        "project_id": 838253246,
+        "content": "🌟 <b>BitNet</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEfficient inference of 1-bit LLMs on CPUs and GPUs.\n<br>\n✨ <b>Key Features:</b>\n• Optimized kernels for 1-bit LLM inference\n• Support for CPU and GPU (NPU support coming)\n• Significant speedups on ARM and x86 CPUs\n• Reduced energy consumption\n• Ability to run large models (e.g., 100B) on a single CPU\n<br>\n📖 <b>Summary:</b>\nThe repository `bitnet.cpp` is an inference framework optimized for 1-bit Large Language Models (LLMs) like BitNet b1.58. It provides optimized kernels for fast and lossless inference on CPUs and GPUs, achieving significant speedups and energy reductions compared to standard implementations, enabling the deployment of large language models on local devices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/microsoft/BitNet?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c8dc999d8cc03e7d8f8d540333309db1b3af535903b2b52109287db470f7722b/microsoft/BitNet",
+        "platform": "telegram",
+        "quality_score": 0.45
+    },
+    {
+        "project_id": 1067446359,
+        "content": "🌟 <b>youtube-to-blog</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTransforming YouTube video content into written blog posts.\n<br>\n✨ <b>Key Features:</b>\n• One-Click Conversion\n• AI-Powered (Gemini 2.5 Flash)\n• Professional Formatting (MDX)\n• Modern UI (Dark/Light Mode)\n• Persistent Storage\n<br>\n📖 <b>Summary:</b>\nThe YouTube to Blog application automatically converts YouTube videos into well-structured blog posts using AI. It extracts video metadata and transcripts, then uses Google's Gemini 2.5 Flash to transform the content into professional MDX blog posts, which are then saved to a database.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TheOrcDev/youtube-to-blog?embed=0\">View Project</a>\n• <a href=\"https://youtube-to-blog-brown.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1efe9beb4e9ed9f7d476276e32dfcc5594c520ee322645ce12c67aa6c88ffca2/TheOrcDev/youtube-to-blog",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 1043516507,
-        "content": "🚀 <b>port-kill</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nIdentifying and releasing blocked ports to facilitate software development and deployment.\n<br>\n✨ <b>Key Features:</b>\n• Find and free ports\n• Cross-platform support (macOS, Linux, Windows)\n• CLI interface\n• Status bar integration\n• Optional dashboard\n<br>\n📖 <b>Summary:</b>\nPort Kill is a Rust-based tool designed to identify and free up ports that are blocking development work. It supports macOS, Linux, and Windows, offering both local and remote (SSH) functionality through a CLI, status bar integration, and an optional dashboard.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kagehq/port-kill?embed=0\">View Project</a>\n• <a href=\"https://portkill.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1104148d3c98efd8d1c70359eef2e8ce7a2fbc8c06e429855bf76ee9ca56096f/kagehq/port-kill",
+        "project_id": 1034478597,
+        "content": "✨ <b>open-lovable</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRapidly creating React applications from existing websites using AI.\n<br>\n✨ <b>Key Features:</b>\n• Website cloning to React app\n• AI-powered code generation\n• Uses Firecrawl API\n• Support for multiple LLMs (Anthropic, OpenAI, Gemini, Groq)\n• Optional fast apply using MorphLLM\n<br>\n📖 <b>Summary:</b>\nOpen Lovable allows users to clone and recreate websites as modern React applications using AI. It leverages AI to generate React code from existing websites, providing a quick way to modernize or replicate web applications. The project is associated with Firecrawl and Lovable.dev, suggesting a connection to a larger cloud-based solution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/firecrawl/open-lovable?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/71278b77900f563cd7a6ab1efc003deed3dfec1bd7a1db43d2a1e49266f1e23d/firecrawl/open-lovable",
+        "platform": "telegram",
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 1016411413,
+        "content": "🚀 <b>omnara</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a central command center to interact with and monitor AI agents, facilitating real-time collaboration and control.\n<br>\n✨ <b>Key Features:</b>\n• Real-time visibility into AI agent activity\n• Unified dashboard for web and mobile\n• CLI integration for Claude Code and Codex CLI\n• n8n integration for human-in-the-loop workflows\n• Headless mode for dashboard-only interaction\n<br>\n📖 <b>Summary:</b>\nOmnara is a platform that provides a unified interface to interact with AI agents like Claude Code and Codex CLI from various devices (terminal, web, and mobile). It allows users to monitor agent activity in real-time and respond to agent requests from a central dashboard, enhancing collaboration with AI agents.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/omnara-ai/omnara?embed=0\">View Project</a>\n• <a href=\"https://omnara.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0f2077f556784c747cd3d64b24b45f2b02e245947320c8914c83fbd9626cd82b/omnara-ai/omnara",
+        "platform": "telegram",
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 119336293,
+        "content": "💡 <b>yn</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating, editing, and managing Markdown documents with advanced features and extensibility.\n<br>\n✨ <b>Key Features:</b>\n• Monaco editor kernel for VSCode-like experience\n• Version control\n• Applet embedding\n• Runnable code blocks\n• PlantUML and Drawio support\n<br>\n📖 <b>Summary:</b>\nYank Note is a highly extensible Markdown editor designed for productivity. It offers features like version control, AI copilot integration, mind map support, document encryption, code snippet execution, an integrated terminal, chart embedding, HTML applets, Reveal.js presentations, plugin support, and macro replacement, aiming to provide a comprehensive Markdown editing experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/purocean/yn?embed=0\">View Project</a>\n• <a href=\"https://yank-note.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a8f516e36bcf165dc2fa3ab5148e3ac8de0428f62b5112cddf0d3ae157c4beab/purocean/yn",
+        "platform": "telegram",
+        "quality_score": 0.8500000000000001
+    },
+    {
+        "project_id": 924637527,
+        "content": "🚀 <b>zen</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nPersonal note-taking and knowledge management\n<br>\n✨ <b>Key Features:</b>\n• Single Go binary or Docker Compose deployment\n• Low resource usage\n• Markdown files with SQLite database\n• Flexible tags for organization\n• Full-text search with BM25 ranking\n<br>\n📖 <b>Summary:</b>\nZen is a self-hosted notes application built with Go, storing notes as Markdown files within a SQLite database. It offers full-text search, low resource usage, and features like tagging, templates, and experimental canvas-based organization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sheshbabu/zen?embed=0\">View Project</a>\n• <a href=\"https://www.sheshbabu.com/zen/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/924637527/b8017903-ecbc-4421-83f5-eb15e07f1f8e",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 645330651,
+        "content": "🚀 <b>AdGuardian-Term</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring and analyzing network traffic and DNS queries handled by an AdGuard Home instance.\n<br>\n✨ <b>Key Features:</b>\n• Real-time Query Monitoring\n• Block and Allow Stats\n• Historical Query Counts\n• Filter Lists\n• Top Domain Statistics\n<br>\n📖 <b>Summary:</b>\nAdGuardian-Term is a terminal-based application written in Rust for real-time monitoring and statistics of an AdGuard Home instance. It provides features such as real-time query monitoring, block/allow statistics, historical query counts, filter list information, and top domain statistics, offering a lightweight and safe way to keep an eye on network traffic.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lissy93/AdGuardian-Term?embed=0\">View Project</a>\n• <a href=\"https://adguardian.as93.net?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/645330651/795e1d85-9d3d-44c7-a115-a385b4142944",
         "platform": "telegram",
         "quality_score": 0.85
-    },
-    {
-        "project_id": 37319088,
-        "content": "💡 <b>finicky</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nCustomizing which browser opens for specific URLs based on user-defined rules.\n<br>\n✨ <b>Key Features:</b>\n• Route URLs to preferred browsers with matching rules\n• Automatically edit URLs before opening\n• Write rules in JavaScript or TypeScript\n• Create complex routing logic\n• Handle multiple browsers and apps\n<br>\n📖 <b>Summary:</b>\nFinicky is a macOS application that acts as a default browser, allowing users to define rules to route URLs to specific browsers based on matching criteria. It offers features like URL rewriting, JavaScript/TypeScript configuration, and handling multiple browsers, enhancing workflow organization by separating browsing contexts.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/johnste/finicky?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5398557a0328a31b8f36b36a3d25f6e302687e2443a520590a65d18f5db4ad19/johnste/finicky",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 895926919,
-        "content": "✨ <b>poml</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating structured, maintainable, and versatile prompts for Large Language Models (LLMs).\n<br>\n✨ <b>Key Features:</b>\n• Structured Prompting Markup\n• Comprehensive Data Handling\n• Decoupled Presentation Styling\n• Integrated Templating Engine\n• Rich Development Toolkit (IDE Extension, SDKs)\n<br>\n📖 <b>Summary:</b>\nPOML (Prompt Orchestration Markup Language) is a markup language designed for structuring and managing prompts for Large Language Models (LLMs). It provides features for organizing prompt components, integrating data, and managing presentation variations, addressing challenges like lack of structure and format sensitivity in prompt engineering.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/microsoft/poml?embed=0\">View Project</a>\n• <a href=\"https://microsoft.github.io/poml/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/39902a7c16ea5f7c43476e1f02e23e664154411f1724d76e7415e698a43537b3/microsoft/poml",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1020924685,
-        "content": "🌟 <b>marchat</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosted, lightweight terminal chat for developers and small teams.\n<br>\n✨ <b>Key Features:</b>\n• Terminal UI (Bubble Tea)\n• Real-time Chat (WebSockets, SQLite)\n• Plugin System\n• E2E Encryption (X25519/ChaCha20-Poly1305)\n• File Sharing\n<br>\n📖 <b>Summary:</b>\nmarchat is a lightweight, self-hosted terminal chat application built in Go, designed for developers and small teams. It features real-time WebSocket messaging, optional end-to-end encryption, a plugin system, file sharing, and an admin panel, all accessible through a terminal UI.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Cod-e-Codes/marchat?embed=0\">View Project</a>\n• <a href=\"https://github.com/Cod-e-Codes/marchat?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1020924685/9346b44d-528a-4d30-8a52-86fe55132fa9",
-        "platform": "telegram",
-        "quality_score": 0.9
-    },
-    {
-        "project_id": 1030990993,
-        "content": "✨ <b>hexora</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nDetecting malicious and harmful patterns in Python code.\n<br>\n✨ <b>Key Features:</b>\n• Audit project dependencies\n• Detect malicious scripts\n• Analyze IoC files\n• Audit new PyPi packages\n• Static analysis of Python code\n<br>\n📖 <b>Summary:</b>\nHexora is a static analysis tool written in Rust designed to detect malicious patterns in Python code. It can be used to audit project dependencies, detect malicious scripts, analyze IoC files, and audit new PyPi packages.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rushter/hexora?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fb1257a9fe17d86e20c4f1cbdf25c62432b9b1b4b3dedff3a049645d0736bfaf/rushter/hexora",
-        "platform": "telegram",
-        "quality_score": 0.65
     }
 ]
