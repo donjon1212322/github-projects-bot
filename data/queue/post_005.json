@@ -1,7 +1,0 @@
-{
-    "project_id": 92162696,
-    "content": "✨ <b>github-stars-by-topic</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomatically organizing and browsing GitHub stars by topic.\n<br>\n✨ <b>Key Features:</b>\n• Fetches GitHub stars using user credentials.\n• Extracts text from repository titles, descriptions, and README files.\n• Applies Term Frequency Inverse Document Frequency (TF-IDF) for keyword extraction.\n• Uses Non-Negative Matrix Factorization (NMF) for topic modeling.\n<br>\n📖 <b>Summary:</b>\nThis Python script automatically sorts a user's GitHub stars by topic using machine learning. It fetches starred repositories, extracts relevant text from their titles, descriptions, and READMEs, and then applies TF-IDF and NMF to identify topics and categorize the stars accordingly, generating a browsable folder structure in Markdown.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lorey/github-stars-by-topic?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/4f65666633c9c985768462f555f237a7a40b6ee7c8e92f3f491cc3a91800a013/lorey/github-stars-by-topic",
-    "platform": "telegram",
-    "quality_score": 0.45
-}
