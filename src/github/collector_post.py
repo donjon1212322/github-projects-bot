@@ -24,7 +24,7 @@ if not GH_API_TOKEN or not GEMINI_API_KEY:
 # Настройка модели Gemini
 try:
     genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel("gemini-1.5-flash")  # Используем flash-версию
+    model = genai.GenerativeModel("gemini-2.5-flash-preview-09-2025")  # Используем flash-версию
     logging.info("Модель Gemini успешно инициализирована")
 except Exception as e:
     logging.error(f"Ошибка инициализации модели Gemini: {e}")
