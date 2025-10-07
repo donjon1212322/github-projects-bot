@@ -1,121 +1,100 @@
 [
     {
-        "id": 21298446,
-        "name": "firefly-iii",
-        "description": "Firefly III: a personal finances manager",
-        "url": "https://github.com/firefly-iii/firefly-iii",
-        "language": "PHP",
-        "stars": 20751,
-        "forks": 1891,
-        "created_at": "2014-06-28T07:37:32Z",
-        "updated_at": "2025-10-07T10:11:17Z",
-        "topics": [
-            "accounting",
-            "budget",
-            "budgeting",
-            "budgets",
-            "cash-flow",
-            "cashflow",
-            "credit-card",
-            "docker",
-            "expenses",
-            "finance",
-            "finances",
-            "financial",
-            "linux",
-            "money",
-            "paycheck",
-            "personal-finance",
-            "php",
-            "php7"
-        ],
-        "quality_score": 0.8499999999999999,
+        "id": 1070357836,
+        "name": "brrtfetch",
+        "description": "Render animated ASCII art from a GIF for your sysinfo fetcher of choice.",
+        "url": "https://github.com/ferrebarrat/brrtfetch",
+        "language": "Go",
+        "stars": 55,
+        "forks": 1,
+        "created_at": "2025-10-05T19:04:58Z",
+        "updated_at": "2025-10-07T18:24:55Z",
+        "topics": [],
+        "quality_score": 0.6499999999999999,
         "contributors_count": 0,
-        "last_commit_date": "2025-10-07T08:11:49Z",
+        "last_commit_date": "2025-10-07T09:43:47Z",
         "media_urls": [
-            "https://repository-images.githubusercontent.com/21298446/df3f3500-938f-11eb-9ced-1fc42aec4e90"
-        ],
-        "homepage": "https://firefly-iii.org/",
-        "readme_summary": "Firefly III is a self-hosted personal finance manager that helps users track expenses and income to improve budgeting and saving habits. It supports features like budgets, categories, tags, recurring transactions, and offers a REST JSON API for extensive control and integration.",
-        "key_features": [
-            "Self-hosted and isolated",
-            "REST JSON API",
-            "Recurring transactions management",
-            "Budgets",
-            "Categories",
-            "Tags"
-        ],
-        "primary_use_case": "Personal finance management, including tracking expenses, income, and budgeting.",
-        "open_issues": 126,
-        "cover_image_prompt": "A diligent librarian meticulously organizing stacks of money into clearly labeled shelves representing budgets, expenses, and income. The librarian uses a magnifying glass to examine each bill and coin, ensuring they are correctly categorized. A small UI element floats nearby, displaying a dashboard with financial reports and charts. The scene is set in a brightly lit, organized library with subtle digital particles highlighting the flow of money. The repository name is subtly etched on a bookshelf. The composition is clean and focused with a warm color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 1046070227,
-        "name": "AI-Video-Transcriber",
-        "description": " Transcribe and summarize video content using AI. Open-source, multi-platform, and supports multiple languages.",
-        "url": "https://github.com/wendy7756/AI-Video-Transcriber",
-        "language": "Python",
-        "stars": 807,
-        "forks": 103,
-        "created_at": "2025-08-28T06:27:27Z",
-        "updated_at": "2025-10-07T09:34:11Z",
-        "topics": [
-            "aitool",
-            "tiktok",
-            "transcribe",
-            "videototext",
-            "youtube"
-        ],
-        "quality_score": 0.65,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-06T04:50:59Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/384cbe4194b307b3a4ee04d8b56235857d8a1428556256e693ece64e8b0206ac/wendy7756/AI-Video-Transcriber"
+            "https://opengraph.githubassets.com/f1e7ddc005b854d9624a5e7ee5cb1598fb120ee683a709e99528fdfbced2a212/ferrebarrat/brrtfetch"
         ],
         "homepage": "",
-        "readme_summary": "The AI Video Transcriber is an open-source tool that transcribes and summarizes video content from various platforms like YouTube and TikTok. It uses AI for speech-to-text conversion, text optimization, and multi-language summarization, offering a mobile-friendly interface and real-time progress tracking.",
+        "readme_summary": "Brrtfetch is an animated system information fetcher written in Go that renders user-specified GIFs as colorful, animated ASCII art directly in the terminal. It integrates seamlessly with existing fetchers like fastfetch or neofetch, replacing their static ASCII art with dynamic animations while displaying system information alongside. Its primary goal is to enhance the visual output of sysinfo tools with dynamic, customizable terminal art.",
         "key_features": [
-            "Multi-Platform Support (YouTube, TikTok, Bilibili, 30+ more)",
-            "Intelligent Transcription (Faster-Whisper)",
-            "AI Text Optimization (typo correction, sentence completion, paragraphing)",
-            "Multi-Language Summaries",
-            "Real-Time Progress Tracking",
-            "Conditional Translation (GPT‑4o)",
-            "Mobile-Friendly"
+            "Render animated GIFs as colorful ASCII art directly in the terminal",
+            "Side-by-side display of system information via fastfetch, neofetch, or custom commands",
+            "True color (24-bit ANSI) support with optional monochrome mode",
+            "Multithreaded prerendering for smooth playback",
+            "Configurable parameters (width/height, FPS, brightness, vertical offset)",
+            "Attempts to preserve ANSI color codes from sysinfo commands"
         ],
-        "primary_use_case": "Transcribing and summarizing video content from various online platforms.",
-        "open_issues": 0,
-        "cover_image_prompt": "A skilled scribe sitting at a digital loom, weaving strands of video footage into clear, concise text summaries. The loom is fed by glowing threads representing YouTube, TikTok, and other video platforms. As the scribe works, AI-powered tools subtly enhance the text, correcting errors and optimizing paragraphs. A globe sits nearby, symbolizing multi-language support. Small UI elements on the loom display real-time transcription progress. The scene is set in a bright, modern studio with a clean, focused composition. The image should be in a 3D isometric illustration style with vibrant colors and rich details."
+        "primary_use_case": "Customizing and enhancing the visual output of system information fetchers by replacing static ASCII art with dynamic, animated GIF-based ASCII art.",
+        "open_issues": 2,
+        "cover_image_prompt": "A high-tech, stylized 3D isometric illustration of a specialized rendering machine. A classic film reel, glowing with digital energy (representing the GIF input), is being fed into the machine. The machine's output is a dynamic, continuously shifting tapestry of vibrant, 24-bit ANSI characters that form an animated image on a large terminal screen. A small, secondary panel next to the animation displays clean, structured system information readouts. The scene emphasizes the transformation of motion picture into colorful, terminal-based text art. Use a dark background with neon blue and magenta highlights. The style should be a clean, detailed technical illustration."
     },
     {
-        "id": 1065825261,
-        "name": "Decart-XR",
-        "description": "The First RealTime World Transformation App for Quest",
-        "url": "https://github.com/DecartAI/Decart-XR",
-        "language": "C#",
-        "stars": 76,
-        "forks": 17,
-        "created_at": "2025-09-28T14:00:49Z",
-        "updated_at": "2025-10-07T09:04:56Z",
+        "id": 1067602269,
+        "name": "claw",
+        "description": "A crustacean powered clipboard manager for X11 & Wayland",
+        "url": "https://github.com/saltnpepper97/claw",
+        "language": "Rust",
+        "stars": 8,
+        "forks": 1,
+        "created_at": "2025-10-01T05:25:49Z",
+        "updated_at": "2025-10-07T17:15:41Z",
         "topics": [],
-        "quality_score": 0.75,
+        "quality_score": 0.7499999999999999,
         "contributors_count": 0,
-        "last_commit_date": "2025-10-05T12:15:08Z",
+        "last_commit_date": "2025-10-07T14:56:28Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/68e6653d1ede0e7495495d1ecbda9d831fb0c823ceaf074da73ab524b45963fd/DecartAI/Decart-XR"
+            "https://opengraph.githubassets.com/5975e7c29a184a47413f9fda5de77a84d78aac224dc086ec9d53ce4b8107728d/saltnpepper97/claw"
         ],
         "homepage": null,
-        "readme_summary": "The Decart-XR repository is a Unity application that enables real-time AI-powered video transformation on Meta Quest 3 devices. It allows users to experience live inside AI-generated art with low latency, utilizing Decart AI's video-to-video transformation system optimized for VR applications.",
+        "readme_summary": "Claw is a highly customizable, cross-platform clipboard manager designed for Linux desktop environments running X11 or Wayland. Built using Rust and Tauri, it provides essential features like persistent clipboard history, system tray integration, and a keyboard-driven interface optimized for window managers. It is also extensively themeable, offering several popular built-in themes like Dracula and Nord.",
         "key_features": [
-            "Real-time Camera Capture",
-            "Dual AI Models (Mirage and Lucy)",
-            "Ultra-low Latency (~150-200ms)",
-            "WebRTC Streaming (VP8, 30fps)",
-            "VR-Optimized UI"
+            "Cross-platform design (X11 xclip/Wayland wl_clipboard)",
+            "Window Manager friendly (Keyboard driven interface)",
+            "Clipboard History with configurable limit",
+            "System Tray Integration with quick access to recent items",
+            "Highly customizable (keybinds, titlebar, force-dark)",
+            "Themeable with several built-in themes"
         ],
-        "primary_use_case": "Real-time AI-powered video transformation for VR experiences on Meta Quest 3.",
-        "open_issues": 1,
-        "cover_image_prompt": "A skilled artist wearing a VR headset, standing before a digital canvas that mirrors their view. The canvas transforms the real-world passthrough into a vibrant, AI-generated art style, reflecting the user's movements in real-time. Small UI elements float around the canvas, displaying AI model options and latency metrics. The scene is set in a futuristic studio with soft, ambient lighting. Subtle code snippets and data visualizations are projected onto the walls. The repository name, 'Decart-XR,' is subtly integrated into the canvas design. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+        "primary_use_case": "Providing persistent history, quick access, and advanced management capabilities for the system clipboard on Linux desktops running X11 or Wayland.",
+        "open_issues": 0,
+        "cover_image_prompt": "A friendly, anthropomorphic crab, wearing a small librarian's visor, stands before a futuristic, glowing archive cabinet. This crab, representing \"Claw,\" is diligently managing clipboard history. Using its large claws, it swiftly catches small, glowing digital slips of paper (representing copied data entries) floating in the air and files them into numbered, organized slots within the cabinet. The slips faintly display text snippets. The cabinet features small integrated screens showing metrics like \"History Max Length: 100\" and subtle icons for X11 and Wayland integration. The scene is a clean, focused 3D isometric illustration with a vibrant blue and orange color palette, emphasizing organization and efficiency. The composition should be centered on the crab archivist and its glowing data storage system."
+    },
+    {
+        "id": 992907328,
+        "name": "SimRepo",
+        "description": "🔗 Shows similar repositories in the sidebar",
+        "url": "https://github.com/Mubelotix/SimRepo",
+        "language": "JavaScript",
+        "stars": 130,
+        "forks": 2,
+        "created_at": "2025-05-29T22:45:07Z",
+        "updated_at": "2025-10-07T18:05:23Z",
+        "topics": [
+            "embeddings",
+            "git",
+            "github",
+            "machine-learning",
+            "recommendations",
+            "repositories",
+            "vector"
+        ],
+        "quality_score": 0.4,
+        "contributors_count": 0,
+        "last_commit_date": "2025-08-03T17:51:21Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/992907328/68520cfc-837e-4854-8755-c877f0a70aa9"
+        ],
+        "homepage": "https://chromewebstore.google.com/detail/simrepo/jieoogmcigenidbkgnkaakagdnlnieap",
+        "readme_summary": "SimRepo is a browser extension that enhances GitHub by providing intelligent repository recommendations directly in the sidebar and on the homepage. It generates recommendations by locating the nearest neighbors of a given repository within a vector space, utilizing machine learning and vector embeddings. This system relies on a server running Qdrant, a vector database, to ensure fast and efficient results without impacting user performance.",
+        "key_features": [
+            "Provides similar repositories for all repositories with more than 150 stars",
+            "Adds recommendations on your home page based on your latest stars"
+        ],
+        "primary_use_case": "Improving repository discovery and navigation on GitHub by providing context-aware recommendations.",
+        "open_issues": 3,
+        "cover_image_prompt": "A conceptual illustration depicting a vast, dark, digital library space, representing the GitHub ecosystem. In the center, a stylized, glowing 'Input Repository' node emits a beam of light, symbolizing a vector query. This beam travels across a 3D grid filled with countless small, floating data points (repositories). The light instantly identifies and illuminates a tight cluster of 'Nearest Neighbor' nodes nearby, showcasing the speed of the Qdrant vector database lookup. The scene emphasizes spatial proximity as the key to similarity. Subtle UI elements like small star counts and repository names float near the highlighted nodes. The overall mood is futuristic and efficient, using deep blues, purples, and vibrant cyan highlights. 3D isometric illustration style, highly detailed, clean composition."
     },
     {
         "id": 1018267033,
@@ -123,10 +102,10 @@
         "description": "Smart alias manager with TUI for shell aliases and command-line efficiency 🚀",
         "url": "https://github.com/vaibhav-mattoo/alman",
         "language": "Rust",
-        "stars": 72,
+        "stars": 73,
         "forks": 1,
         "created_at": "2025-07-11T23:04:06Z",
-        "updated_at": "2025-10-07T08:34:06Z",
+        "updated_at": "2025-10-07T12:08:49Z",
         "topics": [
             "alias-management",
             "aliases-setup",
@@ -152,20 +131,20 @@
         "contributors_count": 0,
         "last_commit_date": "2025-08-15T21:12:19Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/676f5f35a0c03abe38ff10e18bfb46963992348897b87889ab374bd36b88b809/vaibhav-mattoo/alman"
+            "https://opengraph.githubassets.com/7cd33ac10551a32336e43fb59e3fcfcae1df5fd948724b3cfa8a5c49088573d5/vaibhav-mattoo/alman"
         ],
         "homepage": "https://github.com/vaibhav-mattoo/alman",
-        "readme_summary": "Alman is a command-line tool and TUI for managing shell aliases. It provides intelligent suggestions based on command history, helping users organize, create, and manage aliases across multiple shells, ultimately improving command-line workflow and productivity.",
+        "readme_summary": "Alman is an intelligent command-line tool and TUI written in Rust designed for managing shell aliases across various environments like Bash, Zsh, and Fish. It significantly enhances command-line efficiency by organizing, creating, and managing aliases, offering smart suggestions derived from the user's command history. This system helps users streamline their workflow by automating the creation of useful shortcuts and maintaining alias organization.",
         "key_features": [
-            "Alias management",
+            "Command-line tool and TUI for alias management",
             "Intelligent alias suggestions based on command history",
-            "TUI for interactive alias management",
-            "Support for multiple shells (Bash, Zsh, Fish)",
-            "Installation via script, Cargo, Homebrew, AUR, and source"
+            "Supports configuration for Bash, Zsh, and Fish shells",
+            "Organizes, creates, and manages aliases across multiple files",
+            "Automatic initialization with existing shell history"
         ],
-        "primary_use_case": "Streamlining command-line workflows through intelligent alias management and suggestions.",
+        "primary_use_case": "Improving command-line efficiency and productivity by automating and intelligently managing shell aliases based on usage history.",
         "open_issues": 1,
-        "cover_image_prompt": "Imagine a skilled librarian organizing books (aliases) on shelves (shell configurations). The librarian uses a magical magnifying glass (command history analysis) to suggest the best shelf for each book. Digital particles float around the librarian, representing code snippets and command-line inputs. A small screen displays a TUI with alias management options. The library is brightly lit with a warm, inviting atmosphere. The image should be in a 3D isometric illustration style with clear details and a vibrant color scheme, subtly incorporating the word 'alman' on a bookshelf."
+        "cover_image_prompt": "A 3D isometric illustration depicting a futuristic, intelligent archivist robot named 'Alman' sitting at a sleek, minimalist control desk. Long, winding scrolls of glowing text, representing repetitive command history, flow onto the desk from the left. The robot uses precise, automated tools to analyze and condense these long commands, transforming them into small, vibrant, glowing data keys or tokens, which symbolize efficient shell aliases. These keys are then neatly organized into a holographic filing system projected above the desk, resembling a clean TUI interface. The scene uses a cool blue and cyan color palette, emphasizing efficiency and intelligence. The composition should be clean and focused, clearly showing the transformation from long input to short, organized output."
     },
     {
         "id": 847016830,
@@ -189,150 +168,17 @@
             "https://opengraph.githubassets.com/c09d8d604701462a053ba34e717b1076e07a9faa3112ab5344b31cac1f4aa9ce/pipelight/virshle"
         ],
         "homepage": "",
-        "readme_summary": "Virshle is a command-line utility written in Rust for managing virtual machines. It leverages cloud-hypervisor and linux-kvm for virtualization, openvswitch for network configuration, and pipelight-init for fast VM provisioning. It allows users to define VM templates in TOML files and manage VMs through a client-server architecture.",
+        "readme_summary": "Virshle is a command-line utility written in Rust designed for managing multiple virtual machines efficiently, operating on a client-node architecture. It leverages cloud-hypervisor and KVM for virtualization, openvswitch for networking, and uses TOML files for template-based VM configuration. This approach enables fast provisioning and management of VMs from a single interface.",
         "key_features": [
-            "VM management via command-line interface",
-            "TOML-based VM template definitions",
-            "Integration with cloud-hypervisor and linux-kvm",
-            "Network configuration using openvswitch",
-            "Fast VM provisioning with pipelight-init",
-            "Client-server architecture for managing VMs on multiple nodes"
+            "Single command line utility to manage multiple virtual machines",
+            "Uses cloud-hypervisor and linux-kvm for virtualization",
+            "Extensive use of openvswitch for network configuration",
+            "Fast VM provisioning using pipelight-init",
+            "Template-based VM creation using TOML configuration files",
+            "Client-server architecture (CLI controls nodes)"
         ],
-        "primary_use_case": "Managing and provisioning virtual machines from the command line using configuration files.",
+        "primary_use_case": "Managing the lifecycle (creation, starting, provisioning) of multiple virtual machines quickly and efficiently from the command line, suitable for local development or small-scale virtualization environments.",
         "open_issues": 1,
-        "cover_image_prompt": "A skilled conductor stands before a complex orchestra of virtual machines, each represented by a unique instrument. The conductor holds a TOML configuration file as their sheet music, guiding the orchestra to create harmonious virtual environments. Glowing network cables connect the instruments, symbolizing the network configuration. A large screen behind the orchestra displays a simplified command-line interface. The scene is set in a modern, minimalist concert hall with soft, ambient lighting. The image should be in a 3D isometric illustration style with clean lines and vibrant colors."
-    },
-    {
-        "id": 699874378,
-        "name": "palettum",
-        "description": "Web app and CLI tool that lets you recolor images, GIFs, and videos with any custom palette of your choosing",
-        "url": "https://github.com/arrowpc/palettum",
-        "language": "Rust",
-        "stars": 431,
-        "forks": 5,
-        "created_at": "2023-10-03T14:08:38Z",
-        "updated_at": "2025-10-07T10:00:50Z",
-        "topics": [
-            "cli",
-            "gpu",
-            "image-processing",
-            "palette",
-            "react",
-            "rust",
-            "typescript",
-            "typescript-react",
-            "webapp",
-            "webassembly",
-            "website",
-            "wgpu"
-        ],
-        "quality_score": 0.75,
-        "contributors_count": 0,
-        "last_commit_date": "2025-07-28T07:25:01Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/2dc13ccc395b387d2110c12dfafec87ec06e699296d665a627db6e57497b7be2/arrowpc/palettum"
-        ],
-        "homepage": "https://palettum.com",
-        "readme_summary": "Palettum is a versatile tool for recoloring images, GIFs, and videos using custom palettes. It offers both a web application and a command-line interface (CLI) for applying palettes, with options for pixel-perfect snapping or smooth blending effects.",
-        "key_features": [
-            "Recolor images, GIFs, and videos",
-            "Custom palette support",
-            "Pixel-perfect snapping",
-            "Smooth blending effect",
-            "Web app interface",
-            "CLI tool"
-        ],
-        "primary_use_case": "Applying custom color palettes to images, GIFs, and videos for artistic or stylistic purposes.",
-        "open_issues": 0,
-        "cover_image_prompt": "An artist stands before a digital canvas, holding a vibrant palette of colors. With a wave of their hand, they transform a grayscale photograph of a cityscape into a vivid, stylized image using the custom palette. Small UI elements float around the canvas, showing the color selection and blending options. The scene is set in a bright, modern studio with natural light. Subtle code snippets and color charts are visible in the background. The composition is clean and focused, with a clear visual hierarchy. The image should be in a flat design style with clear iconography and vibrant colors."
-    },
-    {
-        "id": 1022762966,
-        "name": "YouTubeTLDR",
-        "description": "⚡ A lightweight, self-hosted YouTube video summarizer with Gemini AI",
-        "url": "https://github.com/Milkshiift/YouTubeTLDR",
-        "language": "CSS",
-        "stars": 194,
-        "forks": 18,
-        "created_at": "2025-07-19T19:13:50Z",
-        "updated_at": "2025-10-07T05:44:54Z",
-        "topics": [
-            "gemini",
-            "gemini-ai",
-            "youtube",
-            "youtube-subtitles",
-            "youtube-summarization",
-            "youtube-summarizer",
-            "youtube-summary"
-        ],
-        "quality_score": 0.5499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-10-05T16:23:48Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/79399c8fa2f5b3e54388d645ed826b6a23a4e8e6fb1ad4bb66d26761a902bfa2/Milkshiift/YouTubeTLDR"
-        ],
-        "homepage": "https://tldr.milkshift.dedyn.io/",
-        "readme_summary": "YouTubeTLDR is a lightweight, self-hosted tool that uses Gemini AI to summarize YouTube videos. It allows users to quickly get the essence of a video without watching the entire content, focusing on privacy and minimal resource usage.",
-        "key_features": [
-            "Customizable Prompts",
-            "Model Selection",
-            "View Transcript",
-            "History",
-            "Privacy-Focused",
-            "Modern UI"
-        ],
-        "primary_use_case": "Summarizing YouTube videos for quick content consumption.",
-        "open_issues": 0,
-        "cover_image_prompt": "A diligent librarian sitting at a grand oak desk, using a magical magnifying glass to condense entire bookshelves of video scrolls into small, glowing summary orbs. The librarian carefully examines each scroll, extracting key information and distilling it into the orbs. Subtle UI elements float around the desk, displaying snippets of code and Gemini AI logos. The scene is set in a cozy, high-ceilinged library with warm lighting. The composition is focused and inviting, with a color scheme of deep blues and golds. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 912559512,
-        "name": "sim",
-        "description": "Open-source platform to build and deploy AI agent workflows.",
-        "url": "https://github.com/simstudioai/sim",
-        "language": "TypeScript",
-        "stars": 16512,
-        "forks": 2106,
-        "created_at": "2025-01-05T22:47:49Z",
-        "updated_at": "2025-10-07T10:07:07Z",
-        "topics": [
-            "agent-workflow",
-            "agentic-workflow",
-            "agents",
-            "ai",
-            "aiagents",
-            "anthropic",
-            "artificial-intelligence",
-            "automation",
-            "chatbot",
-            "deepseek",
-            "gemini",
-            "low-code",
-            "nextjs",
-            "no-code",
-            "openai",
-            "rag",
-            "react",
-            "typescript"
-        ],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-10-06T20:22:22Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/4fa1e68889b5060683591a5da5d51cfcd53b3e931778c77e7935deb5cf34e9fe/simstudioai/sim"
-        ],
-        "homepage": "https://www.sim.ai",
-        "readme_summary": "The 'sim' repository is an open-source platform designed to build and deploy AI agent workflows. It allows users to create and manage AI agents for various automation and chatbot applications, leveraging technologies like Next.js and TypeScript for a low-code/no-code experience.",
-        "key_features": [
-            "AI agent workflow creation",
-            "Deployment of AI agents",
-            "Low-code/no-code platform",
-            "Integration with AI models (OpenAI, Anthropic, Gemini, Deepseek)",
-            "RAG (Retrieval-Augmented Generation) support",
-            "Automation and chatbot capabilities"
-        ],
-        "primary_use_case": "Building and deploying AI agent workflows for automation and chatbot applications.",
-        "open_issues": 57,
-        "cover_image_prompt": "A master architect overseeing a bustling city where each building represents an AI agent, connected by glowing workflows that resemble intricate transport systems. The architect is reviewing blueprints on a holographic screen displaying the 'sim' logo, ensuring each agent seamlessly interacts with others. Some agents are delivering information (RAG), while others are automating tasks, shown by small robots moving between buildings. The city is bathed in a soft, futuristic glow with subtle UI elements overlaid on the buildings. The composition is wide and detailed, emphasizing the interconnectedness of the agents. The image should be in 3D isometric illustration style with vibrant colors and clean lines."
+        "cover_image_prompt": "A 3D isometric illustration depicting a high-tech, minimalist control room. A focused operator, representing the command-line interface, is feeding a glowing, stylized blueprint labeled 'TOML Configuration' into a central console. This action instantly triggers the rapid assembly and deployment of miniature, perfect 3D server cubes, which represent the virtual machines. These cubes are seamlessly connected by glowing blue lines symbolizing network configuration via Open vSwitch. The console screen subtly displays the command 'virshle vm create'. The overall scene emphasizes speed and efficiency in machine orchestration, using a cool blue and white color palette. The style should be clean, technical illustration with sharp details and focused lighting."
     }
 ]
