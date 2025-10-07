@@ -1,0 +1,7 @@
+{
+    "project_id": 847016830,
+    "content": "🔥 <b>virshle</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and provisioning virtual machines from the command line using configuration files.\n<br>\n✨ <b>Key Features:</b>\n• VM management via command-line interface\n• TOML-based VM template definitions\n• Integration with cloud-hypervisor and linux-kvm\n• Network configuration using openvswitch\n• Fast VM provisioning with pipelight-init\n<br>\n📖 <b>Summary:</b>\nVirshle is a command-line utility written in Rust for managing virtual machines. It leverages cloud-hypervisor and linux-kvm for virtualization, openvswitch for network configuration, and pipelight-init for fast VM provisioning. It allows users to define VM templates in TOML files and manage VMs through a client-server architecture.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pipelight/virshle?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/c09d8d604701462a053ba34e717b1076e07a9faa3112ab5344b31cac1f4aa9ce/pipelight/virshle",
+    "platform": "telegram",
+    "quality_score": 0.55
+}
