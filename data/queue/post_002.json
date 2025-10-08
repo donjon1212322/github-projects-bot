@@ -1,7 +1,0 @@
-{
-    "project_id": 992907328,
-    "content": "🚀 <b>SimRepo</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nImproving repository discovery and navigation on GitHub by providing context-aware recommendations.\n<br>\n✨ <b>Key Features:</b>\n• Provides similar repositories for all repositories with more than 150 stars\n<br>\n📖 <b>Summary:</b>\nSimRepo is a browser extension that enhances GitHub by providing intelligent repository recommendations directly in the sidebar and on the homepage. It generates recommendations by locating the nearest neighbors of a given repository within a vector space, utilizing machine learning and vector embeddings. This system relies on a server running Qdrant, a vector database, to ensure fast and efficient results without impacting user performance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Mubelotix/SimRepo?embed=0\">View Project</a>\n• <a href=\"https://chromewebstore.google.com/detail/simrepo/jieoogmcigenidbkgnkaakagdnlnieap?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://repository-images.githubusercontent.com/992907328/68520cfc-837e-4854-8755-c877f0a70aa9",
-    "platform": "telegram",
-    "quality_score": 0.4
-}
