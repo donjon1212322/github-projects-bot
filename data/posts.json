@@ -1,23 +1,51 @@
 [
     {
-        "project_id": 621803253,
-        "content": "✨ <b>Flowise</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nVisually designing, building, and deploying custom AI agents and complex LLM-based workflow automation without requiring extensive coding.\n<br>\n✨ <b>Key Features:</b>\n• Visual, low-code interface for building AI agents and workflows\n<br>\n📖 <b>Summary:</b>\nFlowise is a low-code/no-code platform that allows users to visually build, deploy, and manage custom AI agents and complex workflows using Large Language Models (LLMs) like OpenAI and LangChain. It provides a drag-and-drop interface to connect various components (nodes) for tasks such as RAG, chatbot creation, and workflow automation. The platform is self-hostable and built as a monorepository using TypeScript, React, and Node.js.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/FlowiseAI/Flowise?embed=0\">View Project</a>\n• <a href=\"https://flowiseai.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/621803253/228074f3-2420-4c7e-a1a8-3fc357e4c6c1",
+        "project_id": 1058480615,
+        "content": "🌟 <b>piraterf</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nPortable software-defined radio transmission and experimentation.\n<br>\n✨ <b>Key Features:</b>\n• Portable RF signal generation\n• WiFi hotspot creation\n• Web browser control\n• Multiple transmission modes (FM, FT8, RTTY, etc.)\n• Amateur radio experimentation\n<br>\n📖 <b>Summary:</b>\nPIrateRF transforms a Raspberry Pi Zero W into a portable RF signal generator and WiFi hotspot. It allows users to control various transmission modes, from FM broadcasts to digital modes, through a web browser, enabling experimentation and education in software-defined radio transmission.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/psyb0t/piraterf?embed=0\">View Project</a>\n• <a href=\"https://ciprian.51k.eu/piraterf-turning-a-20-raspberry-pi-zero-into-an-rf-tx-swiss-army-knife/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/84c54500de4dae2204b67a5302b20fe094dc1636ac223ccc5bcb252ab538298f/psyb0t/piraterf",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 31425145,
+        "content": "💡 <b>raspap-webgui</b> | PHP\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating a wireless access point and router using Raspberry Pi or other Debian-based devices.\n<br>\n✨ <b>Key Features:</b>\n• Wireless router setup\n• Web-based management interface\n• DHCP settings\n• WireGuard support\n• OpenVPN support\n<br>\n📖 <b>Summary:</b>\nRaspAP is a PHP-based software solution designed to transform Debian-based devices, particularly Raspberry Pi, into full-featured wireless routers. It offers a user-friendly web interface for managing network settings, including DHCP, VPN (WireGuard, OpenVPN, Tailscale), SSL, ad blocking, and captive portal integration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/RaspAP/raspap-webgui?embed=0\">View Project</a>\n• <a href=\"https://raspap.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/31425145/ede6825a-18a4-4b30-85bb-d2f313c59ef3",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 25129800,
-        "content": "✨ <b>gallery-dl</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nArchiving and downloading complete image galleries and media collections from specific online hosting platforms using a highly configurable command-line interface.\n<br>\n✨ <b>Key Features:</b>\n• Command-line program for downloading image galleries and collections.\n<br>\n📖 <b>Summary:</b>\ngallery-dl is a powerful, cross-platform command-line utility designed for downloading complete image galleries and collections from numerous popular image hosting and social media sites (like Pixiv, Twitter, and DeviantArt). It offers extensive configuration options, advanced filenaming capabilities, and optional support for video downloads and Ugoira conversions, making it a comprehensive tool for archiving online media.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mikf/gallery-dl?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/311285c03e00a7a7d2fd4cba89e790315b8e98a50fa75731727ec04875d001cf/mikf/gallery-dl",
+        "project_id": 285393031,
+        "content": "🌟 <b>paru</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying AUR package management for Arch Linux users.\n<br>\n✨ <b>Key Features:</b>\n• AUR package installation and upgrades\n• pacman wrapper\n• Minimal user interaction\n• Color support (follows pacman configuration)\n• File-based review with file manager integration\n<br>\n📖 <b>Summary:</b>\nParu is a feature-rich AUR helper written in Rust for Arch Linux. It simplifies the process of searching, installing, and upgrading packages from the Arch User Repository (AUR) by wrapping pacman with added functionality and minimal user interaction.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Morganamilo/paru?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a90b1c48bf3069a19d740e145716712d560151736ec61510d716ee63959c5777/Morganamilo/paru",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.95
     },
     {
-        "project_id": 188700274,
-        "content": "✨ <b>copyparty</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDeploying a highly versatile, multi-protocol file server and media hub (NAS frontend) on various devices for file sharing, media streaming, and secure data transfer.\n<br>\n✨ <b>Key Features:</b>\n• Portable single-file server (copyparty-sfx.py)\n• Multi-protocol support: HTTP, WebDAV, FTP, TFTP, SMB/CIFS\n• Accelerated resumable uploads and downloads\n<br>\n📖 <b>Summary:</b>\ncopyparty is a portable, dependency-optional file server written in Python, designed to turn almost any device into a versatile file-sharing and media hub. It supports multiple protocols including HTTP, WebDAV, FTP, and TFTP, and features accelerated resumable uploads, deduplication, and comprehensive browser-based file management. It serves as an all-in-one NAS frontend solution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/9001/copyparty?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/188700274/42754d5b-fa34-45dd-9030-6ff0c16036be",
+        "project_id": 1030455649,
+        "content": "🔥 <b>iOS-OCR-Server</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nTurning an iOS device into a local OCR server for text recognition in images.\n<br>\n✨ <b>Key Features:</b>\n• Local OCR processing using Apple's Vision Framework\n• No cloud dependencies\n• Unlimited usage\n• Privacy-focused\n• API for integration into other applications\n<br>\n📖 <b>Summary:</b>\nThe iOS-OCR-Server repository provides a way to turn an iOS device into a local OCR server using Apple's Vision Framework. It allows users to perform OCR on images without relying on cloud services, ensuring privacy and unlimited usage. The server exposes an API that can be integrated into other applications for text recognition.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/riddleling/iOS-OCR-Server?embed=0\">View Project</a>\n• <a href=\"https://apps.apple.com/us/app/ocr-server/id6749533041?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/676650d00122106b7661bee2ee201afbbbffcde2f7ea1216c73b97922839cd89/riddleling/iOS-OCR-Server",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 50824485,
+        "content": "🌟 <b>systeminformer</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nSystem monitoring, debugging, and malware detection on Windows systems.\n<br>\n✨ <b>Key Features:</b>\n• Detailed overview of system activity with highlighting\n• Graphs and statistics for tracking resource usage\n• Identifying processes using specific files\n• Managing active network connections\n• Real-time information on disk access\n<br>\n📖 <b>Summary:</b>\nSystem Informer is a free, powerful tool for monitoring system resources, debugging software, and detecting malware on Windows. It provides a detailed overview of system activity, allowing users to track resource usage, identify processes using specific files, manage network connections, and analyze stack traces.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/winsiderss/systeminformer?embed=0\">View Project</a>\n• <a href=\"https://systeminformer.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/50824485/76ab12fd-e114-46d7-9684-7f827e89cd8c",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 911303109,
+        "content": "🚀 <b>motia</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying backend development by unifying various backend functionalities into a single framework, reducing the complexity of managing multiple separate systems.\n<br>\n✨ <b>Key Features:</b>\n• Unifies APIs, background jobs, workflows, and AI Agents\n• Built-in observability and state management\n• Multi-language support (JavaScript, TypeScript, Python, Ruby)\n<br>\n📖 <b>Summary:</b>\nMotia is a multi-language backend framework designed to unify APIs, background jobs, workflows, and AI Agents into a single core primitive, simplifying backend development. It aims to eliminate runtime fragmentation by providing built-in observability and state management, supporting languages like JavaScript, TypeScript, Python, and Ruby.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MotiaDev/motia?embed=0\">View Project</a>\n• <a href=\"https://motia.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6ac3f132c9e7a2a3236dfc814b7f2e798727d673f4e8c8abd52983e7e8c2673e/MotiaDev/motia",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 993676621,
+        "content": "✨ <b>PolymarketViewer</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nBrowsing and interacting with Polymarket prediction markets on Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Browse active prediction market events\n• Filter events by category and search\n• Sort events by various criteria\n• View detailed event information\n• Display interactive price history charts\n<br>\n📖 <b>Summary:</b>\nPolymarket Viewer is an Android application for browsing prediction markets on Polymarket.com. It provides features to browse, filter, sort, and view detailed information about prediction market events, including price history charts and comments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Streamatico/PolymarketViewer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b53fc51e245ebbf22393ebdbe372def1cfe6169856ae6f6d32747277a7d1f9b8/Streamatico/PolymarketViewer",
+        "platform": "telegram",
+        "quality_score": 0.6
     }
 ]
