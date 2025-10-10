@@ -1,51 +1,44 @@
 [
     {
-        "project_id": 1058480615,
-        "content": "🌟 <b>piraterf</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nPortable software-defined radio transmission and experimentation.\n<br>\n✨ <b>Key Features:</b>\n• Portable RF signal generation\n• WiFi hotspot creation\n• Web browser control\n• Multiple transmission modes (FM, FT8, RTTY, etc.)\n• Amateur radio experimentation\n<br>\n📖 <b>Summary:</b>\nPIrateRF transforms a Raspberry Pi Zero W into a portable RF signal generator and WiFi hotspot. It allows users to control various transmission modes, from FM broadcasts to digital modes, through a web browser, enabling experimentation and education in software-defined radio transmission.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/psyb0t/piraterf?embed=0\">View Project</a>\n• <a href=\"https://ciprian.51k.eu/piraterf-turning-a-20-raspberry-pi-zero-into-an-rf-tx-swiss-army-knife/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/84c54500de4dae2204b67a5302b20fe094dc1636ac223ccc5bcb252ab538298f/psyb0t/piraterf",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 31425145,
-        "content": "💡 <b>raspap-webgui</b> | PHP\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating a wireless access point and router using Raspberry Pi or other Debian-based devices.\n<br>\n✨ <b>Key Features:</b>\n• Wireless router setup\n• Web-based management interface\n• DHCP settings\n• WireGuard support\n• OpenVPN support\n<br>\n📖 <b>Summary:</b>\nRaspAP is a PHP-based software solution designed to transform Debian-based devices, particularly Raspberry Pi, into full-featured wireless routers. It offers a user-friendly web interface for managing network settings, including DHCP, VPN (WireGuard, OpenVPN, Tailscale), SSL, ad blocking, and captive portal integration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/RaspAP/raspap-webgui?embed=0\">View Project</a>\n• <a href=\"https://raspap.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/31425145/ede6825a-18a4-4b30-85bb-d2f313c59ef3",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 285393031,
-        "content": "🌟 <b>paru</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying AUR package management for Arch Linux users.\n<br>\n✨ <b>Key Features:</b>\n• AUR package installation and upgrades\n• pacman wrapper\n• Minimal user interaction\n• Color support (follows pacman configuration)\n• File-based review with file manager integration\n<br>\n📖 <b>Summary:</b>\nParu is a feature-rich AUR helper written in Rust for Arch Linux. It simplifies the process of searching, installing, and upgrading packages from the Arch User Repository (AUR) by wrapping pacman with added functionality and minimal user interaction.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Morganamilo/paru?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a90b1c48bf3069a19d740e145716712d560151736ec61510d716ee63959c5777/Morganamilo/paru",
-        "platform": "telegram",
-        "quality_score": 0.95
-    },
-    {
-        "project_id": 1030455649,
-        "content": "🔥 <b>iOS-OCR-Server</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nTurning an iOS device into a local OCR server for text recognition in images.\n<br>\n✨ <b>Key Features:</b>\n• Local OCR processing using Apple's Vision Framework\n• No cloud dependencies\n• Unlimited usage\n• Privacy-focused\n• API for integration into other applications\n<br>\n📖 <b>Summary:</b>\nThe iOS-OCR-Server repository provides a way to turn an iOS device into a local OCR server using Apple's Vision Framework. It allows users to perform OCR on images without relying on cloud services, ensuring privacy and unlimited usage. The server exposes an API that can be integrated into other applications for text recognition.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/riddleling/iOS-OCR-Server?embed=0\">View Project</a>\n• <a href=\"https://apps.apple.com/us/app/ocr-server/id6749533041?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/676650d00122106b7661bee2ee201afbbbffcde2f7ea1216c73b97922839cd89/riddleling/iOS-OCR-Server",
+        "project_id": 679066208,
+        "content": "✨ <b>systemctl-tui</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and monitoring systemd services in a Linux environment through a terminal user interface.\n<br>\n✨ <b>Key Features:</b>\n• Browse service status and logs\n• Start, stop, restart, and reload services\n• View and edit unit files\n• Installation via binary release, Rust (cargo), and distro packages (Arch Linux, Nix)\n<br>\n📖 <b>Summary:</b>\nsystemctl-tui is a terminal user interface (TUI) tool written in Rust for interacting with systemd services and their logs on Linux systems. It provides a fast and simple way to browse service status and logs, start/stop/restart/reload services, and view/edit unit files.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rgwood/systemctl-tui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6b52d41429b59c22f9035044921168d7872809fb2208e18efe92c7542746facf/rgwood/systemctl-tui",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 50824485,
-        "content": "🌟 <b>systeminformer</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nSystem monitoring, debugging, and malware detection on Windows systems.\n<br>\n✨ <b>Key Features:</b>\n• Detailed overview of system activity with highlighting\n• Graphs and statistics for tracking resource usage\n• Identifying processes using specific files\n• Managing active network connections\n• Real-time information on disk access\n<br>\n📖 <b>Summary:</b>\nSystem Informer is a free, powerful tool for monitoring system resources, debugging software, and detecting malware on Windows. It provides a detailed overview of system activity, allowing users to track resource usage, identify processes using specific files, manage network connections, and analyze stack traces.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/winsiderss/systeminformer?embed=0\">View Project</a>\n• <a href=\"https://systeminformer.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/50824485/76ab12fd-e114-46d7-9684-7f827e89cd8c",
+        "project_id": 828545665,
+        "content": "✨ <b>ai-captcha-bypass</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated CAPTCHA solving for bypassing security measures.\n<br>\n✨ <b>Key Features:</b>\n• Multiple AI Providers (OpenAI, Google Gemini)\n• Multiple CAPTCHA Types (text, complicated text, reCAPTCHA v2, puzzle, audio)\n• Browser Automation (Selenium)\n• Extensible design\n• Benchmarking script\n<br>\n📖 <b>Summary:</b>\nThe AI Captcha Bypass repository provides a Python-based command-line tool that leverages large multimodal models (LMMs) like OpenAI's GPT-4o and Google's Gemini to automatically solve various types of CAPTCHAs. It uses Selenium for web browser automation to interact with web pages and solve CAPTCHAs in real-time, supporting multiple AI providers and CAPTCHA types.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aydinnyunus/ai-captcha-bypass?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5acd16155a8cad63954b19b7be84db36499f829a26ca2a73dc24c5eb53952239/aydinnyunus/ai-captcha-bypass",
         "platform": "telegram",
-        "quality_score": 1.0000000000000002
+        "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 911303109,
-        "content": "🚀 <b>motia</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying backend development by unifying various backend functionalities into a single framework, reducing the complexity of managing multiple separate systems.\n<br>\n✨ <b>Key Features:</b>\n• Unifies APIs, background jobs, workflows, and AI Agents\n• Built-in observability and state management\n• Multi-language support (JavaScript, TypeScript, Python, Ruby)\n<br>\n📖 <b>Summary:</b>\nMotia is a multi-language backend framework designed to unify APIs, background jobs, workflows, and AI Agents into a single core primitive, simplifying backend development. It aims to eliminate runtime fragmentation by providing built-in observability and state management, supporting languages like JavaScript, TypeScript, Python, and Ruby.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MotiaDev/motia?embed=0\">View Project</a>\n• <a href=\"https://motia.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6ac3f132c9e7a2a3236dfc814b7f2e798727d673f4e8c8abd52983e7e8c2673e/MotiaDev/motia",
+        "project_id": 682827276,
+        "content": "💡 <b>seedit</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and participating in decentralized, censorship-resistant online communities.\n<br>\n✨ <b>Key Features:</b>\n• Decentralized social network client\n• Serverless and adminless operation\n• GUI and CLI options for community management\n• Desktop, web, and mobile versions available\n• P2P communication using the Plebbit protocol\n<br>\n📖 <b>Summary:</b>\nSeedit is a decentralized Reddit alternative client (interface) for the Plebbit protocol, enabling users to create and own unstoppable communities. It offers both web and desktop versions, with the desktop version functioning as a full P2P Plebbit node, and allows users to create and manage communities (subplebbits) either through a GUI or a command-line interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/plebbit/seedit?embed=0\">View Project</a>\n• <a href=\"https://seedit.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a1e14d07fab1c6df76b05b460a49aa2814e404eab9185e67194f5c8a7dd114f0/plebbit/seedit",
         "platform": "telegram",
-        "quality_score": 1.0000000000000002
+        "quality_score": 0.7499999999999999
     },
     {
-        "project_id": 993676621,
-        "content": "✨ <b>PolymarketViewer</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nBrowsing and interacting with Polymarket prediction markets on Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Browse active prediction market events\n• Filter events by category and search\n• Sort events by various criteria\n• View detailed event information\n• Display interactive price history charts\n<br>\n📖 <b>Summary:</b>\nPolymarket Viewer is an Android application for browsing prediction markets on Polymarket.com. It provides features to browse, filter, sort, and view detailed information about prediction market events, including price history charts and comments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Streamatico/PolymarketViewer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b53fc51e245ebbf22393ebdbe372def1cfe6169856ae6f6d32747277a7d1f9b8/Streamatico/PolymarketViewer",
+        "project_id": 838212912,
+        "content": "✨ <b>chartdb</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDatabase schema visualization and design, including schema migration between different database systems.\n<br>\n✨ <b>Key Features:</b>\n• Instant Schema Import\n• AI-Powered Export for Easy Migration\n• Interactive Editing\n• Support for multiple database systems (PostgreSQL, MySQL, SQL Server, MariaDB, SQLite, CockroachDB, ClickHouse)\n<br>\n📖 <b>Summary:</b>\nChartDB is an open-source, web-based database diagram editor that allows users to visualize and design their database schema using a single query. It supports multiple database systems and offers features like instant schema import, AI-powered export for schema migration, and interactive editing capabilities, all without requiring an account.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/chartdb/chartdb?embed=0\">View Project</a>\n• <a href=\"https://chartdb.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/838212912/3063460a-4c7c-4b4d-aea5-1e9760aa7a37",
         "platform": "telegram",
-        "quality_score": 0.6
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 914964527,
+        "content": "🌟 <b>solace-agent-mesh</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding and orchestrating multi-agent AI systems for solving complex problems.\n<br>\n✨ <b>Key Features:</b>\n• Multi-Agent Event-Driven Architecture\n• Agent Orchestration\n• Flexible Interfaces\n• Extensible\n• Agent-to-Agent Communication\n<br>\n📖 <b>Summary:</b>\nSolace Agent Mesh is a framework for building event-driven multi-agent AI systems. It enables the creation of AI agent teams that can delegate tasks, share data, and connect with external systems through a standardized communication layer built on Solace Platform's event messaging.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SolaceLabs/solace-agent-mesh?embed=0\">View Project</a>\n• <a href=\"https://solacelabs.github.io/solace-agent-mesh/docs/documentation/getting-started/introduction?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/dd400859bf8e4826d5508f89a22acf8da699647707847bd829a8e25b1e88c2fb/SolaceLabs/solace-agent-mesh",
+        "platform": "telegram",
+        "quality_score": 1.1000000000000003
+    },
+    {
+        "project_id": 1037244554,
+        "content": "🔥 <b>dnSurfer</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBrowsing text-based web content in environments where HTTP/HTTPS is blocked, such as captive portals.\n<br>\n✨ <b>Key Features:</b>\n• DNS-only web browsing\n• Text-only content retrieval\n• Electron-based desktop client\n• Custom DNS server (Node.js)\n• Circumvents HTTP/HTTPS blocking\n<br>\n📖 <b>Summary:</b>\ndnSurfer is a proof-of-concept web browser that operates entirely over the DNS protocol. It includes a desktop client built with Electron and a custom DNS server implemented in Node.js, allowing users to browse text-only web content even when HTTP/HTTPS is blocked.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nadchif/dnSurfer?embed=0\">View Project</a>\n• <a href=\"https://dev.to/dchif/making-a-browser-that-slips-past-wi-fi-captive-portals-and-why-this-loophole-isnt-worth-it-13o?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f369544ac367ffb85d5dd616b4cb8d5ac8a47760f33b739f757daa871ce05136/nadchif/dnSurfer",
+        "platform": "telegram",
+        "quality_score": 0.3
     }
 ]
