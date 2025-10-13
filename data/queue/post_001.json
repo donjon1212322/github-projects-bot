@@ -1,0 +1,7 @@
+{
+    "project_id": 57313402,
+    "content": "🌟 <b>udocker</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExecuting Docker containers in environments where root privileges are not available or Docker is not installed.\n<br>\n✨ <b>Key Features:</b>\n• Execution of Docker containers without root privileges\n• Support for multiple execution methods (PRoot, Fakechroot, runc, crun, Singularity)\n• User-level installation and deployment\n• Docker-like command-line interface\n<br>\n📖 <b>Summary:</b>\nudocker is a Python-based tool that allows users to execute Docker containers in user space without requiring root privileges. It's designed for Linux systems where Docker is unavailable, such as batch systems and interactive clusters, enabling non-privileged users to pull and run containers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/indigo-dc/udocker?embed=0\">View Project</a>\n• <a href=\"https://indigo-dc.github.io/udocker/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://repository-images.githubusercontent.com/57313402/1e941100-cefd-11eb-8401-f7c697943eba",
+    "platform": "telegram",
+    "quality_score": 0.8
+}

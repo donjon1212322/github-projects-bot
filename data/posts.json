@@ -1,58 +1,44 @@
 [
     {
-        "project_id": 562007145,
-        "content": "💡 <b>parsec-vdd</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating virtual displays for gaming, streaming, and remote work on Windows systems.\n<br>\n✨ <b>Key Features:</b>\n• Standalone virtual display driver\n• IddCx API usage\n• High resolution and refresh rate support (up to 4K and 240 Hz)\n• Virtual display management app (ParsecVDisplay)\n• Core API for direct control of the driver\n<br>\n📖 <b>Summary:</b>\nThe parsec-vdd repository provides a standalone solution for creating virtual displays on Windows hosts using the Parsec Virtual Display Driver (VDD), independent of the Parsec app. It leverages the IddCx API to generate virtual displays with support for high resolutions and refresh rates, making it suitable for gaming, streaming, or remote work.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nomi-san/parsec-vdd?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/562007145/f932d487-da62-4646-876a-cef4e1e06ea6",
+        "project_id": 1071508564,
+        "content": "💡 <b>Human3R</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n4D human-scene reconstruction from video or image sequences.\n<br>\n✨ <b>Key Features:</b>\n• Unified model for 4D human-scene reconstruction\n• Single-stage inference\n• Fast training (one day, one GPU)\n• Includes scripts for downloading models and checkpoints\n• Provides a demo script for running inference\n<br>\n📖 <b>Summary:</b>\nThe Human3R repository provides a unified model for 4D human-scene reconstruction. It allows for inference in a single stage using one model and can be trained quickly using a single GPU. The model aims to reconstruct humans and their surrounding environment in 4D (3D space over time).\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/fanegg/Human3R?embed=0\">View Project</a>\n• <a href=\"https://fanegg.github.io/Human3R/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1fc1481a815c373c0b1337455fd8e0c2bba2dc7e269fc224510b655310954e6a/fanegg/Human3R",
         "platform": "telegram",
-        "quality_score": 0.6
+        "quality_score": 0.6499999999999999
     },
     {
-        "project_id": 1028996364,
-        "content": "🌟 <b>nightwatcher</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nViewing IP camera streams in a web browser with custom detection capabilities.\n<br>\n✨ <b>Key Features:</b>\n• Blazing fast streaming\n• Cross Platform Support\n• Privacy & Extensibility (Local models and custom detection)\n• Simplicity\n<br>\n📖 <b>Summary:</b>\nNight Watcher is a web-based IP camera viewer designed for fast and simple streaming in any browser. It offers features like custom detection, cross-platform support, and privacy through local models, aiming for a user-friendly experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/daya0576/nightwatcher?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/25f7b0283a201c3cd4a2e10c472bc14bf5f853bdf186e4d60172db281c367b64/daya0576/nightwatcher",
+        "project_id": 57313402,
+        "content": "🌟 <b>udocker</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExecuting Docker containers in environments where root privileges are not available or Docker is not installed.\n<br>\n✨ <b>Key Features:</b>\n• Execution of Docker containers without root privileges\n• Support for multiple execution methods (PRoot, Fakechroot, runc, crun, Singularity)\n• User-level installation and deployment\n• Docker-like command-line interface\n<br>\n📖 <b>Summary:</b>\nudocker is a Python-based tool that allows users to execute Docker containers in user space without requiring root privileges. It's designed for Linux systems where Docker is unavailable, such as batch systems and interactive clusters, enabling non-privileged users to pull and run containers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/indigo-dc/udocker?embed=0\">View Project</a>\n• <a href=\"https://indigo-dc.github.io/udocker/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/57313402/1e941100-cefd-11eb-8401-f7c697943eba",
         "platform": "telegram",
-        "quality_score": 0.7499999999999999
+        "quality_score": 0.8
     },
     {
-        "project_id": 871772837,
-        "content": "💡 <b>Grid-Mobile</b> | Dart\n<br>\n🎯 <b>Primary Use Case:</b>\nSecure and private location sharing with trusted contacts.\n<br>\n✨ <b>Key Features:</b>\n• End-to-End Encryption (E2EE)\n• Matrix Protocol Integration\n• Cross-Platform (iOS and Android)\n• Real-Time Location Sharing\n• Self-Hosted Capability\n<br>\n📖 <b>Summary:</b>\nGrid-Mobile is a cross-platform mobile application (iOS and Android) built with Flutter for private location sharing. It uses end-to-end encryption (E2EE) and integrates with the Matrix protocol for secure, decentralized communication, offering users control over who can access their location data.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Rezivure/Grid-Mobile?embed=0\">View Project</a>\n• <a href=\"https://mygrid.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c2936f6726e54bf7c5fa8597c6e40f0efbdc020715da4f41b1f77b5e65d69168/Rezivure/Grid-Mobile",
+        "project_id": 47023494,
+        "content": "🌟 <b>qdirstat</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nAnalyzing disk space usage and identifying large files and directories for cleanup on Linux, BSD, Unix-like systems, and macOS.\n<br>\n✨ <b>Key Features:</b>\n• Tree view and treemap visualization of disk usage\n• Multi-selection in tree and treemap\n• User-defined cleanup actions\n• Configurable file categories, treemap colors, exclude rules, and tree columns\n<br>\n📖 <b>Summary:</b>\nQDirStat is a Qt-based graphical application for analyzing disk space usage on Linux, BSD, and other Unix-like systems, as well as macOS. It provides a tree view and treemap visualization of directories and files, allowing users to identify large files and directories for cleanup. It's a Qt-only port of the original KDirStat, without KDE dependencies.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/shundhammer/qdirstat?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/47023494/492cf880-57e6-11ea-8519-34aac78bc810",
         "platform": "telegram",
-        "quality_score": 0.6
+        "quality_score": 0.7500000000000001
     },
     {
-        "project_id": 62743585,
-        "content": "🔥 <b>spotify-downloader</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDownloading music from Spotify for offline listening and archival purposes.\n<br>\n✨ <b>Key Features:</b>\n• Downloads Spotify playlists and songs\n• Fetches album art\n• Retrieves lyrics\n• Embeds metadata\n• Command-line interface\n<br>\n📖 <b>Summary:</b>\nThe spotify-downloader repository, also known as spotDL, is a Python-based command-line tool that downloads music from Spotify playlists and songs. It finds matching songs on YouTube, downloads them, and embeds album art, lyrics, and metadata into the downloaded files.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/spotDL/spotify-downloader?embed=0\">View Project</a>\n• <a href=\"https://spotdl.readthedocs.io/en/latest/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/62743585/b4cd7500-5368-11eb-8890-5be8f41f90b4",
+        "project_id": 905697354,
+        "content": "🔥 <b>WhisperLiveKit</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time speech-to-text transcription in a browser environment.\n<br>\n✨ <b>Key Features:</b>\n• Real-time speech transcription\n• Fully local processing\n• Speaker identification\n• Low-latency transcription using SimulStreaming and WhisperStreaming\n• Translation to over 100 languages using NLLB\n<br>\n📖 <b>Summary:</b>\nWhisperLiveKit is a real-time, fully local speech-to-text server that transcribes audio directly to a browser. It leverages state-of-the-art research in simultaneous speech processing for low-latency transcription and speaker identification, offering a ready-to-use backend, server, and simple frontend.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/QuentinFuxa/WhisperLiveKit?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fe7bd1cce47c0bafca5dfda72cafc6573d0f0562e474dd5f67b7f53e0248d2b3/QuentinFuxa/WhisperLiveKit",
         "platform": "telegram",
-        "quality_score": 1.1000000000000003
+        "quality_score": 0.75
     },
     {
-        "project_id": 1039587768,
-        "content": "✨ <b>osaurus</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nLocal LLM inference on Apple Silicon Macs with OpenAI and Ollama-compatible APIs.\n<br>\n✨ <b>Key Features:</b>\n• Native MLX runtime\n• Apple Silicon only\n• OpenAI API compatible\n• Ollama-compatible\n• Function/Tool calling\n<br>\n📖 <b>Summary:</b>\nOsaurus is a native, Apple Silicon-only local LLM server, similar to Ollama. It leverages Apple's MLX framework for optimized performance on M-series chips. It features a SwiftUI app and a SwiftNIO server, providing OpenAI and Ollama-compatible endpoints for local LLM inference.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dinoki-ai/osaurus?embed=0\">View Project</a>\n• <a href=\"https://osaurus.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ad2ec6c3f477a8d9fead16edb205d328d9f6d4ec584c2acd593494377d8f3995/dinoki-ai/osaurus",
+        "project_id": 6899875,
+        "content": "🔥 <b>openproject</b> | Ruby\n<br>\n🎯 <b>Primary Use Case:</b>\nProject management and team collaboration.\n<br>\n✨ <b>Key Features:</b>\n• Project planning and scheduling\n• Product roadmap and release planning\n• Task management and team collaboration\n• Agile and Scrum\n• Time tracking, cost reporting, and budgeting\n<br>\n📖 <b>Summary:</b>\nOpenProject is a web-based, open-source project management software designed to help teams manage projects, tasks, and goals. It offers features for project planning, task management, agile development, time tracking, and bug tracking, with integrations like GitHub to enhance collaboration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/opf/openproject?embed=0\">View Project</a>\n• <a href=\"https://www.openproject.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/6899875/8080e3ed-fedc-4a77-ba7c-d0cfc3025aca",
         "platform": "telegram",
-        "quality_score": 0.9
+        "quality_score": 0.85
     },
     {
-        "project_id": 1041039196,
-        "content": "🌟 <b>wifi-3d-fusion</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEstimating 3D human pose for spatial awareness applications.\n<br>\n✨ <b>Key Features:</b>\n• 3D human pose estimation using WiFi CSI signals\n• Fusion of wireless sensing and computer vision\n• Deep learning-based pose estimation\n• Integration with ESP32 devices for data acquisition\n• Visualization using Three.js and Open3D\n<br>\n📖 <b>Summary:</b>\nWiFi-3D-Fusion is a research project that uses WiFi Channel State Information (CSI) and deep learning to estimate 3D human pose. It combines wireless sensing and computer vision to achieve spatial awareness, enabling applications like activity recognition and human-computer interaction.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MaliosDark/wifi-3d-fusion?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1041039196/ac401968-2dc8-417c-8738-899d5f5b9e03",
+        "project_id": 978358198,
+        "content": "🚀 <b>compozy</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nOrchestrating multi-agent AI systems for production-ready automation.\n<br>\n✨ <b>Key Features:</b>\n• Declarative Workflows\n• Developer-Focused CLI with hot-reloading\n• Advanced Task Orchestration (parallel, sequential, conditional)\n• Extensible Tools (TypeScript/JavaScript)\n• Multi-Model Support (OpenAI, Anthropic, Google, etc.)\n<br>\n📖 <b>Summary:</b>\nCompozy is an agentic orchestration framework built in Go that simplifies the creation and management of multi-agent AI systems. It uses declarative YAML to define workflows and offers features like advanced task orchestration, multi-model support, and enterprise-ready capabilities for building scalable and reliable AI applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/compozy/compozy?embed=0\">View Project</a>\n• <a href=\"https://compozy.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b6dafc3884581d099fe7ff4d9c4ad343a28c1dab381837468be11289d131ce43/compozy/compozy",
         "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 1044178074,
-        "content": "💡 <b>agent-c</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating AI agents that can execute shell commands using the OpenRouter API.\n<br>\n✨ <b>Key Features:</b>\n• Tool Calling (shell command execution)\n• Optimized Binaries (small size)\n• Conversation Memory (sliding window)\n• Cross-Platform (macOS and Linux)\n<br>\n📖 <b>Summary:</b>\nAgent-C is an ultra-lightweight AI agent written in C that interacts with the OpenRouter API to execute shell commands. It features a small binary size, conversation memory, and cross-platform compatibility (macOS and Linux).\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bravenewxyz/agent-c?embed=0\">View Project</a>\n• <a href=\"https://bravenew.xyz?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7bdb6570fe5a2d5ef0c00e3efe2900a22684c5b3b20f4a4816c1441b152146c0/bravenewxyz/agent-c",
-        "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 1041924588,
-        "content": "🔥 <b>growchief</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating social media interactions and outreach campaigns.\n<br>\n✨ <b>Key Features:</b>\n• Concurrency handling\n• Enrichment workflow\n• Working hours consideration\n• Proxy support\n• Human-like automation\n<br>\n📖 <b>Summary:</b>\nGrowChief is an open-source social media automation tool designed to automate interactions on social media platforms, such as sending connection requests and follow-up messages. It's built with features like concurrency handling, enrichment workflows, working hour consideration, proxy support, and human-like automation using Playwright and Patchright for stealth.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/growchief/growchief?embed=0\">View Project</a>\n• <a href=\"https://growchief.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1041924588/da104dc8-8aa2-40f9-8a7f-8435149dbb51",
-        "platform": "telegram",
-        "quality_score": 0.7
+        "quality_score": 0.65
     }
 ]
