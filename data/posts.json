@@ -1,44 +1,44 @@
 [
     {
-        "project_id": 1071508564,
-        "content": "💡 <b>Human3R</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n4D human-scene reconstruction from video or image sequences.\n<br>\n✨ <b>Key Features:</b>\n• Unified model for 4D human-scene reconstruction\n• Single-stage inference\n• Fast training (one day, one GPU)\n• Includes scripts for downloading models and checkpoints\n• Provides a demo script for running inference\n<br>\n📖 <b>Summary:</b>\nThe Human3R repository provides a unified model for 4D human-scene reconstruction. It allows for inference in a single stage using one model and can be trained quickly using a single GPU. The model aims to reconstruct humans and their surrounding environment in 4D (3D space over time).\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/fanegg/Human3R?embed=0\">View Project</a>\n• <a href=\"https://fanegg.github.io/Human3R/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1fc1481a815c373c0b1337455fd8e0c2bba2dc7e269fc224510b655310954e6a/fanegg/Human3R",
-        "platform": "telegram",
-        "quality_score": 0.6499999999999999
-    },
-    {
-        "project_id": 57313402,
-        "content": "🌟 <b>udocker</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExecuting Docker containers in environments where root privileges are not available or Docker is not installed.\n<br>\n✨ <b>Key Features:</b>\n• Execution of Docker containers without root privileges\n• Support for multiple execution methods (PRoot, Fakechroot, runc, crun, Singularity)\n• User-level installation and deployment\n• Docker-like command-line interface\n<br>\n📖 <b>Summary:</b>\nudocker is a Python-based tool that allows users to execute Docker containers in user space without requiring root privileges. It's designed for Linux systems where Docker is unavailable, such as batch systems and interactive clusters, enabling non-privileged users to pull and run containers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/indigo-dc/udocker?embed=0\">View Project</a>\n• <a href=\"https://indigo-dc.github.io/udocker/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/57313402/1e941100-cefd-11eb-8401-f7c697943eba",
-        "platform": "telegram",
-        "quality_score": 0.8
-    },
-    {
-        "project_id": 47023494,
-        "content": "🌟 <b>qdirstat</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nAnalyzing disk space usage and identifying large files and directories for cleanup on Linux, BSD, Unix-like systems, and macOS.\n<br>\n✨ <b>Key Features:</b>\n• Tree view and treemap visualization of disk usage\n• Multi-selection in tree and treemap\n• User-defined cleanup actions\n• Configurable file categories, treemap colors, exclude rules, and tree columns\n<br>\n📖 <b>Summary:</b>\nQDirStat is a Qt-based graphical application for analyzing disk space usage on Linux, BSD, and other Unix-like systems, as well as macOS. It provides a tree view and treemap visualization of directories and files, allowing users to identify large files and directories for cleanup. It's a Qt-only port of the original KDirStat, without KDE dependencies.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/shundhammer/qdirstat?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/47023494/492cf880-57e6-11ea-8519-34aac78bc810",
-        "platform": "telegram",
-        "quality_score": 0.7500000000000001
-    },
-    {
-        "project_id": 905697354,
-        "content": "🔥 <b>WhisperLiveKit</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time speech-to-text transcription in a browser environment.\n<br>\n✨ <b>Key Features:</b>\n• Real-time speech transcription\n• Fully local processing\n• Speaker identification\n• Low-latency transcription using SimulStreaming and WhisperStreaming\n• Translation to over 100 languages using NLLB\n<br>\n📖 <b>Summary:</b>\nWhisperLiveKit is a real-time, fully local speech-to-text server that transcribes audio directly to a browser. It leverages state-of-the-art research in simultaneous speech processing for low-latency transcription and speaker identification, offering a ready-to-use backend, server, and simple frontend.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/QuentinFuxa/WhisperLiveKit?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fe7bd1cce47c0bafca5dfda72cafc6573d0f0562e474dd5f67b7f53e0248d2b3/QuentinFuxa/WhisperLiveKit",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 6899875,
-        "content": "🔥 <b>openproject</b> | Ruby\n<br>\n🎯 <b>Primary Use Case:</b>\nProject management and team collaboration.\n<br>\n✨ <b>Key Features:</b>\n• Project planning and scheduling\n• Product roadmap and release planning\n• Task management and team collaboration\n• Agile and Scrum\n• Time tracking, cost reporting, and budgeting\n<br>\n📖 <b>Summary:</b>\nOpenProject is a web-based, open-source project management software designed to help teams manage projects, tasks, and goals. It offers features for project planning, task management, agile development, time tracking, and bug tracking, with integrations like GitHub to enhance collaboration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/opf/openproject?embed=0\">View Project</a>\n• <a href=\"https://www.openproject.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/6899875/8080e3ed-fedc-4a77-ba7c-d0cfc3025aca",
+        "project_id": 886745826,
+        "content": "💡 <b>VERT</b> | Svelte\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting files directly on a user's device without relying on cloud services.\n<br>\n✨ <b>Key Features:</b>\n• Local file conversion using WebAssembly\n• No file or file size limits\n• Support for 250+ file formats\n• Conversion settings\n• User-friendly interface built with Svelte\n<br>\n📖 <b>Summary:</b>\nVERT is a file conversion utility that performs conversions locally using WebAssembly, offering privacy and eliminating file size limits. It supports a wide range of file formats (250+) including images, audio, documents, and video, with conversion settings and a user-friendly Svelte interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/VERT-sh/VERT?embed=0\">View Project</a>\n• <a href=\"https://vert.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b87e32bd2d2e3b7545c44f903760fe99913e9dd12786236fe7fecd7438a030c4/VERT-sh/VERT",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 978358198,
-        "content": "🚀 <b>compozy</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nOrchestrating multi-agent AI systems for production-ready automation.\n<br>\n✨ <b>Key Features:</b>\n• Declarative Workflows\n• Developer-Focused CLI with hot-reloading\n• Advanced Task Orchestration (parallel, sequential, conditional)\n• Extensible Tools (TypeScript/JavaScript)\n• Multi-Model Support (OpenAI, Anthropic, Google, etc.)\n<br>\n📖 <b>Summary:</b>\nCompozy is an agentic orchestration framework built in Go that simplifies the creation and management of multi-agent AI systems. It uses declarative YAML to define workflows and offers features like advanced task orchestration, multi-model support, and enterprise-ready capabilities for building scalable and reliable AI applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/compozy/compozy?embed=0\">View Project</a>\n• <a href=\"https://compozy.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b6dafc3884581d099fe7ff4d9c4ad343a28c1dab381837468be11289d131ce43/compozy/compozy",
+        "project_id": 837825864,
+        "content": "🔥 <b>PyUIBuilder</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding Python GUIs with a drag-and-drop interface, simplifying the GUI development process for multiple frameworks.\n<br>\n✨ <b>Key Features:</b>\n• GUI builder for Tkinter\n• GUI builder for CustomTkinter\n• GUI builder for Kivy\n• Upcoming support for PySide\n• Drag-and-drop interface\n<br>\n📖 <b>Summary:</b>\nPyUIBuilder is a Python GUI builder that aims to simplify the process of creating graphical user interfaces. It supports multiple frameworks like Tkinter, CustomTkinter, and Kivy, with PySide support planned. The tool allows users to build GUIs with a drag-and-drop interface, similar to Canva.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/PaulleDemon/PyUIBuilder?embed=0\">View Project</a>\n• <a href=\"https://pyuibuilder.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/837825864/04592843-2789-4179-8e11-dec06fc45e55",
         "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 975472483,
+        "content": "🔥 <b>MicroPythonOS</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a comprehensive operating system environment for microcontrollers, enabling more complex applications and system-level functionalities.\n<br>\n✨ <b>Key Features:</b>\n• Operating system for microcontrollers\n• ESP32 support\n• Inspired by Android and iOS\n<br>\n📖 <b>Summary:</b>\nMicroPythonOS is a complete operating system designed for microcontrollers, particularly the ESP32. It aims to bring operating system-level functionalities, drawing inspiration from Android and iOS, to resource-constrained environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MicroPythonOS/MicroPythonOS?embed=0\">View Project</a>\n• <a href=\"https://MicroPythonOS.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/abea8805ca651b51c01db283a94626a4f577488ec5af20bae3f0285504f586d1/MicroPythonOS/MicroPythonOS",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 965313467,
+        "content": "💡 <b>droidrun</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating device interactions on Android and iOS devices using natural language commands through LLM agents.\n<br>\n✨ <b>Key Features:</b>\n• Control Android and iOS devices with natural language commands\n• Supports multiple LLM providers (OpenAI, Anthropic, Gemini, Ollama, DeepSeek)\n• Planning capabilities for complex multi-step tasks\n• Easy to use CLI with enhanced debugging features\n<br>\n📖 <b>Summary:</b>\nDroidRun is a framework for controlling Android and iOS devices using LLM agents, enabling automation of device interactions through natural language commands. It supports multiple LLM providers and offers features like planning capabilities, a CLI with debugging, a Python API, screenshot analysis, and execution tracing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/droidrun/droidrun?embed=0\">View Project</a>\n• <a href=\"https://droidrun.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f3ee49002aee651eab0d0c9ddfdc995c7b21f7b3d7e17219732332f8f5b85865/droidrun/droidrun",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 1045863050,
+        "content": "🚀 <b>Telegram-Reporter-Tool</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating Telegram reporting, user management, content scraping, and marketing tasks without requiring coding expertise.\n<br>\n✨ <b>Key Features:</b>\n• Scrape members, messages, media, and channels (including hidden members)\n• Add members to groups/channels automatically (with optional premium member filtering)\n<br>\n📖 <b>Summary:</b>\nThe Telegram-Reporter-Tool is a Python-based application designed to automate various Telegram-related tasks, primarily focusing on reporting, scraping, and managing Telegram users and content. It aims to simplify these processes for users without requiring coding skills, offering features like mass reporting, member adding, content scraping, and automated messaging.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Telegram-Reporter/Telegram-Reporter-Tool?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1045863050/075f867c-ff2f-4994-8a5b-4fefc92dd239",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 1035028562,
+        "content": "✨ <b>seedbox-lite</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nStreaming torrents instantly on various devices.\n<br>\n✨ <b>Key Features:</b>\n• Instant Streaming\n• Password Protection\n• Mobile Optimized\n• Smart Video Player\n• Fast Setup\n<br>\n📖 <b>Summary:</b>\nSeedBox Lite is a lightweight torrent streaming application that allows users to instantly stream movies and TV shows without waiting for complete downloads. It provides a Netflix-like experience with features like password protection, mobile optimization, and a smart video player, making it easy to watch torrent content on various devices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hotheadhacker/seedbox-lite?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/bd284fc4df00ecf46bc2cd115a367b36fc662eabf724f7f97e241a7611a86152/hotheadhacker/seedbox-lite",
+        "platform": "telegram",
+        "quality_score": 0.4
     }
 ]

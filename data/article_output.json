@@ -1,26 +1,26 @@
 {
-    "title": "spotDL v4: The CLI Tool That Perfects Your Spotify-to-Local Music Library Sync",
-    "article": "Imagine you have the perfect playlist on Spotify, but you want those files locally\b—complete with all the correct metadata and album art. That's exactly where spotDL steps in. This powerful command-line interface (CLI) tool acts as a clever, automated bridge between Spotify and YouTube. When you feed it a Spotify track or playlist URL, spotDL doesn't just grab a random audio file; it intelligently searches YouTube for the highest quality audio match of that specific song. It handles the complexities of audio extraction and conversion seamlessly, making the process feel instantaneous.\n\nThe real genius of spotDL lies in its post-download processing. Once the audio stream is successfully pulled from YouTube, the tool meticulously embeds all the rich metadata directly into the resulting file. We're talking about accurate song titles, artist names, album details, and even lyrics and album art. It uses the detailed information scraped from Spotify to ensure your local library is perfectly organized and recognized by any music player or media server. This reliance on robust, accurate metadata means no more generic 'Track 01' files cluttering your collection.\n\nFor developers, spotDL is far more than just a simple downloader; it's a powerful automation tool. Because it is built around a CLI, it integrates effortlessly into shell scripts, custom automation pipelines, and Docker containers. Need to quickly sync a massive playlist or maintain a mirrored local library? Just run a single, declarative command. The project is highly versatile, supporting advanced operations beyond simple downloading, such as saving only the metadata to a file (`save`) or even launching a web interface (`web`) for easier access by less technical users. This flexibility makes it indispensable for anyone managing large media libraries or integrating music acquisition into other personal projects.\n\nTo handle the complex conversion and embedding process efficiently, spotDL leverages FFmpeg, the industry standard for multimedia manipulation. The project simplifies the setup by including a built-in function to download and install FFmpeg locally if you don't already have it installed system-wide. This thoughtful dependency management ensures that the process of turning a raw YouTube audio stream into a perfectly tagged, high-quality audio file is reliable and efficient every single time. It truly is positioned as the fastest and most accurate way to curate your digital music collection without sacrificing quality or organization.",
+    "title": "VERT.sh: The File Converter That Never Sees Your Files (Thanks, WebAssembly!)",
+    "article": "We've all been there: you need to quickly convert a file, so you head to an online converter, click upload, and wait. But every time you hit that upload button, you’re handing over potentially sensitive data to a third-party server, often constrained by frustrating file size limits and slow transfer speeds. This common workflow is a huge bottleneck for efficiency and a major risk for privacy. What if the conversion could happen instantly, without your data ever leaving your machine?\n\nThat’s the core brilliance of VERT.sh. This project completely flips the traditional file conversion model on its head. Instead of relying on cloud infrastructure, VERT leverages the power of WebAssembly (Wasm) to perform complex, high-performance conversions right in your browser. WebAssembly allows near-native code execution safely within the web environment, turning your browser into a powerful, client-side conversion engine.\n\nBecause the heavy lifting is done locally, the benefits for developers and everyday users are immediate and significant. Crucially, there are zero file size limits imposed by the service. You can convert massive documents, huge audio files, or high-resolution images without worrying about upload caps or bandwidth restrictions. Your file processing speed is only limited by the power of your own device, which is usually much faster than waiting for a slow public server.\n\nVERT supports an incredible variety of formats—over 250+—covering images, audio, documents, and video. It’s a truly universal conversion tool. The frontend is built using Svelte and TypeScript, offering a modern, snappy, and user-friendly interface that feels great to use. This combination of modern tooling and Wasm performance is a fantastic example of what the decentralized web can achieve.\n\nFor developers looking at the architecture, the commitment to privacy is absolute. Your files remain on your device throughout the entire process. Furthermore, while the official instance handles some video conversions via an easily self-hostable daemon, the core functionality remains rooted in client-side processing. Being AGPL-licensed, VERT invites inspection and collaboration, allowing us to build powerful tools that prioritize user control and data security. If you value privacy, performance, and open-source excellence, VERT.sh is definitely the next project you need to star on GitHub.",
     "key_takeaways": [
-        "Intelligently finds and downloads Spotify tracks by matching them with high-quality audio sources on YouTube.",
-        "Meticulously embeds comprehensive metadata, including album art and lyrics, ensuring a perfectly organized local library.",
-        "Functions as a robust command-line interface (CLI) tool, making it ideal for automation, scripting, and integrating into custom workflows.",
-        "Simplifies setup through easy Python installation and optional built-in FFmpeg downloading.",
-        "Supports multiple operations, including downloading, saving metadata only, and running a local web interface."
+        "VERT performs file conversions locally in the browser using WebAssembly, ensuring maximum data privacy.",
+        "The project supports over 250 file formats (images, audio, documents, video) without file size limitations.",
+        "Conversion speed is dependent only on the user's device, eliminating cloud upload/download bottlenecks.",
+        "Built with modern technologies (Svelte and TypeScript) for a fast and intuitive user experience.",
+        "The project is open source (AGPL-3.0), promoting transparency and self-hosting options."
     ],
     "tags": [
-        "Spotify",
-        "CLI",
-        "Python",
-        "Music Downloader",
-        "FFmpeg"
+        "WebAssembly",
+        "File Conversion",
+        "Privacy",
+        "Svelte",
+        "Client-Side"
     ],
-    "stars": 22371,
-    "forks": 1961,
-    "open_issues": 51,
-    "languages": "Python",
-    "readme_summary": "The spotify-downloader repository, also known as spotDL, is a Python-based command-line tool that downloads music from Spotify playlists and songs. It finds matching songs on YouTube, downloads them, and embeds album art, lyrics, and metadata into the downloaded files.",
-    "project_id": 62743585,
-    "url": "https://github.com/spotDL/spotify-downloader",
-    "description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found)."
+    "stars": 7119,
+    "forks": 308,
+    "open_issues": 14,
+    "languages": "Svelte",
+    "readme_summary": "VERT is a file conversion utility that performs conversions locally using WebAssembly, offering privacy and eliminating file size limits. It supports a wide range of file formats (250+) including images, audio, documents, and video, with conversion settings and a user-friendly Svelte interface.",
+    "project_id": 886745826,
+    "url": "https://github.com/VERT-sh/VERT",
+    "description": "The next-generation file converter. Open source, fully local* and free forever."
 }
