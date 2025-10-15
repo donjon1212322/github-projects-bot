@@ -1,26 +1,26 @@
 {
-    "title": "VERT.sh: The File Converter That Never Sees Your Files (Thanks, WebAssembly!)",
-    "article": "We've all been there: you need to quickly convert a file, so you head to an online converter, click upload, and wait. But every time you hit that upload button, you’re handing over potentially sensitive data to a third-party server, often constrained by frustrating file size limits and slow transfer speeds. This common workflow is a huge bottleneck for efficiency and a major risk for privacy. What if the conversion could happen instantly, without your data ever leaving your machine?\n\nThat’s the core brilliance of VERT.sh. This project completely flips the traditional file conversion model on its head. Instead of relying on cloud infrastructure, VERT leverages the power of WebAssembly (Wasm) to perform complex, high-performance conversions right in your browser. WebAssembly allows near-native code execution safely within the web environment, turning your browser into a powerful, client-side conversion engine.\n\nBecause the heavy lifting is done locally, the benefits for developers and everyday users are immediate and significant. Crucially, there are zero file size limits imposed by the service. You can convert massive documents, huge audio files, or high-resolution images without worrying about upload caps or bandwidth restrictions. Your file processing speed is only limited by the power of your own device, which is usually much faster than waiting for a slow public server.\n\nVERT supports an incredible variety of formats—over 250+—covering images, audio, documents, and video. It’s a truly universal conversion tool. The frontend is built using Svelte and TypeScript, offering a modern, snappy, and user-friendly interface that feels great to use. This combination of modern tooling and Wasm performance is a fantastic example of what the decentralized web can achieve.\n\nFor developers looking at the architecture, the commitment to privacy is absolute. Your files remain on your device throughout the entire process. Furthermore, while the official instance handles some video conversions via an easily self-hostable daemon, the core functionality remains rooted in client-side processing. Being AGPL-licensed, VERT invites inspection and collaboration, allowing us to build powerful tools that prioritize user control and data security. If you value privacy, performance, and open-source excellence, VERT.sh is definitely the next project you need to star on GitHub.",
+    "title": "Unleash the Power of In-Browser Media Processing with Mediabunny",
+    "article": "Have you ever tried to build a web application that needs to handle video or audio manipulation? Typically, this means setting up a complex backend infrastructure, relying on heavy server-side tools like FFmpeg, and waiting for slow round trips just to trim a video or change a file format. It’s expensive, slow, and creates unnecessary latency. What if you could do all of that heavy lifting right in the user’s browser, instantly and without touching your server?\n\nThat’s exactly where Mediabunny hops in. This project is a complete, pure JavaScript media toolkit designed to read, write, and convert popular media files like MP4, WebM, and MP3, all running client-side. Think of it as bringing the core functionality of a professional media library, traditionally reserved for the server, directly into the web environment. This shifts the computational burden away from your infrastructure and onto the client device.\n\nMediabunny achieves this incredible performance because it was written from scratch in pure TypeScript and boasts zero external dependencies. It’s not just fast; it’s built for modern web standards. Crucially, it leverages the powerful WebCodecs API, allowing it to utilize hardware acceleration for encoding and decoding processes. This means your video conversions or resizing operations are lightning-fast, limited only by the user's hardware, not your server's queue.\n\nFor developers, the benefits are huge. You can now implement features that were previously complex or impossible on the client. Imagine offering users microsecond-accurate video trimming, real-time format conversion (transmuxing or transcoding), resizing, or cropping, all happening instantly. Since Mediabunny supports streaming I/O, it can efficiently handle reading and writing files of virtually any size without overwhelming the browser's memory, making it ideal for large video uploads.\n\nFurthermore, the project is designed with efficiency in mind. It is extremely tree-shakable, meaning you only bundle the specific functions you use. This keeps the library footprint incredibly small—as little as 5 kB gzipped—ensuring that integrating powerful media tools doesn't bloat your application’s initial load time. If you’re building anything that touches video or audio on the web, Mediabunny is a game-changer that deserves a look.",
     "key_takeaways": [
-        "VERT performs file conversions locally in the browser using WebAssembly, ensuring maximum data privacy.",
-        "The project supports over 250 file formats (images, audio, documents, video) without file size limitations.",
-        "Conversion speed is dependent only on the user's device, eliminating cloud upload/download bottlenecks.",
-        "Built with modern technologies (Svelte and TypeScript) for a fast and intuitive user experience.",
-        "The project is open source (AGPL-3.0), promoting transparency and self-hosting options."
+        "Mediabunny enables complex media operations (conversion, trimming, resizing) to run entirely client-side in the browser.",
+        "It is built in pure TypeScript with zero dependencies, ensuring maximum performance and a minimal bundle size (highly tree-shakable).",
+        "Leverages the WebCodecs API for hardware-accelerated encoding and decoding, resulting in very fast processing times.",
+        "Supports streaming I/O, allowing developers to handle very large video and audio files efficiently without memory issues.",
+        "Acts as an in-browser alternative to server-side tools like FFmpeg, reducing server costs and latency."
     ],
     "tags": [
-        "WebAssembly",
-        "File Conversion",
-        "Privacy",
-        "Svelte",
-        "Client-Side"
+        "JavaScript",
+        "Media Processing",
+        "WebCodecs",
+        "Video Editing",
+        "FFmpeg alternative"
     ],
-    "stars": 7119,
-    "forks": 308,
-    "open_issues": 14,
-    "languages": "Svelte",
-    "readme_summary": "VERT is a file conversion utility that performs conversions locally using WebAssembly, offering privacy and eliminating file size limits. It supports a wide range of file formats (250+) including images, audio, documents, and video, with conversion settings and a user-friendly Svelte interface.",
-    "project_id": 886745826,
-    "url": "https://github.com/VERT-sh/VERT",
-    "description": "The next-generation file converter. Open source, fully local* and free forever."
+    "stars": 3955,
+    "forks": 130,
+    "open_issues": 24,
+    "languages": "TypeScript",
+    "readme_summary": "Mediabunny is a JavaScript library written in TypeScript for reading, writing, and converting media files directly in the browser. It supports a wide range of formats and codecs, aiming to provide high-performance media operations with zero dependencies and tree-shakable bundling.",
+    "project_id": 850821713,
+    "url": "https://github.com/Vanilagy/mediabunny",
+    "description": "Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser."
 }
