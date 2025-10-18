@@ -1,26 +1,26 @@
 {
-    "title": "Supercharge Your AI Agents: Meet RLinf, the Next-Gen Infrastructure for Large-Scale RL",
-    "article": "If you've ever tried to train massive foundation models using Reinforcement Learning (RL)\nhow quickly scalability and efficiency become nightmares. Coordinating data collection, model updates, and distributed resources is incredibly tough, especially when dealing with complex tasks like robotics or embodied agents. RLinf is here to solve exactly that. It’s not just another RL library; it’s a robust, open-source infrastructure designed specifically for the post-training of these large models, making them evolve into smarter and more capable agents.\n\nWhat makes RLinf so special is its innovative “Macro-to-Micro Flow” (M2Flow) paradigm. Think of it like separating the ‘what’ from the ‘how’. The ‘macro’ part is the logical workflow\nthe high-level steps you programmatically define for your training process. The ‘micro’ part handles the messy, low-level details: efficient physical communication, complex scheduling, and optimized resource management across your hardware. By decoupling these two layers, developers can focus purely on defining the learning logic without getting bogged down in distributed computing headaches. This paradigm makes complex, large-scale RL setups much easier to manage and customize, significantly boosting developer velocity.\n\nThis infrastructure offers amazing flexibility in how you utilize your hardware resources. It supports multiple execution modes, allowing you to tailor the system to your specific needs. You can use Collocated mode, where all GPUs are shared across workers; Disaggregated mode, which enables fine-grained pipelining for maximum throughput; or a Hybrid mode, combining the best aspects of both. The best feature, however, is the intelligent auto-scheduling strategy. Instead of manually tweaking resource allocations every time your workload changes, RLinf automatically selects the most suitable execution mode for optimal efficiency. This means faster experimentation and drastically less time spent on infrastructure boilerplate.\n\nFor developers diving into agentic AI, robotics, or Vision-Language-Action (VLA) models, RLinf is a game-changer. It provides specialized and fast adaptation support for mainstream VLA architectures like OpenVLA and \r\n\r\n. Whether you are working with static offline datasets or moving into cutting-edge online reinforcement learning (which RLinf now officially supports!), this framework gives you the scalable backbone needed to push the boundaries of embodied intelligence. If you want your foundation model to evolve into a truly capable, continuously learning agent, RLinf provides the scalable, open-ended environment to make that happen efficiently.",
+    "title": "Build Your Own ChatGPT for $100: Introducing nanochat, the Hackable LLM Blueprint",
+    "article": "Have you ever felt like modern Large Language Models (LLMs) are fascinating black boxes? We use them daily, but understanding the full pipeline—from raw data to a conversational web interface—often requires navigating complex, multi-framework projects. Nanochat cuts through that complexity. It’s a full-stack, end-to-end implementation of an LLM pipeline, designed specifically to be clean, minimal, and fully hackable. This project isn't just a component; it's the entire blueprint, allowing developers to truly own and understand their AI.\n\nNanochat encompasses every stage required to build a conversational model, including tokenization, pretraining, fine-tuning, evaluation, inference, and even serving the result via a simple web UI that looks just like ChatGPT. The beauty of this approach is its dependency-lite nature. It provides a singular, cohesive codebase that you can easily dive into and modify, making it an incredible resource for education or deep experimentation.\n\nFor developers eager to jump straight into the action, the project offers a quick start via the `speedrun.sh` script. This script trains the entry-level $100 tier of nanochat. Running on an 8XH100 node, the entire process takes about four hours. You boot up your cloud instance, launch the script, and wait for your personal LLM to be born. Once complete, you simply run the web server script, and instantly, you have a fully functional chat interface connected to the model you just trained.\n\nWhy should developers care about training a micro-model that might be a bit naive or prone to hallucination? Because control equals knowledge. Nanochat is the ultimate sandbox for learning LLM internals. If you want to experiment with different Transformer layer counts, adjust optimization schedules, or see exactly how the evaluation metrics are generated, this project gives you the keys to the kingdom. It demystifies the entire process, transforming the LLM development cycle from an opaque operation into a transparent, customizable workflow. It’s about moving beyond being just a user of AI and becoming a builder and modifier of the core technology itself.",
     "key_takeaways": [
-        "RLinf is a scalable infrastructure designed specifically for post-training large foundation models using Reinforcement Learning (Agentic AI).",
-        "The M2Flow paradigm decouples logical training workflows (macro) from efficient physical resource scheduling and communication (micro).",
-        "It features flexible execution modes (Collocated, Disaggregated, Hybrid) and uses an automatic scheduling strategy for optimal resource utilization.",
-        "RLinf provides specialized, efficient support for training Embodied Agents and Vision-Language-Action (VLA) models.",
-        "It is an open-source framework supporting both offline and advanced online reinforcement learning methodologies for continuous intelligence development."
+        "Nanochat is a minimal, full-stack LLM implementation covering the entire pipeline from tokenization to web serving.",
+        "It is highly hackable and dependency-lite, serving as an ideal educational tool for understanding LLM internals.",
+        "Developers can train a functional, end-to-end LLM instance for approximately $100 using the provided `speedrun.sh` script.",
+        "The project includes a simple, ChatGPT-like web UI for immediate inference and interaction with the trained model.",
+        "It offers unparalleled control, allowing developers to tweak and experiment with every aspect of the LLM architecture and training process."
     ],
     "tags": [
-        "Reinforcement Learning",
-        "Agentic AI",
-        "Infrastructure",
-        "Scalability",
-        "Foundation Models"
+        "LLM",
+        "AI Training",
+        "Full-Stack",
+        "Machine Learning",
+        "Python"
     ],
-    "stars": 565,
-    "forks": 74,
-    "open_issues": 17,
+    "stars": 25311,
+    "forks": 2530,
+    "open_issues": 23,
     "languages": "Python",
-    "readme_summary": "RLinf is an open-source infrastructure for post-training foundation models using reinforcement learning. It provides a flexible and scalable framework with features like macro-to-micro flow, flexible execution modes (collocated, disaggregated, hybrid), and auto-scheduling, supporting embodied agent development and integration with various VLA models and simulators.",
-    "project_id": 1037741738,
-    "url": "https://github.com/RLinf/RLinf",
-    "description": "RLinf is a flexible and scalable open-source infrastructure designed for post-training foundation models (LLMs, VLMs, VLAs) via reinforcement learning."
+    "readme_summary": "nanochat is a full-stack implementation of an LLM similar to ChatGPT, designed to be minimal, hackable, and run on a single 8XH100 node. It covers the entire pipeline from tokenization to web serving, allowing users to train and interact with their own LLM. The repository provides scripts for pretraining, finetuning, evaluation, and inference, with a focus on accessibility and customization.",
+    "project_id": 1075431749,
+    "url": "https://github.com/karpathy/nanochat",
+    "description": "The best ChatGPT that $100 can buy."
 }
