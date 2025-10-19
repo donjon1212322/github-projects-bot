@@ -1,37 +1,58 @@
 [
     {
-        "project_id": 1075431749,
-        "content": "🚀 <b>nanochat</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTraining and deploying a customizable LLM on a single machine for experimentation and learning.\n<br>\n✨ <b>Key Features:</b>\n• Full-stack LLM implementation\n• Single-node operation (8XH100)\n• Complete pipeline: tokenization, pretraining, finetuning, evaluation, inference, web serving\n• Minimal and hackable codebase\n• Training and inference scripts (e.g., speedrun.sh)\n<br>\n📖 <b>Summary:</b>\nnanochat is a full-stack implementation of an LLM similar to ChatGPT, designed to be minimal, hackable, and run on a single 8XH100 node. It covers the entire pipeline from tokenization to web serving, allowing users to train and interact with their own LLM. The repository provides scripts for pretraining, finetuning, evaluation, and inference, with a focus on accessibility and customization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/karpathy/nanochat?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ddbcc921be0a4f4c48b4c96c22ace4a21bed309e2a562a70c8db14d97121d7d3/karpathy/nanochat",
+        "project_id": 825062215,
+        "content": "🚀 <b>Scraperr</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nWeb scraping and data extraction from websites.\n<br>\n✨ <b>Key Features:</b>\n• XPath-Based Extraction\n• Queue Management\n• Domain Spidering\n• Custom Headers\n• Media Downloads\n<br>\n📖 <b>Summary:</b>\nScraperr is a self-hosted web scraping solution that allows users to scrape websites without writing code. It offers features like XPath-based extraction, queue management, domain spidering, and data export in various formats, making it a versatile tool for web data extraction.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jaypyles/Scraperr?embed=0\">View Project</a>\n• <a href=\"https://scraperr-docs.pages.dev/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0bf551e4683c4a3ebfcb9ba1a4eeb7f7a14fe32d080783e213fc8eca08ac5c21/jaypyles/Scraperr",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 1065936302,
-        "content": "🔥 <b>OpenStock</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding an open-source alternative to commercial stock market platforms for tracking and analysis.\n<br>\n✨ <b>Key Features:</b>\n• Real-time price tracking\n• Personalized alerts\n• Detailed company insights\n• Open-source and free\n<br>\n📖 <b>Summary:</b>\nOpenStock is an open-source platform for tracking real-time stock prices, setting personalized alerts, and exploring company insights. It aims to provide a free alternative to expensive market platforms, built with technologies like Next.js, TypeScript, and MongoDB.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Open-Dev-Society/OpenStock?embed=0\">View Project</a>\n• <a href=\"https://openstock-ods.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4dc0232c01f69bf9da67c01284b8abf16f49ef6e441eb92d9fdb3abbd4b70f7a/Open-Dev-Society/OpenStock",
+        "project_id": 1013031861,
+        "content": "🚀 <b>ssh-bot</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nRemotely executing commands on servers or devices within a home network via a Telegram bot interface.\n<br>\n✨ <b>Key Features:</b>\n• Executing commands on local or remote hosts via SSH\n• Support for parallel command execution\n• SSH connection manager with host availability check\n• Support for directory navigation\n• Combined access to remote hosts by key and/or password\n<br>\n📖 <b>Summary:</b>\nThe ssh-bot is a Telegram bot written in Go that allows users to execute commands on remote hosts via SSH. It eliminates the need for VPNs or external IP addresses by providing asynchronous command execution and supports various authentication methods and configuration options.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lifailon/ssh-bot?embed=0\">View Project</a>\n• <a href=\"https://hub.docker.com/r/lifailon/ssh-bot?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/447341154863da1541cd1076c88845889c8a4db6c65ead223574005dfec5fef2/Lifailon/ssh-bot",
         "platform": "telegram",
-        "quality_score": 0.8
+        "quality_score": 0.4
     },
     {
-        "project_id": 1019139384,
-        "content": "✨ <b>VisualStoryWriting</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEditing and refining stories through visual manipulation and AI-powered suggestions.\n<br>\n✨ <b>Key Features:</b>\n• Visualizing story events on a timeline\n• Editing story text by manipulating visual representations\n• Suggesting text edits based on character interactions\n• Suggesting text edits based on character positions\n<br>\n📖 <b>Summary:</b>\nThe Visual Story-Writing repository provides a system that automatically visualizes a story based on its chronological events, characters, actions, and movements. It allows users to edit the story by manipulating these visual representations, with GPT-4o suggesting edits to the text based on the visual changes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/m-damien/VisualStoryWriting?embed=0\">View Project</a>\n• <a href=\"http://damienmasson.com/VisualStoryWriting/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/08a2eeaed3b3556fc33ecb8f1de37ee5a33ba1f689121847b972cb49a7b40c88/m-damien/VisualStoryWriting",
+        "project_id": 720466801,
+        "content": "💡 <b>inpaint-web</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nIn-browser image inpainting and upscaling\n<br>\n✨ <b>Key Features:</b>\n• Image Inpainting (修复)\n• Super-Resolution (图片高清化)\n• Image Modification History\n• Model Optimization\n• Post-Processing Integrated into the Model\n<br>\n📖 <b>Summary:</b>\nInpaint-web is a free and open-source inpainting and image-upscaling tool that operates entirely within the browser using WebGPU and WASM technologies. It allows users to repair and enhance images directly in their browser without relying on server-side processing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lxfater/inpaint-web?embed=0\">View Project</a>\n• <a href=\"https://inpaintweb.lxfater.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6a8bf193ddc8c2cb9bae73150b49a9b99fe9ed853f4376c070106c799e92a2d4/lxfater/inpaint-web",
         "platform": "telegram",
-        "quality_score": 0.25
+        "quality_score": 0.6000000000000001
     },
     {
-        "project_id": 660325330,
-        "content": "💡 <b>humanify</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDeobfuscating and making human-readable obfuscated or minified JavaScript code.\n<br>\n✨ <b>Key Features:</b>\n• Deobfuscation of JavaScript code\n• Unminification of JavaScript code\n• Transpilation of JavaScript code\n• Decompilation of JavaScript code\n• Unpacking of JavaScript code\n<br>\n📖 <b>Summary:</b>\nHumanifyJS is a tool designed to deobfuscate, unminify, transpile, decompile, and unpack JavaScript code using large language models (LLMs) like ChatGPT and Llama, combined with AST-level transformations via Babel. It offers both cloud-based (OpenAI, Gemini) and local modes for deobfuscation, providing users with flexibility based on their needs and resources.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jehna/humanify?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2cb36f599b6ea4f81743280a37d62f3751b09c86d0e4fe42602d774a3f0afec6/jehna/humanify",
+        "project_id": 1051869896,
+        "content": "🚀 <b>flint</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging KVM virtual machines with a focus on ease of use and minimal overhead.\n<br>\n✨ <b>Key Features:</b>\n• Modern Web UI (Next.js + Tailwind)\n• Single Binary (<11MB)\n• CLI and API for automation\n• Cloud-Init support\n• Snapshot-based template system\n<br>\n📖 <b>Summary:</b>\nFlint is a lightweight KVM management tool designed for developers, sysadmins, and home labs. It provides a modern web UI, CLI, and API for managing virtual machines, emphasizing simplicity and efficiency by avoiding XML and unnecessary bloat.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/volantvm/flint?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1051869896/ad0c965b-19f2-4f39-b123-047325db7b69",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 1050485604,
+        "content": "🚀 <b>Disciplined-AI-Software-Development</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCollaborating with AI systems on software development projects to mitigate common issues like code bloat and architectural drift.\n<br>\n✨ <b>Key Features:</b>\n• AI Behavioral Configuration using custom instructions and persona frameworks\n<br>\n📖 <b>Summary:</b>\nThe Disciplined AI Software Development methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints. The methodology uses four stages with systematic constraints, behavioral consistency enforcement, and validation checkpoints.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Varietyz/Disciplined-AI-Software-Development?embed=0\">View Project</a>\n• <a href=\"https://banes-lab.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/de8b67a81ec5be6582945ff9de255723403f3f4cdbda9f54da91a34d7eab83aa/Varietyz/Disciplined-AI-Software-Development",
+        "platform": "telegram",
+        "quality_score": 0.65
+    },
+    {
+        "project_id": 485548415,
+        "content": "💡 <b>Daft</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nLarge-scale data processing and analysis, including multimodal data, in distributed computing environments.\n<br>\n✨ <b>Key Features:</b>\n• Familiar interactive API (Lazy Python Dataframe, SQL)\n• Powerful Query Optimizer\n• Data Catalog integrations (AWS Glue, Unity Catalog, Apache Iceberg)\n• Rich multimodal type-system (Images, URLs, Tensors)\n• Seamless Interchange (Apache Arrow)\n<br>\n📖 <b>Summary:</b>\nDaft is a distributed query engine, written in Rust, designed for large-scale data processing using Python or SQL. It focuses on providing a familiar interactive API, powerful query optimization, data catalog integrations, rich multimodal type-system, seamless interchange with Apache Arrow, and is built for cloud environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Eventual-Inc/Daft?embed=0\">View Project</a>\n• <a href=\"https://daft.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/485548415/d4d6d5b1-23b4-43db-986b-ed6fd21e09f7",
+        "platform": "telegram",
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 1045266535,
+        "content": "💡 <b>pocket-server</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning and managing AI agents locally and interacting with them remotely via a mobile application.\n<br>\n✨ <b>Key Features:</b>\n• Agent runtime and tools\n• Native mobile terminal\n• File system + editor\n• Repo search\n• Background/cloud agents\n<br>\n📖 <b>Summary:</b>\nPocket Server is a local runtime environment for AI agents, designed to run on a user's machine and be controlled via a mobile app. It provides core OS capabilities like agent runtime, a mobile terminal, file system access, and remote access, enabling users to interact with their codebase and agents from their phone.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yayasoumah/pocket-server?embed=0\">View Project</a>\n• <a href=\"https://www.pocket-agent.xyz/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5031116ab454973e0b9a29c9559c2874ea474d552b7825a5a610a65eed75eafa/yayasoumah/pocket-server",
+        "platform": "telegram",
+        "quality_score": 0.5499999999999999
+    },
+    {
+        "project_id": 1051368307,
+        "content": "🌟 <b>zai-python-sdk</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nInteracting with Z.AI's language models for chat completions and other language-based tasks.\n<br>\n✨ <b>Key Features:</b>\n• Automatic guest token authentication\n• Support for multiple AI models\n• Streaming and non-streaming responses\n• Customizable model parameters\n• Modular architecture\n<br>\n📖 <b>Summary:</b>\nThe zai-python-sdk is an unofficial Python SDK for the Z.AI API, offering access to advanced language models like GLM-4.5V and 360B. It simplifies interaction with the API through features like automatic authentication, streaming responses, customizable parameters, and a modular architecture, without requiring an API key.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/iotbackdoor/zai-python-sdk?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0621e8bf05e09c9627f13251570b2805d1df607cfc967bdc14c1f0e3922ecbda/iotbackdoor/zai-python-sdk",
         "platform": "telegram",
         "quality_score": 0.55
-    },
-    {
-        "project_id": 1060019776,
-        "content": "🌟 <b>core-sdk</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating interactive 2D canvas-based applications with features like drag-and-drop, shape manipulation, and plugin-based extensibility.\n<br>\n✨ <b>Key Features:</b>\n• Framework-agnostic\n• Plugin system\n• Complete toolset (grid, rulers, guides, area selection)\n• Hotkeys\n• Rich shapes\n<br>\n📖 <b>Summary:</b>\nThe Flowscape Core SDK is a framework-agnostic 2D canvas engine built on Konva.js. It provides a set of tools and plugins for creating interactive 2D applications, including features like grid, rulers, hotkeys, and rich shapes. It's designed to be extensible and easy to integrate with different JavaScript frameworks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Flowscape-UI/core-sdk?embed=0\">View Project</a>\n• <a href=\"https://flowscape-ui.github.io/core-sdk-doc/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9f379fddcfc3e9c75bb8822e650748567d2089f0db180e17560e8b1700e0721c/Flowscape-UI/core-sdk",
-        "platform": "telegram",
-        "quality_score": 0.8499999999999999
     }
 ]
