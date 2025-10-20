@@ -1,58 +1,51 @@
 [
     {
-        "project_id": 825062215,
-        "content": "🚀 <b>Scraperr</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nWeb scraping and data extraction from websites.\n<br>\n✨ <b>Key Features:</b>\n• XPath-Based Extraction\n• Queue Management\n• Domain Spidering\n• Custom Headers\n• Media Downloads\n<br>\n📖 <b>Summary:</b>\nScraperr is a self-hosted web scraping solution that allows users to scrape websites without writing code. It offers features like XPath-based extraction, queue management, domain spidering, and data export in various formats, making it a versatile tool for web data extraction.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jaypyles/Scraperr?embed=0\">View Project</a>\n• <a href=\"https://scraperr-docs.pages.dev/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0bf551e4683c4a3ebfcb9ba1a4eeb7f7a14fe32d080783e213fc8eca08ac5c21/jaypyles/Scraperr",
+        "project_id": 454164378,
+        "content": "🚀 <b>webvm</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning and experimenting with a Linux environment and x86 applications directly within a web browser without server-side dependencies.\n<br>\n✨ <b>Key Features:</b>\n• Runs a full Linux VM in the browser\n• Uses CheerpX for x86-to-WebAssembly JIT compilation\n• Includes a virtual block-based file system\n• Provides a Linux syscall emulator\n• Supports networking via Tailscale integration\n<br>\n📖 <b>Summary:</b>\nWebVM is a server-less Linux virtual machine that runs entirely in a web browser using WebAssembly. It leverages CheerpX to enable client-side execution of x86 binaries and provides a sandboxed environment for running unmodified Debian distributions with native development toolchains.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/leaningtech/webvm?embed=0\">View Project</a>\n• <a href=\"https://webvm.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/454164378/00ded6d6-99da-4861-a71d-59cfa2fcc785",
+        "platform": "telegram",
+        "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 652319769,
+        "content": "🌟 <b>filebrowser</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a user-friendly web interface for managing files on a server.\n<br>\n✨ <b>Key Features:</b>\n• Multiple sources support\n• Login support for OIDC, password + 2FA, and proxy\n• Responsive and customizable UI\n• Simplified configuration via config.yaml\n• Ultra-efficient indexing and real-time updates\n<br>\n📖 <b>Summary:</b>\nFileBrowser Quantum is a web-based file manager written in Go, designed for easy access and management of files through a web interface. It is a fork of the original filebrowser project, offering enhanced features like multiple source support, advanced authentication options, a customizable UI, and improved indexing and sharing capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gtsteffaniak/filebrowser?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/71cc5baf242ef6e31be23169550c51448097669b849b67911887e148c727396c/gtsteffaniak/filebrowser",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 1013031861,
-        "content": "🚀 <b>ssh-bot</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nRemotely executing commands on servers or devices within a home network via a Telegram bot interface.\n<br>\n✨ <b>Key Features:</b>\n• Executing commands on local or remote hosts via SSH\n• Support for parallel command execution\n• SSH connection manager with host availability check\n• Support for directory navigation\n• Combined access to remote hosts by key and/or password\n<br>\n📖 <b>Summary:</b>\nThe ssh-bot is a Telegram bot written in Go that allows users to execute commands on remote hosts via SSH. It eliminates the need for VPNs or external IP addresses by providing asynchronous command execution and supports various authentication methods and configuration options.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lifailon/ssh-bot?embed=0\">View Project</a>\n• <a href=\"https://hub.docker.com/r/lifailon/ssh-bot?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/447341154863da1541cd1076c88845889c8a4db6c65ead223574005dfec5fef2/Lifailon/ssh-bot",
+        "project_id": 725089041,
+        "content": "💡 <b>OpenVoice</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nInstant voice cloning\n<br>\n✨ <b>Key Features:</b>\n• Accurate Tone Color Cloning\n• Flexible Voice Style Control\n• Zero-shot Cross-lingual Voice Cloning\n• Better Audio Quality (V2)\n• Native Multi-lingual Support (V2: English, Spanish, French, Chinese, Japanese, Korean)\n<br>\n📖 <b>Summary:</b>\nOpenVoice is an instant voice cloning tool developed by MIT and MyShell. It allows users to clone voices accurately, control voice styles, and perform zero-shot cross-lingual voice cloning. The tool has been powering the voice cloning capability of myshell.ai and is now available for commercial use under the MIT license.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/myshell-ai/OpenVoice?embed=0\">View Project</a>\n• <a href=\"https://research.myshell.ai/open-voice?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ff2a04ed33aeeab63fcc2e60ce2fabef83ed956be8b8a75ad8ea87062d392840/myshell-ai/OpenVoice",
+        "platform": "telegram",
+        "quality_score": 0.45
+    },
+    {
+        "project_id": 903787960,
+        "content": "🌟 <b>WaterCrawl</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTransforming web content into LLM-ready data through crawling and scraping.\n<br>\n✨ <b>Key Features:</b>\n• Advanced Web Crawling & Scraping\n• Powerful Search Engine\n• Multi-language Support\n• Asynchronous Processing\n• REST API with OpenAPI\n<br>\n📖 <b>Summary:</b>\nWaterCrawl is a web application built with Python, Django, Scrapy, and Celery designed to crawl web pages and extract data, transforming web content into a format suitable for use with Large Language Models (LLMs). It offers features like customizable crawling depth, multi-language support, a REST API, and integrations with other AI/automation platforms.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/watercrawl/WaterCrawl?embed=0\">View Project</a>\n• <a href=\"https://watercrawl.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4bdee43ddfb71bf46b7bbe3e3c2911fc942e05215b13f76f28b4e68e8afeab1b/watercrawl/WaterCrawl",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 985839104,
+        "content": "🚀 <b>BrowserOS</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning AI agents directly within the browser while maintaining user privacy and control over data.\n<br>\n✨ <b>Key Features:</b>\n• Open-source Chromium fork\n• Native AI agent support\n• Privacy-first design (user-controlled API keys or local models)\n• Familiar interface (like Google Chrome)\n• Extension compatibility\n<br>\n📖 <b>Summary:</b>\nBrowserOS is an open-source Chromium-based browser that natively supports AI agents. It emphasizes user privacy by allowing users to use their own API keys or run local models, ensuring data remains on the user's computer. It aims to provide a familiar browsing experience with integrated AI capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/browseros-ai/BrowserOS?embed=0\">View Project</a>\n• <a href=\"https://BrowserOS.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ee51e04a116429857268d142f9b636b3bedc6b45b1aeb6f1b748563834fd0b8a/browseros-ai/BrowserOS",
+        "platform": "telegram",
+        "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 986669929,
+        "content": "🔥 <b>cpdown</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCopying webpage content and YouTube subtitles as clean markdown for repurposing in other applications or documents.\n<br>\n✨ <b>Key Features:</b>\n• Copy webpage content as clean markdown\n• Copy YouTube subtitles as clean markdown\n• Uses Defuddle or Mozilla's Readability for content extraction\n• Removes unnecessary HTML elements\n<br>\n📖 <b>Summary:</b>\ncpdown is a browser extension that allows users to copy webpage content and YouTube subtitles as clean, formatted markdown. It utilizes libraries like Defuddle and Mozilla's Readability to extract the main content and removes unnecessary HTML elements, enhancing productivity for users who need to repurpose web content.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ysm-dev/cpdown?embed=0\">View Project</a>\n• <a href=\"https://chromewebstore.google.com/detail/cpdown/knnaflplggjdedobhbidojmmnocfbopf?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/148a5f28f4b339f9ad7829d01254ce98b475cb96f782ae5bd78aba5912bc9262/ysm-dev/cpdown",
+        "platform": "telegram",
+        "quality_score": 0.9
+    },
+    {
+        "project_id": 979886154,
+        "content": "🔥 <b>outbox</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nEnsuring reliable and consistent message delivery in microservice architectures by implementing the transactional outbox pattern.\n<br>\n✨ <b>Key Features:</b>\n• Lightweight with minimal dependencies\n• Database agnostic (PostgreSQL, MySQL, Oracle, etc.)\n• Message broker agnostic\n• Easy integration\n<br>\n📖 <b>Summary:</b>\nThe 'outbox' repository provides a lightweight Go library for implementing the transactional outbox pattern. It ensures reliable message delivery in microservice architectures by atomically storing messages alongside database transactions, decoupling services and guaranteeing eventual consistency without being tied to a specific database or message broker.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/oagudo/outbox?embed=0\">View Project</a>\n• <a href=\"https://pkg.go.dev/github.com/oagudo/outbox?utm_source=godoc?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/2b0360da5895e2c42bbf4196a31eb5e9ddc66c783382cf4095a77b8a1dc611f7/oagudo/outbox",
         "platform": "telegram",
         "quality_score": 0.4
-    },
-    {
-        "project_id": 720466801,
-        "content": "💡 <b>inpaint-web</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nIn-browser image inpainting and upscaling\n<br>\n✨ <b>Key Features:</b>\n• Image Inpainting (修复)\n• Super-Resolution (图片高清化)\n• Image Modification History\n• Model Optimization\n• Post-Processing Integrated into the Model\n<br>\n📖 <b>Summary:</b>\nInpaint-web is a free and open-source inpainting and image-upscaling tool that operates entirely within the browser using WebGPU and WASM technologies. It allows users to repair and enhance images directly in their browser without relying on server-side processing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lxfater/inpaint-web?embed=0\">View Project</a>\n• <a href=\"https://inpaintweb.lxfater.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6a8bf193ddc8c2cb9bae73150b49a9b99fe9ed853f4376c070106c799e92a2d4/lxfater/inpaint-web",
-        "platform": "telegram",
-        "quality_score": 0.6000000000000001
-    },
-    {
-        "project_id": 1051869896,
-        "content": "🚀 <b>flint</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging KVM virtual machines with a focus on ease of use and minimal overhead.\n<br>\n✨ <b>Key Features:</b>\n• Modern Web UI (Next.js + Tailwind)\n• Single Binary (<11MB)\n• CLI and API for automation\n• Cloud-Init support\n• Snapshot-based template system\n<br>\n📖 <b>Summary:</b>\nFlint is a lightweight KVM management tool designed for developers, sysadmins, and home labs. It provides a modern web UI, CLI, and API for managing virtual machines, emphasizing simplicity and efficiency by avoiding XML and unnecessary bloat.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/volantvm/flint?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1051869896/ad0c965b-19f2-4f39-b123-047325db7b69",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1050485604,
-        "content": "🚀 <b>Disciplined-AI-Software-Development</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCollaborating with AI systems on software development projects to mitigate common issues like code bloat and architectural drift.\n<br>\n✨ <b>Key Features:</b>\n• AI Behavioral Configuration using custom instructions and persona frameworks\n<br>\n📖 <b>Summary:</b>\nThe Disciplined AI Software Development methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints. The methodology uses four stages with systematic constraints, behavioral consistency enforcement, and validation checkpoints.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Varietyz/Disciplined-AI-Software-Development?embed=0\">View Project</a>\n• <a href=\"https://banes-lab.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/de8b67a81ec5be6582945ff9de255723403f3f4cdbda9f54da91a34d7eab83aa/Varietyz/Disciplined-AI-Software-Development",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 485548415,
-        "content": "💡 <b>Daft</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nLarge-scale data processing and analysis, including multimodal data, in distributed computing environments.\n<br>\n✨ <b>Key Features:</b>\n• Familiar interactive API (Lazy Python Dataframe, SQL)\n• Powerful Query Optimizer\n• Data Catalog integrations (AWS Glue, Unity Catalog, Apache Iceberg)\n• Rich multimodal type-system (Images, URLs, Tensors)\n• Seamless Interchange (Apache Arrow)\n<br>\n📖 <b>Summary:</b>\nDaft is a distributed query engine, written in Rust, designed for large-scale data processing using Python or SQL. It focuses on providing a familiar interactive API, powerful query optimization, data catalog integrations, rich multimodal type-system, seamless interchange with Apache Arrow, and is built for cloud environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Eventual-Inc/Daft?embed=0\">View Project</a>\n• <a href=\"https://daft.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/485548415/d4d6d5b1-23b4-43db-986b-ed6fd21e09f7",
-        "platform": "telegram",
-        "quality_score": 0.95
-    },
-    {
-        "project_id": 1045266535,
-        "content": "💡 <b>pocket-server</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning and managing AI agents locally and interacting with them remotely via a mobile application.\n<br>\n✨ <b>Key Features:</b>\n• Agent runtime and tools\n• Native mobile terminal\n• File system + editor\n• Repo search\n• Background/cloud agents\n<br>\n📖 <b>Summary:</b>\nPocket Server is a local runtime environment for AI agents, designed to run on a user's machine and be controlled via a mobile app. It provides core OS capabilities like agent runtime, a mobile terminal, file system access, and remote access, enabling users to interact with their codebase and agents from their phone.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yayasoumah/pocket-server?embed=0\">View Project</a>\n• <a href=\"https://www.pocket-agent.xyz/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5031116ab454973e0b9a29c9559c2874ea474d552b7825a5a610a65eed75eafa/yayasoumah/pocket-server",
-        "platform": "telegram",
-        "quality_score": 0.5499999999999999
-    },
-    {
-        "project_id": 1051368307,
-        "content": "🌟 <b>zai-python-sdk</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nInteracting with Z.AI's language models for chat completions and other language-based tasks.\n<br>\n✨ <b>Key Features:</b>\n• Automatic guest token authentication\n• Support for multiple AI models\n• Streaming and non-streaming responses\n• Customizable model parameters\n• Modular architecture\n<br>\n📖 <b>Summary:</b>\nThe zai-python-sdk is an unofficial Python SDK for the Z.AI API, offering access to advanced language models like GLM-4.5V and 360B. It simplifies interaction with the API through features like automatic authentication, streaming responses, customizable parameters, and a modular architecture, without requiring an API key.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/iotbackdoor/zai-python-sdk?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0621e8bf05e09c9627f13251570b2805d1df607cfc967bdc14c1f0e3922ecbda/iotbackdoor/zai-python-sdk",
-        "platform": "telegram",
-        "quality_score": 0.55
     }
 ]

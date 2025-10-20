@@ -1,26 +1,26 @@
 {
-    "title": "Build Your Own ChatGPT for $100: Introducing nanochat, the Hackable LLM Blueprint",
-    "article": "Have you ever felt like modern Large Language Models (LLMs) are fascinating black boxes? We use them daily, but understanding the full pipeline—from raw data to a conversational web interface—often requires navigating complex, multi-framework projects. Nanochat cuts through that complexity. It’s a full-stack, end-to-end implementation of an LLM pipeline, designed specifically to be clean, minimal, and fully hackable. This project isn't just a component; it's the entire blueprint, allowing developers to truly own and understand their AI.\n\nNanochat encompasses every stage required to build a conversational model, including tokenization, pretraining, fine-tuning, evaluation, inference, and even serving the result via a simple web UI that looks just like ChatGPT. The beauty of this approach is its dependency-lite nature. It provides a singular, cohesive codebase that you can easily dive into and modify, making it an incredible resource for education or deep experimentation.\n\nFor developers eager to jump straight into the action, the project offers a quick start via the `speedrun.sh` script. This script trains the entry-level $100 tier of nanochat. Running on an 8XH100 node, the entire process takes about four hours. You boot up your cloud instance, launch the script, and wait for your personal LLM to be born. Once complete, you simply run the web server script, and instantly, you have a fully functional chat interface connected to the model you just trained.\n\nWhy should developers care about training a micro-model that might be a bit naive or prone to hallucination? Because control equals knowledge. Nanochat is the ultimate sandbox for learning LLM internals. If you want to experiment with different Transformer layer counts, adjust optimization schedules, or see exactly how the evaluation metrics are generated, this project gives you the keys to the kingdom. It demystifies the entire process, transforming the LLM development cycle from an opaque operation into a transparent, customizable workflow. It’s about moving beyond being just a user of AI and becoming a builder and modifier of the core technology itself.",
+    "title": "Ditch the Clutter: Instantly Copy Any Webpage as Clean Markdown with cpdown",
+    "article": "We all spend hours researching online, pulling documentation, or saving interesting articles. But when you try to copy and paste web content, you usually end up with a messy disaster—broken styles, stray scripts, and huge chunks of irrelevant navigation. Cleaning that up manually is a huge time sink. This is exactly where cpdown steps in, offering a simple, elegant solution to web content extraction.\n\nThink of cpdown as your browser's specialized cleaning crew. It's a lightweight browser extension for Chrome and Firefox designed to strip away all the digital noise and leave you with just the pure, readable text, instantly converted into Markdown format. When you click the cpdown icon, it doesn't just grab everything; it intelligently focuses on the main article body. It achieves this magic by leveraging powerful tools like Defuddle and Mozilla's Readability algorithms, which are excellent at determining what constitutes the \"main content\" of a page, ensuring you capture the essence without the fluff.\n\nFor developers, the time-saving potential is huge. Need to quickly document a complex configuration guide found on a blog? One click, and you have perfectly formatted Markdown ready for your README or internal wiki. The extension automatically removes unnecessary HTML elements like scripts, styles, and iframes, guaranteeing a clean output every single time. This drastically speeds up documentation and note-taking workflows.\n\nBeyond general articles, cpdown has a killer feature: it can accurately extract and clean up subtitles from YouTube videos, turning spoken content into easily searchable text notes. This is a game-changer for learning from video tutorials or quickly referencing key points without scrubbing through a timeline. It transforms passive viewing into active, structured knowledge capture.\n\nA particularly modern and useful benefit is the built-in token counter. If you frequently use tools like ChatGPT or other Large Language Models (LLMs) for summarization or analysis, knowing the token count before pasting is incredibly valuable for managing context windows and estimating costs. Furthermore, cpdown is highly customizable. You can toggle between using Defuddle or Readability depending on which gives you better results for a specific site, choose whether to wrap the output in triple backticks for code block compatibility, and even enable fun confetti animations upon success. It’s all about getting clean, structured data effortlessly, making your workflow smoother and your research notes immaculate.",
     "key_takeaways": [
-        "Nanochat is a minimal, full-stack LLM implementation covering the entire pipeline from tokenization to web serving.",
-        "It is highly hackable and dependency-lite, serving as an ideal educational tool for understanding LLM internals.",
-        "Developers can train a functional, end-to-end LLM instance for approximately $100 using the provided `speedrun.sh` script.",
-        "The project includes a simple, ChatGPT-like web UI for immediate inference and interaction with the trained model.",
-        "It offers unparalleled control, allowing developers to tweak and experiment with every aspect of the LLM architecture and training process."
+        "Transforms messy webpage content into clean, structured Markdown with a single click.",
+        "Utilizes advanced algorithms (Defuddle/Readability) to intelligently extract only the main article content, removing clutter.",
+        "Features specialized support for converting YouTube video subtitles into clean, readable Markdown notes.",
+        "Includes a token counter, making it ideal for structuring data before feeding it into LLMs.",
+        "Highly customizable and available as a browser extension for both Chrome and Firefox."
     ],
     "tags": [
-        "LLM",
-        "AI Training",
-        "Full-Stack",
-        "Machine Learning",
-        "Python"
+        "Markdown",
+        "Browser Extension",
+        "Productivity",
+        "Web Scraping",
+        "Developer Tools"
     ],
-    "stars": 25311,
-    "forks": 2530,
-    "open_issues": 23,
-    "languages": "Python",
-    "readme_summary": "nanochat is a full-stack implementation of an LLM similar to ChatGPT, designed to be minimal, hackable, and run on a single 8XH100 node. It covers the entire pipeline from tokenization to web serving, allowing users to train and interact with their own LLM. The repository provides scripts for pretraining, finetuning, evaluation, and inference, with a focus on accessibility and customization.",
-    "project_id": 1075431749,
-    "url": "https://github.com/karpathy/nanochat",
-    "description": "The best ChatGPT that $100 can buy."
+    "stars": 461,
+    "forks": 20,
+    "open_issues": 7,
+    "languages": "TypeScript",
+    "readme_summary": "cpdown is a browser extension that allows users to copy webpage content and YouTube subtitles as clean, formatted markdown. It utilizes libraries like Defuddle and Mozilla's Readability to extract the main content and removes unnecessary HTML elements, enhancing productivity for users who need to repurpose web content.",
+    "project_id": 986669929,
+    "url": "https://github.com/ysm-dev/cpdown",
+    "description": "📥 cpdown - Copy to clipboard any webpage content/youtube subtitle as clean markdown with one click or shortcut"
 }
