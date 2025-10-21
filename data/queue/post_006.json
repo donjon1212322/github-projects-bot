@@ -1,7 +1,0 @@
-{
-    "project_id": 979886154,
-    "content": "🔥 <b>outbox</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nEnsuring reliable and consistent message delivery in microservice architectures by implementing the transactional outbox pattern.\n<br>\n✨ <b>Key Features:</b>\n• Lightweight with minimal dependencies\n• Database agnostic (PostgreSQL, MySQL, Oracle, etc.)\n• Message broker agnostic\n• Easy integration\n<br>\n📖 <b>Summary:</b>\nThe 'outbox' repository provides a lightweight Go library for implementing the transactional outbox pattern. It ensures reliable message delivery in microservice architectures by atomically storing messages alongside database transactions, decoupling services and guaranteeing eventual consistency without being tied to a specific database or message broker.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/oagudo/outbox?embed=0\">View Project</a>\n• <a href=\"https://pkg.go.dev/github.com/oagudo/outbox?utm_source=godoc?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/2b0360da5895e2c42bbf4196a31eb5e9ddc66c783382cf4095a77b8a1dc611f7/oagudo/outbox",
-    "platform": "telegram",
-    "quality_score": 0.4
-}
