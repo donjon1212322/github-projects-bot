@@ -1,26 +1,26 @@
 {
-    "title": "Ditch the Clutter: Instantly Copy Any Webpage as Clean Markdown with cpdown",
-    "article": "We all spend hours researching online, pulling documentation, or saving interesting articles. But when you try to copy and paste web content, you usually end up with a messy disaster—broken styles, stray scripts, and huge chunks of irrelevant navigation. Cleaning that up manually is a huge time sink. This is exactly where cpdown steps in, offering a simple, elegant solution to web content extraction.\n\nThink of cpdown as your browser's specialized cleaning crew. It's a lightweight browser extension for Chrome and Firefox designed to strip away all the digital noise and leave you with just the pure, readable text, instantly converted into Markdown format. When you click the cpdown icon, it doesn't just grab everything; it intelligently focuses on the main article body. It achieves this magic by leveraging powerful tools like Defuddle and Mozilla's Readability algorithms, which are excellent at determining what constitutes the \"main content\" of a page, ensuring you capture the essence without the fluff.\n\nFor developers, the time-saving potential is huge. Need to quickly document a complex configuration guide found on a blog? One click, and you have perfectly formatted Markdown ready for your README or internal wiki. The extension automatically removes unnecessary HTML elements like scripts, styles, and iframes, guaranteeing a clean output every single time. This drastically speeds up documentation and note-taking workflows.\n\nBeyond general articles, cpdown has a killer feature: it can accurately extract and clean up subtitles from YouTube videos, turning spoken content into easily searchable text notes. This is a game-changer for learning from video tutorials or quickly referencing key points without scrubbing through a timeline. It transforms passive viewing into active, structured knowledge capture.\n\nA particularly modern and useful benefit is the built-in token counter. If you frequently use tools like ChatGPT or other Large Language Models (LLMs) for summarization or analysis, knowing the token count before pasting is incredibly valuable for managing context windows and estimating costs. Furthermore, cpdown is highly customizable. You can toggle between using Defuddle or Readability depending on which gives you better results for a specific site, choose whether to wrap the output in triple backticks for code block compatibility, and even enable fun confetti animations upon success. It’s all about getting clean, structured data effortlessly, making your workflow smoother and your research notes immaculate.",
+    "title": "go2rtc: The Universal Translator for Video Streaming Middleware",
+    "article": "Have you ever tried setting up a home camera system or integrating different IP cameras into a single dashboard? It’s often a nightmare of incompatible protocols\b\bRTSP here, proprietary HTTP streams there, and WebRTC somewhere else. Dealing with codecs, latency, and transcoding usually means wrangling complex tools like FFmpeg manually. This fragmentation and complexity create a massive headache for developers trying to build reliable, unified video solutions.\n\nThis is where go2rtc steps in, acting as the ultimate middleware or \"universal translator\" for video streams. Its core purpose is simple: take video input from *any* source and output it in *any* required format, all with incredibly low latency. Think of it as a central hub for all your video feeds, regardless of whether they speak RTSP, RTMP, or even the challenging HomeKit protocol. The best part? It’s a single, small, zero-dependency binary that runs everywhere\b\rWindows, Linux, macOS, and ARM devices.\n\nHow does it achieve this magic? go2rtc is built to handle multiple simultaneous input and output protocols seamlessly. When a client requests a stream (say, via WebRTC for zero-delay viewing), go2rtc intelligently pulls the feed from the source (e.g., an old RTSP camera). If the codecs don't match what the client supports, go2rtc leverages its built-in FFmpeg capabilities to perform on-the-fly transcoding, ensuring seamless compatibility without requiring manual configuration. It’s also smart enough to mix tracks from different sources or handle complex 2-way audio negotiation for interactive camera features like speakers.\n\nFor developers, the benefits are huge. First, you get drastically reduced complexity. Instead of integrating multiple libraries to handle various protocols, you just point everything to go2rtc. Second, performance is a major win. The project emphasizes \"zero-delay\" streaming, which is absolutely crucial for security monitoring or real-time applications where every millisecond counts. Third, its native support for specialized sources, like being the first project to stream reliably from HomeKit cameras, opens up entirely new integration possibilities. Whether you're building a smart home platform, a custom security dashboard, or a live streaming service, go2rtc simplifies the video pipeline dramatically, letting you focus on your application logic rather than fighting protocol battles. Its deployment is trivial, ready to go via Docker or as a standalone binary, making this a must-have tool in your video toolkit.",
     "key_takeaways": [
-        "Transforms messy webpage content into clean, structured Markdown with a single click.",
-        "Utilizes advanced algorithms (Defuddle/Readability) to intelligently extract only the main article content, removing clutter.",
-        "Features specialized support for converting YouTube video subtitles into clean, readable Markdown notes.",
-        "Includes a token counter, making it ideal for structuring data before feeding it into LLMs.",
-        "Highly customizable and available as a browser extension for both Chrome and Firefox."
+        "go2rtc acts as a universal video stream translator, converting inputs (RTSP, RTMP, HomeKit) to outputs (WebRTC, HLS, RTSP).",
+        "It delivers near \"zero-delay\" low-latency streaming performance, making it ideal for real-time monitoring applications.",
+        "The project features on-the-fly transcoding via integrated FFmpeg, solving common codec incompatibility issues automatically.",
+        "It is a lightweight, zero-dependency binary that is easy to deploy across all major operating systems and architectures.",
+        "Native support for complex sources, including HomeKit cameras, significantly expands integration capabilities for developers."
     ],
     "tags": [
-        "Markdown",
-        "Browser Extension",
-        "Productivity",
-        "Web Scraping",
-        "Developer Tools"
+        "WebRTC",
+        "RTSP",
+        "Video Streaming",
+        "Home Automation",
+        "Go"
     ],
-    "stars": 461,
-    "forks": 20,
-    "open_issues": 7,
-    "languages": "TypeScript",
-    "readme_summary": "cpdown is a browser extension that allows users to copy webpage content and YouTube subtitles as clean, formatted markdown. It utilizes libraries like Defuddle and Mozilla's Readability to extract the main content and removes unnecessary HTML elements, enhancing productivity for users who need to repurpose web content.",
-    "project_id": 986669929,
-    "url": "https://github.com/ysm-dev/cpdown",
-    "description": "📥 cpdown - Copy to clipboard any webpage content/youtube subtitle as clean markdown with one click or shortcut"
+    "stars": 10330,
+    "forks": 764,
+    "open_issues": 492,
+    "languages": "Go",
+    "readme_summary": "go2rtc is a versatile camera streaming application written in Go, supporting a wide array of protocols including RTSP, RTMP, WebRTC, and HomeKit. It enables users to stream from various sources, transcode on-the-fly, and publish to popular streaming services, making it suitable for smart home integration and standalone use.",
+    "project_id": 526081371,
+    "url": "https://github.com/AlexxIT/go2rtc",
+    "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc."
 }
