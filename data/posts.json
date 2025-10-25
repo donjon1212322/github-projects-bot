@@ -1,44 +1,37 @@
 [
     {
-        "project_id": 505401707,
-        "content": "🔥 <b>fooyin</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying and managing a local music collection with extensive customization options.\n<br>\n✨ <b>Key Features:</b>\n• Playback of major audio formats (FLAC, MP3, MP4, Vorbis, Opus, WavPack, WAV, AIFF, MKA, Musepack, Monkey’s Audio)\n• Native support for VGM and tracker module formats\n• Gapless playback\n• Play files directly from archives\n• Full CUE sheet support\n<br>\n📖 <b>Summary:</b>\nfooyin is a customizable music player that supports a wide range of audio formats and provides extensive customization options. It features a plugin system, a scripting language for advanced configuration, and a layout editing mode for complete UI customization. Currently, only Linux is supported, with plans for future platform support.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/fooyin/fooyin?embed=0\">View Project</a>\n• <a href=\"https://fooyin.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9ecfabc3106be5770b925a3cbb0a537f3ac1e4bb19c63a9125ec0b7832c64936/fooyin/fooyin",
+        "project_id": 883152473,
+        "content": "🌟 <b>perplexideez</b> | Svelte\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosted AI-powered search across the web and personal applications.\n<br>\n✨ <b>Key Features:</b>\n• Web search using AI\n• Source attribution for AI conclusions\n• AI-generated follow-up questions\n• Saving favorite searches\n• Customizable AI models\n<br>\n📖 <b>Summary:</b>\nPerplexideez is a self-hosted, AI-powered search application built with Svelte. It allows users to search the web and their self-hosted applications using local AI agents, backed by a Postgres database and either Ollama or OpenAI compatible endpoints. It integrates with SearXNG for web searches and offers features like multi-user support, customizable models, and sharing capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/brunostjohn/perplexideez?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/194b2e810a819641944cd68e0ec66aa5f326e4d0c29f3b313e9ca8c8af909fb6/brunostjohn/perplexideez",
         "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 0.55
     },
     {
-        "project_id": 486721097,
-        "content": "🔥 <b>youtube-tui</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nBrowsing YouTube content and playing videos/audio from the terminal without a graphical user interface.\n<br>\n✨ <b>Key Features:</b>\n• Browse YouTube content from the terminal\n• Customizable through config files (YAML format)\n• Dependency-free (relies on external programs like mpv and yt-dlp)\n• View channel, playlist, and video information\n• Use search filters\n<br>\n📖 <b>Summary:</b>\nYouTube TUI is a terminal-based user interface for browsing YouTube. It's written in Rust and allows users to browse YouTube content, view information about channels, playlists, and videos, use search filters, and save browsing history, all from the command line.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Siriusmart/youtube-tui?embed=0\">View Project</a>\n• <a href=\"https://tui.siri.ws/youtube?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d2d75c359c5089762fe822c31a942b5b68e1b0fafffb35746d0eeb12c87cfdcf/Siriusmart/youtube-tui",
+        "project_id": 944928154,
+        "content": "🔥 <b>naturaltime</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nParsing natural language time expressions to extract dates, times, and ranges for applications requiring human-readable time input.\n<br>\n✨ <b>Key Features:</b>\n• Parse natural language date expressions into `time.Time` objects\n• Extract specific dates or date ranges\n• Support for multiple time ranges in a single expression\n• Integration with Go's `time` package\n• Clean, idiomatic Go API\n<br>\n📖 <b>Summary:</b>\nThe `naturaltime` Go library parses natural language time expressions, including dates, times, and ranges. It leverages the `chrono-node` JavaScript library for advanced parsing capabilities, offering a Go-friendly API for extracting time information from human-readable text. The library also has active development on a pure Go implementation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Sho0pi/naturaltime?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a32f9494445a2e1a5d947349bc63ad9fa3d8fc19cf15f32598deb0c56b967e00/Sho0pi/naturaltime",
+        "platform": "telegram",
+        "quality_score": 0.35
+    },
+    {
+        "project_id": 610260322,
+        "content": "✨ <b>chatbox</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a desktop application for users to interact with various AI models and LLMs in a unified and user-friendly environment.\n<br>\n✨ <b>Key Features:</b>\n• Desktop client for AI models/LLMs\n• Supports GPT, Claude, Gemini, Ollama, and other LLMs\n• Available on Windows, macOS, and Linux\n• Community Edition open-sourced under GPLv3 license\n<br>\n📖 <b>Summary:</b>\nChatbox is a user-friendly desktop client application designed to interact with various AI models and Large Language Models (LLMs) such as GPT, Claude, Gemini, and Ollama. It provides a unified interface for accessing and utilizing these AI models on Windows, macOS, and Linux, offering a convenient way to engage with AI technology.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/chatboxai/chatbox?embed=0\">View Project</a>\n• <a href=\"https://chatboxai.app?utm_medium=github?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/be39279888b01616c5e044368eeba30e71a678e5ab9842abebcc1d54f26a2b29/chatboxai/chatbox",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 88523356,
+        "content": "💡 <b>DevExtreme</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding enterprise-ready web applications with rich UI components.\n<br>\n✨ <b>Key Features:</b>\n• Responsive UI components\n• Support for Angular, React, Vue, and jQuery\n• Data grids\n• Interactive charts\n• Data editors\n<br>\n📖 <b>Summary:</b>\nDevExtreme is a suite of UI components for building responsive web applications using Angular, React, Vue, and jQuery. It provides a range of components like data grids, charts, and widgets, designed to work across different devices and screen sizes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DevExpress/DevExtreme?embed=0\">View Project</a>\n• <a href=\"https://js.devexpress.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ac2b89b056df9c408d4d6b6db84573e81886d2258fc5ea19cb6270f03b0b0c68/DevExpress/DevExtreme",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 77419377,
-        "content": "💡 <b>ctop</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring container resource usage and performance in real-time.\n<br>\n✨ <b>Key Features:</b>\n• Real-time container metrics\n• Top-like interface\n• Multiple container overview\n• Single container view\n• Docker support\n<br>\n📖 <b>Summary:</b>\nctop is a command-line tool that provides a real-time, top-like interface for monitoring container metrics. It offers a concise overview of multiple containers and a single container view for detailed inspection, supporting Docker and runC.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bcicen/ctop?embed=0\">View Project</a>\n• <a href=\"https://ctop.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3c33e00037f106b78d8d27fc188540e6d226fa1493487ec433010676bfdec4aa/bcicen/ctop",
+        "project_id": 88523356,
+        "content": "🔥 <b>DevExtreme</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding enterprise-ready web applications with rich user interfaces.\n<br>\n✨ <b>Key Features:</b>\n• Responsive UI components\n• Support for Angular, React, Vue, and jQuery\n• Data grids\n• Interactive charts\n• Data editors\n<br>\n📖 <b>Summary:</b>\nDevExtreme is a suite of UI components for building responsive web applications. It supports popular front-end frameworks like Angular, React, Vue, and jQuery, offering a range of components including data grids, charts, and widgets for creating engaging user interfaces across different devices and screen sizes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DevExpress/DevExtreme?embed=0\">View Project</a>\n• <a href=\"https://js.devexpress.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ac2b89b056df9c408d4d6b6db84573e81886d2258fc5ea19cb6270f03b0b0c68/DevExpress/DevExtreme",
         "platform": "telegram",
-        "quality_score": 0.45
-    },
-    {
-        "project_id": 441062625,
-        "content": "🌟 <b>NetAlertX</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nNetwork intrusion detection and presence detection on a local network.\n<br>\n✨ <b>Key Features:</b>\n• Network scanning for new devices\n• Detection of new connections and disconnections\n• IP change detection\n• Internet IP address change detection\n• Plugin system for custom functionality\n<br>\n📖 <b>Summary:</b>\nNetAlertX is a network monitoring and security tool that scans your network for connected devices and alerts you to new or unknown devices. It helps with presence detection, network analysis, and building a network source of truth (NSoT) through scheduled scans and customizable plugins.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jokob-sk/NetAlertX?embed=0\">View Project</a>\n• <a href=\"https://netalertx.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/441062625/3d4957be-0bb2-4617-bb58-7bb0cf0cbc08",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 719438276,
-        "content": "💡 <b>gramax</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and publishing documentation, knowledge bases, and notes using Markdown with Git integration.\n<br>\n✨ <b>Key Features:</b>\n• Visual Editor\n• Cross-Platform availability\n• Local Storage in Markdown\n• Customizable Styles\n• Multilingual Support\n<br>\n📖 <b>Summary:</b>\nGramax is an open-source, local-first documentation tool that uses a docs-as-code approach. It allows users to create, edit, and publish documentation using Markdown, with a visual editor and Git integration. It supports various features like multilingual support, advanced editing capabilities, and documentation portal generation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Gram-ax/gramax?embed=0\">View Project</a>\n• <a href=\"https://gram.ax?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ca6d7074909c5edf433fc6933e7b966d2ee27e7ea4341e31765fdbfdb1964921/Gram-ax/gramax",
-        "platform": "telegram",
-        "quality_score": 0.8
-    },
-    {
-        "project_id": 996250059,
-        "content": "🌟 <b>depyler</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting Python code to Rust for improved performance, memory safety, and energy efficiency.\n<br>\n✨ <b>Key Features:</b>\n• Type-directed transpilation\n• Memory safety analysis\n• Semantic verification\n• Support for basic Python types and collections\n• Support for control flow, comprehensions, and exception handling\n<br>\n📖 <b>Summary:</b>\nDepyler is a Python-to-Rust transpiler that aims to facilitate the transition from Python to Rust by converting annotated Python code into idiomatic Rust. It focuses on semantic verification and memory safety analysis to ensure the generated Rust code preserves the original program's behavior while providing compile-time safety guarantees.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/paiml/depyler?embed=0\">View Project</a>\n• <a href=\"https://paiml.github.io/depyler/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5512dda57385e4b08d98a6d5bf712d956c78bdfd556f4404211c0925c208a087/paiml/depyler",
-        "platform": "telegram",
-        "quality_score": 0.6499999999999999
+        "quality_score": 0.85
     }
 ]
