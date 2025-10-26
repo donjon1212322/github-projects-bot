@@ -1,37 +1,44 @@
 [
     {
-        "project_id": 883152473,
-        "content": "🌟 <b>perplexideez</b> | Svelte\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosted AI-powered search across the web and personal applications.\n<br>\n✨ <b>Key Features:</b>\n• Web search using AI\n• Source attribution for AI conclusions\n• AI-generated follow-up questions\n• Saving favorite searches\n• Customizable AI models\n<br>\n📖 <b>Summary:</b>\nPerplexideez is a self-hosted, AI-powered search application built with Svelte. It allows users to search the web and their self-hosted applications using local AI agents, backed by a Postgres database and either Ollama or OpenAI compatible endpoints. It integrates with SearXNG for web searches and offers features like multi-user support, customizable models, and sharing capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/brunostjohn/perplexideez?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/194b2e810a819641944cd68e0ec66aa5f326e4d0c29f3b313e9ca8c8af909fb6/brunostjohn/perplexideez",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 944928154,
-        "content": "🔥 <b>naturaltime</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nParsing natural language time expressions to extract dates, times, and ranges for applications requiring human-readable time input.\n<br>\n✨ <b>Key Features:</b>\n• Parse natural language date expressions into `time.Time` objects\n• Extract specific dates or date ranges\n• Support for multiple time ranges in a single expression\n• Integration with Go's `time` package\n• Clean, idiomatic Go API\n<br>\n📖 <b>Summary:</b>\nThe `naturaltime` Go library parses natural language time expressions, including dates, times, and ranges. It leverages the `chrono-node` JavaScript library for advanced parsing capabilities, offering a Go-friendly API for extracting time information from human-readable text. The library also has active development on a pure Go implementation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Sho0pi/naturaltime?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a32f9494445a2e1a5d947349bc63ad9fa3d8fc19cf15f32598deb0c56b967e00/Sho0pi/naturaltime",
-        "platform": "telegram",
-        "quality_score": 0.35
-    },
-    {
-        "project_id": 610260322,
-        "content": "✨ <b>chatbox</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a desktop application for users to interact with various AI models and LLMs in a unified and user-friendly environment.\n<br>\n✨ <b>Key Features:</b>\n• Desktop client for AI models/LLMs\n• Supports GPT, Claude, Gemini, Ollama, and other LLMs\n• Available on Windows, macOS, and Linux\n• Community Edition open-sourced under GPLv3 license\n<br>\n📖 <b>Summary:</b>\nChatbox is a user-friendly desktop client application designed to interact with various AI models and Large Language Models (LLMs) such as GPT, Claude, Gemini, and Ollama. It provides a unified interface for accessing and utilizing these AI models on Windows, macOS, and Linux, offering a convenient way to engage with AI technology.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/chatboxai/chatbox?embed=0\">View Project</a>\n• <a href=\"https://chatboxai.app?utm_medium=github?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/be39279888b01616c5e044368eeba30e71a678e5ab9842abebcc1d54f26a2b29/chatboxai/chatbox",
+        "project_id": 63427304,
+        "content": "🔥 <b>persepolis</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and accelerating file downloads from the internet.\n<br>\n✨ <b>Key Features:</b>\n• Multi-segment downloading (64 connections)\n• Scheduling downloads\n• Download queuing\n• Downloading videos from Youtube and ...\n<br>\n📖 <b>Summary:</b>\nPersepolis Download Manager is a free and open-source download manager written in Python, supporting multi-segment downloads, scheduling, and queuing. It is available for GNU/Linux, BSDs, macOS, and Windows, and can download videos from platforms like YouTube.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/persepolisdm/persepolis?embed=0\">View Project</a>\n• <a href=\"https://persepolisdm.github.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/bdc1c81daaa13b54fdef9a0033decf8cb2afd678ebd98e45a5c6a5eaa0372a21/persepolisdm/persepolis",
         "platform": "telegram",
         "quality_score": 0.6
     },
     {
-        "project_id": 88523356,
-        "content": "💡 <b>DevExtreme</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding enterprise-ready web applications with rich UI components.\n<br>\n✨ <b>Key Features:</b>\n• Responsive UI components\n• Support for Angular, React, Vue, and jQuery\n• Data grids\n• Interactive charts\n• Data editors\n<br>\n📖 <b>Summary:</b>\nDevExtreme is a suite of UI components for building responsive web applications using Angular, React, Vue, and jQuery. It provides a range of components like data grids, charts, and widgets, designed to work across different devices and screen sizes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DevExpress/DevExtreme?embed=0\">View Project</a>\n• <a href=\"https://js.devexpress.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ac2b89b056df9c408d4d6b6db84573e81886d2258fc5ea19cb6270f03b0b0c68/DevExpress/DevExtreme",
+        "project_id": 120967092,
+        "content": "🌟 <b>auto-py-to-exe</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting Python scripts into executable files for easy distribution.\n<br>\n✨ <b>Key Features:</b>\n• GUI for converting .py to .exe\n• Uses PyInstaller\n• Supports Python 3.6-3.12\n• Installable via PyPI or GitHub\n• Cross-platform (Windows, Linux, macOS)\n<br>\n📖 <b>Summary:</b>\nAuto PY to EXE is a tool that converts Python scripts (.py) into executable files (.exe) using a graphical user interface. It leverages PyInstaller to bundle the script and its dependencies into a single executable, making it easier to distribute Python applications to users who may not have Python installed.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/brentvollebregt/auto-py-to-exe?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fb98043963a8b576fb7e56fcd37f36dcdc9b03a2fd2bbf619ca5694aed103272/brentvollebregt/auto-py-to-exe",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.95
     },
     {
-        "project_id": 88523356,
-        "content": "🔥 <b>DevExtreme</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding enterprise-ready web applications with rich user interfaces.\n<br>\n✨ <b>Key Features:</b>\n• Responsive UI components\n• Support for Angular, React, Vue, and jQuery\n• Data grids\n• Interactive charts\n• Data editors\n<br>\n📖 <b>Summary:</b>\nDevExtreme is a suite of UI components for building responsive web applications. It supports popular front-end frameworks like Angular, React, Vue, and jQuery, offering a range of components including data grids, charts, and widgets for creating engaging user interfaces across different devices and screen sizes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DevExpress/DevExtreme?embed=0\">View Project</a>\n• <a href=\"https://js.devexpress.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ac2b89b056df9c408d4d6b6db84573e81886d2258fc5ea19cb6270f03b0b0c68/DevExpress/DevExtreme",
+        "project_id": 933691861,
+        "content": "🚀 <b>Notemod</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nPersonal note-taking and task management with data synchronization and offline access.\n<br>\n✨ <b>Key Features:</b>\n• Easy Note-Taking\n• Creating Tasks\n• Rich Text Editor\n• Synchronization\n• Save All Your Data\n<br>\n📖 <b>Summary:</b>\nNotemod is a free and open-source note-taking application designed for simplicity and accessibility. It offers features like easy note-taking, rich text editing, task creation, data synchronization via GitHub Gist, local data storage with export/import options, and offline access, catering to students, professionals, and creative thinkers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/orayemre/Notemod?embed=0\">View Project</a>\n• <a href=\"https://app-notemod.blogspot.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/933691861/bbc23ff4-da2b-42bd-bed7-3c30e58cdc61",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.15
+    },
+    {
+        "project_id": 837861367,
+        "content": "🔥 <b>ascii-flix</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nWatching videos in the terminal as ASCII art.\n<br>\n✨ <b>Key Features:</b>\n• Convert video frames into ASCII art\n• Supports both normal and filled ASCII modes\n• Extract and play audio using pygame\n<br>\n📖 <b>Summary:</b>\nASCII Flix is a Python-based terminal video player that converts video frames into ASCII art. It allows users to watch videos in a unique, minimalistic way directly within their terminal, supporting both normal and filled ASCII modes and extracting audio using pygame.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Saad1926Q/ascii-flix?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6398a6b5a9d16daf445b11e70596018356a5d16a9390ffef7de943ecb865d4a0/Saad1926Q/ascii-flix",
+        "platform": "telegram",
+        "quality_score": 0.4
+    },
+    {
+        "project_id": 945084456,
+        "content": "🌟 <b>flip-on-fail</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAdding humor and expressiveness to error messages during development and debugging.\n<br>\n✨ <b>Key Features:</b>\n• Adds a default table flip ASCII art prefix to error messages.\n• Allows customization of the error message prefix.\n• Provides methods to enable and disable the error flipping functionality.\n• Works with both standard `Error` objects and `console.error` calls.\n<br>\n📖 <b>Summary:</b>\nFlip On Fail is a JavaScript package that enhances error messages by adding fun, expressive prefixes, such as the table flip ASCII art. It can be installed via npm or yarn and used in both browser and Node.js environments to make debugging more entertaining.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/markets/flip-on-fail?embed=0\">View Project</a>\n• <a href=\"https://www.npmjs.com/package/flip-on-fail?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8415c2adddbc47917feca7147811a1a109452313053ae4e3a39f070066a841a7/markets/flip-on-fail",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 944991825,
+        "content": "🔥 <b>krep</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nRapid, large-scale pattern matching in files and directories.\n<br>\n✨ <b>Key Features:</b>\n• Multiple search algorithms (Boyer-Moore-Horspool, KMP, Aho-Corasick)\n• SIMD acceleration (SSE4.2, AVX2, NEON)\n• Memory-mapped I/O\n• Multi-threaded search\n• Regex support (POSIX Extended Regular Expression)\n<br>\n📖 <b>Summary:</b>\nKrep is a high-performance string search utility written in C, designed for speed and efficiency when processing large files and directories. It offers multiple search algorithms, SIMD acceleration, memory-mapped I/O, and multi-threading to maximize throughput.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/davidesantangelo/krep?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/783335ac741ceef456ba281b6ad72370a990c16dc7738e0d9a13c686b6c7478c/davidesantangelo/krep",
+        "platform": "telegram",
+        "quality_score": 0.7000000000000001
     }
 ]
