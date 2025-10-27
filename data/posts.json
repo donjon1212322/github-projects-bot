@@ -1,44 +1,58 @@
 [
     {
-        "project_id": 63427304,
-        "content": "🔥 <b>persepolis</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and accelerating file downloads from the internet.\n<br>\n✨ <b>Key Features:</b>\n• Multi-segment downloading (64 connections)\n• Scheduling downloads\n• Download queuing\n• Downloading videos from Youtube and ...\n<br>\n📖 <b>Summary:</b>\nPersepolis Download Manager is a free and open-source download manager written in Python, supporting multi-segment downloads, scheduling, and queuing. It is available for GNU/Linux, BSDs, macOS, and Windows, and can download videos from platforms like YouTube.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/persepolisdm/persepolis?embed=0\">View Project</a>\n• <a href=\"https://persepolisdm.github.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/bdc1c81daaa13b54fdef9a0033decf8cb2afd678ebd98e45a5c6a5eaa0372a21/persepolisdm/persepolis",
+        "project_id": 34525124,
+        "content": "🚀 <b>HTTP-Shortcuts</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating customizable home screen shortcuts to execute HTTP requests for home automation, IoT device control, and integration with other apps.\n<br>\n✨ <b>Key Features:</b>\n• Supports HTTP and HTTPS, and methods GET, POST, PUT, DELETE, PATCH, HEAD, OPTIONS and TRACE\n• Basic Authentication, Digest Authentication & Bearer Authentication\n• Custom request headers\n<br>\n📖 <b>Summary:</b>\nHTTP Shortcuts is an Android application that allows users to create home screen shortcuts to trigger custom HTTP requests. It supports various HTTP methods, authentication schemes, and response handling options, enabling users to automate tasks and interact with web services directly from their mobile devices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Waboodoo/HTTP-Shortcuts?embed=0\">View Project</a>\n• <a href=\"https://http-shortcuts.rmy.ch?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/34525124/d8b2d18d-0275-4efa-97c3-e24a9f569343",
+        "platform": "telegram",
+        "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 871717382,
+        "content": "🚀 <b>joycaption</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated image captioning for training and fine-tuning diffusion models.\n<br>\n✨ <b>Key Features:</b>\n• Free and Open: Open weights, no restrictions, training scripts provided.\n• Uncensored: Equal coverage of SFW and NSFW concepts.\n• Diversity: Broad coverage of image styles, content, ethnicity, gender, orientation, etc.\n• Minimal Filtering: Trained on large datasets to understand almost all aspects of our world, excluding illegal content.\n<br>\n📖 <b>Summary:</b>\nJoyCaption is an open-source Visual Language Model (VLM) designed for image captioning. It aims to provide a free, uncensored alternative to existing models like ChatGPT, enabling the training and fine-tuning of diffusion models on a wider range of images with diverse content and styles.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/fpgaminer/joycaption?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/84bae1f09d56e76bd65481d531759b857fa56901ef39a0ad203e88ec5f6794a6/fpgaminer/joycaption",
+        "platform": "telegram",
+        "quality_score": 0.7500000000000001
+    },
+    {
+        "project_id": 209925723,
+        "content": "🚀 <b>ffmpeg-commander</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying FFmpeg command generation for video and audio encoding.\n<br>\n✨ <b>Key Features:</b>\n• Web-based GUI for FFmpeg\n• Generates common FFmpeg encoding operations\n• Vue.js and Bootstrap Vue based\n• Docker support\n<br>\n📖 <b>Summary:</b>\nThe `ffmpeg-commander` repository provides a web-based GUI for generating FFmpeg command-line operations. It simplifies the process of encoding video and audio by offering a user-friendly interface to create common FFmpeg commands. It also has an optional companion application `ffmpegd` that connects `ffmpeg-commander` to `ffmpeg` by providing a websocket server to send encode tasks and receive realtime progress updates back to the browser.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alfg/ffmpeg-commander?embed=0\">View Project</a>\n• <a href=\"https://alfg.github.io/ffmpeg-commander/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8ad1faa4bc57d1b900671d44f0c224973fd4ba470b41786ab5ace1124899f5a8/alfg/ffmpeg-commander",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 948212112,
+        "content": "🌟 <b>branch-pad</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nExperimentation and hypothesis testing in Python code by exploring multiple branches simultaneously within an interactive notebook environment.\n<br>\n✨ <b>Key Features:</b>\n• Branch Management (creation, customization)\n• Independent Code Execution Environments\n• Package Management (detection, installation, version tracking)\n• Snapshotting & Versioning\n• Branch Comparison (code, output, variables)\n<br>\n📖 <b>Summary:</b>\nbranch-pad is an interactive Python notebook environment that allows users to create and explore multiple branches of code execution. It provides features for branch management, independent code execution environments, snapshotting, versioning, and branch comparison. It also supports exporting notebooks and deployment packages.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alexyorke/branch-pad?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b690690f828d21b57321e7fbead8d229341d6b47f3561fe0cde5960fed922174/alexyorke/branch-pad",
         "platform": "telegram",
         "quality_score": 0.6
     },
     {
-        "project_id": 120967092,
-        "content": "🌟 <b>auto-py-to-exe</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting Python scripts into executable files for easy distribution.\n<br>\n✨ <b>Key Features:</b>\n• GUI for converting .py to .exe\n• Uses PyInstaller\n• Supports Python 3.6-3.12\n• Installable via PyPI or GitHub\n• Cross-platform (Windows, Linux, macOS)\n<br>\n📖 <b>Summary:</b>\nAuto PY to EXE is a tool that converts Python scripts (.py) into executable files (.exe) using a graphical user interface. It leverages PyInstaller to bundle the script and its dependencies into a single executable, making it easier to distribute Python applications to users who may not have Python installed.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/brentvollebregt/auto-py-to-exe?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fb98043963a8b576fb7e56fcd37f36dcdc9b03a2fd2bbf619ca5694aed103272/brentvollebregt/auto-py-to-exe",
+        "project_id": 108631782,
+        "content": "🌟 <b>doodle</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding cross-platform (web and desktop) user interfaces using Kotlin.\n<br>\n✨ <b>Key Features:</b>\n• Pure Kotlin UI framework\n• Cross-platform support (Web, Desktop)\n• Intuitive render model\n• Pixel-level precision\n• Support for complex UIs\n<br>\n📖 <b>Summary:</b>\nDoodle is a pure Kotlin UI framework for building web and desktop applications. It provides an intuitive render model, making it easy to create complex UIs with pixel-level precision and layouts. The framework supports Kotlin/JS, Kotlin/Wasm, and Kotlin/JVM, enabling cross-platform development.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nacular/doodle?embed=0\">View Project</a>\n• <a href=\"https://nacular.github.io/doodle?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/108631782/b675cd80-23f7-11eb-8fe7-1b28b2360870",
         "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 0.5
     },
     {
-        "project_id": 933691861,
-        "content": "🚀 <b>Notemod</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nPersonal note-taking and task management with data synchronization and offline access.\n<br>\n✨ <b>Key Features:</b>\n• Easy Note-Taking\n• Creating Tasks\n• Rich Text Editor\n• Synchronization\n• Save All Your Data\n<br>\n📖 <b>Summary:</b>\nNotemod is a free and open-source note-taking application designed for simplicity and accessibility. It offers features like easy note-taking, rich text editing, task creation, data synchronization via GitHub Gist, local data storage with export/import options, and offline access, catering to students, professionals, and creative thinkers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/orayemre/Notemod?embed=0\">View Project</a>\n• <a href=\"https://app-notemod.blogspot.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/933691861/bbc23ff4-da2b-42bd-bed7-3c30e58cdc61",
+        "project_id": 946939412,
+        "content": "💡 <b>infinite-ai-web</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nDynamically generating web content for any given topic or URL path using AI, and serving it as a website.\n<br>\n✨ <b>Key Features:</b>\n• AI-Generated Content using Google's Gemini 2.0 Flash model\n• Dynamic Routing to generate content for any URL path\n• Search Interface for easy content discovery\n<br>\n📖 <b>Summary:</b>\nThe Infinite AI Web repository is a dynamic web content generator that uses Google's Gemini AI model to create web pages on-the-fly. It allows users to search for any topic or navigate to any URL path, and the application will generate relevant content for that route, saving the generated content to the filesystem for future access.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TheLime1/infinite-ai-web?embed=0\">View Project</a>\n• <a href=\"https://thelime1.github.io/infinite-ai-web/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/89c2953b043b037a8e1b59641e4dc3493facd038e48586feb9db8473e67905a7/TheLime1/infinite-ai-web",
+        "platform": "telegram",
+        "quality_score": 0.25
+    },
+    {
+        "project_id": 918049112,
+        "content": "💡 <b>wetube_flutter</b> | Dart\n<br>\n🎯 <b>Primary Use Case:</b>\nWatching YouTube videos on Android with ad-skipping and background playback.\n<br>\n✨ <b>Key Features:</b>\n• Auto-skip video ads\n• Background play (PiP mode)\n• YouTube login support\n• Video and music search\n• Dark mode support\n<br>\n📖 <b>Summary:</b>\nWeTube is a lightweight Flutter-based Android client for YouTube, offering features like ad-skipping, background playback, and resolution switching. It allows users to browse and watch YouTube content without needing an account, providing access to videos, music, podcasts, and live streams.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Purehi/wetube_flutter?embed=0\">View Project</a>\n• <a href=\"https://play.google.com/store/apps/details?id=free.mor.mordo.do?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/74f14a10e15fc05ae9f4d4775aa0caf5b4fe9346b444a2ed957205f066b01050/Purehi/wetube_flutter",
         "platform": "telegram",
         "quality_score": 0.15
     },
     {
-        "project_id": 837861367,
-        "content": "🔥 <b>ascii-flix</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nWatching videos in the terminal as ASCII art.\n<br>\n✨ <b>Key Features:</b>\n• Convert video frames into ASCII art\n• Supports both normal and filled ASCII modes\n• Extract and play audio using pygame\n<br>\n📖 <b>Summary:</b>\nASCII Flix is a Python-based terminal video player that converts video frames into ASCII art. It allows users to watch videos in a unique, minimalistic way directly within their terminal, supporting both normal and filled ASCII modes and extracting audio using pygame.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Saad1926Q/ascii-flix?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6398a6b5a9d16daf445b11e70596018356a5d16a9390ffef7de943ecb865d4a0/Saad1926Q/ascii-flix",
+        "project_id": 947234643,
+        "content": "🚀 <b>fastrace</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nNetwork diagnostics and performance analysis by mapping network routes and identifying bottlenecks.\n<br>\n✨ <b>Key Features:</b>\n• Zero External Dependencies\n• Maximum Performance (parallel probing, efficient packet handling)\n• Low Memory Footprint\n• Dual Socket Implementation (UDP probes, raw ICMP response capture)\n• Visual Route Mapping (tree-like representation)\n<br>\n📖 <b>Summary:</b>\nFastrace is a dependency-free traceroute implementation in pure C, designed for network diagnostics and performance analysis. It maps the route that packets take across an IP network, providing detailed timing information and identifying potential bottlenecks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/davidesantangelo/fastrace?embed=0\">View Project</a>\n• <a href=\"https://davidesantangelo.github.io/fastrace/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d10eb44de98038da5e96a47696e415465baa61d1a38cf0df809e148fc99ade08/davidesantangelo/fastrace",
         "platform": "telegram",
-        "quality_score": 0.4
-    },
-    {
-        "project_id": 945084456,
-        "content": "🌟 <b>flip-on-fail</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAdding humor and expressiveness to error messages during development and debugging.\n<br>\n✨ <b>Key Features:</b>\n• Adds a default table flip ASCII art prefix to error messages.\n• Allows customization of the error message prefix.\n• Provides methods to enable and disable the error flipping functionality.\n• Works with both standard `Error` objects and `console.error` calls.\n<br>\n📖 <b>Summary:</b>\nFlip On Fail is a JavaScript package that enhances error messages by adding fun, expressive prefixes, such as the table flip ASCII art. It can be installed via npm or yarn and used in both browser and Node.js environments to make debugging more entertaining.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/markets/flip-on-fail?embed=0\">View Project</a>\n• <a href=\"https://www.npmjs.com/package/flip-on-fail?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8415c2adddbc47917feca7147811a1a109452313053ae4e3a39f070066a841a7/markets/flip-on-fail",
-        "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 944991825,
-        "content": "🔥 <b>krep</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nRapid, large-scale pattern matching in files and directories.\n<br>\n✨ <b>Key Features:</b>\n• Multiple search algorithms (Boyer-Moore-Horspool, KMP, Aho-Corasick)\n• SIMD acceleration (SSE4.2, AVX2, NEON)\n• Memory-mapped I/O\n• Multi-threaded search\n• Regex support (POSIX Extended Regular Expression)\n<br>\n📖 <b>Summary:</b>\nKrep is a high-performance string search utility written in C, designed for speed and efficiency when processing large files and directories. It offers multiple search algorithms, SIMD acceleration, memory-mapped I/O, and multi-threading to maximize throughput.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/davidesantangelo/krep?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/783335ac741ceef456ba281b6ad72370a990c16dc7738e0d9a13c686b6c7478c/davidesantangelo/krep",
-        "platform": "telegram",
-        "quality_score": 0.7000000000000001
+        "quality_score": 0.15
     }
 ]
