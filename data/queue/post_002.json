@@ -1,7 +1,0 @@
-{
-    "project_id": 209925723,
-    "content": "🚀 <b>ffmpeg-commander</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying FFmpeg command generation for video and audio encoding.\n<br>\n✨ <b>Key Features:</b>\n• Web-based GUI for FFmpeg\n• Generates common FFmpeg encoding operations\n• Vue.js and Bootstrap Vue based\n• Docker support\n<br>\n📖 <b>Summary:</b>\nThe `ffmpeg-commander` repository provides a web-based GUI for generating FFmpeg command-line operations. It simplifies the process of encoding video and audio by offering a user-friendly interface to create common FFmpeg commands. It also has an optional companion application `ffmpegd` that connects `ffmpeg-commander` to `ffmpeg` by providing a websocket server to send encode tasks and receive realtime progress updates back to the browser.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alfg/ffmpeg-commander?embed=0\">View Project</a>\n• <a href=\"https://alfg.github.io/ffmpeg-commander/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/8ad1faa4bc57d1b900671d44f0c224973fd4ba470b41786ab5ace1124899f5a8/alfg/ffmpeg-commander",
-    "platform": "telegram",
-    "quality_score": 0.44999999999999996
-}
