@@ -77,16 +77,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-
           git add data/
-
-          if git diff --cached --quiet; then
-            echo "No new data to commit."
-          else
-            echo "New data found. Committing changes..."
-            git commit -m "Daily data collection and preparation"
-          fi
-          
-          git pull --rebase
-          
+          git commit -m "Daily data collection and preparation" || exit 0
           git push
