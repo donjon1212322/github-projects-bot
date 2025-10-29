@@ -75,17 +75,22 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          # 1. Настраиваем пользователя Git
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # Сначала забираем последние изменения с сервера, чтобы избежать конфликтов
+          # 2. ВАЖНО: Синхронизируемся с сервером ПЕРЕД добавлением своих файлов
+          # Эта команда забирает любые изменения, произошедшие во время работы workflow
           git pull --rebase
           
-          # Добавляем все сгенерированные данные
+          # 3. Добавляем все сгенерированные файлы из папки data
           git add data/
           
-          # Делаем коммит. '|| exit 0' предотвращает ошибку, если коммитить нечего
-          git commit -m "Daily data collection and preparation" || exit 0
+          # 4. Создаем коммит, только если есть что коммитить
+          git commit -m "Daily data collection and preparation" || echo "No changes to commit"
+          
+          # 5. Отправляем изменения на сервер. Теперь это сработает.
+          git push
           
           # Отправляем изменения на сервер
           git push
