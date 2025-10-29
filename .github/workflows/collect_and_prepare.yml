@@ -78,19 +78,23 @@ jobs:
           # 1. Настраиваем пользователя Git
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+
+          # 2. Добавляем все сгенерированные файлы
+          git add data/
+
+          # 3. Проверяем, есть ли что коммитить, и создаем коммит
+          # Этот блок if предотвратит ошибку, если скрипты не создали новых файлов
+          if ! git diff --cached --quiet; then
+            echo "New data found. Committing changes..."
+            git commit -m "Daily data collection and preparation"
+          else
+            echo "No new data to commit."
+          fi
           
-          # 2. ВАЖНО: Синхронизируемся с сервером ПЕРЕД добавлением своих файлов
-          # Эта команда забирает любые изменения, произошедшие во время работы workflow
+          # 4. Теперь, когда наши локальные изменения сохранены в коммите,
+          # мы можем безопасно синхронизироваться с сервером.
           git pull --rebase
           
-          # 3. Добавляем все сгенерированные файлы из папки data
-          git add data/
-          
-          # 4. Создаем коммит, только если есть что коммитить
-          git commit -m "Daily data collection and preparation" || echo "No changes to commit"
-          
-          # 5. Отправляем изменения на сервер. Теперь это сработает.
-          git push
-          
-          # Отправляем изменения на сервер
+          # 5. Отправляем все на сервер.
+          # Эта команда отправит и наш новый коммит, и подтянутые с сервера изменения.
           git push
