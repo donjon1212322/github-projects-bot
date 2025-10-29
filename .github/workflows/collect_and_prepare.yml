@@ -75,26 +75,18 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          # 1. Настраиваем пользователя Git
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          # 2. Добавляем все сгенерированные файлы
           git add data/
 
-          # 3. Проверяем, есть ли что коммитить, и создаем коммит
-          # Этот блок if предотвратит ошибку, если скрипты не создали новых файлов
-          if ! git diff --cached --quiet; then
+          if git diff --cached --quiet; then
+            echo "No new data to commit."
+          else
             echo "New data found. Committing changes..."
             git commit -m "Daily data collection and preparation"
-          else
-            echo "No new data to commit."
           fi
           
-          # 4. Теперь, когда наши локальные изменения сохранены в коммите,
-          # мы можем безопасно синхронизироваться с сервером.
           git pull --rebase
           
-          # 5. Отправляем все на сервер.
-          # Эта команда отправит и наш новый коммит, и подтянутые с сервера изменения.
           git push
