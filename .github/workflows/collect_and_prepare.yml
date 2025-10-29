@@ -77,6 +77,15 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          
+          # Сначала забираем последние изменения с сервера, чтобы избежать конфликтов
+          git pull --rebase
+          
+          # Добавляем все сгенерированные данные
           git add data/
+          
+          # Делаем коммит. '|| exit 0' предотвращает ошибку, если коммитить нечего
           git commit -m "Daily data collection and preparation" || exit 0
+          
+          # Отправляем изменения на сервер
           git push
