@@ -1,7 +1,0 @@
-{
-    "project_id": 873217205,
-    "content": "💡 <b>vulnhuntr</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated vulnerability detection in GitHub repositories.\n<br>\n✨ <b>Key Features:</b>\n• Zero-shot vulnerability discovery using LLMs\n• Static code analysis\n• Detection of complex, multi-step vulnerabilities\n• Support for Python codebases\n• Identification of LFI, AFO, RCE, XSS, SQLI, SSRF, and IDOR vulnerabilities\n<br>\n📖 <b>Summary:</b>\nVulnhuntr is a tool that uses LLMs and static code analysis to automatically discover remotely exploitable vulnerabilities in software. It analyzes code call chains from user input to server output, aiming to detect complex, multi-step security vulnerabilities that traditional static analysis tools may miss.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/protectai/vulnhuntr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/6c59feaee6653956f3091acecf245883eb694ab565bad6cc11b6c578478ec931/protectai/vulnhuntr",
-    "platform": "telegram",
-    "quality_score": 0.45
-}
