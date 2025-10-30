@@ -1,37 +1,23 @@
 [
     {
-        "project_id": 611028402,
-        "content": "🔥 <b>Visual-Code-Space</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nCoding on Android devices\n<br>\n✨ <b>Key Features:</b>\n• Blazing Fast File Explorer\n• Multi-Language Syntax Highlighting\n• Tabbed Editor\n• Integrated Terminal Emulator\n• Ad-Free Experience\n<br>\n📖 <b>Summary:</b>\nVisual Code Space is a modern code editor for Android devices, designed to provide a seamless and efficient coding experience on the go. It features a fast file explorer, multi-language syntax highlighting, a tabbed editor, an integrated terminal emulator, and plugin support, all while being ad-free.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Visual-Code-Space/Visual-Code-Space?embed=0\">View Project</a>\n• <a href=\"http://visualcodespace.com.br/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/611028402/aad589d9-5209-4e7c-acf9-4a41f6ef81e3",
+        "project_id": 28944251,
+        "content": "✨ <b>arwes</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding futuristic sci-fi themed web applications.\n<br>\n✨ <b>Key Features:</b>\n• Futuristic Sci-Fi UI components\n• Animations\n• Sound effects\n• Vanilla JavaScript package\n• React package\n<br>\n📖 <b>Summary:</b>\nArwes is a web framework written in TypeScript for building user interfaces with a futuristic sci-fi aesthetic, including designs, animations, and sound effects. It draws inspiration from Cyberprep and productions like Star Citizen and Halo, aiming to inspire advanced science and technology in web development.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/arwes/arwes?embed=0\">View Project</a>\n• <a href=\"https://arwes.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/28944251/ee99edcf-3ec3-4e1e-8e18-9c956fc69d14",
         "platform": "telegram",
-        "quality_score": 0.7
+        "quality_score": 0.55
     },
     {
-        "project_id": 26840434,
-        "content": "🔥 <b>borgmatic</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated and secure backups for servers and workstations, including file systems and databases, with integrated monitoring and retention policies.\n<br>\n✨ <b>Key Features:</b>\n• Configuration-driven backups\n• Client-side encryption\n• Database backups (PostgreSQL, MySQL, MariaDB, MongoDB, SQLite)\n• Integration with monitoring services (Healthchecks, Uptime Kuma, Cronitor, Cronhub)\n<br>\n📖 <b>Summary:</b>\nborgmatic is a configuration-driven backup software designed for servers and workstations. It leverages Borg Backup to provide client-side encryption, database backups, and monitoring through third-party integrations, simplifying the backup process with a focus on automation and ease of use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/borgmatic-collective/borgmatic?embed=0\">View Project</a>\n• <a href=\"https://torsion.org/borgmatic/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8b18a33f9df7dc75914f26c4c715f55e69eaeeee2c6487c5223c3d50fa5d1303/borgmatic-collective/borgmatic",
+        "project_id": 1002166349,
+        "content": "🔥 <b>dockpeek</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEasy access and management of Docker container web interfaces across multiple hosts.\n<br>\n✨ <b>Key Features:</b>\n• One-click web access\n• Automatic port mapping\n• Live container logs\n• Traefik integration\n• Multi-host management\n<br>\n📖 <b>Summary:</b>\nDockpeek is a lightweight, self-hosted Docker dashboard that provides quick access to your containers' web interfaces. It simplifies container management by offering features like one-click access, automatic port mapping, live logs, Traefik integration, multi-host management, and image update checks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dockpeek/dockpeek?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1002166349/3640000f-80a2-432f-a04a-3ca895d7e3ba",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
+        "quality_score": 0.6499999999999999
     },
     {
-        "project_id": 229689238,
-        "content": "✨ <b>noone_video</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nVideo anonymization by blurring detected faces.\n<br>\n✨ <b>Key Features:</b>\n• Face detection using Haar cascades\n• Face detection using DNN (various configurations)\n• Video anonymization through face blurring\n• DNN with no crop\n• DNN with crop\n<br>\n📖 <b>Summary:</b>\nThe repository provides a set of methods for face detection in videos using OpenCV, including Haar cascades and DNN-based approaches. It allows for blurring faces in videos for anonymization purposes, offering different DNN configurations with and without cropping or scanning.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/JeiKeiLim/noone_video?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b0e94ac00f1db0840c0f40d322be76663f563d20cdcfb02b6faedf279f6ef260/JeiKeiLim/noone_video",
+        "project_id": 873217205,
+        "content": "💡 <b>vulnhuntr</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated vulnerability detection in GitHub repositories.\n<br>\n✨ <b>Key Features:</b>\n• Zero-shot vulnerability discovery using LLMs\n• Static code analysis\n• Detection of complex, multi-step vulnerabilities\n• Support for Python codebases\n• Identification of LFI, AFO, RCE, XSS, SQLI, SSRF, and IDOR vulnerabilities\n<br>\n📖 <b>Summary:</b>\nVulnhuntr is a tool that uses LLMs and static code analysis to automatically discover remotely exploitable vulnerabilities in software. It analyzes code call chains from user input to server output, aiming to detect complex, multi-step security vulnerabilities that traditional static analysis tools may miss.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/protectai/vulnhuntr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6c59feaee6653956f3091acecf245883eb694ab565bad6cc11b6c578478ec931/protectai/vulnhuntr",
         "platform": "telegram",
-        "quality_score": 0.25
-    },
-    {
-        "project_id": 120425779,
-        "content": "🚀 <b>lapce</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCode editing and development, both locally and remotely.\n<br>\n✨ <b>Key Features:</b>\n• Built-in LSP support\n• Modal editing (Vim-like)\n• Built-in remote development support\n• Plugins support (WASI)\n• Built-in terminal\n<br>\n📖 <b>Summary:</b>\nLapce is a lightning-fast and powerful code editor written in Rust, utilizing technologies like Rope Science and wgpu for performance. It offers features like built-in LSP support, modal editing (Vim-like), remote development capabilities inspired by VSCode, plugin support via WASI, and an integrated terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lapce/lapce?embed=0\">View Project</a>\n• <a href=\"https://lap.dev/lapce/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b001ac152396ca4012e698225796c7f04f0498d1024f84cd88535bd67bb896e6/lapce/lapce",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 335402819,
-        "content": "🔥 <b>plasmic</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nVisually building and designing web applications and websites with optional code integration.\n<br>\n✨ <b>Key Features:</b>\n• Visual building of apps and websites\n• Drag and drop interface\n• Codebase integration\n• Content management capabilities\n• Support for React components\n<br>\n📖 <b>Summary:</b>\nPlasmic is a visual builder for the web that allows users to design and build applications and websites with or without code. It integrates with existing codebases, enabling developers and non-developers to create content-managed pages, internal tools, and websites by dragging and dropping components.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/plasmicapp/plasmic?embed=0\">View Project</a>\n• <a href=\"https://www.plasmic.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2badeea0ac19b5e9bea07ce02c802daf43fb07838d28bfd40ec1cc7c244846fc/plasmicapp/plasmic",
-        "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.45
     }
 ]

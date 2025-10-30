@@ -1,25 +1,26 @@
 {
-    "title": "Borgmatic: The Simple, Configuration-Driven Guardian for Your Server Backups",
-    "article": "Managing server backups often feels like navigating a minefield of complex scripts and manual checks. That’s where borgmatic shines. It acts as a friendly, powerful wrapper around the incredibly robust Borg Backup tool, transforming complex backup procedures into a single, straightforward configuration file. Instead of spending hours writing custom shell scripts to manage retention, encryption, and multiple data sources, you define everything once in a clean YAML file, and borgmatic handles the orchestration automatically.\n\nThe core magic of borgmatic lies in its simplicity. You list your source directories\n—like /home or /etc\n—and then define your repositories, which can be local paths or secure remote locations via SSH, including specialized services like BorgBase. The beauty is that borgmatic leverages Borg Backup’s superior capabilities, meaning your data is automatically deduplicated across backups, saving massive amounts of storage space, and it’s secured with mandatory client-side encryption. This means your sensitive data is protected before it ever leaves your machine, providing robust security right out of the box.\n\nBeyond static files, borgmatic is a lifesaver for applications requiring live data snapshots. It integrates seamlessly with popular databases like PostgreSQL, MySQL, MariaDB, and MongoDB. You simply specify the database name in the configuration, and borgmatic automatically handles the necessary steps\n—dumping the database contents safely before the backup runs\n—ensuring you capture a consistent, application-aware snapshot. This eliminates the headache of manually stopping services or running pre-backup scripts for dynamic data.\n\nRetention policy management, which is notoriously tricky to script correctly, becomes trivial. Need to keep the last 7 daily, 4 weekly, and 6 monthly archives? Just set those three numbers in the configuration, and borgmatic automatically prunes old backups according to your rules, ensuring you comply with data retention needs without filling up your storage. Furthermore, it incorporates crucial health monitoring. By integrating with services like Healthchecks.io or Uptime Kuma, you can configure borgmatic to ping a monitoring service upon success or failure. If a backup skips a scheduled run, you get an immediate alert, ensuring you aren't left with stale or broken archives when disaster strikes. This level of automation and validation is what transforms a tedious chore into a reliable, set-it-and-forget-it system. For developers running personal servers, small business infrastructure, or managing workstations, borgmatic is the essential tool for achieving peace of mind regarding data persistence.",
+    "title": "Ditch the CLI: Meet Dockpeek, the Zero-Config Docker Dashboard You Need",
+    "article": "Are you tired of jumping back and forth between SSH sessions and command line interfaces just to check the status or logs of your running Docker containers? If your self-hosted stack or development environment is growing, managing everything manually quickly becomes tedious and inefficient. That’s where Dockpeek steps in, offering a breath of fresh air as a centralized, intuitive control panel for your entire container ecosystem.\n\nDockpeek is designed to be incredibly lightweight and simple to set up. Think of it as a mission control for your containers. Once deployed (usually via a simple Docker Compose file), it immediately connects to your Docker daemon and starts collecting data. The brilliance lies in its automatic detection capabilities. It doesn't require complex configuration files; it simply reads the metadata—like published ports and container names—directly from Docker. This zero-configuration approach means you spend less time setting up and more time managing.\n\nOne of the standout features is how Dockpeek handles connectivity. It automatically provides one-click access to any container with a web interface. If you are using Traefik, Dockpeek is smart enough to read those routing labels and automatically provide the correct service URLs, eliminating the guesswork involved in figuring out which IP and port combination corresponds to which service. This level of integration is a huge time-saver for anyone running a reverse proxy setup.\n\nBeyond easy access, Dockpeek dramatically simplifies diagnostics and maintenance. You can stream live container logs directly in the web interface, which is far more convenient than tailing logs in a terminal. Furthermore, keeping your stack secure and up-to-date is streamlined: Dockpeek actively checks image registries and alerts you when a newer version of an image is available. With a few clicks, you can identify and plan updates, moving away from the \"set it and forget it\" mentality that often leads to vulnerabilities.\n\nFor developers managing complex infrastructure or multiple remote machines, Dockpeek offers multi-host management, allowing you to control several Docker daemons from a single dashboard. This is crucial for distributed applications or development teams needing visibility across various environments. Additionally, advanced users can leverage Docker labels to customize the dashboard further—adding custom tags for organization, controlling port grouping visibility, or ensuring specific links default to HTTPS. Dockpeek transforms the often-cluttered world of container management into a clean, efficient, and accessible experience, making it an essential tool in any modern developer’s toolkit.",
     "key_takeaways": [
-        "Simplifies complex Borg Backup operations using a single, readable YAML configuration file.",
-        "Provides automatic, secure client-side encryption and efficient data deduplication across all backups.",
-        "Seamlessly backs up live databases (PostgreSQL, MySQL, MongoDB) alongside standard filesystem data.",
-        "Automates detailed retention policies (daily, weekly, monthly) and includes integrated health monitoring checks (e.g., Healthchecks.io)."
+        "Dockpeek is a self-hosted, zero-configuration Docker dashboard offering centralized control and monitoring.",
+        "It provides one-click web access, live log streaming, and automatic detection of published ports and Traefik labels.",
+        "The dashboard includes integrated image update checks, notifying you when newer container versions are available.",
+        "It supports multi-host management, allowing control over multiple Docker daemons from a single interface.",
+        "Customization is available via Docker container labels for linking, tagging, and display control."
     ],
     "tags": [
-        "Backup",
-        "BorgBackup",
-        "Configuration",
-        "ServerManagement",
-        "DataProtection"
+        "Docker",
+        "Dashboard",
+        "Container Management",
+        "Self-hosted",
+        "Traefik"
     ],
-    "stars": 2092,
-    "forks": 107,
-    "open_issues": 0,
-    "languages": "Python",
-    "readme_summary": "borgmatic is a configuration-driven backup software designed for servers and workstations. It leverages Borg Backup to provide client-side encryption, database backups, and monitoring through third-party integrations, simplifying the backup process with a focus on automation and ease of use.",
-    "project_id": 26840434,
-    "url": "https://github.com/borgmatic-collective/borgmatic",
-    "description": "Simple, configuration-driven backup software for servers and workstations"
+    "stars": 1413,
+    "forks": 53,
+    "open_issues": 10,
+    "languages": "JavaScript",
+    "readme_summary": "Dockpeek is a lightweight, self-hosted Docker dashboard that provides quick access to your containers' web interfaces. It simplifies container management by offering features like one-click access, automatic port mapping, live logs, Traefik integration, multi-host management, and image update checks.",
+    "project_id": 1002166349,
+    "url": "https://github.com/dockpeek/dockpeek",
+    "description": "Easily access your Docker container web interfaces and keep them up to date — across all your hosts."
 }
