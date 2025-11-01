@@ -1,51 +1,51 @@
 [
     {
-        "project_id": 491036679,
-        "content": "✨ <b>fastdup</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAnalyzing and improving the quality of image and video datasets by identifying duplicates, outliers, and other data quality issues.\n<br>\n✨ <b>Key Features:</b>\n• Image and video dataset analysis\n• Data curation\n• Image duplicate detection\n• Outlier detection\n• Visual search\n<br>\n📖 <b>Summary:</b>\nfastdup is a Python-based open-source tool designed for analyzing image and video datasets. It focuses on data curation, duplicate detection, outlier detection, and visual search to improve data quality and reduce operational costs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/visual-layer/fastdup?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5fc66cf22f8bbb12171ad55ced8b6256d566569b4d47c51efe811fc09eb65196/visual-layer/fastdup",
+        "project_id": 416713458,
+        "content": "🔥 <b>gridplayer</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying multiple videos side-by-side for comparison, monitoring, or entertainment purposes.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform support (Linux, Mac, Windows)\n• Support for any video and audio format (VLC)\n• Support for streaming URLs (streamlink + yt-dlp)\n• Hardware & software video decoding\n• Control video aspect, playback speed, zoom\n<br>\n📖 <b>Summary:</b>\nGridPlayer is a VLC-based media player that allows users to play multiple videos simultaneously in a configurable grid layout. It supports various video and audio formats, streaming URLs, and offers features like hardware/software decoding, aspect ratio control, and playlist saving with retained settings.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vzhd1701/gridplayer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/416713458/b4ee05fd-ac4e-4710-bb0e-a6a1152fc3f6",
+        "platform": "telegram",
+        "quality_score": 0.65
+    },
+    {
+        "project_id": 1084395359,
+        "content": "🔥 <b>share</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely transferring files between two or more parties, either through a web browser or via the command line.\n<br>\n✨ <b>Key Features:</b>\n• End-to-end encryption (E2EE) using ECDH P-256 and AES-GCM\n• Web interface for file sharing\n• Command-line interface (CLI) for file transfer\n• Self-hostable relay server option\n<br>\n📖 <b>Summary:</b>\nThe 'share' repository provides a simple way to transfer files between machines using end-to-end encryption. It offers both a web interface and a command-line interface (CLI) for sending and receiving files, ensuring secure peer-to-peer connections through a relay server.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/schollz/share?embed=0\">View Project</a>\n• <a href=\"https://share.schollz.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/136fa13daf1ff83896d4131172079f60d1c639d4596a85dd7fd97025b1b0e454/schollz/share",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 1010271930,
-        "content": "🔥 <b>drinfo</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring disk usage on Linux systems.\n<br>\n✨ <b>Key Features:</b>\n• Physical Drive, Network (cloud) Drive Detection\n• Colorful Progress Bars\n• Human-Readable Sizes\n• Terminal Responsive\n• Detailed Information\n<br>\n📖 <b>Summary:</b>\ndrinfo is a command-line tool for Linux systems that provides information about physical and network drives. It displays disk usage with colored progress bars and human-readable sizes, offering detailed information such as mount point, filesystem type, and SMART status.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lennart1978/drinfo?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1010271930/d9712d60-c6fe-427d-b01d-69efe20d8016",
+        "project_id": 574033594,
+        "content": "💡 <b>mirotalkc2c</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling secure, real-time video communication and screen sharing directly within websites without relying on third-party services.\n<br>\n✨ <b>Key Features:</b>\n• Real-time cam-2-cam video calls\n• Screen sharing\n• End-to-end encryption\n• Embeddable via iframe\n• Self-hosted\n<br>\n📖 <b>Summary:</b>\nMiroTalk C2C is a WebRTC-based application for real-time cam-2-cam video calls and screen sharing. It offers end-to-end encryption and can be embedded into any website using a simple iframe, providing a self-hosted solution for low-latency, peer-to-peer communication.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/miroslavpejic85/mirotalkc2c?embed=0\">View Project</a>\n• <a href=\"https://c2c.mirotalk.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/574033594/e4de5b17-9152-474f-a25e-37294243bd19",
         "platform": "telegram",
-        "quality_score": 0.15
+        "quality_score": 1.0
     },
     {
-        "project_id": 788423480,
-        "content": "🌟 <b>tkforge</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating Python GUIs from Figma designs\n<br>\n✨ <b>Key Features:</b>\n• Easy to use drag and drop GUI maker\n• Support for placeholder text\n• Support for multiple frames\n• Automatic foreground color setting\n• Image hashing\n<br>\n📖 <b>Summary:</b>\nTkForge is a Python GUI creator that allows users to design interfaces in Figma and then convert those designs into Tkinter code. It simplifies GUI development by providing a drag-and-drop interface within Figma, streamlining the process of creating Python GUIs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Axorax/tkforge?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/788423480/879048c0-7ab8-46e3-9664-d60dbebb2617",
+        "project_id": 1050515012,
+        "content": "🌟 <b>map-anything</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n3D reconstruction from various inputs using a single feed-forward model.\n<br>\n✨ <b>Key Features:</b>\n• Universal feed-forward metric 3D reconstruction\n• Supports multi-image structure from motion (SFM)\n• Supports multi-view stereo\n• Supports monocular metric depth estimation\n• Supports registration\n<br>\n📖 <b>Summary:</b>\nMapAnything is a transformer model for metric 3D reconstruction. It takes various inputs like images, calibration data, and poses to directly regress the 3D geometry of a scene. The model supports multiple 3D reconstruction tasks, including multi-image structure from motion, multi-view stereo, and monocular depth estimation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/facebookresearch/map-anything?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8eed5405bfaae993c76d61430c24b5382ac9ff3c42aae4662092c4f8ef3d396f/facebookresearch/map-anything",
         "platform": "telegram",
-        "quality_score": 0.4
+        "quality_score": 0.75
     },
     {
-        "project_id": 1690480,
-        "content": "💡 <b>QGIS</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nGeographic Information System (GIS) for creating, editing, visualizing, analyzing and publishing geospatial information.\n<br>\n✨ <b>Key Features:</b>\n• Flexible and powerful spatial data management\n• Beautiful cartography\n• Advanced and robust geospatial analysis\n• Powerful customization and extensibility\n• QGIS Server\n<br>\n📖 <b>Summary:</b>\nQGIS is a free and open-source Geographic Information System (GIS) software that runs on various platforms. It provides tools for spatial data management, cartography, and geospatial analysis, supporting a wide range of data formats and offering customization options.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/qgis/QGIS?embed=0\">View Project</a>\n• <a href=\"https://qgis.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0cac778cef0abfe117d326af891530447834608bfe084f16ef1be3476c2fb620/qgis/QGIS",
+        "project_id": 946945328,
+        "content": "🌟 <b>Databuddy</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nPrivacy-focused web analytics and data management for web applications, ensuring GDPR compliance.\n<br>\n✨ <b>Key Features:</b>\n• Real-time analytics dashboard\n• User behavior tracking\n• Secure authentication\n• Multi-tenant support\n• Goal tracking\n<br>\n📖 <b>Summary:</b>\nDatabuddy is a privacy-first analytics platform designed to provide real-time analytics, user tracking, and data visualization capabilities for web applications. It emphasizes GDPR compliance and secure data handling, offering features like real-time dashboards, user behavior tracking, and data encryption.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/databuddy-analytics/Databuddy?embed=0\">View Project</a>\n• <a href=\"https://www.databuddy.cc?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/946945328/3869d287-abe0-4851-a5ae-3aa5b827cf5e",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 262296122,
+        "content": "🔥 <b>PaddleOCR</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting images and PDF documents into structured data for AI applications, especially for use with Large Language Models (LLMs).\n<br>\n✨ <b>Key Features:</b>\n• OCR (Optical Character Recognition)\n• Document Parsing\n• PDF to Markdown conversion\n• Key Information Extraction (KIE)\n• Document Translation\n<br>\n📖 <b>Summary:</b>\nPaddleOCR is a powerful and lightweight OCR toolkit designed to convert images and PDF documents into structured data suitable for AI applications, particularly Large Language Models (LLMs). It supports over 100 languages and offers functionalities like document parsing, translation, and key information extraction (KIE).\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/PaddlePaddle/PaddleOCR?embed=0\">View Project</a>\n• <a href=\"https://www.paddleocr.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f95f2a0416c757d739d08e682ee7f47a4f437a174782782a8e204a0a9af10273/PaddlePaddle/PaddleOCR",
+        "platform": "telegram",
+        "quality_score": 1.1000000000000003
+    },
+    {
+        "project_id": 1056341464,
+        "content": "🔥 <b>RustGPT</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nEducational demonstration of building a transformer-based language model from scratch in Rust.\n<br>\n✨ <b>Key Features:</b>\n• Pre-training on factual text completion\n• Instruction tuning for conversational AI\n• Interactive chat mode for testing\n• Full backpropagation with gradient clipping\n• Modular architecture with clean separation of concerns\n<br>\n📖 <b>Summary:</b>\nRustGPT is a project that demonstrates building a transformer-based language model from scratch in Rust, without relying on external ML frameworks. It includes pre-training, instruction tuning, interactive chat mode, and full backpropagation, showcasing a modular architecture for educational purposes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tekaratzas/RustGPT?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/80449050d5e5ff8f795263639b5404ddbb1fc43edeb28c141dd52d1c4c819c9b/tekaratzas/RustGPT",
         "platform": "telegram",
         "quality_score": 0.95
-    },
-    {
-        "project_id": 982374393,
-        "content": "🔥 <b>ROMA</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding high-performance multi-agent systems.\n<br>\n✨ <b>Key Features:</b>\n• Meta-agent framework\n• Recursive agent architecture\n• Hierarchical multi-agent systems\n<br>\n📖 <b>Summary:</b>\nROMA (Recursive-Open-Meta-Agent) is a Python framework designed to simplify the creation of high-performance multi-agent systems. It focuses on enabling hierarchical agent architectures, allowing developers to build complex systems with relative ease. The framework is currently in Beta.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sentient-agi/ROMA?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ff37acedd510eadb155a1384abe49d907246b262b2f356f9e54e92ecbc637f24/sentient-agi/ROMA",
-        "platform": "telegram",
-        "quality_score": 0.9
-    },
-    {
-        "project_id": 826515105,
-        "content": "🚀 <b>codebuff</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated code modification and refactoring using natural language commands.\n<br>\n✨ <b>Key Features:</b>\n• Natural language code editing\n• Multi-agent system for code understanding and modification\n• CLI tool for installation and usage\n• Customizable agents for specific workflows\n• Support for TypeScript agent development\n<br>\n📖 <b>Summary:</b>\nCodebuff is an open-source AI coding assistant that edits codebases through natural language instructions. It uses a multi-agent system to understand projects and make precise changes, coordinating specialized agents for tasks like file exploration, planning, editing, and reviewing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/CodebuffAI/codebuff?embed=0\">View Project</a>\n• <a href=\"https://codebuff.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9b5c9deac176f84b034ba9367bc62c8d4d221b4b3533d115a274e86d712d945b/CodebuffAI/codebuff",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1051417673,
-        "content": "🚀 <b>desktop-tui</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a functional desktop environment within a terminal, suitable for users who prefer text-based interfaces or need to run applications on systems without graphical support.\n<br>\n✨ <b>Key Features:</b>\n• Parse shortcut files containing apps\n• Display any application or command that uses stdout\n• Change tilling options\n• Can let the user select a file or a folder to use its path as a command argument\n• Clock\n<br>\n📖 <b>Summary:</b>\nThe desktop-tui repository provides a text-based user interface (TUI) desktop environment, functioning similarly to tmux but as a complete desktop replacement. It allows users to run and manage applications within a terminal-based environment, offering features like shortcut configuration, window management, and custom commands.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Julien-cpsn/desktop-tui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5a0b0ba10c0f668c3a4452631dae4305956b33c8039b87c40fe09811ef4e34de/Julien-cpsn/desktop-tui",
-        "platform": "telegram",
-        "quality_score": 0.6
     }
 ]
