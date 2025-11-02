@@ -1,0 +1,7 @@
+{
+    "project_id": 1070757744,
+    "content": "✨ <b>ssh-bot</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nExecuting commands on and managing files on remote hosts via Telegram.\n<br>\n✨ <b>Key Features:</b>\n• Executing commands in local or remote (via SSH) environment\n• Output streaming for long-running commands\n• Pseudo-terminal (PTY) support for interactive programs\n• Ability to forcibly stop running remote commands\n• Support for parallel (asynchronous) command execution\n<br>\n📖 <b>Summary:</b>\nThe ssh-bot is a Telegram bot written in Go that allows users to execute commands on remote hosts via SSH. It supports features like persistent SSH connections, real-time output streaming, PTY support, SFTP for file management, and dynamic host management, providing a convenient alternative to VPNs and dedicated SSH clients.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rand1l/ssh-bot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/a5b6832e87687766df150d46dd48214f9bc8f5823bb6d19600417269d2e85ac1/rand1l/ssh-bot",
+    "platform": "telegram",
+    "quality_score": 0.7499999999999999
+}

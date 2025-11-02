@@ -1,51 +1,58 @@
 [
     {
-        "project_id": 416713458,
-        "content": "🔥 <b>gridplayer</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying multiple videos side-by-side for comparison, monitoring, or entertainment purposes.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform support (Linux, Mac, Windows)\n• Support for any video and audio format (VLC)\n• Support for streaming URLs (streamlink + yt-dlp)\n• Hardware & software video decoding\n• Control video aspect, playback speed, zoom\n<br>\n📖 <b>Summary:</b>\nGridPlayer is a VLC-based media player that allows users to play multiple videos simultaneously in a configurable grid layout. It supports various video and audio formats, streaming URLs, and offers features like hardware/software decoding, aspect ratio control, and playlist saving with retained settings.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vzhd1701/gridplayer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/416713458/b4ee05fd-ac4e-4710-bb0e-a6a1152fc3f6",
+        "project_id": 1072539730,
+        "content": "🌟 <b>chandra</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting images and PDFs into structured, machine-readable formats while preserving layout.\n<br>\n✨ <b>Key Features:</b>\n• Convert documents to markdown, html, or json with detailed layout information\n• Good handwriting support\n• Reconstructs forms accurately, including checkboxes\n• Good support for tables, math, and complex layouts\n• Extracts images and diagrams, with captions and structured data\n<br>\n📖 <b>Summary:</b>\nChandra is an OCR model that converts images and PDFs into structured data formats like HTML, Markdown, or JSON, preserving layout information. It supports handwriting, forms, tables, math, and complex layouts, and offers both local (HuggingFace) and remote (vLLM server) inference modes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/datalab-to/chandra?embed=0\">View Project</a>\n• <a href=\"https://www.datalab.to?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/645e12b0840d0f5dc8b1dffc27ccad50d2530744e362fb39fdf4976d4bab92bf/datalab-to/chandra",
+        "platform": "telegram",
+        "quality_score": 0.6499999999999999
+    },
+    {
+        "project_id": 1015274353,
+        "content": "🚀 <b>code-sandbox-mcp</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling AI assistants and LLM applications to safely execute code snippets.\n<br>\n✨ <b>Key Features:</b>\n• Secure code execution in isolated containers\n• Support for Python and JavaScript code\n• Integration with Model Context Protocol (MCP) clients\n• Ability to pass environment variables to the sandbox\n• Support for custom container images\n<br>\n📖 <b>Summary:</b>\nThe Code Sandbox MCP Server is a lightweight server that allows AI assistants and LLM applications to safely execute code snippets using containerized environments. It leverages the llm-sandbox package to execute code, supporting languages like Python and JavaScript, and returns the output and error streams to the client.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/philschmid/code-sandbox-mcp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3ea8fa0904075f54c1a344bfabf5cceaa27fbfcb514ab6a9967090130827e5cc/philschmid/code-sandbox-mcp",
+        "platform": "telegram",
+        "quality_score": 0.25
+    },
+    {
+        "project_id": 68232444,
+        "content": "🚀 <b>leocad</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nDesigning and building virtual LEGO models.\n<br>\n✨ <b>Key Features:</b>\n• Virtual LEGO model creation\n• Cross-platform compatibility (Windows, Linux, macOS)\n• OpenGL hardware acceleration for rendering\n• Parts Library support\n• Multiple installation methods on Linux (Snap, AppImage, Flatpak, Source)\n<br>\n📖 <b>Summary:</b>\nLeoCAD is a CAD (Computer-Aided Design) application specifically designed for creating virtual LEGO models. It offers a free and open-source solution for users to design and build LEGO creations on Windows, Linux, and macOS operating systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/leozide/leocad?embed=0\">View Project</a>\n• <a href=\"https://www.leocad.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/cd3f845ab6f16d5a454df09efafe0b8b19cfc6bcaa02cae77e25e1c721834eff/leozide/leocad",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 958273723,
+        "content": "💡 <b>every-pdf</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nDesktop PDF editing, conversion, merging, and securing.\n<br>\n✨ <b>Key Features:</b>\n• PDF Editor\n• Convert PDF\n• Split Pages\n• Merge Files\n• Watermark\n<br>\n📖 <b>Summary:</b>\nThe repository hosts Every PDF, a cross-platform desktop application built with Electron, Next.js, and Python. It provides a comprehensive toolkit for PDF editing, conversion, merging, and security, offering features ranging from basic document tasks to professional-level editing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DDULDDUCK/every-pdf?embed=0\">View Project</a>\n• <a href=\"https://github.com/DDULDDUCK/every-pdf/releases?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/71e6b297a0019b5132ce83e0c040b0aa6450f0cf143b25952d56ec656ab7220e/DDULDDUCK/every-pdf",
         "platform": "telegram",
         "quality_score": 0.65
     },
     {
-        "project_id": 1084395359,
-        "content": "🔥 <b>share</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely transferring files between two or more parties, either through a web browser or via the command line.\n<br>\n✨ <b>Key Features:</b>\n• End-to-end encryption (E2EE) using ECDH P-256 and AES-GCM\n• Web interface for file sharing\n• Command-line interface (CLI) for file transfer\n• Self-hostable relay server option\n<br>\n📖 <b>Summary:</b>\nThe 'share' repository provides a simple way to transfer files between machines using end-to-end encryption. It offers both a web interface and a command-line interface (CLI) for sending and receiving files, ensuring secure peer-to-peer connections through a relay server.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/schollz/share?embed=0\">View Project</a>\n• <a href=\"https://share.schollz.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/136fa13daf1ff83896d4131172079f60d1c639d4596a85dd7fd97025b1b0e454/schollz/share",
+        "project_id": 60667730,
+        "content": "💡 <b>lvgl</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating graphical user interfaces (GUIs) for embedded systems, including MCUs and MPUs.\n<br>\n✨ <b>Key Features:</b>\n• Free and Portable (MIT License)\n• Written in C (C++ compatible)\n• No external dependencies\n• 30+ built-in Widgets\n• Flexible Style system\n<br>\n📖 <b>Summary:</b>\nLVGL is a free and open-source graphics library written in C, designed for creating embedded graphical user interfaces (GUIs) on microcontrollers (MCUs) and microprocessors (MPUs). It offers a wide range of widgets, styling options, and layout features, making it suitable for various display types and platforms with minimal resource requirements.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lvgl/lvgl?embed=0\">View Project</a>\n• <a href=\"https://lvgl.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/652192175a4d4000f2db7bd771d64297e138b5d51a1bd0af75273e1f5f951258/lvgl/lvgl",
+        "platform": "telegram",
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 628160489,
+        "content": "🔥 <b>SimpMusic</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying music from YouTube Music on Android devices with added features like ad-blocking, offline playback, and synced lyrics.\n<br>\n✨ <b>Key Features:</b>\n• Play music from YouTube Music or YouTube without ads\n• Browse Home, Charts, Podcast, Moods & Genre with YouTube Music data\n• Search everything on YouTube\n<br>\n📖 <b>Summary:</b>\nSimpMusic is a free and open-source Android music player that utilizes YouTube Music as its backend. It offers features like ad-free background playback, browsing YouTube Music content, offline playback, synced lyrics, and support for SponsorBlock and Return YouTube Dislike, aiming to provide a comprehensive music listening experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/maxrave-dev/SimpMusic?embed=0\">View Project</a>\n• <a href=\"https://simpmusic.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/628160489/d1caf378-9996-45bd-aad8-360494ce98be",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 574033594,
-        "content": "💡 <b>mirotalkc2c</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling secure, real-time video communication and screen sharing directly within websites without relying on third-party services.\n<br>\n✨ <b>Key Features:</b>\n• Real-time cam-2-cam video calls\n• Screen sharing\n• End-to-end encryption\n• Embeddable via iframe\n• Self-hosted\n<br>\n📖 <b>Summary:</b>\nMiroTalk C2C is a WebRTC-based application for real-time cam-2-cam video calls and screen sharing. It offers end-to-end encryption and can be embedded into any website using a simple iframe, providing a self-hosted solution for low-latency, peer-to-peer communication.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/miroslavpejic85/mirotalkc2c?embed=0\">View Project</a>\n• <a href=\"https://c2c.mirotalk.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/574033594/e4de5b17-9152-474f-a25e-37294243bd19",
+        "project_id": 1028391416,
+        "content": "✨ <b>duelr</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEvaluating and comparing LLM responses across different providers based on latency, cost, and quality metrics.\n<br>\n✨ <b>Key Features:</b>\n• Parallel Comparison\n• Comprehensive Metrics\n• Quality Scoring\n• Cost Transparency\n• Extensible\n<br>\n📖 <b>Summary:</b>\nDuelr is an open-source tool for comparing the performance and quality of different Large Language Models (LLMs). It allows users to test multiple LLMs simultaneously, tracking metrics like latency, token usage, cost, and quality scores for length simplicity, readability, and JSON validity, facilitating informed decisions about LLM selection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/stashlabs/duelr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e6f153c4e348ef424e42490a9e282bea9aad1c788bd09b9f42a84affc4445f2c/stashlabs/duelr",
         "platform": "telegram",
-        "quality_score": 1.0
+        "quality_score": 0.4
     },
     {
-        "project_id": 1050515012,
-        "content": "🌟 <b>map-anything</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n3D reconstruction from various inputs using a single feed-forward model.\n<br>\n✨ <b>Key Features:</b>\n• Universal feed-forward metric 3D reconstruction\n• Supports multi-image structure from motion (SFM)\n• Supports multi-view stereo\n• Supports monocular metric depth estimation\n• Supports registration\n<br>\n📖 <b>Summary:</b>\nMapAnything is a transformer model for metric 3D reconstruction. It takes various inputs like images, calibration data, and poses to directly regress the 3D geometry of a scene. The model supports multiple 3D reconstruction tasks, including multi-image structure from motion, multi-view stereo, and monocular depth estimation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/facebookresearch/map-anything?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8eed5405bfaae993c76d61430c24b5382ac9ff3c42aae4662092c4f8ef3d396f/facebookresearch/map-anything",
+        "project_id": 1070757744,
+        "content": "✨ <b>ssh-bot</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nExecuting commands on and managing files on remote hosts via Telegram.\n<br>\n✨ <b>Key Features:</b>\n• Executing commands in local or remote (via SSH) environment\n• Output streaming for long-running commands\n• Pseudo-terminal (PTY) support for interactive programs\n• Ability to forcibly stop running remote commands\n• Support for parallel (asynchronous) command execution\n<br>\n📖 <b>Summary:</b>\nThe ssh-bot is a Telegram bot written in Go that allows users to execute commands on remote hosts via SSH. It supports features like persistent SSH connections, real-time output streaming, PTY support, SFTP for file management, and dynamic host management, providing a convenient alternative to VPNs and dedicated SSH clients.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rand1l/ssh-bot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a5b6832e87687766df150d46dd48214f9bc8f5823bb6d19600417269d2e85ac1/rand1l/ssh-bot",
         "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 946945328,
-        "content": "🌟 <b>Databuddy</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nPrivacy-focused web analytics and data management for web applications, ensuring GDPR compliance.\n<br>\n✨ <b>Key Features:</b>\n• Real-time analytics dashboard\n• User behavior tracking\n• Secure authentication\n• Multi-tenant support\n• Goal tracking\n<br>\n📖 <b>Summary:</b>\nDatabuddy is a privacy-first analytics platform designed to provide real-time analytics, user tracking, and data visualization capabilities for web applications. It emphasizes GDPR compliance and secure data handling, offering features like real-time dashboards, user behavior tracking, and data encryption.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/databuddy-analytics/Databuddy?embed=0\">View Project</a>\n• <a href=\"https://www.databuddy.cc?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/946945328/3869d287-abe0-4851-a5ae-3aa5b827cf5e",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 262296122,
-        "content": "🔥 <b>PaddleOCR</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting images and PDF documents into structured data for AI applications, especially for use with Large Language Models (LLMs).\n<br>\n✨ <b>Key Features:</b>\n• OCR (Optical Character Recognition)\n• Document Parsing\n• PDF to Markdown conversion\n• Key Information Extraction (KIE)\n• Document Translation\n<br>\n📖 <b>Summary:</b>\nPaddleOCR is a powerful and lightweight OCR toolkit designed to convert images and PDF documents into structured data suitable for AI applications, particularly Large Language Models (LLMs). It supports over 100 languages and offers functionalities like document parsing, translation, and key information extraction (KIE).\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/PaddlePaddle/PaddleOCR?embed=0\">View Project</a>\n• <a href=\"https://www.paddleocr.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f95f2a0416c757d739d08e682ee7f47a4f437a174782782a8e204a0a9af10273/PaddlePaddle/PaddleOCR",
-        "platform": "telegram",
-        "quality_score": 1.1000000000000003
-    },
-    {
-        "project_id": 1056341464,
-        "content": "🔥 <b>RustGPT</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nEducational demonstration of building a transformer-based language model from scratch in Rust.\n<br>\n✨ <b>Key Features:</b>\n• Pre-training on factual text completion\n• Instruction tuning for conversational AI\n• Interactive chat mode for testing\n• Full backpropagation with gradient clipping\n• Modular architecture with clean separation of concerns\n<br>\n📖 <b>Summary:</b>\nRustGPT is a project that demonstrates building a transformer-based language model from scratch in Rust, without relying on external ML frameworks. It includes pre-training, instruction tuning, interactive chat mode, and full backpropagation, showcasing a modular architecture for educational purposes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tekaratzas/RustGPT?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/80449050d5e5ff8f795263639b5404ddbb1fc43edeb28c141dd52d1c4c819c9b/tekaratzas/RustGPT",
-        "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 0.7499999999999999
     }
 ]
