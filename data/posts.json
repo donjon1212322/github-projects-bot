@@ -1,58 +1,58 @@
 [
     {
-        "project_id": 1072539730,
-        "content": "🌟 <b>chandra</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConverting images and PDFs into structured, machine-readable formats while preserving layout.\n<br>\n✨ <b>Key Features:</b>\n• Convert documents to markdown, html, or json with detailed layout information\n• Good handwriting support\n• Reconstructs forms accurately, including checkboxes\n• Good support for tables, math, and complex layouts\n• Extracts images and diagrams, with captions and structured data\n<br>\n📖 <b>Summary:</b>\nChandra is an OCR model that converts images and PDFs into structured data formats like HTML, Markdown, or JSON, preserving layout information. It supports handwriting, forms, tables, math, and complex layouts, and offers both local (HuggingFace) and remote (vLLM server) inference modes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/datalab-to/chandra?embed=0\">View Project</a>\n• <a href=\"https://www.datalab.to?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/645e12b0840d0f5dc8b1dffc27ccad50d2530744e362fb39fdf4976d4bab92bf/datalab-to/chandra",
-        "platform": "telegram",
-        "quality_score": 0.6499999999999999
-    },
-    {
-        "project_id": 1015274353,
-        "content": "🚀 <b>code-sandbox-mcp</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling AI assistants and LLM applications to safely execute code snippets.\n<br>\n✨ <b>Key Features:</b>\n• Secure code execution in isolated containers\n• Support for Python and JavaScript code\n• Integration with Model Context Protocol (MCP) clients\n• Ability to pass environment variables to the sandbox\n• Support for custom container images\n<br>\n📖 <b>Summary:</b>\nThe Code Sandbox MCP Server is a lightweight server that allows AI assistants and LLM applications to safely execute code snippets using containerized environments. It leverages the llm-sandbox package to execute code, supporting languages like Python and JavaScript, and returns the output and error streams to the client.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/philschmid/code-sandbox-mcp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3ea8fa0904075f54c1a344bfabf5cceaa27fbfcb514ab6a9967090130827e5cc/philschmid/code-sandbox-mcp",
-        "platform": "telegram",
-        "quality_score": 0.25
-    },
-    {
-        "project_id": 68232444,
-        "content": "🚀 <b>leocad</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nDesigning and building virtual LEGO models.\n<br>\n✨ <b>Key Features:</b>\n• Virtual LEGO model creation\n• Cross-platform compatibility (Windows, Linux, macOS)\n• OpenGL hardware acceleration for rendering\n• Parts Library support\n• Multiple installation methods on Linux (Snap, AppImage, Flatpak, Source)\n<br>\n📖 <b>Summary:</b>\nLeoCAD is a CAD (Computer-Aided Design) application specifically designed for creating virtual LEGO models. It offers a free and open-source solution for users to design and build LEGO creations on Windows, Linux, and macOS operating systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/leozide/leocad?embed=0\">View Project</a>\n• <a href=\"https://www.leocad.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/cd3f845ab6f16d5a454df09efafe0b8b19cfc6bcaa02cae77e25e1c721834eff/leozide/leocad",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 958273723,
-        "content": "💡 <b>every-pdf</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nDesktop PDF editing, conversion, merging, and securing.\n<br>\n✨ <b>Key Features:</b>\n• PDF Editor\n• Convert PDF\n• Split Pages\n• Merge Files\n• Watermark\n<br>\n📖 <b>Summary:</b>\nThe repository hosts Every PDF, a cross-platform desktop application built with Electron, Next.js, and Python. It provides a comprehensive toolkit for PDF editing, conversion, merging, and security, offering features ranging from basic document tasks to professional-level editing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DDULDDUCK/every-pdf?embed=0\">View Project</a>\n• <a href=\"https://github.com/DDULDDUCK/every-pdf/releases?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/71e6b297a0019b5132ce83e0c040b0aa6450f0cf143b25952d56ec656ab7220e/DDULDDUCK/every-pdf",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 60667730,
-        "content": "💡 <b>lvgl</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating graphical user interfaces (GUIs) for embedded systems, including MCUs and MPUs.\n<br>\n✨ <b>Key Features:</b>\n• Free and Portable (MIT License)\n• Written in C (C++ compatible)\n• No external dependencies\n• 30+ built-in Widgets\n• Flexible Style system\n<br>\n📖 <b>Summary:</b>\nLVGL is a free and open-source graphics library written in C, designed for creating embedded graphical user interfaces (GUIs) on microcontrollers (MCUs) and microprocessors (MPUs). It offers a wide range of widgets, styling options, and layout features, making it suitable for various display types and platforms with minimal resource requirements.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lvgl/lvgl?embed=0\">View Project</a>\n• <a href=\"https://lvgl.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/652192175a4d4000f2db7bd771d64297e138b5d51a1bd0af75273e1f5f951258/lvgl/lvgl",
-        "platform": "telegram",
-        "quality_score": 0.95
-    },
-    {
-        "project_id": 628160489,
-        "content": "🔥 <b>SimpMusic</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying music from YouTube Music on Android devices with added features like ad-blocking, offline playback, and synced lyrics.\n<br>\n✨ <b>Key Features:</b>\n• Play music from YouTube Music or YouTube without ads\n• Browse Home, Charts, Podcast, Moods & Genre with YouTube Music data\n• Search everything on YouTube\n<br>\n📖 <b>Summary:</b>\nSimpMusic is a free and open-source Android music player that utilizes YouTube Music as its backend. It offers features like ad-free background playback, browsing YouTube Music content, offline playback, synced lyrics, and support for SponsorBlock and Return YouTube Dislike, aiming to provide a comprehensive music listening experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/maxrave-dev/SimpMusic?embed=0\">View Project</a>\n• <a href=\"https://simpmusic.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/628160489/d1caf378-9996-45bd-aad8-360494ce98be",
+        "project_id": 1016513439,
+        "content": "🔥 <b>ais</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide real-time, AI-driven assistance within the terminal environment, helping users understand and resolve command errors, and learn related concepts.\n<br>\n✨ <b>Key Features:</b>\n• Intelligent Error Analysis (Automatic detection, Context awareness, Personalized suggestions, Safety levels)\n• Intelligent Learning System (Interactive teaching, Topic learning, Progressive content, Practice-oriented)\n<br>\n📖 <b>Summary:</b>\nAIS is an AI-powered terminal assistant that analyzes command failures and provides intelligent explanations and solutions. It integrates deeply with the shell to offer context-aware assistance, aiming to improve problem-solving efficiency and accelerate skill development for developers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kangvcar/ais?embed=0\">View Project</a>\n• <a href=\"https://kangvcar.github.io/ais/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/460dfbe233e360b0143749038d1c3c756eea2542bf85f21092ea2c55a6c9d1b0/kangvcar/ais",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 1028391416,
-        "content": "✨ <b>duelr</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEvaluating and comparing LLM responses across different providers based on latency, cost, and quality metrics.\n<br>\n✨ <b>Key Features:</b>\n• Parallel Comparison\n• Comprehensive Metrics\n• Quality Scoring\n• Cost Transparency\n• Extensible\n<br>\n📖 <b>Summary:</b>\nDuelr is an open-source tool for comparing the performance and quality of different Large Language Models (LLMs). It allows users to test multiple LLMs simultaneously, tracking metrics like latency, token usage, cost, and quality scores for length simplicity, readability, and JSON validity, facilitating informed decisions about LLM selection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/stashlabs/duelr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e6f153c4e348ef424e42490a9e282bea9aad1c788bd09b9f42a84affc4445f2c/stashlabs/duelr",
+        "project_id": 1013542777,
+        "content": "✨ <b>subarr</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating actions based on new YouTube uploads from subscribed channels/playlists.\n<br>\n✨ <b>Key Features:</b>\n• YouTube channel/playlist monitoring\n• Webhook notifications on new uploads\n• Process execution on new uploads (e.g., yt-dlp)\n• Lightweight resource usage (suitable for Raspberry Pi)\n• RSS subscription based\n<br>\n📖 <b>Summary:</b>\nSubarr is a lightweight JavaScript application designed to monitor YouTube channels and playlists for new video uploads. It allows users to define actions, such as sending webhooks or executing processes (like downloading via yt-dlp), when new content is detected, providing a Sonarr-like experience for YouTube subscriptions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/derekantrican/subarr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/800fc48af87bcbb3dddf223601764a3bc9747c0f7ae0c29c376e03a5fa6e44f5/derekantrican/subarr",
         "platform": "telegram",
-        "quality_score": 0.4
+        "quality_score": 0.55
     },
     {
-        "project_id": 1070757744,
-        "content": "✨ <b>ssh-bot</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nExecuting commands on and managing files on remote hosts via Telegram.\n<br>\n✨ <b>Key Features:</b>\n• Executing commands in local or remote (via SSH) environment\n• Output streaming for long-running commands\n• Pseudo-terminal (PTY) support for interactive programs\n• Ability to forcibly stop running remote commands\n• Support for parallel (asynchronous) command execution\n<br>\n📖 <b>Summary:</b>\nThe ssh-bot is a Telegram bot written in Go that allows users to execute commands on remote hosts via SSH. It supports features like persistent SSH connections, real-time output streaming, PTY support, SFTP for file management, and dynamic host management, providing a convenient alternative to VPNs and dedicated SSH clients.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rand1l/ssh-bot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a5b6832e87687766df150d46dd48214f9bc8f5823bb6d19600417269d2e85ac1/rand1l/ssh-bot",
+        "project_id": 805597821,
+        "content": "🔥 <b>sig</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ynqa/sig?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3d369f318f8e66bcb5a6ca5cb97722dd8e6429f6cda473f244013f54581f48e7/ynqa/sig",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 1040280323,
+        "content": "🚀 <b>gonzo</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/control-theory/gonzo?embed=0\">View Project</a>\n• <a href=\"https://www.controltheory.com/gonzo/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7b3b2d6cc6f83ceeba3dc24eeba57880796d94e8ecf01d8b5fa21edff59239ff/control-theory/gonzo",
         "platform": "telegram",
         "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 94173064,
+        "content": "💡 <b>filestash</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mickael-kerjean/filestash?embed=0\">View Project</a>\n• <a href=\"https://www.filestash.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/94173064/dfcaf300-719b-11e9-8f9d-cbfb4152e228",
+        "platform": "telegram",
+        "quality_score": 0.9000000000000001
+    },
+    {
+        "project_id": 1006445678,
+        "content": "🌟 <b>unhype</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nNeutralizing sensationalized or clickbait headlines on web pages to provide a more objective browsing experience.\n<br>\n✨ <b>Key Features:</b>\n• Unhypes/neutralizes web page headers\n• Configurable CSS selectors for content processing\n• Integration with multiple LLM providers (Ollama, OpenRouter, Mistral AI)\n• LLM connection status indicator\n• Manual installation option via zip archive\n<br>\n📖 <b>Summary:</b>\nThe unhype browser extension neutralizes or 'unhypes' clickbait-style headers on web pages. It allows users to configure which elements on a page are processed using CSS selectors and connects to an LLM to rewrite the selected text in a more neutral tone. The extension supports multiple LLM providers, including Ollama, OpenRouter, and Mistral AI.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/av/unhype?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0d0539baa2f6cd928b532a6b7612cbce566695ea69578750a87906f25994b5c3/av/unhype",
+        "platform": "telegram",
+        "quality_score": 0.25
+    },
+    {
+        "project_id": 1027643050,
+        "content": "🚀 <b>ScreenCoder</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating HTML/CSS code from UI screenshots or design mockups for rapid prototyping or building pixel-perfect interfaces.\n<br>\n✨ <b>Key Features:</b>\n• Transforms UI screenshots into HTML/CSS code\n• Modular multi-agent architecture\n• Visual understanding\n• Layout planning\n• Adaptive code synthesis\n<br>\n📖 <b>Summary:</b>\nScreenCoder is an intelligent UI-to-code generation system that transforms UI screenshots or design mockups into clean, production-ready HTML/CSS code. It uses a modular multi-agent architecture, combining visual understanding, layout planning, and adaptive code synthesis to produce accurate and editable front-end code, allowing for customized modifications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/leigest519/ScreenCoder?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8998b90d8ad23b043f55fc82b798deeede59d61ca899edc6619dc7a669b3c9ee/leigest519/ScreenCoder",
+        "platform": "telegram",
+        "quality_score": 0.9000000000000001
+    },
+    {
+        "project_id": 569919499,
+        "content": "🔥 <b>TGConvertor</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nazar220160/TGConvertor?embed=0\">View Project</a>\n• <a href=\"https://digital-flow.me?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/569919499/6f17e589-d63f-48da-b8f4-0a1d606754ca",
+        "platform": "telegram",
+        "quality_score": 1.1
     }
 ]
