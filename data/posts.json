@@ -1,58 +1,37 @@
 [
     {
-        "project_id": 1016513439,
-        "content": "🔥 <b>ais</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide real-time, AI-driven assistance within the terminal environment, helping users understand and resolve command errors, and learn related concepts.\n<br>\n✨ <b>Key Features:</b>\n• Intelligent Error Analysis (Automatic detection, Context awareness, Personalized suggestions, Safety levels)\n• Intelligent Learning System (Interactive teaching, Topic learning, Progressive content, Practice-oriented)\n<br>\n📖 <b>Summary:</b>\nAIS is an AI-powered terminal assistant that analyzes command failures and provides intelligent explanations and solutions. It integrates deeply with the shell to offer context-aware assistance, aiming to improve problem-solving efficiency and accelerate skill development for developers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kangvcar/ais?embed=0\">View Project</a>\n• <a href=\"https://kangvcar.github.io/ais/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/460dfbe233e360b0143749038d1c3c756eea2542bf85f21092ea2c55a6c9d1b0/kangvcar/ais",
+        "project_id": 695473735,
+        "content": "💡 <b>daktilo</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing the typing experience with typewriter sound effects.\n<br>\n✨ <b>Key Features:</b>\n• Typewriter sound emulation on keypress\n• Customizable sound presets\n• Command-line interface\n• Support for various platforms\n<br>\n📖 <b>Summary:</b>\nThe daktilo repository provides a command-line program written in Rust that emulates typewriter sounds upon keyboard key presses. It allows users to customize the keypress sounds using built-in sound presets, offering a fun and nostalgic typing experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/orhun/daktilo?embed=0\">View Project</a>\n• <a href=\"https://daktilo.cli.rs/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/695473735/cdc55c61-44d3-4428-a677-0a4f1700cc01",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 1013542777,
-        "content": "✨ <b>subarr</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating actions based on new YouTube uploads from subscribed channels/playlists.\n<br>\n✨ <b>Key Features:</b>\n• YouTube channel/playlist monitoring\n• Webhook notifications on new uploads\n• Process execution on new uploads (e.g., yt-dlp)\n• Lightweight resource usage (suitable for Raspberry Pi)\n• RSS subscription based\n<br>\n📖 <b>Summary:</b>\nSubarr is a lightweight JavaScript application designed to monitor YouTube channels and playlists for new video uploads. It allows users to define actions, such as sending webhooks or executing processes (like downloading via yt-dlp), when new content is detected, providing a Sonarr-like experience for YouTube subscriptions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/derekantrican/subarr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/800fc48af87bcbb3dddf223601764a3bc9747c0f7ae0c29c376e03a5fa6e44f5/derekantrican/subarr",
+        "project_id": 1013147705,
+        "content": "🚀 <b>gamewiki</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding gamers with instant access to game information and AI-powered assistance without leaving the game.\n<br>\n✨ <b>Key Features:</b>\n• One hotkey access (Ctrl+Q) to wiki/AI chat overlay\n• AI Game Expert powered by Google Gemini\n• Support for AI-enhanced and Wiki-supported games\n• Customizable hotkeys and settings\n<br>\n📖 <b>Summary:</b>\nGameWiki is an AI-powered in-game assistant that provides real-time wiki overlay and AI knowledge base for instant answers while gaming. It leverages Google's Gemini API and local knowledge bases to offer smart Q&A services without requiring users to alt-tab out of their games.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rimulu030/gamewiki?embed=0\">View Project</a>\n• <a href=\"https://www.gamewiki.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/cc78a00d4fe1bfaf7c628e067a64dec7934829db7fb6bf0b015e2dc502a5e76d/rimulu030/gamewiki",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.65
     },
     {
-        "project_id": 805597821,
-        "content": "🔥 <b>sig</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ynqa/sig?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3d369f318f8e66bcb5a6ca5cb97722dd8e6429f6cda473f244013f54581f48e7/ynqa/sig",
+        "project_id": 1003531567,
+        "content": "🌟 <b>reddit2shorts</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated creation of short-form video content for platforms like YouTube and TikTok using Reddit posts as source material.\n<br>\n✨ <b>Key Features:</b>\n• Generates YouTube Shorts from Reddit posts\n• Uses text-to-speech (TTS) for audio narration\n• Supports random post selection or specific post ID\n• Allows customization of comments count, TTS engine, background audio/video, and tags\n• Offers upload functionality to YouTube and TikTok\n<br>\n📖 <b>Summary:</b>\nThe `reddit2shorts` repository provides a tool to automatically create YouTube Shorts from Reddit posts. It leverages text-to-speech (TTS) to generate audio from post content and comments, combines it with background video and audio, and optionally uploads the result to YouTube or TikTok.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yogeshdofficial/reddit2shorts?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5e58eba6111c1dfcdb0fb4e98d5c80f5dd725456a243186305a78f6fa5baf15a/yogeshdofficial/reddit2shorts",
         "platform": "telegram",
-        "quality_score": 0.7
+        "quality_score": 0.4
     },
     {
         "project_id": 1040280323,
         "content": "🚀 <b>gonzo</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/control-theory/gonzo?embed=0\">View Project</a>\n• <a href=\"https://www.controltheory.com/gonzo/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7b3b2d6cc6f83ceeba3dc24eeba57880796d94e8ecf01d8b5fa21edff59239ff/control-theory/gonzo",
+        "media_url": "https://opengraph.githubassets.com/99921a5a84a6b815bc260ea7d71b19a6527e70a7aad5c6897800456ae1a278d3/control-theory/gonzo",
         "platform": "telegram",
         "quality_score": 0.7499999999999999
     },
     {
         "project_id": 94173064,
-        "content": "💡 <b>filestash</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mickael-kerjean/filestash?embed=0\">View Project</a>\n• <a href=\"https://www.filestash.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "content": "🌟 <b>filestash</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCentralized file management across multiple storage backends.\n<br>\n✨ <b>Key Features:</b>\n• Sleek, Speedy, Snappy UI\n• Extensible via plugins and a Workflow engine\n• Shared Links with network drive mounting\n• SFTP and S3 access through third-party tools\n• Builtin Music, Video, Image viewers with transcoding and Chromecast support\n<br>\n📖 <b>Summary:</b>\nFilestash is a web-based file manager that provides a Dropbox-like interface for accessing and managing files across various storage backends. It supports protocols like SFTP, S3, WebDAV, Git, and more, offering a unified way to interact with data regardless of its location. It also offers features like shared links, built-in media viewers, and theming.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mickael-kerjean/filestash?embed=0\">View Project</a>\n• <a href=\"https://www.filestash.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
         "media_url": "https://repository-images.githubusercontent.com/94173064/dfcaf300-719b-11e9-8f9d-cbfb4152e228",
         "platform": "telegram",
         "quality_score": 0.9000000000000001
-    },
-    {
-        "project_id": 1006445678,
-        "content": "🌟 <b>unhype</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nNeutralizing sensationalized or clickbait headlines on web pages to provide a more objective browsing experience.\n<br>\n✨ <b>Key Features:</b>\n• Unhypes/neutralizes web page headers\n• Configurable CSS selectors for content processing\n• Integration with multiple LLM providers (Ollama, OpenRouter, Mistral AI)\n• LLM connection status indicator\n• Manual installation option via zip archive\n<br>\n📖 <b>Summary:</b>\nThe unhype browser extension neutralizes or 'unhypes' clickbait-style headers on web pages. It allows users to configure which elements on a page are processed using CSS selectors and connects to an LLM to rewrite the selected text in a more neutral tone. The extension supports multiple LLM providers, including Ollama, OpenRouter, and Mistral AI.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/av/unhype?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0d0539baa2f6cd928b532a6b7612cbce566695ea69578750a87906f25994b5c3/av/unhype",
-        "platform": "telegram",
-        "quality_score": 0.25
-    },
-    {
-        "project_id": 1027643050,
-        "content": "🚀 <b>ScreenCoder</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating HTML/CSS code from UI screenshots or design mockups for rapid prototyping or building pixel-perfect interfaces.\n<br>\n✨ <b>Key Features:</b>\n• Transforms UI screenshots into HTML/CSS code\n• Modular multi-agent architecture\n• Visual understanding\n• Layout planning\n• Adaptive code synthesis\n<br>\n📖 <b>Summary:</b>\nScreenCoder is an intelligent UI-to-code generation system that transforms UI screenshots or design mockups into clean, production-ready HTML/CSS code. It uses a modular multi-agent architecture, combining visual understanding, layout planning, and adaptive code synthesis to produce accurate and editable front-end code, allowing for customized modifications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/leigest519/ScreenCoder?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8998b90d8ad23b043f55fc82b798deeede59d61ca899edc6619dc7a669b3c9ee/leigest519/ScreenCoder",
-        "platform": "telegram",
-        "quality_score": 0.9000000000000001
-    },
-    {
-        "project_id": 569919499,
-        "content": "🔥 <b>TGConvertor</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nazar220160/TGConvertor?embed=0\">View Project</a>\n• <a href=\"https://digital-flow.me?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/569919499/6f17e589-d63f-48da-b8f4-0a1d606754ca",
-        "platform": "telegram",
-        "quality_score": 1.1
     }
 ]

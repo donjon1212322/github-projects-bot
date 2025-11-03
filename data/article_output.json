@@ -1,26 +1,26 @@
 {
-    "title": "Stop Re-Authenticating! Seamlessly Convert Telegram Sessions Between Telethon and Pyrogram with TGConvertor",
-    "article": "If you've ever built a sophisticated Telegram bot or automation script, you know the pain of vendor lock-in, especially when it comes to session files. Switching from Telethon to Pyrogram, or vice versa, usually means manually re-authenticating your account, which is tedious and time-consuming, especially if you manage multiple accounts. This is where TGConvertor steps in as the ultimate workflow savior, eliminating the need to constantly log in again just because you changed libraries. It’s a game-changer for multi-library Telegram development.\n\nTGConvertor is a brilliant, small utility designed specifically to solve this session incompatibility nightmare. It acts as a universal translator for Telegram authorization data, allowing you to fluidly move your session credentials between major Python libraries like Telethon and Pyrogram, and even the native Telegram Desktop format, Tdata. This means zero downtime and zero re-authentication when migrating your tools or experimenting with a new library.\n\nThe magic behind TGConvertor is surprisingly straightforward. A Telegram session is fundamentally built around a universal authorization key and some necessary connection metadata. Instead of trying to read one library's proprietary file format directly into another, TGConvertor strips away the packaging. It extracts this core, universal authorization data and then uses it to construct a perfectly valid session file tailored for your chosen destination format—be it a Pyrogram `.session` file or a Tdata directory structure. This process is handled efficiently by the `SessionManager`, making the conversion reliable and fast.\n\nDevelopers should absolutely care about this tool because of the massive flexibility it provides. Whether you prefer the simplicity of the command-line interface (CLI) for quick, one-off conversions, or you need to integrate session management directly into your Python scripts using the powerful API, TGConvertor handles it all. Need to test if your existing Telethon session works better under Pyrogram? One simple command handles the conversion. Even cooler, it supports converting sessions to and from the Tdata format, opening up possibilities for integrating official desktop client sessions into your automation projects. Furthermore, you can specify the API type (desktop, android, iOS) during conversion, ensuring maximum compatibility for specialized use cases. This is not just a tool; it's a massive productivity boost for anyone serious about Telegram automation who values flexibility and speed.",
+    "title": "Ditch the Protocol Juggling: Filestash Unifies All Your Cloud and Server Storage",
+    "article": "Are you tired of jumping between half a dozen different applications just to manage your files? One client for FTP, another browser tab for Google Drive, a third tool for your S3 buckets, and maybe a command line for your SFTP server? This fragmentation is a massive drain on productivity, and frankly, it’s unnecessary in the modern development landscape. We need a single pane of glass for all our storage needs.\r\n\r\nEnter Filestash. This incredible open-source project is essentially a self-hosted, Dropbox-like file manager designed to be the universal connector for *all* your data sources. Whether your files are sitting on an old-school FTP server, a corporate SMB share, a cutting-edge S3 endpoint, or even within services like Git or Dropbox, Filestash brings them all into one beautiful, responsive web interface. Imagine accessing your entire digital estate from a single browser tab, seamlessly.\r\n\r\nThe magic behind Filestash lies in its highly modular architecture. The core application acts as a sleek frontend, and all the connectivity is handled through specialized plugins, or \"backends.\" This means if you want to connect to a new protocol, you just implement the required interface. This design choice makes Filestash incredibly robust and future-proof. It supports an astonishing array of protocols right out of the box, including SFTP, WebDAV, Git, NFS, and even services like Backblaze B2, Artifactory, and LDAP.\r\n\r\nWhy should developers be excited? Beyond the obvious benefit of centralization, Filestash is built for customization and automation. It features a powerful Workflow engine that lets you automate tasks across your connected storage. Need to process files after upload or integrate with external services? The extensibility is massive. Furthermore, the project includes robust API integration, specifically via its MCP (Message Control Protocol), which even supports LLM integration—opening up fascinating possibilities for intelligent file management and indexing.\r\n\r\nFor those concerned about user experience, Filestash hits the mark. It's fast, works perfectly on both desktop and mobile, and offers theme support that can mimic the look and feel of popular services like Google Drive or Dropbox. This familiarity drastically reduces the learning curve for any team members you onboard. Plus, it goes beyond the browser: it allows you to expose your unified file system via SFTP and S3 gateways, meaning you can use standard third-party tools (like desktop SFTP clients) to interact with data that might actually be sitting on a WebDAV server! This level of protocol translation and unification is a game-changer for complex infrastructure setups. Filestash isn't just a file browser; it's the ultimate file management platform designed to eliminate storage silos and streamline your workflow. It truly delivers on its vision to be the best file management platform ever made.",
     "key_takeaways": [
-        "TGConvertor enables seamless, re-authentication-free conversion of Telegram sessions between Telethon, Pyrogram, Kurigram, and Tdata formats.",
-        "It works by extracting the core, universal authorization key and rebuilding the session structure for the target library format.",
-        "The project offers both a simple command-line interface (CLI) and a flexible Python API for scripting and integration.",
-        "It significantly improves developer workflow when migrating projects or testing across different Telegram Python libraries.",
-        "Supports specifying API types (desktop, mobile, web) during conversion for enhanced compatibility across various client versions."
+        "Filestash is a unified, web-based file manager that centralizes access to dozens of disparate protocols (FTP, SFTP, S3, WebDAV, SMB, Dropbox, etc.).",
+        "Its highly modular, plugin-based architecture enables deep customization, allowing developers to extend functionality and integrate new backends easily.",
+        "Features a powerful Workflow engine for automation and robust API integration (MCP), including support for LLM connections.",
+        "Offers a seamless, familiar user experience with customizable themes that mimic popular cloud storage services like Google Drive and Dropbox.",
+        "Allows third-party tools to access unified storage by providing SFTP and S3 gateway endpoints for protocol translation."
     ],
     "tags": [
-        "Telegram",
-        "Pyrogram",
-        "Telethon",
-        "Session Management",
-        "Python"
+        "File Management",
+        "SFTP",
+        "S3",
+        "WebDAV",
+        "Open Source"
     ],
-    "stars": 100,
-    "forks": 28,
-    "open_issues": 0,
-    "languages": "Python",
-    "readme_summary": null,
-    "project_id": 569919499,
-    "url": "https://github.com/nazar220160/TGConvertor",
-    "description": "Convert Telegram session files between Pyrogram, Kurigram, Telethon and TDATA formats. Simple, fast, and CLI-friendly."
+    "stars": 12982,
+    "forks": 929,
+    "open_issues": 32,
+    "languages": "JavaScript",
+    "readme_summary": "Filestash is a web-based file manager that provides a Dropbox-like interface for accessing and managing files across various storage backends. It supports protocols like SFTP, S3, WebDAV, Git, and more, offering a unified way to interact with data regardless of its location. It also offers features like shared links, built-in media viewers, and theming.",
+    "project_id": 94173064,
+    "url": "https://github.com/mickael-kerjean/filestash",
+    "description": ":file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ..."
 }
