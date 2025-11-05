@@ -1,37 +1,37 @@
 [
     {
-        "project_id": 195263280,
-        "content": "🚀 <b>ArrowDL</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and accelerating downloads of various content types from the web.\n<br>\n✨ <b>Key Features:</b>\n• Download management\n• Cross-platform support (Windows, MacOS, Linux)\n• Web browser integration (Chrome, Firefox, Edge, Safari)\n• Torrent downloading\n• Streaming content downloading\n<br>\n📖 <b>Summary:</b>\nArrowDL is a cross-platform download manager for Windows, MacOS, and Linux. It supports various download types, including standard files, torrents, and streaming content, and integrates with web browsers through extensions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/setvisible/ArrowDL?embed=0\">View Project</a>\n• <a href=\"https://www.arrow-dl.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5ce3622bd8bfb15dc93146048efd6fc78e7a72ccb9f4aa43244d7fbf941404ed/setvisible/ArrowDL",
+        "project_id": 950355259,
+        "content": "✨ <b>davinci-resolve-mcp</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling AI-powered control and automation of DaVinci Resolve through natural language interfaces provided by AI coding assistants.\n<br>\n✨ <b>Key Features:</b>\n• Connects AI coding assistants to DaVinci Resolve\n• Enables querying and controlling DaVinci Resolve through natural language\n• Provides a Model Context Protocol (MCP) server\n• Supports macOS and Windows platforms\n• Offers one-step installation scripts\n<br>\n📖 <b>Summary:</b>\nThe DaVinci Resolve MCP Server acts as a bridge between AI coding assistants (like Cursor and Claude) and DaVinci Resolve. It allows these assistants to query and control DaVinci Resolve using natural language, enabling AI-powered automation and scripting within the video editing software.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/samuelgursky/davinci-resolve-mcp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b0d25aa6f85f127edc1a9f65f6e2d8a75cde4511bc33f3d8c8084a28bc7509a5/samuelgursky/davinci-resolve-mcp",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.55
     },
     {
-        "project_id": 439772085,
-        "content": "🌟 <b>linera-protocol</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding highly scalable, secure, low-latency Web3 applications.\n<br>\n✨ <b>Key Features:</b>\n• Base definitions and cryptography\n• Version management for binaries and services\n• Data structure mapping onto key-value stores\n• Runtime and execution logic for Linera applications\n• Chain management for blocks, certificates, and cross-chain messaging\n<br>\n📖 <b>Summary:</b>\nThe Linera protocol repository provides the core infrastructure for building scalable and secure Web3 applications. It includes crates for base definitions, data storage, execution, chain management, RPC communication, client libraries, and an SDK for developing Linera applications in Rust for the Wasm virtual machine.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/linera-io/linera-protocol?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fd5d8be84e5c155d61282cbac1811ce1dfefe97f484a573a1e9b55c055f0ce3d/linera-io/linera-protocol",
+        "project_id": 121580534,
+        "content": "🌟 <b>docker-firefox</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning Firefox in a containerized environment for simplified deployment and remote access.\n<br>\n✨ <b>Key Features:</b>\n• Dockerized Firefox\n• GUI access via web browser or VNC\n• Configuration via environment variables\n• Data persistence through volumes\n• Security features (SSVNC, Certificates, VNC Password, Web Authentication)\n<br>\n📖 <b>Summary:</b>\nThis repository provides a Docker container for running Firefox. It allows users to access the Firefox GUI through a web browser or VNC client without requiring local installation or configuration. The container encapsulates Firefox and its dependencies, simplifying deployment and management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jlesage/docker-firefox?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a231e84732242e981e921e2430f84f61107eda39e77a2c1801c517e783371a65/jlesage/docker-firefox",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 881755123,
+        "content": "💡 <b>bg-remove</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRemoving backgrounds from images in the browser without server-side processing, prioritizing privacy and offering customization options.\n<br>\n✨ <b>Key Features:</b>\n• One-click background removal for images\n• Custom background color and image selection\n<br>\n📖 <b>Summary:</b>\nThe `bg-remove` repository provides a React + Vite application for removing backgrounds from images directly in the browser. It leverages Transformers.js and machine learning models like RMBG-1.4 and MODNet to process images locally, ensuring privacy and eliminating the need for server-side processing. The application offers features like custom background selection, transparent background downloads, and optional WebGPU acceleration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/addyosmani/bg-remove?embed=0\">View Project</a>\n• <a href=\"https://bg.addy.ie?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/573ccffa1cee4ca4258067ec56b08bacc4f891ec91017bffd7fff60558b97275/addyosmani/bg-remove",
+        "platform": "telegram",
+        "quality_score": 0.45
+    },
+    {
+        "project_id": 982782544,
+        "content": "🚀 <b>rever</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nFinance automation for businesses, focusing on streamlining processes like vendor management, purchase orders, and bill management to improve accuracy and compliance.\n<br>\n✨ <b>Key Features:</b>\n• Vendor Management\n• Purchase Orders (POs)\n• Bill Management & Two-Way Matching\n• Approval Workflows\n• Audit History\n<br>\n📖 <b>Summary:</b>\nRever is an AI-powered finance automation platform designed for modern CFOs. It aims to unify financial systems, elevate control, and enable foresight by providing features like vendor management, purchase order management, bill management with two-way matching, approval workflows, and audit history.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/makerever/rever?embed=0\">View Project</a>\n• <a href=\"https://reverfin.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5df4e531718be597115b2157256f869278ec8b4d672eb14ae6b32cc4057ad22a/makerever/rever",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 276822250,
+        "content": "🚀 <b>kubevela</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying application deployment and management across hybrid and multi-cloud environments.\n<br>\n✨ <b>Key Features:</b>\n• Deployment as Code using workflows and CUE\n• Built-in observability, multi-tenancy, and security support\n• Multi-cloud/hybrid-environments app delivery\n• Lightweight and highly extensible architecture\n<br>\n📖 <b>Summary:</b>\nKubeVela is a modern application delivery platform designed to simplify the deployment and operation of applications across hybrid and multi-cloud environments. It emphasizes deployment as code, built-in observability, and multi-cloud support, while maintaining a lightweight and extensible architecture.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kubevela/kubevela?embed=0\">View Project</a>\n• <a href=\"https://kubevela.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6ba982d7f29a13354f04ec753ba4497583cee8678803b516eb60f6adf4699fd5/kubevela/kubevela",
         "platform": "telegram",
         "quality_score": 0.85
-    },
-    {
-        "project_id": 1030980544,
-        "content": "🌟 <b>aassh</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and quickly connecting to SSH servers using aliases.\n<br>\n✨ <b>Key Features:</b>\n• Security: Designed to work with SSH keys\n• Simple Management: Intuitive command-line interface\n• Fast Connection: Instant access to servers by name\n• Flexible Configuration: Easy editing of connection parameters\n• Easy Installation: Single script for installation and setup\n<br>\n📖 <b>Summary:</b>\naassh is a command-line tool designed to simplify SSH connection management. It allows users to save SSH connection details as named profiles, enabling quick and easy connections to servers without needing to remember IP addresses or complex commands.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/C0dwiz/aassh?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c4d2896dbf1224b8b270d131345c316b882311c84b67e54934fb4031802856f1/C0dwiz/aassh",
-        "platform": "telegram",
-        "quality_score": 0.8
-    },
-    {
-        "project_id": 1044857577,
-        "content": "🌟 <b>Configurator</b> | Haskell\n<br>\n🎯 <b>Primary Use Case:</b>\nParsing and validating configuration files in Haskell applications.\n<br>\n✨ <b>Key Features:</b>\n• Compile-Time Type Safety\n• YAML & JSON Support\n• Intuitive API\n• Automatic Documentation (Future Feature)\n<br>\n📖 <b>Summary:</b>\nConfigurator is a Haskell library for type-safe configuration parsing. It validates application settings at compile time, preventing runtime errors related to configuration. The library leverages Haskell's type system and Template Haskell to treat configuration schemas as first-class citizens.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/C0dwiz/Configurator?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7d2b90f8861b2f81427260bc545bf986334dcd829ce80697e9ed88bc55445c32/C0dwiz/Configurator",
-        "platform": "telegram",
-        "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 945068402,
-        "content": "🔥 <b>super-agent-party</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and deploying intelligent agents to various platforms and integrating them with different tools and services.\n<br>\n✨ <b>Key Features:</b>\n• Seamless capability enhancement of LLMs\n• One-click deployment across multiple channels\n• Ecological tool interconnection\n• Standardized interface opening (OpenAI API compatible)\n<br>\n📖 <b>Summary:</b>\nSuper-agent-party is a 3D AI desktop companion that allows users to enhance LLM APIs without code modification. It supports integration with various platforms like QQ, Bilibili, and tools like Home Assistant and ComfyUI, offering features such as knowledge base integration, real-time networking, and cross-platform capability aggregation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/heshengtao/super-agent-party?embed=0\">View Project</a>\n• <a href=\"https://super-agent-party.github.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/945068402/a6fd5186-347e-467a-bc98-c7e61bf53f42",
-        "platform": "telegram",
-        "quality_score": 0.9
     }
 ]
