@@ -1,26 +1,26 @@
 {
-    "title": "Ditch the Greasy Keyboard: Lazyeat Lets You Control Your PC with Simple Hand Gestures!",
-    "article": "You know that universal dilemma: you’re deep into a delicious, messy meal—maybe pizza, maybe wings—and you’re watching a video on your computer. Suddenly, the phone rings, or the volume is too loud, and you need to interact with your device. Do you smear grease all over your trackpad, or do you reluctantly stop eating to wash your hands just for a two-second adjustment? This is a minor frustration, but it happens every day. This is exactly where Lazyeat swoops in to save the day, offering a truly hands-free computing experience designed for maximum convenience.\n\nLazyeat is essentially a magic layer between your camera and your operating system, designed specifically for situations where your hands are occupied or dirty. Its core function is contactless control. Imagine using your hand in the air, without touching anything, to perform basic commands. It transforms simple, intuitive movements—like a quick wave, a swipe motion, or a simple 'click' gesture—into system inputs such as pausing a video, skipping tracks, or adjusting the volume slider up or down. It’s like having a universal remote control powered by your hands.\n\nThe technology behind Lazyeat is based on robust gesture recognition. It utilizes your existing webcam to track and interpret predefined hand shapes and movements. It’s crucial that this system is reliable and offers low-latency detection of common, easy-to-perform actions. This focus on simplicity means the learning curve is virtually nonexistent. If you can swipe on a phone screen, you can use Lazyeat immediately to interact with your media.\n\nFor developers, this project is exciting because it showcases the power of modern cross-platform frameworks, specifically hinting at Tauri’s capabilities. Being available on both Windows and Mac already, with ambitious plans to expand to Linux, Android, and iOS, demonstrates a strong commitment to broad compatibility and a modern architecture. If you are building applications that could benefit from unique, touchless input methods, Lazyeat provides an excellent real-world example of how to integrate camera input seamlessly across diverse operating systems. It’s a fantastic blueprint for innovative interaction design that feels futuristic and practical.\n\nBeyond gestures, Lazyeat also integrates voice input, providing an extra layer of flexibility. If waving your hands isn't practical at the moment, a simple voice command can achieve the same result. This dual-input approach ensures accessibility and caters to different user environments. It truly elevates the user experience by eliminating minor, repetitive frustrations, allowing us to stay focused on our content and our food without interruption. It’s a small quality-of-life improvement that makes a huge difference in daily computing habits. If you value efficiency and keeping your expensive hardware clean, this tool is a must-try.",
+    "title": "Stop Guessing: Self-Host Your Own Internet Performance Monitor with Speedtest Tracker",
+    "article": "Are you tired of blaming your ISP only to realize you don't have hard data to back up your complaints? We all know the frustration: video calls stutter, downloads crawl, and you suspect your promised gigabit connection is secretly operating at dial-up speeds. That’s where Speedtest Tracker comes in. This fantastic self-hosted application completely removes the guesswork by continuously monitoring your internet connection and providing irrefutable, historical evidence of its performance. It’s essentially a dedicated, automated detective for your home network, ensuring you always know the true state of your bandwidth.\n\nThe core purpose of Speedtest Tracker is simple yet powerful: automation. Instead of manually running a speed test when things feel slow, you set it up once, and it runs scheduled tests automatically, typically using the widely recognized Ookla speed test infrastructure. It captures crucial metrics far beyond just raw download and upload speeds. We're talking detailed data points like ping latency and packet loss—the real indicators of connection quality that often cause frustrating lags in gaming or streaming, even if the raw bandwidth figures look acceptable. This comprehensive data capture ensures you get the full picture of your network health, not just a misleading snapshot.\n\nDeployment is incredibly straightforward, which is why developers should jump on this immediately. The entire application is containerized, meaning if you already use Docker, getting it running is a matter of minutes. Thanks to the official image built by LinuxServer.io, compatibility across various platforms, including NAS systems like Synology and Unraid, is seamless. This ease of installation makes it perfect for integrating into existing home lab setups or production monitoring environments without complex dependency headaches. It truly embraces the 'run anywhere' philosophy of modern containerization.\n\nThe real benefit for developers, especially those running critical self-hosted services or working remotely, lies in its historical tracking and proactive alerting. The application generates a beautiful, informative dashboard where you can visualize performance trends over weeks or months. This historical context is invaluable for spotting intermittent issues that are notoriously hard to troubleshoot, such as nightly slowdowns or performance degradation tied to specific times of the day. You can stop guessing about those mysterious 8 PM dips.\n\nFurthermore, the notification system is a game-changer. You can configure Speedtest Tracker to immediately alert you—via various channels—if your internet performance dips below a user-defined threshold. Imagine getting a push notification the moment your upload speed drops below your SLA requirement. This proactive alerting allows you to contact your provider with concrete evidence instantly, minimizing downtime and ensuring you are getting the service you pay for. For anyone serious about network stability, whether managing a remote team or just optimizing a personal home lab, this project is an essential addition to the monitoring toolkit. It transforms passive frustration into actionable, data-driven insight, saving you time and proving your case to the ISP.",
     "key_takeaways": [
-        "Enables contactless device control using simple camera-based gesture recognition.",
-        "Perfect for situations where hands are dirty or occupied (e.g., eating or cooking).",
-        "Supports flexible input via both intuitive hand gestures and integrated voice commands.",
-        "Built using cross-platform technology (Tauri), ensuring compatibility across Windows and Mac, with future mobile expansion planned.",
-        "Significantly enhances user experience by eliminating the need to repeatedly clean hands to interact with devices."
+        "Speedtest Tracker is a self-hosted, containerized solution for continuous, automated monitoring of internet performance.",
+        "It captures detailed metrics including download/upload speeds, ping, and critical packet loss data.",
+        "The application provides historical data visualization on a dashboard to easily identify long-term performance trends and intermittent issues.",
+        "Developers can leverage proactive notifications to receive instant alerts when connection performance drops below predefined thresholds.",
+        "Easy deployment via Docker makes it ideal for integrating into existing home lab setups and NAS platforms."
     ],
     "tags": [
-        "Gesture Recognition",
-        "Hands-Free Control",
-        "Cross-Platform",
-        "Tauri",
-        "UX Enhancement"
+        "Docker",
+        "Self-Hosted",
+        "Network Monitoring",
+        "Performance Testing",
+        "Home Lab"
     ],
-    "stars": 1371,
-    "forks": 66,
-    "open_issues": 11,
-    "languages": "Vue",
-    "readme_summary": "Lazyeat is a touch-free controller application that utilizes gesture recognition and voice input to allow users to interact with their devices without physical contact. It is designed to be used while eating, preventing greasy hands from touching devices when watching videos or browsing the web.",
-    "project_id": 942672211,
-    "url": "https://github.com/lanxiuyun/lazyeat",
-    "description": "Lazyeat（懒人手势）｜手势隔空控制，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!"
+    "stars": 4479,
+    "forks": 168,
+    "open_issues": 39,
+    "languages": "PHP",
+    "readme_summary": "Speedtest Tracker is a self-hosted application designed to monitor the performance and uptime of an internet connection. It automates speed tests, captures detailed metrics like download/upload speeds and ping, and provides historical data and notifications to identify internet performance issues.",
+    "project_id": 535309783,
+    "url": "https://github.com/alexjustesen/speedtest-tracker",
+    "description": "Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection."
 }

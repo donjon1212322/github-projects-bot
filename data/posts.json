@@ -1,44 +1,51 @@
 [
     {
-        "project_id": 477370194,
-        "content": "🔥 <b>QualityScaler</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing the resolution and visual quality of images and videos using AI-powered upscaling and denoising techniques.\n<br>\n✨ <b>Key Features:</b>\n• Image and Video upscale\n• Multiple GPUs support\n• Compatible images and video formats\n• Automatic image tilling to avoid GPU VRAM limitation\n• Resize image/video before upscaling\n<br>\n📖 <b>Summary:</b>\nQualityScaler is a Windows application developed in Python that leverages AI to enhance the quality of images and videos. It focuses on upscaling, denoising, and reducing compression artifacts, making it suitable for improving the visual fidelity of various media types. The application supports multiple GPUs and offers a user-friendly GUI for image and video processing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Djdefrag/QualityScaler?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f5f4adb8e6b3e18e9e1fbbcf8e3f718570e98d3c9f9f8989e91a9f753a700dbd/Djdefrag/QualityScaler",
+        "project_id": 599778152,
+        "content": "🌟 <b>dline</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and interacting with a calendar from the command line.\n<br>\n✨ <b>Key Features:</b>\n• Dynamic calendar view with color-coded categories and filtering\n• Static monthly calendar view\n• Event calculator for determining workdays between dates\n• Calendar data management (add, delete, update, clean)\n• Import/export events from various sources (TSV, GCA, OHA)\n<br>\n📖 <b>Summary:</b>\ndLine is a command-line calendar tool written in Shell. It allows users to manage events, calculate timespans, and manage multiple calendars directly from the terminal. It offers dynamic and static calendar views, event calculation, and data management features.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jazz-it/dline?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0687cfe873c38f798d14a275d5e8a78919fdf20344fe1e7419327a93fcb6355f/jazz-it/dline",
+        "platform": "telegram",
+        "quality_score": 0.35
+    },
+    {
+        "project_id": 305793798,
+        "content": "🚀 <b>sablier</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nOn-demand starting and automatic stopping of containerized workloads to conserve resources.\n<br>\n✨ <b>Key Features:</b>\n• Supports Docker, Docker Swarm, and Kubernetes\n• Supports Apache APISIX, Caddy, Envoy, Istio, Nginx (NJS Module), Nginx (WASM Module), and Traefik reverse proxies\n• Automatic workload scaling upon first request with themable waiting page and hanging request strategy\n<br>\n📖 <b>Summary:</b>\nSablier is a free and open-source software that automatically starts and stops containerized workloads based on demand and inactivity. It supports Docker, Docker Swarm, and Kubernetes, along with multiple reverse proxies, acting as a serverless platform for your own servers to optimize resource usage.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sablierapp/sablier?embed=0\">View Project</a>\n• <a href=\"https://sablierapp.dev/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/305793798/8f513c66-9139-4da6-9c9d-dff9d63810d4",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 1069037829,
+        "content": "💡 <b>reddix</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nBrowsing and interacting with Reddit from the terminal.\n<br>\n✨ <b>Key Features:</b>\n• image preview based on kitty graphics protocol\n• video playback through mpv's Kitty integration\n• gallery browsing with inline navigation controls\n• multi-account support\n• keyboard first navigation\n<br>\n📖 <b>Summary:</b>\nReddix is a terminal-based Reddit client written in Rust. It provides a refined Reddit experience within the terminal, offering features like image preview, video playback, gallery browsing, multi-account support, and keyboard-first navigation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ck-zhang/reddix?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/43303cbe839d55e2e6dc8c06354a4d3409f71747410260ae05c79151424bd095/ck-zhang/reddix",
         "platform": "telegram",
         "quality_score": 0.75
     },
     {
-        "project_id": 1032808806,
-        "content": "🌟 <b>strix</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDetect and validate critical vulnerabilities in applications.\n<br>\n✨ <b>Key Features:</b>\n• Full hacker toolkit\n• Teams of agents that collaborate and scale\n• Real validation with PoCs\n• Developer-first CLI with actionable reports\n• Auto-fix & reporting\n<br>\n📖 <b>Summary:</b>\nStrix is an open-source AI-powered security tool that uses autonomous agents to find and validate vulnerabilities in applications. It aims to provide fast and accurate security testing by simulating real-world hackers, generating proof-of-concepts, and offering actionable reports for developers and security teams.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/usestrix/strix?embed=0\">View Project</a>\n• <a href=\"https://usestrix.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/be4d8b58261666e57a0bc781c55c2895db723c4d26bb0de7ae66d546d39cb986/usestrix/strix",
+        "project_id": 1043086406,
+        "content": "💡 <b>whitemax</b> | Smali\n<br>\n🎯 <b>Primary Use Case:</b>\nReducing network activity and enhancing the security of the MAX messenger application.\n<br>\n✨ <b>Key Features:</b>\n• Reduces network activity of MAX messenger\n• Provides a secure modification\n• Offers pre-built APK for easy installation\n• Includes instructions for building from source\n<br>\n📖 <b>Summary:</b>\nThe WhiteMAX Mod is a free and secure modification for the MAX messenger app, focused on reducing the application's network activity. It provides a modified APK for direct installation and instructions for building from source using tools like apktool and apksign.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/9ka1gg/whitemax?embed=0\">View Project</a>\n• <a href=\"https://t.me/whitemaxmod?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b12b5f8ed94c86e4ca0d4ff40d11b963efb78542776ededdda50de2a06f6f7f5/9ka1gg/whitemax",
         "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 1008866688,
-        "content": "🔥 <b>oh-my-logo</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating ASCII art logos with gradient colors for terminal display and project branding.\n<br>\n✨ <b>Key Features:</b>\n• Two Rendering Modes (outlined ASCII art or filled block characters)\n• 13 Beautiful Palettes\n• Gradient Directions (vertical, horizontal, and diagonal)\n• Multi-line Support\n• Zero Dependencies (npx usage)\n<br>\n📖 <b>Summary:</b>\noh-my-logo is a TypeScript-based tool for generating visually appealing ASCII art logos with gradient colors in the terminal. It offers features like customizable rendering modes, color palettes, gradient directions, and multi-line support, making it suitable for project banners, startup logos, and terminal customization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/shinshin86/oh-my-logo?embed=0\">View Project</a>\n• <a href=\"https://www.npmjs.com/package/oh-my-logo?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1008866688/2a712ee4-0181-4ba4-949c-404a60267d59",
+        "project_id": 372536760,
+        "content": "🌟 <b>oceanbase</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nDistributed relational database for transactional, analytical, and AI workloads.\n<br>\n✨ <b>Key Features:</b>\n• Vector Search\n• Transparent Scalability\n• Ultra-fast Performance\n• Cost Efficiency\n• Real-time Analytics\n<br>\n📖 <b>Summary:</b>\nOceanBase is a distributed relational database developed by Ant Group, designed for transactional, analytical, and AI workloads. It leverages the Paxos protocol for high availability and linear scalability, supporting features like vector search, transparent scalability, ultra-fast performance, cost efficiency, and real-time analytics.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/oceanbase/oceanbase?embed=0\">View Project</a>\n• <a href=\"https://en.oceanbase.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/372536760/72092c96-c375-46f1-85b0-89dc9769ec59",
         "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 0.85
     },
     {
-        "project_id": 1005246104,
-        "content": "🌟 <b>fireplexity</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-powered search engine with real-time data and citations.\n<br>\n✨ <b>Key Features:</b>\n• AI search engine\n• Web search\n• News search\n• Image search\n• Real-time citations\n<br>\n📖 <b>Summary:</b>\nFireplexity v2 is an open-source AI search engine that aims to replicate the functionality of Perplexity AI. It supports searching the web, news, and images, providing real-time citations and streaming responses, leveraging Firecrawl for live data.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/firecrawl/fireplexity?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/12deeacce652193078b80cb84072af4b079072a5f369096f207c31c03d71699a/firecrawl/fireplexity",
+        "project_id": 777912773,
+        "content": "✨ <b>slatedb</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nEmbedded storage for applications requiring scalable and durable data storage in cloud environments.\n<br>\n✨ <b>Key Features:</b>\n• Cloud-native embedded storage\n• LSM-tree architecture\n• Object storage backend (S3, GCS, etc.)\n• Batch writes to mitigate API costs\n• Configurable flush interval\n<br>\n📖 <b>Summary:</b>\nSlateDB is an embedded storage engine built on a log-structured merge-tree (LSM-tree) architecture. It distinguishes itself by writing data to object storage (like S3, GCS), providing bottomless storage, high durability, and easy replication, trading off latency and API costs compared to local disk.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/slatedb/slatedb?embed=0\">View Project</a>\n• <a href=\"https://slatedb.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3e0722df7820677e57abae2e7ae60626c06759106b0ccd506a5352b89a063a88/slatedb/slatedb",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.85
     },
     {
-        "project_id": 942672211,
-        "content": "🚀 <b>lazyeat</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nTouch-free device control during meals or when hands are dirty.\n<br>\n✨ <b>Key Features:</b>\n• Hands-free control via gesture recognition\n• Voice input support\n• Cross-platform compatibility (Windows, macOS, Linux)\n• Intuitive gesture control (swiping, clicking)\n• Integration with video playback (pause, full screen, switch videos)\n<br>\n📖 <b>Summary:</b>\nLazyeat is a touch-free controller application that utilizes gesture recognition and voice input to allow users to interact with their devices without physical contact. It is designed to be used while eating, preventing greasy hands from touching devices when watching videos or browsing the web.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lanxiuyun/lazyeat?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/afd213bd147c2625e818f6ebb751e2fbf3a58f0bfa21fdabff9263def0ad66e4/lanxiuyun/lazyeat",
+        "project_id": 535309783,
+        "content": "🔥 <b>speedtest-tracker</b> | PHP\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring internet connection performance and uptime.\n<br>\n✨ <b>Key Features:</b>\n• Automated Tests\n• Detailed Metrics\n• Historical Data\n• Notifications\n<br>\n📖 <b>Summary:</b>\nSpeedtest Tracker is a self-hosted application designed to monitor the performance and uptime of an internet connection. It automates speed tests, captures detailed metrics like download/upload speeds and ping, and provides historical data and notifications to identify internet performance issues.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alexjustesen/speedtest-tracker?embed=0\">View Project</a>\n• <a href=\"https://speedtest-tracker.dev/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/42915cc6ab85a84b3f65479574afe63055baf259aaa3c128531b40d59a9b94ae/alexjustesen/speedtest-tracker",
         "platform": "telegram",
-        "quality_score": 0.9
-    },
-    {
-        "project_id": 635958781,
-        "content": "🚀 <b>pinstr</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCurating and sharing interests with others in a decentralized social network.\n<br>\n✨ <b>Key Features:</b>\n• Decentralized backend with Nostr protocol\n• Open-source and free to use\n• Create customized public boards of pins on almost any topic\n• Like, Comment, and Zap other users' boards\n• Easy-to-use interface\n<br>\n📖 <b>Summary:</b>\nPinstr is a decentralized, open-source social network built on the Nostr protocol. It allows users to curate and share their interests by creating and sharing boards of pins, similar to Pinterest but with a decentralized backend. Users can also engage with each other by liking, commenting, and zapping boards.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sepehr-safari/pinstr?embed=0\">View Project</a>\n• <a href=\"https://pinstr.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a27fb7cfdfd3615f2696276ad14ea21c2b1217d973c969c57afec2456a9eac15/sepehr-safari/pinstr",
-        "platform": "telegram",
-        "quality_score": 0.3
+        "quality_score": 1.1000000000000003
     }
 ]

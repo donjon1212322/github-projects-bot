@@ -1,0 +1,7 @@
+{
+    "project_id": 777912773,
+    "content": "✨ <b>slatedb</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nEmbedded storage for applications requiring scalable and durable data storage in cloud environments.\n<br>\n✨ <b>Key Features:</b>\n• Cloud-native embedded storage\n• LSM-tree architecture\n• Object storage backend (S3, GCS, etc.)\n• Batch writes to mitigate API costs\n• Configurable flush interval\n<br>\n📖 <b>Summary:</b>\nSlateDB is an embedded storage engine built on a log-structured merge-tree (LSM-tree) architecture. It distinguishes itself by writing data to object storage (like S3, GCS), providing bottomless storage, high durability, and easy replication, trading off latency and API costs compared to local disk.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/slatedb/slatedb?embed=0\">View Project</a>\n• <a href=\"https://slatedb.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/3e0722df7820677e57abae2e7ae60626c06759106b0ccd506a5352b89a063a88/slatedb/slatedb",
+    "platform": "telegram",
+    "quality_score": 0.85
+}
