@@ -1,37 +1,44 @@
 [
     {
-        "project_id": 991393911,
-        "content": "✨ <b>mobile-tester-agent</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating the testing of Android applications using AI-driven agents that can interpret and execute tests described in natural language.\n<br>\n✨ <b>Key Features:</b>\n• Automated Android app testing using AI\n• Natural language test scenario interpretation with LLMs\n• Test execution on Android Emulator or Physical Device via ADB\n• Report generation for developers and QA teams\n• Web dashboard for configuration and visualization\n<br>\n📖 <b>Summary:</b>\nThe Mobile Tester Agent is an AI-powered test automation tool for Android applications. It leverages LLMs to interpret natural language test scenarios and execute them on Android emulators or physical devices via ADB, generating reports and providing a web dashboard for configuration and visualization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/maikotrindade/mobile-tester-agent?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/dedecf4969fe93ab196c3d0dd639db2de32a8fa22ad3c5108ca24f2c9b15199c/maikotrindade/mobile-tester-agent",
+        "project_id": 1015715040,
+        "content": "✨ <b>yatto</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging to-do lists with version control and collaboration features in a terminal environment.\n<br>\n✨ <b>Key Features:</b>\n• TUI-based interface\n• Local file storage (JSON)\n• VCS integration (Git/Jujutsu)\n• Project-based task organization\n• Task attributes (due dates, labels)\n<br>\n📖 <b>Summary:</b>\nYatto is a terminal-based to-do application that leverages Bubble Tea for its TUI. It stores tasks as individual JSON files and uses Git or Jujutsu for version control, enabling collaboration, synchronization, and backup of tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/handlebargh/yatto?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/038ddde92b9a4febc138ceac52026425a5ad8273f04a9fda340acff54f92a3be/handlebargh/yatto",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 410989014,
+        "content": "🔥 <b>codon</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAccelerating Python code execution for computationally intensive tasks, particularly those benefiting from multithreading and numerical computation.\n<br>\n✨ <b>Key Features:</b>\n• High-performance Python compilation\n• Native machine code generation\n• 10-100x speedups over CPython\n• Native multithreading support (no GIL)\n• Interoperability with Python ecosystem\n<br>\n📖 <b>Summary:</b>\nCodon is a high-performance Python compiler that translates Python code into native machine code, achieving significant speedups (10-100x or more) compared to standard CPython. It supports native multithreading and aims to provide performance comparable to C/C++ while maintaining a syntax and semantics close to CPython.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/exaloop/codon?embed=0\">View Project</a>\n• <a href=\"https://docs.exaloop.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b53eef5889561ffb798a129e7fd47f3cd5897af85b098938294b6f762b94853e/exaloop/codon",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 1091132409,
+        "content": "✨ <b>Steve</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating tasks within Minecraft using AI agents controlled by natural language commands.\n<br>\n✨ <b>Key Features:</b>\n• Natural language instruction processing for task execution\n• Autonomous resource extraction, building, combat, and exploration\n• Multi-agent coordination for parallel task execution and conflict resolution\n• Integration with LLMs (Groq, OpenAI, Gemini) for reasoning and planning\n<br>\n📖 <b>Summary:</b>\nThe Steve repository provides a Minecraft mod that introduces AI agents, embodied as 'Steves,' into the game. These agents can perform tasks autonomously based on natural language instructions, such as mining resources, building structures, and coordinating with other agents to complete complex projects.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/YuvDwi/Steve?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f614fd8ae640c8737e1cfc6c7176d981d10c63c58c3089806b424c1ac3ab6ddf/YuvDwi/Steve",
+        "platform": "telegram",
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 1039043967,
+        "content": "🔥 <b>DllShimmer</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nPentesting and red teaming to gain initial access and persistence on Windows systems by backdooring DLLs.\n<br>\n✨ <b>Key Features:</b>\n• DLL hijacking\n• Backdooring DLL functions\n• Generating C++ boilerplate code for function injection\n• Creating .def files to maintain original DLL exports\n• Static and dynamic linking options\n<br>\n📖 <b>Summary:</b>\nDllShimmer is a Go-based tool for weaponizing DLL hijacking. It allows users to backdoor functions within DLLs without disrupting normal process operation by generating proxy DLLs with identical exports to the original, enabling the injection of custom code into those functions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Print3M/DllShimmer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/20581c44bb02f28e89196c4298886d780e38726150f5ee254a376ed9fe87a8f0/Print3M/DllShimmer",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 957567586,
+        "content": "🚀 <b>stormy</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDisplaying weather information in a terminal with a customizable and visually appealing interface.\n<br>\n✨ <b>Key Features:</b>\n• Multiple weather providers (OpenMeteo, OpenWeatherMap)\n• Current weather conditions with ASCII art\n• Temperature, wind, humidity, and precipitation information\n• Customizable units (metric, imperial, standard)\n<br>\n📖 <b>Summary:</b>\nStormy is a minimal, customizable, and neofetch-like weather CLI written in Go. It provides current weather conditions, temperature, wind, humidity, and precipitation information using multiple weather providers like OpenMeteo and OpenWeatherMap. It supports customizable units, a local configuration file, color support, and a compact display mode.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ashish0kumar/stormy?embed=0\">View Project</a>\n• <a href=\"https://terminaltrove.com/stormy?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/00c014714eb080d2f09ca38bbd6f42011c907d128bdd9ba1fb665a59ceeffb66/ashish0kumar/stormy",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 1037244554,
+        "content": "✨ <b>dnSurfer</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBrowsing text-based web content in environments where HTTP/HTTPS is blocked, such as captive portals.\n<br>\n✨ <b>Key Features:</b>\n• DNS Browser (Desktop/Electron)\n• Custom DNS Server (Node.js)\n• Text-only web content retrieval over DNS TXT records\n• Bypassing HTTP/HTTPS restrictions\n<br>\n📖 <b>Summary:</b>\ndnSurfer is a proof-of-concept web browser that operates entirely over the DNS protocol. It includes a desktop client built with Electron and a custom DNS server built with Node.js, allowing users to fetch text-only web content by translating DNS queries into web page data, bypassing traditional HTTP/HTTPS protocols.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nadchif/dnSurfer?embed=0\">View Project</a>\n• <a href=\"https://dev.to/dchif/making-a-browser-that-slips-past-wi-fi-captive-portals-and-why-this-loophole-isnt-worth-it-13o?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3df864cb4c3ded7fb3a11da92f3b14c0471196be5b7adb26e4d01aad25dbf21e/nadchif/dnSurfer",
         "platform": "telegram",
         "quality_score": 0.3
-    },
-    {
-        "project_id": 1073692842,
-        "content": "🚀 <b>cronboard</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and scheduling cron jobs on local and remote servers through a terminal interface.\n<br>\n✨ <b>Key Features:</b>\n• Check cron jobs\n• Autocompletion for paths when creating or editing cron jobs\n• Create cron jobs with validation and human-readable feedback\n• Pause and resume cron jobs\n• Edit existing cron jobs\n<br>\n📖 <b>Summary:</b>\nCronboard is a terminal-based dashboard for managing cron jobs on local and remote servers. It allows users to easily add, edit, delete, pause, and resume cron jobs, as well as view their status and run times. The application connects to servers using SSH and provides autocompletion and validation features for creating and editing cron jobs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/antoniorodr/cronboard?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2d5f7a8f36412ca1b5c1f56b1f27a5e209535d3a804d137bb458b88ff2fec13c/antoniorodr/cronboard",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 917979862,
-        "content": "✨ <b>Open-Source-Face-Recognition-SDK</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nIntegrating face recognition capabilities into applications while ensuring data privacy through on-premise processing.\n<br>\n✨ <b>Key Features:</b>\n• 100% On-Premise processing\n• High Accuracy face detection and recognition\n• Real-Time Processing\n• Easy Integration with Python APIs\n• Cross-Platform compatibility (Windows and Linux)\n<br>\n📖 <b>Summary:</b>\nThe Open Source Face Recognition SDK is a Python-based SDK for Windows and Linux that provides face detection, landmark extraction, feature extraction, and face template matching. It emphasizes on-premise processing for data privacy and offers high accuracy through deep learning models.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK?embed=0\">View Project</a>\n• <a href=\"https://faceplugin.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ee89cda514dbb871d4911af4a88854b1e42da5c5d07e65e3d705b980a1682cbc/Faceplugin-ltd/Open-Source-Face-Recognition-SDK",
-        "platform": "telegram",
-        "quality_score": 0.4
-    },
-    {
-        "project_id": 1034533752,
-        "content": "🔥 <b>tilf</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating pixel art sprites, icons, and small 2D assets.\n<br>\n✨ <b>Key Features:</b>\n• Drawing tools (Pencil, Eraser, Fill, Eyedropper, Rectangle, Ellipse)\n• Canvas with zoom, editable background color, and optional grid\n• Undo/Redo with history\n• Drag & drop image opening\n• Real-time preview\n<br>\n📖 <b>Summary:</b>\nTilf is a free and open-source pixel art editor built with PySide6, designed for creating sprites, icons, and small 2D assets. It offers essential drawing tools, live preview, undo/redo functionality, and various export options, aiming for a lightweight and dependency-free experience across Windows, MacOS, and GNU/Linux.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/danterolle/tilf?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/63444740bbc75a401d096b5997bce2ac5a3f5da6056bd6bca91f4a8cd74de8e8/danterolle/tilf",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 77145066,
-        "content": "✨ <b>docker-android</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAndroid application development and testing within Docker containers.\n<br>\n✨ <b>Key Features:</b>\n• Emulator with different device profiles and skins\n• VNC support for accessing the container's GUI\n• Log sharing via web UI\n• ADB connect for external emulator control\n• Integration with Genymotion Cloud\n<br>\n📖 <b>Summary:</b>\nThe docker-android repository provides Docker images for running Android emulators, enabling application development and testing in isolated environments. It supports various Android versions and device profiles, offers VNC access for visual interaction, and integrates with cloud solutions like Genymotion Cloud.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/budtmo/docker-android?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/011841332937ed396666746eadef83ae226d045b44b4a1807beced705f3d7798/budtmo/docker-android",
-        "platform": "telegram",
-        "quality_score": 0.85
     }
 ]
