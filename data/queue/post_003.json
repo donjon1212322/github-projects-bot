@@ -1,7 +1,0 @@
-{
-    "project_id": 1039043967,
-    "content": "🔥 <b>DllShimmer</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nPentesting and red teaming to gain initial access and persistence on Windows systems by backdooring DLLs.\n<br>\n✨ <b>Key Features:</b>\n• DLL hijacking\n• Backdooring DLL functions\n• Generating C++ boilerplate code for function injection\n• Creating .def files to maintain original DLL exports\n• Static and dynamic linking options\n<br>\n📖 <b>Summary:</b>\nDllShimmer is a Go-based tool for weaponizing DLL hijacking. It allows users to backdoor functions within DLLs without disrupting normal process operation by generating proxy DLLs with identical exports to the original, enabling the injection of custom code into those functions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Print3M/DllShimmer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/20581c44bb02f28e89196c4298886d780e38726150f5ee254a376ed9fe87a8f0/Print3M/DllShimmer",
-    "platform": "telegram",
-    "quality_score": 0.6
-}
