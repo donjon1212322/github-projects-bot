@@ -1,7 +1,0 @@
-{
-    "project_id": 1037244554,
-    "content": "✨ <b>dnSurfer</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBrowsing text-based web content in environments where HTTP/HTTPS is blocked, such as captive portals.\n<br>\n✨ <b>Key Features:</b>\n• DNS Browser (Desktop/Electron)\n• Custom DNS Server (Node.js)\n• Text-only web content retrieval over DNS TXT records\n• Bypassing HTTP/HTTPS restrictions\n<br>\n📖 <b>Summary:</b>\ndnSurfer is a proof-of-concept web browser that operates entirely over the DNS protocol. It includes a desktop client built with Electron and a custom DNS server built with Node.js, allowing users to fetch text-only web content by translating DNS queries into web page data, bypassing traditional HTTP/HTTPS protocols.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nadchif/dnSurfer?embed=0\">View Project</a>\n• <a href=\"https://dev.to/dchif/making-a-browser-that-slips-past-wi-fi-captive-portals-and-why-this-loophole-isnt-worth-it-13o?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/3df864cb4c3ded7fb3a11da92f3b14c0471196be5b7adb26e4d01aad25dbf21e/nadchif/dnSurfer",
-    "platform": "telegram",
-    "quality_score": 0.3
-}
