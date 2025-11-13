@@ -1,26 +1,26 @@
 {
-    "title": "Yatto: The Terminal To-Do App That Treats Your Tasks Like Code",
-    "article": "Are you tired of jumping between your code editor and a web-based task manager just to update a simple to-do item? If you live in the terminal, you need a task manager that feels native to your workflow. That’s where yatto steps in. This isn't just another TUI application; it fundamentally changes how you think about task management by treating your to-dos like source code.\n\nYatto is built using the fantastic Bubble Tea framework, meaning it provides a fast, responsive, and visually appealing interface right in your terminal. You can navigate, create projects, and manage tasks using keyboard shortcuts, keeping your hands off the mouse and maximizing your focus. It brings the efficiency of TUI applications to personal organization.\n\nThe real magic, however, lies in how yatto handles data storage. Unlike systems that rely on proprietary databases or cloud services, yatto stores every single task as an individual JSON file directly on your filesystem. This approach offers incredible portability and transparency. You can inspect, backup, or even script against your tasks using standard tools because they are just simple, readable files.\n\nBut storing local files is only half the story. Yatto automatically initializes the task directory as a Git or Jujutsu repository. This is the game-changer for developers. Every time you make a modification\twhether you change a due date, add a label, or mark a task as \"in progress\"\tyatto immediately performs a commit. This gives you a complete, granular version history of your entire task list. Need to see exactly when you completed a step six months ago? Just check the commit log.\n\nFor remote teams or developers working across multiple machines, this VCS integration is invaluable. By setting up a remote repository (like GitHub or GitLab), you gain instant, robust synchronization and backup. Your tasks are now versioned and collaborative using the tools you already trust\tGit. No proprietary sync protocols, just standard distributed version control. This means safe collaboration, easy rollbacks, and the assurance that your data is securely mirrored.\n\nBeyond its innovative architecture, yatto offers great practical features. Tasks can be organized into projects, include searchable labels and due dates, and, crucially, support Markdown formatting for rich, detailed notes. You can also customize the themes and colors using lipgloss values, ensuring the application fits perfectly into your personalized terminal aesthetic. If you value control, transparency, and integrating task management seamlessly into a command-line environment, yatto is definitely worth adding to your toolkit.",
+    "title": "Comic Translate: Unleash the Power of GPT-4 for Flawless Global Comic Translation",
+    "article": "Let's face it: finding an official translation for that niche European graphic novel or that obscure Korean webtoon can be nearly impossible. While basic manga translation tools exist, they often break down when faced with complex layouts, different languages, or simply provide poor quality translation results. This is especially true for language pairs that are linguistically very distant, such as Korean-to-English or Japanese-to-French, where standard machine translation tools often descend into total gibberish and fail to capture the necessary narrative context.\r\n\r\nThis is where Comic Translate steps in, fundamentally changing the game by utilizing State of the Art (SOTA) Large Language Models, such as GPT-4o. The core insight here is that for many complex language pairs, the best translator isn't a traditional service like Google or DeepL—it's a sophisticated LLM. These models understand context, tone, and nuance far better than conventional systems, leading to translations that are not just technically accurate, but genuinely natural and high-quality, making the reading experience seamless.\r\n\r\nSo, how does this magic happen? The process is a seamless, multi-step automation pipeline. First, the tool employs advanced detection techniques to accurately locate every piece of text within the comic panel, including speech bubbles and captions. It then uses Optical Character Recognition (OCR) to accurately extract that source text. Crucially, before translation, it performs \"inpainting\"—which means intelligently erasing the original text from the image, leaving a clean slate for the new language. Only after these preparatory steps does the powerful LLM translation occur. Finally, the translated text is rendered back onto the image, carefully matching the original text placement, font, and style as closely as possible.\r\n\r\nFor developers, this project is a massive time-saver and a gateway to previously inaccessible global content. If you've ever tried manually stitching together an OCR solution, an image manipulation tool, and a translation API, you know the inherent complexity and fragility involved. Comic Translate bundles this entire workflow into one robust, cohesive, and open-source package. It offers incredibly broad language support—translating to and from languages like English, Japanese, Korean, French, Simplified Chinese, Russian, German, and Spanish. This versatility means developers can easily set up powerful, high-quality translation pipelines for virtually any comic format, regardless of its origin, provided they have the necessary API keys for the underlying LLMs and vision services.",
     "key_takeaways": [
-        "Manages tasks via a fast, TUI interface built with Bubble Tea, maximizing terminal efficiency.",
-        "Stores tasks as portable, readable JSON files on your local filesystem, ensuring data transparency and control.",
-        "Integrates deeply with Git/Jujutsu, committing every change for full version history and easy rollback capabilities.",
-        "Enables seamless synchronization and collaboration across machines using standard VCS remotes, eliminating proprietary sync issues.",
-        "Supports essential developer features like Markdown notes, project organization, and extensive theme customization."
+        "Comic Translate uses State of the Art LLMs (like GPT-4o) to deliver superior, contextual translation quality for comics.",
+        "It handles the entire end-to-end pipeline: text detection, OCR, intelligent inpainting (text removal), translation, and rendering.",
+        "The project excels at handling distant and complex language pairs where standard machine translators fail.",
+        "It supports a wide variety of comic formats and languages, making global content instantly accessible.",
+        "Developers benefit from a unified, open-source framework that automates complex image processing and translation tasks."
     ],
     "tags": [
-        "TUI",
-        "Go",
-        "Git",
-        "Task Management",
-        "Bubble Tea"
+        "Machine Translation",
+        "GPT-4",
+        "Open Source",
+        "AI",
+        "Image Processing"
     ],
-    "stars": 64,
-    "forks": 4,
-    "open_issues": 1,
-    "languages": "Go",
-    "readme_summary": "Yatto is a terminal-based to-do application that leverages Bubble Tea for its TUI. It stores tasks as individual JSON files and uses Git or Jujutsu for version control, enabling collaboration, synchronization, and backup of tasks.",
-    "project_id": 1015715040,
-    "url": "https://github.com/handlebargh/yatto",
-    "description": "Interactive VCS-based todo-list for the command-line"
+    "stars": 2184,
+    "forks": 227,
+    "open_issues": 95,
+    "languages": "Python",
+    "readme_summary": "Comic Translate is a desktop application written in Python designed for automatically translating comics, including BDs, Manga, Manhwa, and more, across various formats like images, PDFs, EPUBs, CBR, and CBZ. It leverages state-of-the-art Large Language Models (LLMs) like GPT-4 to translate comics to and from multiple languages, including English, Korean, Japanese, and others, with support for text detection, OCR, inpainting, and text rendering.",
+    "project_id": 748086500,
+    "url": "https://github.com/ogkalu2/comic-translate",
+    "description": "Desktop app for automatically translating comics - BDs, Manga, Manhwa, Fumetti and more in a variety of formats (Image, Pdf, Epub, cbr, cbz, etc) and in multiple languages."
 }
