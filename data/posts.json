@@ -1,58 +1,51 @@
 [
     {
-        "project_id": 315270108,
-        "content": "🚀 <b>silero-vad</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDetecting voice activity in audio streams to isolate speech segments.\n<br>\n✨ <b>Key Features:</b>\n• Stellar accuracy\n• Pre-trained\n• Enterprise-grade\n• PyTorch support\n• ONNX support\n<br>\n📖 <b>Summary:</b>\nSilero VAD is a pre-trained Voice Activity Detector (VAD) that identifies speech segments in audio. It supports multiple platforms via PyTorch and ONNX, offering flexibility in deployment. The repository provides tools for loading the model, reading audio, and extracting speech timestamps, making it easy to integrate into various speech processing applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/snakers4/silero-vad?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/83eace0974d564651aa8b99146797d2561284aadc0d91cecdccefa965a313dd9/snakers4/silero-vad",
-        "platform": "telegram",
-        "quality_score": 0.95
-    },
-    {
-        "project_id": 467679579,
-        "content": "🔥 <b>shot-scraper</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating website screenshot capture for documentation, monitoring, and archival.\n<br>\n✨ <b>Key Features:</b>\n• Command-line interface for taking screenshots\n• Integration with Playwright for browser automation\n• GitHub Actions integration for automated screenshots\n• Configuration options for customizing screenshots\n<br>\n📖 <b>Summary:</b>\nshot-scraper is a command-line utility written in Python that automates the process of taking screenshots of websites. It leverages Playwright to provide a flexible and scriptable way to capture website screenshots for documentation, monitoring, or archival purposes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/simonw/shot-scraper?embed=0\">View Project</a>\n• <a href=\"https://shot-scraper.datasette.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/467679579/52765249-ede7-4e86-87b1-0a11c4406ec3",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 748086500,
-        "content": "🌟 <b>comic-translate</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomatically translating comics from various languages and formats into a user's desired language.\n<br>\n✨ <b>Key Features:</b>\n• Automatic translation of comics in various formats\n• Support for multiple languages\n• Utilizes SOTA LLMs like GPT-4 for translation\n• Text detection\n• OCR\n<br>\n📖 <b>Summary:</b>\nComic Translate is a desktop application written in Python designed for automatically translating comics, including BDs, Manga, Manhwa, and more, across various formats like images, PDFs, EPUBs, CBR, and CBZ. It leverages state-of-the-art Large Language Models (LLMs) like GPT-4 to translate comics to and from multiple languages, including English, Korean, Japanese, and others, with support for text detection, OCR, inpainting, and text rendering.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ogkalu2/comic-translate?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8c72eaacf4b09e9e9a728af4b1f0a82a768af807d8b5b8d860605ede097dc523/ogkalu2/comic-translate",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 404053518,
-        "content": "🌟 <b>ivory</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying and visualizing Postgres cluster management for developers and database administrators.\n<br>\n✨ <b>Key Features:</b>\n• Cluster management UI\n• Patroni management UI\n• Postgres query builder\n• Cluster configuration viewing and editing\n• Template request execution and saving\n<br>\n📖 <b>Summary:</b>\nIvory is a tool designed to simplify and visualize the management of Postgres clusters. It provides a user interface for Patroni, a tool for high availability Postgres clusters, and includes a Postgres query builder for troubleshooting and management tasks. It can be used as a local tool or a standalone application for collaborative use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/veegres/ivory?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/404053518/99fe35a8-91ce-4465-98fa-282e31539231",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 998406403,
-        "content": "🌟 <b>leetsolv</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDSA problem revision and long-term retention through spaced repetition.\n<br>\n✨ <b>Key Features:</b>\n• Spaced Repetition using a custom SM-2 algorithm\n• CLI interface for problem management\n• Zero dependencies (pure Go implementation)\n• Adaptive review scheduling\n• Due priority scoring\n<br>\n📖 <b>Summary:</b>\nLeetSolv is a command-line tool designed for Data Structures and Algorithms (DSA) problem revision using spaced repetition. It employs a customized SuperMemo 2 algorithm, incorporating factors like familiarity, importance, and reasoning to facilitate deliberate practice and long-term retention of DSA concepts.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/eannchen/leetsolv?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/998406403/568950d5-c2f4-4d69-98b1-9976323fb5ee",
+        "project_id": 1066996005,
+        "content": "🔥 <b>cursor-clip</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging clipboard history in a Wayland environment with dynamic positioning at the cursor location.\n<br>\n✨ <b>Key Features:</b>\n• Windows 11-Style Clipboard History\n• Advanced Wayland Integration (Layer Shell Protocol, Precise Cursor Tracking, Multi-output Support)\n• Native GNOME Design (Libadwaita styling)\n• Automatic Clipboard Monitoring (Wayland)\n<br>\n📖 <b>Summary:</b>\nCursor Clip is a GTK4 clipboard manager for Wayland that provides a Windows 11-style clipboard history with GNOME design. It dynamically positions the clipboard history at the current mouse pointer location, offering advanced Wayland integration and automatic clipboard monitoring.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Sirulex/cursor-clip?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d52ad1fc83bb588ad515a1335603e9abf5a8e1e89ae285fc69c7ce9cabfe13a7/Sirulex/cursor-clip",
         "platform": "telegram",
         "quality_score": 0.6
     },
     {
-        "project_id": 995381971,
-        "content": "🚀 <b>TaskWing</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-powered task management for developers, integrating with AI tools to automate and enhance task handling.\n<br>\n✨ <b>Key Features:</b>\n• AI-Native (MCP integration)\n• Zero Config\n• Smart Dependencies\n• Learning System\n• Developer-First\n<br>\n📖 <b>Summary:</b>\nTaskWing is an AI-powered CLI task manager designed for developers. It integrates with AI tools via the Model Context Protocol (MCP), allowing users to manage tasks from the terminal or leverage AI for assistance. It features zero-config setup, smart dependency tracking, and a learning system to capture patterns from completed projects.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/josephgoksu/TaskWing?embed=0\">View Project</a>\n• <a href=\"https://taskwing.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/46c4de0345784a59e55385a605f724cf90f44c03319121d1cccad7f879df6c71/josephgoksu/TaskWing",
+        "project_id": 546006134,
+        "content": "🌟 <b>sharing</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSharing files and directories from a command-line interface to mobile devices without needing a dedicated client app.\n<br>\n✨ <b>Key Features:</b>\n• Share directory and file\n• Share clipboard\n• Receive file\n• Support basic authentication\n• Support SSL\n<br>\n📖 <b>Summary:</b>\nSharing is a command-line tool that allows users to share directories and files from their CLI to iOS and Android devices without requiring a separate client application. It supports features like clipboard sharing, file receiving, basic authentication, and SSL, making it a convenient utility for quickly transferring data between devices on the same network or over a public IP address.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/parvardegr/sharing?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b50945ba2ef533b6fc2585ae2c6567a418785355a1ea0f20646bad1eda0e15e7/parvardegr/sharing",
         "platform": "telegram",
-        "quality_score": 0.5499999999999999
+        "quality_score": 0.7000000000000001
     },
     {
-        "project_id": 1025300166,
-        "content": "🌟 <b>how-to-build-a-coding-agent</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding a personal AI-powered coding assistant.\n<br>\n✨ <b>Key Features:</b>\n• Connect to the Anthropic Claude API\n• Build a simple AI chatbot\n• Add tools like reading files, editing code, and running commands\n• Handle tool requests and errors\n• Build an agent that gets smarter with each step\n<br>\n📖 <b>Summary:</b>\nThis repository provides a workshop that guides users through building their own AI-powered coding assistant using Go. The workshop progresses through six versions of the agent, each adding more features like file reading, shell command execution, and code searching, ultimately creating a powerful local developer assistant.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ghuntley/how-to-build-a-coding-agent?embed=0\">View Project</a>\n• <a href=\"https://ghuntley.com/agent/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d87def5e6c0926d829eb3d1f667b31fc5bcc45b44a0e61f8ef6129dca1702998/ghuntley/how-to-build-a-coding-agent",
+        "project_id": 622237147,
+        "content": "🚀 <b>Spoolman</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and monitoring 3D printer filament spools and their usage.\n<br>\n✨ <b>Key Features:</b>\n• Filament Management\n• API Integration (REST API and Websockets)\n• Real-Time Updates\n• Central Filament Database\n• Web-Based Client\n<br>\n📖 <b>Summary:</b>\nSpoolman is a self-hosted web service for managing and monitoring 3D printer filament spools. It integrates with popular 3D printing software like OctoPrint and Klipper/Moonraker to provide real-time updates on filament usage, acting as a centralized database for filament inventory.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Donkie/Spoolman?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b4d88f658f2e3a238d62f3ca39fdc25b9c54fdf4f99fd14f4b35a85296ab99cc/Donkie/Spoolman",
         "platform": "telegram",
-        "quality_score": 0.7500000000000001
+        "quality_score": 0.55
     },
     {
-        "project_id": 1043269436,
-        "content": "🔥 <b>filesql</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nQuerying data files (CSV, TSV, LTSV, Parquet, Excel) using SQL without needing a separate database server or data transformation.\n<br>\n✨ <b>Key Features:</b>\n• SQLite3 SQL Interface\n• Multiple File Formats support (CSV, TSV, LTSV, Parquet, Excel)\n• Compression Support (gzip, bzip2, xz, zstd)\n• Stream Processing\n• Flexible Input Sources (file paths, directories, io.Reader, embed.FS)\n<br>\n📖 <b>Summary:</b>\nfilesql is a Go SQL driver that allows querying various file formats (CSV, TSV, LTSV, Parquet, Excel) using SQLite3 SQL syntax. It supports compressed files (gzip, bzip2, xz, zstd) and offers features like stream processing and auto-saving changes back to files.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nao1215/filesql?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1043269436/5a595494-6608-41df-9898-bf8b9e67e24d",
+        "project_id": 960420129,
+        "content": "🚀 <b>winboat</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning Windows applications on Linux systems.\n<br>\n✨ <b>Key Features:</b>\n• Elegant Interface\n• Automated Installs\n• Run Any App\n• Full Windows Desktop\n• Filesystem Integration\n<br>\n📖 <b>Summary:</b>\nWinBoat allows users to run Windows applications on Linux with seamless integration. It leverages containerization and remote desktop protocols to provide access to both individual Windows applications and the full Windows desktop environment within a Linux environment.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TibixDev/winboat?embed=0\">View Project</a>\n• <a href=\"https://www.winboat.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/960420129/699936fe-eb73-47d1-aa22-e6fd0837066b",
         "platform": "telegram",
-        "quality_score": 0.7499999999999999
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 1048669914,
+        "content": "✨ <b>structured-prompt-builder</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nDesigning and testing structured AI prompts for various AI models through OpenRouter integration.\n<br>\n✨ <b>Key Features:</b>\n• Structured Fields (Title, Role, Task, Context)\n• Dynamic Lists (Constraints and Examples)\n• Live Preview (JSON, Markdown, Plain Text)\n• Built-in Editors\n• Local Library (Save, load, delete prompts)\n<br>\n📖 <b>Summary:</b>\nThe Structured Prompt Builder is a browser-based tool designed for crafting well-structured AI prompts. It offers features like live previews in multiple formats, a local prompt library, and integration with OpenRouter AI models for testing, making it a comprehensive solution for prompt engineering.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Siddhesh2377/structured-prompt-builder?embed=0\">View Project</a>\n• <a href=\"https://structured-prompt-builder.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1048669914/22ac1682-9483-4238-b312-1f6c4a5771e4",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 665734851,
+        "content": "💡 <b>FileSync</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/polius/FileSync?embed=0\">View Project</a>\n• <a href=\"https://filesync.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c20a4d7ff67139900ed3e094d76c4cae68a16b9600f54bd8593b1ea4c88258cb/polius/FileSync",
+        "platform": "telegram",
+        "quality_score": 0.4
+    },
+    {
+        "project_id": 871260980,
+        "content": "🚀 <b>clipscreen</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nSharing a specific portion of the screen during screen sharing sessions.\n<br>\n✨ <b>Key Features:</b>\n• Creates a virtual monitor\n• Mirrors a portion of the screen\n• Highlights the selected area with a green rectangle\n• Allows sharing a specific area in screen sharing applications\n• Supports interactive area selection using hacksaw or slop\n<br>\n📖 <b>Summary:</b>\nclipscreen is a C application that mirrors a selected portion of the screen to a virtual monitor. This allows users to share only a specific area of their screen in screen sharing applications, avoiding the need to share the entire screen or individual windows.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/splitbrain/clipscreen?embed=0\">View Project</a>\n• <a href=\"https://www.splitbrain.org/blog/2024-10/11-introducing_clipscreen?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/77523b502dab64e8e439dd55c9d3b3461f0de426b2fc7a87cc1bdf72e1961fcb/splitbrain/clipscreen",
+        "platform": "telegram",
+        "quality_score": 0.5
     }
 ]
