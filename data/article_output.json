@@ -1,26 +1,26 @@
 {
-    "title": "WinBoat: Bringing Seamless, Native Windows Apps to Your Linux Desktop",
-    "article": "Tired of dual-booting or wrestling with patchy compatibility layers just to access that one critical Windows application? If you live primarily in the Linux world but occasionally hit a wall because of proprietary software, I’ve found a project that might just solve your biggest headache: WinBoat. This isn't just another virtualization tool; it’s an ambitious project aiming to make Windows apps feel like native residents on your favorite Linux distribution. It truly is 'Windows for Penguins.'\n\nWhat WinBoat does brilliantly is integration. Forget clunky remote desktop sessions or compatibility layers that only work half the time. WinBoat provides an elegant, sleek interface that handles the complexity of running Windows in the background. The core idea is to let you run virtually any Windows application—from specialized development tools to legacy software or games—as a standalone, OS-level window right alongside your regular Linux apps. It feels like the Windows application is a native part of your Linux desktop environment, rather than being trapped inside a separate virtual machine screen.\n\nSo, how does this magic happen? WinBoat utilizes a robust containerized approach. Essentially, it spins up a dedicated Windows VM inside a Docker container. This setup provides the necessary isolation, stability, and control. The real genius lies in how it projects the individual Windows applications onto your Linux screen. It uses the RemoteApp protocol via FreeRDP, which is a specialized technology designed to stream *individual* application windows, not the entire desktop feed. This is why you get native-looking windows that can be moved, resized, and managed perfectly by your Linux window manager, completely removing the distracting 'virtual machine border.'\n\nFor developers, this capability translates directly into massive workflow improvements. Need to test something specific in a Windows environment, or rely on a crucial Windows-only tool? You don't have to switch machines or reboot. The initial setup process is highly automated; you simply pick your preferences in the WinBoat interface, and it handles the complex VM provisioning and configuration, saving you hours of manual setup time. Furthermore, file management is seamless. Your Linux home directory is automatically mounted within the Windows environment, allowing you to share files instantly between the two systems without any networking or copying hassle. This cross-system integration is a huge boost when iterating on cross-platform projects or moving assets around.\n\nWhile WinBoat is currently in beta—meaning you might encounter a few hiccups and need some basic troubleshooting skills—the current feature set is incredibly compelling. They are actively working towards a stable release, focusing on stabilization and polishing the already merged features like smartcard passthrough and resource monitoring. If you’re looking for the ultimate solution for running Windows applications on Linux with zero compromise on desktop integration, WinBoat is definitely the project you need to check out right now. It’s an exciting step forward for interoperability.",
+    "title": "Tired of SSH Config Files? Meet SSHM, Your New Terminal Superpower",
+    "article": "We all know the pain of managing a sprawling `~/.ssh/config` file. As the number of servers, clients, and environments grows, that essential file turns into a dense, confusing mess of aliases, ports, and options. If you manage dozens of hosts, finding the right entry, ensuring syntax correctness, or setting up complex tunnels often becomes a tedious task that significantly slows down your daily workflow. SSHM is designed to eliminate this friction entirely, transforming tedious configuration management into a slick, interactive experience right in your terminal.\r\n\r\nSSHM is an interactive SSH Manager built with Go, offering a beautiful Terminal User Interface (TUI). Think of it as a powerful, graphical dashboard for your SSH configurations, running entirely within your command line without requiring any external dependencies. Crucially, it doesn't try to replace your existing SSH setup; instead, it securely reads and writes directly to your standard `~/.ssh/config` file. This approach ensures zero migration headache, instant compatibility with all your existing hosts, and full support for complex features like `Include` directives and `ProxyJump` tunneling.\r\n\r\nThe real magic of SSHM lies in its usability enhancements. Forget manually editing text files just to change a user or update a port number. SSHM provides intuitive forms for adding, editing, and moving configurations seamlessly. Need to categorize your infrastructure? Utilize the built-in tagging system and smart search filters to find your dev, staging, or production hosts instantly. It also provides real-time, color-coded status indicators based on asynchronous ping checks, allowing you to instantly see if a host is reachable before you even attempt a connection.\r\n\r\nFor developers dealing with complex network architectures, SSHM is a game-changer for advanced tasks. Setting up port forwarding—whether Local, Remote, or Dynamic (SOCKS) forwarding—is incredibly simple through the TUI, and the tool even persists your history for quick reuse. Furthermore, SSHM allows for lightning-fast connections, either by navigating the interactive TUI or directly via the command line using `sshm <host>`. This tool is cross-platform (Linux, macOS, Windows) and distributed as a single, lightweight binary, making installation and adoption remarkably fast. SSHM isn't just about managing connections; it’s about eliminating configuration friction and boosting your productivity immediately.",
     "key_takeaways": [
-        "WinBoat allows Windows applications to run seamlessly on Linux, appearing as native OS-level windows through the use of FreeRDP and RemoteApp.",
-        "The project uses a containerized architecture (VM inside Docker) for stable and isolated execution of the Windows environment.",
-        "It offers automated installation and configuration, significantly simplifying the process of setting up a Windows environment on Linux.",
-        "Filesystem integration is built-in, automatically mounting the Linux home directory in Windows for effortless file sharing between operating systems.",
-        "Developers can run virtually any Windows application, eliminating the need for dual-booting or maintaining separate physical machines for specific software."
+        "SSHM provides an interactive TUI to manage SSH configurations, eliminating the need for manual text file editing.",
+        "It works directly with your existing `~/.ssh/config` file, ensuring security and zero migration effort.",
+        "Features like tagging, smart search, and real-time connectivity status drastically improve organization and speed.",
+        "Advanced configurations, including ProxyJump and complex Port Forwarding (Local, Remote, and SOCKS), are made easy through intuitive forms.",
+        "Built with Go, SSHM is lightweight, cross-platform, and distributed as a single, dependency-free binary."
     ],
     "tags": [
-        "Linux",
-        "Virtualization",
-        "WindowsApps",
-        "Docker",
-        "DesktopIntegration"
+        "SSH",
+        "Terminal",
+        "CLI",
+        "TUI",
+        "DevOps"
     ],
-    "stars": 15478,
-    "forks": 392,
-    "open_issues": 152,
-    "languages": "TypeScript",
-    "readme_summary": "WinBoat allows users to run Windows applications on Linux with seamless integration. It leverages containerization and remote desktop protocols to provide access to both individual Windows applications and the full Windows desktop environment within a Linux environment.",
-    "project_id": 960420129,
-    "url": "https://github.com/TibixDev/winboat",
-    "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration"
+    "stars": 827,
+    "forks": 45,
+    "open_issues": 12,
+    "languages": "Go",
+    "readme_summary": "SSHM is a command-line SSH manager written in Go that provides a TUI for managing and connecting to SSH hosts. It simplifies SSH connection management with features like port forwarding, tag support, smart search, and real-time status updates, aiming to make the process more efficient and user-friendly.",
+    "project_id": 1048067190,
+    "url": "https://github.com/Gu1llaum-3/sshm",
+    "description": "SSHM is a beautiful command-line tool that transforms how you manage and connect to your SSH hosts. Built with Go and featuring an intuitive TUI interface, it makes SSH connection management effortless and enjoyable."
 }

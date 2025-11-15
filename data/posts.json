@@ -1,51 +1,58 @@
 [
     {
-        "project_id": 1066996005,
-        "content": "🔥 <b>cursor-clip</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging clipboard history in a Wayland environment with dynamic positioning at the cursor location.\n<br>\n✨ <b>Key Features:</b>\n• Windows 11-Style Clipboard History\n• Advanced Wayland Integration (Layer Shell Protocol, Precise Cursor Tracking, Multi-output Support)\n• Native GNOME Design (Libadwaita styling)\n• Automatic Clipboard Monitoring (Wayland)\n<br>\n📖 <b>Summary:</b>\nCursor Clip is a GTK4 clipboard manager for Wayland that provides a Windows 11-style clipboard history with GNOME design. It dynamically positions the clipboard history at the current mouse pointer location, offering advanced Wayland integration and automatic clipboard monitoring.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Sirulex/cursor-clip?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d52ad1fc83bb588ad515a1335603e9abf5a8e1e89ae285fc69c7ce9cabfe13a7/Sirulex/cursor-clip",
+        "project_id": 715842891,
+        "content": "💡 <b>Vectras-VM-Android</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nEmulating different operating systems on Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Virtual machine app for Android\n• Based on QEMU\n• Emulates various OSes (Windows, Linux, macOS, Android)\n• Stable and beta releases available\n• Bootstraps for arm64 and x86_64 architectures\n<br>\n📖 <b>Summary:</b>\nVectras VM is an Android application that emulates various operating systems using QEMU. It allows users to run operating systems like Windows, Linux, macOS, and Android on their Android devices. The application supports devices with Android 6.0 and up, with recommended specifications including Android 8.1, 8GB RAM, and a Snapdragon 855 CPU or better.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/xoureldeen/Vectras-VM-Android?embed=0\">View Project</a>\n• <a href=\"https://vectras.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ecf155433bdf0ef4669f841a4e7b59b580b634527ad9b6a4b50c271a7f44f5ae/xoureldeen/Vectras-VM-Android",
         "platform": "telegram",
-        "quality_score": 0.6
+        "quality_score": 0.7499999999999999
     },
     {
-        "project_id": 546006134,
-        "content": "🌟 <b>sharing</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSharing files and directories from a command-line interface to mobile devices without needing a dedicated client app.\n<br>\n✨ <b>Key Features:</b>\n• Share directory and file\n• Share clipboard\n• Receive file\n• Support basic authentication\n• Support SSL\n<br>\n📖 <b>Summary:</b>\nSharing is a command-line tool that allows users to share directories and files from their CLI to iOS and Android devices without requiring a separate client application. It supports features like clipboard sharing, file receiving, basic authentication, and SSL, making it a convenient utility for quickly transferring data between devices on the same network or over a public IP address.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/parvardegr/sharing?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b50945ba2ef533b6fc2585ae2c6567a418785355a1ea0f20646bad1eda0e15e7/parvardegr/sharing",
-        "platform": "telegram",
-        "quality_score": 0.7000000000000001
-    },
-    {
-        "project_id": 622237147,
-        "content": "🚀 <b>Spoolman</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and monitoring 3D printer filament spools and their usage.\n<br>\n✨ <b>Key Features:</b>\n• Filament Management\n• API Integration (REST API and Websockets)\n• Real-Time Updates\n• Central Filament Database\n• Web-Based Client\n<br>\n📖 <b>Summary:</b>\nSpoolman is a self-hosted web service for managing and monitoring 3D printer filament spools. It integrates with popular 3D printing software like OctoPrint and Klipper/Moonraker to provide real-time updates on filament usage, acting as a centralized database for filament inventory.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Donkie/Spoolman?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b4d88f658f2e3a238d62f3ca39fdc25b9c54fdf4f99fd14f4b35a85296ab99cc/Donkie/Spoolman",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 960420129,
-        "content": "🚀 <b>winboat</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning Windows applications on Linux systems.\n<br>\n✨ <b>Key Features:</b>\n• Elegant Interface\n• Automated Installs\n• Run Any App\n• Full Windows Desktop\n• Filesystem Integration\n<br>\n📖 <b>Summary:</b>\nWinBoat allows users to run Windows applications on Linux with seamless integration. It leverages containerization and remote desktop protocols to provide access to both individual Windows applications and the full Windows desktop environment within a Linux environment.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TibixDev/winboat?embed=0\">View Project</a>\n• <a href=\"https://www.winboat.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/960420129/699936fe-eb73-47d1-aa22-e6fd0837066b",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1048669914,
-        "content": "✨ <b>structured-prompt-builder</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nDesigning and testing structured AI prompts for various AI models through OpenRouter integration.\n<br>\n✨ <b>Key Features:</b>\n• Structured Fields (Title, Role, Task, Context)\n• Dynamic Lists (Constraints and Examples)\n• Live Preview (JSON, Markdown, Plain Text)\n• Built-in Editors\n• Local Library (Save, load, delete prompts)\n<br>\n📖 <b>Summary:</b>\nThe Structured Prompt Builder is a browser-based tool designed for crafting well-structured AI prompts. It offers features like live previews in multiple formats, a local prompt library, and integration with OpenRouter AI models for testing, making it a comprehensive solution for prompt engineering.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Siddhesh2377/structured-prompt-builder?embed=0\">View Project</a>\n• <a href=\"https://structured-prompt-builder.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1048669914/22ac1682-9483-4238-b312-1f6c4a5771e4",
-        "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 665734851,
-        "content": "💡 <b>FileSync</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/polius/FileSync?embed=0\">View Project</a>\n• <a href=\"https://filesync.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c20a4d7ff67139900ed3e094d76c4cae68a16b9600f54bd8593b1ea4c88258cb/polius/FileSync",
+        "project_id": 1010643081,
+        "content": "✨ <b>BloodCat</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCollecting and accessing publicly exposed network camera streams for security research or monitoring purposes.\n<br>\n✨ <b>Key Features:</b>\n• Collects publicly exposed network cameras\n• Supports specifying country and region for targeted searches\n• Bruteforces specific camera IPs\n• Saves discovered results to a file\n• Includes a script to launch a viewer for the camera streams\n<br>\n📖 <b>Summary:</b>\nBloodCat is a Python tool designed to discover publicly exposed network cameras. It allows users to collect camera IPs, with the option to specify a country and region for targeted searches using the FoFa API.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MartinxMax/BloodCat?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ed0c647738253977d90ead85d758f0e4a82f1c34c9310852ea035e77f99116aa/MartinxMax/BloodCat",
         "platform": "telegram",
         "quality_score": 0.4
     },
     {
-        "project_id": 871260980,
-        "content": "🚀 <b>clipscreen</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nSharing a specific portion of the screen during screen sharing sessions.\n<br>\n✨ <b>Key Features:</b>\n• Creates a virtual monitor\n• Mirrors a portion of the screen\n• Highlights the selected area with a green rectangle\n• Allows sharing a specific area in screen sharing applications\n• Supports interactive area selection using hacksaw or slop\n<br>\n📖 <b>Summary:</b>\nclipscreen is a C application that mirrors a selected portion of the screen to a virtual monitor. This allows users to share only a specific area of their screen in screen sharing applications, avoiding the need to share the entire screen or individual windows.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/splitbrain/clipscreen?embed=0\">View Project</a>\n• <a href=\"https://www.splitbrain.org/blog/2024-10/11-introducing_clipscreen?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/77523b502dab64e8e439dd55c9d3b3461f0de426b2fc7a87cc1bdf72e1961fcb/splitbrain/clipscreen",
+        "project_id": 1093092368,
+        "content": "✨ <b>falcraft</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-powered 3D structure generation and texture remixing within Minecraft.\n<br>\n✨ <b>Key Features:</b>\n• 3D Model Generation from text prompts\n• Perceptual Color Matching using LAB color space\n• Texture Remixing with AI\n• Dynamic Resource Packs for instant texture changes\n• Non-Blocking processing in background threads\n<br>\n📖 <b>Summary:</b>\nFalcraft is a Minecraft Fabric mod that allows users to generate 3D structures from text prompts and remix block textures using AI. It leverages fal.ai's Meshy v6 for 3D generation and nano-banana for texture editing, providing a seamless, in-game AI-powered creation experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/blendi-remade/falcraft?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b2531419120a498510341a9de60547a4d80a6a71d6e838ed9f4ede9b6abdca44/blendi-remade/falcraft",
         "platform": "telegram",
-        "quality_score": 0.5
+        "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 316904253,
+        "content": "🔥 <b>calcure</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging events and tasks in a terminal-based environment with a focus on efficiency and customization.\n<br>\n✨ <b>Key Features:</b>\n• Vim keys\n• View tasks and events from .ics files synced with clouds\n• Todo list with subtasks, deadlines, and timers\n• Birthdays of your abook contacts\n• Import of events and tasks from calcurse\n<br>\n📖 <b>Summary:</b>\nCalcure is a modern, terminal-based calendar and task manager designed for efficient event and task management. It offers a customizable interface, Vim keybindings, and supports syncing with cloud calendars, importing from Calcurse, and displaying birthdays from abook.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/anufrievroman/calcure?embed=0\">View Project</a>\n• <a href=\"https://anufrievroman.gitbook.io/calcure?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ebe6bf5040328c1355d7a48db2313cafaaaeba97fc6c393b6892d5fbcf13adbd/anufrievroman/calcure",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 866837972,
+        "content": "🚀 <b>swift-realtime-openai</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nImplementing real-time, multi-modal conversations with OpenAI in Swift applications.\n<br>\n✨ <b>Key Features:</b>\n• Simple interface for OpenAI's Realtime API\n• Automatic microphone recording\n• Assistant response playback\n• Transparent API layer for advanced use cases\n• Swift Package Manager support\n<br>\n📖 <b>Summary:</b>\nThis repository provides a modern Swift SDK for OpenAI's Realtime API, enabling developers to easily implement multi-modal conversations in their Swift applications. It handles microphone recording, assistant response playback, and offers a transparent layer for advanced API usage.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/m1guelpf/swift-realtime-openai?embed=0\">View Project</a>\n• <a href=\"https://swiftpackageindex.com/m1guelpf/swift-realtime-openai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/866837972/3d2cce32-a711-45c1-a639-a2ef1d78a2b6",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 990411392,
+        "content": "🚀 <b>rhythm</b> | Lua\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying music on Linux systems with options for both GUI and terminal interfaces.\n<br>\n✨ <b>Key Features:</b>\n• Multi-Format Support\n• Stunning Visualizations\n• Dual Interface (CLI and GUI)\n• Linux Native\n• Smart Playlist Management\n<br>\n📖 <b>Summary:</b>\nRhythm is a modern Linux music player that offers both a graphical user interface (GUI) and a terminal user interface (TUI). It supports multiple audio formats, provides stunning visualizations, and is optimized for Linux systems, making it suitable for both desktop and server environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dexter-xD/rhythm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/74036ff204619cd4fe7fdc44885e421657d105ca24327e152b12deaf9c5a7512/dexter-xD/rhythm",
+        "platform": "telegram",
+        "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 10126031,
+        "content": "🚀 <b>mixxx</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nPerforming live DJ mixes\n<br>\n✨ <b>Key Features:</b>\n• Live mixing capabilities\n• Cross-platform support (GNU/Linux, Windows, macOS)\n• Bug tracker using Github Issues\n• Build instructions for multiple operating systems\n• Documentation and community support resources\n<br>\n📖 <b>Summary:</b>\nMixxx is a free, open-source DJ software that provides all the necessary tools for live DJ mixes. It supports various operating systems, including GNU/Linux, Windows, and macOS, and offers features for both beginners and experienced DJs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mixxxdj/mixxx?embed=0\">View Project</a>\n• <a href=\"http://mixxx.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e34b187fcfa640d460a3b42e7f1cc2a7d48d166fa0d876ad8b21bc7eba013259/mixxxdj/mixxx",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 1048067190,
+        "content": "✨ <b>sshm</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and connecting to SSH hosts via a terminal-based user interface.\n<br>\n✨ <b>Key Features:</b>\n• Beautiful TUI Interface\n• Quick Connect\n• Port Forwarding\n• Easy Management\n• Tag Support\n<br>\n📖 <b>Summary:</b>\nSSHM is a command-line SSH manager written in Go that provides a TUI for managing and connecting to SSH hosts. It simplifies SSH connection management with features like port forwarding, tag support, smart search, and real-time status updates, aiming to make the process more efficient and user-friendly.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Gu1llaum-3/sshm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e0e1afc69160e377acad65a835f612ae54e02f3845d95afb0e3fde41b31174e4/Gu1llaum-3/sshm",
+        "platform": "telegram",
+        "quality_score": 0.8500000000000001
     }
 ]
