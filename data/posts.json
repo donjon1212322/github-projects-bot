@@ -1,58 +1,58 @@
 [
     {
-        "project_id": 715842891,
-        "content": "💡 <b>Vectras-VM-Android</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nEmulating different operating systems on Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Virtual machine app for Android\n• Based on QEMU\n• Emulates various OSes (Windows, Linux, macOS, Android)\n• Stable and beta releases available\n• Bootstraps for arm64 and x86_64 architectures\n<br>\n📖 <b>Summary:</b>\nVectras VM is an Android application that emulates various operating systems using QEMU. It allows users to run operating systems like Windows, Linux, macOS, and Android on their Android devices. The application supports devices with Android 6.0 and up, with recommended specifications including Android 8.1, 8GB RAM, and a Snapdragon 855 CPU or better.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/xoureldeen/Vectras-VM-Android?embed=0\">View Project</a>\n• <a href=\"https://vectras.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ecf155433bdf0ef4669f841a4e7b59b580b634527ad9b6a4b50c271a7f44f5ae/xoureldeen/Vectras-VM-Android",
+        "project_id": 106274270,
+        "content": "🔥 <b>translators</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a unified Python interface for accessing various translation services for text translation tasks.\n<br>\n✨ <b>Key Features:</b>\n• Support for multiple translation services (Niutrans, MyMemory, Alibaba, Baidu, etc.)\n<br>\n📖 <b>Summary:</b>\nThe `translators` library is a Python package designed to provide access to multiple translation services, aiming to offer a free, diverse, and user-friendly translation experience for individuals and students. It supports a wide range of translation services, including well-known platforms like Google Translate, Yandex Translate, and others, offering a unified interface for accessing these services within Python applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/UlionTse/translators?embed=0\">View Project</a>\n• <a href=\"https://pypi.org/project/translators/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d08863d9730d47b99088230f85c3760fe04c8066cb8ed9cd00774471bf22b194/UlionTse/translators",
         "platform": "telegram",
-        "quality_score": 0.7499999999999999
+        "quality_score": 0.5
     },
     {
-        "project_id": 1010643081,
-        "content": "✨ <b>BloodCat</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCollecting and accessing publicly exposed network camera streams for security research or monitoring purposes.\n<br>\n✨ <b>Key Features:</b>\n• Collects publicly exposed network cameras\n• Supports specifying country and region for targeted searches\n• Bruteforces specific camera IPs\n• Saves discovered results to a file\n• Includes a script to launch a viewer for the camera streams\n<br>\n📖 <b>Summary:</b>\nBloodCat is a Python tool designed to discover publicly exposed network cameras. It allows users to collect camera IPs, with the option to specify a country and region for targeted searches using the FoFa API.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MartinxMax/BloodCat?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ed0c647738253977d90ead85d758f0e4a82f1c34c9310852ea035e77f99116aa/MartinxMax/BloodCat",
-        "platform": "telegram",
-        "quality_score": 0.4
-    },
-    {
-        "project_id": 1093092368,
-        "content": "✨ <b>falcraft</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-powered 3D structure generation and texture remixing within Minecraft.\n<br>\n✨ <b>Key Features:</b>\n• 3D Model Generation from text prompts\n• Perceptual Color Matching using LAB color space\n• Texture Remixing with AI\n• Dynamic Resource Packs for instant texture changes\n• Non-Blocking processing in background threads\n<br>\n📖 <b>Summary:</b>\nFalcraft is a Minecraft Fabric mod that allows users to generate 3D structures from text prompts and remix block textures using AI. It leverages fal.ai's Meshy v6 for 3D generation and nano-banana for texture editing, providing a seamless, in-game AI-powered creation experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/blendi-remade/falcraft?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b2531419120a498510341a9de60547a4d80a6a71d6e838ed9f4ede9b6abdca44/blendi-remade/falcraft",
-        "platform": "telegram",
-        "quality_score": 0.7499999999999999
-    },
-    {
-        "project_id": 316904253,
-        "content": "🔥 <b>calcure</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging events and tasks in a terminal-based environment with a focus on efficiency and customization.\n<br>\n✨ <b>Key Features:</b>\n• Vim keys\n• View tasks and events from .ics files synced with clouds\n• Todo list with subtasks, deadlines, and timers\n• Birthdays of your abook contacts\n• Import of events and tasks from calcurse\n<br>\n📖 <b>Summary:</b>\nCalcure is a modern, terminal-based calendar and task manager designed for efficient event and task management. It offers a customizable interface, Vim keybindings, and supports syncing with cloud calendars, importing from Calcurse, and displaying birthdays from abook.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/anufrievroman/calcure?embed=0\">View Project</a>\n• <a href=\"https://anufrievroman.gitbook.io/calcure?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ebe6bf5040328c1355d7a48db2313cafaaaeba97fc6c393b6892d5fbcf13adbd/anufrievroman/calcure",
-        "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 866837972,
-        "content": "🚀 <b>swift-realtime-openai</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nImplementing real-time, multi-modal conversations with OpenAI in Swift applications.\n<br>\n✨ <b>Key Features:</b>\n• Simple interface for OpenAI's Realtime API\n• Automatic microphone recording\n• Assistant response playback\n• Transparent API layer for advanced use cases\n• Swift Package Manager support\n<br>\n📖 <b>Summary:</b>\nThis repository provides a modern Swift SDK for OpenAI's Realtime API, enabling developers to easily implement multi-modal conversations in their Swift applications. It handles microphone recording, assistant response playback, and offers a transparent layer for advanced API usage.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/m1guelpf/swift-realtime-openai?embed=0\">View Project</a>\n• <a href=\"https://swiftpackageindex.com/m1guelpf/swift-realtime-openai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/866837972/3d2cce32-a711-45c1-a639-a2ef1d78a2b6",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 990411392,
-        "content": "🚀 <b>rhythm</b> | Lua\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying music on Linux systems with options for both GUI and terminal interfaces.\n<br>\n✨ <b>Key Features:</b>\n• Multi-Format Support\n• Stunning Visualizations\n• Dual Interface (CLI and GUI)\n• Linux Native\n• Smart Playlist Management\n<br>\n📖 <b>Summary:</b>\nRhythm is a modern Linux music player that offers both a graphical user interface (GUI) and a terminal user interface (TUI). It supports multiple audio formats, provides stunning visualizations, and is optimized for Linux systems, making it suitable for both desktop and server environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dexter-xD/rhythm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/74036ff204619cd4fe7fdc44885e421657d105ca24327e152b12deaf9c5a7512/dexter-xD/rhythm",
-        "platform": "telegram",
-        "quality_score": 0.7499999999999999
-    },
-    {
-        "project_id": 10126031,
-        "content": "🚀 <b>mixxx</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nPerforming live DJ mixes\n<br>\n✨ <b>Key Features:</b>\n• Live mixing capabilities\n• Cross-platform support (GNU/Linux, Windows, macOS)\n• Bug tracker using Github Issues\n• Build instructions for multiple operating systems\n• Documentation and community support resources\n<br>\n📖 <b>Summary:</b>\nMixxx is a free, open-source DJ software that provides all the necessary tools for live DJ mixes. It supports various operating systems, including GNU/Linux, Windows, and macOS, and offers features for both beginners and experienced DJs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mixxxdj/mixxx?embed=0\">View Project</a>\n• <a href=\"http://mixxx.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e34b187fcfa640d460a3b42e7f1cc2a7d48d166fa0d876ad8b21bc7eba013259/mixxxdj/mixxx",
+        "project_id": 501385974,
+        "content": "✨ <b>thingino-firmware</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and deploying custom firmware for Ingenic SoC IP cameras.\n<br>\n✨ <b>Key Features:</b>\n• Open-source firmware for Ingenic SoC IP cameras\n• Buildroot-based build system\n• Stable and master branches for different development stages\n• Support for ONVIF server and Prudynt\n• Experimental features like Matroska, Opus, and improved file recording\n<br>\n📖 <b>Summary:</b>\nThingino is an open-source firmware for Ingenic SoC IP cameras. It provides a build environment and pre-built binaries for creating custom firmware images, with stable and master branches for different development needs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/themactep/thingino-firmware?embed=0\">View Project</a>\n• <a href=\"https://thingino.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/501385974/649e3351-9081-416d-ab64-7696d69318e7",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 1048067190,
-        "content": "✨ <b>sshm</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and connecting to SSH hosts via a terminal-based user interface.\n<br>\n✨ <b>Key Features:</b>\n• Beautiful TUI Interface\n• Quick Connect\n• Port Forwarding\n• Easy Management\n• Tag Support\n<br>\n📖 <b>Summary:</b>\nSSHM is a command-line SSH manager written in Go that provides a TUI for managing and connecting to SSH hosts. It simplifies SSH connection management with features like port forwarding, tag support, smart search, and real-time status updates, aiming to make the process more efficient and user-friendly.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Gu1llaum-3/sshm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e0e1afc69160e377acad65a835f612ae54e02f3845d95afb0e3fde41b31174e4/Gu1llaum-3/sshm",
+        "project_id": 308168474,
+        "content": "🌟 <b>PyPDFForm</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating PDF form filling and creation processes.\n<br>\n✨ <b>Key Features:</b>\n• Inspect PDF form data requirements\n• Fill PDF forms using Python dictionaries\n• Create form fields on PDFs\n• Extract pages from PDFs\n• Merge multiple PDFs\n<br>\n📖 <b>Summary:</b>\nPyPDFForm is a Python library designed for processing PDF forms. It provides functionalities to inspect form data requirements, fill forms using Python dictionaries, create form fields, extract pages, and merge multiple PDFs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/chinapandaman/PyPDFForm?embed=0\">View Project</a>\n• <a href=\"https://chinapandaman.github.io/PyPDFForm/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7241457480fa88b2ea9bf7830517d0e44a3b566ce309c21b2f7f6e957464c673/chinapandaman/PyPDFForm",
         "platform": "telegram",
-        "quality_score": 0.8500000000000001
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 970933782,
+        "content": "🔥 <b>swaptop</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring swap usage on Linux and Windows systems to identify processes consuming swap memory.\n<br>\n✨ <b>Key Features:</b>\n• Real-time animated swap usage graph\n• Process-level swap consumption tracking\n• Grouped view by software (aggregate mode)\n• Multiple color themes\n• Unit conversion (KB/MB/GB)\n<br>\n📖 <b>Summary:</b>\nSwaptop is a real-time swap usage monitor for Linux and Windows systems. It provides a TUI interface to list processes using swap, displays consumption per-process/per-software, and provides live-updating graphs of swap usage.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/luis-ota/swaptop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/00bed143a58de5941a71142bedfde40c75269e2c0d747acefbd7733624f67c9b/luis-ota/swaptop",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 415681358,
+        "content": "✨ <b>cassowary</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning Windows applications seamlessly on Linux systems.\n<br>\n✨ <b>Key Features:</b>\n• Running Windows applications as if they were native applications\n• Opening files from a Linux host directly inside Windows applications\n• Using Linux apps to open files that are on a Windows VM\n• Allowing easy access between both the guest and host filesystems\n• An easy-to-use configuration utility\n<br>\n📖 <b>Summary:</b>\nCassowary allows users to run Windows applications on Linux as if they were native, leveraging FreeRDP and remote app technology. It facilitates seamless file access between Linux hosts and Windows VMs, providing an easy-to-use configuration utility and application launcher.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/casualsnek/cassowary?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/670ad3b6434924f852df5fd66675e0f87024991b0f618ab601d2689962279649/casualsnek/cassowary",
+        "platform": "telegram",
+        "quality_score": 0.6000000000000001
+    },
+    {
+        "project_id": 72343657,
+        "content": "🌟 <b>lossless-cut</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nLossless trimming and cutting of video and audio files to save space and extract desired segments without re-encoding.\n<br>\n✨ <b>Key Features:</b>\n• Lossless cutting of most video and audio formats\n• Smart cut (experimental)\n• Losslessly cut out parts of video/audio\n• Losslessly rearrange the order of video/audio segments\n• Lossless merge/concatenation of arbitrary files\n<br>\n📖 <b>Summary:</b>\nLosslessCut is a cross-platform FFmpeg GUI designed for fast, lossless video and audio editing. Its primary function is lossless trimming and cutting of media files, allowing users to quickly extract desired segments without re-encoding, thus preserving original quality and saving space.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mifi/lossless-cut?embed=0\">View Project</a>\n• <a href=\"https://losslesscut.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b77140100a8d157e9b68b44e1ae26a9473a675b42842c1f7b204b83978a42835/mifi/lossless-cut",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 1051639819,
+        "content": "💡 <b>bake</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating standalone, self-contained microVM executables for running applications in isolated environments.\n<br>\n✨ <b>Key Features:</b>\n• Embeds Firecracker microVM resources into a single executable\n• Bidirectional communication between VM and host\n• Userspace implementation, no root privileges required\n• Networking and directory sharing\n• Supports amd64 and arm64 architectures\n<br>\n📖 <b>Summary:</b>\nThe `bake` tool is a Linux CLI application written in Rust that embeds a microVM (using Firecracker) and its resources into a single executable. This allows users to run microVMs without root privileges, enabling bidirectional communication, networking, and directory sharing between the host and the VM.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/losfair/bake?embed=0\">View Project</a>\n• <a href=\"https://bottlefire.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/189838d5cbea603b0368077239d06e942b35fe9024ad2b5894d84b0db0e39941/losfair/bake",
+        "platform": "telegram",
+        "quality_score": 0.5499999999999999
+    },
+    {
+        "project_id": 719438276,
+        "content": "🔥 <b>gramax</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating, versioning, and publishing documentation as code.\n<br>\n✨ <b>Key Features:</b>\n• Visual Editor\n• Cross-Platform support\n• Local Storage in Markdown\n• Customizable Styles\n• Multilingual Support\n<br>\n📖 <b>Summary:</b>\nGramax is an open-source, local-first documentation tool that allows users to create, edit, version, and publish documentation sites using Markdown. It features a visual editor, Git integration, and supports multiple languages, aiming to provide a flexible alternative to traditional static site generators and platforms like GitBook.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Gram-ax/gramax?embed=0\">View Project</a>\n• <a href=\"https://gram.ax?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/24daf6332dcd64e852d8b0c0ce8c0179a52d3c2e159cf9bed8627b20c8912f13/Gram-ax/gramax",
+        "platform": "telegram",
+        "quality_score": 0.8
     }
 ]
