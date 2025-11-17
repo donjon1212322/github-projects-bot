@@ -1,7 +1,0 @@
-{
-    "project_id": 1051639819,
-    "content": "💡 <b>bake</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating standalone, self-contained microVM executables for running applications in isolated environments.\n<br>\n✨ <b>Key Features:</b>\n• Embeds Firecracker microVM resources into a single executable\n• Bidirectional communication between VM and host\n• Userspace implementation, no root privileges required\n• Networking and directory sharing\n• Supports amd64 and arm64 architectures\n<br>\n📖 <b>Summary:</b>\nThe `bake` tool is a Linux CLI application written in Rust that embeds a microVM (using Firecracker) and its resources into a single executable. This allows users to run microVMs without root privileges, enabling bidirectional communication, networking, and directory sharing between the host and the VM.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/losfair/bake?embed=0\">View Project</a>\n• <a href=\"https://bottlefire.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/189838d5cbea603b0368077239d06e942b35fe9024ad2b5894d84b0db0e39941/losfair/bake",
-    "platform": "telegram",
-    "quality_score": 0.5499999999999999
-}
