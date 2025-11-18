@@ -1,0 +1,7 @@
+{
+    "project_id": 1090021972,
+    "content": "🚀 <b>ComfyUI-Video-Stabilizer</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nStabilizing video footage within ComfyUI workflows, particularly for AI-generated or manipulated video content, with options for handling edge artifacts and integration with outpainting tools.\n<br>\n✨ <b>Key Features:</b>\n• Video stabilization using classic feature points and Lucas-Kanade (LK) optical flow.\n• Video stabilization using DIS Optical Flow.\n<br>\n📖 <b>Summary:</b>\nThe ComfyUI Video Stabilizer is a custom node for ComfyUI that stabilizes video footage using either classic feature point tracking or optical flow methods. It offers various framing modes to handle stabilization-induced edge artifacts, including cropping, padding, and expanding the canvas, with padding output as a mask for further processing like outpainting.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nomadoor/ComfyUI-Video-Stabilizer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/6af45ee7f0479f8a9c44f4945099257bcd82e3411b3c31a70c8988c95937615d/nomadoor/ComfyUI-Video-Stabilizer",
+    "platform": "telegram",
+    "quality_score": 0.5499999999999999
+}

@@ -1,37 +1,37 @@
 [
     {
-        "project_id": 332757634,
-        "content": "💡 <b>supercookie</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nDemonstration and education regarding favicon-based browser fingerprinting techniques and their potential privacy implications.\n<br>\n✨ <b>Key Features:</b>\n• Favicon-based browser fingerprinting\n• Persistent identification across browsing sessions\n• Circumvention of common privacy measures (incognito mode, cache clearing, VPNs, ad blockers)\n• Docker and local machine installation options\n<br>\n📖 <b>Summary:</b>\nThe \"supercookie\" repository demonstrates a browser fingerprinting technique that utilizes favicons to assign a unique and persistent identifier to website visitors. This method circumvents traditional tracking countermeasures like clearing cache, incognito mode, VPNs, and ad blockers, raising privacy concerns.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jonasstrehle/supercookie?embed=0\">View Project</a>\n• <a href=\"https://supercookie.me?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/332757634/08085880-6281-11eb-8154-932024e037a6",
+        "project_id": 1090021972,
+        "content": "🚀 <b>ComfyUI-Video-Stabilizer</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nStabilizing video footage within ComfyUI workflows, particularly for AI-generated or manipulated video content, with options for handling edge artifacts and integration with outpainting tools.\n<br>\n✨ <b>Key Features:</b>\n• Video stabilization using classic feature points and Lucas-Kanade (LK) optical flow.\n• Video stabilization using DIS Optical Flow.\n<br>\n📖 <b>Summary:</b>\nThe ComfyUI Video Stabilizer is a custom node for ComfyUI that stabilizes video footage using either classic feature point tracking or optical flow methods. It offers various framing modes to handle stabilization-induced edge artifacts, including cropping, padding, and expanding the canvas, with padding output as a mask for further processing like outpainting.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nomadoor/ComfyUI-Video-Stabilizer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6af45ee7f0479f8a9c44f4945099257bcd82e3411b3c31a70c8988c95937615d/nomadoor/ComfyUI-Video-Stabilizer",
         "platform": "telegram",
-        "quality_score": 0.45
+        "quality_score": 0.5499999999999999
     },
     {
-        "project_id": 478269472,
-        "content": "✨ <b>lodestone</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nHosting and managing game servers, particularly Minecraft, with a focus on ease of use and security.\n<br>\n✨ <b>Key Features:</b>\n• Clean and intuitive UI\n• One-click installation and setup\n• Real-time server status\n• File manager\n• Collaborative remote server and resource management\n<br>\n📖 <b>Summary:</b>\nLodestone is an open-source server hosting tool designed for Minecraft and other multiplayer games. It aims to provide an easy-to-use, secure, and feature-rich experience for server management, with a focus on collaborative remote management and user permission controls.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lodestone-Team/lodestone?embed=0\">View Project</a>\n• <a href=\"https://www.lodestone.cc/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ad8ec6298e7c69051a63ae5c9f766e3bdde8de81b0d3b863c2aec778f86ee17d/Lodestone-Team/lodestone",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 710539769,
-        "content": "🚀 <b>fuji-web</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating online tasks within a web browser using AI.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered browser automation\n• Autonomous website navigation\n• Task execution based on user intent\n• Step-by-step explanation of actions\n• Integration with OpenAI and Anthropic APIs\n<br>\n📖 <b>Summary:</b>\nFuji-Web is an AI agent that operates within a browser sidepanel, enabling users to automate online tasks through simple commands. It leverages AI to understand user intent, autonomously navigate websites, and execute tasks while providing explanations for each step.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/normal-computing/fuji-web?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f5c1b5e0c18a3208626ad4eff6c30eae98d190a79e9440cad77c86e915b1fc1c/normal-computing/fuji-web",
-        "platform": "telegram",
-        "quality_score": 0.7000000000000001
-    },
-    {
-        "project_id": 1051869896,
-        "content": "🚀 <b>flint</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging KVM virtual machines with a focus on simplicity and efficiency.\n<br>\n✨ <b>Key Features:</b>\n• KVM management\n• Web UI\n• CLI\n• API\n• Lightweight (<11MB binary)\n<br>\n📖 <b>Summary:</b>\nFlint is a lightweight KVM management tool designed for developers, sysadmins, and home labs. It provides a modern web UI, CLI, and API for managing virtual machines, emphasizing simplicity and efficiency by avoiding XML and bloat.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/volantvm/flint?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1051869896/ad0c965b-19f2-4f39-b123-047325db7b69",
-        "platform": "telegram",
-        "quality_score": 0.7499999999999999
-    },
-    {
-        "project_id": 457435290,
-        "content": "💡 <b>go-whatsapp-web-multidevice</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nIntegrating WhatsApp functionality into applications via a REST API, enabling automated messaging, notifications, and chatbot interactions.\n<br>\n✨ <b>Key Features:</b>\n• Send WhatsApp messages via HTTP API\n• MCP (Model Context Protocol) Server Support\n• Send Stickers (automatic WebP conversion and resizing)\n• Webhook for received messages\n• Basic Authentication\n<br>\n📖 <b>Summary:</b>\nThe go-whatsapp-web-multidevice repository provides a WhatsApp REST API built with Golang, offering efficient memory use and support for UI, Webhooks, and MCP (Model Context Protocol). It allows developers to integrate WhatsApp functionality into their applications, including sending messages, managing contacts, and receiving updates via webhooks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aldinokemal/go-whatsapp-web-multidevice?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/457435290/70c0c823-04d7-4410-9f7d-8b8331498061",
+        "project_id": 871484973,
+        "content": "✨ <b>Shiru</b> | Svelte\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and streaming personal media library.\n<br>\n✨ <b>Key Features:</b>\n• Anime integration with AniList & MyAnimeList\n• Full subtitle support (softcoded and external files)\n• Seamless video controls and keyboard shortcuts\n• Real-time library playback\n• Dub & Sub Notifications\n<br>\n📖 <b>Summary:</b>\nShiru is a personal media library manager that allows users to organize, track, and stream their legally owned media content in real time. It offers features like anime integration with AniList & MyAnimeList, full subtitle support, seamless video controls, and real-time library playback.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/RockinChaos/Shiru?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7e1994d23b6ee8c12b8c1c1a89722b38c7457e606443a19fc0448805379c1bfd/RockinChaos/Shiru",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 704828551,
+        "content": "🔥 <b>kkTerminal</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a web-based terminal interface for SSH connections to remote servers.\n<br>\n✨ <b>Key Features:</b>\n• Web SSH connection\n• iframe integration\n• Customizable terminal configuration\n• Internationalization (Chinese and English)\n• Local PC deployment\n<br>\n📖 <b>Summary:</b>\nkkTerminal is a web-based SSH client that allows users to access and manage remote servers through a terminal interface in their browser. It supports features like file management, customizable settings, and integration into third-party websites via iframe.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/zyyzyykk/kkTerminal?embed=0\">View Project</a>\n• <a href=\"https://ssh.kkbpro.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4ffc6f7c830d2199fb1ebf997b6bea8b7091e760365b0a47d8b0c3398c47ba05/zyyzyykk/kkTerminal",
+        "platform": "telegram",
+        "quality_score": 0.5499999999999999
+    },
+    {
+        "project_id": 1031850904,
+        "content": "💡 <b>prom2grafana</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mr-karan/prom2grafana?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/60365963336fe16ad2b08a5d91c98092508112995ec30bad4637275376dd6625/mr-karan/prom2grafana",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 1027202963,
+        "content": "💡 <b>KubeForge</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nVisually building, validating, and managing Kubernetes deployment configurations.\n<br>\n✨ <b>Key Features:</b>\n• Drag-and-drop interface for Kubernetes objects\n• Smart schema awareness powered by Kubernetes JSON schemas\n• Modular component editor with support for templates and reusable specs\n• Real-time visual updates and dependency linking between resources\n<br>\n📖 <b>Summary:</b>\nKubeForge is a visual editor for Kubernetes deployments that simplifies building, validating, and managing Kubernetes configurations. It provides an intuitive drag-and-drop interface with live schema references to streamline the creation of valid deployment YAML files, targeting both beginners and experienced users.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kubenote/KubeForge?embed=0\">View Project</a>\n• <a href=\"https://demo.kubefor.ge?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9ed8207b1f310418ef2bea33a0e7b4eab1b6a3c789fc4fb631b3f105cd6a0602/kubenote/KubeForge",
+        "platform": "telegram",
+        "quality_score": 0.5499999999999999
     }
 ]
