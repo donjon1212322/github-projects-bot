@@ -1,37 +1,58 @@
 [
     {
-        "project_id": 1090021972,
-        "content": "🚀 <b>ComfyUI-Video-Stabilizer</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nStabilizing video footage within ComfyUI workflows, particularly for AI-generated or manipulated video content, with options for handling edge artifacts and integration with outpainting tools.\n<br>\n✨ <b>Key Features:</b>\n• Video stabilization using classic feature points and Lucas-Kanade (LK) optical flow.\n• Video stabilization using DIS Optical Flow.\n<br>\n📖 <b>Summary:</b>\nThe ComfyUI Video Stabilizer is a custom node for ComfyUI that stabilizes video footage using either classic feature point tracking or optical flow methods. It offers various framing modes to handle stabilization-induced edge artifacts, including cropping, padding, and expanding the canvas, with padding output as a mask for further processing like outpainting.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nomadoor/ComfyUI-Video-Stabilizer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6af45ee7f0479f8a9c44f4945099257bcd82e3411b3c31a70c8988c95937615d/nomadoor/ComfyUI-Video-Stabilizer",
+        "project_id": 624422802,
+        "content": "🚀 <b>lang-segment-anything</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/luca-medeiros/lang-segment-anything?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/cbe6a7d5ae939f256a0744ad340273694ae73a56f5da0f2bb0d8c8a6c3e02918/luca-medeiros/lang-segment-anything",
         "platform": "telegram",
-        "quality_score": 0.5499999999999999
+        "quality_score": 0.7
     },
     {
-        "project_id": 871484973,
-        "content": "✨ <b>Shiru</b> | Svelte\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and streaming personal media library.\n<br>\n✨ <b>Key Features:</b>\n• Anime integration with AniList & MyAnimeList\n• Full subtitle support (softcoded and external files)\n• Seamless video controls and keyboard shortcuts\n• Real-time library playback\n• Dub & Sub Notifications\n<br>\n📖 <b>Summary:</b>\nShiru is a personal media library manager that allows users to organize, track, and stream their legally owned media content in real time. It offers features like anime integration with AniList & MyAnimeList, full subtitle support, seamless video controls, and real-time library playback.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/RockinChaos/Shiru?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7e1994d23b6ee8c12b8c1c1a89722b38c7457e606443a19fc0448805379c1bfd/RockinChaos/Shiru",
+        "project_id": 1078675918,
+        "content": "✨ <b>ai-browser</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-powered desktop automation and intelligent browsing.\n<br>\n✨ <b>Key Features:</b>\n• Multiple AI Providers (DeepSeek, Qwen, Google Gemini, Anthropic Claude, OpenRouter)\n• UI Configuration for AI models and API keys\n• Agent Configuration with custom prompts and MCP tools\n• Centralized toolbox for system features\n<br>\n📖 <b>Summary:</b>\nThe ai-browser repository is an AI-powered desktop automation agent built with Next.js and Electron. It allows users to control their computer like a native desktop application, leveraging multi-modal AI task execution, scheduled tasks, social media integration, and advanced file management with support for multiple AI providers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DeepFundAI/ai-browser?embed=0\">View Project</a>\n• <a href=\"https://www.deepfundai.com/altas?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c9331981e86587944a1a8bdc7ca65fec8b0619cd79e40bcf336b51df83eb7dcc/DeepFundAI/ai-browser",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 342166902,
+        "content": "🌟 <b>pluGET</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating the management and updating of Minecraft server plugins and server software.\n<br>\n✨ <b>Key Features:</b>\n• Works locally or through SFTP/FTP\n• Command line interface\n• Checks for updates and downloads latest plugin versions\n• Multi-platform plugin support (Spigot, Modrinth, GitHub)\n<br>\n📖 <b>Summary:</b>\npluGET is a Python-based package manager designed to simplify the management of Minecraft server plugins and server software. It automates the process of checking for updates and downloading the latest versions of plugins from sources like Spigot, Modrinth, and GitHub, as well as server software like PaperMC and Purpur. It supports both local and remote servers via SFTP/FTP.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Neocky/pluGET?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/342166902/4af76480-857f-11eb-8373-fd34c56f0ca1",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 863717537,
+        "content": "🔥 <b>librepods</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling full AirPods functionality, including noise control, ear detection, and customized settings, on Android and Linux devices.\n<br>\n✨ <b>Key Features:</b>\n• Noise Control Modes\n• Ear Detection\n• Battery Status\n• Head Gestures\n• Conversational Awareness\n<br>\n📖 <b>Summary:</b>\nLibrePods is a Kotlin-based project aiming to unlock Apple's AirPods features on non-Apple devices, specifically Android and Linux. It provides access to features like noise control, ear detection, and battery status, effectively liberating AirPods from the Apple ecosystem.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kavishdevar/librepods?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/863717537/80b4f2f1-52f9-4c3e-b32a-779933701089",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 1185279,
+        "content": "🔥 <b>OpenEmu</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying retro video games on macOS using a single, unified application.\n<br>\n✨ <b>Key Features:</b>\n• macOS native front end for emulation\n• Modular architecture with game engine plugins\n• Support for numerous retro consoles\n• Leverages macOS technologies like Cocoa, Metal, and Core Animation\n• Auto-updating via Sparkle\n<br>\n📖 <b>Summary:</b>\nOpenEmu is an open-source macOS application that emulates retro video game consoles. It uses a modular architecture, allowing it to support various game engines as plugins, providing a unified and native macOS front end for playing classic games.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/OpenEmu/OpenEmu?embed=0\">View Project</a>\n• <a href=\"https://openemu.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e853f25b63e36b9123d5fbcdaee30ea700cd45254288522183eba87581349680/OpenEmu/OpenEmu",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 845839905,
+        "content": "✨ <b>AIPex</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating browser tasks using natural language commands.\n<br>\n✨ <b>Key Features:</b>\n• Browser automation using natural language commands\n• Open source alternative to ChatGPT Atlas\n• No browser migration required\n• Complete feature parity with ChatGPT Atlas\n• Optimized performance for speed and efficiency\n<br>\n📖 <b>Summary:</b>\nAIPex is an open-source Chrome extension that automates browser tasks using natural language commands, positioning itself as an alternative to ChatGPT Atlas. It allows users to automate workflows and repetitive actions directly within their existing browser, eliminating the need for browser migration and offering feature parity with enhanced performance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AIPexStudio/AIPex?embed=0\">View Project</a>\n• <a href=\"https://claudechrome.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/845839905/9df896c0-dcc1-4f21-8e37-895814fadc80",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 704828551,
-        "content": "🔥 <b>kkTerminal</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a web-based terminal interface for SSH connections to remote servers.\n<br>\n✨ <b>Key Features:</b>\n• Web SSH connection\n• iframe integration\n• Customizable terminal configuration\n• Internationalization (Chinese and English)\n• Local PC deployment\n<br>\n📖 <b>Summary:</b>\nkkTerminal is a web-based SSH client that allows users to access and manage remote servers through a terminal interface in their browser. It supports features like file management, customizable settings, and integration into third-party websites via iframe.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/zyyzyykk/kkTerminal?embed=0\">View Project</a>\n• <a href=\"https://ssh.kkbpro.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4ffc6f7c830d2199fb1ebf997b6bea8b7091e760365b0a47d8b0c3398c47ba05/zyyzyykk/kkTerminal",
-        "platform": "telegram",
-        "quality_score": 0.5499999999999999
-    },
-    {
-        "project_id": 1031850904,
-        "content": "💡 <b>prom2grafana</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mr-karan/prom2grafana?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/60365963336fe16ad2b08a5d91c98092508112995ec30bad4637275376dd6625/mr-karan/prom2grafana",
+        "project_id": 1085959370,
+        "content": "💡 <b>C-Compile-Helper</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying C/C++ compilation for beginners and users who prefer not to use complex build systems.\n<br>\n✨ <b>Key Features:</b>\n• Automatic compiler detection\n• Compiler functionality check\n• User-friendly compiler selection\n• Customizable compilation arguments\n• Language support (English, Russian)\n<br>\n📖 <b>Summary:</b>\nThe C++ Compile Helper is a Python script designed to simplify the compilation of C/C++ files. It automatically detects available compilers, validates their functionality, and provides a user-friendly interface for compiling code without the complexities of build systems. It is primarily aimed at beginners who need a simple way to compile C++ code.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/qwoj274/C-Compile-Helper?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6805bb977d76f8e8c3985b29d34a6c2f40474f9795fd173625e694496a1d7504/qwoj274/C-Compile-Helper",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 1027202963,
-        "content": "💡 <b>KubeForge</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nVisually building, validating, and managing Kubernetes deployment configurations.\n<br>\n✨ <b>Key Features:</b>\n• Drag-and-drop interface for Kubernetes objects\n• Smart schema awareness powered by Kubernetes JSON schemas\n• Modular component editor with support for templates and reusable specs\n• Real-time visual updates and dependency linking between resources\n<br>\n📖 <b>Summary:</b>\nKubeForge is a visual editor for Kubernetes deployments that simplifies building, validating, and managing Kubernetes configurations. It provides an intuitive drag-and-drop interface with live schema references to streamline the creation of valid deployment YAML files, targeting both beginners and experienced users.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kubenote/KubeForge?embed=0\">View Project</a>\n• <a href=\"https://demo.kubefor.ge?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9ed8207b1f310418ef2bea33a0e7b4eab1b6a3c789fc4fb631b3f105cd6a0602/kubenote/KubeForge",
+        "project_id": 1087265759,
+        "content": "🔥 <b>scl</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDefining configuration files in a simple, readable, and strongly-typed format.\n<br>\n✨ <b>Key Features:</b>\n• Strong typing with explicit type declarations\n• Nested objects with `class` type\n• Typed lists supporting num, fl, bool, str\n• Comments using `[ comment text ]` syntax\n• Multiline strings with `ml` type\n<br>\n📖 <b>Summary:</b>\nThe SCL repository defines a new configuration language with features like strong typing, nested objects, typed lists, and multiline strings. It aims to provide a human-friendly configuration format and currently has a Python library available, with plans for libraries in other languages like Kotlin, Java, Rust, Elixir, Ruby, and JavaScript/TypeScript.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vaflyares/scl?embed=0\">View Project</a>\n• <a href=\"https://github.com/shareui/scl?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/14aa89377dff7271c62aacfe46bb0809a15519748531d1e39fd4881bffa1e6cb/vaflyares/scl",
         "platform": "telegram",
-        "quality_score": 0.5499999999999999
+        "quality_score": 0.44999999999999996
     }
 ]
