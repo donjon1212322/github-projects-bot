@@ -1,58 +1,44 @@
 [
     {
-        "project_id": 624422802,
-        "content": "🚀 <b>lang-segment-anything</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/luca-medeiros/lang-segment-anything?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/cbe6a7d5ae939f256a0744ad340273694ae73a56f5da0f2bb0d8c8a6c3e02918/luca-medeiros/lang-segment-anything",
+        "project_id": 642515570,
+        "content": "🔥 <b>havn</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nNetwork port scanning for identifying open ports on a target address or IP.\n<br>\n✨ <b>Key Features:</b>\n• Fast port scanning\n• Configurable options\n• Asynchronous Tokio multithreading\n• Docker compatibility\n• Small binary size (<1mb)\n<br>\n📖 <b>Summary:</b>\nhavn is a fast and configurable port scanner written in Rust, utilizing asynchronous Tokio multithreading for efficient scanning. It offers reasonable defaults and configurable options, making it suitable for various scanning needs across multiple platforms, including Docker.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mrjackwills/havn?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/84e0a41a75a29ba9b2052d09b3bf53a465d6c2aad748c2000cfe3b94083a4b15/mrjackwills/havn",
         "platform": "telegram",
-        "quality_score": 0.7
+        "quality_score": 0.7499999999999999
     },
     {
-        "project_id": 1078675918,
-        "content": "✨ <b>ai-browser</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-powered desktop automation and intelligent browsing.\n<br>\n✨ <b>Key Features:</b>\n• Multiple AI Providers (DeepSeek, Qwen, Google Gemini, Anthropic Claude, OpenRouter)\n• UI Configuration for AI models and API keys\n• Agent Configuration with custom prompts and MCP tools\n• Centralized toolbox for system features\n<br>\n📖 <b>Summary:</b>\nThe ai-browser repository is an AI-powered desktop automation agent built with Next.js and Electron. It allows users to control their computer like a native desktop application, leveraging multi-modal AI task execution, scheduled tasks, social media integration, and advanced file management with support for multiple AI providers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DeepFundAI/ai-browser?embed=0\">View Project</a>\n• <a href=\"https://www.deepfundai.com/altas?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c9331981e86587944a1a8bdc7ca65fec8b0619cd79e40bcf336b51df83eb7dcc/DeepFundAI/ai-browser",
+        "project_id": 38976571,
+        "content": "🔥 <b>autocomplete</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nImplementing autocomplete functionality in web applications.\n<br>\n✨ <b>Key Features:</b>\n• Fast autocomplete functionality\n• Support for various data sources (static, Algolia, recent searches)\n• Full control over DOM elements\n• Accessibility attributes\n• Virtual DOM compatibility (React, Vue, etc.)\n<br>\n📖 <b>Summary:</b>\nThe `autocomplete` library is a JavaScript library designed to enable developers to quickly build autocomplete experiences in their applications. It provides the core functionality for handling user input, fetching suggestions from various data sources, and rendering the autocomplete UI, while giving developers full control over the DOM elements used for output.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/algolia/autocomplete?embed=0\">View Project</a>\n• <a href=\"https://alg.li/autocomplete?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/38976571/6aaa2100-abef-11eb-93c3-9e2977fc734c",
         "platform": "telegram",
-        "quality_score": 0.7
+        "quality_score": 0.75
     },
     {
-        "project_id": 342166902,
-        "content": "🌟 <b>pluGET</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating the management and updating of Minecraft server plugins and server software.\n<br>\n✨ <b>Key Features:</b>\n• Works locally or through SFTP/FTP\n• Command line interface\n• Checks for updates and downloads latest plugin versions\n• Multi-platform plugin support (Spigot, Modrinth, GitHub)\n<br>\n📖 <b>Summary:</b>\npluGET is a Python-based package manager designed to simplify the management of Minecraft server plugins and server software. It automates the process of checking for updates and downloading the latest versions of plugins from sources like Spigot, Modrinth, and GitHub, as well as server software like PaperMC and Purpur. It supports both local and remote servers via SFTP/FTP.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Neocky/pluGET?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/342166902/4af76480-857f-11eb-8373-fd34c56f0ca1",
+        "project_id": 1055978902,
+        "content": "🔥 <b>maildrop</b> | CSS\n<br>\n🎯 <b>Primary Use Case:</b>\nReceiving emails on a disposable address for privacy and convenience.\n<br>\n✨ <b>Key Features:</b>\n• Random email generation\n• Custom email addresses\n• Password-protected inboxes\n• Clean UI\n• Easy setup\n<br>\n📖 <b>Summary:</b>\nMaildrop is a self-hostable, open-source disposable email service. It allows users to receive emails at randomly generated addresses on their own domain, which is useful for signing up for services without revealing a personal email address or creating multiple accounts.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/haileyydev/maildrop?embed=0\">View Project</a>\n• <a href=\"https://maildrop.haileyy.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/47ce57c16c630a4b8349ad3ae96d252d60bd497ee20ec0334d227a9d1f55a8bc/haileyydev/maildrop",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 116322814,
+        "content": "🌟 <b>howdy</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPassword-free authentication on Linux systems using facial recognition.\n<br>\n✨ <b>Key Features:</b>\n• Facial authentication\n• PAM integration\n• IR camera support\n• Support for multiple Linux distributions (Ubuntu, Debian, Arch Linux, Fedora, openSUSE)\n<br>\n📖 <b>Summary:</b>\nHowdy provides Windows Hello-style facial authentication for Linux systems. It leverages IR emitters and cameras for facial recognition, enabling password-free authentication for login, screen lock, sudo, and other PAM-integrated functions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/boltgolt/howdy?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/116322814/14ef1700-65da-11e9-9ef0-e720d09a7731",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 1041472829,
+        "content": "✨ <b>DiffMem</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nLong-term memory storage and retrieval for AI agents, particularly in conversational systems, where the ability to track and query the evolution of information is important.\n<br>\n✨ <b>Key Features:</b>\n• Git-based version control for memory\n• Markdown files for human-readable storage\n• In-memory BM25 index for fast retrieval\n• Differential intelligence using Git diffs and logs\n<br>\n📖 <b>Summary:</b>\nDiffMem is a Git-based memory backend for AI agents and conversational systems. It leverages Git for version control and Markdown files for human-readable storage, enabling efficient tracking and retrieval of information. The system uses an in-memory BM25 index for fast, explainable search, making it suitable for long-horizon AI applications where memories evolve over time.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Growth-Kinetics/DiffMem?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fa1cc8e29d204f3fdfa22a02599c9c1859570f5977e9b0f796f6a96651df98af/Growth-Kinetics/DiffMem",
         "platform": "telegram",
         "quality_score": 0.6
     },
     {
-        "project_id": 863717537,
-        "content": "🔥 <b>librepods</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling full AirPods functionality, including noise control, ear detection, and customized settings, on Android and Linux devices.\n<br>\n✨ <b>Key Features:</b>\n• Noise Control Modes\n• Ear Detection\n• Battery Status\n• Head Gestures\n• Conversational Awareness\n<br>\n📖 <b>Summary:</b>\nLibrePods is a Kotlin-based project aiming to unlock Apple's AirPods features on non-Apple devices, specifically Android and Linux. It provides access to features like noise control, ear detection, and battery status, effectively liberating AirPods from the Apple ecosystem.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kavishdevar/librepods?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/863717537/80b4f2f1-52f9-4c3e-b32a-779933701089",
+        "project_id": 944414751,
+        "content": "🔥 <b>blender-mcp</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling Claude AI to control and interact with Blender for 3D modeling and scene creation tasks.\n<br>\n✨ <b>Key Features:</b>\n• Two-way communication between Claude AI and Blender\n• Object manipulation (create, modify, delete)\n• Material control (apply and modify materials and colors)\n• Scene inspection (get detailed information)\n• Code execution (run arbitrary Python code from Claude)\n<br>\n📖 <b>Summary:</b>\nBlenderMCP connects Blender to Claude AI, enabling prompt-assisted 3D modeling, scene creation, and manipulation through the Model Context Protocol (MCP). It allows Claude to directly interact with and control Blender, facilitating tasks like object manipulation, material control, and scene inspection via a socket-based server.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ahujasid/blender-mcp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/951f7d3292beda34e48e104510b040e1a93d83570f76603389b107c6868e94f3/ahujasid/blender-mcp",
         "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1185279,
-        "content": "🔥 <b>OpenEmu</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying retro video games on macOS using a single, unified application.\n<br>\n✨ <b>Key Features:</b>\n• macOS native front end for emulation\n• Modular architecture with game engine plugins\n• Support for numerous retro consoles\n• Leverages macOS technologies like Cocoa, Metal, and Core Animation\n• Auto-updating via Sparkle\n<br>\n📖 <b>Summary:</b>\nOpenEmu is an open-source macOS application that emulates retro video game consoles. It uses a modular architecture, allowing it to support various game engines as plugins, providing a unified and native macOS front end for playing classic games.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/OpenEmu/OpenEmu?embed=0\">View Project</a>\n• <a href=\"https://openemu.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e853f25b63e36b9123d5fbcdaee30ea700cd45254288522183eba87581349680/OpenEmu/OpenEmu",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 845839905,
-        "content": "✨ <b>AIPex</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating browser tasks using natural language commands.\n<br>\n✨ <b>Key Features:</b>\n• Browser automation using natural language commands\n• Open source alternative to ChatGPT Atlas\n• No browser migration required\n• Complete feature parity with ChatGPT Atlas\n• Optimized performance for speed and efficiency\n<br>\n📖 <b>Summary:</b>\nAIPex is an open-source Chrome extension that automates browser tasks using natural language commands, positioning itself as an alternative to ChatGPT Atlas. It allows users to automate workflows and repetitive actions directly within their existing browser, eliminating the need for browser migration and offering feature parity with enhanced performance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AIPexStudio/AIPex?embed=0\">View Project</a>\n• <a href=\"https://claudechrome.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/845839905/9df896c0-dcc1-4f21-8e37-895814fadc80",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 1085959370,
-        "content": "💡 <b>C-Compile-Helper</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying C/C++ compilation for beginners and users who prefer not to use complex build systems.\n<br>\n✨ <b>Key Features:</b>\n• Automatic compiler detection\n• Compiler functionality check\n• User-friendly compiler selection\n• Customizable compilation arguments\n• Language support (English, Russian)\n<br>\n📖 <b>Summary:</b>\nThe C++ Compile Helper is a Python script designed to simplify the compilation of C/C++ files. It automatically detects available compilers, validates their functionality, and provides a user-friendly interface for compiling code without the complexities of build systems. It is primarily aimed at beginners who need a simple way to compile C++ code.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/qwoj274/C-Compile-Helper?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6805bb977d76f8e8c3985b29d34a6c2f40474f9795fd173625e694496a1d7504/qwoj274/C-Compile-Helper",
-        "platform": "telegram",
-        "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 1087265759,
-        "content": "🔥 <b>scl</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDefining configuration files in a simple, readable, and strongly-typed format.\n<br>\n✨ <b>Key Features:</b>\n• Strong typing with explicit type declarations\n• Nested objects with `class` type\n• Typed lists supporting num, fl, bool, str\n• Comments using `[ comment text ]` syntax\n• Multiline strings with `ml` type\n<br>\n📖 <b>Summary:</b>\nThe SCL repository defines a new configuration language with features like strong typing, nested objects, typed lists, and multiline strings. It aims to provide a human-friendly configuration format and currently has a Python library available, with plans for libraries in other languages like Kotlin, Java, Rust, Elixir, Ruby, and JavaScript/TypeScript.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vaflyares/scl?embed=0\">View Project</a>\n• <a href=\"https://github.com/shareui/scl?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/14aa89377dff7271c62aacfe46bb0809a15519748531d1e39fd4881bffa1e6cb/vaflyares/scl",
-        "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.75
     }
 ]
