@@ -1,262 +1,226 @@
 [
     {
-        "id": 608785390,
-        "name": "tiktokenizer",
-        "description": "Online playground for OpenAPI tokenizers",
-        "url": "https://github.com/dqbd/tiktokenizer",
-        "language": "TypeScript",
-        "stars": 1413,
-        "forks": 158,
-        "created_at": "2023-03-02T18:24:33Z",
-        "updated_at": "2025-11-23T09:25:08Z",
+        "id": 22636263,
+        "name": "duplicati",
+        "description": "Store securely encrypted backups in the cloud!",
+        "url": "https://github.com/duplicati/duplicati",
+        "language": "C#",
+        "stars": 13563,
+        "forks": 1001,
+        "created_at": "2014-08-05T08:28:16Z",
+        "updated_at": "2025-11-24T09:50:13Z",
         "topics": [
-            "chatgpt",
-            "nextjs",
-            "openai",
-            "t3-stack",
-            "tiktoken",
-            "tokenizer"
+            "backup",
+            "c-sharp",
+            "client-only-backup",
+            "cloud-backup",
+            "cloud-storage-services",
+            "duplicati",
+            "encryption",
+            "sftp",
+            "tno-backup",
+            "trust-no-one-backup",
+            "webdav"
         ],
-        "quality_score": 0.45,
+        "quality_score": 0.85,
         "contributors_count": 0,
-        "last_commit_date": "2025-04-24T08:55:21Z",
+        "last_commit_date": "2025-11-21T10:30:01Z",
         "media_urls": [
-            "https://repository-images.githubusercontent.com/608785390/5be3148b-a415-4d7a-af18-c77df6375143"
-        ],
-        "homepage": "https://tiktokenizer.vercel.app",
-        "readme_summary": "The Tiktokenizer repository is an online playground for the `openai/tiktoken` library. It allows users to calculate the number of tokens required for a given prompt, which is crucial for working with OpenAI models and managing API costs. The project is built using the T3 Stack and is sponsored by Diagram.",
-        "key_features": [
-            "Online playground",
-            "Token calculation for prompts",
-            "Integration with openai/tiktoken",
-            "Built with T3 Stack"
-        ],
-        "primary_use_case": "Calculating the number of tokens for a given prompt to optimize usage of OpenAI models.",
-        "open_issues": 9,
-        "cover_image_prompt": "A librarian meticulously organizing scrolls of text into labeled jars representing different token counts. The librarian uses a magnifying glass to examine the text, ensuring accurate categorization. Small UI elements displaying token numbers float around the scene. The setting is a cozy, futuristic library with warm lighting. Digital particles representing data flow between the scrolls and jars. The repository name, 'Tiktokenizer,' is subtly displayed on a bookshelf. The composition is clean and focused with a warm color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 387038075,
-        "name": "noisedash",
-        "description": "Self-hostable web tool for generating ambient noises",
-        "url": "https://github.com/kaythomas0/noisedash",
-        "language": "JavaScript",
-        "stars": 343,
-        "forks": 19,
-        "created_at": "2021-07-17T21:16:47Z",
-        "updated_at": "2025-11-23T08:38:51Z",
-        "topics": [
-            "ambient",
-            "ambient-noise",
-            "audio",
-            "javascript",
-            "node",
-            "self-hosted",
-            "vue",
-            "vuetify",
-            "web-audio"
-        ],
-        "quality_score": 0.55,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-13T00:07:13Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/2ff69e5d97e69a91d50fe43a3a974ca9e4b7edf5c3839a0702964a568f437385/kaythomas0/noisedash"
+            "https://opengraph.githubassets.com/d5d5b943c18601b494b34e31935a5514972a6a68bbbe96bc105b46626c313765/duplicati/duplicati"
         ],
         "homepage": "",
-        "readme_summary": "Noisedash is a self-hostable web application designed for generating and customizing ambient noises. It allows users to create personalized soundscapes by combining generated noises with uploaded audio samples, applying audio processing effects, and saving noise profiles for easy access and sharing. The application also includes admin tools for managing multiple users and is designed to be mobile-friendly.",
+        "readme_summary": "Duplicati is a free, open-source backup client written in C# that securely stores encrypted, incremental, and compressed backups on cloud storage services and remote file servers. It supports various destinations like Amazon S3, Google Drive, and WebDAV, and offers features like AES-256 encryption, a built-in scheduler, and flexible backup options.",
         "key_features": [
-            "Generate and customize ambient noises using Tone.js",
-            "Save, import, and export noise profiles",
-            "Fine-tune noises with audio processing tools (filters, LFOs, effects)",
-            "Upload and edit audio samples",
-            "Admin tools for managing multiple users",
-            "Mobile friendly"
+            "AES-256 encryption",
+            "Incremental backups",
+            "Built-in scheduler",
+            "Support for multiple cloud storage services (Amazon S3, Google Drive, WebDAV, etc.)",
+            "Command-line and GUI interface",
+            "VSS/LVM support for backing up open files"
         ],
-        "primary_use_case": "Creating and customizing ambient noise soundscapes for relaxation, focus, or other purposes.",
-        "open_issues": 4,
-        "cover_image_prompt": "A sound engineer sits at a mixing console, surrounded by glowing sound waves that visualize various ambient noises like rain, wind, and forest sounds. The console has labeled knobs for adjusting parameters like filters and effects. A screen displays a simplified UI of Noisedash, showing noise profiles being saved and loaded. The scene is set in a modern, minimalist studio with soft, diffused lighting. Small digital particles representing audio samples float around the engineer. The composition is clean and focused, using a calming color scheme of blues and greens. The image should be in a 3D isometric illustration style with rich details."
+        "primary_use_case": "Securely backing up data to cloud storage services.",
+        "open_issues": 708,
+        "cover_image_prompt": "Imagine a diligent librarian carefully archiving precious books (representing data) into sturdy, locked chests (encrypted backups). The librarian uses a special device that compresses the books and duplicates them, sending the copies via glowing tubes to various cloud-shaped repositories in the sky. A small screen on the librarian's desk displays a progress bar and encryption details. The scene is set in a futuristic library with soft, warm lighting. The image should be in a 3D isometric illustration style with clear details and a focus on conveying security and efficiency."
     },
     {
-        "id": 1049621050,
-        "name": "receipthero",
-        "description": "Organize all your receipts with AI",
-        "url": "https://github.com/Nutlope/receipthero",
-        "language": "TypeScript",
-        "stars": 264,
-        "forks": 37,
-        "created_at": "2025-09-03T08:50:05Z",
-        "updated_at": "2025-11-23T08:29:18Z",
-        "topics": [],
-        "quality_score": 0.5,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-23T17:05:53Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/8b297fd837512a9ce7ccfa239bb03cfc0b2fcc0aa2bdbaaea835c0f96c55473c/Nutlope/receipthero"
-        ],
-        "homepage": "https://www.usereceipthero.com/",
-        "readme_summary": "ReceiptHero is an open-source receipt management application that uses AI-powered OCR to extract data from receipt images. It allows users to upload receipts, automatically categorize expenses, and view spending breakdowns, storing data locally for privacy.",
-        "key_features": [
-            "AI-powered OCR using Together AI",
-            "Data extraction (vendor, date, amount, items, currency, payment method)",
-            "Automatic expense categorization",
-            "Local data storage for privacy",
-            "Spending breakdown visualization"
-        ],
-        "primary_use_case": "Organizing and managing receipts with AI-powered data extraction and categorization.",
-        "open_issues": 0,
-        "cover_image_prompt": "Imagine a diligent librarian meticulously organizing a chaotic pile of paper receipts into neatly labeled digital folders. The librarian uses a magnifying glass that emits a soft, digital glow, revealing key information like dates, amounts, and vendors, which then automatically populates the folders on a nearby holographic screen. The folders are color-coded by expense category. Subtle UI elements and data visualizations float in the background. The scene is set in a bright, modern library with a clean and organized aesthetic. The image should be in a 3D isometric illustration style with vibrant colors and clear details."
-    },
-    {
-        "id": 1066243512,
-        "name": "Code2Video",
-        "description": "Video generation via code",
-        "url": "https://github.com/showlab/Code2Video",
-        "language": "Python",
-        "stars": 963,
-        "forks": 130,
-        "created_at": "2025-09-29T08:15:44Z",
-        "updated_at": "2025-11-23T08:59:18Z",
+        "id": 15778896,
+        "name": "lmms",
+        "description": "Cross-platform music production software",
+        "url": "https://github.com/LMMS/lmms",
+        "language": "C++",
+        "stars": 9312,
+        "forks": 1112,
+        "created_at": "2014-01-09T20:43:43Z",
+        "updated_at": "2025-11-24T08:06:37Z",
         "topics": [
-            "coding",
-            "education",
-            "multi-agent",
-            "video-generation"
+            "daw",
+            "hacktoberfest",
+            "midi",
+            "music",
+            "songs"
         ],
-        "quality_score": 0.6499999999999999,
+        "quality_score": 0.95,
         "contributors_count": 0,
-        "last_commit_date": "2025-11-12T13:30:31Z",
+        "last_commit_date": "2025-11-23T18:23:08Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/e952c55e22caa73f4b49511d642b7e14d545f6b8a664ade4347b127e2f668c29/showlab/Code2Video"
+            "https://opengraph.githubassets.com/1a6898401cfdbc727a2ae5810948979a4ebe85f7a5b47930afc8541f3fb2475b/LMMS/lmms"
         ],
-        "homepage": "https://showlab.github.io/Code2Video/",
-        "readme_summary": "Code2Video is a project focused on generating educational videos from code. It presents a code-centric paradigm for creating teaching videos, potentially leveraging multi-agent systems to automate the video creation process. The project provides resources such as a paper, dataset, and project website for further exploration.",
+        "homepage": "https://lmms.io",
+        "readme_summary": "LMMS is a free, open-source, cross-platform digital audio workstation (DAW) software. It provides tools for music production, including composing, arranging, and mixing, with features like a Song Editor, Pattern Editor, Piano Roll, and Mixer, along with support for various plugins and standards.",
         "key_features": [
-            "Video generation from code",
-            "Educational video creation",
-            "Code-centric paradigm",
-            "Multi-agent system utilization (implied)"
+            "Song-Editor for arranging melodies, samples, patterns, and automation",
+            "Pattern-Editor for creating beats and patterns",
+            "Piano-Roll for editing patterns and melodies",
+            "Mixer with unlimited mixer channels and arbitrary number of effects",
+            "Many powerful instrument and effect-plugins out of the box",
+            "Full user-defined track-based automation and computer-controlled automation sources",
+            "Compatible with many standards such as SoundFont2, VST(i), LADSPA, GUS Patches, and full MIDI support",
+            "MIDI file importing and exporting"
         ],
-        "primary_use_case": "Generating educational videos based on code execution and logic.",
-        "open_issues": 0,
-        "cover_image_prompt": "A friendly robot teacher standing in a brightly lit classroom, writing code on a holographic whiteboard. As the robot writes, the code transforms into animated scenes projected onto a large screen behind it, illustrating the code's functionality. The classroom is filled with subtle tech elements like floating data particles and UI interfaces. The repository's name, 'Code2Video,' is subtly displayed on the whiteboard. The scene is in a 3D isometric illustration style with vibrant colors and a focus on clarity and understanding. The lighting is warm and inviting, creating a positive learning environment."
+        "primary_use_case": "Music production, including composing, arranging, and mixing audio tracks.",
+        "open_issues": 1093,
+        "cover_image_prompt": "A skilled composer stands in a vibrant recording studio, orchestrating a symphony of sounds. Musical notes flow from various instruments (synthesizers, drum machines, keyboards) and converge on a central mixing console, where the composer meticulously adjusts levels and adds effects. The console's screen displays a simplified LMMS interface. Digital sound waves radiate outwards, creating a harmonious blend. Small code snippets representing audio processing algorithms float subtly in the background. The studio is bathed in warm, creative lighting. The composition is focused and balanced, emphasizing the creative process. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
     },
     {
-        "id": 1043937336,
-        "name": "doomscroll-detector",
-        "description": "Computer vision pipeline to detect and punish doomscrolling",
-        "url": "https://github.com/andrew-noble/doomscroll-detector",
+        "id": 272808853,
+        "name": "tinypilot",
+        "description": "Use your Raspberry Pi as a browser-based KVM.",
+        "url": "https://github.com/tiny-pilot/tinypilot",
         "language": "Python",
-        "stars": 11,
-        "forks": 0,
-        "created_at": "2025-08-24T23:42:16Z",
-        "updated_at": "2025-10-16T02:50:41Z",
-        "topics": [],
-        "quality_score": 0.3,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-23T02:07:38Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/d66194bc4baddd1fc6de95b9fc59b0789dbb725b6be92e34f7d7cc9cf1623c6b/andrew-noble/doomscroll-detector"
-        ],
-        "homepage": null,
-        "readme_summary": "The Doomscrolling Detector is a computer vision pipeline that identifies when a user is reclined and using their phone, indicative of doomscrolling behavior. It uses pose estimation and object detection to flag these instances, and includes a spoofed penalty counter as a humorous deterrent.",
-        "key_features": [
-            "YOLOv11 pose estimation for keypoint tracking",
-            "YOLO object detection for phone detection",
-            "Heuristics for detecting reclined posture based on hip/shoulder alignment",
-            "Heuristics for detecting phone holding based on wrist proximity",
-            "Overlay of results on webcam feed with a spoofed penalty counter"
-        ],
-        "primary_use_case": "Detecting and discouraging doomscrolling behavior.",
-        "open_issues": 0,
-        "cover_image_prompt": "A frustrated digital shepherd is trying to wrangle a flock of glowing smartphones that are pulling people down into a dark pit labeled 'Doomscroll Abyss'. The shepherd uses a glowing staff that emits waves of 'Focus' to push the phones back. Small UI elements on the staff show posture detection and phone usage metrics. The scene is set on a stylized hilltop overlooking a digital landscape. The lighting is dramatic, with bright highlights on the shepherd and phones, and deep shadows in the abyss. The image should be in 3D isometric illustration style with vibrant colors and clear details."
-    },
-    {
-        "id": 537340460,
-        "name": "WZML-X",
-        "description": "A Super Enhanced Telegram bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl servers. Made with Pyrogram in Python by WZML-X Devs.",
-        "url": "https://github.com/SilentDemonSD/WZML-X",
-        "language": "Python",
-        "stars": 1238,
-        "forks": 2062,
-        "created_at": "2022-09-16T06:52:10Z",
-        "updated_at": "2025-11-23T10:01:36Z",
-        "topics": [
-            "aria2c",
-            "bot",
-            "clone",
-            "ddl-server",
-            "download",
-            "gofile",
-            "google-drive",
-            "leech",
-            "leech-bot",
-            "mega",
-            "mirror",
-            "pyrogram",
-            "python",
-            "qbittorrent",
-            "rclone",
-            "rss",
-            "seed",
-            "telegram-bots",
-            "torrent",
-            "yt-dlp"
-        ],
-        "quality_score": 0.8,
-        "contributors_count": 0,
-        "last_commit_date": "2025-11-06T20:28:09Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/d9158d62146435917fcc6614c436c4ae88e3afb140204473fa657b6ed5fbea84/SilentDemonSD/WZML-X"
-        ],
-        "homepage": "http://wzmlx.mysterysd.in",
-        "readme_summary": "WZML-X is a Telegram bot built with Pyrogram that enhances file mirroring and cloning capabilities. It supports downloading from various sources like torrents, Mega, Google Drive, and direct links, then uploading to Google Drive, Telegram, Rclone clouds, or DDL servers.",
-        "key_features": [
-            "qBittorrent support with file selection and seeding options",
-            "Aria2c integration with file selection, netrc support, and authentication",
-            "Telegram upload/download with file splitting, thumbnail support, and leech options",
-            "Support for uploading files to specific Telegram supergroups",
-            "yt-dlp support for downloading from various sites",
-            "Rclone cloud support"
-        ],
-        "primary_use_case": "Mirroring and cloning files from various online sources to different cloud storage platforms or Telegram.",
-        "open_issues": 18,
-        "cover_image_prompt": "A diligent librarian meticulously copies ancient scrolls (representing online files) using a magical quill (the bot). The quill duplicates the scrolls onto various shelves labeled 'Google Drive,' 'Telegram Cloud,' and 'Rclone.' The librarian wears a high-tech headset displaying download progress and source links. Subtle digital particles float around the quill, symbolizing data transfer. A small screen in the background shows a simplified bot interface. The scene is set in a grand, futuristic library with soft, warm lighting. The image should be in a 3D isometric illustration style with clear details and a vibrant color scheme."
-    },
-    {
-        "id": 32018674,
-        "name": "UpUp",
-        "description": "✈️ Easily create sites that work offline as well as online",
-        "url": "https://github.com/TalAter/UpUp",
-        "language": "JavaScript",
-        "stars": 4911,
-        "forks": 261,
-        "created_at": "2015-03-11T13:20:08Z",
-        "updated_at": "2025-11-23T09:31:01Z",
+        "stars": 3315,
+        "forks": 273,
+        "created_at": "2020-06-16T20:46:33Z",
+        "updated_at": "2025-11-24T09:18:55Z",
         "topics": [
             "hacktoberfest",
-            "offline",
-            "offline-first",
-            "progressive-web-app",
-            "pwa",
-            "service-worker"
+            "kvm",
+            "raspberry-pi"
         ],
-        "quality_score": 0.45,
+        "quality_score": 0.7,
         "contributors_count": 0,
-        "last_commit_date": "2021-01-12T10:39:12Z",
+        "last_commit_date": "2025-10-21T11:53:25Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/6fc3656c381db0c51aeed190d2aa71b7b67b32273c93f0cc2a2ba6fd4ff3bd43/TalAter/UpUp"
+            "https://opengraph.githubassets.com/cf4d751c13c817693c17997a2cf5683e0b3b3f32b4196fc90d06b5aa38b08c27/tiny-pilot/tinypilot"
         ],
-        "homepage": "https://www.talater.com/upup/",
-        "readme_summary": "UpUp is a JavaScript library that enables offline functionality for websites by utilizing service workers. It allows developers to specify content to be displayed when users are offline, ensuring a consistent user experience even without an internet connection. The library is designed to be easy to implement, requiring only a few lines of JavaScript to configure.",
+        "homepage": "https://tinypilotkvm.com",
+        "readme_summary": "TinyPilot turns a Raspberry Pi into a browser-based KVM (Keyboard, Video, Mouse) over IP. This allows users to remotely control and access a computer through a web browser, offering features like video capture, keyboard/mouse forwarding, and clipboard integration.",
         "key_features": [
-            "Offline functionality using service workers",
-            "Simple JavaScript API for configuration",
-            "Control over offline content",
-            "Browser support for Chrome, Opera, and Firefox (with service worker support)",
-            "Graceful degradation for older browsers"
+            "Video capture (HDMI/DVI/VGA)",
+            "Keyboard forwarding",
+            "Mouse forwarding",
+            "Fullscreen mode",
+            "Paste text from clipboard"
         ],
-        "primary_use_case": "Providing offline access to website content for users with intermittent or no internet connectivity.",
-        "open_issues": 36,
-        "cover_image_prompt": "A lighthouse standing strong on a rocky coast, guiding ships safely even during a fierce storm. The lighthouse emits a bright, steady beam of light, representing the consistent availability of website content. Small screens embedded in the lighthouse walls display snippets of code and UI elements. Digital particles flow from the lighthouse, forming a protective shield around the ships. The scene is set at twilight with dramatic lighting and a blue and orange color scheme. The image should be in digital painting style with clean lines and clear details."
+        "primary_use_case": "Remote KVM access to computers via a web browser using a Raspberry Pi.",
+        "open_issues": 141,
+        "cover_image_prompt": "A ship captain at the helm of a vessel, steering with a Raspberry Pi connected to the ship's controls. The ship's navigation screen displays a remote desktop interface. The captain confidently navigates through stormy seas, representing remote access overcoming challenges. Small UI elements overlay the navigation screen, showing keyboard and mouse inputs. The ship's name, 'TinyPilot,' is subtly displayed on its hull. The scene is set at twilight with dramatic lighting. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 642950723,
+        "name": "memory_graph",
+        "description": "Teaching tool and debugging aid in context of references, mutable data types, and shallow and deep copy.",
+        "url": "https://github.com/bterwijn/memory_graph",
+        "language": "Python",
+        "stars": 465,
+        "forks": 21,
+        "created_at": "2023-05-19T18:13:36Z",
+        "updated_at": "2025-11-24T09:50:17Z",
+        "topics": [
+            "python3-data-visualization-debugging-education"
+        ],
+        "quality_score": 0.7,
+        "contributors_count": 0,
+        "last_commit_date": "2025-11-21T10:15:32Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/550e8fa2bc16be297c8c25c820527e58a7e7bbf4b8ee408e0b2db2080ee504cd/bterwijn/memory_graph"
+        ],
+        "homepage": "",
+        "readme_summary": "The `memory_graph` repository is a Python package designed as a teaching tool and debugging aid. It helps users understand concepts like references, mutable data types, and shallow/deep copying by visualizing data structures and program state, including the call stack.",
+        "key_features": [
+            "Visualizes Python data structures",
+            "Supports various data types",
+            "Helps understand references and mutability",
+            "Provides a web debugger for live demos",
+            "Can render graphs to different output formats (PDF, SVG, PNG, DOT)",
+            "Call stack visualization"
+        ],
+        "primary_use_case": "Teaching and debugging Python code related to data structures, references, and mutability.",
+        "open_issues": 1,
+        "cover_image_prompt": "A cartographer meticulously charting a complex network of interconnected islands, each island representing a data structure in Python. The cartographer uses a special lens that reveals the hidden connections and shared references between the islands, highlighting areas of mutability with glowing markers. Small UI elements float above the islands, displaying code snippets and variable names. The scene is set in a brightly lit workshop filled with maps and charts. The composition is clean and focused, with a clear visual hierarchy. The image should be in a 3D isometric illustration style with vibrant colors and rich details."
+    },
+    {
+        "id": 639748676,
+        "name": "noScribe",
+        "description": "Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)",
+        "url": "https://github.com/kaixxx/noScribe",
+        "language": "Python",
+        "stars": 1546,
+        "forks": 278,
+        "created_at": "2023-05-12T06:25:03Z",
+        "updated_at": "2025-11-24T09:50:15Z",
+        "topics": [
+            "audio-transcription",
+            "interview",
+            "pyannote",
+            "qualitative-research",
+            "transcription",
+            "whisper-cpp"
+        ],
+        "quality_score": 1.1000000000000003,
+        "contributors_count": 0,
+        "last_commit_date": "2025-11-17T15:01:16Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/64098d2cd7f60ff0cb9f666ed45bde9ec9e2efbbb25df35cc962df9764e4fbdf/kaixxx/noScribe"
+        ],
+        "homepage": "",
+        "readme_summary": "noScribe is a free and open-source AI-based software for automated audio transcription, primarily designed for qualitative social research and journalistic use. It leverages Whisper and pyannote for transcription and speaker identification, running locally without sending data to the internet, and includes an editor for reviewing and correcting transcripts.",
+        "key_features": [
+            "AI-based audio transcription",
+            "Speaker identification",
+            "Local operation (no internet required)",
+            "Support for around 60 languages",
+            "Integrated editor for transcript review and correction",
+            "Based on Whisper, faster-whisper, and pyannote"
+        ],
+        "primary_use_case": "Automated transcription of interviews for qualitative social research or journalistic purposes.",
+        "open_issues": 44,
+        "cover_image_prompt": "A diligent librarian meticulously transcribing spoken words from old wax cylinders into a digital document. The librarian uses advanced AI tools, represented by glowing interfaces subtly overlaid on the desk, to convert the audio. The scene shows the wax cylinder as the input and the digital document as the output. The library is filled with shelves of books, symbolizing knowledge and research. Small UI elements showing audio waveforms and transcription snippets are visible. The scene is set in a warmly lit, classic library with a focused composition. The image should be in a detailed digital painting style with clear outlines and a vintage color scheme."
+    },
+    {
+        "id": 1042367133,
+        "name": "spec-kit",
+        "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+        "url": "https://github.com/github/spec-kit",
+        "language": "Python",
+        "stars": 50878,
+        "forks": 4366,
+        "created_at": "2025-08-21T22:54:31Z",
+        "updated_at": "2025-11-24T10:12:03Z",
+        "topics": [
+            "ai",
+            "copilot",
+            "development",
+            "engineering",
+            "prd",
+            "spec",
+            "spec-driven"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-11-15T00:39:09Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/850a7bdadefc4556d4b1302554b1c953abc06cc2dfa51e8897eb7f6860481a99/github/spec-kit"
+        ],
+        "homepage": "",
+        "readme_summary": "Spec Kit is an open-source toolkit designed to facilitate Spec-Driven Development, which prioritizes specifications as executable entities that generate working implementations. It provides a CLI (`specify`) for initializing projects and checking specifications, aiming to shift the focus from coding to defining product scenarios and predictable outcomes. The toolkit also integrates with AI agents to automate parts of the development process.",
+        "key_features": [
+            "Specify CLI for project initialization and specification checking",
+            "Integration with AI agents for automated development tasks",
+            "Support for Spec-Driven Development methodology",
+            "Tools for establishing project principles and development guidelines"
+        ],
+        "primary_use_case": "To enable developers to adopt Spec-Driven Development by providing tools and a framework for creating executable specifications that drive software implementation.",
+        "open_issues": 425,
+        "cover_image_prompt": "A skilled architect standing before a blueprint-generating machine, transforming abstract specifications into detailed building plans. The machine uses a special lens to interpret the specifications, revealing hidden requirements that glow blue. Successfully generated plans emit a green aura as they are printed. Small screens around the machine show code snippets and data visualizations. The scene has a blue and green color scheme with dramatic lighting. The image should be in digital painting style with clean lines and clear details."
     }
 ]
