@@ -1,26 +1,26 @@
 {
-    "title": "Ditch the Cloud: The Open Source AI Tool That Transcribes Interviews Locally",
-    "article": "Transcription is often the bane of existence for anyone doing qualitative research, in-depth interviews, or serious journalism. Hours of meticulous listening and typing—it's tedious, error-prone, and often reduces your life to \"academic grunge and pain,\" as the project creator humorously put it. This is exactly where noScribe steps in, promising to lift that massive burden off your shoulders using cutting-edge AI.\r\n\r\nAt its heart, noScribe is a powerful, desktop-based transcription engine. Unlike many popular tools that require uploading sensitive audio files to a third-party cloud service, noScribe operates 100% locally on your machine. This commitment to running completely offline is a massive advantage for security and privacy, especially when dealing with confidential interviews or proprietary research data. You maintain absolute control over your files from start to finish, eliminating worries about data residency or potential breaches.\r\n\r\nThe magic behind noScribe relies on leveraging some of the best open-source AI models available today. It stands firmly on the shoulders of giants, primarily utilizing OpenAI's Whisper for state-of-the-art speech recognition across approximately 60 languages. To ensure the process is efficient, it uses `faster-whisper`. Crucially, it integrates `pyannote` for advanced speaker diarization—meaning it doesn't just transcribe the words; it automatically identifies *who* said *what*. This feature alone saves immense cleanup time, turning a raw audio file into a structured interview transcript ready for analysis.\r\n\r\nWhile this tool is primarily aimed at researchers and journalists, developers should absolutely pay attention. Firstly, it’s entirely free and open source under the GPL-3.0 license. This transparency means you can inspect the code, understand how these complex models are integrated in a real-world application, and contribute improvements. For developers working on desktop applications, noScribe offers a fantastic example of successfully packaging large AI models (note the approximately 3.7 GB download size) into a user-friendly, privacy-focused desktop environment. If you need to build secure, offline processing tools, studying noScribe’s architecture provides valuable insights into decentralized AI.\r\n\r\nnoScribe isn't just a transcription engine; it's designed as a complete workflow solution. Recognizing that no automatic transcription is ever perfect, the project includes a dedicated, user-friendly editor. This editor allows you to review the AI-generated transcript alongside the audio, quickly verify speaker assignments, and make necessary corrections. It streamlines the final, crucial step of verification, ensuring the output is accurate enough for serious academic or journalistic use without forcing you to switch between multiple applications. If you have a powerful NVIDIA GPU, you can even use a special CUDA-accelerated version for lightning-fast processing, proving that high-performance AI doesn't have to live in the cloud.",
+    "title": "Ditch the Mouse: WorkTUImer is the Blazing-Fast, Keyboard-Driven Time Tracker Built in Rust",
+    "article": "WorkTUImer is a game-changer for developers who live in their terminal and hate context switching. At its heart, this project is a sleek, minimalist Terminal User Interface (TUI) built using the blazing speed of Rust and the ratatui framework. Its primary function is incredibly straightforward: to track your work time efficiently without ever needing to touch a mouse or leave your command line environment. It solves the perennial problem of friction associated with manual time logging.\n\nHow does it work? Imagine a digital punch card that is fully customizable via the keyboard. When you need to log a task, you simply use hotkeys to start a timer or enter the start and end times. The input process for time is particularly clever—it uses a PIN-input style, allowing you to log \"10:30\" with just four quick key presses. This focus on key efficiency drastically cuts down on the friction usually associated with logging tasks throughout the day. You can start, stop, or pause active timers, and the system automatically updates your work records with the exact time spent.\n\nOne of the coolest features is its intelligent task management. WorkTUImer automatically calculates durations and groups time blocks if you work on the same task across different sessions. Furthermore, it maintains a history, letting you quickly select previous task names from a picker, saving you from tedious retyping. For those dealing with issue trackers, it offers optional integration to detect and link to tickets (like JIRA or GitHub Issues) right from the task name, allowing you to jump to the ticket URL in your browser with a single keypress.\n\nFor developers, the benefit is pure productivity. Because it runs locally and saves data automatically as JSON files on a per-day basis, your data is secure and accessible, and the application is lightning fast. The comprehensive keyboard shortcuts, including Vim-style navigation (h/j/k/l), mean you can log, edit, delete, and navigate between days seamlessly. The inclusion of 50 levels of undo/redo history ensures that fixing mistakes is painless. If you value speed, privacy, and staying focused in your terminal, integrating WorkTUImer into your daily workflow will eliminate those annoying interruptions caused by switching to a separate web app just to log a few minutes of work. This is time tracking built by developers, for developers, maximizing efficiency where you already spend most of your time.",
     "key_takeaways": [
-        "noScribe offers highly accurate, multi-language transcription using the powerful Whisper AI model.",
-        "It runs 100% locally on your machine, guaranteeing privacy and security for sensitive data by avoiding cloud uploads.",
-        "The tool includes automated speaker identification (diarization) and a dedicated editor for easy review and correction.",
-        "It is free and open source (GPL-3.0), making it an excellent resource for researchers, journalists, and developers interested in local AI implementations.",
-        "Developers can study its architecture to learn how to successfully package and deploy large, sophisticated AI models in a desktop application environment."
+        "WorkTUImer is a highly efficient, keyboard-driven TUI time tracker built with Rust for speed and minimal resource usage.",
+        "It features unique PIN-style time inputs and automatic grouping of time blocks for the same task, dramatically reducing logging friction.",
+        "Developers benefit from deep terminal integration, including Vim keybindings, inline editing with 50 levels of undo/redo, and calendar navigation.",
+        "Optional ticket integration (JIRA, GitHub) allows developers to link task entries directly to issue URLs and open them instantly.",
+        "Data is stored locally as JSON files, ensuring privacy and accessibility without relying on external services."
     ],
     "tags": [
-        "Transcription",
-        "AI",
-        "OpenSource",
-        "Whisper",
-        "Privacy"
+        "Rust",
+        "TUI",
+        "Time Tracking",
+        "Productivity",
+        "CLI Tools"
     ],
-    "stars": 1546,
-    "forks": 278,
-    "open_issues": 44,
-    "languages": "Python",
-    "readme_summary": "noScribe is a free and open-source AI-based software for automated audio transcription, primarily designed for qualitative social research and journalistic use. It leverages Whisper and pyannote for transcription and speaker identification, running locally without sending data to the internet, and includes an editor for reviewing and correcting transcripts.",
-    "project_id": 639748676,
-    "url": "https://github.com/kaixxx/noScribe",
-    "description": "Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)"
+    "stars": 226,
+    "forks": 5,
+    "open_issues": 9,
+    "languages": "Rust",
+    "readme_summary": "WorkTUImer is a simple, keyboard-driven terminal UI (TUI) application built in Rust for time-tracking. It allows users to quickly add time blocks, automatically group time spent on the same task across different sessions, and manage their work logs efficiently using only the keyboard.",
+    "project_id": 1087163391,
+    "url": "https://github.com/Kamyil/work-tuimer",
+    "description": "Simple, keyboard-driven TUI for time-tracking that allows you to quickly add time blocks and automatically group time if same task was done in different sessions"
 }

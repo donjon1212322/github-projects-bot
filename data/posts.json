@@ -1,44 +1,51 @@
 [
     {
-        "project_id": 22636263,
-        "content": "🚀 <b>duplicati</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely backing up data to cloud storage services.\n<br>\n✨ <b>Key Features:</b>\n• AES-256 encryption\n• Incremental backups\n• Built-in scheduler\n• Support for multiple cloud storage services (Amazon S3, Google Drive, WebDAV, etc.)\n• Command-line and GUI interface\n<br>\n📖 <b>Summary:</b>\nDuplicati is a free, open-source backup client written in C# that securely stores encrypted, incremental, and compressed backups on cloud storage services and remote file servers. It supports various destinations like Amazon S3, Google Drive, and WebDAV, and offers features like AES-256 encryption, a built-in scheduler, and flexible backup options.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/duplicati/duplicati?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d5d5b943c18601b494b34e31935a5514972a6a68bbbe96bc105b46626c313765/duplicati/duplicati",
+        "project_id": 1070459511,
+        "content": "💡 <b>maivi</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time voice-to-text transcription for desktop users.\n<br>\n✨ <b>Key Features:</b>\n• Hotkey Recording (Alt+Q)\n• Real-time Transcription\n• Clipboard Integration\n• Floating Overlay\n• Smart Chunk Merging\n<br>\n📖 <b>Summary:</b>\nMaivi is a cross-platform desktop application that provides real-time voice-to-text transcription. It uses AI models to convert speech into text, which is then displayed in a floating overlay and automatically copied to the clipboard. The application supports hotkey activation (Alt+Q) for starting and stopping recording and works on CPU, with optional GPU acceleration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MaximeRivest/maivi?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/13109402fb0ce4177e9331e95a84240998843d2851e09365b8dc05ff31339ce9/MaximeRivest/maivi",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 15778896,
-        "content": "🚀 <b>lmms</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nMusic production, including composing, arranging, and mixing audio tracks.\n<br>\n✨ <b>Key Features:</b>\n• Song-Editor for arranging melodies, samples, patterns, and automation\n• Pattern-Editor for creating beats and patterns\n• Piano-Roll for editing patterns and melodies\n• Mixer with unlimited mixer channels and arbitrary number of effects\n• Many powerful instrument and effect-plugins out of the box\n<br>\n📖 <b>Summary:</b>\nLMMS is a free, open-source, cross-platform digital audio workstation (DAW) software. It provides tools for music production, including composing, arranging, and mixing, with features like a Song Editor, Pattern Editor, Piano Roll, and Mixer, along with support for various plugins and standards.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/LMMS/lmms?embed=0\">View Project</a>\n• <a href=\"https://lmms.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1a6898401cfdbc727a2ae5810948979a4ebe85f7a5b47930afc8541f3fb2475b/LMMS/lmms",
-        "platform": "telegram",
-        "quality_score": 0.95
-    },
-    {
-        "project_id": 272808853,
-        "content": "🔥 <b>tinypilot</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRemote KVM access to computers via a web browser using a Raspberry Pi.\n<br>\n✨ <b>Key Features:</b>\n• Video capture (HDMI/DVI/VGA)\n• Keyboard forwarding\n• Mouse forwarding\n• Fullscreen mode\n• Paste text from clipboard\n<br>\n📖 <b>Summary:</b>\nTinyPilot turns a Raspberry Pi into a browser-based KVM (Keyboard, Video, Mouse) over IP. This allows users to remotely control and access a computer through a web browser, offering features like video capture, keyboard/mouse forwarding, and clipboard integration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tiny-pilot/tinypilot?embed=0\">View Project</a>\n• <a href=\"https://tinypilotkvm.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/cf4d751c13c817693c17997a2cf5683e0b3b3f32b4196fc90d06b5aa38b08c27/tiny-pilot/tinypilot",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 642950723,
-        "content": "🌟 <b>memory_graph</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTeaching and debugging Python code related to data structures, references, and mutability.\n<br>\n✨ <b>Key Features:</b>\n• Visualizes Python data structures\n• Supports various data types\n• Helps understand references and mutability\n• Provides a web debugger for live demos\n• Can render graphs to different output formats (PDF, SVG, PNG, DOT)\n<br>\n📖 <b>Summary:</b>\nThe `memory_graph` repository is a Python package designed as a teaching tool and debugging aid. It helps users understand concepts like references, mutable data types, and shallow/deep copying by visualizing data structures and program state, including the call stack.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bterwijn/memory_graph?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/550e8fa2bc16be297c8c25c820527e58a7e7bbf4b8ee408e0b2db2080ee504cd/bterwijn/memory_graph",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 639748676,
-        "content": "🔥 <b>noScribe</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated transcription of interviews for qualitative social research or journalistic purposes.\n<br>\n✨ <b>Key Features:</b>\n• AI-based audio transcription\n• Speaker identification\n• Local operation (no internet required)\n• Support for around 60 languages\n• Integrated editor for transcript review and correction\n<br>\n📖 <b>Summary:</b>\nnoScribe is a free and open-source AI-based software for automated audio transcription, primarily designed for qualitative social research and journalistic use. It leverages Whisper and pyannote for transcription and speaker identification, running locally without sending data to the internet, and includes an editor for reviewing and correcting transcripts.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kaixxx/noScribe?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/64098d2cd7f60ff0cb9f666ed45bde9ec9e2efbbb25df35cc962df9764e4fbdf/kaixxx/noScribe",
-        "platform": "telegram",
-        "quality_score": 1.1000000000000003
-    },
-    {
-        "project_id": 1042367133,
-        "content": "🚀 <b>spec-kit</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable developers to adopt Spec-Driven Development by providing tools and a framework for creating executable specifications that drive software implementation.\n<br>\n✨ <b>Key Features:</b>\n• Specify CLI for project initialization and specification checking\n• Integration with AI agents for automated development tasks\n<br>\n📖 <b>Summary:</b>\nSpec Kit is an open-source toolkit designed to facilitate Spec-Driven Development, which prioritizes specifications as executable entities that generate working implementations. It provides a CLI (`specify`) for initializing projects and checking specifications, aiming to shift the focus from coding to defining product scenarios and predictable outcomes. The toolkit also integrates with AI agents to automate parts of the development process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/github/spec-kit?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/850a7bdadefc4556d4b1302554b1c953abc06cc2dfa51e8897eb7f6860481a99/github/spec-kit",
+        "project_id": 1074253409,
+        "content": "🌟 <b>ThinkDashboard</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nOrganizing and quickly accessing bookmarks through a self-hosted dashboard.\n<br>\n✨ <b>Key Features:</b>\n• Minimalist Design\n• Keyboard Shortcuts\n• Customizable Categories\n• Theme Support\n• Theme customization\n<br>\n📖 <b>Summary:</b>\nThinkDashboard is a lightweight, self-hosted bookmark dashboard designed for quick access to frequently used websites. It offers a minimalist interface, keyboard shortcuts, customizable categories, and theme support, allowing users to efficiently organize and access their bookmarks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MatiasDesuu/ThinkDashboard?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/06caf04d78cd20dbf3f3404c6f8969bdacec2edf6fd8ad694141e504cb257f64/MatiasDesuu/ThinkDashboard",
         "platform": "telegram",
         "quality_score": 0.85
+    },
+    {
+        "project_id": 968390577,
+        "content": "🚀 <b>voidauth</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding single sign-on (SSO) and user management for self-hosted applications.\n<br>\n✨ <b>Key Features:</b>\n• OpenID Connect (OIDC) Provider\n• Proxy ForwardAuth\n• User Management\n• User Self-Registration and Invitations\n• Customizable Branding\n<br>\n📖 <b>Summary:</b>\nVoidAuth is an open-source single sign-on (SSO) and user management provider designed for self-hosted applications. It offers features like OpenID Connect (OIDC) support, proxy forward authentication, user self-registration, customizable branding, and passkey support, aiming to simplify authentication and user management for self-hosted environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/voidauth/voidauth?embed=0\">View Project</a>\n• <a href=\"http://voidauth.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/968390577/0e7f41a9-1f65-435c-96f3-489a5d20f422",
+        "platform": "telegram",
+        "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 317319347,
+        "content": "🚀 <b>social-analyzer</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAnalyzing and finding a person's profile across social media platforms for OSINT investigations, including detecting suspicious or malicious activities.\n<br>\n✨ <b>Key Features:</b>\n• String & name analysis (Permutations and Combinations)\n• Find a profile using multiple techniques (HTTPS library & Webdriver)\n• Multi profile search (Used for correlation)\n<br>\n📖 <b>Summary:</b>\nSocial Analyzer is a tool designed for analyzing and finding a person's profile across numerous social media websites. It offers an API, CLI, and web application interface, incorporating various analysis and detection modules with a rating mechanism to minimize false positives. It can be used to investigate profiles related to suspicious activities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/qeeqbox/social-analyzer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/317319347/8ac88b80-4942-11eb-8b09-537e477f7923",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 1087163391,
+        "content": "🚀 <b>work-tuimer</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTime-tracking and work logging for individuals who prefer a keyboard-centric, terminal-based interface.\n<br>\n✨ <b>Key Features:</b>\n• Fully keyboard-driven interface\n• Active timer tracking with start/stop/pause functionality\n• Time input using a PIN-like interface\n• Automatic calculation of task and break durations\n• Task picker with history\n<br>\n📖 <b>Summary:</b>\nWorkTUImer is a simple, keyboard-driven terminal UI (TUI) application built in Rust for time-tracking. It allows users to quickly add time blocks, automatically group time spent on the same task across different sessions, and manage their work logs efficiently using only the keyboard.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Kamyil/work-tuimer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b1d2b96cc4cc4a144bee07d931e1626858168e11a98e4c12eb99ca1b248609f1/Kamyil/work-tuimer",
+        "platform": "telegram",
+        "quality_score": 1.0
+    },
+    {
+        "project_id": 613524760,
+        "content": "✨ <b>pipelight</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating repetitive tasks and implementing CI/CD pipelines in small projects.\n<br>\n✨ <b>Key Features:</b>\n• Lightweight CLI tool\n• Pipeline definition using TOML, HCL, YAML, or TypeScript\n• Event-triggered execution (Git hooks, file changes)\n• Pretty and verbose logs\n• Self-hosted\n<br>\n📖 <b>Summary:</b>\nPipelight is a lightweight, self-hosted CI/CD tool written in Rust, designed for small projects. It allows users to define automation pipelines using various configuration languages (TOML, HCL, YAML, TypeScript) and trigger them based on events like Git hooks or file changes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pipelight/pipelight?embed=0\">View Project</a>\n• <a href=\"https://pipelight.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/613524760/2f6faaa0-dd2f-4bf3-b6c2-c05a7c050a35",
+        "platform": "telegram",
+        "quality_score": 0.35
+    },
+    {
+        "project_id": 1009192288,
+        "content": "💡 <b>arch-cleaner</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating system maintenance and cleanup on Arch Linux systems.\n<br>\n✨ <b>Key Features:</b>\n• System updates (standard and aggressive)\n• Removal of orphaned & unused packages\n• Pacman cache cleaning\n• Journal log cleaning\n• Temporary file removal\n<br>\n📖 <b>Summary:</b>\nArch-Cleaner is a bash script designed for Arch Linux systems to automate routine maintenance and cleanup tasks. It offers features such as system updates, removal of orphaned packages, cleaning the pacman cache and journal logs, and temporary file removal, with options for aggressive cleaning and backups.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/antonio-foti/arch-cleaner?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5826b7f154e9d8eb724223bcf6a77c77e55cb846fc39f3267db4789234e2f1ea/antonio-foti/arch-cleaner",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
     }
 ]
