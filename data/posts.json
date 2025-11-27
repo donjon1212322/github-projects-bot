@@ -1,37 +1,58 @@
 [
     {
-        "project_id": 632227236,
-        "content": "💡 <b>wechat2tg</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBridging communication between WeChat and Telegram for users who want to manage messages from both platforms in one place.\n<br>\n✨ <b>Key Features:</b>\n• Receive messages from WeChat (personal chats, group chats, official accounts, enterprise WeChat)\n• Send messages via Telegram to specific WeChat users, groups, and official accounts\n• Flexible group message blocking functionality\n<br>\n📖 <b>Summary:</b>\nThe wechat2tg repository facilitates message transmission between WeChat and Telegram. It supports various WeChat protocols and enables users to receive and send messages across platforms, including text, images, videos, and files, with some limitations on specific message types like red packets and mini programs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/finalpi/wechat2tg?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/aae4b323fbe0b947ef0328825823a353947edb14729c6e0129dad91c9f7aac3f/finalpi/wechat2tg",
-        "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 1094578857,
-        "content": "💡 <b>sbv</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nViewing and managing SMS, MMS, and call log backups from Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Multi-user support\n• Import SMS Backup & Restore XML files\n• Idempotent imports\n• Support for large backups\n• SMS, MMS, and call logs support\n<br>\n📖 <b>Summary:</b>\nSMS Backup Viewer (SBV) is a web application for viewing SMS and MMS message backups from \"SMS Backup & Restore\" XML files. It allows users to import and browse their messages in a texting app-like interface, supporting features like multi-user access, media preview, and full-text search.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lowcarbdev/sbv?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ab2551efc27926b35b6de356bca58e3ac4b6fa6c8b37944ac0706decda685d28/lowcarbdev/sbv",
-        "platform": "telegram",
-        "quality_score": 0.5499999999999999
-    },
-    {
-        "project_id": 1054793726,
-        "content": "🔥 <b>chrome-devtools-mcp</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling coding agents to control and inspect a Chrome browser for automation, debugging, and performance analysis.\n<br>\n✨ <b>Key Features:</b>\n• Get performance insights using Chrome DevTools to record traces and extract actionable performance insights.\n<br>\n📖 <b>Summary:</b>\nThe `chrome-devtools-mcp` repository provides a Model-Context-Protocol (MCP) server that allows coding agents (like Gemini or Copilot) to control and inspect a live Chrome browser. It leverages Chrome DevTools and Puppeteer to enable reliable automation, in-depth debugging, and performance analysis for AI coding assistants.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ChromeDevTools/chrome-devtools-mcp?embed=0\">View Project</a>\n• <a href=\"https://npmjs.org/package/chrome-devtools-mcp?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/de0b588418e94251756e60f2f09769a387292ae39673dbf63315ff06e92f8629/ChromeDevTools/chrome-devtools-mcp",
+        "project_id": 102588436,
+        "content": "✨ <b>gobackup</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated backups of databases and files to cloud storage.\n<br>\n✨ <b>Key Features:</b>\n• No dependencies\n• Multiple Databases source support\n• Multiple Storage type support\n• Archive paths or files into a tar\n• Split large backup file into multiple parts\n<br>\n📖 <b>Summary:</b>\nGoBackup is a CLI tool designed for application servers to schedule and automate backups of databases and files to various cloud storage providers. It supports multiple database types and storage options, offering features like encryption, compression, and scheduled execution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gobackup/gobackup?embed=0\">View Project</a>\n• <a href=\"https://gobackup.github.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/102588436/7b47bca6-b275-4bcd-9a2b-a4ff99de3918",
         "platform": "telegram",
         "quality_score": 0.95
     },
     {
-        "project_id": 245166720,
-        "content": "🌟 <b>zoxide</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nFaster and more efficient navigation of the file system in the command line.\n<br>\n✨ <b>Key Features:</b>\n• Smarter directory jumping based on frequency of use\n• Fuzzy matching of directory names\n• Interactive selection using fzf\n• Shell completions (bash, fish, zsh)\n• Works like a regular cd command\n<br>\n📖 <b>Summary:</b>\nZoxide is a smarter `cd` command that remembers frequently used directories, allowing users to quickly \"jump\" to them using a few keystrokes. It is inspired by z and autojump and supports all major shells.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ajeetdsouza/zoxide?embed=0\">View Project</a>\n• <a href=\"https://crates.io/crates/zoxide?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/245166720/f83acf80-9243-11eb-80f8-302e9a53427c",
+        "project_id": 660603097,
+        "content": "🌟 <b>zebar</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and customizing desktop widgets and taskbars across different operating systems.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform support (Windows, MacOS, Linux)\n• Customizable taskbars, desktop widgets, and popups\n• Lightweight webview-based widgets\n• GUI for widget installation and configuration\n• Widget pack creation and management\n<br>\n📖 <b>Summary:</b>\nZebar is a cross-platform tool written in Rust that allows users to create customizable taskbars, desktop widgets, and popups. It provides a lightweight alternative to Electron for creating desktop widgets using native webviews, and allows users to create and install widget packs through a GUI.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/glzr-io/zebar?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4e27832e480d8e3f2039759ce06f9f557cc130102015e1768c78be203a92abec/glzr-io/zebar",
         "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 0.7
     },
     {
-        "project_id": 1095058255,
-        "content": "🔥 <b>3xui-shopbot</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated sales and management of VLESS VPN configurations via Telegram.\n<br>\n✨ <b>Key Features:</b>\n• Automated registration and key delivery\n• Web panel for server, tariff, user, payment, log, and speedtest management\n• Multi-host support for multiple 3x-ui servers\n• Flexible tariff configuration\n• Payment gateway integrations (YooKassa, CryptoBot, Heleket, TON Connect)\n<br>\n📖 <b>Summary:</b>\nThe 3xui-shopbot is a Python-based Telegram bot designed for automated sales of VLESS configurations, deeply integrated with the 3x-ui panel. It offers a comprehensive solution for managing VPN subscriptions, payments, and user access through a web panel built on Tabler.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/fakelook1337/3xui-shopbot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d3fa88e6e13f2787b78aa542086a4557086923c7591b648e11d0d61870f4f19d/fakelook1337/3xui-shopbot",
+        "project_id": 188862306,
+        "content": "🚀 <b>tartube</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDownloading videos from various online platforms using a graphical user interface.\n<br>\n✨ <b>Key Features:</b>\n• GUI front-end for youtube-dl and yt-dlp\n• Supports YouTube, Twitch, Odysee, and hundreds of other sites\n• Organizes videos into folders\n• Alerts for livestreams and debut videos\n• Downloads temporary copies of videos for buffering\n<br>\n📖 <b>Summary:</b>\nTartube is a GUI front-end for youtube-dl, yt-dlp, and other compatible video downloaders. It allows users to easily download videos from YouTube, Twitch, Odysee, and hundreds of other sites, organize them into folders, and receive alerts for livestreams and debut videos.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/axcore/tartube?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9841c29af27e4312e44a83c5e0ea9a796d706bcf6874629a1862989a20509583/axcore/tartube",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 946632749,
+        "content": "🚀 <b>AI-Researcher</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated Scientific Innovation\n<br>\n✨ <b>Key Features:</b>\n• Full Autonomy: Complete end-to-end research automation\n• Seamless Orchestration: From concept to publication\n• Advanced AI Integration: Powered by cutting-edge AI agents\n• Research Acceleration: Streamlined scientific innovation\n• Literature Review\n<br>\n📖 <b>Summary:</b>\nThe AI-Researcher repository introduces a system for automated scientific discovery. It aims to reshape the traditional research paradigm by providing full autonomy, seamless orchestration from concept to publication, advanced AI integration, and research acceleration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HKUDS/AI-Researcher?embed=0\">View Project</a>\n• <a href=\"https://arxiv.org/abs/2505.18705?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/eba53e2badcf7f5b3042dcb0ad4bd4b9b4ea9048ae17f828e4116edff5392ff0/HKUDS/AI-Researcher",
+        "platform": "telegram",
+        "quality_score": 0.7500000000000001
+    },
+    {
+        "project_id": 946498681,
+        "content": "🔥 <b>neovate-code</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing development workflow through automated code generation, bug fixing, and testing.\n<br>\n✨ <b>Key Features:</b>\n• Code generation\n• Bug fixing\n• Code review\n• Test creation\n• Interactive mode\n<br>\n📖 <b>Summary:</b>\nNeovate Code is a coding agent designed to enhance the development workflow. It offers functionalities such as code generation, bug fixing, code review, and test creation, and can be used in both interactive and headless modes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/neovateai/neovate-code?embed=0\">View Project</a>\n• <a href=\"https://neovateai.dev/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/de7f9cd86364da45f4779f0a36b3318521dce9c9919554be7e92170476bd735d/neovateai/neovate-code",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 883799553,
+        "content": "💡 <b>demos</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDemonstrating and learning advanced React Native animation techniques.\n<br>\n✨ <b>Key Features:</b>\n• React Native animations\n• Reanimated library\n• Gesture Handler library\n• Skia library\n• Expo compatibility\n<br>\n📖 <b>Summary:</b>\nThe repository is a collection of React Native animation demos built using Reanimated, Gesture Handler, and Skia. It serves as a showcase and learning resource for developers interested in creating complex and performant animations in React Native applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/enzomanuelmangano/demos?embed=0\">View Project</a>\n• <a href=\"https://reactiive.io/demos?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/883799553/de350918-a288-4f90-b762-cb4f4f1cb1dc",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 1048696224,
+        "content": "🚀 <b>mcp-pointer</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding contextual information about DOM elements to agentic coding tools to enhance their understanding and capabilities.\n<br>\n✨ <b>Key Features:</b>\n• `Option+Click` Selection\n• Complete Element Data\n• Dynamic Context Control\n• React Component Detection\n• WebSocket Connection\n<br>\n📖 <b>Summary:</b>\nMCP Pointer is a tool that bridges the gap between browser DOM elements and agentic coding tools. It consists of a Chrome Extension that allows users to select DOM elements via Option+Click, and an MCP Server (Node.js package) that makes the selected element's data (text content, CSS, attributes, etc.) available to AI tools like Claude Code and Cursor through the Model Context Protocol.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/etsd-tech/mcp-pointer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3390191aaca33911cf00fa126bfd012b26f1e15df645af5765aae386df9d2809/etsd-tech/mcp-pointer",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 1044360605,
+        "content": "🌟 <b>vibesdk</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding AI-powered platforms that allow users to create applications using natural language descriptions.\n<br>\n✨ <b>Key Features:</b>\n• AI Code Generation\n• Live Previews\n• Interactive Chat\n• Modern Stack (React + TypeScript + Tailwind)\n• One-Click Deploy\n<br>\n📖 <b>Summary:</b>\nThe Cloudflare Vibe SDK is an open-source platform for building AI-powered web application generators. It allows users to define application requirements in natural language, which are then translated into functional applications deployed on the Cloudflare platform, making it suitable for companies building AI-powered platforms, internal development, and SaaS platforms.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cloudflare/vibesdk?embed=0\">View Project</a>\n• <a href=\"https://build.cloudflare.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c365e856e48d1d281ed3d98de1407af3a53a5f48e5dd76fd959dbff115f8589a/cloudflare/vibesdk",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
     }
 ]
