@@ -1,25 +1,25 @@
 {
-    "title": "SiYuan: The Open-Source Knowledge Base That Lets Developers Truly Own Their Thoughts",
-    "article": "Tired of note-taking applications that lock your valuable data behind proprietary cloud services and restrictive APIs? SiYuan steps in as a powerful, open-source solution designed to be the ultimate knowledge base where you truly own your thoughts. It’s not just another text editor; it’s a robust tool built from the ground up to help you structure, connect, and refine complex ideas, living up to its motto: \"Refactor your thinking.\"\n\nAt its core, SiYuan operates on a block-based architecture, similar to modern tools like Notion or Roam Research. This means every paragraph, code snippet, image, or formula is treated as an individual component, making organization, linking, and rearrangement incredibly flexible and powerful. This modular approach is excellent for developers who deal with structured information, documentation, and interconnected project notes. You can easily reference blocks across different documents, creating a dense, self-referential web of knowledge.\n\nCrucially, SiYuan prioritizes data ownership and portability. Unlike many cloud-first services, all your notes and data are stored locally on your device. This architecture is key because it gives you direct, unmediated control over your knowledge vault. Furthermore, it explicitly supports synchronization through third-party sync disks (like Dropbox or Google Drive), allowing you to maintain full control over the syncing mechanism without relying on the vendor's cloud.\n\nWhy should developers pay special attention to SiYuan? First, it is licensed under AGPLv3, meaning the source code is completely open for inspection, modification, and contribution. If you need a specific feature, a custom theme, or a deep integration, you have the freedom to build it yourself. This open nature fosters a strong community and ensures the tool remains adaptable to specialized developer workflows.\n\nSecond, the project offers fantastic deployment flexibility, including official Docker support. This is a massive benefit for developers and teams prioritizing privacy or seeking to run a robust, internal, self-hosted knowledge management system on their own infrastructure. Spinning up a private instance for team documentation or highly sensitive personal notes is straightforward and secure. The combination of local storage, open-source code, and Docker deployment transforms SiYuan from a simple note-taker into a foundational platform for sophisticated, privacy-focused knowledge management workflows. If you value control, extensibility, and the ability to tinker with your tools, SiYuan is a must-see.",
+    "title": "Ditch the Assembly: Write High-Performance GPU Kernels in Python with Tile Language",
+    "article": "Writing custom, high-performance kernels for modern AI workloads is often a developer's nightmare. Achieving state-of-the-art speed for operations like Matrix Multiplication (GEMM) or FlashAttention usually means diving deep into CUDA, assembly, or specialized hardware intrinsics. This process is time-consuming, error-prone, and destroys code portability. Tile Language, or `tile-lang`, steps in to solve this fundamental problem by offering a concise, Pythonic domain-specific language that lets you focus purely on the computation logic without sacrificing performance. It’s the bridge between high-level productivity and low-level optimization that we've all been waiting for.\n\nSo, how does this Pythonic syntax manage to compete with hand-optimized code? The secret lies in its sophisticated compiler infrastructure, which is cleverly built on top of the Apache TVM framework. When you define a kernel in `tile-lang`, you are describing the structure of the computation, but you are not manually dictating every register move or memory tile. Instead, the `tile-lang` compiler takes your high-level, readable Python code and automatically applies complex optimizations—such as memory tiling, synchronization scheduling, and register allocation—tailored specifically for the target GPU or CPU architecture. This means developers get the benefit of a clean, easy-to-maintain codebase while the compiler handles the heavy lifting of generating highly efficient machine code.\n\nThe immediate benefit for developers is a massive boost in productivity. Imagine implementing a complex operation like FlashMLA decoding in just 80 lines of Python code, and achieving performance on par with heavily optimized, vendor-specific implementations on hardware like the NVIDIA H100. This project isn't just fast; it makes advanced kernel development accessible. It provides building blocks for complex operators, including Dequant GEMM, various Attention mechanisms, and even support for advanced features like 2:4 sparse tensor cores (`T.gemm_sp`). This allows researchers and engineers to rapidly prototype new algorithms and deploy them immediately with confidence in their performance.\n\nOne of the most compelling reasons to adopt `tile-lang` is its incredible hardware portability. Because it leverages a compiler backend like TVM, the kernels you write are not locked into a single vendor's ecosystem. Whether your infrastructure relies on NVIDIA GPUs (H100, A100), AMD GPUs (MI300X, MI250), or even emerging platforms like Apple Metal, WebGPU, or Huawei Ascend NPUs, `tile-lang` generates optimized code for all of them. This cross-platform support future-proofs your AI workloads and drastically simplifies deployment across heterogeneous computing environments. If you are tired of rewriting kernels every time you switch hardware or chasing performance bugs in low-level code, `tile-lang` is a game-changer that deserves a deep dive.",
     "key_takeaways": [
-        "SiYuan is an open-source, block-based knowledge management tool designed for structuring complex information.",
-        "It prioritizes data ownership by storing all notes locally, supporting synchronization via third-party services like Docker for self-hosting.",
-        "The AGPLv3 license allows developers complete freedom to inspect, modify, and extend the application to fit unique workflow needs.",
-        "Its block-based structure and powerful internal linking capabilities facilitate the creation of highly interconnected documentation and knowledge bases."
+        "Tile Language is a Pythonic DSL for writing high-performance GPU/CPU kernels (e.g., GEMM, FlashAttention).",
+        "It achieves state-of-the-art performance by leveraging a TVM-based compiler infrastructure for automatic low-level optimization.",
+        "Developers gain massive productivity, implementing complex kernels like FlashMLA with minimal lines of code.",
+        "The language ensures exceptional portability across major hardware, including NVIDIA, AMD, Apple Metal, WebGPU, and Huawei Ascend."
     ],
     "tags": [
-        "Knowledge Management",
-        "Open Source",
-        "Note Taking",
-        "Docker",
-        "AGPLv3"
+        "DSL",
+        "GPU Programming",
+        "High Performance Computing",
+        "TVM",
+        "AI Kernels"
     ],
-    "stars": 39346,
-    "forks": 2429,
-    "open_issues": 404,
-    "languages": "TypeScript",
-    "readme_summary": "SiYuan is a privacy-first, self-hosted, fully open-source personal knowledge management system. It's built with TypeScript and Go, offering features like note-taking, knowledge base creation, and markdown support, with integrations for various services and tools.",
-    "project_id": 291438522,
-    "url": "https://github.com/siyuan-note/siyuan",
-    "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+    "stars": 4043,
+    "forks": 331,
+    "open_issues": 91,
+    "languages": "C++",
+    "readme_summary": "Tile Language (tile-lang) is a domain-specific language designed to streamline the development of high-performance GPU/CPU kernels. It uses a Pythonic syntax and builds upon the TVM compiler infrastructure, allowing developers to focus on productivity while achieving state-of-the-art performance in areas like GEMM, Dequant GEMM, and FlashAttention.",
+    "project_id": 867004514,
+    "url": "https://github.com/tile-ai/tilelang",
+    "description": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels"
 }
