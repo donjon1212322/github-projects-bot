@@ -1,65 +1,44 @@
 [
     {
-        "project_id": 930507751,
-        "content": "💡 <b>yt-dlp-mcp</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nIntegrating video and audio content with Large Language Models and AI agents for tasks such as information retrieval, content analysis, and automated workflows.\n<br>\n✨ <b>Key Features:</b>\n• Search & Discovery (YouTube search with pagination)\n• Metadata Extraction (video and channel details)\n• Transcript & Subtitles (download and generate transcripts)\n• Video Downloads (resolution control, trimming)\n<br>\n📖 <b>Summary:</b>\nThe yt-dlp-mcp repository provides a Model Context Protocol (MCP) server that acts as a bridge between video and audio content from platforms like YouTube and Large Language Models. It leverages yt-dlp to enable AI agents to search, extract metadata, download content, and generate transcripts from video and audio sources using natural language commands.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kevinwatt/yt-dlp-mcp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0ecd2a0f5642198f16a783c265ce5d95eb49b780a5ec376b9e90402eccf01d91/kevinwatt/yt-dlp-mcp",
+        "project_id": 389941102,
+        "content": "💡 <b>rustypaste</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSharing files and text snippets quickly and easily via a web service.\n<br>\n✨ <b>Key Features:</b>\n• File upload\n• URL shortening\n• Expiration\n• One-shot links\n• MIME type guessing\n<br>\n📖 <b>Summary:</b>\nRustypaste is a minimal, self-hostable file upload and pastebin service written in Rust. It supports features like file uploading, URL shortening, setting expiration times for files, one-shot links, MIME type guessing, and optional authentication. It can be deployed via Docker or built from source.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/orhun/rustypaste?embed=0\">View Project</a>\n• <a href=\"https://blog.orhun.dev/blazingly-fast-file-sharing?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/dd07f8a8e121faa2d141db3c40bf18934b0f0cf2ea95b3586524a047891d7343/orhun/rustypaste",
         "platform": "telegram",
-        "quality_score": 0.7500000000000001
+        "quality_score": 0.85
     },
     {
-        "project_id": 1068787337,
-        "content": "💡 <b>BubbleLab</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating workflows with full control, transparency, and type safety, enabling developers to own, debug, and deploy workflows anywhere.\n<br>\n✨ <b>Key Features:</b>\n• Prompt to Workflow (AI-assisted workflow generation)\n• Full Observability (execution tracing, logs, token usage, performance metrics)\n• Import from n8n (workflow migration)\n<br>\n📖 <b>Summary:</b>\nBubble Lab is an open-source workflow automation platform designed for developers. It offers full observability, allowing users to monitor execution, track token usage, and debug workflows. A key feature is the ability to export workflows as clean, production-ready TypeScript code, providing control and portability.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bubblelabai/BubbleLab?embed=0\">View Project</a>\n• <a href=\"https://bubblelab.ai/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/85d1201b5af1ca4cf2b69cb8199d77667ee3ef9989190fd33e7247d06da067df/bubblelabai/BubbleLab",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 751781457,
-        "content": "🚀 <b>posterizarr</b> | PowerShell\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated generation of textless posters for media libraries.\n<br>\n✨ <b>Key Features:</b>\n• User-Friendly Web UI\n• Multiple Media Servers (Plex, Jellyfin, Emby)\n• Kometa Integration\n• Smart Integration (Tautulli, Sonarr, Radarr)\n<br>\n📖 <b>Summary:</b>\nPosterizarr is a PowerShell script with a Web UI that automates the creation of textless posters for media libraries in Plex, Jellyfin, and Emby. It fetches artwork from various sources, applies custom overlays and text, and integrates with other media server tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/fscorrupt/posterizarr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ecd17f8bfeb95475603073d1b0956305e5926120e6d06e2c68afcf20b679473a/fscorrupt/posterizarr",
+        "project_id": 678679911,
+        "content": "💡 <b>PSCompletions</b> | PowerShell\n<br>\n🎯 <b>Primary Use Case:</b>\nImproving and simplifying tab-completion in PowerShell.\n<br>\n✨ <b>Key Features:</b>\n• More powerful completion menu\n• Manage completions together\n• Sort completion items dynamically by frequency of use\n• Switch between languages freely\n• Combined with argc-completions\n<br>\n📖 <b>Summary:</b>\nPSCompletions is a PowerShell module designed to enhance the tab-completion experience. It provides a more powerful completion menu, allows for managing completions, dynamically sorts completion items based on usage frequency, and supports multiple languages. It aims to simplify and improve the user's interaction with PowerShell by offering intelligent and customizable tab completion.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/abgox/PSCompletions?embed=0\">View Project</a>\n• <a href=\"https://pscompletions.abgox.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/678679911/c47b26e7-a291-472e-ad69-7d855603c9ef",
         "platform": "telegram",
         "quality_score": 0.7499999999999999
     },
     {
-        "project_id": 867203713,
-        "content": "✨ <b>Web-Navigator</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating web browsing and scraping tasks to improve productivity and save time.\n<br>\n✨ <b>Key Features:</b>\n• Web browsing automation\n• Web scraping\n• Dynamic content interaction\n• Intelligent web searching\n• File downloading\n<br>\n📖 <b>Summary:</b>\nWeb-Navigator is a Python-based web browsing and scraping agent. It leverages LLMs and the Playwright framework to automate web tasks such as navigation, content interaction, searching, and file downloading. The agent is designed to adapt to dynamic web pages and streamline complex workflows.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/CursorTouch/Web-Navigator?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ca0370d8f23d09d86a5dc56c2a206a355e7bfa54c04b245a37991e8536271395/CursorTouch/Web-Navigator",
+        "project_id": 672545033,
+        "content": "🔥 <b>Mantella</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling natural language conversations with NPCs in Skyrim and Fallout 4, enhancing immersion and gameplay.\n<br>\n✨ <b>Key Features:</b>\n• Speech-to-text using Whisper\n• LLM-based dialogue generation\n• Text-to-speech using Piper, xVASynth, and XTTS\n• Mod support for Skyrim and Fallout 4\n• Python-based implementation\n<br>\n📖 <b>Summary:</b>\nMantella is a Python-based mod for Skyrim and Fallout 4 that enables natural language interaction with NPCs. It leverages speech-to-text (Whisper), Large Language Models (LLMs) for response generation, and text-to-speech (Piper, xVASynth, XTTS) for vocalization, creating a more immersive and dynamic gameplay experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/art-from-the-machine/Mantella?embed=0\">View Project</a>\n• <a href=\"https://art-from-the-machine.github.io/Mantella/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/961f6f22260247d26ec440d358abe7cc599ce0cba27da972a591c4151154e0c1/art-from-the-machine/Mantella",
+        "platform": "telegram",
+        "quality_score": 1.1000000000000003
+    },
+    {
+        "project_id": 37347459,
+        "content": "🌟 <b>ungoogled-chromium</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a Chromium-based browser experience without reliance on Google's web services, enhancing user privacy and control.\n<br>\n✨ <b>Key Features:</b>\n• Disabling functionality specific to Google domains (e.g., Google Host Detector, Google URL Tracker, Google Cloud Messaging)\n• Blocking internal requests to Google at runtime using domain substitution\n<br>\n📖 <b>Summary:</b>\nThe ungoogled-chromium project aims to provide a version of Google Chromium without dependencies on Google web services. It focuses on enhancing privacy, control, and transparency by removing Google-specific code and binaries, while retaining the default Chromium experience as closely as possible.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ungoogled-software/ungoogled-chromium?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6a3a221bb2d622df9e551ae24a1b90058121e37ac289ef5dd61a65e4407c9683/ungoogled-software/ungoogled-chromium",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 933836904,
+        "content": "🚀 <b>flow-like</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nVisual workflow automation for business processes, data integration, and AI-powered workflows.\n<br>\n✨ <b>Key Features:</b>\n• Fully Typed Workflows\n• Built on Rust\n• Zero-to-Prod workflow design\n• AI-Powered Automation\n• Deploy Anywhere\n<br>\n📖 <b>Summary:</b>\nFlow-Like is a visual workflow automation platform built with Rust, designed for enterprise-scale projects. It allows users to create automated workflows using a drag-and-drop interface, providing a clear record of data flow and changes. It supports AI integration, customizability, and deployment across various environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TM9657/flow-like?embed=0\">View Project</a>\n• <a href=\"https://flow-like.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/933836904/294099d4-14ef-4e54-a1a0-a28a88e2ac7e",
+        "platform": "telegram",
+        "quality_score": 1.0
+    },
+    {
+        "project_id": 1045681332,
+        "content": "🚀 <b>vimmaster</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nLearning and practicing Vim commands in an interactive game environment.\n<br>\n✨ <b>Key Features:</b>\n• Normal/Insert modes\n• Command log\n• Progressive Levels with outcome validation\n• Complete Vim Support for core commands\n• Numeric counts for motions/operators\n<br>\n📖 <b>Summary:</b>\nVIM Master is an in-browser game designed to teach users core Vim motions and editing commands through a series of short, focused levels. It provides a hands-on learning experience with features like normal/insert modes, command logging, progress tracking, and even a cheat mode for quick reference.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/renzorlive/vimmaster?embed=0\">View Project</a>\n• <a href=\"https://vim-master.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f31a766686636cfd88a37241338860fece357d43fd7f9073e2963fc6af03b727/renzorlive/vimmaster",
         "platform": "telegram",
         "quality_score": 0.5
-    },
-    {
-        "project_id": 1061931314,
-        "content": "🌟 <b>flycut-caption</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and editing video subtitles using AI-powered speech recognition and visual editing tools.\n<br>\n✨ <b>Key Features:</b>\n• Intelligent Speech Recognition\n• Visual Subtitle Editing\n• Real-time Video Preview\n• Multi-format Export\n• Subtitle Style Customization\n<br>\n📖 <b>Summary:</b>\nFlyCut Caption is a React component for video subtitle editing, leveraging AI-powered speech recognition. It offers features like visual subtitle editing, real-time video preview, multi-format export, and subtitle style customization, making it a comprehensive tool for creating and editing video subtitles.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/x007xyz/flycut-caption?embed=0\">View Project</a>\n• <a href=\"https://caption.flycut.co?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d0f33ca94f7704be44c3e186303fa538d21f7256a93a1b024db6e99f29fea610/x007xyz/flycut-caption",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 985745487,
-        "content": "✨ <b>Foxel</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DrizzleTime/Foxel?embed=0\">View Project</a>\n• <a href=\"https://foxel.cc?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/dd0d05ae054292240feeb34a9475c4cd645ed2fb7d3b3a04b5ff7a7ceb2927ab/DrizzleTime/Foxel",
-        "platform": "telegram",
-        "quality_score": 0.9
-    },
-    {
-        "project_id": 882358520,
-        "content": "🚀 <b>nginx-ignition</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying nginx configuration management through a user-friendly interface.\n<br>\n✨ <b>Key Features:</b>\n• Multiple nginx virtual hosts with customized domains, routes, and bindings\n• Multiple nginx streams with domain-based routing, circuit breakers, and weights\n• Host route options: proxy, redirection, custom code execution (JavaScript/Lua), static response, or static file serving\n<br>\n📖 <b>Summary:</b>\nnginx-ignition is a user interface for the nginx web server, designed for developers and enthusiasts who prefer managing nginx configurations through a GUI rather than manually editing configuration files. It offers features like virtual host management, stream configuration, SSL certificate handling, user access control, and integrations with Docker and Tailscale.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lucasdillmann/nginx-ignition?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f3c3c10b9ebca63822130bd2da4326daa5e2c9e7828c69918ad4f9c93eee35fc/lucasdillmann/nginx-ignition",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 290373467,
-        "content": "💡 <b>flat</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding client-side applications (Web, Windows, macOS) for an open-source online classroom environment.\n<br>\n✨ <b>Key Features:</b>\n• Real-time interaction (whiteboard, RTC, RTM)\n• Login via GitHub and WeChat\n• Classroom management (join, create, schedule classrooms, periodic rooms)\n• Classroom recording and replaying (whiteboard, cloud recording, messaging)\n<br>\n📖 <b>Summary:</b>\nThe 'flat' repository provides the Web, Windows, and macOS client for Agora Flat, an open-source classroom platform. It offers features like real-time interaction (whiteboard, RTC, RTM), login via GitHub and WeChat, classroom management, recording/replaying capabilities, cloud storage, and screen sharing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/netless-io/flat?embed=0\">View Project</a>\n• <a href=\"https://flat.whiteboard.agora.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/290373467/7d8fabf0-a57e-4196-a2fb-a2a1656061d8",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 1054793726,
-        "content": "🌟 <b>chrome-devtools-mcp</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling AI coding assistants to interact with and control a Chrome browser for automation, debugging, and performance analysis.\n<br>\n✨ <b>Key Features:</b>\n• Get performance insights using Chrome DevTools to record traces and extract actionable performance insights.\n<br>\n📖 <b>Summary:</b>\nThe `chrome-devtools-mcp` repository provides a Model-Context-Protocol (MCP) server that allows coding agents (like Gemini, Claude, Cursor, or Copilot) to control and inspect a live Chrome browser. It leverages Chrome DevTools and Puppeteer for reliable automation, in-depth debugging, and performance analysis within the browser environment.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ChromeDevTools/chrome-devtools-mcp?embed=0\">View Project</a>\n• <a href=\"https://npmjs.org/package/chrome-devtools-mcp?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/55c26021a163e6fe7d25019fed07327a5f5d00132d17cabb3e0db67460908d72/ChromeDevTools/chrome-devtools-mcp",
-        "platform": "telegram",
-        "quality_score": 0.95
     }
 ]
