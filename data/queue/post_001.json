@@ -1,7 +1,0 @@
-{
-    "project_id": 122167085,
-    "content": "🌟 <b>s3sync</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSynchronizing large numbers of small files to and from S3-compatible storage with high speed and efficiency.\n<br>\n✨ <b>Key Features:</b>\n• Multi-threaded file downloading/uploading\n• S3 to local FS sync\n• Local FS to S3 sync\n• S3 to S3 sync\n• Retrying on errors\n<br>\n📖 <b>Summary:</b>\nS3Sync is a Go-based tool designed for high-speed synchronization of files to and from S3-compatible storage. It supports multi-threaded uploading/downloading and offers flexible filtering options, making it suitable for managing large numbers of small files. It can sync between S3 and local filesystems, or directly between S3 buckets.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/larrabee/s3sync?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/756277e9e20e8859008990dbd7c0cb8376fec07c3136c9cd915022d63df414f4/larrabee/s3sync",
-    "platform": "telegram",
-    "quality_score": 0.55
-}
