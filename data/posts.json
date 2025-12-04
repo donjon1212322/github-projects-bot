@@ -1,44 +1,30 @@
 [
     {
-        "project_id": 886725915,
-        "content": "🌟 <b>savr</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nSaving online content for offline reading and later access.\n<br>\n✨ <b>Key Features:</b>\n• Save articles for reading later\n• Remove distractions like advertisements\n• Offline content including images\n• No dependency on a service/company for scraping or storage\n<br>\n📖 <b>Summary:</b>\nSavr is a progressive web app (PWA) for saving online content to read later, emphasizing offline access and user data control. It functions as a 'read it later' service that allows users to save articles and other online content for offline viewing, removing distractions like advertisements. Savr can be used as a hosted service or self-hosted, and it supports optional authorization and cross-device synchronization via Dropbox or Google Drive.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jonocodes/savr?embed=0\">View Project</a>\n• <a href=\"https://savr.link?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0f134c2e05e32f1fe6408b5ed3d3b4b4894749a4229e09d46a904eb8913eb322/jonocodes/savr",
+        "project_id": 793137423,
+        "content": "🚀 <b>reticulum-meshchat</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nOff-grid and decentralized communication using mesh networks.\n<br>\n✨ <b>Key Features:</b>\n• Sending and receiving messages, files, and audio calls\n• Communication over Ethernet, WiFi, internet, and LoRa radio\n• Secure communication with message encryption\n• Compatibility with LXMF clients (Sideband, Nomadnet)\n<br>\n📖 <b>Summary:</b>\nReticulum MeshChat is a simple mesh network communications application built on the Reticulum Network Stack. It allows users to send messages, files, and audio calls over various interfaces, including local networks, the internet, and LoRa radio, with a focus on secure communication and compatibility with other LXMF clients like Sideband and Nomadnet.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/liamcottle/reticulum-meshchat?embed=0\">View Project</a>\n• <a href=\"https://meshchat.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8bbb3cb55f8a4513da14c952d43fcd8460bc02e4c4b9372c99587e19a1292260/liamcottle/reticulum-meshchat",
         "platform": "telegram",
-        "quality_score": 0.4
+        "quality_score": 0.85
     },
     {
-        "project_id": 122167085,
-        "content": "🌟 <b>s3sync</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSynchronizing large numbers of small files to and from S3-compatible storage with high speed and efficiency.\n<br>\n✨ <b>Key Features:</b>\n• Multi-threaded file downloading/uploading\n• S3 to local FS sync\n• Local FS to S3 sync\n• S3 to S3 sync\n• Retrying on errors\n<br>\n📖 <b>Summary:</b>\nS3Sync is a Go-based tool designed for high-speed synchronization of files to and from S3-compatible storage. It supports multi-threaded uploading/downloading and offers flexible filtering options, making it suitable for managing large numbers of small files. It can sync between S3 and local filesystems, or directly between S3 buckets.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/larrabee/s3sync?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/756277e9e20e8859008990dbd7c0cb8376fec07c3136c9cd915022d63df414f4/larrabee/s3sync",
+        "project_id": 133561480,
+        "content": "✨ <b>vt-cli</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nInteracting with the VirusTotal service via the command line for security analysis and threat intelligence.\n<br>\n✨ <b>Key Features:</b>\n• Retrieve information about files, URLs, domain names, and IP addresses\n• Search for files and URLs using VirusTotal Intelligence query syntax\n• Download files\n• Manage LiveHunt YARA rules\n• Launch Retrohunt jobs and get their results\n<br>\n📖 <b>Summary:</b>\nThe VirusTotal CLI is a command-line tool that allows users to interact with the VirusTotal API. It provides functionalities such as retrieving information about files, URLs, domains, and IP addresses, as well as searching for threats, downloading files, and managing LiveHunt YARA rules.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/VirusTotal/vt-cli?embed=0\">View Project</a>\n• <a href=\"https://virustotal.github.io/vt-cli/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/66a3fd1b9e9222944e498431e23074988d15b19fe5a3cc27b0366b81eb469dd0/VirusTotal/vt-cli",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 1054273804,
+        "content": "🌟 <b>AgentGym-RL</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTraining LLM agents for long-horizon decision-making tasks through reinforcement learning.\n<br>\n✨ <b>Key Features:</b>\n• Multi-turn interactive decision-making\n• Support for real-world scenarios\n• Compatibility with mainstream RL algorithms\n• ScalingInter-RL algorithm for optimization stability\n• Visualized interactive user interface for data analysis\n<br>\n📖 <b>Summary:</b>\nAgentGym-RL is a framework for training LLM agents to perform multi-turn interactive decision-making using reinforcement learning. It provides diverse real-world scenarios and supports mainstream RL algorithms, aiming to improve the performance of LLM agents in complex tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/WooooDyy/AgentGym-RL?embed=0\">View Project</a>\n• <a href=\"https://agentgym-rl.github.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/630434093a8a124a9b960f5bc0d03d50e61b6ccd2808a137a097f6cd3912ff35/WooooDyy/AgentGym-RL",
         "platform": "telegram",
         "quality_score": 0.55
     },
     {
-        "project_id": 771122221,
-        "content": "🔥 <b>RustedLessPass</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely generating and managing passwords without needing to remember individual passwords for each site.\n<br>\n✨ <b>Key Features:</b>\n• LessPass Compatibility\n• WebAssembly Power\n• Cross-Platform Access\n• Open-Source Transparency\n<br>\n📖 <b>Summary:</b>\nRustedLessPass is a standalone password manager written in Rust and WebAssembly, compatible with LessPass. It allows users to generate and manage passwords securely without server-side dependencies, offering a platform-independent solution accessible through any modern web browser.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/RustedLessPass/RustedLessPass?embed=0\">View Project</a>\n• <a href=\"https://rustedlesspass.github.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/771122221/93f9de50-f2f9-4396-a2a8-35862c37cb62",
+        "project_id": 623557936,
+        "content": "🌟 <b>obsidian-telegram-sync</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTransferring and organizing Telegram messages and files within an Obsidian vault for note-taking and knowledge management.\n<br>\n✨ <b>Key Features:</b>\n• Synchronize text messages and files\n• Save messages as individual notes or append to an existing note\n• Transcript voices and video notes (for Telegram Premium subscribers only)\n• Use customizable templates for new notes\n• Set folders for new notes and files\n<br>\n📖 <b>Summary:</b>\nThe Obsidian Telegram Sync plugin allows users to transfer messages and files from Telegram to their Obsidian vault. It supports saving text, voice transcripts, images, and other files, enabling further processing and organization of Telegram content within Obsidian.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/soberhacker/obsidian-telegram-sync?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3052d08f8acb8eb37eb28bac7a9b0b64bf831ec5c32a93156d64b20cfe5826f6/soberhacker/obsidian-telegram-sync",
         "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 1093574196,
-        "content": "💡 <b>dockrtui</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging Docker containers, images, networks, volumes, and Compose projects through a terminal-based user interface.\n<br>\n✨ <b>Key Features:</b>\n• Containers, Images, Networks, Volumes & Compose management\n• Quick actions (start, stop, restart, inspect, prune)\n• Smart search and filtering\n• Built-in shell inside containers\n• Compose integration\n<br>\n📖 <b>Summary:</b>\nDockrTUI is a terminal dashboard for Docker, built with Rust and Ratatui, designed for managing containers, images, networks, volumes, and Compose projects. It provides a keyboard-driven interface for quick actions like starting, stopping, restarting, and inspecting Docker resources, aiming to simplify Docker management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/LuuNa-JD/dockrtui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c02f32913e315985d248ad1b4cd6a5f8933d18b1641a9d16dfe466fe802d1879/LuuNa-JD/dockrtui",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 1086810013,
-        "content": "🌟 <b>pipedash</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCentralized management and monitoring of CI/CD pipelines from multiple providers.\n<br>\n✨ <b>Key Features:</b>\n• View pipeline status across multiple providers\n• Browse run history with commit info and execution times\n• Trigger workflows with parameters dynamically loaded from each provider\n• Re-run previous executions with the same parameters\n• Cancel running builds\n<br>\n📖 <b>Summary:</b>\nPipedash is a desktop application designed to aggregate and manage CI/CD pipelines from multiple providers like GitHub Actions, GitLab CI, Buildkite, Jenkins, Tekton CD, and ArgoCD into a single interface. It allows users to view pipeline statuses, browse run history, trigger workflows, and manage builds across different platforms from one central location.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hcavarsan/pipedash?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1086810013/18d1a803-67a9-4830-a4c1-d47b9ea1e9d0",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 1037246832,
-        "content": "🌟 <b>lazyssh</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging SSH connections and configurations through a terminal-based UI.\n<br>\n✨ <b>Key Features:</b>\n• Server Management (add, edit, delete, pin, ping)\n• Quick Server Navigation (fuzzy search, one-keypress SSH, tagging, sorting)\n• Advanced SSH Configuration (port forwarding, connection multiplexing, advanced authentication, security settings, proxy settings)\n<br>\n📖 <b>Summary:</b>\nLazyssh is a terminal-based SSH manager that simplifies server management by providing an interactive UI for connecting to servers defined in the user's `~/.ssh/config` file. It allows users to quickly navigate, connect, manage, and transfer files between their local machine and servers, eliminating the need to remember IP addresses or run long scp commands.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Adembc/lazyssh?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/eaacaca7577976e1074f7930c12cc3c0bb08e0534187d3b9d35da3d290fc8dce/Adembc/lazyssh",
-        "platform": "telegram",
-        "quality_score": 0.7
+        "quality_score": 0.55
     }
 ]

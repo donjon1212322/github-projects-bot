@@ -1,26 +1,26 @@
 {
-    "title": "Ditch the Docker CLI Chaos: Meet DockrTUI, the Keyboard-Driven Dashboard Built for Speed",
-    "article": "Are you tired of constantly juggling `docker ps`, `docker logs -f`, and then hunting down container IDs just to see what's happening in your local environment? We all know the pain of managing complex container setups solely through command-line incantations. That’s where DockrTUI swoops in to revolutionize your workflow. This project is a ridiculously fast, modern, and entirely keyboard-driven dashboard that puts your entire Docker universe right inside your terminal. It's designed to make managing containers feel less like typing spells in Bash and more like flying a starship.\n\nDockrTUI isn't just a pretty interface; it's built for efficiency. Under the hood, it’s powered by Rust and leverages the `ratatui` library, which means it’s lightning quick and incredibly stable. Think of it as turning your terminal into a high-performance cockpit for Docker. Instead of typing out long commands, you navigate using simple key presses like Tab, Enter, and arrow keys. This drastically cuts down the cognitive load and execution time required for routine tasks, allowing you to focus on development rather than infrastructure wrangling.\n\n The core functionality covers everything you need: Containers, Images, Networks, Volumes, and even integrated Compose projects. Switching between these views is instantaneous using the Tab key. Need to stop a runaway container? Select it and hit Enter. Want to check the logs? Press 'l'. It consolidates all those disparate CLI actions into a single, unified, and interactive view, making inspection and quick actions intuitive and immediate.\n\nOne of the standout features that makes DockrTUI a must-have is the built-in shell. Instead of fumbling with `docker exec -it [container] /bin/bash`, you can simply select a running container and hit 'b'. This drops you directly into an interactive shell right within the TUI interface, complete with command history and tab autocompletion. It feels seamless and saves precious seconds every time you need to debug or inspect a running service, maintaining your persistent working directory throughout the session.\n\nFor developers working with microservices or complex Compose environments, the dedicated Compose tab is a game-changer. DockrTUI automatically detects your Compose files, allowing you to run `up`, `down`, or view logs for the entire project without ever leaving the dashboard. Furthermore, the project handles Docker socket detection intelligently, working flawlessly with Docker Desktop, rootless setups, and even Podman (via Docker API compatibility), ensuring compatibility across various environments right out of the box. If you value speed, keyboard shortcuts, and a clean, consolidated view of your containerized world, ditch the bash scripts and give DockrTUI a spin. It genuinely transforms Docker management from a chore into a fluid, enjoyable experience.",
+    "title": "Chat Off-Grid: The Secure Messenger That Works Without Cell Towers or Wi-Fi",
+    "article": "Imagine a communication app that works even if the internet goes down, or if you're miles away from the nearest cell tower. That's the revolutionary promise of Reticulum MeshChat. This project is a versatile, secure messaging application built on top of the powerful Reticulum Network Stack, or RNS. RNS acts as an intelligent framework, treating all connection types\r\n—from standard Ethernet and Wi-Fi to low-power radio—as equal interfaces for routing data. Essentially, it automatically forms a self-healing, decentralized mesh network wherever compatible devices are present.\r\nThe core magic lies in its support for low-power, license-free LoRa radio, especially when paired with hardware like an RNode. LoRa is designed for long-distance, low-bandwidth communication, making it the perfect backbone for off-grid messaging. MeshChat leverages this capability to send encrypted messages, files, and even highly compressed audio calls (thanks to codec2 optimization) across potentially vast distances. The system ensures messages hop securely between nodes until they reach their intended recipient, bypassing traditional cellular or internet infrastructure entirely. This feature is crucial for emergency communication, remote exploration, or simply maintaining privacy and independence from central service providers.\r\nSecurity is paramount in Reticulum MeshChat. All communication is inherently secure and private, utilizing the LXMF protocol. Messages can only be decrypted by the intended destination, offering robust privacy guarantees. Furthermore, this application is not a closed system. It is fully interoperable with other LXMF clients, such as Sideband and Nomadnet, meaning you are instantly joining a wider ecosystem of decentralized communication tools and networks.\r\nFor developers, Reticulum MeshChat offers a compelling sandbox for exploring true peer-to-peer networking and resilient system design. You have the power to easily set up your device as an LXMF Propagation Node, effectively turning it into a relay point for message storage and retrieval for others in the network. This allows you to contribute directly to the network's resilience. Beyond messaging, you can dive into decentralized content by browsing \"micron pages,\" which are decentralized websites hosted on Nomad Network nodes. This project is an open-source opportunity to understand and build applications that function independent of large, centralized cloud providers, pushing the boundaries of resilient communication technology.",
     "key_takeaways": [
-        "DockrTUI provides a fast, keyboard-driven Terminal User Interface (TUI) for complete Docker management.",
-        "It is built using Rust and `ratatui`, ensuring high performance, stability, and responsiveness.",
-        "Features comprehensive management of Containers, Images, Networks, Volumes, and integrated Docker Compose projects.",
-        "Includes a seamless built-in interactive shell (with `cd`, history, and autocompletion) accessible directly from the dashboard.",
-        "Simplifies complex operations, replacing long CLI commands with simple key presses for quick actions like start, stop, logs, and inspection."
+        "Enables secure, off-grid communication using mesh networking over interfaces like LoRa radio, Wi-Fi, and Ethernet.",
+        "Built on the Reticulum Network Stack (RNS) and LXMF, providing automatic, decentralized routing and robust encryption.",
+        "Supports file transfers and low-bandwidth audio calls optimized for long-distance, low-power links.",
+        "Interoperable with other LXMF clients (Sideband, Nomadnet), expanding the decentralized communication ecosystem.",
+        "Developers can contribute to network resilience by running LXMF Propagation Nodes and exploring decentralized content (micron pages)."
     ],
     "tags": [
-        "Docker",
-        "TUI",
-        "Rust",
-        "DevOps",
-        "Container Management"
+        "Mesh Networking",
+        "LoRa",
+        "Decentralization",
+        "Off-Grid Communication",
+        "Peer-to-Peer"
     ],
-    "stars": 88,
-    "forks": 8,
-    "open_issues": 1,
-    "languages": "Rust",
-    "readme_summary": "DockrTUI is a terminal dashboard for Docker, built with Rust and Ratatui, designed for managing containers, images, networks, volumes, and Compose projects. It provides a keyboard-driven interface for quick actions like starting, stopping, restarting, and inspecting Docker resources, aiming to simplify Docker management.",
-    "project_id": 1093574196,
-    "url": "https://github.com/LuuNa-JD/dockrtui",
-    "description": "A fast, modern and keyboard-driven terminal dashboard for Docker — built with Rust and Ratatui"
+    "stars": 665,
+    "forks": 56,
+    "open_issues": 51,
+    "languages": "JavaScript",
+    "readme_summary": "Reticulum MeshChat is a simple mesh network communications application built on the Reticulum Network Stack. It allows users to send messages, files, and audio calls over various interfaces, including local networks, the internet, and LoRa radio, with a focus on secure communication and compatibility with other LXMF clients like Sideband and Nomadnet.",
+    "project_id": 793137423,
+    "url": "https://github.com/liamcottle/reticulum-meshchat",
+    "description": "A simple mesh network communications app powered by the Reticulum Network Stack."
 }
