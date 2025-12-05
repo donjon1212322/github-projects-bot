@@ -1,157 +1,214 @@
 [
     {
-        "id": 793137423,
-        "name": "reticulum-meshchat",
-        "description": "A simple mesh network communications app powered by the Reticulum Network Stack.",
-        "url": "https://github.com/liamcottle/reticulum-meshchat",
-        "language": "JavaScript",
-        "stars": 665,
-        "forks": 56,
-        "created_at": "2024-04-28T14:34:25Z",
-        "updated_at": "2025-12-04T07:25:21Z",
-        "topics": [
-            "codec2",
-            "ed25519",
-            "electron",
-            "encryption",
-            "lora",
-            "lxmf",
-            "mesh",
-            "mesh-networks",
-            "meshchat",
-            "nomadnet",
-            "offgrid",
-            "p2p",
-            "radio",
-            "reticulum",
-            "rnode",
-            "rns",
-            "sideband",
-            "webchat",
-            "x25519"
-        ],
-        "quality_score": 0.85,
+        "id": 991206747,
+        "name": "Auto-Slides",
+        "description": "Official implementation of Auto-Slides: Automatic Academic Presentation Generation with Multi-Agent Collaboration",
+        "url": "https://github.com/Westlake-AGI-Lab/Auto-Slides",
+        "language": "Python",
+        "stars": 377,
+        "forks": 44,
+        "created_at": "2025-05-27T09:30:35Z",
+        "updated_at": "2025-12-05T08:42:28Z",
+        "topics": [],
+        "quality_score": 0.7999999999999999,
         "contributors_count": 0,
-        "last_commit_date": "2025-11-11T10:09:01Z",
+        "last_commit_date": "2025-12-01T14:07:38Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/8bbb3cb55f8a4513da14c952d43fcd8460bc02e4c4b9372c99587e19a1292260/liamcottle/reticulum-meshchat"
+            "https://opengraph.githubassets.com/6e606e3bbbbc9a48a728faa0f610784778bd5c1c0abaaf18e28e4521b63cc968/Westlake-AGI-Lab/Auto-Slides"
         ],
-        "homepage": "https://meshchat.app",
-        "readme_summary": "Reticulum MeshChat is a simple mesh network communications application built on the Reticulum Network Stack. It allows users to send messages, files, and audio calls over various interfaces, including local networks, the internet, and LoRa radio, with a focus on secure communication and compatibility with other LXMF clients like Sideband and Nomadnet.",
+        "homepage": "https://auto-slides.github.io/",
+        "readme_summary": "Auto-Slides is a system that automatically generates presentation slides from academic research papers. It uses a multi-agent framework and large language models to extract content, plan the presentation, and optimize for pedagogical effectiveness, offering interactive customization and multimodal output.",
         "key_features": [
-            "Sending and receiving messages, files, and audio calls",
-            "Communication over Ethernet, WiFi, internet, and LoRa radio",
-            "Secure communication with message encryption",
-            "Compatibility with LXMF clients (Sideband, Nomadnet)",
-            "File downloading and browsing of micron pages on Nomad Network",
-            "LXMF Propagation Node support",
-            "Audio Calls with codec2 encoding"
+            "Intelligent PDF Processing",
+            "Multi-Agent Framework",
+            "Interactive Customization",
+            "Pedagogical Optimization",
+            "Multimodal Output",
+            "Multiple Themes",
+            "Bilingual Support",
+            "Speech Generation"
         ],
-        "primary_use_case": "Off-grid and decentralized communication using mesh networks.",
-        "open_issues": 51,
-        "cover_image_prompt": "An old-fashioned switchboard operator in a cozy, steampunk-inspired office, connecting glowing wires between various devices: a vintage radio, a modern smartphone, and a computer displaying a chat interface. The wires converge on a central mesh network represented by a glowing, interconnected web. The operator smiles, symbolizing seamless communication across different networks. Subtle UI elements on the devices show message exchanges. The scene is warmly lit with soft shadows. The image should be in a detailed digital painting style with a focus on clear lines and intricate details."
+        "primary_use_case": "Automatic generation of academic presentation slides from research papers.",
+        "open_issues": 8,
+        "cover_image_prompt": "A skilled architect standing before a blueprint-covered table, magically transforming complex academic papers into beautifully structured presentation slides. The architect uses a special pen that emits beams of light, highlighting key information and arranging it into visually appealing layouts on the slides. Small screens display snippets of research papers and corresponding slide previews. The scene is set in a bright, modern studio with a collaborative atmosphere. Subtle digital elements like glowing data streams and UI icons connect the metaphor to software. The composition is clean and focused with a blue and green color scheme. The image should be in 3D isometric illustration style with rich details."
     },
     {
-        "id": 133561480,
-        "name": "vt-cli",
-        "description": "VirusTotal Command Line Interface",
-        "url": "https://github.com/VirusTotal/vt-cli",
-        "language": "Go",
-        "stars": 1163,
-        "forks": 109,
-        "created_at": "2018-05-15T19:08:20Z",
-        "updated_at": "2025-12-04T03:45:03Z",
+        "id": 762832332,
+        "name": "web-file-explorer-icons",
+        "description": "📂 Soothing pastel icons for GitHub, Gitlab, Gitea, Forgejo and more!",
+        "url": "https://github.com/catppuccin/web-file-explorer-icons",
+        "language": "TypeScript",
+        "stars": 224,
+        "forks": 9,
+        "created_at": "2024-02-24T20:13:27Z",
+        "updated_at": "2025-12-05T09:44:29Z",
+        "topics": [
+            "catppuccin",
+            "extension",
+            "github-file-explorer",
+            "hacktoberfest",
+            "theme"
+        ],
+        "quality_score": 0.7,
+        "contributors_count": 0,
+        "last_commit_date": "2025-10-22T20:44:45Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/f0427df197253ecd2a3969353bf5462c4474f3e33a4bd3ada738fa0af3af5e64/catppuccin/web-file-explorer-icons"
+        ],
+        "homepage": "https://chromewebstore.google.com/detail/catppuccin-for-web-file-e/lnjaiaapbakfhlbjenjkhffcdpoompki",
+        "readme_summary": "The repository provides Catppuccin-themed icons for file explorers on various web-based platforms like GitHub, GitLab, Gitea, Forgejo, Bitbucket, and Tangled. It is implemented as a browser extension available on Chrome, Firefox, and Edge, enhancing the visual appeal of these platforms with soothing pastel icons.",
+        "key_features": [
+            "Catppuccin theme support",
+            "Support for multiple platforms (GitHub, GitLab, Gitea, Forgejo, Bitbucket, Tangled)",
+            "Browser extension availability (Chrome, Firefox, Edge)",
+            "Soothing pastel icons"
+        ],
+        "primary_use_case": "Enhancing the visual appearance of web-based file explorers with Catppuccin-themed icons.",
+        "open_issues": 7,
+        "cover_image_prompt": "A friendly chameleon, representing adaptability, is painting icons with Catppuccin pastel colors onto a digital tree representing a file system. The tree's branches are labeled with logos of GitHub, GitLab, and other supported platforms. The chameleon uses a small digital palette with glowing color swatches. A subtle UI element showing a file explorer with the applied icons floats nearby. The scene is set in a bright, airy digital garden with soft, diffused lighting. The composition is clean and focused, with a pastel color scheme. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 950297516,
+        "name": "OpenTagViewer",
+        "description": "Track your AirTags and iDevices on Android",
+        "url": "https://github.com/parawanderer/OpenTagViewer",
+        "language": "Java",
+        "stars": 204,
+        "forks": 8,
+        "created_at": "2025-03-18T00:11:10Z",
+        "updated_at": "2025-12-05T08:59:00Z",
+        "topics": [
+            "android",
+            "android-app",
+            "chaquopy",
+            "macos-app",
+            "tkinter-gui",
+            "wiki"
+        ],
+        "quality_score": 0.6,
+        "contributors_count": 0,
+        "last_commit_date": "2025-09-13T18:13:15Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/950297516/e73573c1-36fa-4d8f-bd6f-f173adae1359"
+        ],
+        "homepage": "",
+        "readme_summary": "OpenTagViewer is an Android application that allows users to track Apple AirTags on their Android devices. It leverages the FindMy.py library to retrieve location data and provides a user interface for viewing current and historical locations of AirTags, a feature not natively available on iOS.",
+        "key_features": [
+            "View current location of AirTags on Android",
+            "Track and save historical location data",
+            "UI customization options"
+        ],
+        "primary_use_case": "Tracking Apple AirTags on Android devices.",
+        "open_issues": 19,
+        "cover_image_prompt": "A detective in a modern, minimalist apartment, using an Android tablet to track several glowing AirTag icons scattered on a map projected onto the wall. The detective is focused, with a magnifying glass hovering over the tablet screen. Subtle UI elements from the OpenTagViewer app are visible on the tablet. The apartment has a large window overlooking a cityscape at night, with faint digital particles floating in the air, connecting the AirTags to the tablet. The image should be in a flat design style with clear iconography and a cool color scheme."
+    },
+    {
+        "id": 24259882,
+        "name": "weevely3",
+        "description": "Weaponized web shell",
+        "url": "https://github.com/epinna/weevely3",
+        "language": "Python",
+        "stars": 3431,
+        "forks": 625,
+        "created_at": "2014-09-20T10:16:49Z",
+        "updated_at": "2025-12-05T07:44:06Z",
         "topics": [],
         "quality_score": 0.7,
         "contributors_count": 0,
-        "last_commit_date": "2025-10-27T10:44:56Z",
+        "last_commit_date": "2025-10-01T11:55:36Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/66a3fd1b9e9222944e498431e23074988d15b19fe5a3cc27b0366b81eb469dd0/VirusTotal/vt-cli"
-        ],
-        "homepage": "https://virustotal.github.io/vt-cli/",
-        "readme_summary": "The VirusTotal CLI is a command-line tool that allows users to interact with the VirusTotal API. It provides functionalities such as retrieving information about files, URLs, domains, and IP addresses, as well as searching for threats, downloading files, and managing LiveHunt YARA rules.",
-        "key_features": [
-            "Retrieve information about files, URLs, domain names, and IP addresses",
-            "Search for files and URLs using VirusTotal Intelligence query syntax",
-            "Download files",
-            "Manage LiveHunt YARA rules",
-            "Launch Retrohunt jobs and get their results"
-        ],
-        "primary_use_case": "Interacting with the VirusTotal service via the command line for security analysis and threat intelligence.",
-        "open_issues": 12,
-        "cover_image_prompt": "A detective in a dimly lit office, using a magnifying glass (the vt-cli) to examine digital fingerprints on various pieces of evidence (files, URLs, IP addresses). The fingerprints glow with data, revealing hidden threats. A large screen behind the detective displays a simplified VirusTotal interface with search results. Small code snippets float around the detective, subtly connecting the scene to software. The office is filled with filing cabinets labeled with VirusTotal features. The scene has a noir-inspired color scheme with dramatic lighting. The image should be in digital painting style with clean lines and clear details."
-    },
-    {
-        "id": 1054273804,
-        "name": "AgentGym-RL",
-        "description": "Code and implementations for the paper \"AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning\" by Zhiheng Xi et al.",
-        "url": "https://github.com/WooooDyy/AgentGym-RL",
-        "language": "Python",
-        "stars": 511,
-        "forks": 56,
-        "created_at": "2025-09-10T15:52:16Z",
-        "updated_at": "2025-12-04T08:40:24Z",
-        "topics": [
-            "agent",
-            "llm",
-            "llm-based-agent",
-            "scaling"
-        ],
-        "quality_score": 0.55,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-11T02:03:10Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/630434093a8a124a9b960f5bc0d03d50e61b6ccd2808a137a097f6cd3912ff35/WooooDyy/AgentGym-RL"
-        ],
-        "homepage": "https://agentgym-rl.github.io/",
-        "readme_summary": "AgentGym-RL is a framework for training LLM agents to perform multi-turn interactive decision-making using reinforcement learning. It provides diverse real-world scenarios and supports mainstream RL algorithms, aiming to improve the performance of LLM agents in complex tasks.",
-        "key_features": [
-            "Multi-turn interactive decision-making",
-            "Support for real-world scenarios",
-            "Compatibility with mainstream RL algorithms",
-            "ScalingInter-RL algorithm for optimization stability",
-            "Visualized interactive user interface for data analysis"
-        ],
-        "primary_use_case": "Training LLM agents for long-horizon decision-making tasks through reinforcement learning.",
-        "open_issues": 10,
-        "cover_image_prompt": "A skilled navigator piloting a sophisticated ship through a vast, uncharted archipelago, representing complex, multi-turn decision-making. The ship's controls are subtly integrated with UI elements, displaying real-time data and code snippets. Each island represents a different real-world scenario, with varying challenges and rewards. The navigator uses a glowing, interactive map powered by RL algorithms to chart the optimal course. The scene is set in a vibrant, stylized world with clear skies and dynamic lighting. The image should be in 3D isometric illustration style with rich details and a focus on clarity and intuitive understanding."
-    },
-    {
-        "id": 623557936,
-        "name": "obsidian-telegram-sync",
-        "description": "Transfer messages and files from Telegram to Obsidian",
-        "url": "https://github.com/soberhacker/obsidian-telegram-sync",
-        "language": "TypeScript",
-        "stars": 543,
-        "forks": 50,
-        "created_at": "2023-04-04T15:57:02Z",
-        "updated_at": "2025-12-04T09:53:19Z",
-        "topics": [
-            "obsidian",
-            "obsidian-plugin",
-            "synchronization",
-            "telegram",
-            "telegram-bot"
-        ],
-        "quality_score": 0.55,
-        "contributors_count": 0,
-        "last_commit_date": "2024-10-30T19:25:10Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/3052d08f8acb8eb37eb28bac7a9b0b64bf831ec5c32a93156d64b20cfe5826f6/soberhacker/obsidian-telegram-sync"
+            "https://opengraph.githubassets.com/55bb5e849c92733babe635e821aa61d3ae63a8a659e0a2d584b5fb7135276c9a/epinna/weevely3"
         ],
         "homepage": "",
-        "readme_summary": "The Obsidian Telegram Sync plugin allows users to transfer messages and files from Telegram to their Obsidian vault. It supports saving text, voice transcripts, images, and other files, enabling further processing and organization of Telegram content within Obsidian.",
+        "readme_summary": "Weevely is a weaponized web shell designed for post-exploitation. It allows remote shell access to a target web server by uploading a PHP agent, offering modules for administrative tasks, maintaining access, privilege escalation, and network spreading.",
         "key_features": [
-            "Synchronize text messages and files",
-            "Save messages as individual notes or append to an existing note",
-            "Transcript voices and video notes (for Telegram Premium subscribers only)",
-            "Use customizable templates for new notes",
-            "Set folders for new notes and files",
-            "Automatically format text messages with markdown",
-            "Delete processed messages from Telegram"
+            "Shell access to the target",
+            "SQL console pivoting on the target",
+            "HTTP/HTTPS proxy to browse through the target",
+            "Upload and download files",
+            "Spawn reverse and direct TCP shells",
+            "Audit remote target security",
+            "Port scan pivoting on target",
+            "Mount the remote filesystem",
+            "Bruteforce SQL accounts pivoting on the target"
         ],
-        "primary_use_case": "Transferring and organizing Telegram messages and files within an Obsidian vault for note-taking and knowledge management.",
-        "open_issues": 34,
-        "cover_image_prompt": "A diligent librarian meticulously sorting incoming telegrams into labeled Obsidian filing cabinets. The librarian uses a special device to transcribe voice messages into text, which then neatly appears within the files. Digital particles representing data flow between a glowing Telegram icon and the Obsidian cabinets. Small UI elements showing message previews and file types float subtly in the background. The scene is set in a well-lit, organized library with a warm, inviting atmosphere. The composition is clean and focused with a blue and gray color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
+        "primary_use_case": "Post-exploitation of web servers to gain remote shell access and perform various administrative and penetration testing tasks.",
+        "open_issues": 12,
+        "cover_image_prompt": "A locksmith, representing Weevely, skillfully picking the lock of a server room door, symbolizing gaining unauthorized access. Inside, the server hums with activity, representing the compromised system. The locksmith uses specialized tools, each representing a module, like a stethoscope (audit), a miniature drill (file manipulation), and a tiny antenna (network access). Subtle UI elements on the server show command prompts and data streams. The scene is set in a dimly lit, high-tech data center with glowing server racks. The image should be in a 3D isometric illustration style with detailed textures and a cool color palette."
+    },
+    {
+        "id": 1040280323,
+        "name": "gonzo",
+        "description": "Gonzo! The Go based TUI log analysis tool",
+        "url": "https://github.com/control-theory/gonzo",
+        "language": "Go",
+        "stars": 2251,
+        "forks": 61,
+        "created_at": "2025-08-18T18:21:51Z",
+        "updated_at": "2025-12-05T10:01:05Z",
+        "topics": [
+            "ai",
+            "golang",
+            "logs",
+            "ollama",
+            "openai",
+            "opentelemetry",
+            "otel",
+            "otlp",
+            "terminal",
+            "tui"
+        ],
+        "quality_score": 0.7499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-12-01T16:59:19Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/8ff5421a55017d9e117e9b82d22f6dcbd996c834164de1848126a9be502e93b2/control-theory/gonzo"
+        ],
+        "homepage": "https://www.controltheory.com/gonzo/",
+        "readme_summary": "Gonzo is a Go-based terminal UI (TUI) log analysis tool. It provides real-time analysis of log streams from various sources like stdin, files, Kubernetes, and OTLP, offering features like interactive dashboards with charts, advanced filtering, customizable themes, and AI-powered insights.",
+        "key_features": [
+            "Real-time log analysis",
+            "Kubernetes and OTLP native support",
+            "Interactive dashboard with charts",
+            "Advanced filtering (regex, attribute, severity)",
+            "Customizable themes",
+            "AI-powered insights"
+        ],
+        "primary_use_case": "Analyzing and visualizing log data in real-time from various sources within a terminal environment.",
+        "open_issues": 16,
+        "cover_image_prompt": "A detective in a dimly lit, futuristic office, meticulously examining streams of glowing data flowing through a magnifying glass. The data streams represent log files, and the magnifying glass reveals hidden patterns and anomalies. Small screens display real-time charts and graphs derived from the logs. The office is filled with subtle tech elements, like glowing server racks and data visualizations projected onto the walls. The repository name, 'Gonzo,' is subtly displayed on a neon sign. The scene has a noir-inspired aesthetic with blues and purples. The image should be in digital painting style with clean lines and clear details."
+    },
+    {
+        "id": 1048418394,
+        "name": "cagent",
+        "description": "Agent Builder and Runtime by Docker Engineering",
+        "url": "https://github.com/docker/cagent",
+        "language": "Go",
+        "stars": 1667,
+        "forks": 182,
+        "created_at": "2025-09-01T12:14:45Z",
+        "updated_at": "2025-12-05T08:39:02Z",
+        "topics": [
+            "agents",
+            "ai"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-12-05T08:29:00Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/6e981dc398ed36a7a053d76227491795965a2d0f9f3eb93663fd8e30247a52bc/docker/cagent"
+        ],
+        "homepage": "",
+        "readme_summary": "cagent is a multi-agent runtime that allows users to create and run intelligent AI agents with specialized knowledge, tools, and capabilities. It supports MCP servers for accessing external tools and can expose agents as MCP tools for other clients to use.",
+        "key_features": [
+            "Agent creation using YAML configuration",
+            "MCP server support (stdio, http, sse)",
+            "Docker MCP Toolkit integration",
+            "Agent exposure as MCP tools",
+            "Customizable agent behavior with instructions and toolsets"
+        ],
+        "primary_use_case": "Orchestrating AI agents with specialized capabilities to solve complex problems.",
+        "open_issues": 44,
+        "cover_image_prompt": "Imagine a conductor leading an orchestra of robots, each robot playing a different instrument representing a specialized AI agent. The conductor, representing cagent, orchestrates the robots to create a harmonious melody, symbolizing the solution to a complex problem. Wires and data streams connect the robots, visualized as glowing musical notes flowing from one robot to another. A large screen behind the orchestra displays a simplified UI showing the agents interacting. The scene is set in a futuristic concert hall with vibrant lighting. The image should be in 3D isometric illustration style with rich details and vibrant colors."
     }
 ]
