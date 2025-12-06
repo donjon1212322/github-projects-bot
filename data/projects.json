@@ -1,214 +1,267 @@
 [
     {
-        "id": 991206747,
-        "name": "Auto-Slides",
-        "description": "Official implementation of Auto-Slides: Automatic Academic Presentation Generation with Multi-Agent Collaboration",
-        "url": "https://github.com/Westlake-AGI-Lab/Auto-Slides",
-        "language": "Python",
-        "stars": 377,
-        "forks": 44,
-        "created_at": "2025-05-27T09:30:35Z",
-        "updated_at": "2025-12-05T08:42:28Z",
-        "topics": [],
-        "quality_score": 0.7999999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-12-01T14:07:38Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/6e606e3bbbbc9a48a728faa0f610784778bd5c1c0abaaf18e28e4521b63cc968/Westlake-AGI-Lab/Auto-Slides"
-        ],
-        "homepage": "https://auto-slides.github.io/",
-        "readme_summary": "Auto-Slides is a system that automatically generates presentation slides from academic research papers. It uses a multi-agent framework and large language models to extract content, plan the presentation, and optimize for pedagogical effectiveness, offering interactive customization and multimodal output.",
-        "key_features": [
-            "Intelligent PDF Processing",
-            "Multi-Agent Framework",
-            "Interactive Customization",
-            "Pedagogical Optimization",
-            "Multimodal Output",
-            "Multiple Themes",
-            "Bilingual Support",
-            "Speech Generation"
-        ],
-        "primary_use_case": "Automatic generation of academic presentation slides from research papers.",
-        "open_issues": 8,
-        "cover_image_prompt": "A skilled architect standing before a blueprint-covered table, magically transforming complex academic papers into beautifully structured presentation slides. The architect uses a special pen that emits beams of light, highlighting key information and arranging it into visually appealing layouts on the slides. Small screens display snippets of research papers and corresponding slide previews. The scene is set in a bright, modern studio with a collaborative atmosphere. Subtle digital elements like glowing data streams and UI icons connect the metaphor to software. The composition is clean and focused with a blue and green color scheme. The image should be in 3D isometric illustration style with rich details."
-    },
-    {
-        "id": 762832332,
-        "name": "web-file-explorer-icons",
-        "description": "📂 Soothing pastel icons for GitHub, Gitlab, Gitea, Forgejo and more!",
-        "url": "https://github.com/catppuccin/web-file-explorer-icons",
-        "language": "TypeScript",
-        "stars": 224,
-        "forks": 9,
-        "created_at": "2024-02-24T20:13:27Z",
-        "updated_at": "2025-12-05T09:44:29Z",
+        "id": 1017945204,
+        "name": "noctalia-shell",
+        "description": "A sleek and minimal desktop shell thoughtfully crafted for Wayland.",
+        "url": "https://github.com/noctalia-dev/noctalia-shell",
+        "language": "QML",
+        "stars": 1654,
+        "forks": 168,
+        "created_at": "2025-07-11T10:50:50Z",
+        "updated_at": "2025-12-06T09:39:10Z",
         "topics": [
-            "catppuccin",
-            "extension",
-            "github-file-explorer",
-            "hacktoberfest",
-            "theme"
-        ],
-        "quality_score": 0.7,
-        "contributors_count": 0,
-        "last_commit_date": "2025-10-22T20:44:45Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/f0427df197253ecd2a3969353bf5462c4474f3e33a4bd3ada738fa0af3af5e64/catppuccin/web-file-explorer-icons"
-        ],
-        "homepage": "https://chromewebstore.google.com/detail/catppuccin-for-web-file-e/lnjaiaapbakfhlbjenjkhffcdpoompki",
-        "readme_summary": "The repository provides Catppuccin-themed icons for file explorers on various web-based platforms like GitHub, GitLab, Gitea, Forgejo, Bitbucket, and Tangled. It is implemented as a browser extension available on Chrome, Firefox, and Edge, enhancing the visual appeal of these platforms with soothing pastel icons.",
-        "key_features": [
-            "Catppuccin theme support",
-            "Support for multiple platforms (GitHub, GitLab, Gitea, Forgejo, Bitbucket, Tangled)",
-            "Browser extension availability (Chrome, Firefox, Edge)",
-            "Soothing pastel icons"
-        ],
-        "primary_use_case": "Enhancing the visual appearance of web-based file explorers with Catppuccin-themed icons.",
-        "open_issues": 7,
-        "cover_image_prompt": "A friendly chameleon, representing adaptability, is painting icons with Catppuccin pastel colors onto a digital tree representing a file system. The tree's branches are labeled with logos of GitHub, GitLab, and other supported platforms. The chameleon uses a small digital palette with glowing color swatches. A subtle UI element showing a file explorer with the applied icons floats nearby. The scene is set in a bright, airy digital garden with soft, diffused lighting. The composition is clean and focused, with a pastel color scheme. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
-    },
-    {
-        "id": 950297516,
-        "name": "OpenTagViewer",
-        "description": "Track your AirTags and iDevices on Android",
-        "url": "https://github.com/parawanderer/OpenTagViewer",
-        "language": "Java",
-        "stars": 204,
-        "forks": 8,
-        "created_at": "2025-03-18T00:11:10Z",
-        "updated_at": "2025-12-05T08:59:00Z",
-        "topics": [
-            "android",
-            "android-app",
-            "chaquopy",
-            "macos-app",
-            "tkinter-gui",
-            "wiki"
-        ],
-        "quality_score": 0.6,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-13T18:13:15Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/950297516/e73573c1-36fa-4d8f-bd6f-f173adae1359"
-        ],
-        "homepage": "",
-        "readme_summary": "OpenTagViewer is an Android application that allows users to track Apple AirTags on their Android devices. It leverages the FindMy.py library to retrieve location data and provides a user interface for viewing current and historical locations of AirTags, a feature not natively available on iOS.",
-        "key_features": [
-            "View current location of AirTags on Android",
-            "Track and save historical location data",
-            "UI customization options"
-        ],
-        "primary_use_case": "Tracking Apple AirTags on Android devices.",
-        "open_issues": 19,
-        "cover_image_prompt": "A detective in a modern, minimalist apartment, using an Android tablet to track several glowing AirTag icons scattered on a map projected onto the wall. The detective is focused, with a magnifying glass hovering over the tablet screen. Subtle UI elements from the OpenTagViewer app are visible on the tablet. The apartment has a large window overlooking a cityscape at night, with faint digital particles floating in the air, connecting the AirTags to the tablet. The image should be in a flat design style with clear iconography and a cool color scheme."
-    },
-    {
-        "id": 24259882,
-        "name": "weevely3",
-        "description": "Weaponized web shell",
-        "url": "https://github.com/epinna/weevely3",
-        "language": "Python",
-        "stars": 3431,
-        "forks": 625,
-        "created_at": "2014-09-20T10:16:49Z",
-        "updated_at": "2025-12-05T07:44:06Z",
-        "topics": [],
-        "quality_score": 0.7,
-        "contributors_count": 0,
-        "last_commit_date": "2025-10-01T11:55:36Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/55bb5e849c92733babe635e821aa61d3ae63a8a659e0a2d584b5fb7135276c9a/epinna/weevely3"
-        ],
-        "homepage": "",
-        "readme_summary": "Weevely is a weaponized web shell designed for post-exploitation. It allows remote shell access to a target web server by uploading a PHP agent, offering modules for administrative tasks, maintaining access, privilege escalation, and network spreading.",
-        "key_features": [
-            "Shell access to the target",
-            "SQL console pivoting on the target",
-            "HTTP/HTTPS proxy to browse through the target",
-            "Upload and download files",
-            "Spawn reverse and direct TCP shells",
-            "Audit remote target security",
-            "Port scan pivoting on target",
-            "Mount the remote filesystem",
-            "Bruteforce SQL accounts pivoting on the target"
-        ],
-        "primary_use_case": "Post-exploitation of web servers to gain remote shell access and perform various administrative and penetration testing tasks.",
-        "open_issues": 12,
-        "cover_image_prompt": "A locksmith, representing Weevely, skillfully picking the lock of a server room door, symbolizing gaining unauthorized access. Inside, the server hums with activity, representing the compromised system. The locksmith uses specialized tools, each representing a module, like a stethoscope (audit), a miniature drill (file manipulation), and a tiny antenna (network access). Subtle UI elements on the server show command prompts and data streams. The scene is set in a dimly lit, high-tech data center with glowing server racks. The image should be in a 3D isometric illustration style with detailed textures and a cool color palette."
-    },
-    {
-        "id": 1040280323,
-        "name": "gonzo",
-        "description": "Gonzo! The Go based TUI log analysis tool",
-        "url": "https://github.com/control-theory/gonzo",
-        "language": "Go",
-        "stars": 2251,
-        "forks": 61,
-        "created_at": "2025-08-18T18:21:51Z",
-        "updated_at": "2025-12-05T10:01:05Z",
-        "topics": [
-            "ai",
-            "golang",
-            "logs",
-            "ollama",
-            "openai",
-            "opentelemetry",
-            "otel",
-            "otlp",
-            "terminal",
-            "tui"
-        ],
-        "quality_score": 0.7499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-12-01T16:59:19Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/8ff5421a55017d9e117e9b82d22f6dcbd996c834164de1848126a9be502e93b2/control-theory/gonzo"
-        ],
-        "homepage": "https://www.controltheory.com/gonzo/",
-        "readme_summary": "Gonzo is a Go-based terminal UI (TUI) log analysis tool. It provides real-time analysis of log streams from various sources like stdin, files, Kubernetes, and OTLP, offering features like interactive dashboards with charts, advanced filtering, customizable themes, and AI-powered insights.",
-        "key_features": [
-            "Real-time log analysis",
-            "Kubernetes and OTLP native support",
-            "Interactive dashboard with charts",
-            "Advanced filtering (regex, attribute, severity)",
-            "Customizable themes",
-            "AI-powered insights"
-        ],
-        "primary_use_case": "Analyzing and visualizing log data in real-time from various sources within a terminal environment.",
-        "open_issues": 16,
-        "cover_image_prompt": "A detective in a dimly lit, futuristic office, meticulously examining streams of glowing data flowing through a magnifying glass. The data streams represent log files, and the magnifying glass reveals hidden patterns and anomalies. Small screens display real-time charts and graphs derived from the logs. The office is filled with subtle tech elements, like glowing server racks and data visualizations projected onto the walls. The repository name, 'Gonzo,' is subtly displayed on a neon sign. The scene has a noir-inspired aesthetic with blues and purples. The image should be in digital painting style with clean lines and clear details."
-    },
-    {
-        "id": 1048418394,
-        "name": "cagent",
-        "description": "Agent Builder and Runtime by Docker Engineering",
-        "url": "https://github.com/docker/cagent",
-        "language": "Go",
-        "stars": 1667,
-        "forks": 182,
-        "created_at": "2025-09-01T12:14:45Z",
-        "updated_at": "2025-12-05T08:39:02Z",
-        "topics": [
-            "agents",
-            "ai"
+            "dotfiles",
+            "hyprland",
+            "linux",
+            "niri",
+            "noctalia",
+            "quickshell",
+            "rice"
         ],
         "quality_score": 0.85,
         "contributors_count": 0,
-        "last_commit_date": "2025-12-05T08:29:00Z",
+        "last_commit_date": "2025-12-06T03:12:30Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/6e981dc398ed36a7a053d76227491795965a2d0f9f3eb93663fd8e30247a52bc/docker/cagent"
+            "https://opengraph.githubassets.com/294a94fde277af634e3c30257896be8980133098e52eb830cc801364e2aef4dc/noctalia-dev/noctalia-shell"
+        ],
+        "homepage": "https://docs.noctalia.dev/docs/",
+        "readme_summary": "Noctalia Shell is a minimal and customizable desktop shell for Wayland compositors. It's built on Quickshell and designed to be lightweight and easily adaptable to different user styles, with native support for compositors like Niri, Hyprland, Sway, and MangoWC.",
+        "key_features": [
+            "Native support for Niri, Hyprland, Sway and MangoWC",
+            "Built on Quickshell for performance",
+            "Minimalist design philosophy",
+            "Easily customizable",
+            "Multiple color schemes"
+        ],
+        "primary_use_case": "Providing a customizable and minimal desktop environment for Wayland compositors.",
+        "open_issues": 34,
+        "cover_image_prompt": "Imagine a serene, futuristic cityscape where customizable building blocks represent different desktop elements. A central control panel, glowing with lavender hues, allows a user to rearrange and personalize these blocks, creating their ideal desktop layout. Digital threads connect the control panel to each block, symbolizing the underlying Quickshell framework. Small screens embedded in the buildings display snippets of QML code, hinting at the shell's customization options. The scene is bathed in soft, ambient light with a clean, focused composition. The image should be in a 3D isometric illustration style with vibrant colors and crisp details."
+    },
+    {
+        "id": 583375059,
+        "name": "gdrive",
+        "description": "Google Drive CLI Client",
+        "url": "https://github.com/glotlabs/gdrive",
+        "language": "Rust",
+        "stars": 1949,
+        "forks": 127,
+        "created_at": "2022-12-29T15:36:30Z",
+        "updated_at": "2025-12-06T00:17:08Z",
+        "topics": [],
+        "quality_score": 0.55,
+        "contributors_count": 0,
+        "last_commit_date": "2024-02-01T19:14:09Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/160309f8873644b06e6bbb661e10bdf57a52448007d24043058057e13c7495d6/glotlabs/gdrive"
         ],
         "homepage": "",
-        "readme_summary": "cagent is a multi-agent runtime that allows users to create and run intelligent AI agents with specialized knowledge, tools, and capabilities. It supports MCP servers for accessing external tools and can expose agents as MCP tools for other clients to use.",
+        "readme_summary": "gdrive is a command-line application written in Rust for interacting with Google Drive. It allows users to manage their Google Drive files and accounts directly from the terminal. While it's a successor to gdrive2, it currently implements only basic functionality.",
         "key_features": [
-            "Agent creation using YAML configuration",
-            "MCP server support (stdio, http, sse)",
-            "Docker MCP Toolkit integration",
-            "Agent exposure as MCP tools",
-            "Customizable agent behavior with instructions and toolsets"
+            "Account management (add, export, import)",
+            "File upload",
+            "Command-line interface for Google Drive interaction",
+            "Configuration stored in $HOME/.config/gdrive3/"
         ],
-        "primary_use_case": "Orchestrating AI agents with specialized capabilities to solve complex problems.",
-        "open_issues": 44,
-        "cover_image_prompt": "Imagine a conductor leading an orchestra of robots, each robot playing a different instrument representing a specialized AI agent. The conductor, representing cagent, orchestrates the robots to create a harmonious melody, symbolizing the solution to a complex problem. Wires and data streams connect the robots, visualized as glowing musical notes flowing from one robot to another. A large screen behind the orchestra displays a simplified UI showing the agents interacting. The scene is set in a futuristic concert hall with vibrant lighting. The image should be in 3D isometric illustration style with rich details and vibrant colors."
+        "primary_use_case": "Managing Google Drive files and accounts from the command line, particularly useful for scripting and automation.",
+        "open_issues": 89,
+        "cover_image_prompt": "A librarian meticulously organizing digital files into a giant, glowing Google Drive cloud archive. The librarian uses a command-line interface projected onto a holographic screen to categorize and upload documents. Small digital particles representing data flow from physical documents into the cloud. The scene is set in a futuristic library with warm, inviting lighting. Small UI elements showing file names and folder structures are subtly visible. The composition is clean and focused with a blue and white color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 372752273,
+        "name": "termusic",
+        "description": "Music Player TUI written in Rust",
+        "url": "https://github.com/tramhao/termusic",
+        "language": "Rust",
+        "stars": 1693,
+        "forks": 73,
+        "created_at": "2021-06-01T08:13:53Z",
+        "updated_at": "2025-12-06T09:13:06Z",
+        "topics": [],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-12-01T19:12:48Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/f045a639f960e2f3ffa0daa3630e99e339d651aa644541ed1ca4327f24d4a5f1/tramhao/termusic"
+        ],
+        "homepage": null,
+        "readme_summary": "Termusic is a terminal-based music and podcast player written in Rust. It aims to provide a free and open-source alternative to online streaming services, allowing users to play locally stored audio files and download content from platforms like YouTube, NetEase, Migu, and KuGou.",
+        "key_features": [
+            "Terminal-based user interface",
+            "Support for various audio formats (MP4, MP3, OGG, FLAC, WAV, etc.)",
+            "Support for multiple backends (Rusty, MPV, Gstreamer)",
+            "Podcast support",
+            "Free music download from YouTube, NetEase, Migu and KuGou"
+        ],
+        "primary_use_case": "Playing music and podcasts from the terminal, with support for local files and downloads from online sources.",
+        "open_issues": 53,
+        "cover_image_prompt": "A skilled DJ stands at a futuristic console, transforming sound waves into vibrant, tangible musical notes that float into the air. The console displays a terminal interface with the termusic logo subtly integrated. The DJ is surrounded by glowing speakers that pulse with the rhythm. The scene is set in a minimalist studio with soft, ambient lighting. Small UI elements on the console show audio waveforms and playback controls. The composition is clean and focused with a vibrant color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 1102059881,
+        "name": "whitebox",
+        "description": "whitebox is a Prometheus exporter that provides availability monitoring of external VPN services powered by VMESS, VLESS, TROJAN, WireGuard and Shadowsocks.",
+        "url": "https://github.com/quyxishi/whitebox",
+        "language": "Go",
+        "stars": 13,
+        "forks": 1,
+        "created_at": "2025-11-22T18:38:25Z",
+        "updated_at": "2025-12-06T10:06:21Z",
+        "topics": [
+            "grpc",
+            "probing",
+            "prometheus",
+            "reality",
+            "shadowsocks",
+            "tls",
+            "v2ray",
+            "vless",
+            "vpn",
+            "whitebox",
+            "xhttp",
+            "xray"
+        ],
+        "quality_score": 0.7,
+        "contributors_count": 0,
+        "last_commit_date": "2025-11-27T19:15:41Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/7ac7473f7cef960090359baf03c67193a2b00cc8df9627820eee7d91177c4a67/quyxishi/whitebox"
+        ],
+        "homepage": "https://github.com/quyxishi/whitebox",
+        "readme_summary": "The whitebox repository provides a Prometheus exporter for monitoring the availability of external VPN services. It supports various VPN protocols like VMESS, VLESS, Trojan, WireGuard, and Shadowsocks, exposing probe results as Prometheus metrics for comprehensive VPN tunnel health monitoring.",
+        "key_features": [
+            "Multi-protocol VPN Probing (VMESS, VLESS, Trojan, Wireguard, Shadowsocks)",
+            "RESTful API Service for on-demand connectivity checks",
+            "Custom Probe Configuration (connection details, target URLs, timeouts)",
+            "Prometheus Metrics Integration"
+        ],
+        "primary_use_case": "Monitoring the availability and performance of external VPN services using Prometheus.",
+        "open_issues": 0,
+        "cover_image_prompt": "A lighthouse stands tall on a rocky coast, its beam shining through a network of colorful, interconnected tunnels representing VPN connections. The lighthouse represents 'whitebox', diligently monitoring the tunnels. Some tunnels are brightly lit, indicating healthy connections, while others are dim or broken, signaling issues. Small digital screens are embedded in the rocks, displaying Prometheus metrics and VPN protocol icons. The scene is set at twilight with a dramatic sky. The image should be in a 3D isometric illustration style with clear details and a cool color palette."
+    },
+    {
+        "id": 167154598,
+        "name": "free-proxy",
+        "description": "Free proxy scraper written in python. It is pypi library - free to use.",
+        "url": "https://github.com/jundymek/free-proxy",
+        "language": "Python",
+        "stars": 354,
+        "forks": 63,
+        "created_at": "2019-01-23T09:22:38Z",
+        "updated_at": "2025-12-06T08:36:51Z",
+        "topics": [
+            "free"
+        ],
+        "quality_score": 0.7,
+        "contributors_count": 0,
+        "last_commit_date": "2025-10-01T14:43:30Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/a6aeebfe992b8057ec6462f9ba9f7b092383fdf2f27bf63c2fa61118575dc7fc/jundymek/free-proxy"
+        ],
+        "homepage": "",
+        "readme_summary": "The `free-proxy` Python library scrapes free proxies from various websites, checks their validity, and allows filtering by country and timeout. It provides a simple way to obtain working proxies for use with requests, Selenium, or other applications, returning them as strings.",
+        "key_features": [
+            "Scrapes proxies from multiple websites (sslproxies.org, us-proxy.org, free-proxy-list.net)",
+            "Checks proxy validity",
+            "Filters proxies by country",
+            "Specifies acceptable timeout for proxy connections",
+            "Randomizes the list of proxies",
+            "Supports anonymous and elite proxy filtering",
+            "Supports Google proxy filtering"
+        ],
+        "primary_use_case": "Obtaining working proxies for web scraping, bypassing geographical restrictions, or masking IP addresses in various applications.",
+        "open_issues": 9,
+        "cover_image_prompt": "A diligent librarian meticulously cleaning dusty books (proxies) with a specialized vacuum cleaner that filters out damaged pages (non-working proxies). The librarian sorts the cleaned books onto shelves labeled with country codes (US, GB, etc.). A small screen on the librarian's desk displays a real-time connection test to a website. Digital particles representing data flow around the librarian. The library is bathed in soft, focused light. The composition is clean and organized with a warm color scheme. The image should be in 3D isometric illustration style with rich details and vibrant colors."
+    },
+    {
+        "id": 1102547039,
+        "name": "0p3q",
+        "description": "Real-Time learning \"Living entity\"",
+        "url": "https://github.com/0penAGI/0p3q",
+        "language": "Python",
+        "stars": 16,
+        "forks": 4,
+        "created_at": "2025-11-23T16:52:17Z",
+        "updated_at": "2025-12-06T07:55:05Z",
+        "topics": [],
+        "quality_score": 0.44999999999999996,
+        "contributors_count": 0,
+        "last_commit_date": "2025-11-29T06:04:31Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/1102547039/55e3d7f3-387f-4bdf-aea0-066bb7157ab4"
+        ],
+        "homepage": null,
+        "readme_summary": null,
+        "key_features": [],
+        "primary_use_case": null,
+        "open_issues": 0,
+        "cover_image_prompt": null
+    },
+    {
+        "id": 643874750,
+        "name": "anytype-ts",
+        "description": "Official Anytype client for MacOS, Linux, and Windows",
+        "url": "https://github.com/anyproto/anytype-ts",
+        "language": "TypeScript",
+        "stars": 6517,
+        "forks": 402,
+        "created_at": "2023-05-22T10:39:33Z",
+        "updated_at": "2025-12-06T09:45:24Z",
+        "topics": [
+            "anytype",
+            "e2ee",
+            "local-first",
+            "offline-first",
+            "p2p",
+            "privacy"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-12-06T09:45:17Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/41f2beee041f809ff1d288644b910e2d22f1a73c05f06e90430050672f7bbd73/anyproto/anytype-ts"
+        ],
+        "homepage": "https://anytype.io",
+        "readme_summary": "Anytype Desktop is a local-first, peer-to-peer, and end-to-end encrypted knowledge OS for macOS, Windows, and Linux. It allows users to gather, connect, and remix all kinds of information, create various content types, and define their own data model while ensuring data privacy and offline accessibility.",
+        "key_features": [
+            "Offline-first, local storage with optional peer-to-peer sync",
+            "Zero-knowledge encryption",
+            "Composable blocks (text, databases, kanban, calendar & custom Types)",
+            "Cross-platform desktop client (Electron + TypeScript)",
+            "Extensible through gRPC API and AI Agents",
+            "Open code under the Any Source Available License 1.0"
+        ],
+        "primary_use_case": "Personal knowledge management and secure data storage across devices.",
+        "open_issues": 121,
+        "cover_image_prompt": "Imagine a personal fortress of knowledge, visualized as a grand library filled with interconnected rooms. A scholar, representing the user, stands at the center, seamlessly linking various documents, notes, and media displayed on glowing tablets and interactive screens. Each room is secured by shimmering, encrypted locks, symbolizing the data's privacy. Outside, a network of interconnected nodes represents peer-to-peer syncing. Subtle code snippets and data visualizations float in the air, connecting the library to the digital realm. The scene is bathed in warm, inviting light, creating a sense of security and intellectual exploration. The image should be in a detailed 3D isometric illustration style with vibrant colors."
+    },
+    {
+        "id": 1103714532,
+        "name": "chart_server_dart",
+        "description": "This project is a simple, high-performance HTTP API built with Dart and the Shelf framework. It dynamically generates and serves customizable bar chart images (PNG format) based on data and optional color configurations passed in a JSON request body.",
+        "url": "https://github.com/C0dwiz/chart_server_dart",
+        "language": "Dart",
+        "stars": 5,
+        "forks": 0,
+        "created_at": "2025-11-25T08:36:22Z",
+        "updated_at": "2025-12-05T18:13:02Z",
+        "topics": [],
+        "quality_score": 0.7,
+        "contributors_count": 0,
+        "last_commit_date": "2025-11-25T08:38:16Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/c38adf43169ea8dc0f27f2cbed6549e0aa485bbd3fb5b7f8beaf15d1bd730cc0/C0dwiz/chart_server_dart"
+        ],
+        "homepage": "",
+        "readme_summary": "The chart_server_dart repository provides a simple, high-performance HTTP API for dynamically generating customizable bar chart images (PNG format). Built with Dart and the Shelf framework, it accepts data and color configurations via a JSON request body, offering a REST interface for easy integration.",
+        "key_features": [
+            "Dynamic Bar Chart Generation",
+            "Fully Customizable Colors",
+            "Simple REST Interface",
+            "High Performance",
+            "Uses the `image` package for efficient image manipulation"
+        ],
+        "primary_use_case": "Dynamically generating and serving customizable bar chart images via an HTTP API.",
+        "open_issues": 0,
+        "cover_image_prompt": "A skilled artisan meticulously crafting a vibrant bar chart from raw data flowing through glowing pipes. The artisan uses a palette of colorful paints to customize the chart's appearance, with digital screens displaying the JSON configuration options. The scene is set in a bright, modern workshop filled with subtle tech elements like data streams and UI panels. The repository name, 'Chart Server Dart,' is subtly etched on the artisan's workbench. The composition is clean and focused with a vibrant color scheme. The image should be in a 3D isometric illustration style with rich details and vibrant colors."
     }
 ]
