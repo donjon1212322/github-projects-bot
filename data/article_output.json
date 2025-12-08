@@ -1,26 +1,25 @@
 {
-    "title": "Stop Guessing! Analyze Compose Stability in Real-Time Right Inside Your IDE",
-    "article": "The Compose Stability Analyzer is an essential IntelliJ plugin designed to tackle the biggest performance headache in Compose development: unstable composables. Its core purpose is simple yet powerful: it provides real-time, visual feedback right inside Android Studio, eliminating the need to wait for build-time reports or complex runtime tracing to diagnose stability issues. It acts like a powerful X-ray machine for your UI code, instantly showing you exactly which functions are fully stable and which ones might be causing performance bottlenecks, ensuring your UI remains buttery smooth.\n\nThis analyzer integrates seamlessly into your coding environment using intuitive visual cues. You'll see colored gutter icons next to your composable functions—these are instant indicators of their stability status. If you hover over these icons or the function itself, detailed tooltips pop up, explaining the precise reason why the function or its parameters are considered stable or unstable. This immediate feedback loop is crucial. For instance, if you pass an unstable class instance as a parameter, the analyzer will tell you exactly which property within that class is causing the instability, allowing for surgical fixes rather than broad refactoring or guesswork.\n\nBeyond simple stability checks, the project offers deeper debugging tools essential for complex applications. If you suspect a composable is recomposing too often, even when its stability status looks okay, you can leverage the `TraceRecomposition` annotation. This feature logs exactly when and why the function was triggered, offering clear, actionable insights into the execution flow that standard debuggers often miss. Furthermore, for teams focused on maintaining strict performance standards, the analyzer includes Gradle tasks that export comprehensive stability compatibility reports. This is invaluable for reviewing code changes, especially when introducing new dependencies or refactoring large UI modules, ensuring that stability regressions are caught before they are merged.\n\nThe tool is highly customizable to fit any developer's workflow and preference. You can easily adjust the indicator colors to match your favorite IDE theme, enabling a dedicated \"Strong Skipping mode\" for stricter analysis, and even configure it to run analysis on your test source sets to ensure comprehensive coverage. By bringing stability analysis directly into the IDE, the Compose Stability Analyzer shifts performance optimization left. This means developers can fix potential performance issues instantly while writing the code, leading to cleaner, faster, and more maintainable Compose applications right from the start. This proactive approach saves countless hours otherwise spent debugging slow UIs later in the development cycle, letting you focus on feature development instead of chasing elusive recomposition bugs.",
+    "title": "Minesweeper in Your Terminal: Why `minesweep-rs` is the Ultimate Rust TUI Demo",
+    "article": "Are you tired of jumping between graphical windows just to take a quick break? Meet `minesweep-rs`, a brilliant demonstration of what modern command-line interfaces can achieve. This isn't just a simple text-based game; it's a fully interactive, beautifully rendered version of the classic Minesweeper, running entirely within your terminal window. It solves the developer problem of context switching by bringing fun, high-quality entertainment directly into the environment where we spend most of our time.\n\nThe core genius of this project lies in its technology stack. It’s built using Rust, a language known for its speed, memory safety, and concurrency, ensuring the game runs smoothly and reliably, even when you're flagging those corners under pressure. The visual magic comes from `tui-rs` (now often referred to as `ratatui`), a powerful library that allows developers to construct complex, dynamic user interfaces right in the console. Instead of rendering pixels on a screen, it manipulates characters and colors within the terminal grid, resulting in an incredibly lightweight yet surprisingly rich graphical experience.\n\nFor developers, `minesweep-rs` serves as an invaluable blueprint. If you've ever considered building a serious, interactive CLI application—perhaps a dashboard, a monitoring tool, or even your own custom terminal game—this project provides a clean, idiomatic example of how to structure state management and rendering loops in Rust. You can explore how the game handles user input, manages the game board state (which cells are revealed, which are flagged, where the mines are), and then efficiently redraws only the necessary parts of the TUI using the framework.\n\nThis project is a compelling argument that the terminal is far from dead. It shows that robust, engaging, and high-performance applications can live entirely outside the browser or traditional desktop environments. By studying the codebase, developers can gain practical insights into implementing core game logic—like recursive cell revealing and neighbor counting—in a safe and performant language like Rust. It’s not just a fun distraction; it's a masterclass in modern command-line application development. Plus, since it's packaged in a Docker container, you can instantly try it out with a single command, making exploration incredibly easy. This immediate accessibility lowers the barrier to entry for both playing and learning from the source code.",
     "key_takeaways": [
-        "Provides real-time, visual stability analysis directly within Android Studio/IntelliJ.",
-        "Uses gutter icons and hover tooltips to instantly identify unstable composables and their root causes.",
-        "Supports detailed recomposition tracing using the `TraceRecomposition` annotation for deep debugging.",
-        "Allows exporting stability compatibility reports via Gradle tasks for team performance tracking.",
-        "Highly customizable, supporting features like Strong Skipping mode and analysis in test source sets."
+        "A high-performance, fully interactive Minesweeper game built entirely for the terminal environment.",
+        "Uses Rust for reliability and speed, combined with `tui-rs` (ratatui) for dynamic, beautiful console rendering.",
+        "Serves as an excellent learning resource for developers interested in building complex Text User Interface (TUI) applications in Rust.",
+        "Demonstrates clean implementation of core game logic (state management and input handling) within a modern CLI framework."
     ],
     "tags": [
-        "Jetpack Compose",
-        "Android Development",
-        "Performance",
-        "IDE Plugin",
-        "Stability Analysis"
+        "Rust",
+        "TUI",
+        "CLI",
+        "Minesweeper",
+        "tui-rs"
     ],
-    "stars": 1133,
-    "forks": 19,
-    "open_issues": 6,
-    "languages": "Kotlin",
-    "readme_summary": "Compose Stability Analyzer is an IntelliJ plugin that provides real-time, visual analysis of Jetpack Compose composable function stability directly within Android Studio. It helps developers identify and fix performance issues by offering insights into why composables are stable or unstable, tracing recomposition reasons, and generating compatibility reports.",
-    "project_id": 1087919806,
-    "url": "https://github.com/skydoves/compose-stability-analyzer",
-    "description": "🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ."
+    "stars": 207,
+    "forks": 7,
+    "open_issues": 1,
+    "languages": "Rust",
+    "readme_summary": "minesweep-rs is a terminal-based implementation of the classic Minesweeper game, built using the Rust programming language and the tui-rs library for creating the user interface. It offers a fun and engaging way to play Minesweeper directly in your command line.",
+    "project_id": 361760325,
+    "url": "https://github.com/cpcloud/minesweep-rs",
+    "description": "Sweep some mines for fun, and probably not for profit."
 }

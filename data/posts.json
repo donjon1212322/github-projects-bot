@@ -1,30 +1,16 @@
 [
     {
-        "project_id": 1081850980,
-        "content": "💡 <b>gemini-browser-agent</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating tasks and interactions within a user's web browser using the Google Gemini AI model.\n<br>\n✨ <b>Key Features:</b>\n• Browser automation agent\n• Chrome extension integration\n• Utilizes Google Gemini 2.5 computer use model\n• Observes active tab, exchanges screenshots and events\n• Performs actions directly in the user's browser\n<br>\n📖 <b>Summary:</b>\nGemini Browser Agent is a research project that enables Google Gemini's computer use model to automate tasks directly within a user's Chrome browser. It connects a Chrome extension with the Gemini API, allowing it to observe the active tab, interact with web content, and perform actions without requiring a sandbox.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pmbstyle/gemini-browser-agent?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/85e148dbda7a25040df5dd21c205c7ef9989cb41af9e9941a41777a39d0a6566/pmbstyle/gemini-browser-agent",
+        "project_id": 361760325,
+        "content": "🔥 <b>minesweep-rs</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying the classic Minesweeper game in a terminal environment.\n<br>\n✨ <b>Key Features:</b>\n• Terminal User Interface (TUI) using tui-rs\n• Written in Rust\n• Runnable via Docker\n<br>\n📖 <b>Summary:</b>\nminesweep-rs is a terminal-based implementation of the classic Minesweeper game, built using the Rust programming language and the tui-rs library for creating the user interface. It offers a fun and engaging way to play Minesweeper directly in your command line.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cpcloud/minesweep-rs?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/729662d6462d6c8e7599fdb80243e46938b14c02e8ce6fe0387b1ded09d9bb4d/cpcloud/minesweep-rs",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.55
     },
     {
-        "project_id": 669282440,
-        "content": "✨ <b>firefox-one</b> | CSS\n<br>\n🎯 <b>Primary Use Case:</b>\nTo customize the visual appearance of the Firefox browser to resemble the Opera One browser skin.\n<br>\n✨ <b>Key Features:</b>\n• Opera One skin emulation for Firefox\n• Multiple color themes available\n• Light/dark adaptive theme support\n• Customizable user interface elements\n• Installation instructions via profile directory modification\n<br>\n📖 <b>Summary:</b>\nThis repository provides a custom CSS theme for the Firefox browser, designed to emulate the visual style of the Opera One browser skin. It allows users to personalize their Firefox interface with a distinct aesthetic, offering various color options and adaptive themes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Godiesc/firefox-one?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/669282440/d8de1d33-e2a6-4f27-ae62-bedc486e6ce7",
+        "project_id": 992596757,
+        "content": "✨ <b>vibetest-use</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated quality assurance testing of websites to identify and report UI bugs, broken links, and accessibility issues.\n<br>\n✨ <b>Key Features:</b>\n• Automated QA testing\n• Browser-Use agents\n• MCP server integration\n• UI bug detection\n• Broken link detection\n<br>\n📖 <b>Summary:</b>\nVibetest MCP is a Python-based tool that automates QA testing for websites using Browser-Use agents. It functions as an MCP server to launch multiple agents that can identify UI bugs, broken links, and accessibility issues on both live and local development sites.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/browser-use/vibetest-use?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/74d859ee5096cbdfa07775d835a98bd4fb3d0a1a28e6918c3a1277fe2bc0b44e/browser-use/vibetest-use",
         "platform": "telegram",
-        "quality_score": 0.3
-    },
-    {
-        "project_id": 1087919806,
-        "content": "✨ <b>compose-stability-analyzer</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nImproving Jetpack Compose application performance by providing developers with immediate, visual feedback on composable function stability within their IDE.\n<br>\n✨ <b>Key Features:</b>\n• Real-time stability analysis of Jetpack Compose composables\n• Visual indicators (gutter icons, hover tooltips, inline hints)\n• Detailed reasons for composable stability or instability\n<br>\n📖 <b>Summary:</b>\nCompose Stability Analyzer is an IntelliJ plugin that provides real-time, visual analysis of Jetpack Compose composable function stability directly within Android Studio. It helps developers identify and fix performance issues by offering insights into why composables are stable or unstable, tracing recomposition reasons, and generating compatibility reports.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/skydoves/compose-stability-analyzer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/44098b63b61b0f70d8761bc542a47e36b94d6c041f76ec74fdd019e4587a68e0/skydoves/compose-stability-analyzer",
-        "platform": "telegram",
-        "quality_score": 0.9
-    },
-    {
-        "project_id": 1082792611,
-        "content": "🌟 <b>anyapk</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nInstalling any APK file on an Android device without restrictions, bypassing developer verification requirements.\n<br>\n✨ <b>Key Features:</b>\n• One-time setup using wireless debugging\n• No root required\n• No external dependencies\n• System-wide integration as an APK handler\n• Direct file selection via built-in file picker\n<br>\n📖 <b>Summary:</b>\nanyapk is a lightweight Android application installer that bypasses developer verification requirements using local ADB connections, allowing users to install any APK file without restrictions. It aims to return control of application installation to the user, emphasizing digital autonomy and freedom from corporate or governmental gatekeepers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sam1am/anyapk?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6c0dee19f152fdc5f67836bc30a6419ace5f1b79a06242df9be1145b36375712/sam1am/anyapk",
-        "platform": "telegram",
-        "quality_score": 0.6
+        "quality_score": 0.35
     }
 ]

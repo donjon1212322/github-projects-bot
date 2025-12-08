@@ -1,154 +1,75 @@
 [
     {
-        "id": 1081850980,
-        "name": "gemini-browser-agent",
-        "description": "A browser agent with a Google Chrome extension that can work in your browser. Based on Google Gemini 2.5 computer use model.",
-        "url": "https://github.com/pmbstyle/gemini-browser-agent",
-        "language": "JavaScript",
-        "stars": 30,
-        "forks": 4,
-        "created_at": "2025-10-23T11:33:30Z",
-        "updated_at": "2025-12-07T12:26:30Z",
+        "id": 361760325,
+        "name": "minesweep-rs",
+        "description": "Sweep some mines for fun, and probably not for profit.",
+        "url": "https://github.com/cpcloud/minesweep-rs",
+        "language": "Rust",
+        "stars": 207,
+        "forks": 7,
+        "created_at": "2021-04-26T13:28:10Z",
+        "updated_at": "2025-12-08T07:32:34Z",
         "topics": [
-            "ai-agents",
-            "ai-browser-automation",
-            "browser-automation",
-            "browser-extension",
-            "browser-use",
-            "gemini-api",
-            "javascript",
-            "python"
+            "games",
+            "minesweeper",
+            "rust"
         ],
-        "quality_score": 0.44999999999999996,
+        "quality_score": 0.55,
         "contributors_count": 0,
-        "last_commit_date": "2025-10-23T15:22:50Z",
+        "last_commit_date": "2025-04-20T01:39:03Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/85e148dbda7a25040df5dd21c205c7ef9989cb41af9e9941a41777a39d0a6566/pmbstyle/gemini-browser-agent"
+            "https://opengraph.githubassets.com/729662d6462d6c8e7599fdb80243e46938b14c02e8ce6fe0387b1ded09d9bb4d/cpcloud/minesweep-rs"
         ],
         "homepage": "",
-        "readme_summary": "Gemini Browser Agent is a research project that enables Google Gemini's computer use model to automate tasks directly within a user's Chrome browser. It connects a Chrome extension with the Gemini API, allowing it to observe the active tab, interact with web content, and perform actions without requiring a sandbox.",
+        "readme_summary": "minesweep-rs is a terminal-based implementation of the classic Minesweeper game, built using the Rust programming language and the tui-rs library for creating the user interface. It offers a fun and engaging way to play Minesweeper directly in your command line.",
         "key_features": [
-            "Browser automation agent",
-            "Chrome extension integration",
-            "Utilizes Google Gemini 2.5 computer use model",
-            "Observes active tab, exchanges screenshots and events",
-            "Performs actions directly in the user's browser",
-            "No sandbox or virtual machine required",
-            "Python WebSocket bridge for communication"
+            "Terminal User Interface (TUI) using tui-rs",
+            "Written in Rust",
+            "Runnable via Docker"
         ],
-        "primary_use_case": "Automating tasks and interactions within a user's web browser using the Google Gemini AI model.",
+        "primary_use_case": "Playing the classic Minesweeper game in a terminal environment.",
+        "open_issues": 1,
+        "cover_image_prompt": "A stylized, retro-futuristic terminal screen displaying a Minesweeper game in progress. The player character, represented by a small, determined robot, is carefully navigating a grid of minefield squares. Some squares are revealed, showing numbers indicating adjacent mines, while others remain hidden, with a few ominous red 'mine' icons peeking out. Small, glowing data streams flow from the terminal screen, subtly suggesting the underlying code and game logic. The overall mood is one of focused, digital puzzle-solving. The art style should be a clean, 3D isometric illustration with a neon-infused color palette, emphasizing the digital nature of the game and the terminal interface."
+    },
+    {
+        "id": 992596757,
+        "name": "vibetest-use",
+        "description": "Vibetest MCP - automated QA testing using Browser-Use agents",
+        "url": "https://github.com/browser-use/vibetest-use",
+        "language": "Python",
+        "stars": 735,
+        "forks": 68,
+        "created_at": "2025-05-29T12:12:41Z",
+        "updated_at": "2025-12-08T09:54:22Z",
+        "topics": [
+            "agents",
+            "browser",
+            "claude",
+            "cursor",
+            "mcp",
+            "mcp-server"
+        ],
+        "quality_score": 0.35,
+        "contributors_count": 0,
+        "last_commit_date": "2025-09-02T23:01:36Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/74d859ee5096cbdfa07775d835a98bd4fb3d0a1a28e6918c3a1277fe2bc0b44e/browser-use/vibetest-use"
+        ],
+        "homepage": "",
+        "readme_summary": "Vibetest MCP is a Python-based tool that automates QA testing for websites using Browser-Use agents. It functions as an MCP server to launch multiple agents that can identify UI bugs, broken links, and accessibility issues on both live and local development sites.",
+        "key_features": [
+            "Automated QA testing",
+            "Browser-Use agents",
+            "MCP server integration",
+            "UI bug detection",
+            "Broken link detection",
+            "Accessibility issue detection",
+            "Support for live and localhost sites",
+            "Headless and non-headless modes",
+            "Configurable number of agents"
+        ],
+        "primary_use_case": "Automated quality assurance testing of websites to identify and report UI bugs, broken links, and accessibility issues.",
         "open_issues": 0,
-        "cover_image_prompt": "A digital assistant, depicted as a friendly robot with a glowing screen for a face, is actively navigating a stylized, transparent browser window. The robot is shown reaching out with a digital hand, manipulating elements like buttons and forms within the browser. Streams of data, represented by glowing lines and code snippets, flow from the robot's core to the browser interface, illustrating its control. Subtle UI elements of the Gemini Browser Agent extension are visible in a corner of the scene. The background is a clean, abstract digital space with soft, ambient lighting, emphasizing the focus on the browser interaction. The overall style is a vibrant 3D isometric illustration, conveying innovation and seamless integration."
-    },
-    {
-        "id": 669282440,
-        "name": "firefox-one",
-        "description": "Firefox Theme for Opera One skin Lovers ",
-        "url": "https://github.com/Godiesc/firefox-one",
-        "language": "CSS",
-        "stars": 393,
-        "forks": 11,
-        "created_at": "2023-07-21T20:05:17Z",
-        "updated_at": "2025-12-07T10:24:21Z",
-        "topics": [
-            "css",
-            "firefox",
-            "firefox-one",
-            "one",
-            "opera",
-            "opera-one",
-            "tema",
-            "theme",
-            "theme-css"
-        ],
-        "quality_score": 0.3,
-        "contributors_count": 0,
-        "last_commit_date": "2025-10-09T22:54:56Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/669282440/d8de1d33-e2a6-4f27-ae62-bedc486e6ce7"
-        ],
-        "homepage": "",
-        "readme_summary": "This repository provides a custom CSS theme for the Firefox browser, designed to emulate the visual style of the Opera One browser skin. It allows users to personalize their Firefox interface with a distinct aesthetic, offering various color options and adaptive themes.",
-        "key_features": [
-            "Opera One skin emulation for Firefox",
-            "Multiple color themes available",
-            "Light/dark adaptive theme support",
-            "Customizable user interface elements",
-            "Installation instructions via profile directory modification"
-        ],
-        "primary_use_case": "To customize the visual appearance of the Firefox browser to resemble the Opera One browser skin.",
-        "open_issues": 3,
-        "cover_image_prompt": "A stylized illustration of a Firefox browser window seamlessly transforming into an Opera One browser window. Imagine a digital chameleon, with the Firefox logo on one side and the Opera One logo on the other, its body a blend of both browser interfaces. The transformation should be visually striking, with flowing lines of CSS code acting as the connecting element. Subtle UI elements from both browsers should be visible, highlighting the aesthetic merge. The background should be clean and modern, perhaps with abstract digital patterns. The overall mood should be one of stylish customization and user interface evolution. The style should be a clean, 3D isometric illustration with vibrant, contrasting colors that emphasize the theme's visual appeal. The repository name 'Firefox-ONE' could be subtly integrated into a digital element within the scene."
-    },
-    {
-        "id": 1087919806,
-        "name": "compose-stability-analyzer",
-        "description": "🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.",
-        "url": "https://github.com/skydoves/compose-stability-analyzer",
-        "language": "Kotlin",
-        "stars": 1133,
-        "forks": 19,
-        "created_at": "2025-11-01T23:05:46Z",
-        "updated_at": "2025-12-07T12:43:20Z",
-        "topics": [
-            "android",
-            "compose",
-            "intellij-plugin",
-            "jetpack-compose",
-            "kotlin-compiler-plugin",
-            "skydoves",
-            "stability"
-        ],
-        "quality_score": 0.9,
-        "contributors_count": 0,
-        "last_commit_date": "2025-12-06T00:20:13Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/44098b63b61b0f70d8761bc542a47e36b94d6c041f76ec74fdd019e4587a68e0/skydoves/compose-stability-analyzer"
-        ],
-        "homepage": "",
-        "readme_summary": "Compose Stability Analyzer is an IntelliJ plugin that provides real-time, visual analysis of Jetpack Compose composable function stability directly within Android Studio. It helps developers identify and fix performance issues by offering insights into why composables are stable or unstable, tracing recomposition reasons, and generating compatibility reports.",
-        "key_features": [
-            "Real-time stability analysis of Jetpack Compose composables",
-            "Visual indicators (gutter icons, hover tooltips, inline hints)",
-            "Detailed reasons for composable stability or instability",
-            "Recomposition tracing with `TraceRecomposition` annotation",
-            "Export stability compatibility reports via Gradle tasks",
-            "Customizable stability indicators and analysis settings",
-            "Support for analysis in test source sets",
-            "Ignored type patterns for exclusion from analysis"
-        ],
-        "primary_use_case": "Improving Jetpack Compose application performance by providing developers with immediate, visual feedback on composable function stability within their IDE.",
-        "open_issues": 6,
-        "cover_image_prompt": "A meticulous clockmaker in a brightly lit workshop, carefully examining the intricate gears of a complex clockwork mechanism representing a Jetpack Compose UI. Tiny, glowing icons of 'stable' (a green checkmark) and 'unstable' (a red exclamation mark) are visible on specific gears. The clockmaker uses a magnifying glass that reveals lines of code and data flow within the gears, highlighting potential performance bottlenecks. Subtle digital particles emanate from the gears, suggesting real-time analysis. The repository name 'Compose Stability Analyzer' is subtly etched onto a workbench tool. The scene is rendered in a clean, 3D isometric illustration style with a focus on clarity and detail, using a palette of blues, greens, and subtle metallic tones."
-    },
-    {
-        "id": 1082792611,
-        "name": "anyapk",
-        "description": "Install any apk on the device you own. ",
-        "url": "https://github.com/sam1am/anyapk",
-        "language": "Kotlin",
-        "stars": 642,
-        "forks": 17,
-        "created_at": "2025-10-24T19:23:52Z",
-        "updated_at": "2025-12-07T12:17:30Z",
-        "topics": [],
-        "quality_score": 0.6,
-        "contributors_count": 0,
-        "last_commit_date": "2025-10-27T00:09:41Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/6c0dee19f152fdc5f67836bc30a6419ace5f1b79a06242df9be1145b36375712/sam1am/anyapk"
-        ],
-        "homepage": null,
-        "readme_summary": "anyapk is a lightweight Android application installer that bypasses developer verification requirements using local ADB connections, allowing users to install any APK file without restrictions. It aims to return control of application installation to the user, emphasizing digital autonomy and freedom from corporate or governmental gatekeepers.",
-        "key_features": [
-            "One-time setup using wireless debugging",
-            "No root required",
-            "No external dependencies",
-            "System-wide integration as an APK handler",
-            "Direct file selection via built-in file picker"
-        ],
-        "primary_use_case": "Installing any APK file on an Android device without restrictions, bypassing developer verification requirements.",
-        "open_issues": 13,
-        "cover_image_prompt": "A stylized, open Android device acting as a gateway. A user's hand is reaching through the screen, holding a generic APK file icon. This icon is transforming into a vibrant, fully formed app icon as it passes through the gateway, symbolizing unrestricted installation. Subtle digital particles and glowing lines emanate from the transformation. In the background, faint silhouettes of corporate logos and government seals are dissolving into dust, representing the bypassed gatekeepers. The overall mood is empowering and liberating. The image should be in a clean, modern 3D isometric illustration style with a bright, optimistic color palette."
+        "cover_image_prompt": "A diligent digital gardener meticulously inspecting a vibrant, sprawling website-tree. Each leaf on the tree represents a webpage, and the gardener uses a magnifying glass emitting glowing data particles to spot any blemishes, broken branches (links), or wilting sections (accessibility issues). Small, stylized browser windows float around the gardener, acting as his tools. The background is a clean, modern interface with subtle code snippets. The overall scene is a 3D isometric illustration with a bright, clean color palette, emphasizing growth, health, and thorough inspection of the website."
     }
 ]
