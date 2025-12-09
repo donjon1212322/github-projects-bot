@@ -1,75 +1,169 @@
 [
     {
-        "id": 361760325,
-        "name": "minesweep-rs",
-        "description": "Sweep some mines for fun, and probably not for profit.",
-        "url": "https://github.com/cpcloud/minesweep-rs",
-        "language": "Rust",
-        "stars": 207,
-        "forks": 7,
-        "created_at": "2021-04-26T13:28:10Z",
-        "updated_at": "2025-12-08T07:32:34Z",
+        "id": 811675345,
+        "name": "RemoveWindowsAI",
+        "description": "Force Remove Copilot, Recall and More in Windows 11",
+        "url": "https://github.com/zoicware/RemoveWindowsAI",
+        "language": "PowerShell",
+        "stars": 1310,
+        "forks": 32,
+        "created_at": "2024-06-07T04:37:20Z",
+        "updated_at": "2025-12-09T10:09:44Z",
         "topics": [
-            "games",
-            "minesweeper",
-            "rust"
+            "ai",
+            "bloatware",
+            "bloatware-removal",
+            "copilot",
+            "debloat",
+            "generative-ai",
+            "image-creator",
+            "optimizer",
+            "powershell",
+            "privacy",
+            "recall",
+            "rewrite",
+            "security",
+            "windows"
         ],
-        "quality_score": 0.55,
+        "quality_score": 0.44999999999999996,
         "contributors_count": 0,
-        "last_commit_date": "2025-04-20T01:39:03Z",
+        "last_commit_date": "2025-12-09T01:38:37Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/729662d6462d6c8e7599fdb80243e46938b14c02e8ce6fe0387b1ded09d9bb4d/cpcloud/minesweep-rs"
+            "https://opengraph.githubassets.com/4c71367004fa4313964e9dd7dea0c2e20998d58614eb8e4920497e92cd1513d2/zoicware/RemoveWindowsAI"
         ],
         "homepage": "",
-        "readme_summary": "minesweep-rs is a terminal-based implementation of the classic Minesweeper game, built using the Rust programming language and the tui-rs library for creating the user interface. It offers a fun and engaging way to play Minesweeper directly in your command line.",
+        "readme_summary": "This PowerShell script is designed to remove various AI-driven features and components from Windows 11, including Copilot, Recall, and related services. It aims to enhance user experience, privacy, and security by disabling or removing these integrated AI functionalities.",
         "key_features": [
-            "Terminal User Interface (TUI) using tui-rs",
-            "Written in Rust",
-            "Runnable via Docker"
+            "Disable Registry Keys for AI features (Copilot, Recall, etc.)",
+            "Prevent Reinstall of AI Packages via custom Windows Update package",
+            "Disable Copilot and Recall policies",
+            "Remove AI Appx Packages (including non-removable ones)",
+            "Remove Recall Optional Feature",
+            "Remove AI Packages from CBS store",
+            "Remove AI Files (installers, registry keys, package files)",
+            "Hide AI Components settings page",
+            "Disable Rewrite AI Feature in Notepad",
+            "Remove Recall Scheduled Tasks",
+            "Manual AI Disablement guide",
+            "Backup and Revert functionality"
         ],
-        "primary_use_case": "Playing the classic Minesweeper game in a terminal environment.",
-        "open_issues": 1,
-        "cover_image_prompt": "A stylized, retro-futuristic terminal screen displaying a Minesweeper game in progress. The player character, represented by a small, determined robot, is carefully navigating a grid of minefield squares. Some squares are revealed, showing numbers indicating adjacent mines, while others remain hidden, with a few ominous red 'mine' icons peeking out. Small, glowing data streams flow from the terminal screen, subtly suggesting the underlying code and game logic. The overall mood is one of focused, digital puzzle-solving. The art style should be a clean, 3D isometric illustration with a neon-infused color palette, emphasizing the digital nature of the game and the terminal interface."
+        "primary_use_case": "To forcefully remove and disable all integrated AI features and components from Windows 11 to improve user privacy, security, and system performance.",
+        "open_issues": 2,
+        "cover_image_prompt": "A digital gardener meticulously pruning invasive, glowing vines (representing AI features like Copilot and Recall) from a healthy, vibrant Windows 11 operating system tree. The gardener uses specialized pruning shears labeled 'RemoveWindowsAI' and is carefully removing the AI vines, which are depicted as tangled, data-stream-like tendrils. The tree's leaves are turning a brighter green, symbolizing improved performance and privacy. Small, subtle icons of a lock and a shield appear near the tree's roots, signifying enhanced security. The background is a clean, minimalist digital landscape with soft, focused lighting. The style should be a 3D isometric illustration with clear iconography and a clean, modern aesthetic."
     },
     {
-        "id": 992596757,
-        "name": "vibetest-use",
-        "description": "Vibetest MCP - automated QA testing using Browser-Use agents",
-        "url": "https://github.com/browser-use/vibetest-use",
-        "language": "Python",
-        "stars": 735,
-        "forks": 68,
-        "created_at": "2025-05-29T12:12:41Z",
-        "updated_at": "2025-12-08T09:54:22Z",
+        "id": 812644610,
+        "name": "hours",
+        "description": "A no-frills time tracking toolkit for command line nerds",
+        "url": "https://github.com/dhth/hours",
+        "language": "Go",
+        "stars": 300,
+        "forks": 14,
+        "created_at": "2024-06-09T13:33:49Z",
+        "updated_at": "2025-12-08T18:16:50Z",
         "topics": [
-            "agents",
-            "browser",
-            "claude",
-            "cursor",
-            "mcp",
-            "mcp-server"
+            "time-tracker",
+            "time-tracking",
+            "tui"
         ],
-        "quality_score": 0.35,
+        "quality_score": 0.95,
         "contributors_count": 0,
-        "last_commit_date": "2025-09-02T23:01:36Z",
+        "last_commit_date": "2025-12-03T22:08:35Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/74d859ee5096cbdfa07775d835a98bd4fb3d0a1a28e6918c3a1277fe2bc0b44e/browser-use/vibetest-use"
+            "https://repository-images.githubusercontent.com/812644610/448d4c95-79db-4a1f-8454-19274eaee31d"
         ],
-        "homepage": "",
-        "readme_summary": "Vibetest MCP is a Python-based tool that automates QA testing for websites using Browser-Use agents. It functions as an MCP server to launch multiple agents that can identify UI bugs, broken links, and accessibility issues on both live and local development sites.",
+        "homepage": "https://tools.dhruvs.space/hours",
+        "readme_summary": "Hours is a command-line time tracking toolkit designed for users who prefer a minimalist, keyboard-driven interface. It allows for easy creation and management of tasks, starting and stopping time tracking, and generating plaintext reports and statistics.",
         "key_features": [
-            "Automated QA testing",
-            "Browser-Use agents",
-            "MCP server integration",
-            "UI bug detection",
-            "Broken link detection",
-            "Accessibility issue detection",
-            "Support for live and localhost sites",
-            "Headless and non-headless modes",
-            "Configurable number of agents"
+            "Command-line interface (CLI)",
+            "Text-based User Interface (TUI)",
+            "Task creation and management",
+            "Start/stop time tracking",
+            "Manual log entry addition",
+            "Editing task logs",
+            "Viewing task log details",
+            "Activating/deactivating tasks",
+            "Generating plaintext reports (daily, weekly, custom ranges)",
+            "Generating summary statistics",
+            "Generating logs",
+            "Interactive report viewing"
         ],
-        "primary_use_case": "Automated quality assurance testing of websites to identify and report UI bugs, broken links, and accessibility issues.",
-        "open_issues": 0,
-        "cover_image_prompt": "A diligent digital gardener meticulously inspecting a vibrant, sprawling website-tree. Each leaf on the tree represents a webpage, and the gardener uses a magnifying glass emitting glowing data particles to spot any blemishes, broken branches (links), or wilting sections (accessibility issues). Small, stylized browser windows float around the gardener, acting as his tools. The background is a clean, modern interface with subtle code snippets. The overall scene is a 3D isometric illustration with a bright, clean color palette, emphasizing growth, health, and thorough inspection of the website."
+        "primary_use_case": "Effortless time tracking and reporting directly from the command line for personal projects and activities.",
+        "open_issues": 12,
+        "cover_image_prompt": "A diligent clockmaker in a cozy, dimly lit workshop, meticulously assembling intricate gears and springs that represent individual tasks. Each completed gear is placed onto a larger, growing clock face that symbolizes the accumulation of tracked time. Small, glowing digital particles representing data flow from the gears to the clock face. Subtle UI elements resembling a minimalist terminal interface are visible on a workbench nearby. The overall mood is focused and productive, with warm, inviting lighting. The art style should be a 3D isometric illustration with a focus on clear details and a slightly stylized, modern aesthetic."
+    },
+    {
+        "id": 53809090,
+        "name": "anime",
+        "description": "JavaScript animation engine",
+        "url": "https://github.com/juliangarnier/anime",
+        "language": "JavaScript",
+        "stars": 65430,
+        "forks": 4386,
+        "created_at": "2016-03-13T21:37:45Z",
+        "updated_at": "2025-12-09T10:14:12Z",
+        "topics": [
+            "animation",
+            "anime",
+            "canvas",
+            "css",
+            "javascript",
+            "javascript-library",
+            "svg"
+        ],
+        "quality_score": 0.7,
+        "contributors_count": 0,
+        "last_commit_date": "2025-11-08T13:13:46Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/53809090/dbff3ffc-8459-43db-8a05-b6fdca5c9ed9"
+        ],
+        "homepage": "https://animejs.com",
+        "readme_summary": "Anime.js is a lightweight and versatile JavaScript animation library. It provides a simple yet powerful API for creating animations on CSS properties, SVG, DOM attributes, and JavaScript objects.",
+        "key_features": [
+            "Fast, multipurpose, and lightweight",
+            "Simple yet powerful API",
+            "Works with CSS properties, SVG, DOM attributes, and JavaScript Objects"
+        ],
+        "primary_use_case": "Creating animations for web elements using JavaScript.",
+        "open_issues": 84,
+        "cover_image_prompt": "A master puppeteer, labeled 'Anime.js', skillfully manipulating strings connected to various web elements: a bouncing ball (representing CSS properties), a transforming shape (SVG), and a fading text (DOM attributes). The puppeteer's hands glow with digital energy, guiding the smooth, fluid movements. In the background, a subtle interface shows code snippets and timelines. The scene is set in a clean, modern workshop with soft, focused lighting, emphasizing the control and precision of the animations. The overall style should be a 3D isometric illustration, conveying a sense of organized complexity and creative control."
+    },
+    {
+        "id": 931888694,
+        "name": "Handy",
+        "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+        "url": "https://github.com/cjpais/Handy",
+        "language": "TypeScript",
+        "stars": 7944,
+        "forks": 530,
+        "created_at": "2025-02-13T02:42:29Z",
+        "updated_at": "2025-12-09T10:06:09Z",
+        "topics": [
+            "accessibility",
+            "cross-platform",
+            "speech-to-text",
+            "tauri-v2"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-12-08T02:23:56Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/ad27516e577dc77290a3afcc803c323ad68051d51e3a0b54e1c13174103fbff0/cjpais/Handy"
+        ],
+        "homepage": "https://handy.computer",
+        "readme_summary": "Handy is a free, open-source, and extensible desktop application that provides offline speech-to-text transcription. It prioritizes privacy by processing all audio locally, allowing users to speak and have their words transcribed and pasted into any text field without cloud reliance.",
+        "key_features": [
+            "Offline speech-to-text transcription",
+            "Privacy-focused (no cloud processing)",
+            "Extensible and open-source",
+            "Cross-platform (Windows, macOS, Linux)",
+            "Configurable keyboard shortcuts",
+            "Supports Whisper and Parakeet V3 models",
+            "GPU acceleration for Whisper models",
+            "Voice Activity Detection (VAD) for silence filtering"
+        ],
+        "primary_use_case": "To provide a private, offline, and customizable speech-to-text solution for desktop users.",
+        "open_issues": 53,
+        "cover_image_prompt": "A friendly, stylized robot with a microphone headset, sitting at a clean desk. The robot is speaking into the microphone, and sound waves are visibly flowing from it into a small, glowing digital 'brain' icon on its chest. From this brain icon, clean lines of text are directly flowing and appearing in a simple text editor window open on the desk. Subtle digital particles emanate from the text editor, indicating output. The background is a minimalist, slightly blurred office environment. The overall mood is efficient and private. The art style is a 3D isometric illustration with soft lighting and a clean, modern color palette, featuring the 'Handy' name subtly integrated into the robot's design."
     }
 ]

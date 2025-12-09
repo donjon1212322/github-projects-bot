@@ -1,25 +1,25 @@
 {
-    "title": "Minesweeper in Your Terminal: Why `minesweep-rs` is the Ultimate Rust TUI Demo",
-    "article": "Are you tired of jumping between graphical windows just to take a quick break? Meet `minesweep-rs`, a brilliant demonstration of what modern command-line interfaces can achieve. This isn't just a simple text-based game; it's a fully interactive, beautifully rendered version of the classic Minesweeper, running entirely within your terminal window. It solves the developer problem of context switching by bringing fun, high-quality entertainment directly into the environment where we spend most of our time.\n\nThe core genius of this project lies in its technology stack. It’s built using Rust, a language known for its speed, memory safety, and concurrency, ensuring the game runs smoothly and reliably, even when you're flagging those corners under pressure. The visual magic comes from `tui-rs` (now often referred to as `ratatui`), a powerful library that allows developers to construct complex, dynamic user interfaces right in the console. Instead of rendering pixels on a screen, it manipulates characters and colors within the terminal grid, resulting in an incredibly lightweight yet surprisingly rich graphical experience.\n\nFor developers, `minesweep-rs` serves as an invaluable blueprint. If you've ever considered building a serious, interactive CLI application—perhaps a dashboard, a monitoring tool, or even your own custom terminal game—this project provides a clean, idiomatic example of how to structure state management and rendering loops in Rust. You can explore how the game handles user input, manages the game board state (which cells are revealed, which are flagged, where the mines are), and then efficiently redraws only the necessary parts of the TUI using the framework.\n\nThis project is a compelling argument that the terminal is far from dead. It shows that robust, engaging, and high-performance applications can live entirely outside the browser or traditional desktop environments. By studying the codebase, developers can gain practical insights into implementing core game logic—like recursive cell revealing and neighbor counting—in a safe and performant language like Rust. It’s not just a fun distraction; it's a masterclass in modern command-line application development. Plus, since it's packaged in a Docker container, you can instantly try it out with a single command, making exploration incredibly easy. This immediate accessibility lowers the barrier to entry for both playing and learning from the source code.",
+    "title": "Ditch the Browser Tab: Track Your Time Right in the Terminal with 'hours'",
+    "article": "If you\r\n’re anything like me, tracking time for personal projects or development deep dives often feels like a chore, usually requiring a context switch to a web app or a bulky desktop client. This is where \r\n`hours` shines. It\r\n’s a beautifully simple, no-frills toolkit designed specifically for developers who live in the command line. Its core purpose is to eliminate friction from time logging, making it so fast that you actually use it consistently, especially for those crucial side-project hours that often slip through the cracks. It prioritizes ease of use over fancy, unnecessary features, ensuring your focus remains on development.\r\n\r\nThe heart of \r\n`hours` is its intuitive Terminal User Interface, or TUI. Forget complex menus and endless clicks. When you run the \r\n`hours` command, you are greeted with a clean interface that lets you manage everything\r\n—creating new tasks, updating existing ones, and most importantly, starting or stopping the timer\r\n—often with just a single keypress. This focus on speed and minimalism means you spend less time managing the tracker and more time coding. It\r\n’s built for efficiency, allowing you to quickly log manual entries or view historical data without ever leaving your current terminal session.\r\n\r\nBut \r\n`hours` isn't just a timer; it\r\n’s a powerful reporting engine. After tracking your time, you can instantly generate useful plaintext outputs using subcommands like \r\n`report`, \r\n`log`, and \r\n`stats`. Need to know exactly how much time you spent on project X yesterday? Run \r\n`hours report yest`. Want a detailed log of every session this week? The \r\n`log` command provides that clarity. These reports can be aggregated and customized by specific dates or ranges, providing a transparent overview of your time allocation without forcing you into proprietary data formats or heavy dashboards. The interactive report view is particularly useful for quick visualization.\r\n\r\nFor developers, the biggest benefit is maintaining flow state. By keeping time tracking entirely within the terminal environment, \r\n`hours` drastically reduces the cognitive load associated with switching tools and environments. It respects the developer workflow. Whether you are tracking billable client work or just trying to measure your personal learning investment, this tool gives you quick, actionable data in a format (plaintext) that is easy to parse, share, or integrate into other scripts. It\r\n’s the perfect companion for anyone who values speed, simplicity, and staying rooted in the power of the command line. Stop wrestling with bloated time trackers and give this lightweight, powerful utility a try.",
     "key_takeaways": [
-        "A high-performance, fully interactive Minesweeper game built entirely for the terminal environment.",
-        "Uses Rust for reliability and speed, combined with `tui-rs` (ratatui) for dynamic, beautiful console rendering.",
-        "Serves as an excellent learning resource for developers interested in building complex Text User Interface (TUI) applications in Rust.",
-        "Demonstrates clean implementation of core game logic (state management and input handling) within a modern CLI framework."
+        "`hours` is a minimalist, command-line time tracking toolkit ideal for developers who prefer the terminal environment.",
+        "It features an intuitive TUI for rapid task management, allowing users to start and stop timers with minimal keypresses.",
+        "The tool generates flexible plaintext reports, logs, and statistics, providing transparent and easily parsable data on time allocation.",
+        "By operating entirely within the CLI, `hours` reduces context switching, helping developers maintain focus and productivity."
     ],
     "tags": [
-        "Rust",
-        "TUI",
         "CLI",
-        "Minesweeper",
-        "tui-rs"
+        "Time Tracking",
+        "Productivity",
+        "TUI",
+        "Go"
     ],
-    "stars": 207,
-    "forks": 7,
-    "open_issues": 1,
-    "languages": "Rust",
-    "readme_summary": "minesweep-rs is a terminal-based implementation of the classic Minesweeper game, built using the Rust programming language and the tui-rs library for creating the user interface. It offers a fun and engaging way to play Minesweeper directly in your command line.",
-    "project_id": 361760325,
-    "url": "https://github.com/cpcloud/minesweep-rs",
-    "description": "Sweep some mines for fun, and probably not for profit."
+    "stars": 300,
+    "forks": 14,
+    "open_issues": 12,
+    "languages": "Go",
+    "readme_summary": "Hours is a command-line time tracking toolkit designed for users who prefer a minimalist, keyboard-driven interface. It allows for easy creation and management of tasks, starting and stopping time tracking, and generating plaintext reports and statistics.",
+    "project_id": 812644610,
+    "url": "https://github.com/dhth/hours",
+    "description": "A no-frills time tracking toolkit for command line nerds"
 }
