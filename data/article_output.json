@@ -1,25 +1,26 @@
 {
-    "title": "Ditch the Browser Tab: Track Your Time Right in the Terminal with 'hours'",
-    "article": "If you\r\n’re anything like me, tracking time for personal projects or development deep dives often feels like a chore, usually requiring a context switch to a web app or a bulky desktop client. This is where \r\n`hours` shines. It\r\n’s a beautifully simple, no-frills toolkit designed specifically for developers who live in the command line. Its core purpose is to eliminate friction from time logging, making it so fast that you actually use it consistently, especially for those crucial side-project hours that often slip through the cracks. It prioritizes ease of use over fancy, unnecessary features, ensuring your focus remains on development.\r\n\r\nThe heart of \r\n`hours` is its intuitive Terminal User Interface, or TUI. Forget complex menus and endless clicks. When you run the \r\n`hours` command, you are greeted with a clean interface that lets you manage everything\r\n—creating new tasks, updating existing ones, and most importantly, starting or stopping the timer\r\n—often with just a single keypress. This focus on speed and minimalism means you spend less time managing the tracker and more time coding. It\r\n’s built for efficiency, allowing you to quickly log manual entries or view historical data without ever leaving your current terminal session.\r\n\r\nBut \r\n`hours` isn't just a timer; it\r\n’s a powerful reporting engine. After tracking your time, you can instantly generate useful plaintext outputs using subcommands like \r\n`report`, \r\n`log`, and \r\n`stats`. Need to know exactly how much time you spent on project X yesterday? Run \r\n`hours report yest`. Want a detailed log of every session this week? The \r\n`log` command provides that clarity. These reports can be aggregated and customized by specific dates or ranges, providing a transparent overview of your time allocation without forcing you into proprietary data formats or heavy dashboards. The interactive report view is particularly useful for quick visualization.\r\n\r\nFor developers, the biggest benefit is maintaining flow state. By keeping time tracking entirely within the terminal environment, \r\n`hours` drastically reduces the cognitive load associated with switching tools and environments. It respects the developer workflow. Whether you are tracking billable client work or just trying to measure your personal learning investment, this tool gives you quick, actionable data in a format (plaintext) that is easy to parse, share, or integrate into other scripts. It\r\n’s the perfect companion for anyone who values speed, simplicity, and staying rooted in the power of the command line. Stop wrestling with bloated time trackers and give this lightweight, powerful utility a try.",
+    "title": "Supercharge Your Fish Shell: Stop Googling, Start Commanding with AI",
+    "article": "Are you tired of constantly breaking your flow to look up obscure `kubectl` parameters or that one specific `git` command to clean up merged branches? We all spend too much time navigating manpages or copying and pasting from Stack Overflow just to execute a complex CLI operation. This is where `fish-ai` steps in, transforming your Fish shell into an intelligent, AI-powered command center that dramatically cuts down on context switching and frustration.\n\nThe core brilliance of `fish-ai` lies in its natural language processing capability within the terminal itself. It acts as a bidirectional translator. You can simply type a comment, such as `# recursively delete all python cache files`, and `fish-ai` will instantly generate the correct, often convoluted, `find` or `rm` command for you. Conversely, if you encounter a command you haven't seen before, you can use the shortcut to turn that command *back* into a plain English explanation. This feature alone is a massive time saver when dealing with tools like `curl`, `docker`, or complex cloud CLI utilities.\n\nBut the utility doesn't stop at translation. `fish-ai` also addresses those frustrating moments when you make a simple typo in a long command string. Similar to popular tools like `thefuck`, it can analyze a broken command and suggest an immediate, AI-corrected fix, getting you back to work instantly. Furthermore, for those who appreciate speed, the built-in fuzzy finder leverages the LLM to provide intelligent command autocompletion, going far beyond what standard tab completion can offer by predicting complex sequences based on context.\n\nFor developers concerned about security and customization, `fish-ai` offers fantastic flexibility. It is designed to be completely LLM-agnostic, meaning you can configure it to use services like Anthropic, Cohere, DeepSeek, or even self-host your own model. This level of control ensures that you dictate where your data goes and manage your own costs. The entire project is open source, clocking in at around 2000 lines of code, making it easy to audit and verify that it adheres to its promise of zero telemetry and non-intrusiveness. It won't wrap your shell or force you into a proprietary environment; it simply enhances your existing Fish setup, working perfectly alongside plugins you already love like `tide` and `fzf.fish`.\n\nInstallation is straightforward using `fisher`, making integration into your current workflow seamless. If you are a Fish user looking for a serious productivity boost that keeps you focused on the task at hand rather than CLI syntax, `fish-ai` is an essential addition. Stop relying on external documentation for every complex operation and let AI handle the syntax details right where you need them most: in the terminal.",
     "key_takeaways": [
-        "`hours` is a minimalist, command-line time tracking toolkit ideal for developers who prefer the terminal environment.",
-        "It features an intuitive TUI for rapid task management, allowing users to start and stop timers with minimal keypresses.",
-        "The tool generates flexible plaintext reports, logs, and statistics, providing transparent and easily parsable data on time allocation.",
-        "By operating entirely within the CLI, `hours` reduces context switching, helping developers maintain focus and productivity."
+        "Eliminates context switching by translating natural language comments directly into complex shell commands.",
+        "Offers intelligent command correction for typos and broken inputs, speeding up workflow recovery.",
+        "Features LLM-powered fuzzy autocompletion for advanced command prediction.",
+        "Highly customizable and privacy-focused, supporting various LLMs, including self-hosted options.",
+        "Lightweight, open source, and integrates seamlessly with existing Fish shell plugins."
     ],
     "tags": [
-        "CLI",
-        "Time Tracking",
-        "Productivity",
-        "TUI",
-        "Go"
+        "Fish Shell",
+        "AI",
+        "Command Line Interface",
+        "LLM",
+        "Productivity"
     ],
-    "stars": 300,
-    "forks": 14,
-    "open_issues": 12,
-    "languages": "Go",
-    "readme_summary": "Hours is a command-line time tracking toolkit designed for users who prefer a minimalist, keyboard-driven interface. It allows for easy creation and management of tasks, starting and stopping time tracking, and generating plaintext reports and statistics.",
-    "project_id": 812644610,
-    "url": "https://github.com/dhth/hours",
-    "description": "A no-frills time tracking toolkit for command line nerds"
+    "stars": 411,
+    "forks": 30,
+    "open_issues": 1,
+    "languages": "Python",
+    "readme_summary": "fish-ai is a Fish shell plugin that integrates Large Language Models (LLMs) to provide AI-powered assistance for shell scripting. It enables users to convert natural language comments into commands, fix broken commands, and get intelligent command autocompletion, all accessible via keyboard shortcuts.",
+    "project_id": 739358043,
+    "url": "https://github.com/Realiserad/fish-ai",
+    "description": "Supercharge your command line with LLMs and get shell scripting assistance in Fish. 💪"
 }
