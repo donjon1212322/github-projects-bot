@@ -1,26 +1,26 @@
 {
-    "title": "Reclaim Your Digital Life: Timelinize Unifies All Your Memories Into One Self-Hosted Story",
-    "article": "Are your digital memories scattered across a dozen cloud services, old hard drives, and forgotten chat logs? If you’re like most developers, managing your personal digital history feels like an impossible archiving task. We rely on big tech companies to hold our most precious data—photos, messages, location trails—but what if you could take all that data back, unify it, and visualize your entire life story in one powerful, self-hosted application? Meet Timelinize, the open-source project designed to give you true sovereignty over your personal data.\n\nTimelinize isn't just another photo organizer; it's a comprehensive digital historian. Its core purpose is to ingest data from practically every source imaginable—your phone backups, social media exports, GPS logs, chat archives, and local files—and stitch them together into a single, cohesive timeline. This unification process is where the magic happens. By normalizing diverse data types, Timelinize creates a unified view of your life, chronologically and contextually.\n\nThe architecture is designed for massive personal datasets and runs entirely on your own computer. This means you maintain complete ownership and control, eliminating reliance on third-party servers. The project leverages smart data processing to go beyond simple file sorting. For instance, it features robust entity recognition, allowing you to filter your timeline based on specific people, places, or organizations. Even more impressive is its ability to associate non-geolocated data (like a text message) with a location based on contextual clues, such as nearby GPS history, placing that memory accurately on the map.\n\nFor developers, Timelinize presents an incredibly exciting opportunity. It tackles complex challenges related to data ingestion, schema normalization, and advanced visualization. The powerful UI includes features like interactive 3D maps where you can literally walk through your past, seeing memories pinned exactly where they occurred. This project demonstrates how to build sophisticated, privacy-focused tooling for personal data management. If you are interested in data modeling, high-performance local processing (likely powered by Go, judging by the badges), or building stunning, data-rich interfaces, exploring the Timelinize codebase is a must. Contributing to new data importers or enhancing the visualization engine would be a fantastic way to contribute to the future of data ownership. Stop letting your life story be held hostage by fragmented cloud services—it's time to build your own definitive history.",
+    "title": "Stop Clicking, Start Talking: Control Your Unity Editor with AI Using MCP for Unity",
+    "article": "Are you tired of the repetitive grind in the Unity Editor? We all know the drill: clicking through menus, finding assets, tweaking components, and context-switching constantly between your code editor and Unity itself. What if you could simply *tell* your AI assistant—like Claude or Cursor—exactly what you wanted done in Unity, and it just happened? That's the revolutionary promise of MCP for Unity, a powerful project that acts as the ultimate communication bridge between modern Large Language Models (LLMs) and your game development environment.\n\nMCP for Unity introduces the ability to use natural language to control complex Unity workflows. It achieves this by implementing a local Model Context Protocol (MCP) Client. Think of this client as a highly specialized interpreter. When you give an instruction to your AI assistant, that assistant uses the MCP to send a structured command to the Unity Editor bridge. This bridge then executes the command using a rich set of specialized tools built right into the package. It uses an HTTP-first transport layer, making the connection robust and fast, moving beyond basic standard input/output methods.\n\nThe core power lies in these functional tools. Instead of just generating code snippets that you then have to manually copy and paste, the LLM is given direct, functional access to the Unity environment. This includes essential tools like `manage_asset` for importing or modifying resources, `manage_gameobject` for manipulating scene elements and components, and `manage_scene` for loading or saving scenes. This isn't just theoretical; it means you can instruct the AI to \"Find all materials named 'Metal_Rust' and change their primary color to blue,\" or \"Create a new C# script named 'EnemyAI' in the Scripts folder and attach it to the Player GameObject.\" The automation potential here is immense.\n\nOne of the most exciting advancements is in script management. Traditional AI often struggles with making surgical, context-aware edits to existing codebases without introducing errors. MCP for Unity solves this with specialized functions like `apply_text_edits` and `script_apply_edits`. These allow the LLM to perform precise, atomic changes to C# scripts—inserting a method, replacing a function body, or deleting a class—all while maintaining structural integrity. There's even a `validate_script` tool to catch syntax issues before the change is finalized. This level of control drastically reduces the need for manual copy-pasting and ensures faster, safer AI-driven code integration directly within your project.\n\nFor developers, the benefits are clear: unprecedented automation and reduced friction. Repetitive setup tasks, boilerplate creation, asset manipulation, and even running unit tests can now be automated purely through conversational commands. If you want to future-proof your Unity workflow and leverage the cutting edge of AI-assisted development, diving into MCP for Unity is a must. It fundamentally transforms the way you interact with your projects, moving you from tedious clicking and typing to high-level strategic instruction.",
     "key_takeaways": [
-        "Timelinize unifies diverse data types (photos, chats, location history, social media) into a single, cohesive, chronological timeline.",
-        "The project is self-hosted, ensuring complete data ownership and privacy for all your personal digital memories.",
-        "It uses advanced features like entity recognition and contextual association to link non-geolocated data to specific times and places.",
-        "Developers benefit from exploring complex data ingestion, schema normalization, and powerful visualization techniques, including interactive 3D maps.",
-        "It serves as a robust, open-source alternative to fragmented proprietary cloud services for digital archiving."
+        "MCP for Unity enables direct interaction between LLMs (like Claude) and the Unity Editor via natural language commands.",
+        "It acts as a bridge using the Model Context Protocol (MCP) Client, translating conversational instructions into actionable Unity API calls.",
+        "Developers gain powerful tools for automating asset management, scene manipulation, GameObject configuration, and running tests.",
+        "Specialized functions like `script_apply_edits` allow AI to perform precise, structural edits to C# code safely and atomically.",
+        "This project significantly speeds up workflow by automating repetitive tasks, allowing developers to focus on higher-level design."
     ],
     "tags": [
-        "Data Sovereignty",
-        "Digital Archiving",
-        "GoLang",
-        "Personal Data Management",
-        "Timeline Visualization"
+        "Unity",
+        "LLM",
+        "AI-Assisted Development",
+        "Automation",
+        "Game Development"
     ],
-    "stars": 3086,
-    "forks": 97,
-    "open_issues": 47,
-    "languages": "Go",
-    "readme_summary": "Timelinize is a self-hosted application that consolidates data from various accounts and devices into a single, cohesive personal timeline. It allows users to import and organize photos, videos, messages, location history, social media content, and more, providing a comprehensive view of their digital life stored securely on their own computer.",
-    "project_id": 841044067,
-    "url": "https://github.com/timelinize/timelinize",
-    "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer"
+    "stars": 4254,
+    "forks": 569,
+    "open_issues": 25,
+    "languages": "C#",
+    "readme_summary": "Unity MCP is a server that enables AI assistants, such as Claude and Cursor, to interact directly with the Unity Editor. It acts as a bridge, allowing LLMs to control assets, scenes, scripts, and automate tasks within Unity using the Model Context Protocol.",
+    "project_id": 950564038,
+    "url": "https://github.com/CoplayDev/unity-mcp",
+    "description": "An MCP server that allows MCP clients like Claude Desktop or Cursor to perform actions in the Unity Editor"
 }
