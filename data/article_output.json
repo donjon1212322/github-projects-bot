@@ -1,26 +1,26 @@
 {
-    "title": "Stop Clicking, Start Talking: Control Your Unity Editor with AI Using MCP for Unity",
-    "article": "Are you tired of the repetitive grind in the Unity Editor? We all know the drill: clicking through menus, finding assets, tweaking components, and context-switching constantly between your code editor and Unity itself. What if you could simply *tell* your AI assistant—like Claude or Cursor—exactly what you wanted done in Unity, and it just happened? That's the revolutionary promise of MCP for Unity, a powerful project that acts as the ultimate communication bridge between modern Large Language Models (LLMs) and your game development environment.\n\nMCP for Unity introduces the ability to use natural language to control complex Unity workflows. It achieves this by implementing a local Model Context Protocol (MCP) Client. Think of this client as a highly specialized interpreter. When you give an instruction to your AI assistant, that assistant uses the MCP to send a structured command to the Unity Editor bridge. This bridge then executes the command using a rich set of specialized tools built right into the package. It uses an HTTP-first transport layer, making the connection robust and fast, moving beyond basic standard input/output methods.\n\nThe core power lies in these functional tools. Instead of just generating code snippets that you then have to manually copy and paste, the LLM is given direct, functional access to the Unity environment. This includes essential tools like `manage_asset` for importing or modifying resources, `manage_gameobject` for manipulating scene elements and components, and `manage_scene` for loading or saving scenes. This isn't just theoretical; it means you can instruct the AI to \"Find all materials named 'Metal_Rust' and change their primary color to blue,\" or \"Create a new C# script named 'EnemyAI' in the Scripts folder and attach it to the Player GameObject.\" The automation potential here is immense.\n\nOne of the most exciting advancements is in script management. Traditional AI often struggles with making surgical, context-aware edits to existing codebases without introducing errors. MCP for Unity solves this with specialized functions like `apply_text_edits` and `script_apply_edits`. These allow the LLM to perform precise, atomic changes to C# scripts—inserting a method, replacing a function body, or deleting a class—all while maintaining structural integrity. There's even a `validate_script` tool to catch syntax issues before the change is finalized. This level of control drastically reduces the need for manual copy-pasting and ensures faster, safer AI-driven code integration directly within your project.\n\nFor developers, the benefits are clear: unprecedented automation and reduced friction. Repetitive setup tasks, boilerplate creation, asset manipulation, and even running unit tests can now be automated purely through conversational commands. If you want to future-proof your Unity workflow and leverage the cutting edge of AI-assisted development, diving into MCP for Unity is a must. It fundamentally transforms the way you interact with your projects, moving you from tedious clicking and typing to high-level strategic instruction.",
+    "title": "Stop Writing Boilerplate SQL: QueryWeaver Uses Graph Power to Turn English into Database Queries",
+    "article": "How many times have you stared at a complex database schema, dreading the hour you’re about to spend crafting that perfect, multi-join SQL query? We all love data, but wrestling with syntax and obscure table names can be a massive productivity killer. This is exactly the headache that QueryWeaver is designed to eliminate. It’s an open-source tool that acts as your universal translator, converting your everyday English questions directly into precise SQL queries and, even better, giving you the results instantly.\n\nQueryWeaver isn't just another language model slapped onto a database connector; its core innovation lies in its \"graph-powered schema understanding.\" Think of your database schema not as a flat list of tables, but as a complex network of relationships. QueryWeaver leverages graph technology to deeply understand how your tables connect, which columns are relevant, and the context of the data. When you ask, \"Show me all customers who bought products made in 2023,\" it doesn't just look for keywords; it maps the path from 'customers' to 'products' through intermediate tables, ensuring the generated SQL is accurate and efficient. This graph-based approach significantly reduces the common hallucination errors often seen in simpler Text2SQL tools.\n\nFor developers, the integration couldn't be simpler. QueryWeaver is packaged as a lightweight REST API service, meaning you can plug it into virtually any application—whether it's a dashboard, a chatbot, or a data analysis pipeline. Deployment is incredibly smooth thanks to its official Docker image. You can have the entire service running locally with a single `docker run` command, making evaluation and production setup painless. Furthermore, it supports the Model Context Protocol (MCP), offering standardized endpoints for database operations like listing schemas and querying data. This means QueryWeaver can easily integrate into larger, modular AI ecosystems.\n\nThe practical benefits are immediate. Imagine reducing the time spent on ad-hoc reporting from hours to seconds. Data analysts can bypass the need for deep SQL knowledge, accessing insights simply by asking questions. As a developer, you gain a powerful layer between your application and the database, allowing you to focus on feature development rather than query optimization. QueryWeaver democratizes data access, making complex information available to everyone on the team through natural language. If you work with databases and want to drastically simplify how you interact with them, QueryWeaver is a must-check-out project.",
     "key_takeaways": [
-        "MCP for Unity enables direct interaction between LLMs (like Claude) and the Unity Editor via natural language commands.",
-        "It acts as a bridge using the Model Context Protocol (MCP) Client, translating conversational instructions into actionable Unity API calls.",
-        "Developers gain powerful tools for automating asset management, scene manipulation, GameObject configuration, and running tests.",
-        "Specialized functions like `script_apply_edits` allow AI to perform precise, structural edits to C# code safely and atomically.",
-        "This project significantly speeds up workflow by automating repetitive tasks, allowing developers to focus on higher-level design."
+        "QueryWeaver converts plain English questions into accurate SQL queries (Text2SQL).",
+        "It uses graph-powered schema understanding to ensure superior query accuracy and context awareness across complex databases.",
+        "The project is easily deployable via Docker and accessible through a robust REST API for seamless application integration.",
+        "It supports the Model Context Protocol (MCP), enabling standardized interaction within larger AI/ML workflows.",
+        "Developers can dramatically speed up ad-hoc data querying and reporting tasks, simplifying data access for non-SQL experts."
     ],
     "tags": [
-        "Unity",
-        "LLM",
-        "AI-Assisted Development",
-        "Automation",
-        "Game Development"
+        "Text2SQL",
+        "Natural Language Processing",
+        "Database",
+        "REST API",
+        "Graph Technology"
     ],
-    "stars": 4254,
-    "forks": 569,
-    "open_issues": 25,
-    "languages": "C#",
-    "readme_summary": "Unity MCP is a server that enables AI assistants, such as Claude and Cursor, to interact directly with the Unity Editor. It acts as a bridge, allowing LLMs to control assets, scenes, scripts, and automate tasks within Unity using the Model Context Protocol.",
-    "project_id": 950564038,
-    "url": "https://github.com/CoplayDev/unity-mcp",
-    "description": "An MCP server that allows MCP clients like Claude Desktop or Cursor to perform actions in the Unity Editor"
+    "stars": 267,
+    "forks": 27,
+    "open_issues": 31,
+    "languages": "Python",
+    "readme_summary": "QueryWeaver is an open-source Text2SQL tool that leverages graph-powered schema understanding to convert natural language questions into SQL queries. It allows users to interact with databases using plain English and can return both the generated SQL and the query results.",
+    "project_id": 1027340108,
+    "url": "https://github.com/FalkorDB/QueryWeaver",
+    "description": "An open-source Text2SQL tool that transforms natural language into SQL using graph-powered schema understanding. Ask your database questions in plain English, QueryWeaver handles the weaving."
 }

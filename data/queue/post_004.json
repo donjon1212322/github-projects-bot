@@ -1,7 +1,0 @@
-{
-    "project_id": 1046149099,
-    "content": "✨ <b>refund-swatter-lite</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nPreventing fraudulent App Store refunds by automating the response to Apple's consumption request notifications.\n<br>\n✨ <b>Key Features:</b>\n• Bring Your Own Key (BYOK) for In-App Purchase Keys\n• Real-time processing of CONSUMPTION_REQUEST notifications\n• 100% Supabase architecture, no additional servers\n• Automated workflow\n• Calculates all 12 required Apple consumption fields\n<br>\n📖 <b>Summary:</b>\nRefund Swatter Lite is a serverless, single-tenant application built on Supabase designed to prevent fraudulent App Store refunds. It processes Apple's CONSUMPTION_REQUEST notifications in real-time, sending back essential consumption data to help Apple make informed refund decisions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/argus-sight/refund-swatter-lite?embed=0\">View Project</a>\n• <a href=\"https://lite.refundswatter.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/6f4958f7090536c5027d6c7fdbed4ee7b18b855dd04d7abfd14598882fa3334a/argus-sight/refund-swatter-lite",
-    "platform": "telegram",
-    "quality_score": 0.85
-}

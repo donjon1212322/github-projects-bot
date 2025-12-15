@@ -1,44 +1,30 @@
 [
     {
-        "project_id": 89359792,
-        "content": "🌟 <b>check-if-email-exists</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nVerifying the existence and deliverability of email addresses in bulk or individually without the risk of triggering spam filters or sending unwanted emails.\n<br>\n✨ <b>Key Features:</b>\n• Email existence check without sending emails\n• Rust library for programmatic usage\n• Dockerized HTTP backend API\n• Command-line interface (CLI) tool\n• Support for SOCKS5 proxies\n<br>\n📖 <b>Summary:</b>\nThis Rust repository provides a tool to check if an email address is valid and deliverable without sending an actual email. It offers a programmatic API, a CLI, and a Dockerized HTTP backend for integration into various applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/reacherhq/check-if-email-exists?embed=0\">View Project</a>\n• <a href=\"https://reacher.email?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/89359792/e9ac7100-2478-11eb-9ffd-9b8c08bb11e9",
-        "platform": "telegram",
-        "quality_score": 0.7000000000000001
-    },
-    {
-        "project_id": 950564038,
-        "content": "💡 <b>unity-mcp</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nAllowing AI assistants (LLMs) to directly control and automate tasks within the Unity Editor.\n<br>\n✨ <b>Key Features:</b>\n• Natural Language Control\n• Powerful Tools for asset, scene, material, script management\n• Automation of repetitive Unity workflows\n• Extensible design for various MCP Clients\n• HTTP-First Transport with stdio fallback\n<br>\n📖 <b>Summary:</b>\nUnity MCP is a server that enables AI assistants, such as Claude and Cursor, to interact directly with the Unity Editor. It acts as a bridge, allowing LLMs to control assets, scenes, scripts, and automate tasks within Unity using the Model Context Protocol.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/CoplayDev/unity-mcp?embed=0\">View Project</a>\n• <a href=\"https://www.coplay.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/950564038/eca80507-594c-42f0-b5b5-c1f7443ea535",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 910107320,
-        "content": "🔥 <b>Constrict</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCompressing video files to meet specific size limitations for uploads or storage, without manual trial-and-error.\n<br>\n✨ <b>Key Features:</b>\n• Intuitive GUI for easy video compression\n• Automatic calculation of encoding parameters (ABR, resolution, framerate, audio quality) to meet target file size\n• Bulk compression of multiple videos\n• Customizable framerate limits\n<br>\n📖 <b>Summary:</b>\nConstrict is a desktop application that compresses video files to a user-defined target file size. It automates the complex process of re-encoding videos by intelligently adjusting parameters like bitrate, resolution, and framerate to achieve the desired size while aiming to preserve audiovisual quality.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Wartybix/Constrict?embed=0\">View Project</a>\n• <a href=\"https://flathub.org/apps/io.github.wartybix.Constrict?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/66433b52145f700822bdf91d52229780d8c0832cc7c611aa63d2a5622db8dc40/Wartybix/Constrict",
-        "platform": "telegram",
-        "quality_score": 0.7499999999999999
-    },
-    {
-        "project_id": 1049730948,
-        "content": "🌟 <b>richpixelvid</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying video files in a terminal with a unique retro-style visualization.\n<br>\n✨ <b>Key Features:</b>\n• Terminal-based video playback using Unicode half-block characters\n• Automatic terminal size detection and video scaling\n• Configurable playback frame rate\n• Loop playback option\n• Memory-efficient streaming\n<br>\n📖 <b>Summary:</b>\nRich-Pixel Video Player is a Python tool that plays video files directly in your terminal using Unicode characters for a retro, pixelated visual style. It leverages the rich-pixels library to render video frames with enhanced vertical resolution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pj4533/richpixelvid?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/25d0ee97992ba632e1a51c7a930131c3d2603cb2daa13b510e35d79f471503a6/pj4533/richpixelvid",
-        "platform": "telegram",
-        "quality_score": 0.15
-    },
-    {
-        "project_id": 1046149099,
-        "content": "✨ <b>refund-swatter-lite</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nPreventing fraudulent App Store refunds by automating the response to Apple's consumption request notifications.\n<br>\n✨ <b>Key Features:</b>\n• Bring Your Own Key (BYOK) for In-App Purchase Keys\n• Real-time processing of CONSUMPTION_REQUEST notifications\n• 100% Supabase architecture, no additional servers\n• Automated workflow\n• Calculates all 12 required Apple consumption fields\n<br>\n📖 <b>Summary:</b>\nRefund Swatter Lite is a serverless, single-tenant application built on Supabase designed to prevent fraudulent App Store refunds. It processes Apple's CONSUMPTION_REQUEST notifications in real-time, sending back essential consumption data to help Apple make informed refund decisions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/argus-sight/refund-swatter-lite?embed=0\">View Project</a>\n• <a href=\"https://lite.refundswatter.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6f4958f7090536c5027d6c7fdbed4ee7b18b855dd04d7abfd14598882fa3334a/argus-sight/refund-swatter-lite",
+        "project_id": 371410731,
+        "content": "🚀 <b>esp-web-tools</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to flash ESP microcontrollers with firmware directly from their web browser without requiring separate desktop applications.\n<br>\n✨ <b>Key Features:</b>\n• Browser-based flashing of ESP devices\n• Automatic board detection\n• Support for ESPHome and other ESP firmwares\n• Web component for easy integration\n<br>\n📖 <b>Summary:</b>\nESP Web Tools provides a browser-based solution for flashing ESP microcontrollers with firmware like ESPHome. It automatically detects the target board and simplifies the firmware installation process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/esphome/esp-web-tools?embed=0\">View Project</a>\n• <a href=\"https://esphome.github.io/esp-web-tools/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/371410731/4d213959-80c5-475f-a9e0-2052d4c437eb",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 1054563053,
-        "content": "💡 <b>Logics-Parsing</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAccurate and structured parsing of complex documents, especially those containing scientific content like formulas and chemical structures.\n<br>\n✨ <b>Key Features:</b>\n• Effortless End-to-End Processing\n• Advanced Content Recognition (including scientific formulas and SMILES for chemical structures)\n• Rich, Structured HTML Output (with category, bounding box, OCR text)\n<br>\n📖 <b>Summary:</b>\nLogics-Parsing is an end-to-end document parsing model that uses a Vision-Language Model (VLM) to accurately analyze and structure complex documents, including scientific formulas and chemical structures. It outputs rich, structured HTML with content category, bounding boxes, and OCR text, while filtering out irrelevant elements.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alibaba/Logics-Parsing?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/462241b4717e4366f79e1c7b8184075dcbb1e228f3d0ead7e528d35bc1d5e49d/alibaba/Logics-Parsing",
+        "project_id": 961639702,
+        "content": "✨ <b>quickvoice_mcp</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling AI agents to make automated phone calls based on user instructions.\n<br>\n✨ <b>Key Features:</b>\n• Initiate Call Tool for outbound calls using QuickVoice AI agents\n• Integration with Claude Desktop for natural language call initiation\n• Web interface for agent management, call history, and analytics\n• Dockerized deployment for easy setup\n• Configuration via environment variables or MCP config file\n<br>\n📖 <b>Summary:</b>\nQuickVoice MCP is a Python-based server that enables AI voice agents to make outbound phone calls. It integrates with platforms like Claude Desktop, allowing users to initiate calls using natural language prompts and manage agent configurations via a web interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rexanity/quickvoice_mcp?embed=0\">View Project</a>\n• <a href=\"https://quickvoice.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a051b1382a6982d506bb3f87b81e10e630a72c3885d92d1cf3070b50f2e82ceb/rexanity/quickvoice_mcp",
         "platform": "telegram",
-        "quality_score": 0.6
+        "quality_score": 0.15
+    },
+    {
+        "project_id": 1046855459,
+        "content": "🌟 <b>ShadeOfColor2</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nHiding arbitrary files within PNG images for secure or restricted data transfer and storage.\n<br>\n✨ <b>Key Features:</b>\n• Two-way conversion (file to PNG image, PNG image to file)\n• Embedded metadata (signature, original file size, original filename, SHA1 hash)\n• Cross-platform compatibility (Windows, Linux, macOS) via ImageSharp\n• Integrity check for file corruption or tampering\n<br>\n📖 <b>Summary:</b>\nShadeOfColor is a cross-platform C# tool that allows users to hide any file within a PNG image and later extract the original file. It embeds metadata like original file size, name, and a SHA1 hash for integrity checks, making it useful for circumventing file restrictions or adding a layer of privacy.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/archistico/ShadeOfColor2?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e7dce99002e9d1b4ebb949dccb0a1af3d11481449b744a6caf4c7226d960b721/archistico/ShadeOfColor2",
+        "platform": "telegram",
+        "quality_score": 0.15
+    },
+    {
+        "project_id": 1027340108,
+        "content": "✨ <b>QueryWeaver</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling users to query databases using natural language by converting English questions into SQL.\n<br>\n✨ <b>Key Features:</b>\n• Text2SQL conversion\n• Graph-powered schema understanding\n• REST API\n• Docker support\n• Model Context Protocol (MCP) support\n<br>\n📖 <b>Summary:</b>\nQueryWeaver is an open-source Text2SQL tool that leverages graph-powered schema understanding to convert natural language questions into SQL queries. It allows users to interact with databases using plain English and can return both the generated SQL and the query results.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/FalkorDB/QueryWeaver?embed=0\">View Project</a>\n• <a href=\"https://app.queryweaver.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a9e6e87369f480a822ed088c3cb024d496398baee5e7591b5e1742aaa6a2e3ea/FalkorDB/QueryWeaver",
+        "platform": "telegram",
+        "quality_score": 1.1000000000000003
     }
 ]
