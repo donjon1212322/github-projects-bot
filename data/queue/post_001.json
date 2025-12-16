@@ -1,0 +1,7 @@
+{
+    "project_id": 503403377,
+    "content": "💡 <b>guarddog</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enhance software supply chain security by automatically detecting and flagging potentially malicious code within open-source packages and extensions before they are integrated into development workflows.\n<br>\n✨ <b>Key Features:</b>\n• Identifies malicious PyPI and npm packages\n• Scans Go modules, GitHub actions, and VSCode extensions\n<br>\n📖 <b>Summary:</b>\nGuardDog is a command-line interface tool designed to detect malicious packages across various ecosystems including PyPI, npm, Go, GitHub Actions, and VSCode extensions. It employs both source code analysis using Semgrep rules and package metadata heuristics to identify security threats.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DataDog/guarddog?embed=0\">View Project</a>\n• <a href=\"https://securitylabs.datadoghq.com/articles/guarddog-identify-malicious-pypi-packages/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/79fde46d4921f0008c181781130dae79a50d5ee3780a1190719aa1193d99993d/DataDog/guarddog",
+    "platform": "telegram",
+    "quality_score": 0.95
+}

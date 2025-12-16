@@ -1,125 +1,241 @@
 [
     {
-        "id": 371410731,
-        "name": "esp-web-tools",
-        "description": "Open source tools to allow working with ESP devices in the browser",
-        "url": "https://github.com/esphome/esp-web-tools",
-        "language": "TypeScript",
-        "stars": 586,
-        "forks": 157,
-        "created_at": "2021-05-27T14:54:28Z",
-        "updated_at": "2025-12-15T01:36:27Z",
+        "id": 1014967383,
+        "name": "StreamDiffusionV2",
+        "description": "StreamDiffusion, Live Stream APP",
+        "url": "https://github.com/chenfengxu714/StreamDiffusionV2",
+        "language": "Python",
+        "stars": 276,
+        "forks": 24,
+        "created_at": "2025-07-06T18:51:14Z",
+        "updated_at": "2025-12-16T03:57:17Z",
         "topics": [],
+        "quality_score": 0.6499999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2025-12-07T11:26:30Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/0aee7e7c33b52ef9671eae49576cc838250dc300ae4e73d8b63a248ad5388193/chenfengxu714/StreamDiffusionV2"
+        ],
+        "homepage": "",
+        "readme_summary": "StreamDiffusionV2 is an open-source interactive diffusion pipeline designed for real-time streaming applications. It offers scalability across various GPU configurations, adjustable denoising steps, and high frame rates to enhance user experience for creators and platforms.",
+        "key_features": [
+            "Real-time streaming applications",
+            "Interactive diffusion pipeline",
+            "Scalable across diverse GPU setups",
+            "Flexible denoising steps",
+            "High FPS output"
+        ],
+        "primary_use_case": "Enabling real-time, interactive video generation for streaming applications.",
+        "open_issues": 4,
+        "cover_image_prompt": "A dynamic digital artist, represented as a futuristic AI interface, rapidly sketching and animating vibrant scenes in real-time. The artist is shown with a stream of raw visual data (represented by abstract particles and lines) flowing into a central processing core, which then outputs polished, animated video segments directly onto multiple screens displaying a live stream. Subtle UI elements with sliders for 'denoising steps' and 'FPS' are visible. The overall mood is energetic and creative, with glowing data streams and a clean, modern aesthetic. The illustration should be in a 3D isometric style, emphasizing the flow and transformation of data into dynamic visual content, with the repository name subtly integrated into the interface."
+    },
+    {
+        "id": 503403377,
+        "name": "guarddog",
+        "description": ":snake: :mag: GuardDog is a CLI tool to Identify malicious PyPI and npm packages",
+        "url": "https://github.com/DataDog/guarddog",
+        "language": "Python",
+        "stars": 911,
+        "forks": 75,
+        "created_at": "2022-06-14T14:51:28Z",
+        "updated_at": "2025-12-16T05:05:48Z",
+        "topics": [
+            "malicious-packages",
+            "npm",
+            "npm-packages",
+            "pypi-packages",
+            "python",
+            "python-security",
+            "software-supply-chain-security"
+        ],
+        "quality_score": 0.95,
+        "contributors_count": 0,
+        "last_commit_date": "2025-12-05T15:25:46Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/79fde46d4921f0008c181781130dae79a50d5ee3780a1190719aa1193d99993d/DataDog/guarddog"
+        ],
+        "homepage": "https://securitylabs.datadoghq.com/articles/guarddog-identify-malicious-pypi-packages/",
+        "readme_summary": "GuardDog is a command-line interface tool designed to detect malicious packages across various ecosystems including PyPI, npm, Go, GitHub Actions, and VSCode extensions. It employs both source code analysis using Semgrep rules and package metadata heuristics to identify security threats.",
+        "key_features": [
+            "Identifies malicious PyPI and npm packages",
+            "Scans Go modules, GitHub actions, and VSCode extensions",
+            "Utilizes Semgrep rules for source code analysis",
+            "Applies heuristics to package metadata",
+            "Supports scanning local and remote packages",
+            "Provides options for specific rule selection and exclusion",
+            "Outputs results in various formats including SARIF and JSON",
+            "Offers Docker image for Windows compatibility"
+        ],
+        "primary_use_case": "To enhance software supply chain security by automatically detecting and flagging potentially malicious code within open-source packages and extensions before they are integrated into development workflows.",
+        "open_issues": 30,
+        "cover_image_prompt": "A vigilant digital watchdog, represented by a stylized, glowing cybernetic dog head, stands guard at a gate. On one side of the gate, a stream of colorful, abstract 'packages' (like small boxes or spheres) are flowing towards the gate. The watchdog's eyes glow intensely, scanning each package. Packages identified as 'malicious' are highlighted in red and are being deflected by a shimmering energy barrier, while 'safe' packages glow green and pass through. Subtle code snippets and data streams are visible in the background, hinting at the digital nature of the scan. The overall mood is secure and protective, with a clean, futuristic aesthetic. The style should be a 3D isometric illustration with vibrant, contrasting colors and clear visual indicators."
+    },
+    {
+        "id": 332179255,
+        "name": "esp8266-deerma-humidifier",
+        "description": "Cloud-free wifi humidification ",
+        "url": "https://github.com/Hypfer/esp8266-deerma-humidifier",
+        "language": "C++",
+        "stars": 56,
+        "forks": 7,
+        "created_at": "2021-01-23T10:06:36Z",
+        "updated_at": "2025-12-15T09:25:46Z",
+        "topics": [
+            "cloud-free",
+            "deerma",
+            "esp8266",
+            "home-assistant",
+            "mqtt",
+            "smarthome",
+            "xiaomi"
+        ],
+        "quality_score": 0.45,
+        "contributors_count": 0,
+        "last_commit_date": "2021-11-30T16:10:29Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/332179255/82c31500-5e36-11eb-8ede-550ed8111901"
+        ],
+        "homepage": "",
+        "readme_summary": "This repository provides custom firmware for the Xiaomi Mi Smart Antibacterial Humidifier (deerma.humidifier.jsq). It replaces the original cloud-dependent firmware with a local MQTT-based control system, enabling cloud-free operation and integration with platforms like Home Assistant.",
+        "key_features": [
+            "Cloud-free operation via local MQTT control",
+            "Replaces original firmware on ESP8285 module",
+            "Home Assistant Autodiscovery support",
+            "WifiManager for on-the-fly configuration",
+            "ArduinoOTA for wireless firmware updates",
+            "MQTT topics for status, state, and command",
+            "JSON-based state reporting and command input"
+        ],
+        "primary_use_case": "To enable local, cloud-free control and integration of the Xiaomi Mi Smart Antibacterial Humidifier with smart home systems like Home Assistant.",
+        "open_issues": 1,
+        "cover_image_prompt": "A vintage, ornate humidifier, typically associated with cloud-based smart home devices, is shown with its power cord unplugged from a wall socket. Instead, it's connected by a glowing, ethereal thread of data to a small, rustic wooden box labeled 'MQTT'. This box is emitting gentle, pulsing waves of information that are clearly controlling the humidifier's mist output and indicator lights. In the background, a stylized, minimalist cloud is depicted as being broken or dissolving, emphasizing the 'cloud-free' aspect. Subtle digital particles emanate from the MQTT box, hinting at the underlying technology. The overall mood is one of liberation and local control. The style should be a 3D isometric illustration with a clean, slightly whimsical aesthetic, focusing on the contrast between the old-fashioned humidifier and the modern, local tech."
+    },
+    {
+        "id": 994252890,
+        "name": "jaaz",
+        "description": "The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.",
+        "url": "https://github.com/11cafe/jaaz",
+        "language": "TypeScript",
+        "stars": 5340,
+        "forks": 483,
+        "created_at": "2025-06-01T14:53:08Z",
+        "updated_at": "2025-12-16T05:22:11Z",
+        "topics": [
+            "agent",
+            "ai",
+            "aiagent",
+            "aiimage",
+            "aiimagegenerator",
+            "aitool",
+            "aitools",
+            "canva",
+            "comfyui",
+            "flux",
+            "stable-diffusion"
+        ],
+        "quality_score": 0.8500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2025-11-10T04:50:57Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/994252890/6ccfae03-a7a8-4f43-8698-7e8aa684291d"
+        ],
+        "homepage": "https://jaaz.app",
+        "readme_summary": "Jaaz is an open-source, privacy-focused multimodal creative assistant that functions as a local alternative to tools like Canva and Manus. It enables users to generate images and videos from single prompts, utilize a prompt-free 'Magic Canvas' for intuitive creation, and manage visual storyboards on an infinite canvas, all powered by a smart AI agent system.",
+        "key_features": [
+            "One-Prompt Image & Video Generation",
+            "Magic Canvas & Magic Video (Prompt-free creation)",
+            "Infinite Canvas & Visual Storyboarding",
+            "Smart AI Agent System",
+            "Flexible Deployment & Local Assets",
+            "Privacy & Security (Local-first)"
+        ],
+        "primary_use_case": "To provide users with a local, privacy-respecting, AI-powered creative tool for generating images and videos, similar to Canva but with advanced AI capabilities and prompt-free interaction.",
+        "open_issues": 35,
+        "cover_image_prompt": "A whimsical, open-source 'creative workshop' where a friendly AI robot is playfully assembling a vibrant digital artwork. The robot uses a 'magic wand' that draws directly onto an infinite canvas, transforming simple sketches and spoken commands (represented by glowing speech bubbles) into stunning images and short videos. Around the workshop, shelves are stocked with 'LEGO' bricks of different art styles and media assets. Subtle UI elements like a 'prompt-free' toggle and a local data lock icon are visible on a nearby workbench, emphasizing privacy and ease of use. The overall style is a bright, 3D isometric illustration with a clean, inviting aesthetic, showcasing the seamless integration of AI creativity and user intuition."
+    },
+    {
+        "id": 1039587768,
+        "name": "osaurus",
+        "description": "The missing macOS LLM server. Run local or cloud models with OpenAI & Anthropic compatible APIs. MCP server for Cursor & Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.",
+        "url": "https://github.com/dinoki-ai/osaurus",
+        "language": "Swift",
+        "stars": 1643,
+        "forks": 59,
+        "created_at": "2025-08-17T15:05:39Z",
+        "updated_at": "2025-12-16T04:50:49Z",
+        "topics": [
+            "anthropic",
+            "apple-foundation-models",
+            "apple-intelligence",
+            "apple-neural-engine",
+            "llm",
+            "mcp",
+            "mcp-server",
+            "mlx",
+            "openai",
+            "swift"
+        ],
+        "quality_score": 0.9,
+        "contributors_count": 0,
+        "last_commit_date": "2025-12-16T00:18:40Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/b8a3172da990c0717031b34814c92a4a6b45694dd894e66cc7647ae91a9eb010/dinoki-ai/osaurus"
+        ],
+        "homepage": "https://osaurus.ai",
+        "readme_summary": "Osaurus is a native macOS LLM server that allows users to run local or cloud-based language models. It provides OpenAI and Anthropic compatible APIs, supports the Model Context Protocol (MCP) for AI agents, and features a plugin system for extensibility, all optimized for Apple Silicon.",
+        "key_features": [
+            "MLX Runtime for optimized local inference on Apple Silicon",
+            "Support for remote LLM providers (OpenAI, Ollama, LM Studio, etc.)",
+            "OpenAI, Anthropic, and Ollama compatible API endpoints",
+            "MCP Server for exposing tools to AI agents",
+            "Plugin system for extending functionality with custom tools",
+            "Developer tools for debugging and API exploration",
+            "Integration with Apple Foundation Models on macOS 14+",
+            "Menu bar chat overlay with session history and context tracking",
+            "Model manager for downloading and managing models from Hugging Face"
+        ],
+        "primary_use_case": "To provide a unified, local LLM server experience on macOS, enabling seamless integration of local and remote models with existing AI tools and agents through compatible APIs and protocols.",
+        "open_issues": 5,
+        "cover_image_prompt": "A skilled artisan in a cozy, high-tech workshop on a macOS desktop, meticulously crafting intricate gears and circuits that represent different AI language models (local and cloud). The artisan is using a magical hammer that strikes sparks of data, assembling these components into a central, glowing orb that emits friendly chatbot-like speech bubbles and tool icons. Subtle UI elements of the Osaurus app, like a model manager and API explorer, are visible on a nearby screen. The overall mood is one of creation and integration, with a clean, modern aesthetic and soft, inviting lighting, rendered in a 3D isometric illustration style."
+    },
+    {
+        "id": 10126031,
+        "name": "mixxx",
+        "description": "Mixxx is Free DJ software that gives you everything you need to perform live mixes.",
+        "url": "https://github.com/mixxxdj/mixxx",
+        "language": "C++",
+        "stars": 6198,
+        "forks": 1544,
+        "created_at": "2013-05-17T15:14:38Z",
+        "updated_at": "2025-12-16T00:23:11Z",
+        "topics": [
+            "audio",
+            "dj",
+            "hid",
+            "linux",
+            "mac",
+            "midi",
+            "music",
+            "qt",
+            "windows"
+        ],
         "quality_score": 0.85,
         "contributors_count": 0,
-        "last_commit_date": "2025-11-26T02:32:11Z",
+        "last_commit_date": "2025-12-10T10:11:16Z",
         "media_urls": [
-            "https://repository-images.githubusercontent.com/371410731/4d213959-80c5-475f-a9e0-2052d4c437eb"
+            "https://opengraph.githubassets.com/4c52678fc129f2530c67bf0547a047362105266d21eb95e26769be9128b2ad3f/mixxxdj/mixxx"
         ],
-        "homepage": "https://esphome.github.io/esp-web-tools/",
-        "readme_summary": "ESP Web Tools provides a browser-based solution for flashing ESP microcontrollers with firmware like ESPHome. It automatically detects the target board and simplifies the firmware installation process.",
+        "homepage": "http://mixxx.org",
+        "readme_summary": "Mixxx is a free and open-source DJ software available for Windows, macOS, and Linux. It provides a comprehensive set of tools for performing live DJ mixes, supporting various audio formats and hardware controllers.",
         "key_features": [
-            "Browser-based flashing of ESP devices",
-            "Automatic board detection",
-            "Support for ESPHome and other ESP firmwares",
-            "Web component for easy integration"
+            "Live DJ mixing performance",
+            "Cross-platform compatibility (GNU/Linux, Windows, macOS)",
+            "Support for various audio formats",
+            "Hardware controller integration (MIDI/HID)",
+            "Building from source code"
         ],
-        "primary_use_case": "To enable users to flash ESP microcontrollers with firmware directly from their web browser without requiring separate desktop applications.",
-        "open_issues": 51,
-        "cover_image_prompt": "A friendly, stylized robot hand holding a small ESP microcontroller. The robot hand is connected to a glowing web browser window, from which digital streams of firmware code are flowing into the microcontroller. The microcontroller itself is depicted as a small, glowing 'brain' with circuits lighting up, symbolizing it being powered and programmed. In the background, a subtle network of interconnected nodes suggests connectivity and the browser interface. The overall mood is bright, clean, and futuristic, with a focus on ease of use and direct digital connection. The style should be a clean, 3D isometric illustration with vibrant, tech-inspired colors."
-    },
-    {
-        "id": 961639702,
-        "name": "quickvoice_mcp",
-        "description": "MCP Server for QuickVoice.app",
-        "url": "https://github.com/rexanity/quickvoice_mcp",
-        "language": "Python",
-        "stars": 10,
-        "forks": 1,
-        "created_at": "2025-04-06T23:16:13Z",
-        "updated_at": "2025-12-15T01:35:59Z",
-        "topics": [],
-        "quality_score": 0.15,
-        "contributors_count": 0,
-        "last_commit_date": "2025-04-09T06:45:47Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/a051b1382a6982d506bb3f87b81e10e630a72c3885d92d1cf3070b50f2e82ceb/rexanity/quickvoice_mcp"
-        ],
-        "homepage": "https://quickvoice.app",
-        "readme_summary": "QuickVoice MCP is a Python-based server that enables AI voice agents to make outbound phone calls. It integrates with platforms like Claude Desktop, allowing users to initiate calls using natural language prompts and manage agent configurations via a web interface.",
-        "key_features": [
-            "Initiate Call Tool for outbound calls using QuickVoice AI agents",
-            "Integration with Claude Desktop for natural language call initiation",
-            "Web interface for agent management, call history, and analytics",
-            "Dockerized deployment for easy setup",
-            "Configuration via environment variables or MCP config file"
-        ],
-        "primary_use_case": "Enabling AI agents to make automated phone calls based on user instructions.",
-        "open_issues": 0,
-        "cover_image_prompt": "A friendly, anthropomorphic robot holding a vintage telephone receiver, with sound waves transforming into clear, spoken words that are then directed towards a stylized map with glowing phone icons. The robot is standing in a clean, modern control room with subtle UI elements displaying call logs and agent status in the background. The overall mood is helpful and efficient, with a bright, inviting color palette. The art style should be a 3D isometric illustration, emphasizing clarity and approachability, with the repository name 'QuickVoice MCP' subtly integrated into a digital display."
-    },
-    {
-        "id": 1046855459,
-        "name": "ShadeOfColor2",
-        "description": "A simple cross-platform tool to hide files inside PNG images",
-        "url": "https://github.com/archistico/ShadeOfColor2",
-        "language": "C#",
-        "stars": 172,
-        "forks": 16,
-        "created_at": "2025-08-29T10:35:16Z",
-        "updated_at": "2025-12-15T02:13:03Z",
-        "topics": [],
-        "quality_score": 0.15,
-        "contributors_count": 0,
-        "last_commit_date": "2025-08-29T20:16:48Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/e7dce99002e9d1b4ebb949dccb0a1af3d11481449b744a6caf4c7226d960b721/archistico/ShadeOfColor2"
-        ],
-        "homepage": null,
-        "readme_summary": "ShadeOfColor is a cross-platform C# tool that allows users to hide any file within a PNG image and later extract the original file. It embeds metadata like original file size, name, and a SHA1 hash for integrity checks, making it useful for circumventing file restrictions or adding a layer of privacy.",
-        "key_features": [
-            "Two-way conversion (file to PNG image, PNG image to file)",
-            "Embedded metadata (signature, original file size, original filename, SHA1 hash)",
-            "Cross-platform compatibility (Windows, Linux, macOS) via ImageSharp",
-            "Integrity check for file corruption or tampering"
-        ],
-        "primary_use_case": "Hiding arbitrary files within PNG images for secure or restricted data transfer and storage.",
-        "open_issues": 0,
-        "cover_image_prompt": "A skilled artisan carefully placing a tiny, intricate key (representing a secret file) into the weave of a large, vibrant tapestry (representing a PNG image). The artisan uses specialized tools that subtly resemble code or digital interfaces. The tapestry looks like a normal, beautiful piece of art from a distance, but a magnifying glass held by an unseen observer reveals the hidden key within its threads. The background is a softly lit workshop with subtle digital particles floating in the air, hinting at the underlying technology. The overall mood is one of cleverness and hidden potential. The image should be in a 3D isometric illustration style with a clean composition and a focus on the contrast between the hidden and the visible."
-    },
-    {
-        "id": 1027340108,
-        "name": "QueryWeaver",
-        "description": "An open-source Text2SQL tool that transforms natural language into SQL using graph-powered schema understanding. Ask your database questions in plain English, QueryWeaver handles the weaving.",
-        "url": "https://github.com/FalkorDB/QueryWeaver",
-        "language": "Python",
-        "stars": 267,
-        "forks": 27,
-        "created_at": "2025-07-27T20:21:51Z",
-        "updated_at": "2025-12-14T21:51:47Z",
-        "topics": [
-            "falkordb",
-            "semantic-layer",
-            "text2sql"
-        ],
-        "quality_score": 1.1000000000000003,
-        "contributors_count": 0,
-        "last_commit_date": "2025-11-27T10:00:17Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/a9e6e87369f480a822ed088c3cb024d496398baee5e7591b5e1742aaa6a2e3ea/FalkorDB/QueryWeaver"
-        ],
-        "homepage": "https://app.queryweaver.ai",
-        "readme_summary": "QueryWeaver is an open-source Text2SQL tool that leverages graph-powered schema understanding to convert natural language questions into SQL queries. It allows users to interact with databases using plain English and can return both the generated SQL and the query results.",
-        "key_features": [
-            "Text2SQL conversion",
-            "Graph-powered schema understanding",
-            "REST API",
-            "Docker support",
-            "Model Context Protocol (MCP) support",
-            "Swagger UI for API documentation"
-        ],
-        "primary_use_case": "Enabling users to query databases using natural language by converting English questions into SQL.",
-        "open_issues": 31,
-        "cover_image_prompt": "A wise, ancient librarian standing at a grand desk, holding a glowing, intricate tapestry that represents a database schema. With a gentle gesture, the librarian transforms a spoken question, visualized as a wispy cloud of words, into a perfectly formed, elegant SQL query, depicted as a precisely drawn blueprint unfurling from the tapestry. Small, subtle digital particles and faint code snippets float around the scene, hinting at the underlying technology. The background is a cozy, modern study with soft, inviting light. The overall style is a 3D isometric illustration with rich textures and a warm color palette, emphasizing clarity and intelligence."
+        "primary_use_case": "Performing live DJ mixes with digital audio.",
+        "open_issues": 2336,
+        "cover_image_prompt": "A vibrant, energetic scene of a DJ booth where a skilled DJ is seamlessly blending two distinct musical landscapes. One landscape is represented by a flowing river of digital audio waveforms, and the other by a pulsating network of glowing MIDI signals. The DJ, depicted as a conductor of sound, uses intuitive hand gestures to guide these elements into a harmonious mix, creating a mesmerizing visual spectacle. Subtle UI elements of Mixxx, like track waveforms and control knobs, are integrated into the background. The overall mood is dynamic and celebratory, with a focus on the seamless fusion of technology and musical artistry. The style should be a 3D isometric illustration with bright, contrasting colors and a clean, modern aesthetic."
     }
 ]

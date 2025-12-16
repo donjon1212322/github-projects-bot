@@ -1,30 +1,44 @@
 [
     {
-        "project_id": 371410731,
-        "content": "🚀 <b>esp-web-tools</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to flash ESP microcontrollers with firmware directly from their web browser without requiring separate desktop applications.\n<br>\n✨ <b>Key Features:</b>\n• Browser-based flashing of ESP devices\n• Automatic board detection\n• Support for ESPHome and other ESP firmwares\n• Web component for easy integration\n<br>\n📖 <b>Summary:</b>\nESP Web Tools provides a browser-based solution for flashing ESP microcontrollers with firmware like ESPHome. It automatically detects the target board and simplifies the firmware installation process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/esphome/esp-web-tools?embed=0\">View Project</a>\n• <a href=\"https://esphome.github.io/esp-web-tools/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/371410731/4d213959-80c5-475f-a9e0-2052d4c437eb",
+        "project_id": 1014967383,
+        "content": "✨ <b>StreamDiffusionV2</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling real-time, interactive video generation for streaming applications.\n<br>\n✨ <b>Key Features:</b>\n• Real-time streaming applications\n• Interactive diffusion pipeline\n• Scalable across diverse GPU setups\n• Flexible denoising steps\n• High FPS output\n<br>\n📖 <b>Summary:</b>\nStreamDiffusionV2 is an open-source interactive diffusion pipeline designed for real-time streaming applications. It offers scalability across various GPU configurations, adjustable denoising steps, and high frame rates to enhance user experience for creators and platforms.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/chenfengxu714/StreamDiffusionV2?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0aee7e7c33b52ef9671eae49576cc838250dc300ae4e73d8b63a248ad5388193/chenfengxu714/StreamDiffusionV2",
+        "platform": "telegram",
+        "quality_score": 0.6499999999999999
+    },
+    {
+        "project_id": 503403377,
+        "content": "💡 <b>guarddog</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enhance software supply chain security by automatically detecting and flagging potentially malicious code within open-source packages and extensions before they are integrated into development workflows.\n<br>\n✨ <b>Key Features:</b>\n• Identifies malicious PyPI and npm packages\n• Scans Go modules, GitHub actions, and VSCode extensions\n<br>\n📖 <b>Summary:</b>\nGuardDog is a command-line interface tool designed to detect malicious packages across various ecosystems including PyPI, npm, Go, GitHub Actions, and VSCode extensions. It employs both source code analysis using Semgrep rules and package metadata heuristics to identify security threats.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DataDog/guarddog?embed=0\">View Project</a>\n• <a href=\"https://securitylabs.datadoghq.com/articles/guarddog-identify-malicious-pypi-packages/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/79fde46d4921f0008c181781130dae79a50d5ee3780a1190719aa1193d99993d/DataDog/guarddog",
+        "platform": "telegram",
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 332179255,
+        "content": "✨ <b>esp8266-deerma-humidifier</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable local, cloud-free control and integration of the Xiaomi Mi Smart Antibacterial Humidifier with smart home systems like Home Assistant.\n<br>\n✨ <b>Key Features:</b>\n• Cloud-free operation via local MQTT control\n• Replaces original firmware on ESP8285 module\n• Home Assistant Autodiscovery support\n• WifiManager for on-the-fly configuration\n• ArduinoOTA for wireless firmware updates\n<br>\n📖 <b>Summary:</b>\nThis repository provides custom firmware for the Xiaomi Mi Smart Antibacterial Humidifier (deerma.humidifier.jsq). It replaces the original cloud-dependent firmware with a local MQTT-based control system, enabling cloud-free operation and integration with platforms like Home Assistant.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Hypfer/esp8266-deerma-humidifier?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/332179255/82c31500-5e36-11eb-8ede-550ed8111901",
+        "platform": "telegram",
+        "quality_score": 0.45
+    },
+    {
+        "project_id": 994252890,
+        "content": "✨ <b>jaaz</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a local, privacy-respecting, AI-powered creative tool for generating images and videos, similar to Canva but with advanced AI capabilities and prompt-free interaction.\n<br>\n✨ <b>Key Features:</b>\n• One-Prompt Image & Video Generation\n• Magic Canvas & Magic Video (Prompt-free creation)\n• Infinite Canvas & Visual Storyboarding\n<br>\n📖 <b>Summary:</b>\nJaaz is an open-source, privacy-focused multimodal creative assistant that functions as a local alternative to tools like Canva and Manus. It enables users to generate images and videos from single prompts, utilize a prompt-free 'Magic Canvas' for intuitive creation, and manage visual storyboards on an infinite canvas, all powered by a smart AI agent system.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/11cafe/jaaz?embed=0\">View Project</a>\n• <a href=\"https://jaaz.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/994252890/6ccfae03-a7a8-4f43-8698-7e8aa684291d",
+        "platform": "telegram",
+        "quality_score": 0.8500000000000001
+    },
+    {
+        "project_id": 1039587768,
+        "content": "🚀 <b>osaurus</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a unified, local LLM server experience on macOS, enabling seamless integration of local and remote models with existing AI tools and agents through compatible APIs and protocols.\n<br>\n✨ <b>Key Features:</b>\n• MLX Runtime for optimized local inference on Apple Silicon\n• Support for remote LLM providers (OpenAI, Ollama, LM Studio, etc.)\n• OpenAI, Anthropic, and Ollama compatible API endpoints\n<br>\n📖 <b>Summary:</b>\nOsaurus is a native macOS LLM server that allows users to run local or cloud-based language models. It provides OpenAI and Anthropic compatible APIs, supports the Model Context Protocol (MCP) for AI agents, and features a plugin system for extensibility, all optimized for Apple Silicon.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dinoki-ai/osaurus?embed=0\">View Project</a>\n• <a href=\"https://osaurus.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b8a3172da990c0717031b34814c92a4a6b45694dd894e66cc7647ae91a9eb010/dinoki-ai/osaurus",
+        "platform": "telegram",
+        "quality_score": 0.9
+    },
+    {
+        "project_id": 10126031,
+        "content": "💡 <b>mixxx</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nPerforming live DJ mixes with digital audio.\n<br>\n✨ <b>Key Features:</b>\n• Live DJ mixing performance\n• Cross-platform compatibility (GNU/Linux, Windows, macOS)\n• Support for various audio formats\n• Hardware controller integration (MIDI/HID)\n• Building from source code\n<br>\n📖 <b>Summary:</b>\nMixxx is a free and open-source DJ software available for Windows, macOS, and Linux. It provides a comprehensive set of tools for performing live DJ mixes, supporting various audio formats and hardware controllers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mixxxdj/mixxx?embed=0\">View Project</a>\n• <a href=\"http://mixxx.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4c52678fc129f2530c67bf0547a047362105266d21eb95e26769be9128b2ad3f/mixxxdj/mixxx",
         "platform": "telegram",
         "quality_score": 0.85
-    },
-    {
-        "project_id": 961639702,
-        "content": "✨ <b>quickvoice_mcp</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling AI agents to make automated phone calls based on user instructions.\n<br>\n✨ <b>Key Features:</b>\n• Initiate Call Tool for outbound calls using QuickVoice AI agents\n• Integration with Claude Desktop for natural language call initiation\n• Web interface for agent management, call history, and analytics\n• Dockerized deployment for easy setup\n• Configuration via environment variables or MCP config file\n<br>\n📖 <b>Summary:</b>\nQuickVoice MCP is a Python-based server that enables AI voice agents to make outbound phone calls. It integrates with platforms like Claude Desktop, allowing users to initiate calls using natural language prompts and manage agent configurations via a web interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rexanity/quickvoice_mcp?embed=0\">View Project</a>\n• <a href=\"https://quickvoice.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a051b1382a6982d506bb3f87b81e10e630a72c3885d92d1cf3070b50f2e82ceb/rexanity/quickvoice_mcp",
-        "platform": "telegram",
-        "quality_score": 0.15
-    },
-    {
-        "project_id": 1046855459,
-        "content": "🌟 <b>ShadeOfColor2</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nHiding arbitrary files within PNG images for secure or restricted data transfer and storage.\n<br>\n✨ <b>Key Features:</b>\n• Two-way conversion (file to PNG image, PNG image to file)\n• Embedded metadata (signature, original file size, original filename, SHA1 hash)\n• Cross-platform compatibility (Windows, Linux, macOS) via ImageSharp\n• Integrity check for file corruption or tampering\n<br>\n📖 <b>Summary:</b>\nShadeOfColor is a cross-platform C# tool that allows users to hide any file within a PNG image and later extract the original file. It embeds metadata like original file size, name, and a SHA1 hash for integrity checks, making it useful for circumventing file restrictions or adding a layer of privacy.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/archistico/ShadeOfColor2?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e7dce99002e9d1b4ebb949dccb0a1af3d11481449b744a6caf4c7226d960b721/archistico/ShadeOfColor2",
-        "platform": "telegram",
-        "quality_score": 0.15
-    },
-    {
-        "project_id": 1027340108,
-        "content": "✨ <b>QueryWeaver</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling users to query databases using natural language by converting English questions into SQL.\n<br>\n✨ <b>Key Features:</b>\n• Text2SQL conversion\n• Graph-powered schema understanding\n• REST API\n• Docker support\n• Model Context Protocol (MCP) support\n<br>\n📖 <b>Summary:</b>\nQueryWeaver is an open-source Text2SQL tool that leverages graph-powered schema understanding to convert natural language questions into SQL queries. It allows users to interact with databases using plain English and can return both the generated SQL and the query results.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/FalkorDB/QueryWeaver?embed=0\">View Project</a>\n• <a href=\"https://app.queryweaver.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a9e6e87369f480a822ed088c3cb024d496398baee5e7591b5e1742aaa6a2e3ea/FalkorDB/QueryWeaver",
-        "platform": "telegram",
-        "quality_score": 1.1000000000000003
     }
 ]
