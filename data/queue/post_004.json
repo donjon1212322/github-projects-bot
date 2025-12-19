@@ -1,7 +1,7 @@
 {
-    "project_id": 1092562478,
-    "content": "✨ <b>gitlogue</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nVisualizing and replaying Git commit history in a cinematic and animated way within the terminal.\n<br>\n✨ <b>Key Features:</b>\n• Commit Replay as Animation\n• Working Tree Diff View\n• Tree-sitter Syntax Highlighting\n• Project File Tree\n• Screensaver Mode\n<br>\n📖 <b>Summary:</b>\ngitlogue is a terminal-based tool that transforms your Git commit history into a cinematic, animated replay. It visualizes code changes with realistic typing animations, syntax highlighting, and file tree transitions, making the evolution of code an engaging visual experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/unhappychoice/gitlogue?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://repository-images.githubusercontent.com/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33",
+    "project_id": 995113401,
+    "content": "✨ <b>unregistry</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nEfficiently deploying Docker images to remote servers without the overhead of managing a container registry.\n<br>\n✨ <b>Key Features:</b>\n• Push Docker images directly to remote servers over SSH\n• Transfers only missing image layers for efficiency\n• Eliminates the need for external or self-hosted registries\n• Acts as a lightweight, temporary registry on the remote server\n• Integrates with Docker CLI via a plugin\n<br>\n📖 <b>Summary:</b>\nUnregistry is a tool that allows users to push Docker images directly to remote servers over SSH without needing an external container registry. It efficiently transfers only the missing image layers, acting like an 'rsync' for Docker images.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/psviderski/unregistry?embed=0\">View Project</a>\n• <a href=\"https://uncloud.run?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/9151667aec7aeb60d8db94674460df08f584900abbc498148e6320f2713d5086/psviderski/unregistry",
     "platform": "telegram",
-    "quality_score": 1.0000000000000002
+    "quality_score": 0.85
 }

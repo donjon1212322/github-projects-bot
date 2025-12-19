@@ -1,194 +1,176 @@
 [
     {
-        "id": 415288408,
-        "name": "signalbot",
-        "description": "Micro framework to create your own signal bots.",
-        "url": "https://github.com/filipre/signalbot",
-        "language": "Python",
-        "stars": 218,
-        "forks": 44,
-        "created_at": "2021-10-09T11:22:52Z",
-        "updated_at": "2025-12-18T00:27:54Z",
-        "topics": [],
-        "quality_score": 0.95,
-        "contributors_count": 0,
-        "last_commit_date": "2025-12-17T21:31:28Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/1909ad533eb7d73ddf29b48e6ad5d1aa20128dccfb2e4bd073af6910b96dae46/filipre/signalbot"
-        ],
-        "homepage": null,
-        "readme_summary": "Signalbot is a Python micro-framework designed to simplify the creation of custom Signal bots. It allows developers to easily define commands and integrate them with the signal-cli-rest-api to send and receive messages programmatically.",
-        "key_features": [
-            "Python package for creating Signal bots",
-            "Minimal example provided for quick setup",
-            "Command registration system",
-            "Integration with signal-cli-rest-api",
-            "Asynchronous command handling"
-        ],
-        "primary_use_case": "Developing custom automated messaging bots for the Signal platform.",
-        "open_issues": 7,
-        "cover_image_prompt": "A friendly robot assistant, resembling a messenger pigeon, is perched on a digital branch. It's holding a glowing scroll with a Signal logo, about to deliver it. Below, a stylized representation of a Signal chat interface shows incoming messages being automatically processed and outgoing messages being sent. Subtle data streams flow between the robot and the chat interface, indicating communication. The background is a clean, modern digital landscape. The overall style is a 3D isometric illustration with soft, inviting lighting and a color palette of blues, greens, and whites, emphasizing efficiency and helpful automation. The repository name 'Signalbot' is subtly integrated into the digital landscape."
-    },
-    {
-        "id": 591227814,
-        "name": "tlosint-vm",
-        "description": "Trace Labs OSINT VM",
-        "url": "https://github.com/tracelabs/tlosint-vm",
-        "language": "Shell",
-        "stars": 471,
-        "forks": 49,
-        "created_at": "2023-01-20T08:28:42Z",
-        "updated_at": "2025-12-18T05:02:30Z",
-        "topics": [],
-        "quality_score": 0.85,
-        "contributors_count": 0,
-        "last_commit_date": "2025-12-18T03:27:49Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/062c2f86b3c12957d5772e4b53d3990353876e2b030bc6f4a011be04f60bda4e/tracelabs/tlosint-vm"
-        ],
-        "homepage": null,
-        "readme_summary": "The tlosint-vm repository provides a pre-built Kali Linux virtual machine distribution tailored for OSINT (Open Source Intelligence) tasks, based on the Kali VM build scripts. It also offers a standalone script to customize Kali or Debian-based systems with a curated set of OSINT tools and Firefox hardening.",
-        "key_features": [
-            "Pre-built Kali Linux OSINT VM image (OVA format for VirtualBox and VMware)",
-            "Standalone script (tlosint-tools.sh) for on-demand OSINT tool installation on Kali/Debian",
-            "Includes curated OSINT tools like Shodan CLI, Sherlock, PhoneInfoga, SpiderFoot, etc.",
-            "Applies Firefox hardening for enhanced privacy and security",
-            "Provides default login credentials for the pre-built VM",
-            "Includes integrity verification steps (SHA256 checksums)"
-        ],
-        "primary_use_case": "To provide a ready-to-use virtual machine environment pre-loaded with essential OSINT tools and configurations, or to allow users to easily install and update these tools on their existing Kali/Debian systems.",
-        "open_issues": 23,
-        "cover_image_prompt": "A digital cartographer in a dimly lit, high-tech study, meticulously assembling a complex map from scattered digital fragments and glowing data streams. The cartographer uses a magnifying glass that reveals intricate network connections and hidden information within the fragments. The map itself is a vibrant, evolving entity, showing interconnected points of interest and pathways. Subtle UI elements displaying code snippets and data visualizations are integrated into the desk and surrounding screens. The overall mood is one of discovery and deep investigation. The style should be a 3D isometric illustration with a dark, atmospheric color palette and glowing accents, emphasizing the 'piecing together' of information."
-    },
-    {
-        "id": 44455683,
-        "name": "keeweb",
-        "description": "Free cross-platform password manager compatible with KeePass",
-        "url": "https://github.com/keeweb/keeweb",
-        "language": "HTML",
-        "stars": 12812,
-        "forks": 1131,
-        "created_at": "2015-10-17T21:41:47Z",
-        "updated_at": "2025-12-18T03:37:21Z",
+        "id": 1052117260,
+        "name": "BlogBowl",
+        "description": "Open-source plug-and-play blogging platform. Launch SEO-friendly blogs, changelogs, and write newsletters without coding. 🔥",
+        "url": "https://github.com/BlogBowl/BlogBowl",
+        "language": "Ruby",
+        "stars": 105,
+        "forks": 19,
+        "created_at": "2025-09-07T12:47:30Z",
+        "updated_at": "2025-12-18T20:58:01Z",
         "topics": [
-            "electron",
-            "javascript",
-            "keepass",
-            "keeweb",
-            "password",
-            "password-manager",
-            "security"
-        ],
-        "quality_score": 0.55,
-        "contributors_count": 0,
-        "last_commit_date": "2024-12-23T11:36:25Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/44455683/c7299e80-3253-11eb-904b-6a48a6156585"
-        ],
-        "homepage": "https://keeweb.info",
-        "readme_summary": "KeeWeb is a cross-platform password manager that allows users to manage their credentials in `kdbx` files, compatible with KeePass. It can be used as a browser extension or a desktop application, and supports integration with cloud storage services.",
-        "key_features": [
-            "Browser and desktop password manager",
-            "Compatible with KeePass `kdbx` files",
-            "Create new password vaults",
-            "Cross-platform support (Linux, Windows, MacOS)",
-            "Cloud storage integration (Dropbox, Google Drive, OneDrive)",
-            "Self-hosting options via Docker"
-        ],
-        "primary_use_case": "Securely managing and accessing passwords across different platforms and devices, with compatibility for existing KeePass databases.",
-        "open_issues": 422,
-        "cover_image_prompt": "A wise, old librarian meticulously organizing a vast, glowing library of keys, each key representing a password. The librarian is placing a newly acquired, intricate key into a secure, transparent vault labeled 'KeeWeb'. Around the vault, smaller, stylized icons of cloud services (Dropbox, Google Drive, OneDrive) are visible, with data streams flowing from them towards the vault. In the background, subtle outlines of different operating systems (desktop, browser window) are depicted. The overall mood is secure and organized, with a clean, digital painting style and a color palette of deep blues and glowing golds."
-    },
-    {
-        "id": 209313689,
-        "name": "tracee",
-        "description": "Linux Runtime Security and Forensics using eBPF",
-        "url": "https://github.com/aquasecurity/tracee",
-        "language": "Go",
-        "stars": 4296,
-        "forks": 476,
-        "created_at": "2019-09-18T13:20:17Z",
-        "updated_at": "2025-12-17T20:39:44Z",
-        "topics": [
-            "bpf",
-            "docker",
-            "ebpf",
-            "golang",
-            "kubernetes",
-            "linux",
-            "runtime-security",
-            "security"
-        ],
-        "quality_score": 0.7999999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-12-17T14:27:37Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/2f7f68b0fdcb6c8407082f604d04ff40ea44b0c725a5e2b04c24a6e2a21ac787/aquasecurity/tracee"
-        ],
-        "homepage": "https://aquasecurity.github.io/tracee/latest",
-        "readme_summary": "Tracee is an open-source eBPF-based tool for Linux runtime security and observability. It monitors system and application behavior, exposing activities as events, including sophisticated security detections of suspicious patterns.",
-        "key_features": [
-            "Runtime security monitoring",
-            "Observability using eBPF",
-            "Event generation (system activity and security patterns)",
-            "Docker support",
-            "Kubernetes support"
-        ],
-        "primary_use_case": "Monitoring and securing Linux systems and applications at runtime by detecting and reporting on system and security events.",
-        "open_issues": 123,
-        "cover_image_prompt": "A vigilant digital guardian, represented by a stylized, glowing silhouette of a human figure, stands at the entrance of a bustling digital city. The guardian holds a magnifying glass that reveals the inner workings of data packets flowing into the city, highlighting suspicious activities with a red glow while allowing safe data to pass with a green aura. Subtle UI elements displaying event logs and security alerts are integrated into the city's architecture. The scene is rendered in a clean, 3D isometric illustration style with a futuristic, slightly dark aesthetic, emphasizing clarity and security. The repository name 'Tracee' is subtly etched on the guardian's shield."
-    },
-    {
-        "id": 1092562478,
-        "name": "gitlogue",
-        "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
-        "url": "https://github.com/unhappychoice/gitlogue",
-        "language": "Rust",
-        "stars": 3682,
-        "forks": 83,
-        "created_at": "2025-11-08T21:22:33Z",
-        "updated_at": "2025-12-18T04:23:07Z",
-        "topics": [
-            "cli",
-            "cli-tool",
-            "code-animation",
-            "commit-history",
-            "developer-tools",
-            "git",
-            "git-history",
-            "git-visualization",
-            "productivity",
-            "ratatui",
-            "rust",
-            "screensaver",
-            "syntax-highlighting",
-            "terminal",
-            "terminal-app",
-            "terminal-based",
-            "terminal-screensaver",
-            "tree-sitter",
-            "tui",
-            "visualization"
+            "blog",
+            "changelog",
+            "helpdocs",
+            "newsletter"
         ],
         "quality_score": 1.0000000000000002,
         "contributors_count": 0,
-        "last_commit_date": "2025-12-16T12:06:36Z",
+        "last_commit_date": "2025-12-12T20:34:54Z",
         "media_urls": [
-            "https://repository-images.githubusercontent.com/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33"
+            "https://opengraph.githubassets.com/ef0f1f292409edeb7b6370bb4576b2d8e7a601035fcf2f387f2e1dc4b7d5c024/BlogBowl/BlogBowl"
         ],
-        "homepage": "",
-        "readme_summary": "gitlogue is a terminal-based tool that transforms your Git commit history into a cinematic, animated replay. It visualizes code changes with realistic typing animations, syntax highlighting, and file tree transitions, making the evolution of code an engaging visual experience.",
+        "homepage": "https://www.blogbowl.io/blog-hosting",
+        "readme_summary": "BlogBowl is an open-source, self-hosted blogging platform that allows users to quickly launch SEO-optimized blogs, product changelogs, and help documentation without coding. It features a Notion-like editor, built-in newsletter capabilities with Postmark integration, and support for custom domains.",
         "key_features": [
-            "Commit Replay as Animation",
-            "Working Tree Diff View",
-            "Tree-sitter Syntax Highlighting",
-            "Project File Tree",
-            "Screensaver Mode",
-            "Themes",
-            "Fast & Lightweight"
+            "Launch a full-featured blog or help center in minutes",
+            "Prebuilt SEO-optimized and lightning-fast templates",
+            "Notion-like editor",
+            "Built-in newsletter support with Postmark integration",
+            "Custom domain support",
+            "Subscriber collection",
+            "Newsletter management and sending"
         ],
-        "primary_use_case": "Visualizing and replaying Git commit history in a cinematic and animated way within the terminal.",
-        "open_issues": 7,
-        "cover_image_prompt": "A vintage film projector is set up in a dimly lit, cozy study. Instead of a movie screen, the projector beams a dynamic, animated visualization of code unfolding, complete with syntax highlighting and file tree transitions, directly onto a wall. The projected code appears as if being typed in real-time, with subtle digital particles flowing from the projector. The repository name 'gitlogue' is subtly etched onto the side of the projector. The overall mood is one of discovery and storytelling, with a warm, inviting glow emanating from the projected code. The style is a 3D isometric illustration with a focus on atmospheric lighting and clear visual storytelling."
+        "primary_use_case": "Creating and managing blogs, changelogs, and help documentation without requiring coding knowledge.",
+        "open_issues": 1,
+        "cover_image_prompt": "A friendly, stylized 'bowl' character made of polished wood, sitting at a clean desk. The bowl is actively pouring out a stream of vibrant, glowing content – like blog posts, news articles, and help guides – onto a digital landscape. In the background, subtle icons representing SEO, speed, and email newsletters float gently. Small, clean UI elements resembling a simple editor and subscriber list are visible on the desk. The overall scene is bright, inviting, and uses a 3D isometric illustration style with a warm color palette, conveying ease of use and content creation."
+    },
+    {
+        "id": 594784624,
+        "name": "squirreldisk",
+        "description": "Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀",
+        "url": "https://github.com/adileo/squirreldisk",
+        "language": "TypeScript",
+        "stars": 1415,
+        "forks": 46,
+        "created_at": "2023-01-29T16:29:58Z",
+        "updated_at": "2025-12-19T05:20:34Z",
+        "topics": [],
+        "quality_score": 0.55,
+        "contributors_count": 0,
+        "last_commit_date": "2023-02-25T15:00:17Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/a3e1fb9d0574e493a236720fd29155a718579b8a15c9ceac592ab0f4c149035e/adileo/squirreldisk"
+        ],
+        "homepage": "https://squirreldisk.com",
+        "readme_summary": "SquirrelDisk is a cross-platform desktop application built with Rust and React (Tauri) for analyzing disk usage. It quickly scans directories or entire disks to identify large files and folders, presenting the information through an intuitive sunburst chart and allowing users to manage files directly.",
+        "key_features": [
+            "Fast scan and deep directory scanning",
+            "Disk scanning or pick a directory",
+            "External disks real-time detection",
+            "Sunburst chart visualization",
+            "Drag and drop for deletion collection",
+            "Right-click to open in file explorer",
+            "Cross-Platform (macOS, Windows, Linux)",
+            "Auto-updater"
+        ],
+        "primary_use_case": "Analyzing disk space usage to identify and manage large files and folders.",
+        "open_issues": 46,
+        "cover_image_prompt": "A friendly squirrel, named 'SquirrelDisk', diligently sorting and organizing a massive pile of acorns (representing files and folders) in a vibrant, stylized forest clearing. Some acorns are unusually large and glow with a soft light, indicating they are taking up the most space. The squirrel is using a magnifying glass to examine a particularly large acorn, and a small, clean UI element resembling a sunburst chart is subtly integrated into the scene, showing the distribution of acorn sizes. The background features subtle digital particles and a hint of code-like patterns in the tree bark. The overall mood is helpful and efficient, with bright, clear lighting. 3D isometric illustration style with clean lines and a focus on the squirrel and its task."
+    },
+    {
+        "id": 952421420,
+        "name": "nl2sql",
+        "description": null,
+        "url": "https://github.com/Kurukshetran/nl2sql",
+        "language": "Python",
+        "stars": 2,
+        "forks": 0,
+        "created_at": "2025-03-21T08:54:48Z",
+        "updated_at": "2025-08-26T05:59:21Z",
+        "topics": [],
+        "quality_score": 0.15,
+        "contributors_count": 0,
+        "last_commit_date": "2025-03-21T11:43:00Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/b4e844aaac70ea98de391707dcdc5f8902b3184c42fee5cde93bb414d0be9e47/Kurukshetran/nl2sql"
+        ],
+        "homepage": null,
+        "readme_summary": "This Python project facilitates the conversion of natural language questions into executable SQL queries. It leverages OpenAI's language models and includes features for automatic database schema detection, query validation, and error handling to streamline data interaction.",
+        "key_features": [
+            "Natural language to SQL conversion",
+            "Automatic database schema detection",
+            "Case-sensitive table name handling",
+            "Query validation before execution",
+            "Smart schema filtering based on context",
+            "Error handling with helpful suggestions"
+        ],
+        "primary_use_case": "Converting natural language questions into SQL queries for database interaction.",
+        "open_issues": 0,
+        "cover_image_prompt": "A wise old librarian standing at a grand, ancient desk, holding a magical quill. The librarian is looking at a user's spoken question, represented by a glowing speech bubble. The quill hovers over an open book filled with complex database schemas, and as the librarian writes, the quill transforms the natural language into a perfectly formed SQL query, which then flows like a stream of light into a database icon. Subtle digital particles and glowing lines connect the speech bubble, the quill, and the database. The scene is set in a cozy, dimly lit study with shelves of books. The image should be in a 3D isometric illustration style with a warm, inviting color palette and clear, readable elements."
+    },
+    {
+        "id": 177215149,
+        "name": "learning-roadmap",
+        "description": "The Front-End Developer Learning Roadmap by Frontend Masters",
+        "url": "https://github.com/FrontendMasters/learning-roadmap",
+        "language": "HTML",
+        "stars": 1043,
+        "forks": 130,
+        "created_at": "2019-03-22T22:08:16Z",
+        "updated_at": "2025-12-19T05:13:45Z",
+        "topics": [
+            "front-end",
+            "front-end-development",
+            "frontend",
+            "learning",
+            "roadmap"
+        ],
+        "quality_score": 0.45,
+        "contributors_count": 0,
+        "last_commit_date": "2021-06-02T16:08:03Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/2de7f422c7dcc2e713ca1aefc06b5f11ac939357406d88a64a2149ea4559827f/FrontendMasters/learning-roadmap"
+        ],
+        "homepage": "https://frontendmasters.com/guides/learning-roadmap/",
+        "readme_summary": "This repository provides a curated learning roadmap for aspiring and practicing Front-End Developers. It outlines essential web technologies, tools, and resources needed to learn and excel in front-end engineering, updated annually.",
+        "key_features": [
+            "Curated learning roadmap for Front-End Developers",
+            "Covers essential web technologies (HTML, CSS, DOM, JavaScript)",
+            "References best-in-class and current tools and resources",
+            "Focuses on a terse, timely, and non-overwhelming curation",
+            "Intended for yearly content updates"
+        ],
+        "primary_use_case": "To serve as a structured guide for individuals learning or advancing their skills in front-end development.",
+        "open_issues": 2,
+        "cover_image_prompt": "A wise, ancient librarian meticulously organizing a vast, glowing library of knowledge. Each book represents a different front-end technology (HTML, CSS, JavaScript). The librarian is pointing a magical quill, drawing a clear, illuminated path from a beginner's desk, laden with foundational books, towards a vibrant, futuristic city skyline representing a professional career. Subtle digital particles representing code flow around the librarian and the path. The scene is set in a warm, inviting study with soft, ambient lighting. The overall composition is clean and focused, emphasizing the journey of learning. The style should be a 3D isometric illustration with rich details and a clear, inspiring color palette."
+    },
+    {
+        "id": 995113401,
+        "name": "unregistry",
+        "description": "Push docker images directly to remote servers without an external registry",
+        "url": "https://github.com/psviderski/unregistry",
+        "language": "Go",
+        "stars": 4175,
+        "forks": 69,
+        "created_at": "2025-06-03T01:48:51Z",
+        "updated_at": "2025-12-19T04:18:03Z",
+        "topics": [
+            "containerd",
+            "docker",
+            "golang",
+            "kubernetes",
+            "oci",
+            "registry"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2025-12-16T09:32:48Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/9151667aec7aeb60d8db94674460df08f584900abbc498148e6320f2713d5086/psviderski/unregistry"
+        ],
+        "homepage": "https://uncloud.run",
+        "readme_summary": "Unregistry is a tool that allows users to push Docker images directly to remote servers over SSH without needing an external container registry. It efficiently transfers only the missing image layers, acting like an 'rsync' for Docker images.",
+        "key_features": [
+            "Push Docker images directly to remote servers over SSH",
+            "Transfers only missing image layers for efficiency",
+            "Eliminates the need for external or self-hosted registries",
+            "Acts as a lightweight, temporary registry on the remote server",
+            "Integrates with Docker CLI via a plugin"
+        ],
+        "primary_use_case": "Efficiently deploying Docker images to remote servers without the overhead of managing a container registry.",
+        "open_issues": 16,
+        "cover_image_prompt": "A digital messenger, depicted as a swift, glowing courier bird, carrying a small, sealed package (representing a Docker image) directly to a remote server's doorstep via a shimmering SSH tunnel. The bird only carries the essential components of the package, leaving behind unnecessary bulk. Subtle digital particles and a small, stylized 'unregistry' logo on the package indicate its software nature. The scene is set against a backdrop of simplified server racks and a clear sky, emphasizing directness and efficiency. The overall style is a clean, modern 3D isometric illustration with a vibrant blue and green color palette, highlighting speed and seamless transfer."
     }
 ]
