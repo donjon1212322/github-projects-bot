@@ -1,26 +1,26 @@
 {
-    "title": "Ditch the CMS Headaches: Launch Your Blog, Changelog, or Docs in 60 Seconds with BlogBowl",
-    "article": "Have you ever spent hours wrestling with complex CMS setups just to get a simple blog or product changelog off the ground? We all know the pain: bloated frameworks, slow performance, and endless configuration files. That's exactly the headache BlogBowl is designed to eliminate. This open-source, self-hosted platform is the ultimate plug-and-play solution for developers and creators who need a fast, clean, and powerful way to publish content. Whether you need a lightning-fast marketing blog, a detailed help center, or a transparent product changelog, BlogBowl has you covered, promising launch times in mere minutes.\r\n\r\nThe core genius of BlogBowl lies in its simplicity and performance focus. Built on a robust Ruby on Rails foundation, backed by PostgreSQL and Redis for speed, it offers a seamless publishing experience. Forget complicated markdown editors; BlogBowl provides a beautiful, clean, Notion-like editor. This makes the writing process intuitive and enjoyable, allowing you to focus purely on content creation rather than formatting struggles. Plus, since the templates are pre-optimized for SEO and speed, your content is guaranteed to rank well and load instantly, which is crucial for modern web success.\r\n\r\nFor developers, the self-hosted nature is a massive win. You maintain full control over your data and infrastructure. Deployment is incredibly straightforward thanks to Docker Compose—a few commands, and you're running a full-featured publishing suite. This control means you can integrate it perfectly within your existing infrastructure, using custom domains or even setting it up in a subfolder using a reverse proxy. Furthermore, the built-in newsletter functionality, powered by Postmark, turns your content platform into a complete marketing and communication hub, allowing you to easily collect subscribers and send out updates without needing a separate service. BlogBowl isn't just a blogging tool; it’s a powerful, streamlined content delivery system designed by developers, for developers, maximizing efficiency and minimizing setup friction.",
+    "title": "Ditch Centralized Vaults: Meet PearPass, the Distributed Password Manager Built on Pear Runtime",
+    "article": "This project is shaking up how we think about credential management. Forget relying on massive, centralized cloud providers to hold the keys to your digital life. PearPass is a desktop application that delivers a robust, secure password manager, but with a crucial twist: it's fully distributed, thanks to the power of Pear Runtime. This means your sensitive data isn't sitting on a single remote server waiting to be breached; instead, it's synchronized securely across your own devices using a peer-to-peer network.\r\nThe core magic here lies in Pear Runtime. Think of Pear as a decentralized application framework. When you use PearPass, your data vault is encrypted and then distributed peer-to-peer among your connected devices. This architecture fundamentally changes the security model. You maintain ownership and control, and the risk associated with a single point of failure—a major corporate server—is eliminated. Developers interested in decentralized or P2P technologies will find the implementation fascinating, offering a real-world use case for building secure, offline-first applications.\r\nFrom a user perspective, PearPass offers everything you'd expect from a top-tier manager: secure storage for passwords, credit card details, identities, and notes. It includes essential tools like a strong random password generator and built-in strength analysis to help you maintain high security standards. The user interface is built using React and styled components, ensuring a smooth, modern experience across platforms. The fact that it supports offline access is a huge win, ensuring you always have your credentials when you need them, regardless of your internet connection status.\r\nFor developers looking to contribute or fork the project, the stack is familiar and powerful. It leverages React and Redux for state management, making the codebase accessible and maintainable. Furthermore, the project is part of a larger ecosystem, with related mobile apps, browser extensions, and dedicated vault libraries. This modularity means contributions can be focused, whether you want to improve the core vault logic, enhance the desktop UI, or work on synchronization features within the Pear Runtime context. Exploring how they handle cross-device synchronization using a P2P framework provides invaluable learning for anyone tackling modern application development challenges, especially those prioritizing privacy and data sovereignty. It’s an open-source demonstration of data security done right in the age of distribution.",
     "key_takeaways": [
-        "BlogBowl is a self-hosted, open-source platform for quickly launching blogs, changelogs, and help centers.",
-        "It features an intuitive, clean, Notion-like editor for effortless content creation.",
-        "Deployment is simplified using Docker Compose, giving developers full infrastructure control.",
-        "Templates are pre-optimized for SEO and lightning-fast loading speeds.",
-        "Built-in newsletter support via Postmark allows for seamless subscriber management and communication."
+        "PearPass is a distributed password manager leveraging Pear Runtime for true decentralized security.",
+        "It eliminates the single point of failure common in traditional, centralized cloud vaults by synchronizing data peer-to-peer.",
+        "Features include cross-device synchronization, offline access, and integrated security tools like a password generator and strength analysis.",
+        "The application is built on a modern, accessible stack utilizing React, Redux, and Styled Components.",
+        "This project serves as an excellent open-source example of building secure, P2P applications focused on data sovereignty and user control."
     ],
     "tags": [
-        "Ruby on Rails",
-        "Blogging Platform",
-        "Self-hosted",
-        "Open Source",
-        "Docker"
+        "Password Manager",
+        "Distributed Systems",
+        "Pear Runtime",
+        "React",
+        "Decentralization"
     ],
-    "stars": 105,
-    "forks": 19,
-    "open_issues": 1,
-    "languages": "Ruby",
-    "readme_summary": "BlogBowl is an open-source, self-hosted blogging platform that allows users to quickly launch SEO-optimized blogs, product changelogs, and help documentation without coding. It features a Notion-like editor, built-in newsletter capabilities with Postmark integration, and support for custom domains.",
-    "project_id": 1052117260,
-    "url": "https://github.com/BlogBowl/BlogBowl",
-    "description": "Open-source plug-and-play blogging platform. Launch SEO-friendly blogs, changelogs, and write newsletters without coding. 🔥"
+    "stars": 160,
+    "forks": 4,
+    "open_issues": 13,
+    "languages": "JavaScript",
+    "readme_summary": "PearPass is a desktop application for secure password management, offering encrypted storage for credentials and notes. It synchronizes data across devices and provides offline access, along with features like password generation and strength analysis.",
+    "project_id": 1113287126,
+    "url": "https://github.com/tetherto/pearpass-app-desktop",
+    "description": null
 }
