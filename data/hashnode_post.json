@@ -1,30 +1,30 @@
 {
-    "title": "Stop Paying for Stunning Demos: Meet OpenScreen, the Free Alternative to Screen Studio",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nOpenScreen is a free, open-source desktop application for creating high-quality screen recordings and product demos. It offers essential features like screen/app recording, customizable zooms, annotations, and background customization, serving as a simpler alternative to paid software like Screen Studio.\n\n## 🔑 Key Takeaways\n\n- ✅ OpenScreen is a free, open-source desktop application designed to create professional, polished product demos and walkthroughs.\n\n- ✅ It features highly customizable manual zooms, motion blur effects, and flexible background options (gradients, wallpapers, custom images).\n\n- ✅ The project is built using Electron, React, and TypeScript, making it accessible and open for community contributions.\n\n- ✅ Developers can save significant subscription costs while producing high-quality marketing and instructional video content for commercial use.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 4028\n- 🍴 Forks: 224\n- ❗ Open Issues: 12\n\n\n## 🛠 Tech Stack\n- ✅ TypeScript\n\n\nTired of paying hefty monthly subscriptions just to create professional-looking product demos? If you’ve ever looked at high-end tools and wished for a free, open-source option that handles the essentials beautifully, then you absolutely need to check out OpenScreen. This project is a fantastic community effort to democratize high-quality screen recording and editing, focusing sharply on the features most developers and creators actually use for walkthroughs and marketing materials. OpenScreen is not attempting to be a full-blown, feature-complete video editing suite; instead, it focuses on making those polished, modern product demos effortless and immediate. It covers all the basics needed to make your software shine without requiring you to dive into complex timelines or professional video tools.\n\nHow does OpenScreen work its visual magic? The core process involves capturing your screen or specific applications and then transforming that raw footage into something visually stunning. The standout feature is the ability to add and customize manual zooms. You can dictate the depth, duration, and exact position of these zooms, which is crucial for guiding the viewer's attention exactly where it needs to be—a major improvement over basic screen recorders. To ensure these effects look smooth and professional, the app incorporates essential motion blur for panning and zooming transitions, giving your output that high-quality feel.\n\nBeyond the dynamic camera work, customization is key to making your demos feel professional. You can crop your video to hide sensitive areas or desktop clutter, and critically, you can dress up the background. Forget boring black borders; OpenScreen allows you to choose from solid colors, gradients, pre-set wallpapers, or even upload your own custom image, giving your demo a cohesive, branded look that aligns perfectly with your product. Furthermore, the tool includes essential editing capabilities like trimming clips and adding annotations—be it text, arrows, or images—to highlight specific UI elements or steps in your process.\n\nFor developers, the benefit is clear: immense time and cost savings. OpenScreen is built using modern web technologies like Electron, React, and TypeScript, making it accessible and potentially extensible for those who want to contribute to its development. It’s 100% free for both personal and commercial use under the permissive MIT License. This means you can create unlimited, professional-grade marketing assets for your side projects or company without worrying about recurring licensing fees or vendor lock-in. If you need a simple, powerful tool to make your software demos pop and look like they cost a fortune, OpenScreen is the open-source hero you’ve been waiting for. It simplifies the pipeline from development to demonstration, letting you focus on building great products.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/siddharthvaddem/openscreen)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "VidBee: The Open-Source Powerhouse That Automates Your Video Downloads",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nVidBee is an open-source video downloader application built with Electron and powered by yt-dlp. It allows users to download videos and audio from over 1000 websites worldwide through an intuitive graphical interface and also offers a browser script for quick downloads.\n\n## 🔑 Key Takeaways\n\n- ✅ VidBee unifies video and audio downloading from over 1000 websites using the powerful yt-dlp core.\n\n- ✅ The RSS auto-download feature allows users to subscribe to creator feeds and automatically download new content in the background.\n\n- ✅ Built with Electron, it offers a clean, intuitive, and reliable cross-platform desktop experience.\n\n- ✅ A companion browser script enables one-click quick downloads directly from supported video websites.\n\n- ✅ The project is open source, offering developers transparency, auditability, and contribution opportunities.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 2076\n- 🍴 Forks: 135\n- ❗ Open Issues: 4\n\n\n## 🛠 Tech Stack\n- ✅ TypeScript\n\n\nTired of juggling multiple tools and manually copying links just to save a video or audio file? We’ve all been there. The internet is full of amazing content, but reliably downloading it from various platforms is often a frustrating, fractured experience. Enter VidBee, an exciting open-source project that consolidates all your media acquisition needs into one sleek, powerful desktop application.\r\rVidBee is built on a smart combination of technologies. It uses Electron to provide a beautiful, cross-platform graphical user interface (GUI), meaning it runs smoothly whether you are on Windows, macOS, or Linux. But the real magic happens under the hood: VidBee is powered by the legendary `yt-dlp`. This is crucial because `yt-dlp` is the industry standard for handling the complex, ever-changing structures of over 1000 different video websites, guaranteeing robust and reliable downloads where other tools fail.\r\rThe feature that truly elevates VidBee for power users is its RSS auto-download automation. Imagine you follow a dozen creators across various platforms. Instead of manually checking their feeds every day, you simply subscribe to their RSS feed within VidBee. The application then runs quietly in the background, automatically detecting new uploads and downloading them instantly to your local library. This transforms media collection from a chore into a seamless, set-it-and-forget-it operation.\r\rFor those who want maximum efficiency, VidBee also offers a neat browser script integration. Once installed, this script places a quick-download button directly onto supported video pages (like YouTube, TikTok, and Instagram). Instead of copying the URL, switching applications, and pasting, you just click the button on the video page, and the download task is instantly sent to your VidBee desktop app. This drastically streamlines the workflow from discovery to local file.\r\rAs developers, why should we care about another downloader? Because VidBee is a fantastic demonstration of combining a robust, community-maintained backend (yt-dlp) with a modern, accessible frontend (Electron). It’s a great project to examine if you are looking to build powerful desktop applications that leverage existing command-line utilities. Furthermore, being open source means we can audit the code, contribute fixes, or even fork it to customize its functionality to suit highly specific, niche downloading needs. It offers control and transparency that proprietary tools simply cannot match, making it an essential addition to any developer's toolkit.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/nexmoe/VidBee)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
-        {
-            "name": "open source",
-            "slug": "open-source"
-        },
-        {
-            "name": "screen recording",
-            "slug": "screen-recording"
-        },
-        {
-            "name": "product demo",
-            "slug": "product-demo"
-        },
         {
             "name": "electron",
             "slug": "electron"
         },
         {
-            "name": "video editing",
-            "slug": "video-editing"
+            "name": "yt-dlp",
+            "slug": "yt-dlp"
+        },
+        {
+            "name": "video downloader",
+            "slug": "video-downloader"
+        },
+        {
+            "name": "open source",
+            "slug": "open-source"
+        },
+        {
+            "name": "automation",
+            "slug": "automation"
         }
     ],
-    "slug": "stop-paying-for-stunning-demos-meet-openscreen-the-free-alternative-to-screen-studio",
-    "project_id": 1073433866,
+    "slug": "vidbee-the-open-source-powerhouse-that-automates-your-video-downloads",
+    "project_id": 1081230042,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
