@@ -1,30 +1,30 @@
 {
-    "title": "VidBee: The Open-Source Powerhouse That Automates Your Video Downloads",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nVidBee is an open-source video downloader application built with Electron and powered by yt-dlp. It allows users to download videos and audio from over 1000 websites worldwide through an intuitive graphical interface and also offers a browser script for quick downloads.\n\n## 🔑 Key Takeaways\n\n- ✅ VidBee unifies video and audio downloading from over 1000 websites using the powerful yt-dlp core.\n\n- ✅ The RSS auto-download feature allows users to subscribe to creator feeds and automatically download new content in the background.\n\n- ✅ Built with Electron, it offers a clean, intuitive, and reliable cross-platform desktop experience.\n\n- ✅ A companion browser script enables one-click quick downloads directly from supported video websites.\n\n- ✅ The project is open source, offering developers transparency, auditability, and contribution opportunities.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 2076\n- 🍴 Forks: 135\n- ❗ Open Issues: 4\n\n\n## 🛠 Tech Stack\n- ✅ TypeScript\n\n\nTired of juggling multiple tools and manually copying links just to save a video or audio file? We’ve all been there. The internet is full of amazing content, but reliably downloading it from various platforms is often a frustrating, fractured experience. Enter VidBee, an exciting open-source project that consolidates all your media acquisition needs into one sleek, powerful desktop application.\r\rVidBee is built on a smart combination of technologies. It uses Electron to provide a beautiful, cross-platform graphical user interface (GUI), meaning it runs smoothly whether you are on Windows, macOS, or Linux. But the real magic happens under the hood: VidBee is powered by the legendary `yt-dlp`. This is crucial because `yt-dlp` is the industry standard for handling the complex, ever-changing structures of over 1000 different video websites, guaranteeing robust and reliable downloads where other tools fail.\r\rThe feature that truly elevates VidBee for power users is its RSS auto-download automation. Imagine you follow a dozen creators across various platforms. Instead of manually checking their feeds every day, you simply subscribe to their RSS feed within VidBee. The application then runs quietly in the background, automatically detecting new uploads and downloading them instantly to your local library. This transforms media collection from a chore into a seamless, set-it-and-forget-it operation.\r\rFor those who want maximum efficiency, VidBee also offers a neat browser script integration. Once installed, this script places a quick-download button directly onto supported video pages (like YouTube, TikTok, and Instagram). Instead of copying the URL, switching applications, and pasting, you just click the button on the video page, and the download task is instantly sent to your VidBee desktop app. This drastically streamlines the workflow from discovery to local file.\r\rAs developers, why should we care about another downloader? Because VidBee is a fantastic demonstration of combining a robust, community-maintained backend (yt-dlp) with a modern, accessible frontend (Electron). It’s a great project to examine if you are looking to build powerful desktop applications that leverage existing command-line utilities. Furthermore, being open source means we can audit the code, contribute fixes, or even fork it to customize its functionality to suit highly specific, niche downloading needs. It offers control and transparency that proprietary tools simply cannot match, making it an essential addition to any developer's toolkit.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/nexmoe/VidBee)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Ditch the Skip Button: The Browser Extension That Perfects Your Binge-Watching Flow",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nThis repository provides browser extensions for Chrome and Firefox that automatically skip advertisements, intros, recaps, and credits on major streaming services. It aims to enhance the viewing experience by removing unwanted interruptions.\n\n## 🔑 Key Takeaways\n\n- ✅ Automates skipping of intros, recaps, ads, and credits across multiple major streaming platforms.\n\n- ✅ Provides a truly seamless, uninterrupted binge-watching experience, saving significant time.\n\n- ✅ Supports platforms including Netflix, Prime Video, Disney+, HBO, and Crunchyroll.\n\n- ✅ Implemented as a robust browser extension, demonstrating advanced content scripting techniques.\n\n- ✅ Eliminates manual interaction, allowing users to maintain viewing momentum effortlessly.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 458\n- 🍴 Forks: 45\n- ❗ Open Issues: 6\n\n\n## 🛠 Tech Stack\n- ✅ JavaScript\n\n\nThe core frustration of modern streaming is the constant interruption. Whether it's the 30-second recap you just watched, the repetitive ten-second intro sequence, or the minutes-long credits roll, these moments shatter the immersive viewing experience. This project, \"Streaming enhanced,\" solves this by acting as an intelligent, automated assistant right inside your browser, eliminating these necessary but annoying pauses across multiple major platforms.\n\nThis extension operates by injecting lightweight scripts directly into the streaming service webpages. It doesn't rely on complex server-side APIs or heavy processing. Instead, it leverages knowledge of the specific user interface elements and timing cues used by services like Netflix, Prime Video, and Disney+. When the service displays a button or overlay signaling an opportunity to skip (e.g., \"Skip Intro,\" \"Next Episode,\" or the credit sequence detection), the extension instantly simulates the click action, often before the user even registers the prompt.\n\nThe real power lies in its broad compatibility. It supports a comprehensive list of streaming giants, including Crunchyroll and HBO, ensuring that your automated skipping preferences follow you regardless of where you are watching. This goes beyond simple intro skipping; it efficiently manages mid-roll ads where applicable, and ensures you transition immediately from episode credits to the next episode, maintaining that crucial viewing momentum.\n\nFor developers, this project is an excellent case study in robust browser extension architecture. It showcases advanced content scripting techniques necessary to interact reliably with dynamic, single-page applications (SPAs) like modern streaming sites. Understanding how it consistently identifies and manipulates elements across various proprietary interfaces provides valuable knowledge for anyone looking to build complex, user-facing utilities that modify third-party web behavior.\n\nUltimately, the benefit is pure, uninterrupted flow. By automating the mundane task of clicking 'skip,' developers and users alike reclaim valuable seconds that accumulate into hours of time saved. It transforms the act of binge-watching from a series of manual interactions back into the seamless, cinematic experience it was meant to be, making your downtime truly restful and efficient.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "electron",
-            "slug": "electron"
+            "name": "browser extension",
+            "slug": "browser-extension"
         },
         {
-            "name": "yt-dlp",
-            "slug": "yt-dlp"
-        },
-        {
-            "name": "video downloader",
-            "slug": "video-downloader"
-        },
-        {
-            "name": "open source",
-            "slug": "open-source"
+            "name": "streaming",
+            "slug": "streaming"
         },
         {
             "name": "automation",
             "slug": "automation"
+        },
+        {
+            "name": "javascript",
+            "slug": "javascript"
+        },
+        {
+            "name": "ux enhancement",
+            "slug": "ux-enhancement"
         }
     ],
-    "slug": "vidbee-the-open-source-powerhouse-that-automates-your-video-downloads",
-    "project_id": 1081230042,
+    "slug": "ditch-the-skip-button-the-browser-extension-that-perfects-your-binge-watching-flow",
+    "project_id": 519518459,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
