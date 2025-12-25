@@ -1,37 +1,37 @@
 [
     {
-        "project_id": 1110247390,
-        "content": "💡 <b>cybermon</b> | Svelte\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a sleek, mobile-first interface for monitoring their computer's hardware performance remotely.\n<br>\n✨ <b>Key Features:</b>\n• Futuristic mobile hardware monitoring dashboard\n• Integrates with LibreHardwareMonitor\n• Remote access to system statistics\n• Configurable device management\n• Svelte-based frontend\n<br>\n📖 <b>Summary:</b>\nCyberMon is a futuristic mobile hardware monitoring dashboard built with Svelte. It visualizes system statistics fetched from LibreHardwareMonitor, allowing users to remotely track their computer's hardware performance on their mobile devices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ZachJW34/cybermon?embed=0\">View Project</a>\n• <a href=\"https://cybermon-eight.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/13b3f2714b89e4be379edf104c77883ee8829a1642068b7d0ddd928a7e00934b/ZachJW34/cybermon",
-        "platform": "telegram",
-        "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 519518459,
-        "content": "💡 <b>Netflix-Prime-Auto-Skip</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide an uninterrupted streaming experience by automatically skipping non-essential content on various online streaming platforms.\n<br>\n✨ <b>Key Features:</b>\n• Automatic skipping of ads, intros, recaps, and credits\n• Support for major streaming services like Netflix, Prime Video, Disney+, Crunchyroll, and HBO\n• Available as extensions for Chrome, Firefox, and Microsoft Edge\n• Installation support for Android via Firefox or Kiwi Browser\n<br>\n📖 <b>Summary:</b>\nThis repository provides browser extensions for Chrome and Firefox that automatically skip advertisements, intros, recaps, and credits on major streaming services. It aims to enhance the viewing experience by removing unwanted interruptions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/519518459/153dc649-a6eb-4fd0-bc49-fd8e98f5094c",
+        "project_id": 370467085,
+        "content": "🔥 <b>AndroidMic</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nUsing an Android phone as a PC microphone.\n<br>\n✨ <b>Key Features:</b>\n• Multiplatform (Linux, Windows, MacOs)\n• Wifi and USB support\n• Noise Cancellation\n• Audio wave visualization\n• Advanced Audio Options\n<br>\n📖 <b>Summary:</b>\nAndroidMic allows you to use your Android phone as a wireless or USB microphone for your PC. It supports multiple platforms and includes features like noise cancellation and audio visualization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/teamclouday/AndroidMic?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c4e2882936af18e678a787ef10073389674122a2cb996933a843a41bbfd514d6/teamclouday/AndroidMic",
         "platform": "telegram",
         "quality_score": 0.7499999999999999
     },
     {
-        "project_id": 79297914,
-        "content": "✨ <b>alchemy</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBatch conversion and merging of files through a user-friendly menu bar application.\n<br>\n✨ <b>Key Features:</b>\n• File conversion\n• File merging (images to PDF)\n• Drag-and-drop interface\n• Batch processing\n• Menu bar application\n<br>\n📖 <b>Summary:</b>\nAlchemy is an open-source, menu-bar application built with Electron and React that allows users to easily convert and merge files. It provides a simple drag-and-drop interface for batch processing various file types, including merging images into a single PDF.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dawnlabs/alchemy?embed=0\">View Project</a>\n• <a href=\"https://dawnlabs.github.io/alchemy?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/aab8550494e0b41859ad9c42a9b77642e1780c5b07566c399c3935a7b48df224/dawnlabs/alchemy",
+        "project_id": 527429487,
+        "content": "💡 <b>js-draw</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a robust and flexible JavaScript library for building freehand drawing applications with advanced features like infinite zoom and touch support.\n<br>\n✨ <b>Key Features:</b>\n• Very large zoom range (10⁻¹⁰x to 10¹⁰x)\n• Touchscreen and stylus support with gesture recognition\n• User-configurable tools (pen style, color, etc.)\n• Partial stroke erasing\n• Collaborative editing\n<br>\n📖 <b>Summary:</b>\njs-draw is a freehand drawing library for JavaScript and TypeScript, enabling users to create and manipulate drawings with a wide zoom range, touch support, and customizable tools. It outputs drawings in SVG format and supports collaborative editing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/personalizedrefrigerator/js-draw?embed=0\">View Project</a>\n• <a href=\"https://personalizedrefrigerator.github.io/js-draw/typedoc/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/527429487/3b2b617f-e802-4d67-96cb-59d922e3c7b6",
         "platform": "telegram",
-        "quality_score": 0.45
+        "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 1115775997,
-        "content": "🔥 <b>windmouse</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAvoiding bot detection in automation scripts by simulating human-like mouse movements.\n<br>\n✨ <b>Key Features:</b>\n• Generates curved, natural-looking mouse paths\n• Varies movement speed dynamically\n• Supports AutoHotkey (Windows) and PyAutoGUI (cross-platform) backends\n• Allows fine-grained control over movement physics (gravity, wind, damping)\n<br>\n📖 <b>Summary:</b>\nWindMouse is a Python library designed to simulate human-like mouse movements, making automated actions less detectable by bot detection systems. It implements the WindMouse algorithm to create natural, non-linear paths with variable speeds, supporting both PyAutoGUI and AutoHotkey backends.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AsfhtgkDavid/windmouse?embed=0\">View Project</a>\n• <a href=\"https://windmouse.readthedocs.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3c009d127b098c0ad029eeada888095f6759b7616fea9aa00ec5273472353d2e/AsfhtgkDavid/windmouse",
+        "project_id": 1050783683,
+        "content": "🔥 <b>youtube-smart-speed</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enhance the YouTube viewing experience by optimizing playback speed to reduce wasted time during silences and improve comprehension during speech.\n<br>\n✨ <b>Key Features:</b>\n• Intelligent speed control using AI audio analysis\n• Adaptive acceleration during silence\n• Controlled deceleration during speech\n• Machine learning for usage pattern adaptation\n• Manual speed control option\n<br>\n📖 <b>Summary:</b>\nYouTube Smart Speed is a Firefox extension that uses AI to intelligently adjust YouTube video playback speed. It automatically speeds up during silences and slows down during speech, with fully customizable settings and machine learning capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/skorotkiewicz/youtube-smart-speed?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0e74f3421919737907ef08b25772779416516fc9f84bb67edde05ede6e50ff21/skorotkiewicz/youtube-smart-speed",
         "platform": "telegram",
-        "quality_score": 0.6499999999999999
+        "quality_score": 0.3
     },
     {
-        "project_id": 903725313,
-        "content": "✨ <b>ui</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nTo showcase and provide examples of basic UI components for learning modern frontend development with HTML and CSS.\n<br>\n✨ <b>Key Features:</b>\n• Examples of simple UI components\n• Modern Frontend Developer Ebook (almost 500 pages)\n• UI Components Collection\n• Frontend Resources\n• Quizzes And Certificate\n<br>\n📖 <b>Summary:</b>\nThis repository provides examples of simple UI components built with HTML and CSS, serving as a learning resource for modern frontend development. It complements a broader course offering that includes an ebook, interactive tutorials, and quizzes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/atherosai/ui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/06d481f4e4b2c52e82edffea693799ee6874179b387d1110d4e7111aff998808/atherosai/ui",
+        "project_id": 477370194,
+        "content": "💡 <b>QualityScaler</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing and upscaling the quality of images and videos using AI on a Windows PC.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered image and video upscaling\n• Noise reduction and enhancement\n• Support for multiple GPUs (NVIDIA, AMD, Intel)\n• DirectX 12 acceleration\n• User-friendly GUI\n<br>\n📖 <b>Summary:</b>\nQualityScaler is a Windows application that uses AI to enhance, upscale, and de-noise images and videos. It leverages deep learning models and supports various hardware accelerators for efficient processing directly on the user's PC.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Djdefrag/QualityScaler?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/128b0d076339d4dd30b5e731e8cb4dd49a01ad1450fef1db1036ad82786cf0b4/Djdefrag/QualityScaler",
         "platform": "telegram",
-        "quality_score": 0.15
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 809206788,
+        "content": "🔥 <b>youtube-ai-extension</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing the YouTube viewing experience by allowing users to interact with video content through an AI-powered chat interface.\n<br>\n✨ <b>Key Features:</b>\n• Real-time chat with YouTube videos\n• Video summarization\n• Question and Answer functionality\n• Context-aware responses\n• User-friendly interface integrated into YouTube\n<br>\n📖 <b>Summary:</b>\nThis repository provides an interactive Chrome extension for YouTube that leverages the OpenAI API to enable real-time chat with video content. Users can get summaries, ask questions, and receive context-aware responses directly within the YouTube interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/PaoloJN/youtube-ai-extension?embed=0\">View Project</a>\n• <a href=\"https://chat-with-youtube.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/60248d86d5ea1b563c7620790a0bd93dbf4c5927db80f82ab07f9cad77ed2ec1/PaoloJN/youtube-ai-extension",
+        "platform": "telegram",
+        "quality_score": 0.6000000000000001
     }
 ]
