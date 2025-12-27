@@ -1,44 +1,37 @@
 [
     {
-        "project_id": 667774789,
-        "content": "✨ <b>WindowPet</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with customizable, animated companion overlays on their desktop for entertainment and personalization.\n<br>\n✨ <b>Key Features:</b>\n• Add pets (45+ available, plus custom options)\n• Remove pets\n• Pixel perfect drag and drop\n• Click through pets\n• Auto start up\n<br>\n📖 <b>Summary:</b>\nWindowPet is a cross-platform desktop application that allows users to place animated pets and characters as overlays on their screen. Built with Tauri and React, it offers customization options, click-through functionality, and efficient performance for a delightful user experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SeakMengs/WindowPet?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a2ff871165d456e22b6fd6719f37d5121b42e1f94ef27cc943205c2c20cfacef/SeakMengs/WindowPet",
+        "project_id": 1069499642,
+        "content": "🔥 <b>LinkPure</b> | Dart\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomatically cleaning and simplifying URLs copied to the clipboard by removing tracking parameters and unwrapping redirect links.\n<br>\n✨ <b>Key Features:</b>\n• Automatic URL Rewriting\n• Rule Management\n• Built-in Shared Rules\n• Rule Testing\n• System Notifications\n<br>\n📖 <b>Summary:</b>\nLinkPure is a cross-platform application designed to automatically rewrite URLs copied to the clipboard based on user-defined rules. It offers a visual interface for rule management, includes over 1000 pre-configured rules for cleaning tracking parameters and unwrapping redirects, and provides system notifications for rewritten URLs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rxliuli/LinkPure?embed=0\">View Project</a>\n• <a href=\"https://rxliuli.com/project/linkpure/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c6f0eec27dc9671da7ec6f0227e04445eb8fd9fdbb9fbbf78c89e4c94f96f4e1/rxliuli/LinkPure",
         "platform": "telegram",
-        "quality_score": 0.7000000000000001
+        "quality_score": 0.7
     },
     {
-        "project_id": 871522725,
-        "content": "🌟 <b>CloudRip</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nFinding the origin IP addresses of websites protected by Cloudflare for penetration testing and security research.\n<br>\n✨ <b>Key Features:</b>\n• IPv4 & IPv6 support\n• Multiple IPs detection\n• Progress bar with live stats\n• Dynamic Cloudflare IP detection\n• Fast subdomain scanning using multiple threads\n<br>\n📖 <b>Summary:</b>\nCloudRip is a Python-based cybersecurity tool designed to uncover the real IP addresses of websites protected by Cloudflare. It achieves this by systematically checking subdomains and filtering out Cloudflare's proxy IPs, making it useful for penetration testing and security research.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/moscovium-mc/CloudRip?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9ae2ba945714ea666cbd549dc5e6c0d3b3232a218299f78dc50177d3a8ade88e/moscovium-mc/CloudRip",
+        "project_id": 664080436,
+        "content": "🚀 <b>WebDeck</b> | Jinja\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a software-based, customizable remote control interface for computers, acting as a free alternative to dedicated hardware like the Elgato Stream Deck.\n<br>\n✨ <b>Key Features:</b>\n• Flask web application for remote computer control\n• Browser-based interface accessible from any device\n• Touchscreen optimized for intuitive interaction\n• Customizable buttons and shortcuts\n• Free alternative to physical Stream Deck hardware\n<br>\n📖 <b>Summary:</b>\nWebDeck is a free, open-source alternative to physical Stream Decks. It's a Flask web application that allows users to control their computer remotely via any browser-enabled device with a touchscreen, offering a customizable interface for shortcuts and commands.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lenochxd/WebDeck?embed=0\">View Project</a>\n• <a href=\"https://elgato.christmas?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/cb778ab12827d8f6584c12e0032195734aae30d0eb5913e2c19df9e206909b53/Lenochxd/WebDeck",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.35
     },
     {
-        "project_id": 219554907,
-        "content": "🚀 <b>plainpad</b> | PHP\n<br>\n🎯 <b>Primary Use Case:</b>\nA personal, self-hosted note-taking application for users who want to own and control their data.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted note taking application\n• User ownership of data\n• PHP and React based\n• Simple and stable design\n<br>\n📖 <b>Summary:</b>\nPlainpad is a self-hosted note-taking application built with PHP and React, offering users ownership of their data by running on their own server. It prioritizes simplicity and stability for personal knowledge management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alextselegidis/plainpad?embed=0\">View Project</a>\n• <a href=\"https://alextselegidis.com/get/plainpad?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/219554907/c20547db-9779-41db-9724-d32672df5547",
-        "platform": "telegram",
-        "quality_score": 0.6499999999999999
-    },
-    {
-        "project_id": 1024188148,
-        "content": "🌟 <b>mtlog</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a powerful, efficient, and flexible structured logging solution for Go applications, enabling better observability and debugging.\n<br>\n✨ <b>Key Features:</b>\n• Zero-allocation logging\n• Message templates with Go template syntax support\n• OpenTelemetry compatibility\n• Structured fields via With() method\n• Output templates for customizable formatting\n<br>\n📖 <b>Summary:</b>\nmtlog is a high-performance structured logging library for Go, inspired by Serilog. It offers zero-allocation logging, message templates, OpenTelemetry compatibility, and a pipeline architecture for flexible log management. It also includes HTTP middleware for request/response logging and supports various sinks like Console, File, Seq, Elasticsearch, and Splunk.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/willibrandon/mtlog?embed=0\">View Project</a>\n• <a href=\"https://mtlog.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/15aa1392a9e984f785d4431338e42408a97edb1f4319c13d432a0dcaaf0e1a42/willibrandon/mtlog",
-        "platform": "telegram",
-        "quality_score": 0.5499999999999999
-    },
-    {
-        "project_id": 1100639361,
-        "content": "💡 <b>moss-kernel</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nDeveloping and running a modern, safe, and Linux-compatible operating system kernel in Rust.\n<br>\n✨ <b>Key Features:</b>\n• Rust-based kernel for Aarch64\n• Linux-compatible userspace (BusyBox)\n• Asynchronous core using async/await\n• Modular architecture abstraction layer\n• Memory Management (MMU, CoW, page fault handling)\n<br>\n📖 <b>Summary:</b>\nMoss is a Unix-like, Linux-compatible kernel written in Rust for the Aarch64 architecture. It leverages Rust's async/await features for a modern, deadlock-free kernel design and aims for binary compatibility with Linux userspace, capable of running BusyBox commands.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hexagonal-sun/moss-kernel?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/652bf679c8b5e0cf50085321e82b2438efa090736234b28d0a53fbf9172763fa/hexagonal-sun/moss-kernel",
+        "project_id": 631681890,
+        "content": "🚀 <b>gomlx</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDeveloping and training machine learning models in Go with high performance and broad hardware acceleration.\n<br>\n✨ <b>Key Features:</b>\n• Differentiable operators\n• Pure Go backend (runs everywhere Go runs, including WASM)\n• Optimized backend with OpenXLA (CPU, GPU, TPU support)\n• Just-in-time compilation\n• Distributed execution support (multi-TPU/GPU)\n<br>\n📖 <b>Summary:</b>\nGoMLX is an accelerated machine learning and generic math framework for Go, designed to be a PyTorch/Jax/TensorFlow equivalent for the Go ecosystem. It supports a pure Go backend for broad compatibility and an optimized backend using OpenXLA for high-performance computation on CPUs, GPUs, and TPUs, including distributed training.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gomlx/gomlx?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/631681890/2172b4d6-b1de-41f7-8810-007f10f525d5",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 1055778057,
-        "content": "✨ <b>GhidraGPT</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enhance reverse engineering workflows by leveraging LLMs for automated code analysis, rewriting, and explanation within the Ghidra environment.\n<br>\n✨ <b>Key Features:</b>\n• Function Rewrite (renaming, type inference, comments)\n• Code Explanation\n• Vulnerability Detection\n• Context Menu Integration\n• Console Interface\n<br>\n📖 <b>Summary:</b>\nGhidraGPT is a Ghidra plugin that integrates Large Language Models (LLMs) to automate and enhance reverse engineering tasks. It provides features for code rewriting, explanation, and analysis, making decompiled code more readable and identifying potential vulnerabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/weirdmachine64/GhidraGPT?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/cf221756372e51afa9fb73eca40f80bec51abc1bd0e3ab15ddb63f5ca6dc87ff/weirdmachine64/GhidraGPT",
+        "project_id": 1067109086,
+        "content": "🔥 <b>resterm</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nA terminal-native client for developers to efficiently test, debug, and interact with various network APIs and protocols without leaving their keyboard.\n<br>\n✨ <b>Key Features:</b>\n• Terminal-based client for HTTP, GraphQL, gRPC, WebSocket, SSE\n• Keyboard-driven interface\n• Local data storage (.http/.rest files)\n• Built-in SSH tunnels\n• OAuth 2.0 support (client credentials, password grant, authorization code + PKCE)\n<br>\n📖 <b>Summary:</b>\nResterm is a powerful terminal-based client designed for interacting with various network protocols including HTTP, GraphQL, gRPC, WebSockets, and SSE. It emphasizes a keyboard-driven workflow and local data storage, offering features like SSH tunnels, OAuth 2.0 support, and a custom scripting language for complex request logic.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/unkn0wn-root/resterm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e703f3e0af89dfcf48bdebbabcb27320b33603d905cbe9666c197914364a6748/unkn0wn-root/resterm",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 94036828,
+        "content": "🚀 <b>gojekyll</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding and serving static websites with a focus on speed and developer experience, as an alternative to Jekyll.\n<br>\n✨ <b>Key Features:</b>\n• Fast static site generation (approx. 20x faster than Jekyll)\n• Live reload and directory watch for `serve` command\n• Partial Jekyll compatibility\n• Liquid templating language support\n• SASS support\n<br>\n📖 <b>Summary:</b>\nGojekyll is a Go-based implementation of the Jekyll static site generator, offering faster build times and live reloading. It aims for partial compatibility with Jekyll, supporting Liquid templating and Sass, and provides `build` and `serve` commands.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/osteele/gojekyll?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e60afd6bb2a535c5e6d213232227e92d9f57848aa09a8d4e2d08101a7d77b743/osteele/gojekyll",
+        "platform": "telegram",
+        "quality_score": 0.85
     }
 ]
