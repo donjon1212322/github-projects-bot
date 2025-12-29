@@ -1,44 +1,44 @@
 [
     {
-        "project_id": 988511868,
-        "content": "🔥 <b>SuperCorners</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide an enhanced and more versatile alternative to macOS's built-in Hot Corners feature, allowing users to trigger a wide variety of actions from additional zones on their screen edges for increased productivity.\n<br>\n✨ <b>Key Features:</b>\n• Additional trigger zones on screen edges\n• Launch Apps\n• Run Shortcuts\n• Open Files and Folders\n<br>\n📖 <b>Summary:</b>\nSuperCorners is a macOS application that enhances the built-in Hot Corners feature by adding more trigger zones along screen edges and enabling a wider range of actions. It allows users to launch applications, run scripts, open files, and execute system commands directly from these enhanced screen zones, boosting productivity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/daniyalmaster693/SuperCorners?embed=0\">View Project</a>\n• <a href=\"https://supercorners.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5909f5c6c11eb1858d634a61f5e67217187887dc707399604c028668e095a5fa/daniyalmaster693/SuperCorners",
+        "project_id": 312703459,
+        "content": "✨ <b>start-os</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling users to easily set up and manage a personal server for self-hosting various software services, such as Bitcoin nodes, cloud storage, and more, with an emphasis on user control and privacy.\n<br>\n✨ <b>Key Features:</b>\n• Discovery, installation, and network configuration of self-hosted services\n• Service configuration and dependency management\n• Data backup and health monitoring\n• Marketplace for discovering and installing services\n<br>\n📖 <b>Summary:</b>\nStartOS is a Linux distribution designed for personal servers, simplifying the self-hosting of software services. It manages installation, configuration, backups, and health monitoring, with a focus on user-friendly operation and a marketplace for discoverable applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Start9Labs/start-os?embed=0\">View Project</a>\n• <a href=\"https://start9.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7d1a96cc0d5f18ac54f0bb53a378bb72aefcb317a61e1a2ff1b5c7fd05457e22/Start9Labs/start-os",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 644624044,
+        "content": "✨ <b>Mic-E-Mouse</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nResearch and experimentation with side-channel audio attacks using computer mice.\n<br>\n✨ <b>Key Features:</b>\n• Side-Channel Audio Attack Implementation\n• Waveform Reconstruction Experiments\n• Support for AudioMNIST and VCTK datasets\n• Includes trained models and signal processing methods\n• Provides utility scripts for data collection and browser audio testing\n<br>\n📖 <b>Summary:</b>\nMic-E-Mouse is a repository focused on side-channel audio attacks that leverage computer mice. It provides implementations and experimental data for reconstructing audio waveforms captured through the high-frequency signals emitted by specific computer mice.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AICPS/Mic-E-Mouse?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6e24d238f1dd6b00819861d8f907043acbdfc233b06039806af310c305381b1a/AICPS/Mic-E-Mouse",
+        "platform": "telegram",
+        "quality_score": 0.6000000000000001
+    },
+    {
+        "project_id": 1025585990,
+        "content": "🚀 <b>PCLink</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSecure remote PC control and management from any web-enabled device.\n<br>\n✨ <b>Key Features:</b>\n• Web-First Interface (Responsive, Dark-Themed, WebSocket)\n• Remote Control (File Browser, Process Manager, Terminal)\n• Media & Input Control (Playback, Keyboard/Mouse, Clipboard)\n• System Actions (Shutdown, Restart, Volume, Info)\n• Screen Capture\n<br>\n📖 <b>Summary:</b>\nPCLink is a cross-platform desktop application that enables secure remote control and management of PCs. It offers a web-first interface accessible from any browser, along with a FastAPI backend and a lightweight system tray application.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BYTEDz/PCLink?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1025585990/c26a8462-aeae-4fb8-86b7-e06bd5447e23",
+        "platform": "telegram",
+        "quality_score": 0.8999999999999999
+    },
+    {
+        "project_id": 1015684263,
+        "content": "🌟 <b>bedrock-agentcore-sdk-python</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDeploying and operating AI agents securely and at scale on AWS Bedrock AgentCore, abstracting away infrastructure concerns.\n<br>\n✨ <b>Key Features:</b>\n• Deploy local AI agents to Bedrock AgentCore with zero infrastructure\n• Framework-agnostic: Works with Strands, LangGraph, CrewAI, Autogen, and custom frameworks\n• Zero infrastructure management: No servers, containers, or scaling concerns\n<br>\n📖 <b>Summary:</b>\nThe Bedrock AgentCore SDK for Python allows developers to deploy their existing AI agents, built with any framework, onto AWS Bedrock AgentCore with zero infrastructure management. It provides an enterprise-grade platform with built-in authentication, memory, observability, and security for production-ready deployments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aws/bedrock-agentcore-sdk-python?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/623982bdd123913a17f1a74100f9f1b45a88ce2ebf85925b63bd295050ae91f1/aws/bedrock-agentcore-sdk-python",
+        "platform": "telegram",
+        "quality_score": 1.1000000000000003
+    },
+    {
+        "project_id": 540829453,
+        "content": "✨ <b>onedump</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nStreamlining database backup, restore, and administration tasks across diverse database systems and cloud/local storage solutions.\n<br>\n✨ <b>Key Features:</b>\n• Database backup from different sources to different destinations\n• MySQL dump with zero dependencies (built-in native dumper)\n• Supports dumpers with dependencies (`mysqldump` and `pg_dump`)\n• MySQL binlog backup to AWS S3\n• MySQL restore from binlogs\n<br>\n📖 <b>Summary:</b>\nOnedump is a Go-based database administration tool designed for effortless backup and restore operations across various databases and multiple storage destinations. It supports native MySQL dumping, integration with `mysqldump` and `pg_dump`, and offers features like binlog backup/restore, slow log parsing, and resumable file transfers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/liweiyi88/onedump?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/540829453/606c56f7-7aaf-4a38-9d4d-da7066b8ad04",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 1103505119,
+        "content": "✨ <b>MK_XRAYchecker</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nMass checking the operational status and performance of V2Ray/Xray proxy servers.\n<br>\n✨ <b>Key Features:</b>\n• Supports VMess, VLESS, Trojan, Shadowsocks, Hysteria2 protocols\n• Parses proxies from text, Base64 strings, and subscription links\n• Multithreaded checking with up to 1337 threads\n• Batch mode for reduced CPU load and faster checking\n• Automatic sorting of working proxies by ping or speed\n<br>\n📖 <b>Summary:</b>\nMK_XRAYchecker is a powerful, multithreaded Python utility designed for mass checking the availability and latency of V2Ray/Xray proxies. It supports various protocols and can parse proxy configurations from multiple sources, automatically sorting working proxies by ping and speed.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MKultra6969/MK_XRAYchecker?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/811f3a96d94415bda0787c161e4a76d39667452d201ec6c4184f4f222156128f/MKultra6969/MK_XRAYchecker",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 893149802,
-        "content": "🔥 <b>manim-video-generator</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to create mathematical animations by simply describing them in natural language, abstracting away the complexity of Manim coding.\n<br>\n✨ <b>Key Features:</b>\n• Generate mathematical animations from text descriptions\n• Modern, responsive web interface\n• Real-time code preview with syntax highlighting\n• Support for various mathematical concepts\n• Easy-to-use example prompts\n<br>\n📖 <b>Summary:</b>\nThis repository provides a web-based tool that generates mathematical animations from natural language descriptions. It leverages OpenAI's GPT models to translate text prompts into Manim code, which then renders complex mathematical visualizations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rohitg00/manim-video-generator?embed=0\">View Project</a>\n• <a href=\"https://manim-video-generator.sevalla.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d0585bbd9fd8b3f2f87ea7d11d5480bed15f44ff12742a95328e9582d23e40e4/rohitg00/manim-video-generator",
-        "platform": "telegram",
-        "quality_score": 0.4
-    },
-    {
-        "project_id": 1047524959,
-        "content": "🚀 <b>WiFiAudioStreaming-Desktop</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nStreaming computer audio wirelessly over a local network to other devices.\n<br>\n✨ <b>Key Features:</b>\n• Server & Client Modes\n• Automatic Discovery\n• Unicast & Multicast Support\n• Detailed Audio Configuration\n• Modern Interface (Jetpack Compose)\n<br>\n📖 <b>Summary:</b>\nWiFiAudioStreaming-Desktop is a Kotlin application that transforms your computer into a wireless audio transmitter or receiver. It enables streaming of your PC's internal audio to other devices on the local network, or receiving audio from them, with features like automatic discovery and configurable audio settings.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/marcomorosi06/WiFiAudioStreaming-Desktop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8817421a4807db2fc6ce4539eea5e5bb37663a20bb68844dbd2cfb9f57ad2e94/marcomorosi06/WiFiAudioStreaming-Desktop",
-        "platform": "telegram",
-        "quality_score": 0.4
-    },
-    {
-        "project_id": 969211164,
-        "content": "🚀 <b>komari</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring server performance and status through a web interface.\n<br>\n✨ <b>Key Features:</b>\n• Lightweight and Efficient\n• Self-hosted\n• Web Interface\n<br>\n📖 <b>Summary:</b>\nKomari is a lightweight, self-hosted server monitoring tool that provides a web interface for viewing server status and collects data via a lightweight agent. It prioritizes low resource consumption and user data privacy.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/komari-monitor/komari?embed=0\">View Project</a>\n• <a href=\"https://ss.akz.moe?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/feec5a360db62d76e6f33613c1b693cf9c220ee94440bf1d5296c16203827324/komari-monitor/komari",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1075241121,
-        "content": "🚀 <b>go-agent</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding production-ready AI agents in the Go programming language.\n<br>\n✨ <b>Key Features:</b>\n• Modular Architecture\n• Multi-Agent Support\n• Rich Tooling\n• Smart Memory (RAG-powered)\n• Model Agnostic LLM Providers\n<br>\n📖 <b>Summary:</b>\nThe go-agent repository provides a framework for building AI agents in Go, offering features like pluggable LLM providers, tool calling, RAG-powered memory, and multi-agent coordination. It is designed for production use with a focus on performance and idiomatic Go interfaces.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Protocol-Lattice/go-agent?embed=0\">View Project</a>\n• <a href=\"https://deepwiki.com/Protocol-Lattice/go-agent?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/eeee3945aed855a39d407343477fd166a749cff0ef01445691adab0fc6b79eca/Protocol-Lattice/go-agent",
-        "platform": "telegram",
-        "quality_score": 0.5499999999999999
-    },
-    {
-        "project_id": 624557411,
-        "content": "🔥 <b>Jauth</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSecuring self-hosted applications with SSL/TLS and user authorization.\n<br>\n✨ <b>Key Features:</b>\n• Single binary executable with no dependencies\n• SSL/TLS encryption using autogenerated self-signed certificates or Let's Encrypt\n• User authorization via SSH or Telegram\n• Optional Singe Sign-On\n• Minimal configuration required\n<br>\n📖 <b>Summary:</b>\nJauth is a Go-based, single-binary reverse proxy that secures self-hosted applications with SSL/TLS encryption and flexible user authorization via SSH or Telegram. It simplifies access management with optional Single Sign-On (SSO) and minimal configuration, making it ideal for protecting web services.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Jipok/Jauth?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/73afc76060a8b66a9743ba224c32eaf9ee0923a7af222625a2157c82a7ecd241/Jipok/Jauth",
-        "platform": "telegram",
-        "quality_score": 0.25
     }
 ]

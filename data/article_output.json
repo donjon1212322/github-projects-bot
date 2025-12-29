@@ -1,26 +1,25 @@
 {
-    "title": "Ditch the Bloat: Komari is the Featherlight, Self-Hosted Server Monitor You Need",
-    "article": "Are you tired of server monitoring tools that feel heavier than the servers they are supposed to be watching? If your small VPS or development machine is groaning under the weight of resource-hungry monitoring agents, then you absolutely need to meet Komari. This project is a game-changer for anyone who values efficiency, privacy, and simplicity in their infrastructure management.\n\nKomari’s core appeal lies in its extremely lightweight footprint. It was built from the ground up to consume minimal resources, making it perfectly suited for servers of all sizes, especially those smaller, budget-friendly virtual machines where every megabyte of RAM counts. Unlike complex enterprise solutions, Komari keeps things simple yet effective, focusing purely on providing essential performance metrics without the unnecessary feature bloat.\n\nThe architecture is straightforward and developer-friendly. You deploy the main Komari server component, which acts as your central hub and provides the intuitive web dashboard. This server is where all your collected data lives and is beautifully visualized. Crucially, Komari is designed to be self-hosted. This means you maintain complete control over your operational data, ensuring maximum privacy and eliminating recurring subscription fees that often come with SaaS monitoring platforms.\n\nTo monitor a specific machine, you simply install the lightweight agent. This agent is the data collector, silently gathering metrics like CPU usage, memory consumption, and disk I/O, and securely reporting them back to your central Komari instance. Because the agent is so tiny and efficient, it barely registers on your system load. This separation of concerns—a central dashboard and distributed, minimal agents—is what makes Komari so powerful for maintaining low overhead.\n\nThe setup process is remarkably easy, supporting multiple deployment methods. Whether you prefer the simplicity of a quick one-click install script for systemd-based Linux distributions, the portability of Docker, or running a standalone binary, you can have your entire monitoring infrastructure up and running in minutes, not hours. The default configurations are sensible, but customization options for user credentials are also readily available via environment variables.\n\nFor developers and hobbyists, Komari is the perfect tool for maintaining visibility without complexity. Whether you are running a single personal website, managing a small fleet of game servers, or just need a simple, reliable dashboard for your development environment, Komari provides the real-time insights you need without forcing you into proprietary ecosystems. It’s monitoring done right: efficient, transparent, and entirely under your control, letting you focus on writing code instead of troubleshooting monitoring tools.",
+    "title": "Skip the Servers: Deploy Any Local AI Agent to Production with Bedrock AgentCore SDK",
+    "article": "We all know the drill: building sophisticated AI agents using flexible, cutting-edge frameworks like LangGraph, CrewAI, or even custom Python logic is exciting. But the moment you try to move that brilliant local prototype into a scalable, secure production environment, the fun stops. You’re suddenly drowning in infrastructure management, server configs, and scaling nightmares. This is the exact problem the Bedrock AgentCore SDK solves, making the leap from development to enterprise-grade deployment practically instantaneous.\n\nThis Python SDK acts as the essential bridge between your flexible, framework-agnostic agent code and the robust, managed environment of Amazon Bedrock AgentCore. The core functionality is beautifully simple: it allows you to define an entry point for your agent logic using a simple decorator. It doesn't matter if your agent uses Strands, Autogen, or just pure Python—the SDK integrates seamlessly. You keep 100% of your carefully crafted agent logic, but gain the power of a dedicated, production-ready platform.\n\nThe real developer advantage here is the promise of zero infrastructure management. When you deploy via the AgentCore SDK, you are essentially offloading all the heavy lifting of operationalizing AI agents to AWS. Say goodbye to worrying about containers, scaling capacity, or maintaining uptime. Bedrock AgentCore provides secure, session-isolated compute that scales automatically to meet demand. This allows you to focus solely on improving the agent's intelligence and capabilities, rather than fighting with DevOps complexities.\n\nFurthermore, using this SDK immediately grants your agent enterprise-grade features that are critical for real-world applications. This includes built-in authentication mechanisms, robust memory management for maintaining conversational context across sessions, and comprehensive observability tools for monitoring performance and debugging in real time. This composable architecture ensures you never have to choose between the flexibility of open-source frameworks and the security and reliability required for large-scale, compliant deployments. If you want to accelerate your AI projects into reliable production without the headache of managing servers, this SDK is an absolute game-changer you need to explore today.",
     "key_takeaways": [
-        "Komari is an ultra-lightweight, self-hosted server monitoring tool designed for efficiency and low resource consumption.",
-        "The self-hosted architecture ensures complete data privacy and control, eliminating reliance on third-party SaaS providers.",
-        "It features an intuitive web dashboard and uses minimal agents to collect essential performance metrics from remote servers.",
-        "Deployment is fast and simple, supporting Docker, one-click scripts, and binary installation.",
-        "Ideal for small VPS, budget servers, or developers seeking infrastructure visibility without the complexity and bloat of enterprise solutions."
+        "Deploy local AI agents built with any framework (LangGraph, CrewAI, Autogen, etc.) directly to production using a simple Python SDK.",
+        "Achieve zero infrastructure management, eliminating the need to configure servers, containers, or scaling logic.",
+        "Agents automatically inherit enterprise-grade features like security, built-in memory, and observability from the Bedrock platform.",
+        "The SDK accelerates the path from prototype to production reality, allowing developers to focus purely on agent logic."
     ],
     "tags": [
-        "Server Monitoring",
-        "Self-Hosted",
-        "System Administration",
-        "Lightweight",
-        "DevOps Tools"
+        "AWS",
+        "AI Agents",
+        "Bedrock",
+        "Serverless",
+        "Python"
     ],
-    "stars": 3242,
-    "forks": 298,
-    "open_issues": 54,
-    "languages": "Go",
-    "readme_summary": "Komari is a lightweight, self-hosted server monitoring tool that provides a web interface for viewing server status and collects data via a lightweight agent. It prioritizes low resource consumption and user data privacy.",
-    "project_id": 969211164,
-    "url": "https://github.com/komari-monitor/komari",
-    "description": "A simple server monitor tool."
+    "stars": 606,
+    "forks": 73,
+    "open_issues": 26,
+    "languages": "Python",
+    "readme_summary": "The Bedrock AgentCore SDK for Python allows developers to deploy their existing AI agents, built with any framework, onto AWS Bedrock AgentCore with zero infrastructure management. It provides an enterprise-grade platform with built-in authentication, memory, observability, and security for production-ready deployments.",
+    "project_id": 1015684263,
+    "url": "https://github.com/aws/bedrock-agentcore-sdk-python",
+    "description": "Python SDK for transforming any AI agent into a production-ready application. Framework-agnostic primitives for runtime, memory, authentication, and tools with AWS-managed infrastructure."
 }
