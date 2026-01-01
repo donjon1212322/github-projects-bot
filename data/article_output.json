@@ -1,26 +1,26 @@
 {
-    "title": "Cryptographic Time Travel: Securely Locking Data Until the Future with tlock",
-    "article": "The fundamental idea behind tlock is solving the long-standing problem of trustless delayed data release. Imagine a scenario where you absolutely must release sensitive information, like a secret key or a confidential document, exactly at a specific future moment—say, midnight on New Year's Day—and you need an unbreakable guarantee that *no one*, including yourself, can peek at it even a second earlier. Traditionally, achieving this level of verifiable delay requires trusting a central escrow agent or a complex smart contract, both of which introduce potential single points of failure or exploitable vulnerabilities. Tlock eliminates this trust requirement by linking the decryption capability directly to the flow of verifiable, decentralized time.\n\nTlock achieves this revolutionary capability using the power of the drand network. Drand is essentially a global, distributed randomness beacon. Think of it as a highly reliable, decentralized clock run by independent organizations (the League of Entropy) that collectively generate verifiable and unpredictable random numbers at fixed intervals, typically every three seconds. When you encrypt data using tlock, you specify a future drand \"round\" number. The data is cryptographically locked until that exact round occurs and the corresponding random beacon is generated.\n\nOnly once the drand network generates the random beacon for that specified round can the necessary public key material be combined to generate the required decryption key. Since this process is distributed and relies on a threshold consensus among many participants, no single entity—not even the original encryptor—can cheat the clock or pre-calculate the key. This provides a cryptographic guarantee of the release time.\n\nFor developers, this opens up powerful and reliable possibilities. If you are building decentralized applications (dApps), tlock offers a robust mechanism for implementing verifiable commitment schemes, enabling secure sealed-bid auctions where all bids are revealed simultaneously, or establishing reliable time-delayed execution triggers for complex processes. The core implementation is a robust Go library, making integration into backend services straightforward. Furthermore, the accompanying `tle` command-line tool allows anyone to immediately leverage this capability for simple file encryption and decryption without needing to write any code. With compatible implementations in TypeScript and Rust also available, tlock ensures broad compatibility across diverse technology stacks. This project is a genuine game-changer for secure, time-sensitive data handling, providing undeniable cryptographic proof of release time.",
+    "title": "Ditch Context Switching: Wave Terminal Unifies Your CLI, Browser, and AI",
+    "article": "We all know the pain: running a command, hitting an error, opening the browser for documentation, jumping to a separate editor to check a remote config file, and maybe pasting the error into an AI tool. Developers spend half their time managing this context switching chaos. Wave Terminal is here to solve that by fundamentally rethinking what a terminal can be.\n\nWave integrates all the tools you constantly juggle—the command line, graphical file previewers, a web browser, and a powerful AI assistant—into one unified, customizable workspace. It moves beyond the traditional text-only interface by introducing flexible \"blocks.\" You can drag and drop these blocks to organize your session, combining standard shell inputs with things like a built-in code editor or a documentation widget.\n\nHow does this block system enhance your workflow? Imagine running a complex database migration in one terminal block while simultaneously editing the schema file in an adjacent, modern editor block—even if that file is on a remote server accessible via SSH. You can then use another block to quickly preview a generated PDF report or check a Markdown README file, all without ever leaving the Wave application. This rich file preview system works flawlessly for remote files, making file management incredibly visual and secure.\n\nPerhaps the most transformative feature is Wave AI. This isn't just a generic chatbot; it's deeply context-aware. It has access to your workspace, meaning it can read the scrollback history of your terminal output, analyze active widgets, and even perform file operations (only with your explicit approval, of course). This turns debugging into a conversation. Instead of copying logs, you simply ask the AI, \"What caused this error?\" and it responds based on the immediate context of your session.\n\nBeyond the visuals and AI, Wave simplifies the complexities of multi-host development. It features secure secret storage using native system backends, allowing you to safely store API keys and credentials and access them across all your SSH sessions. Furthermore, the powerful `wsh` command system lets you manage your entire environment from the CLI, enabling seamless file synchronization between local machines, remote hosts, and even S3 buckets. Wave Terminal drastically reduces mental overhead, allowing you to focus on coding, not context management.",
     "key_takeaways": [
-        "tlock provides trustless, decentralized timelock encryption using the drand network's verifiable randomness.",
-        "Data can only be decrypted after a specific, cryptographically guaranteed future time (drand round) has passed.",
-        "It eliminates the need for central escrow agents or trusted third parties for time-delayed data release.",
-        "Available as a robust Go library and a simple, versatile CLI tool (`tle`) for immediate use.",
-        "The project is production-ready, relying on the high-availability League of Entropy drand network."
+        "Wave Terminal merges the CLI, graphical file previews, web browsing, and code editing into a single, unified block-based workspace.",
+        "The context-aware Wave AI assistant can read terminal output and perform file operations, significantly speeding up debugging and analysis.",
+        "It features seamless, secure remote file editing with a built-in modern editor, eliminating the need for separate SFTP clients or basic CLI editors.",
+        "Securely manage and access API keys and credentials across multiple SSH sessions using native system backends.",
+        "The `wsh` command system allows for powerful CLI-based management and file synchronization across local, remote, and cloud storage."
     ],
     "tags": [
-        "drand",
-        "Timelock Encryption",
-        "Cryptography",
-        "Go",
-        "Decentralized Systems"
+        "Terminal Emulator",
+        "Developer Workflow",
+        "AI Tools",
+        "Open Source",
+        "Productivity"
     ],
-    "stars": 575,
-    "forks": 32,
-    "open_issues": 4,
+    "stars": 15887,
+    "forks": 677,
+    "open_issues": 383,
     "languages": "Go",
-    "readme_summary": "The tlock Go library and `tle` CLI tool enable practical timelock encryption, allowing data to be encrypted today but only decrypted at a future, predetermined time. It leverages the drand threshold network for secure and verifiable time-based decryption keys.",
-    "project_id": 503826181,
-    "url": "https://github.com/drand/tlock",
-    "description": "Timelock Encryption made practical. The Go `tlock` library and the `tle` cmd line tool home to encrypt towards the future."
+    "readme_summary": "Wave Terminal is an open-source, cross-platform terminal application that integrates traditional command-line functionality with graphical tools like file previews, web browsing, and AI assistance. It aims to keep developers within their terminal workflow while providing access to essential visual interfaces.",
+    "project_id": 501045649,
+    "url": "https://github.com/wavetermdev/waveterm",
+    "description": "An open-source, cross-platform terminal for seamless workflows"
 }
