@@ -1,23 +1,37 @@
 [
     {
-        "project_id": 283230219,
-        "content": "🌟 <b>YouPlot</b> | Ruby\n<br>\n🎯 <b>Primary Use Case:</b>\nTo quickly visualize data in the terminal without needing a graphical interface, making it useful for command-line workflows and data exploration.\n<br>\n✨ <b>Key Features:</b>\n• Draws plots directly in the terminal\n• Supports bar, histogram, line, scatter, density, and box plots\n• Processes data from standard input (piped data)\n• Handles CSV and TSV data formats\n• Configurable plot dimensions and titles\n<br>\n📖 <b>Summary:</b>\nYouPlot is a command-line tool written in Ruby that generates various types of plots directly within the terminal. It leverages UnicodePlot to render visualizations from data piped into it, supporting formats like TSV and CSV.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/red-data-tools/YouPlot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/283230219/91a7df00-dd67-11eb-8d1c-8c7725a92107",
+        "project_id": 3495900,
+        "content": "✨ <b>IPBan</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nProtecting servers (dedicated or cloud) on Windows and Linux from brute-force attacks and unauthorized access by automatically banning malicious IP addresses.\n<br>\n✨ <b>Key Features:</b>\n• Auto ban IP addresses by detecting failed logins from event viewer and/or log files\n<br>\n📖 <b>Summary:</b>\nIPBan is a free, open-source security software for Windows and Linux that automatically blocks IP addresses attempting to gain unauthorized access to servers. It monitors system logs and event viewers for failed login attempts and uses firewall rules to ban malicious IPs, protecting servers from hackers and botnets.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DigitalRuby/IPBan?embed=0\">View Project</a>\n• <a href=\"https://ipban.com/upgrade-to-ipban-pro/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/3495900/dd19c77d-a378-446f-92d0-faad935fdf6e",
         "platform": "telegram",
-        "quality_score": 0.7
+        "quality_score": 0.7500000000000001
     },
     {
-        "project_id": 925805951,
-        "content": "💡 <b>agentkit</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding AI agents that can perform on-chain cryptocurrency transactions and interact with DeFi protocols without requiring users to hold native tokens for gas fees.\n<br>\n✨ <b>Key Features:</b>\n• Framework-agnostic AI Agent primitives\n• Support for Python and Node.js\n• Gasless Transactions\n• Account Abstraction (ERC-4337)\n• Multi-Chain Support (BSC, Avalanche, Base, Sonic, Moonbeam)\n<br>\n📖 <b>Summary:</b>\nAgentKit is a TypeScript toolkit enabling AI agents to interact with blockchain networks and DeFi protocols. It facilitates gasless transactions and account abstraction on EVM chains, allowing agents to manage funds, trade tokens, and deploy smart contracts using natural language.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/0xgasless/agentkit?embed=0\">View Project</a>\n• <a href=\"https://docs.0xgasless.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fb4a44f06b27d0ff48b8a47b0f2ee3b3469295263d03303f6eb395f4390a4905/0xgasless/agentkit",
+        "project_id": 735299413,
+        "content": "🔥 <b>ha-fusion</b> | Svelte\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a customizable and visually appealing dashboard for controlling and monitoring Home Assistant devices and entities.\n<br>\n✨ <b>Key Features:</b>\n• Modern, easy-to-use, and performant custom Home Assistant dashboard\n• Svelte-based frontend\n• Add-on installation for Home Assistant OS/Supervised\n• Docker installation for Container/Core users\n• Kubernetes support via Helm chart\n<br>\n📖 <b>Summary:</b>\nha-fusion is a modern, user-friendly, and performant custom dashboard for Home Assistant, built with Svelte. It offers enhanced control and a visually appealing interface for managing smart home devices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/matt8707/ha-fusion?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/094d6e122a0bff9b572ab76c3554baf5176669b41c0d42619a470888e0bccb15/matt8707/ha-fusion",
         "platform": "telegram",
-        "quality_score": 0.6000000000000001
+        "quality_score": 0.55
     },
     {
-        "project_id": 501045649,
-        "content": "✨ <b>waveterm</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enhance developer productivity by integrating graphical tools and AI assistance directly into the terminal environment, reducing context switching.\n<br>\n✨ <b>Key Features:</b>\n• Flexible drag & drop interface for organizing terminal blocks, editors, web browsers, and AI assistants\n• Built-in editor for remote files with syntax highlighting\n<br>\n📖 <b>Summary:</b>\nWave Terminal is an open-source, cross-platform terminal application that integrates traditional command-line functionality with graphical tools like file previews, web browsing, and AI assistance. It aims to keep developers within their terminal workflow while providing access to essential visual interfaces.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wavetermdev/waveterm?embed=0\">View Project</a>\n• <a href=\"https://www.waveterm.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/14dd4af8317413c283b88b5863b46c2a63d865f241fdedba682ce102194fd109/wavetermdev/waveterm",
+        "project_id": 1119489498,
+        "content": "🌟 <b>OMG-Agent</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating mobile device operations using AI and natural language commands.\n<br>\n✨ <b>Key Features:</b>\n• AI-driven mobile GUI operation via natural language\n• Supports AutoGLM and GELab-Zero models\n• ADB real-time screenshot and task execution\n• Bilingual interface (English/Chinese) and theme support\n• OpenAI-compatible API support\n<br>\n📖 <b>Summary:</b>\nOMG-Agent is an open-source desktop client that enables AI to control Android phones through natural language commands. It integrates with mobile GUI models and uses ADB for real-time interaction, supporting both physical devices and emulators.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Safphere/OMG-Agent?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d6b277449a291204b45c0e9d1fbcdd005e1b31eb03bbac7021e9d2f817d6280c/Safphere/OMG-Agent",
         "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 0.8499999999999999
+    },
+    {
+        "project_id": 260150521,
+        "content": "✨ <b>antares</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nA cross-platform, free, and feature-rich SQL client for developers to manage and interact with various database systems.\n<br>\n✨ <b>Key Features:</b>\n• Multiple database connections\n• Database and table management\n• Views, triggers, stored routines, functions and schedulers management\n• Tab system\n• Fake table data filler\n<br>\n📖 <b>Summary:</b>\nAntares SQL Client is a modern, fast, and user-friendly desktop application for managing multiple SQL databases. Built with Electron.js and Vue.js, it supports various database systems and operating systems, aiming to provide a productive and free alternative for developers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/antares-sql/antares?embed=0\">View Project</a>\n• <a href=\"https://antares-sql.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/260150521/9fce5722-92a2-48a4-922e-ea61864e17ef",
+        "platform": "telegram",
+        "quality_score": 0.7999999999999999
+    },
+    {
+        "project_id": 13142126,
+        "content": "🚀 <b>riot</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding efficient and maintainable user interfaces with custom, reusable web components using a simple and elegant syntax.\n<br>\n✨ <b>Key Features:</b>\n• Custom components with HTML syntax\n• Concise syntax\n• Simple API\n• Tiny Size\n• Performant and predictable DOM updates\n<br>\n📖 <b>Summary:</b>\nRiot.js is a lightweight and elegant JavaScript UI library that enables developers to build custom, reusable components using HTML-like syntax. It focuses on simplicity, performance, and close adherence to web standards, making it easy to integrate into existing projects or use as a standalone framework.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/riot/riot?embed=0\">View Project</a>\n• <a href=\"https://riot.js.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/48c29444392544c6e6d194a0343f291f282bdd8a517c563abb6ff88720b38aed/riot/riot",
+        "platform": "telegram",
+        "quality_score": 0.6
     }
 ]
