@@ -1,37 +1,44 @@
 [
     {
-        "project_id": 3495900,
-        "content": "✨ <b>IPBan</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nProtecting servers (dedicated or cloud) on Windows and Linux from brute-force attacks and unauthorized access by automatically banning malicious IP addresses.\n<br>\n✨ <b>Key Features:</b>\n• Auto ban IP addresses by detecting failed logins from event viewer and/or log files\n<br>\n📖 <b>Summary:</b>\nIPBan is a free, open-source security software for Windows and Linux that automatically blocks IP addresses attempting to gain unauthorized access to servers. It monitors system logs and event viewers for failed login attempts and uses firewall rules to ban malicious IPs, protecting servers from hackers and botnets.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DigitalRuby/IPBan?embed=0\">View Project</a>\n• <a href=\"https://ipban.com/upgrade-to-ipban-pro/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/3495900/dd19c77d-a378-446f-92d0-faad935fdf6e",
+        "project_id": 55336932,
+        "content": "💡 <b>iOS</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a seamless and integrated native mobile and desktop experience for users to control their Home Assistant smart home setup on Apple devices.\n<br>\n✨ <b>Key Features:</b>\n• Native iOS, iPadOS, and macOS applications for Home Assistant\n• Control and monitor smart home devices\n• Manage automations and scenes\n• View sensor data and device states\n<br>\n📖 <b>Summary:</b>\nThis repository provides the official Home Assistant client application for Apple platforms, allowing users to control and monitor their smart home devices from their iPhones, iPads, and Macs. It offers a native experience for managing automations, viewing sensor data, and interacting with various smart home integrations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/home-assistant/iOS?embed=0\">View Project</a>\n• <a href=\"https://companion.home-assistant.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/55336932/3ebffa9d-312b-4b88-bb34-4ea2f18313a5",
         "platform": "telegram",
-        "quality_score": 0.7500000000000001
+        "quality_score": 0.85
     },
     {
-        "project_id": 735299413,
-        "content": "🔥 <b>ha-fusion</b> | Svelte\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a customizable and visually appealing dashboard for controlling and monitoring Home Assistant devices and entities.\n<br>\n✨ <b>Key Features:</b>\n• Modern, easy-to-use, and performant custom Home Assistant dashboard\n• Svelte-based frontend\n• Add-on installation for Home Assistant OS/Supervised\n• Docker installation for Container/Core users\n• Kubernetes support via Helm chart\n<br>\n📖 <b>Summary:</b>\nha-fusion is a modern, user-friendly, and performant custom dashboard for Home Assistant, built with Svelte. It offers enhanced control and a visually appealing interface for managing smart home devices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/matt8707/ha-fusion?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/094d6e122a0bff9b572ab76c3554baf5176669b41c0d42619a470888e0bccb15/matt8707/ha-fusion",
+        "project_id": 259406841,
+        "content": "🚀 <b>win-vind</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users, particularly those familiar with Vim, to control and interact with the Windows graphical user interface using keyboard shortcuts and Vim-like commands, thereby increasing efficiency and productivity.\n<br>\n✨ <b>Key Features:</b>\n• Vim-like UI operation for Windows GUI\n• Vim configuration methods and mode concepts\n• Built-in commands for UI operations\n• User-defined commands by combining built-in commands\n<br>\n📖 <b>Summary:</b>\nwin-vind is a C++ tool that provides a Vim-like user interface for controlling Windows. It allows users to operate the Windows GUI using Vim's familiar key bindings and mode concepts, offering a lightweight and portable solution for enhanced productivity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pit-ray/win-vind?embed=0\">View Project</a>\n• <a href=\"https://pit-ray.github.io/win-vind/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/707ce96ba63abcda8aaca4c8ce8ad30c63dc401d8138abaf82095f596c16238b/pit-ray/win-vind",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.65
     },
     {
-        "project_id": 1119489498,
-        "content": "🌟 <b>OMG-Agent</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating mobile device operations using AI and natural language commands.\n<br>\n✨ <b>Key Features:</b>\n• AI-driven mobile GUI operation via natural language\n• Supports AutoGLM and GELab-Zero models\n• ADB real-time screenshot and task execution\n• Bilingual interface (English/Chinese) and theme support\n• OpenAI-compatible API support\n<br>\n📖 <b>Summary:</b>\nOMG-Agent is an open-source desktop client that enables AI to control Android phones through natural language commands. It integrates with mobile GUI models and uses ADB for real-time interaction, supporting both physical devices and emulators.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Safphere/OMG-Agent?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d6b277449a291204b45c0e9d1fbcdd005e1b31eb03bbac7021e9d2f817d6280c/Safphere/OMG-Agent",
-        "platform": "telegram",
-        "quality_score": 0.8499999999999999
-    },
-    {
-        "project_id": 260150521,
-        "content": "✨ <b>antares</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nA cross-platform, free, and feature-rich SQL client for developers to manage and interact with various database systems.\n<br>\n✨ <b>Key Features:</b>\n• Multiple database connections\n• Database and table management\n• Views, triggers, stored routines, functions and schedulers management\n• Tab system\n• Fake table data filler\n<br>\n📖 <b>Summary:</b>\nAntares SQL Client is a modern, fast, and user-friendly desktop application for managing multiple SQL databases. Built with Electron.js and Vue.js, it supports various database systems and operating systems, aiming to provide a productive and free alternative for developers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/antares-sql/antares?embed=0\">View Project</a>\n• <a href=\"https://antares-sql.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/260150521/9fce5722-92a2-48a4-922e-ea61864e17ef",
-        "platform": "telegram",
-        "quality_score": 0.7999999999999999
-    },
-    {
-        "project_id": 13142126,
-        "content": "🚀 <b>riot</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding efficient and maintainable user interfaces with custom, reusable web components using a simple and elegant syntax.\n<br>\n✨ <b>Key Features:</b>\n• Custom components with HTML syntax\n• Concise syntax\n• Simple API\n• Tiny Size\n• Performant and predictable DOM updates\n<br>\n📖 <b>Summary:</b>\nRiot.js is a lightweight and elegant JavaScript UI library that enables developers to build custom, reusable components using HTML-like syntax. It focuses on simplicity, performance, and close adherence to web standards, making it easy to integrate into existing projects or use as a standalone framework.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/riot/riot?embed=0\">View Project</a>\n• <a href=\"https://riot.js.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/48c29444392544c6e6d194a0343f291f282bdd8a517c563abb6ff88720b38aed/riot/riot",
+        "project_id": 704429081,
+        "content": "🌟 <b>mail2telegram</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo receive and manage emails through a Telegram bot, effectively creating a temporary, accessible inbox anywhere via Telegram.\n<br>\n✨ <b>Key Features:</b>\n• Forward emails to Telegram messages\n• Cloudflare Email Routing integration\n• Serverless deployment with Cloudflare Workers\n• Temporary mailbox with infinite address\n• Webhook binding for Telegram Bot API\n<br>\n📖 <b>Summary:</b>\nmail2telegram is a serverless application that forwards emails received via Cloudflare Email Routing to a Telegram bot. It creates a temporary mailbox for any email prefix, converting incoming emails into Telegram messages for easy access and management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TBXark/mail2telegram?embed=0\">View Project</a>\n• <a href=\"https://deepwiki.com/TBXark/mail2telegram?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/704429081/7f69118e-6128-43aa-a000-620e82922bc0",
         "platform": "telegram",
         "quality_score": 0.6
+    },
+    {
+        "project_id": 957782869,
+        "content": "💡 <b>KeyForge3D</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating 3D printable STL files of keys from photographs for replication.\n<br>\n✨ <b>Key Features:</b>\n• Key Shape Extraction from photo\n• Bitting Analysis and code detection\n• 3D Model Generation\n• STL Export\n• User-Friendly GUI\n<br>\n📖 <b>Summary:</b>\nKeyForge3D is a Python application that converts a photograph of a physical key into a 3D-printable STL file. It uses image processing to analyze the key's bitting pattern and generates an accurate 3D model, making it useful for locksmiths and hobbyists for quick key replication.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/makalin/KeyForge3D?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e208a7bce05d4229ae437c9afe03c06f6892a1ec04e6b053a414c8af6134cb10/makalin/KeyForge3D",
+        "platform": "telegram",
+        "quality_score": 0.4
+    },
+    {
+        "project_id": 947576856,
+        "content": "💡 <b>collab-dev</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAnalyzing collaboration metrics and insights from GitHub code review data to improve team efficiency and understanding of development workflows.\n<br>\n✨ <b>Key Features:</b>\n• Fetches pull request data from GitHub repositories\n• Generates interactive charts using Plotly\n• Provides a Command Line Interface for analysis\n• Uses portable and minimal CSV data structure\n• Extensible for adding new custom charts\n<br>\n📖 <b>Summary:</b>\ncollab-dev is an open-source Python tool that analyzes GitHub pull request data to generate collaboration metrics and visualizations. It helps teams understand their code review workflow, process efficiency, and overall collaboration patterns.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pullflow/collab-dev?embed=0\">View Project</a>\n• <a href=\"https://collab.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5e5d37fc568d77a39ff7b452cfb358747dec8f64b5881063e82cc5638422e882/pullflow/collab-dev",
+        "platform": "telegram",
+        "quality_score": 0.15
+    },
+    {
+        "project_id": 118506495,
+        "content": "✨ <b>pycm</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEvaluating the performance of multi-class classification models in machine learning.\n<br>\n✨ <b>Key Features:</b>\n• Multi-class confusion matrix generation\n• Supports input data vectors and direct matrices\n• Comprehensive overall and class-specific statistics\n• Plotting capabilities for confusion matrices\n• Compatibility with various Python versions and ML frameworks\n<br>\n📖 <b>Summary:</b>\nPyCM is a Python library for generating and evaluating multi-class confusion matrices. It supports various input formats and provides a comprehensive set of statistical metrics for post-classification model assessment, making it a versatile tool for data scientists.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sepandhaghighi/pycm?embed=0\">View Project</a>\n• <a href=\"http://pycm.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/118506495/7402bb80-b381-11e9-954e-e02cf30cb98c",
+        "platform": "telegram",
+        "quality_score": 0.7
     }
 ]
