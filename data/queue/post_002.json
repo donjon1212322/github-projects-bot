@@ -1,7 +1,0 @@
-{
-    "project_id": 704429081,
-    "content": "🌟 <b>mail2telegram</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo receive and manage emails through a Telegram bot, effectively creating a temporary, accessible inbox anywhere via Telegram.\n<br>\n✨ <b>Key Features:</b>\n• Forward emails to Telegram messages\n• Cloudflare Email Routing integration\n• Serverless deployment with Cloudflare Workers\n• Temporary mailbox with infinite address\n• Webhook binding for Telegram Bot API\n<br>\n📖 <b>Summary:</b>\nmail2telegram is a serverless application that forwards emails received via Cloudflare Email Routing to a Telegram bot. It creates a temporary mailbox for any email prefix, converting incoming emails into Telegram messages for easy access and management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TBXark/mail2telegram?embed=0\">View Project</a>\n• <a href=\"https://deepwiki.com/TBXark/mail2telegram?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://repository-images.githubusercontent.com/704429081/7f69118e-6128-43aa-a000-620e82922bc0",
-    "platform": "telegram",
-    "quality_score": 0.6
-}
