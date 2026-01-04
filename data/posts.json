@@ -1,44 +1,37 @@
 [
     {
-        "project_id": 55336932,
-        "content": "💡 <b>iOS</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a seamless and integrated native mobile and desktop experience for users to control their Home Assistant smart home setup on Apple devices.\n<br>\n✨ <b>Key Features:</b>\n• Native iOS, iPadOS, and macOS applications for Home Assistant\n• Control and monitor smart home devices\n• Manage automations and scenes\n• View sensor data and device states\n<br>\n📖 <b>Summary:</b>\nThis repository provides the official Home Assistant client application for Apple platforms, allowing users to control and monitor their smart home devices from their iPhones, iPads, and Macs. It offers a native experience for managing automations, viewing sensor data, and interacting with various smart home integrations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/home-assistant/iOS?embed=0\">View Project</a>\n• <a href=\"https://companion.home-assistant.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/55336932/3ebffa9d-312b-4b88-bb34-4ea2f18313a5",
+        "project_id": 367811056,
+        "content": "🚀 <b>Wristkey</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a convenient and secure way to manage and generate Two-Factor Authentication (2FA) codes directly from their smartwatch.\n<br>\n✨ <b>Key Features:</b>\n• Standalone Wear OS app (no phone pairing required)\n• Imports from Aegis Authenticator, andOTP, and Bitwarden\n• Secure local storage (AES-256-GCM)\n• Encrypted WiFi transfers (XSalsa20-Poly1305, X25519)\n<br>\n📖 <b>Summary:</b>\nWristkey is a free and open-source Two-Factor Authentication (2FA) app designed for Wear OS smartwatches, allowing users to generate OTPs directly from their wrist. It also supports phone usage and offers secure local storage and encrypted transfers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/0x4f53/Wristkey?embed=0\">View Project</a>\n• <a href=\"https://play.google.com/store/apps/details?id=zeroxfourf.wristkey?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/367811056/03369279-cd00-47b4-aa96-278ae906ce63",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 1113951179,
+        "content": "💡 <b>LiftShift</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a centralized platform to analyze their workout data from different fitness tracking apps, offering deeper insights and visualization of their progress.\n<br>\n✨ <b>Key Features:</b>\n• Workout log conversion (Hevy, Strong, Lyfta)\n• Interactive muscle heatmaps\n• Calendar filtering\n• Shareable progress cards\n• Plateau detection\n<br>\n📖 <b>Summary:</b>\nLiftShift is a free, open-source web application that converts workout logs from various fitness apps (like Hevy and Strong) into actionable insights. It provides interactive muscle heatmaps, calendar filtering, progress cards, plateau detection, and detailed exercise analysis.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aree6/LiftShift?embed=0\">View Project</a>\n• <a href=\"https://liftshift.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1113951179/9e1299eb-bb14-4fe1-9a50-772318732b55",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 808942394,
+        "content": "🔥 <b>RedCoffee</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automate the generation of PDF reports from SonarQube Community Edition analysis, facilitating easier sharing and review of code quality metrics.\n<br>\n✨ <b>Key Features:</b>\n• Generates PDF reports from SonarQube analysis data\n• Targets SonarQube Community Edition\n• Python-based CLI tool\n• Includes GitHub Actions for CI/CD (Unit Tests, MkDocs deployment)\n<br>\n📖 <b>Summary:</b>\nRedCoffee is a Python-based command-line interface (CLI) tool designed to generate PDF reports from SonarQube Community Edition analysis data. It addresses the lack of native PDF export functionality in the community edition, making it easier to share and review code quality metrics.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Anubhav9/RedCoffee?embed=0\">View Project</a>\n• <a href=\"https://anubhav9.github.io/RedCoffee?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e8e52a630b315afb565d3c801c3a258ea03e7cae734fbcb254f32bf1208b360e/Anubhav9/RedCoffee",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 259406841,
-        "content": "🚀 <b>win-vind</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users, particularly those familiar with Vim, to control and interact with the Windows graphical user interface using keyboard shortcuts and Vim-like commands, thereby increasing efficiency and productivity.\n<br>\n✨ <b>Key Features:</b>\n• Vim-like UI operation for Windows GUI\n• Vim configuration methods and mode concepts\n• Built-in commands for UI operations\n• User-defined commands by combining built-in commands\n<br>\n📖 <b>Summary:</b>\nwin-vind is a C++ tool that provides a Vim-like user interface for controlling Windows. It allows users to operate the Windows GUI using Vim's familiar key bindings and mode concepts, offering a lightweight and portable solution for enhanced productivity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pit-ray/win-vind?embed=0\">View Project</a>\n• <a href=\"https://pit-ray.github.io/win-vind/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/707ce96ba63abcda8aaca4c8ce8ad30c63dc401d8138abaf82095f596c16238b/pit-ray/win-vind",
+        "project_id": 956679248,
+        "content": "🌟 <b>kodus-ai</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated, intelligent code reviews integrated into Git workflows to improve code quality and developer productivity.\n<br>\n✨ <b>Key Features:</b>\n• Context-Aware Intelligence\n• Custom Review Policies\n• Native Git Integration\n• Continuous Learning\n<br>\n📖 <b>Summary:</b>\nKodus AI is an open-source AI agent designed to perform code reviews, mimicking the thoroughness of a senior developer. It integrates with Git workflows to learn codebase specifics and team standards, providing automated, context-aware feedback on pull requests to improve code quality, catch bugs, and enforce best practices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kodustech/kodus-ai?embed=0\">View Project</a>\n• <a href=\"https://kodus.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/516e2fb913da820940eb89f4f9b178bade7de36a441e29cf6874ecf876c29f31/kodustech/kodus-ai",
         "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 0.85
     },
     {
-        "project_id": 704429081,
-        "content": "🌟 <b>mail2telegram</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo receive and manage emails through a Telegram bot, effectively creating a temporary, accessible inbox anywhere via Telegram.\n<br>\n✨ <b>Key Features:</b>\n• Forward emails to Telegram messages\n• Cloudflare Email Routing integration\n• Serverless deployment with Cloudflare Workers\n• Temporary mailbox with infinite address\n• Webhook binding for Telegram Bot API\n<br>\n📖 <b>Summary:</b>\nmail2telegram is a serverless application that forwards emails received via Cloudflare Email Routing to a Telegram bot. It creates a temporary mailbox for any email prefix, converting incoming emails into Telegram messages for easy access and management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TBXark/mail2telegram?embed=0\">View Project</a>\n• <a href=\"https://deepwiki.com/TBXark/mail2telegram?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/704429081/7f69118e-6128-43aa-a000-620e82922bc0",
+        "project_id": 961450056,
+        "content": "🚀 <b>mussel</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nA general-purpose interpreted programming language for scripting, rapid prototyping, and learning programming concepts, offering a blend of performance and ease of use.\n<br>\n✨ <b>Key Features:</b>\n• Interpreted, dynamically typed language\n• Written in Rust\n• Simple and readable syntax\n• Powerful expression evaluation\n• Supports data types, variable bindings, functions, closures\n<br>\n📖 <b>Summary:</b>\nMussel is an interpreted, dynamically typed programming language written in Rust, designed for simplicity, readability, and powerful expression evaluation. It offers features like data types, functions, control flow, and a standard library, aiming for a balance between Rust's safety and speed with Python's ease of use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gianndev/mussel?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/42783e6a490b75e566d5225c6facbf0eee219e72907ddf05c02acb9c0f602d21/gianndev/mussel",
         "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 957782869,
-        "content": "💡 <b>KeyForge3D</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating 3D printable STL files of keys from photographs for replication.\n<br>\n✨ <b>Key Features:</b>\n• Key Shape Extraction from photo\n• Bitting Analysis and code detection\n• 3D Model Generation\n• STL Export\n• User-Friendly GUI\n<br>\n📖 <b>Summary:</b>\nKeyForge3D is a Python application that converts a photograph of a physical key into a 3D-printable STL file. It uses image processing to analyze the key's bitting pattern and generates an accurate 3D model, making it useful for locksmiths and hobbyists for quick key replication.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/makalin/KeyForge3D?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e208a7bce05d4229ae437c9afe03c06f6892a1ec04e6b053a414c8af6134cb10/makalin/KeyForge3D",
-        "platform": "telegram",
-        "quality_score": 0.4
-    },
-    {
-        "project_id": 947576856,
-        "content": "💡 <b>collab-dev</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAnalyzing collaboration metrics and insights from GitHub code review data to improve team efficiency and understanding of development workflows.\n<br>\n✨ <b>Key Features:</b>\n• Fetches pull request data from GitHub repositories\n• Generates interactive charts using Plotly\n• Provides a Command Line Interface for analysis\n• Uses portable and minimal CSV data structure\n• Extensible for adding new custom charts\n<br>\n📖 <b>Summary:</b>\ncollab-dev is an open-source Python tool that analyzes GitHub pull request data to generate collaboration metrics and visualizations. It helps teams understand their code review workflow, process efficiency, and overall collaboration patterns.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pullflow/collab-dev?embed=0\">View Project</a>\n• <a href=\"https://collab.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5e5d37fc568d77a39ff7b452cfb358747dec8f64b5881063e82cc5638422e882/pullflow/collab-dev",
-        "platform": "telegram",
-        "quality_score": 0.15
-    },
-    {
-        "project_id": 118506495,
-        "content": "✨ <b>pycm</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEvaluating the performance of multi-class classification models in machine learning.\n<br>\n✨ <b>Key Features:</b>\n• Multi-class confusion matrix generation\n• Supports input data vectors and direct matrices\n• Comprehensive overall and class-specific statistics\n• Plotting capabilities for confusion matrices\n• Compatibility with various Python versions and ML frameworks\n<br>\n📖 <b>Summary:</b>\nPyCM is a Python library for generating and evaluating multi-class confusion matrices. It supports various input formats and provides a comprehensive set of statistical metrics for post-classification model assessment, making it a versatile tool for data scientists.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sepandhaghighi/pycm?embed=0\">View Project</a>\n• <a href=\"http://pycm.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/118506495/7402bb80-b381-11e9-954e-e02cf30cb98c",
-        "platform": "telegram",
-        "quality_score": 0.7
+        "quality_score": 0.45
     }
 ]
