@@ -1,37 +1,44 @@
 [
     {
-        "project_id": 367811056,
-        "content": "🚀 <b>Wristkey</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a convenient and secure way to manage and generate Two-Factor Authentication (2FA) codes directly from their smartwatch.\n<br>\n✨ <b>Key Features:</b>\n• Standalone Wear OS app (no phone pairing required)\n• Imports from Aegis Authenticator, andOTP, and Bitwarden\n• Secure local storage (AES-256-GCM)\n• Encrypted WiFi transfers (XSalsa20-Poly1305, X25519)\n<br>\n📖 <b>Summary:</b>\nWristkey is a free and open-source Two-Factor Authentication (2FA) app designed for Wear OS smartwatches, allowing users to generate OTPs directly from their wrist. It also supports phone usage and offers secure local storage and encrypted transfers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/0x4f53/Wristkey?embed=0\">View Project</a>\n• <a href=\"https://play.google.com/store/apps/details?id=zeroxfourf.wristkey?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/367811056/03369279-cd00-47b4-aa96-278ae906ce63",
+        "project_id": 1102123131,
+        "content": "🌟 <b>container-diet</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nOptimizing Docker images for size, security, and best practices using AI-generated advice.\n<br>\n✨ <b>Key Features:</b>\n• AI-Driven Analysis using OpenAI (GPT-4o)\n• Docker-Themed UI with nautical icons\n• Local-first analysis (checks local Docker daemon)\n• Security vulnerability detection (root user, secrets, packages)\n• Entertaining 'Container Dietician' persona for feedback\n<br>\n📖 <b>Summary:</b>\nContainer Diet is an AI-powered CLI tool that analyzes Docker images and Dockerfiles to provide actionable optimization advice. It helps users reduce image size, improve security, and adhere to best practices with a fun,\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/k1lgor/container-diet?embed=0\">View Project</a>\n• <a href=\"https://k1lgor.github.io/container-diet/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0f3134330aef023f75f8f97ec9375b618dac146867b00af29d28d62005939868/k1lgor/container-diet",
+        "platform": "telegram",
+        "quality_score": 0.7999999999999999
+    },
+    {
+        "project_id": 721636923,
+        "content": "🚀 <b>bj_led</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nIntegrating inexpensive Bluetooth LE LED strips (BJ_LED/MohuanLED) into Home Assistant for smart home automation.\n<br>\n✨ <b>Key Features:</b>\n• Home Assistant custom integration for BJ_LED devices\n• Control via Bluetooth LE\n• On/Off functionality\n• RGB color control\n• Basic brightness scaling\n<br>\n📖 <b>Summary:</b>\nThis repository provides a custom Home Assistant integration for controlling BJ_LED devices, which are inexpensive Bluetooth LE-enabled LED strips. It allows users to manage power, color, and basic modes of these lights directly from their Home Assistant dashboard.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/8none1/bj_led?embed=0\">View Project</a>\n• <a href=\"https://www.whizzy.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3191b37aeb3e7b003d4a8bd4ff838919625db6c85a04f9d2a7c61c08f553930b/8none1/bj_led",
+        "platform": "telegram",
+        "quality_score": 0.15
+    },
+    {
+        "project_id": 1121271878,
+        "content": "✨ <b>audioghost-ai</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting specific sounds (e.g., vocals, instruments, background noise) from audio or video files using natural language prompts.\n<br>\n✨ <b>Key Features:</b>\n• Text-Guided Separation\n• Video Upload Support\n• Memory Optimized (Lite mode)\n• Modern UI with waveform visualization\n• Real-time Progress Tracking\n<br>\n📖 <b>Summary:</b>\nAudioGhost AI is a desktop application that uses AI to separate or extract specific sounds from audio or video files based on natural language descriptions. It leverages a memory-optimized version of Meta's SAM-Audio model and provides a modern user interface with real-time progress and audio mixing capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/0x0funky/audioghost-ai?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8f26dcf8167259d66e11a9b42b638bb48ee87d8b25904246b5c36cfcfb50ca7d/0x0funky/audioghost-ai",
+        "platform": "telegram",
+        "quality_score": 0.6499999999999999
+    },
+    {
+        "project_id": 1124098846,
+        "content": "💡 <b>telegraph-parser</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting and processing article content from Telegra.ph URLs asynchronously.\n<br>\n✨ <b>Key Features:</b>\n• Async parsing of Telegra.ph articles\n• Command-line interface for usage\n• Handles Telegra.ph URL formats including ordinal numbers for duplicate titles\n<br>\n📖 <b>Summary:</b>\nThis Python repository provides an asynchronous parser for Telegra.ph articles. It allows users to fetch article content from Telegra.ph URLs, making it useful for applications that need to extract and process information from this platform.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Ladvix/telegraph-parser?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7e1342bf764abab2394df35faec8dae628b2bd89a9cc84e780da7f31b0870f52/Ladvix/telegraph-parser",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 1113951179,
-        "content": "💡 <b>LiftShift</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a centralized platform to analyze their workout data from different fitness tracking apps, offering deeper insights and visualization of their progress.\n<br>\n✨ <b>Key Features:</b>\n• Workout log conversion (Hevy, Strong, Lyfta)\n• Interactive muscle heatmaps\n• Calendar filtering\n• Shareable progress cards\n• Plateau detection\n<br>\n📖 <b>Summary:</b>\nLiftShift is a free, open-source web application that converts workout logs from various fitness apps (like Hevy and Strong) into actionable insights. It provides interactive muscle heatmaps, calendar filtering, progress cards, plateau detection, and detailed exercise analysis.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aree6/LiftShift?embed=0\">View Project</a>\n• <a href=\"https://liftshift.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1113951179/9e1299eb-bb14-4fe1-9a50-772318732b55",
+        "project_id": 21484781,
+        "content": "🚀 <b>jumpserver</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a centralized, secure, and auditable platform for managing privileged access to IT infrastructure for DevOps and IT teams.\n<br>\n✨ <b>Key Features:</b>\n• Secure access to SSH, RDP, Kubernetes, Database, and RemoteApp endpoints\n• Web-based access\n• On-demand access control\n• Privileged Access Management (PAM)\n• Open-source platform\n<br>\n📖 <b>Summary:</b>\nJumpServer is an open-source Privileged Access Management (PAM) platform that provides secure, on-demand access to various endpoints like SSH, RDP, Kubernetes, and databases through a web browser. It's designed for DevOps and IT teams to manage privileged access efficiently and securely.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jumpserver/jumpserver?embed=0\">View Project</a>\n• <a href=\"https://jumpserver.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/63d439cab623e351160b0f835eef3fd5ec7579162b648e70aec65dc98982e2ae/jumpserver/jumpserver",
         "platform": "telegram",
-        "quality_score": 0.7
+        "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 808942394,
-        "content": "🔥 <b>RedCoffee</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automate the generation of PDF reports from SonarQube Community Edition analysis, facilitating easier sharing and review of code quality metrics.\n<br>\n✨ <b>Key Features:</b>\n• Generates PDF reports from SonarQube analysis data\n• Targets SonarQube Community Edition\n• Python-based CLI tool\n• Includes GitHub Actions for CI/CD (Unit Tests, MkDocs deployment)\n<br>\n📖 <b>Summary:</b>\nRedCoffee is a Python-based command-line interface (CLI) tool designed to generate PDF reports from SonarQube Community Edition analysis data. It addresses the lack of native PDF export functionality in the community edition, making it easier to share and review code quality metrics.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Anubhav9/RedCoffee?embed=0\">View Project</a>\n• <a href=\"https://anubhav9.github.io/RedCoffee?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e8e52a630b315afb565d3c801c3a258ea03e7cae734fbcb254f32bf1208b360e/Anubhav9/RedCoffee",
+        "project_id": 939676953,
+        "content": "🔥 <b>CamXploit</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurity research and reconnaissance to identify and analyze exposed IP cameras.\n<br>\n✨ <b>Key Features:</b>\n• Scans common CCTV ports\n• Detects exposed camera login pages\n• Checks if the device is a camera stream\n• Identifies camera brands & known vulnerabilities\n• Tests for default credentials on login pages\n<br>\n📖 <b>Summary:</b>\nCamXploit is a Python-based reconnaissance tool designed to identify exposed IP cameras on the internet. It scans common ports, detects login pages, tests default credentials, and provides detailed information about camera brands and potential vulnerabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/spyboy-productions/CamXploit?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1e74664645f399a83e585f3e5d7ead923358712608a52d3a4727be03f8965a79/spyboy-productions/CamXploit",
         "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 956679248,
-        "content": "🌟 <b>kodus-ai</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated, intelligent code reviews integrated into Git workflows to improve code quality and developer productivity.\n<br>\n✨ <b>Key Features:</b>\n• Context-Aware Intelligence\n• Custom Review Policies\n• Native Git Integration\n• Continuous Learning\n<br>\n📖 <b>Summary:</b>\nKodus AI is an open-source AI agent designed to perform code reviews, mimicking the thoroughness of a senior developer. It integrates with Git workflows to learn codebase specifics and team standards, providing automated, context-aware feedback on pull requests to improve code quality, catch bugs, and enforce best practices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kodustech/kodus-ai?embed=0\">View Project</a>\n• <a href=\"https://kodus.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/516e2fb913da820940eb89f4f9b178bade7de36a441e29cf6874ecf876c29f31/kodustech/kodus-ai",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 961450056,
-        "content": "🚀 <b>mussel</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nA general-purpose interpreted programming language for scripting, rapid prototyping, and learning programming concepts, offering a blend of performance and ease of use.\n<br>\n✨ <b>Key Features:</b>\n• Interpreted, dynamically typed language\n• Written in Rust\n• Simple and readable syntax\n• Powerful expression evaluation\n• Supports data types, variable bindings, functions, closures\n<br>\n📖 <b>Summary:</b>\nMussel is an interpreted, dynamically typed programming language written in Rust, designed for simplicity, readability, and powerful expression evaluation. It offers features like data types, functions, control flow, and a standard library, aiming for a balance between Rust's safety and speed with Python's ease of use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gianndev/mussel?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/42783e6a490b75e566d5225c6facbf0eee219e72907ddf05c02acb9c0f602d21/gianndev/mussel",
-        "platform": "telegram",
-        "quality_score": 0.45
+        "quality_score": 0.65
     }
 ]
