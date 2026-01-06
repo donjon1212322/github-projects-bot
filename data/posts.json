@@ -1,44 +1,30 @@
 [
     {
-        "project_id": 1102123131,
-        "content": "🌟 <b>container-diet</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nOptimizing Docker images for size, security, and best practices using AI-generated advice.\n<br>\n✨ <b>Key Features:</b>\n• AI-Driven Analysis using OpenAI (GPT-4o)\n• Docker-Themed UI with nautical icons\n• Local-first analysis (checks local Docker daemon)\n• Security vulnerability detection (root user, secrets, packages)\n• Entertaining 'Container Dietician' persona for feedback\n<br>\n📖 <b>Summary:</b>\nContainer Diet is an AI-powered CLI tool that analyzes Docker images and Dockerfiles to provide actionable optimization advice. It helps users reduce image size, improve security, and adhere to best practices with a fun,\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/k1lgor/container-diet?embed=0\">View Project</a>\n• <a href=\"https://k1lgor.github.io/container-diet/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0f3134330aef023f75f8f97ec9375b618dac146867b00af29d28d62005939868/k1lgor/container-diet",
+        "project_id": 294891339,
+        "content": "✨ <b>untab</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nImproving browser tab management and search efficiency for users with many open tabs.\n<br>\n✨ <b>Key Features:</b>\n• Search through open tabs\n• Perform common actions with few keystrokes\n• Boosts productivity\n• Supported on Chrome, Firefox, and Edge\n• Works on Chromium-based browsers\n<br>\n📖 <b>Summary:</b>\nUnTab is a browser extension designed to enhance user productivity by providing a quick and efficient way to search through open browser tabs and perform common actions using keyboard shortcuts. It aims to streamline tab management, making it easier to navigate and interact with a large number of open tabs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/blenderskool/untab?embed=0\">View Project</a>\n• <a href=\"https://getuntab.now.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/294891339/132b7600-6b16-11eb-96f9-21ba9a98be6d",
         "platform": "telegram",
-        "quality_score": 0.7999999999999999
+        "quality_score": 0.55
     },
     {
-        "project_id": 721636923,
-        "content": "🚀 <b>bj_led</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nIntegrating inexpensive Bluetooth LE LED strips (BJ_LED/MohuanLED) into Home Assistant for smart home automation.\n<br>\n✨ <b>Key Features:</b>\n• Home Assistant custom integration for BJ_LED devices\n• Control via Bluetooth LE\n• On/Off functionality\n• RGB color control\n• Basic brightness scaling\n<br>\n📖 <b>Summary:</b>\nThis repository provides a custom Home Assistant integration for controlling BJ_LED devices, which are inexpensive Bluetooth LE-enabled LED strips. It allows users to manage power, color, and basic modes of these lights directly from their Home Assistant dashboard.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/8none1/bj_led?embed=0\">View Project</a>\n• <a href=\"https://www.whizzy.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3191b37aeb3e7b003d4a8bd4ff838919625db6c85a04f9d2a7c61c08f553930b/8none1/bj_led",
+        "project_id": 150398406,
+        "content": "🌟 <b>boden</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nDeveloping cross-platform mobile applications with a native look and feel using C++.\n<br>\n✨ <b>Key Features:</b>\n• Native widgets\n• Fast performance (C++17)\n• Cross-platform development for Android and iOS\n• Open framework\n<br>\n📖 <b>Summary:</b>\nBoden is a C++17 cross-platform GUI framework for building native Android and iOS applications. It leverages native OEM widgets for a true native look and feel, ensuring fast performance and battery efficiency.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AshampooSystems/boden?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/150398406/66fd3300-98d0-11e9-8d11-f608e442ac85",
         "platform": "telegram",
-        "quality_score": 0.15
+        "quality_score": 0.55
     },
     {
-        "project_id": 1121271878,
-        "content": "✨ <b>audioghost-ai</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting specific sounds (e.g., vocals, instruments, background noise) from audio or video files using natural language prompts.\n<br>\n✨ <b>Key Features:</b>\n• Text-Guided Separation\n• Video Upload Support\n• Memory Optimized (Lite mode)\n• Modern UI with waveform visualization\n• Real-time Progress Tracking\n<br>\n📖 <b>Summary:</b>\nAudioGhost AI is a desktop application that uses AI to separate or extract specific sounds from audio or video files based on natural language descriptions. It leverages a memory-optimized version of Meta's SAM-Audio model and provides a modern user interface with real-time progress and audio mixing capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/0x0funky/audioghost-ai?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8f26dcf8167259d66e11a9b42b638bb48ee87d8b25904246b5c36cfcfb50ca7d/0x0funky/audioghost-ai",
+        "project_id": 926285456,
+        "content": "🌟 <b>chaplin</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo transcribe silently mouthed words in real-time without audio input, useful for noisy environments or private communication.\n<br>\n✨ <b>Key Features:</b>\n• Real-time silent speech recognition\n• Runs fully locally\n• Uses pre-trained VSR models\n• LLM integration for corrected output\n• Easy setup script\n<br>\n📖 <b>Summary:</b>\nChaplin is a real-time, local silent speech recognition tool that uses visual lip reading to transcribe unspoken words. It leverages pre-trained models and integrates with LLMs to provide corrected text output.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/amanvirparhar/chaplin?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/802c9249928bb2964d1f9b55056b114b4c092882bdcb9bfbea9e615dd60840eb/amanvirparhar/chaplin",
         "platform": "telegram",
-        "quality_score": 0.6499999999999999
+        "quality_score": 0.4
     },
     {
-        "project_id": 1124098846,
-        "content": "💡 <b>telegraph-parser</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting and processing article content from Telegra.ph URLs asynchronously.\n<br>\n✨ <b>Key Features:</b>\n• Async parsing of Telegra.ph articles\n• Command-line interface for usage\n• Handles Telegra.ph URL formats including ordinal numbers for duplicate titles\n<br>\n📖 <b>Summary:</b>\nThis Python repository provides an asynchronous parser for Telegra.ph articles. It allows users to fetch article content from Telegra.ph URLs, making it useful for applications that need to extract and process information from this platform.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Ladvix/telegraph-parser?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7e1342bf764abab2394df35faec8dae628b2bd89a9cc84e780da7f31b0870f52/Ladvix/telegraph-parser",
+        "project_id": 858171377,
+        "content": "🔥 <b>OxyMouse</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating mouse movements in Python for tasks such as testing, botting, or simulating user interactions.\n<br>\n✨ <b>Key Features:</b>\n• Generate mouse movements using Python\n• Supports multiple algorithms: bezier, gaussian, perlin, oxy\n• Generate random coordinates within a viewport\n• Generate coordinates between two specific points\n• Generate scroll coordinates\n<br>\n📖 <b>Summary:</b>\nOxyMouse is a Python library designed to generate realistic and varied mouse movements. It offers multiple algorithms to simulate different types of cursor paths, making it useful for applications requiring automated mouse control or realistic user simulation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/oxylabs/OxyMouse?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/99632c6046297b4354a0959653dc93b8fb66274ca1f40e18b92ffe074623919a/oxylabs/OxyMouse",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 21484781,
-        "content": "🚀 <b>jumpserver</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a centralized, secure, and auditable platform for managing privileged access to IT infrastructure for DevOps and IT teams.\n<br>\n✨ <b>Key Features:</b>\n• Secure access to SSH, RDP, Kubernetes, Database, and RemoteApp endpoints\n• Web-based access\n• On-demand access control\n• Privileged Access Management (PAM)\n• Open-source platform\n<br>\n📖 <b>Summary:</b>\nJumpServer is an open-source Privileged Access Management (PAM) platform that provides secure, on-demand access to various endpoints like SSH, RDP, Kubernetes, and databases through a web browser. It's designed for DevOps and IT teams to manage privileged access efficiently and securely.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jumpserver/jumpserver?embed=0\">View Project</a>\n• <a href=\"https://jumpserver.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/63d439cab623e351160b0f835eef3fd5ec7579162b648e70aec65dc98982e2ae/jumpserver/jumpserver",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 939676953,
-        "content": "🔥 <b>CamXploit</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurity research and reconnaissance to identify and analyze exposed IP cameras.\n<br>\n✨ <b>Key Features:</b>\n• Scans common CCTV ports\n• Detects exposed camera login pages\n• Checks if the device is a camera stream\n• Identifies camera brands & known vulnerabilities\n• Tests for default credentials on login pages\n<br>\n📖 <b>Summary:</b>\nCamXploit is a Python-based reconnaissance tool designed to identify exposed IP cameras on the internet. It scans common ports, detects login pages, tests default credentials, and provides detailed information about camera brands and potential vulnerabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/spyboy-productions/CamXploit?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1e74664645f399a83e585f3e5d7ead923358712608a52d3a4727be03f8965a79/spyboy-productions/CamXploit",
-        "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 0.45
     }
 ]

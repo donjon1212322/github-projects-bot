@@ -1,226 +1,152 @@
 [
     {
-        "id": 1102123131,
-        "name": "container-diet",
-        "description": "Slim down your Docker images with the power of AI. Container Diet analyzes your images and Dockerfiles to provide actionable, context-aware optimization advice.",
-        "url": "https://github.com/k1lgor/container-diet",
-        "language": "Go",
-        "stars": 40,
-        "forks": 4,
-        "created_at": "2025-11-22T21:28:46Z",
-        "updated_at": "2026-01-05T02:34:35Z",
-        "topics": [],
-        "quality_score": 0.7999999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2025-12-06T08:56:27Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/0f3134330aef023f75f8f97ec9375b618dac146867b00af29d28d62005939868/k1lgor/container-diet"
-        ],
-        "homepage": "https://k1lgor.github.io/container-diet/",
-        "readme_summary": "Container Diet is an AI-powered CLI tool that analyzes Docker images and Dockerfiles to provide actionable optimization advice. It helps users reduce image size, improve security, and adhere to best practices with a fun, ",
-        "key_features": [
-            "AI-Driven Analysis using OpenAI (GPT-4o)",
-            "Docker-Themed UI with nautical icons",
-            "Local-first analysis (checks local Docker daemon)",
-            "Security vulnerability detection (root user, secrets, packages)",
-            "Entertaining 'Container Dietician' persona for feedback"
-        ],
-        "primary_use_case": "Optimizing Docker images for size, security, and best practices using AI-generated advice.",
-        "open_issues": 0,
-        "cover_image_prompt": "A whimsical, anthropomorphic ship's captain, embodying the 'Container Dietician', standing on the deck of a large, bloated cargo ship that is visibly overflowing with unnecessary 'bytes' represented as colorful, oversized packages. The captain is holding a magnifying glass to a blueprint of the ship (representing a Dockerfile) and pointing with a stern but friendly expression towards a smaller, sleek, and efficient cargo ship docked nearby. Digital particles representing optimization suggestions flow from the captain's magnifying glass towards the bloated ship. The background is a stylized, clean ocean under a bright, clear sky. The overall style is a vibrant 3D isometric illustration with clear iconography and a playful, helpful mood, subtly incorporating the 'Container Diet' name on the captain's hat."
-    },
-    {
-        "id": 721636923,
-        "name": "bj_led",
-        "description": "Home Assistant custom integration for BJ_LED devices",
-        "url": "https://github.com/8none1/bj_led",
-        "language": "Python",
-        "stars": 47,
-        "forks": 23,
-        "created_at": "2023-11-21T13:20:06Z",
-        "updated_at": "2026-01-05T00:41:19Z",
+        "id": 294891339,
+        "name": "untab",
+        "description": "🔍 A productivity tool to boost your browser workflow!",
+        "url": "https://github.com/blenderskool/untab",
+        "language": "JavaScript",
+        "stars": 377,
+        "forks": 25,
+        "created_at": "2020-09-12T07:13:48Z",
+        "updated_at": "2026-01-06T05:11:57Z",
         "topics": [
-            "bj-led",
-            "ble",
-            "bluetooth",
-            "home-assistant",
-            "home-automation",
-            "led-strips"
+            "browser-extension",
+            "browser-workflow",
+            "chrome",
+            "commands",
+            "firefox",
+            "hacktoberfest",
+            "productivity",
+            "searching",
+            "shortcuts",
+            "tool"
         ],
-        "quality_score": 0.15,
+        "quality_score": 0.55,
         "contributors_count": 0,
-        "last_commit_date": "2024-03-23T10:42:25Z",
+        "last_commit_date": "2022-12-06T04:24:21Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/3191b37aeb3e7b003d4a8bd4ff838919625db6c85a04f9d2a7c61c08f553930b/8none1/bj_led"
+            "https://repository-images.githubusercontent.com/294891339/132b7600-6b16-11eb-96f9-21ba9a98be6d"
         ],
-        "homepage": "https://www.whizzy.org",
-        "readme_summary": "This repository provides a custom Home Assistant integration for controlling BJ_LED devices, which are inexpensive Bluetooth LE-enabled LED strips. It allows users to manage power, color, and basic modes of these lights directly from their Home Assistant dashboard.",
+        "homepage": "https://getuntab.now.sh",
+        "readme_summary": "UnTab is a browser extension designed to enhance user productivity by providing a quick and efficient way to search through open browser tabs and perform common actions using keyboard shortcuts. It aims to streamline tab management, making it easier to navigate and interact with a large number of open tabs.",
         "key_features": [
-            "Home Assistant custom integration for BJ_LED devices",
-            "Control via Bluetooth LE",
-            "On/Off functionality",
-            "RGB color control",
-            "Basic brightness scaling",
-            "Support for fancy color modes (without speed control)",
-            "Automatic discovery of supported devices"
+            "Search through open tabs",
+            "Perform common actions with few keystrokes",
+            "Boosts productivity",
+            "Supported on Chrome, Firefox, and Edge",
+            "Works on Chromium-based browsers",
+            "No data stored or sent to a server"
         ],
-        "primary_use_case": "Integrating inexpensive Bluetooth LE LED strips (BJ_LED/MohuanLED) into Home Assistant for smart home automation.",
-        "open_issues": 0,
-        "cover_image_prompt": "A friendly, stylized robot assistant in a cozy living room, holding a remote control that is wirelessly connected to a colorful LED strip light. The robot is shown adjusting the light's color and brightness, with subtle digital data streams flowing from the remote to the light. Small, glowing icons representing 'On/Off', 'Color Wheel', and 'Mode' float around the scene. The overall mood is warm and inviting, emphasizing seamless smart home control. The art style should be a clean, 3D isometric illustration with a soft color palette, clearly depicting the integration of a simple smart device into a home environment. The repository name 'BJ_LED' is subtly integrated into the robot's design or a small label on the remote."
+        "primary_use_case": "Improving browser tab management and search efficiency for users with many open tabs.",
+        "open_issues": 14,
+        "cover_image_prompt": "A librarian in a vast, futuristic library, effortlessly locating a specific book amidst towering shelves filled with countless volumes. The librarian uses a glowing, magical magnifying glass that highlights the desired book with a bright beam. As the book is found, digital particles representing tab data swirl around it. Subtle UI elements resembling a command palette appear near the librarian's hand, showing search queries and actions. The library shelves are organized with clean lines, and the overall mood is one of organized efficiency and discovery. The image should be in a 3D isometric illustration style, with a clean, modern aesthetic and vibrant, focused lighting."
     },
     {
-        "id": 1121271878,
-        "name": "audioghost-ai",
-        "description": "Extract any sound with text prompts. Memory-optimized SAM-Audio with modern UI.",
-        "url": "https://github.com/0x0funky/audioghost-ai",
-        "language": "TypeScript",
-        "stars": 236,
-        "forks": 14,
-        "created_at": "2025-12-22T17:58:42Z",
-        "updated_at": "2026-01-05T00:41:08Z",
-        "topics": [],
-        "quality_score": 0.6499999999999999,
+        "id": 150398406,
+        "name": "boden",
+        "description": "Purely native C++ cross-platform GUI framework for Android and iOS development. https://www.boden.io",
+        "url": "https://github.com/AshampooSystems/boden",
+        "language": "C++",
+        "stars": 1736,
+        "forks": 100,
+        "created_at": "2018-09-26T09:01:46Z",
+        "updated_at": "2026-01-05T22:32:28Z",
+        "topics": [
+            "android-ui",
+            "cpp",
+            "cpp17",
+            "cross-platform",
+            "ios-ui",
+            "mobile",
+            "mobile-app",
+            "mobile-development"
+        ],
+        "quality_score": 0.55,
         "contributors_count": 0,
-        "last_commit_date": "2025-12-29T18:09:58Z",
+        "last_commit_date": "2021-12-17T14:46:47Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/8f26dcf8167259d66e11a9b42b638bb48ee87d8b25904246b5c36cfcfb50ca7d/0x0funky/audioghost-ai"
+            "https://repository-images.githubusercontent.com/150398406/66fd3300-98d0-11e9-8d11-f608e442ac85"
         ],
         "homepage": "",
-        "readme_summary": "AudioGhost AI is a desktop application that uses AI to separate or extract specific sounds from audio or video files based on natural language descriptions. It leverages a memory-optimized version of Meta's SAM-Audio model and provides a modern user interface with real-time progress and audio mixing capabilities.",
+        "readme_summary": "Boden is a C++17 cross-platform GUI framework for building native Android and iOS applications. It leverages native OEM widgets for a true native look and feel, ensuring fast performance and battery efficiency.",
         "key_features": [
-            "Text-Guided Separation",
-            "Video Upload Support",
-            "Memory Optimized (Lite mode)",
-            "Modern UI with waveform visualization",
-            "Real-time Progress Tracking",
-            "Stem Mixer for preview and comparison"
+            "Native widgets",
+            "Fast performance (C++17)",
+            "Cross-platform development for Android and iOS",
+            "Open framework"
         ],
-        "primary_use_case": "Extracting specific sounds (e.g., vocals, instruments, background noise) from audio or video files using natural language prompts.",
+        "primary_use_case": "Developing cross-platform mobile applications with a native look and feel using C++.",
+        "open_issues": 28,
+        "cover_image_prompt": "A skilled artisan in a workshop, using a blueprint labeled 'BODEN' to craft two distinct, perfectly formed statues: one representing a modern Android phone and the other an elegant iPhone. The artisan is shown meticulously assembling native UI components, which are glowing with a subtle digital aura, onto each statue. The background is a clean, bright space with subtle code snippets and UI element icons floating gently in the air, symbolizing the cross-platform nature and C++ foundation. The overall mood is one of precision and creation, with a focus on the seamless integration of native elements. Rendered in a 3D isometric illustration style with a clean, vibrant color palette."
+    },
+    {
+        "id": 926285456,
+        "name": "chaplin",
+        "description": "A real-time silent speech recognition tool.",
+        "url": "https://github.com/amanvirparhar/chaplin",
+        "language": "Python",
+        "stars": 633,
+        "forks": 63,
+        "created_at": "2025-02-03T00:45:52Z",
+        "updated_at": "2026-01-05T22:47:48Z",
+        "topics": [
+            "auto-avsr",
+            "avsr",
+            "llm",
+            "ollama",
+            "speech-recognition",
+            "speech-to-text",
+            "vsr"
+        ],
+        "quality_score": 0.4,
+        "contributors_count": 0,
+        "last_commit_date": "2025-11-02T21:36:53Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/802c9249928bb2964d1f9b55056b114b4c092882bdcb9bfbea9e615dd60840eb/amanvirparhar/chaplin"
+        ],
+        "homepage": "",
+        "readme_summary": "Chaplin is a real-time, local silent speech recognition tool that uses visual lip reading to transcribe unspoken words. It leverages pre-trained models and integrates with LLMs to provide corrected text output.",
+        "key_features": [
+            "Real-time silent speech recognition",
+            "Runs fully locally",
+            "Uses pre-trained VSR models",
+            "LLM integration for corrected output",
+            "Easy setup script",
+            "Uses MediaPipe for detection"
+        ],
+        "primary_use_case": "To transcribe silently mouthed words in real-time without audio input, useful for noisy environments or private communication.",
+        "open_issues": 1,
+        "cover_image_prompt": "A close-up, conceptual illustration of a person's lips subtly moving, with faint, glowing digital particles emanating from them. These particles are being captured by a stylized, transparent camera lens that acts as a conduit. On the other side of the lens, the particles are being woven into clear, legible text that appears on a minimalist screen. The background is a soft, abstract gradient, keeping the focus on the lip-to-text transformation. Subtle UI elements like a small 'Chaplin' logo and a progress bar are visible on the screen. The overall mood is futuristic and intuitive, rendered in a clean, 3D isometric illustration style with a cool color palette."
+    },
+    {
+        "id": 858171377,
+        "name": "OxyMouse",
+        "description": "Mouse Movement Algorithms",
+        "url": "https://github.com/oxylabs/OxyMouse",
+        "language": "Python",
+        "stars": 314,
+        "forks": 35,
+        "created_at": "2024-09-16T12:41:36Z",
+        "updated_at": "2026-01-05T21:40:59Z",
+        "topics": [],
+        "quality_score": 0.45,
+        "contributors_count": 0,
+        "last_commit_date": "2025-09-25T08:38:46Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/99632c6046297b4354a0959653dc93b8fb66274ca1f40e18b92ffe074623919a/oxylabs/OxyMouse"
+        ],
+        "homepage": null,
+        "readme_summary": "OxyMouse is a Python library designed to generate realistic and varied mouse movements. It offers multiple algorithms to simulate different types of cursor paths, making it useful for applications requiring automated mouse control or realistic user simulation.",
+        "key_features": [
+            "Generate mouse movements using Python",
+            "Supports multiple algorithms: bezier, gaussian, perlin, oxy",
+            "Generate random coordinates within a viewport",
+            "Generate coordinates between two specific points",
+            "Generate scroll coordinates",
+            "CLI for visualizing generated movements"
+        ],
+        "primary_use_case": "Automating mouse movements in Python for tasks such as testing, botting, or simulating user interactions.",
         "open_issues": 2,
-        "cover_image_prompt": "A sound engineer, depicted as a conductor, stands before a complex audio mixing board. Instead of musical notes, glowing text prompts like 'vocals', 'drums', and 'dog barking' float in the air. The conductor uses a magical baton to precisely isolate these sounds, which are represented as distinct, colorful energy streams flowing from a central audio waveform into separate containers. Residual noise is shown as a faint, dissipating mist. Subtle UI elements of the AudioGhost application are visible on a nearby screen, displaying progress bars and stem controls. The scene is set in a futuristic, minimalist studio with soft, ethereal lighting, rendered in a 3D isometric illustration style with a clean, vibrant color palette."
-    },
-    {
-        "id": 1124098846,
-        "name": "telegraph-parser",
-        "description": "Async parser Telegra.ph",
-        "url": "https://github.com/Ladvix/telegraph-parser",
-        "language": "Python",
-        "stars": 1,
-        "forks": 0,
-        "created_at": "2025-12-28T10:30:59Z",
-        "updated_at": "2025-12-28T16:58:59Z",
-        "topics": [
-            "async",
-            "asynchronous",
-            "parser",
-            "python",
-            "telegraph",
-            "telegraph-bot"
-        ],
-        "quality_score": 0.44999999999999996,
-        "contributors_count": 0,
-        "last_commit_date": "2025-12-28T16:58:51Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/7e1342bf764abab2394df35faec8dae628b2bd89a9cc84e780da7f31b0870f52/Ladvix/telegraph-parser"
-        ],
-        "homepage": "",
-        "readme_summary": "This Python repository provides an asynchronous parser for Telegra.ph articles. It allows users to fetch article content from Telegra.ph URLs, making it useful for applications that need to extract and process information from this platform.",
-        "key_features": [
-            "Async parsing of Telegra.ph articles",
-            "Command-line interface for usage",
-            "Handles Telegra.ph URL formats including ordinal numbers for duplicate titles"
-        ],
-        "primary_use_case": "Extracting and processing article content from Telegra.ph URLs asynchronously.",
-        "open_issues": 0,
-        "cover_image_prompt": "A diligent librarian character is shown in a cozy, old-fashioned library, meticulously extracting text from a stack of vintage telegraph slips. Each slip represents a Telegra.ph article, and the librarian is carefully transcribing the content onto a modern, glowing digital tablet. Subtle digital particles flow from the slips to the tablet, indicating data transfer. In the background, a small, stylized screen displays a simplified code snippet and the repository name 'telegraph-parser' integrated into a bookshelf. The scene is illuminated by a warm, inviting light, emphasizing the transformation of old-fashioned communication into digital information. The style should be a 3D isometric illustration with clean lines and a focus on clarity."
-    },
-    {
-        "id": 21484781,
-        "name": "jumpserver",
-        "description": "JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.",
-        "url": "https://github.com/jumpserver/jumpserver",
-        "language": "Python",
-        "stars": 29336,
-        "forks": 5619,
-        "created_at": "2014-07-04T03:54:59Z",
-        "updated_at": "2026-01-05T05:28:42Z",
-        "topics": [
-            "bastion-host",
-            "cyberark",
-            "django",
-            "jumpserver",
-            "pam",
-            "python",
-            "ssh-server",
-            "teleport",
-            "terminal"
-        ],
-        "quality_score": 1.0000000000000002,
-        "contributors_count": 0,
-        "last_commit_date": "2026-01-04T08:01:25Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/63d439cab623e351160b0f835eef3fd5ec7579162b648e70aec65dc98982e2ae/jumpserver/jumpserver"
-        ],
-        "homepage": "https://jumpserver.com",
-        "readme_summary": "JumpServer is an open-source Privileged Access Management (PAM) platform that provides secure, on-demand access to various endpoints like SSH, RDP, Kubernetes, and databases through a web browser. It's designed for DevOps and IT teams to manage privileged access efficiently and securely.",
-        "key_features": [
-            "Secure access to SSH, RDP, Kubernetes, Database, and RemoteApp endpoints",
-            "Web-based access",
-            "On-demand access control",
-            "Privileged Access Management (PAM)",
-            "Open-source platform",
-            "Audit and logging capabilities"
-        ],
-        "primary_use_case": "To provide a centralized, secure, and auditable platform for managing privileged access to IT infrastructure for DevOps and IT teams.",
-        "open_issues": 63,
-        "cover_image_prompt": "A digital librarian meticulously organizing and granting access to a vast, glowing library of servers and databases, represented as ancient tomes and intricate vaults. The librarian, holding a secure digital key, allows authorized users (depicted as diverse IT professionals) to briefly borrow specific 'books' or access 'vaults' via a sleek, futuristic web interface projected in the air. Subtle glowing lines connect the librarian to the resources, indicating secure, temporary access. The scene is set in a clean, modern data center with soft, ambient lighting, emphasizing security and order. The JumpServer logo is subtly integrated into the librarian's desk. Style: 3D isometric illustration with a focus on clear iconography and a professional, secure aesthetic."
-    },
-    {
-        "id": 939676953,
-        "name": "CamXploit",
-        "description": "Find, analyze, and check for exposed IP cameras with open ports, known vulnerabilities, and weak login credentials.",
-        "url": "https://github.com/spyboy-productions/CamXploit",
-        "language": "Python",
-        "stars": 725,
-        "forks": 123,
-        "created_at": "2025-02-26T23:26:40Z",
-        "updated_at": "2026-01-05T05:33:35Z",
-        "topics": [
-            "cctv",
-            "cctv-cameras",
-            "cctv-detection",
-            "cctv-hacking",
-            "cctv-surveillance",
-            "dvr",
-            "ip-camera",
-            "ip-camera-feed",
-            "nvr",
-            "rtsp"
-        ],
-        "quality_score": 0.65,
-        "contributors_count": 0,
-        "last_commit_date": "2025-11-23T02:11:09Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/1e74664645f399a83e585f3e5d7ead923358712608a52d3a4727be03f8965a79/spyboy-productions/CamXploit"
-        ],
-        "homepage": "",
-        "readme_summary": "CamXploit is a Python-based reconnaissance tool designed to identify exposed IP cameras on the internet. It scans common ports, detects login pages, tests default credentials, and provides detailed information about camera brands and potential vulnerabilities.",
-        "key_features": [
-            "Scans common CCTV ports",
-            "Detects exposed camera login pages",
-            "Checks if the device is a camera stream",
-            "Identifies camera brands & known vulnerabilities",
-            "Tests for default credentials on login pages",
-            "Provides manual search links (Shodan, Censys, Zoomeye, Google Dorking)",
-            "Enhanced Camera Detection with detailed port analysis and brand identification",
-            "Live Stream Detection for RTSP, RTMP, HTTP, and MMS protocols",
-            "Comprehensive IP & Location Information with Google Maps/Earth links",
-            "Multi-threaded Port Scanning",
-            "Detailed Camera Brand Detection (Hikvision, Dahua, Axis, Sony, Bosch, Samsung, Panasonic, Vivotek, CP Plus)",
-            "ONVIF Protocol Support"
-        ],
-        "primary_use_case": "Security research and reconnaissance to identify and analyze exposed IP cameras.",
-        "open_issues": 0,
-        "cover_image_prompt": "A digital detective, depicted as a stylized magnifying glass with a glowing lens, is scanning a network of interconnected pipes. Some pipes are clearly labeled 'CCTV' and have small, blinking red lights indicating vulnerability. The detective's lens highlights these vulnerable pipes, revealing faint outlines of camera lenses within them. Subtle digital particles flow from the magnifying glass, representing the scanning process. In the background, a world map with glowing IP address markers suggests the global reach of the scan. The overall mood is one of vigilant discovery, with a clean, modern aesthetic and a color palette of blues, greens, and subtle reds. The style should be a 3D isometric illustration with clear iconography and a focus on visual metaphor."
+        "cover_image_prompt": "A whimsical, anthropomorphic mouse character, dressed as a digital artist, holding a paintbrush that is drawing a smooth, glowing curve across a digital canvas. The canvas displays a stylized representation of a computer screen with a button. The mouse's tail subtly forms the 'OxyMouse' logo. Around the scene, abstract data particles flow from the paintbrush, representing the generated movements. The background is a clean, modern workspace with subtle code snippets visible on a secondary screen. The overall style is a vibrant 3D isometric illustration with a focus on smooth lines and digital aesthetics."
     }
 ]
