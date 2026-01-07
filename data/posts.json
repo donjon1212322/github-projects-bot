@@ -1,30 +1,37 @@
 [
     {
-        "project_id": 294891339,
-        "content": "✨ <b>untab</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nImproving browser tab management and search efficiency for users with many open tabs.\n<br>\n✨ <b>Key Features:</b>\n• Search through open tabs\n• Perform common actions with few keystrokes\n• Boosts productivity\n• Supported on Chrome, Firefox, and Edge\n• Works on Chromium-based browsers\n<br>\n📖 <b>Summary:</b>\nUnTab is a browser extension designed to enhance user productivity by providing a quick and efficient way to search through open browser tabs and perform common actions using keyboard shortcuts. It aims to streamline tab management, making it easier to navigate and interact with a large number of open tabs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/blenderskool/untab?embed=0\">View Project</a>\n• <a href=\"https://getuntab.now.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/294891339/132b7600-6b16-11eb-96f9-21ba9a98be6d",
+        "project_id": 939160539,
+        "content": "💡 <b>DorkAgent</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating the process of finding security vulnerabilities and gathering information through Google Dorking for cybersecurity professionals.\n<br>\n✨ <b>Key Features:</b>\n• Automated Google Dorking\n• LLM Integration (OpenAI, Anthropic, Gemini)\n• API Key Management (.env file)\n• Customizable search result count and time duration\n• Dynamic model selection at runtime\n<br>\n📖 <b>Summary:</b>\nDorkAgent is an LLM-powered Python tool designed to automate Google Dorking for bug hunting and penetration testing. It leverages AI models and search engine APIs to discover vulnerabilities and gather intelligence.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yee-yore/DorkAgent?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/470a61236fd0911cd9e857f90d666558af026b91ed3959138106dc86695d6be5/yee-yore/DorkAgent",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 150398406,
-        "content": "🌟 <b>boden</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nDeveloping cross-platform mobile applications with a native look and feel using C++.\n<br>\n✨ <b>Key Features:</b>\n• Native widgets\n• Fast performance (C++17)\n• Cross-platform development for Android and iOS\n• Open framework\n<br>\n📖 <b>Summary:</b>\nBoden is a C++17 cross-platform GUI framework for building native Android and iOS applications. It leverages native OEM widgets for a true native look and feel, ensuring fast performance and battery efficiency.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AshampooSystems/boden?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/150398406/66fd3300-98d0-11e9-8d11-f608e442ac85",
+        "project_id": 480417179,
+        "content": "✨ <b>WEF</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nAnalyzing and exploiting vulnerabilities in Wi-Fi networks for security testing.\n<br>\n✨ <b>Key Features:</b>\n• WPA/WPA2/WPA3, WPS, WEP, Rogue-AP, and Handshake Attacks\n• Automatic attack mode based on AP features\n• Automatic handshake capture\n• Online and offline handshake cracking\n• Simple login template for Evil Twin attack\n<br>\n📖 <b>Summary:</b>\nThe WEF (Wi-Fi Exploitation Framework) is a shell-based tool designed for security researchers and penetration testers. It automates and facilitates the analysis and exploitation of vulnerabilities in WPA/WPA2, WPS, and WEP Wi-Fi networks, supporting both 2.4 GHz and 5 GHz bands.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/D3Ext/WEF?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a6ccfc56e6176595da595c224557a2e3c2768d0edfb908a800714092fe57bae9/D3Ext/WEF",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.35
     },
     {
-        "project_id": 926285456,
-        "content": "🌟 <b>chaplin</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo transcribe silently mouthed words in real-time without audio input, useful for noisy environments or private communication.\n<br>\n✨ <b>Key Features:</b>\n• Real-time silent speech recognition\n• Runs fully locally\n• Uses pre-trained VSR models\n• LLM integration for corrected output\n• Easy setup script\n<br>\n📖 <b>Summary:</b>\nChaplin is a real-time, local silent speech recognition tool that uses visual lip reading to transcribe unspoken words. It leverages pre-trained models and integrates with LLMs to provide corrected text output.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/amanvirparhar/chaplin?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/802c9249928bb2964d1f9b55056b114b4c092882bdcb9bfbea9e615dd60840eb/amanvirparhar/chaplin",
+        "project_id": 188700274,
+        "content": "🚀 <b>copyparty</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo easily set up a file server on almost any device, accessible via multiple protocols and a web browser, with robust upload and download capabilities.\n<br>\n✨ <b>Key Features:</b>\n• Portable file server\n• Accelerated resumable uploads/downloads\n• Deduplication\n• Multiple protocols: HTTP(S), WebDAV, SFTP, FTP(S), TFTP, SMB/CIFS\n• Media indexer with thumbnails\n<br>\n📖 <b>Summary:</b>\nCopyparty is a versatile, portable file server that supports multiple protocols including HTTP, WebDAV, SFTP, FTP, and TFTP. It excels at accelerated, resumable uploads and downloads, deduplication, and offers features like media indexing and thumbnail generation, all runnable with just Python.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/9001/copyparty?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/188700274/42754d5b-fa34-45dd-9030-6ff0c16036be",
         "platform": "telegram",
-        "quality_score": 0.4
+        "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 858171377,
-        "content": "🔥 <b>OxyMouse</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating mouse movements in Python for tasks such as testing, botting, or simulating user interactions.\n<br>\n✨ <b>Key Features:</b>\n• Generate mouse movements using Python\n• Supports multiple algorithms: bezier, gaussian, perlin, oxy\n• Generate random coordinates within a viewport\n• Generate coordinates between two specific points\n• Generate scroll coordinates\n<br>\n📖 <b>Summary:</b>\nOxyMouse is a Python library designed to generate realistic and varied mouse movements. It offers multiple algorithms to simulate different types of cursor paths, making it useful for applications requiring automated mouse control or realistic user simulation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/oxylabs/OxyMouse?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/99632c6046297b4354a0959653dc93b8fb66274ca1f40e18b92ffe074623919a/oxylabs/OxyMouse",
+        "project_id": 647721487,
+        "content": "🚀 <b>Uscrapper</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nData extraction and intelligence gathering from the surface and deep web, including dark web sources, with a focus on personal information and keyword-specific data.\n<br>\n✨ <b>Key Features:</b>\n• Dark Web Support (.onion links)\n• Keyword-Based Scraping\n• Extraction of Email Addresses, Social Media Links, Author Names, Geolocations, Phone Numbers, Usernames\n<br>\n📖 <b>Summary:</b>\nUscrapper Vanta is an open-source Python tool designed for comprehensive web scraping, capable of extracting various data points from both the surface and deep web. It leverages multithreading and advanced anti-scraping defenses to gather information like email addresses, social media links, and geolocations, with new support for dark web (.onion) links and keyword-based scraping.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/z0m31en7/Uscrapper?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/647721487/2c4c248a-5b9c-4e64-86f5-af6e5183506b",
         "platform": "telegram",
-        "quality_score": 0.45
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 507887705,
+        "content": "🚀 <b>VKGroupParser</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated collection and filtering of VKontakte content for analysis or archival, with remote management capabilities.\n<br>\n✨ <b>Key Features:</b>\n• VKontakte post and comment parsing\n• Keyword filtering with fuzzy matching and spell checking\n• Data storage in MongoDB\n• Telegram bot for remote control\n<br>\n📖 <b>Summary:</b>\nThis Python repository is designed to parse posts and comments from VKontakte, filter them by keywords using fuzzy matching and spell checking, and store the results in a MongoDB database. It also includes a Telegram bot for remote management and control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sergo-code/VKGroupParser?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a29e080756c265d408b0b50bbe2d413de8ed6666f9bde052b4ce308c9614a9ad/sergo-code/VKGroupParser",
+        "platform": "telegram",
+        "quality_score": 0.5
     }
 ]
