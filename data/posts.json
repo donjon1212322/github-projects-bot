@@ -1,44 +1,30 @@
 [
     {
-        "project_id": 62965269,
-        "content": "💡 <b>sistine</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable touchscreen functionality on a MacBook using its existing webcam and a simple hardware modification.\n<br>\n✨ <b>Key Features:</b>\n• Transforms MacBook into a touchscreen\n• Uses built-in webcam\n• Requires minimal hardware ($1)\n• Utilizes computer vision for touch detection\n• Proof-of-concept demonstration\n<br>\n📖 <b>Summary:</b>\nProject Sistine transforms a MacBook into a touchscreen by using its built-in webcam and a small mirror to detect finger proximity and touches on the screen. It leverages computer vision techniques to translate the video feed into usable touch input, requiring minimal hardware.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bijection/sistine?embed=0\">View Project</a>\n• <a href=\"https://www.anishathalye.com/2018/04/03/macbook-touchscreen/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2ed1113bef0bb50f798f58b0d709d16bb6c7a54905390aac7c40e8329d402440/bijection/sistine",
+        "project_id": 550950637,
+        "content": "🔥 <b>Image-to-Text-OCR</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nDigitizing text from images for easy editing and use.\n<br>\n✨ <b>Key Features:</b>\n• Extract text from any image using OCR\n• Web-based utility\n• Developed using Vue, Nuxt, and Vite\n<br>\n📖 <b>Summary:</b>\nImage to Text OCR is a web-based utility that allows users to extract text from any image using Optical Character Recognition (OCR). It provides a simple interface for converting visual text into editable digital text, ideal for digitizing documents or information captured in photos.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AlejandroAkbal/Image-to-Text-OCR?embed=0\">View Project</a>\n• <a href=\"https://copyfromimage.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3d526f5121e0d3dff5bf79b32b000ceb123eb69b280b15ac9dcd54eb37a38f0c/AlejandroAkbal/Image-to-Text-OCR",
         "platform": "telegram",
-        "quality_score": 0.35
+        "quality_score": 0.45
     },
     {
-        "project_id": 427303774,
-        "content": "💡 <b>Migrate-OSS</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nMobile data backup and restoration for Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Backup and restore call log history\n• Backup and restore SMS messages\n• Backup and restore contacts\n• Planned features include calendar entries backup, password protection, and root-based app/system feature backup\n<br>\n📖 <b>Summary:</b>\nMigrate-OSS is an Android application designed for backing up and restoring essential user data, including call logs, SMS messages, and contacts. It aims to provide a reliable way for users to safeguard their personal information and transfer it between devices or after system resets.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BaltiApps/Migrate-OSS?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/427303774/027e3ac8-73c6-4ffc-984b-281ddc058b54",
+        "project_id": 607289185,
+        "content": "✨ <b>semantic-kernel</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding and orchestrating AI agents and multi-agent systems within applications.\n<br>\n✨ <b>Key Features:</b>\n• Model Flexibility (OpenAI, Azure OpenAI, Hugging Face, NVidia, etc.)\n• Agent Framework (tools/plugins, memory, planning)\n• Multi-Agent Systems Orchestration\n• Plugin Ecosystem (native code, prompt templates, OpenAPI, MCP)\n• Vector DB Support (Azure AI Search, Elasticsearch, Chroma)\n<br>\n📖 <b>Summary:</b>\nSemantic Kernel is an enterprise-ready orchestration framework for integrating AI models into applications. It allows developers to build and deploy AI agents and multi-agent systems with flexibility and reliability, supporting various LLMs, plugins, and vector databases.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/microsoft/semantic-kernel?embed=0\">View Project</a>\n• <a href=\"https://aka.ms/semantic-kernel?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/607289185/402ae401-d650-438a-bc04-780afb58b560",
         "platform": "telegram",
-        "quality_score": 0.25
+        "quality_score": 0.85
     },
     {
-        "project_id": 394210346,
-        "content": "🔥 <b>RadioPlayerV3</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nStreaming music and radio content into Telegram group/channel voice chats.\n<br>\n✨ <b>Key Features:</b>\n• Playlist with queuing and 24/7 radio support\n• YouTube Live stream support\n• Auto-fallback to radio when playlist ends\n• Persistent playback even after restarts\n• Show current audio playback position\n<br>\n📖 <b>Summary:</b>\nRadioPlayerV3 is an advanced Python-based Telegram bot designed to stream music and radio directly into group or channel voice chats. It supports playlists, 24/7 radio streaming, YouTube Live, and offers features like persistent playback and interactive controls.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AsmSafone/RadioPlayerV3?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7895dfd4e73765c3cd0e211ab35950ab19cade4c35d4331a55060c6236ffa26e/AsmSafone/RadioPlayerV3",
+        "project_id": 180190854,
+        "content": "💡 <b>appwrite</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo abstract the complexity of building modern applications, enabling developers to create secure, full-stack applications faster by providing a comprehensive set of backend services.\n<br>\n✨ <b>Key Features:</b>\n• End-to-end platform for Web, Mobile, Native, or Backend apps\n• Packaged as a set of Docker microservices\n• Includes backend server and integrated hosting solution\n<br>\n📖 <b>Summary:</b>\nAppwrite is a developer-first, open-source backend-as-a-service platform that simplifies building scalable web, mobile, and backend applications. It provides a suite of microservices packaged as Docker containers, offering features like authentication, databases, storage, and cloud functions, along with an integrated hosting solution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/appwrite/appwrite?embed=0\">View Project</a>\n• <a href=\"https://appwrite.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4d37c573f2a4b7ba7d50935154030963f15ee8bec2ef8385535002ba54aeaf83/appwrite/appwrite",
         "platform": "telegram",
-        "quality_score": 0.7000000000000001
+        "quality_score": 0.95
     },
     {
-        "project_id": 1092562478,
-        "content": "🔥 <b>gitlogue</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nVisualizing and replaying Git commit history in a cinematic, animated format within the terminal.\n<br>\n✨ <b>Key Features:</b>\n• Commit Replay as Animation\n• Working Tree Diff View\n• Tree-sitter Syntax Highlighting\n• Project File Tree\n• Screensaver Mode\n<br>\n📖 <b>Summary:</b>\ngitlogue is a terminal-based tool that transforms your Git commit history into a cinematic, animated replay. It visualizes code changes with realistic typing animations, syntax highlighting, and file tree transitions, making code evolution a visual experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/unhappychoice/gitlogue?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33",
+        "project_id": 766341786,
+        "content": "🚀 <b>puter</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a self-hostable, privacy-focused personal cloud operating system accessible from anywhere.\n<br>\n✨ <b>Key Features:</b>\n• Privacy-first personal cloud\n• Platform for building and publishing websites/apps/games\n• Alternative to Dropbox, Google Drive, OneDrive\n• Remote desktop environment\n• Extensible and developer-friendly\n<br>\n📖 <b>Summary:</b>\nPuter is an open-source, self-hostable internet operating system that functions as a personal cloud computer. It allows users to store files, run applications, and access their data from anywhere, offering an alternative to traditional cloud storage and remote desktop solutions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HeyPuter/puter?embed=0\">View Project</a>\n• <a href=\"https://puter.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/766341786/ad2dfdf3-eb84-4407-8f7a-63fcda75e346",
         "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 843946121,
-        "content": "🚀 <b>CyberScraper-2077</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated and intelligent web data extraction using AI and LLMs.\n<br>\n✨ <b>Key Features:</b>\n• AI-Powered Extraction\n• Streamlit Interface\n• Multi-Format Support (JSON, CSV, HTML, SQL, Excel)\n• Tor Network Support\n• Stealth Mode\n<br>\n📖 <b>Summary:</b>\nCyberScraper 2077 is an AI-powered web scraping tool that leverages LLMs like OpenAI, Gemini, and Ollama to extract data from the internet with high precision. It offers both a traditional scraping branch with advanced features and an enterprise-grade integration with the Scrapeless SDK.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/itsOwen/CyberScraper-2077?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4a8e10c42b45fd5f68b0e0219aed026b4e3432dc9ea3d5ca1cc177930c2c768d/itsOwen/CyberScraper-2077",
-        "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 1076426995,
-        "content": "🌟 <b>dexter</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nPerforming deep, autonomous financial research and analysis to answer complex financial queries.\n<br>\n✨ <b>Key Features:</b>\n• Intelligent Task Planning\n• Autonomous Execution\n• Self-Validation\n• Real-Time Financial Data Access\n• Safety Features (loop detection, step limits)\n<br>\n📖 <b>Summary:</b>\nDexter is an autonomous financial research agent built with TypeScript that leverages task planning, self-reflection, and real-time market data to answer complex financial questions. It breaks down queries, executes research using various tools, validates its findings, and synthesizes data-backed answers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/virattt/dexter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1768a9d84063e1297190f7de8f6cba3745be5034a5cd6a6777eea9b9c5a09a24/virattt/dexter",
-        "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 0.95
     }
 ]
