@@ -1,7 +1,0 @@
-{
-    "project_id": 1046855459,
-    "content": "✨ <b>ShadeOfColor2</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nHiding arbitrary files within PNG images for secure or restricted data transfer and storage.\n<br>\n✨ <b>Key Features:</b>\n• Two-way conversion (-crypt to PNG, -decrypt from PNG)\n• Embedded metadata (signature, original size, filename, SHA1 hash)\n• Cross-platform compatibility (Windows, Linux, macOS) via ImageSharp\n• Integrity check for file corruption or tampering\n<br>\n📖 <b>Summary:</b>\nShadeOfColor is a cross-platform C# tool that allows users to hide any file within a PNG image and later recover the original file. It embeds metadata like original file size, name, and a SHA1 hash for integrity checks, making it useful for bypassing email restrictions, cloud storage limitations, or adding a layer of privacy.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/archistico/ShadeOfColor2?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/5e25f947a8d22f92e95c78b225597483a77940845438895f0ce1b6a4f2c5a10b/archistico/ShadeOfColor2",
-    "platform": "telegram",
-    "quality_score": 0.25
-}
