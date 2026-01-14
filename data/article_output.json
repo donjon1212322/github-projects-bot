@@ -1,26 +1,26 @@
 {
-    "title": "Ditch the Terminal Juggling: Meet DockMon, Your Centralized Docker Control Center",
-    "article": "Tired of SSHing into a dozen servers just to check if your containers are still breathing? DockMon completely changes the game by offering a single, beautiful dashboard to manage all your Docker environments, whether they are running locally or scattered across the globe. This tool is designed to move you beyond basic `docker ps` commands and give you true operational oversight, turning container chaos into predictable control.\n\nThe magic of DockMon lies in its architecture, especially when dealing with remote hosts. Instead of forcing you to expose risky Docker ports, it uses a lightweight, secure Go-based agent that runs on your remote servers. This agent securely relays real-time performance metrics—CPU, memory, network usage—back to the central platform. Everything updates live via WebSockets, meaning your customizable dashboard is always showing the absolute truth about your infrastructure the moment it happens. You can even view live logs from multiple containers side-by-side, which is a massive time saver during debugging.\n\nFor developers seeking reliability, DockMon’s intelligent auto-restart feature is a lifesaver. You can define specific retry logic for individual containers. If a critical service crashes, DockMon doesn't just blindly try to restart it once; it follows your rules, ensuring transient failures don't become outages. Furthermore, built-in HTTP/HTTPS health checks provide proactive monitoring, allowing the system to restart containers based on application response, not just process status.\n\nAlerting is another area where DockMon shines brightly. Forget constantly polling your infrastructure. This platform integrates seamlessly with all the communication tools you already use, including Slack, Discord, Telegram, and traditional SMTP. You get instant, actionable notifications when something goes wrong, and you can even define \"Blackout Windows\" to suppress alerts during scheduled maintenance, preventing notification fatigue.\n\nFinally, managing your workflow becomes incredibly streamlined. Need to update a fleet of containers? Bulk operations allow you to stop, start, or restart dozens of containers with a few clicks. For deployment, it supports both simple Docker Run style commands and complex Docker Compose templates, which you can save and reuse. This centralization of monitoring, management, and deployment transforms how you interact with your containerized applications, giving you back precious development time previously spent on operational firefighting.",
+    "title": "Python CQRS: The Ultimate Framework for Building Scalable Event-Driven Systems",
+    "article": "We all know the headache of building complex, high-traffic applications where read and write operations constantly clash. When you try to scale your database, reads usually dominate, but your write logic (commands) often requires locking and complex transactions, slowing everything down. This is where the Python CQRS project steps in, offering a robust framework for implementing the Command Query Responsibility Segregation (CQRS) pattern right in your Python ecosystem.\n\nAt its core, CQRS separates your application into two distinct pathways: Commands and Queries. Commands are actions that change the state of your system—like \"Create User\" or \"Join Meeting.\" Queries are actions that simply retrieve data—like \"Get User Profile\" or \"List all Meetings.\" This separation allows you to optimize each side independently. For instance, you can use a fast, denormalized NoSQL database for reads (Queries) and a traditional transactional database for writes (Commands). Python CQRS provides the RequestHandler abstraction to manage these flows cleanly. Command Handlers execute state changes and can optionally produce domain events, while Query Handlers fetch and return data representations.\n\nThe real power of this framework lies in its deep integration with Event-Driven Architecture (EDA). After a Command executes, it can generate events (Notifications or ECST events) that are immediately published to a message broker like Kafka, which is fully supported via aiokafka. The framework includes an EventMediator and crucial support for the Transactional Outbox pattern. The Outbox ensures that the database transaction and the event publishing are treated as a single atomic unit. This is critical for building reliable distributed systems, guaranteeing that state changes and corresponding events are never out of sync, even if the system crashes mid-operation.\n\nFor developers working with modern microservices, Python CQRS offers several advanced features that dramatically simplify complexity. It supports the Orchestrated Saga pattern, which is essential for managing distributed transactions across multiple services. If one step fails, the Saga automatically triggers compensation actions, preventing inconsistent states. Furthermore, the inclusion of StreamingRequestHandler allows for handling real-time requests with progress updates, perfect for long-running tasks or data pipelines. The project even helps with documentation by automatically generating Sequence and Class diagrams using Mermaid, turning complex architecture into visual, understandable diagrams.\n\nBy adopting this framework, developers gain immediate benefits in scalability, performance, and maintainability. You can scale your read models independently of your write models. The clear separation of concerns makes the codebase easier to test, understand, and evolve. With built-in support for FastAPI and FastStream, integrating this pattern into modern Python web and streaming applications is straightforward, allowing teams to focus on business logic rather than boilerplate infrastructure setup. This project truly provides the scaffolding needed to build resilient, high-performance distributed systems in Python.",
     "key_takeaways": [
-        "Centralized monitoring and management for unlimited local and remote Docker hosts.",
-        "Intelligent auto-restart and proactive HTTP health checks ensure high container uptime.",
-        "Secure remote monitoring via a lightweight Go agent, eliminating the need to expose Docker ports.",
-        "Real-time dashboards, multi-channel alerting (Slack, Discord), and comprehensive event logging simplify operations.",
-        "Supports bulk operations and integrated deployment using reusable Docker Compose templates."
+        "Implements CQRS to separate read (Queries) and write (Commands) operations for independent scaling and performance optimization.",
+        "Provides robust Event-Driven Architecture support, including Kafka integration and the Transactional Outbox pattern for reliable event publishing.",
+        "Simplifies complex distributed transactions using the Orchestrated Saga pattern with built-in compensation and recovery.",
+        "Offers advanced features like Streaming Handlers for real-time updates and automatic Mermaid diagram generation for documentation.",
+        "Enhances maintainability and testability through clear separation of concerns in the codebase, integrated easily with FastAPI and FastStream."
     ],
     "tags": [
-        "Docker",
-        "Monitoring",
-        "Container Management",
-        "DevOps",
-        "Go"
+        "Python",
+        "CQRS",
+        "Event-Driven Architecture",
+        "Microservices",
+        "Kafka"
     ],
-    "stars": 1136,
-    "forks": 64,
-    "open_issues": 20,
+    "stars": 26,
+    "forks": 4,
+    "open_issues": 4,
     "languages": "Python",
-    "readme_summary": "DockMon is a comprehensive platform for monitoring and managing Docker containers. It offers real-time insights, intelligent auto-restart capabilities, multi-channel alerting, and detailed event logging for single or multiple Docker hosts.",
-    "project_id": 1062924394,
-    "url": "https://github.com/darthnorse/dockmon",
-    "description": "DockMon - Modern Docker container monitoring with auto-restart and alerts"
+    "readme_summary": "Python CQRS is a framework for implementing the Command Query Responsibility Segregation (CQRS) pattern in Python applications. It facilitates the separation of read and write operations, enhancing scalability, performance, and maintainability, with added support for event-driven architecture concepts like event sourcing, sagas, and transaction outbox patterns.",
+    "project_id": 835891783,
+    "url": "https://github.com/vadikko2/python-cqrs",
+    "description": "Event-Driven Architecture Framework"
 }
