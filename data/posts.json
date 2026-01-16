@@ -1,44 +1,37 @@
 [
     {
-        "project_id": 998600647,
-        "content": "💡 <b>froggit</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide developers with a more intuitive and visually organized way to interact with Git directly from their terminal, simplifying common and advanced Git operations.\n<br>\n✨ <b>Key Features:</b>\n• Modern, minimalist Git TUI\n• Visual feedback\n• Keyboard-driven controls\n• Streamlined Git workflow\n• Configuration file for customization (froggit.yml)\n<br>\n📖 <b>Summary:</b>\nFroggit is a modern, minimalist Git Text User Interface (TUI) designed to enhance the command-line Git experience. It offers visual feedback, keyboard-driven controls, and streamlined Git operations for clarity and speed within the terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/thewizardshell/froggit?embed=0\">View Project</a>\n• <a href=\"https://froggit-docs.vercel.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/998600647/f9328fdf-201f-4318-80af-860403faf679",
+        "project_id": 1032995205,
+        "content": "🚀 <b>glkvm-cloud</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a secure, self-hosted, and easy-to-deploy remote management platform for KVM devices, suitable for individuals and small businesses.\n<br>\n✨ <b>Key Features:</b>\n• Device Management\n• Script Deployment\n• Remote SSH\n• Remote Control\n• Batch Operations\n<br>\n📖 <b>Summary:</b>\nGLKVM Cloud is a self-hosted, lightweight KVM remote management platform designed for individuals and small businesses. It offers secure remote access, device management, and batch operations, built upon the rttys project for rapid deployment and full data control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gl-inet/glkvm-cloud?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fa638ea1a433ad5bcfb87d36ccdb9efffdeabbcd4e944ab556ee9629308d3b75/gl-inet/glkvm-cloud",
+        "platform": "telegram",
+        "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 1123731793,
+        "content": "🔥 <b>TempFastMail</b> | PHP\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a temporary, self-hosted email inbox for receiving messages without long-term storage, ideal for sign-ups or testing purposes.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted temporary email inbox\n• Receives and displays messages\n• Automatic email deletion after 48 hours\n• Admin interface for manual deletion\n• Docker Compose setup\n<br>\n📖 <b>Summary:</b>\nTempFastMail is a self-hosted, disposable email inbox solution built with PHP and React. It allows users to quickly set up a temporary email address to receive and view messages, with automatic deletion after 48 hours for privacy.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kasteckis/TempFastMail?embed=0\">View Project</a>\n• <a href=\"https://tempfastmail.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/438f609125c3f6daba65138da15e71aec20c53b525d610c428570a4b401e49ad/kasteckis/TempFastMail",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 21298446,
+        "content": "✨ <b>firefly-iii</b> | PHP\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide individuals with a comprehensive, self-hosted tool for managing personal finances, enabling better budgeting, expense tracking, and financial insight.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted and isolated, no external server contact unless explicitly configured.\n• REST JSON API for extensive programmatic control.\n• Support for recurring transactions.\n<br>\n📖 <b>Summary:</b>\nFirefly III is a self-hosted personal finance manager designed to help users track income and expenses, manage budgets, and gain insight into their financial habits. It provides tools for budgeting, categorization, tagging, and offers various financial reports, all while ensuring user data privacy and control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/firefly-iii/firefly-iii?embed=0\">View Project</a>\n• <a href=\"https://firefly-iii.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/21298446/df3f3500-938f-11eb-9ced-1fc42aec4e90",
+        "platform": "telegram",
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 1044117453,
+        "content": "🔥 <b>pageindex-mcp</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling LLM-based applications to perform advanced information retrieval and reasoning over documents without relying on traditional vector databases, by exposing a structured, tree-based index through the MCP protocol.\n<br>\n✨ <b>Key Features:</b>\n• Vectorless, reasoning-based RAG\n• Hierarchical tree structures for documents\n<br>\n📖 <b>Summary:</b>\nPageIndex MCP is a server that exposes PageIndex, a vectorless, reasoning-based RAG system, directly to LLMs and agents. It allows platforms like Claude and Cursor to interact with document structure via tree indexing, eliminating the need for vector databases and enabling human-like information retrieval from long documents.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/VectifyAI/pageindex-mcp?embed=0\">View Project</a>\n• <a href=\"https://pageindex.ai/mcp?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7122908e6499330fbab666ccfb858d3d53a8cde20ebcc26cd78551d14aee3fb5/VectifyAI/pageindex-mcp",
         "platform": "telegram",
         "quality_score": 0.75
     },
     {
-        "project_id": 833315491,
-        "content": "💡 <b>llm-god</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a unified desktop interface for interacting with multiple LLM services concurrently, enhancing user productivity by reducing context switching and copy-pasting.\n<br>\n✨ <b>Key Features:</b>\n• Simultaneously prompt multiple LLMs\n• Supports ChatGPT, Google Gemini, Anthropic Claude, X.ai Grok, DeepSeek, and Copilot\n• Paste text or screenshots directly into the prompt area\n<br>\n📖 <b>Summary:</b>\nLLM-God is a desktop application for Windows that allows users to simultaneously prompt multiple large language models (LLMs) like ChatGPT, Gemini, and Claude from a single interface. It aims to streamline workflows by eliminating the need to copy-paste between different LLM web interfaces, saving time for both coding and non-coding tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/czhou578/llm-god?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/833315491/b6e4c8d6-e83f-48fb-8fa3-6de032877845",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 967092659,
-        "content": "🚀 <b>budget_tracker_tui</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTracking and visualizing personal income and expenses within a terminal environment.\n<br>\n✨ <b>Key Features:</b>\n• Intuitive Terminal UI\n• Transaction Management (Add, View, Edit, Delete)\n• Recurring Transactions\n• Advanced Filtering\n• Hierarchical Categorization\n<br>\n📖 <b>Summary:</b>\nBudget Tracker TUI is a Rust-based Terminal User Interface application for managing personal finances. It allows users to track income and expenses, categorize transactions, visualize spending with charts, and monitor budget progress directly within the terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Feromond/budget_tracker_tui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b126a84ebeb7513644fdd7dcb7f6e4d821028ac9fc23cdde1c94ebaf9b7a75ee/Feromond/budget_tracker_tui",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 1054352512,
-        "content": "🔥 <b>Blitzkrieg-2</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding access to the source code and assets of the Blitzkrieg 2 video game for community, educational, and research purposes under a non-commercial license.\n<br>\n✨ <b>Key Features:</b>\n• Open-source game engine source code (non-commercial license)\n• Game assets and data included\n• Development tools and scripts\n• Map editor and documentation\n• Multiple language localizations\n<br>\n📖 <b>Summary:</b>\nBlitzkrieg 2 is a 2005 real-time tactics video game whose source code was released in 2025 under a non-commercial license. The repository contains the game's engine source code, assets, and development tools, allowing for community, educational, and research use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nival/Blitzkrieg-2?embed=0\">View Project</a>\n• <a href=\"https://en.wikipedia.org/wiki/Blitzkrieg_2?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6d4fd0c2cfee3ab152f9e3a2f89f9c397632994603898e7001fbf26db661b86f/nival/Blitzkrieg-2",
+        "project_id": 958391378,
+        "content": "🔥 <b>NetScan-Pro</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nNetwork reconnaissance and security assessment for administrators and professionals.\n<br>\n✨ <b>Key Features:</b>\n• Network Discovery (Live host detection, device enumeration, gateway/subnet mapping)\n• Port Scanning (Quick, Standard, Full)\n• Service Detection (Web, Database, Version fingerprinting)\n• Security Assessment (Vulnerability scanning, CVE identification)\n<br>\n📖 <b>Summary:</b>\nNetScan Pro is an interactive Bash-based network scanning tool that offers live host discovery, port scanning, traceroute, and ping tests. It is designed for network administrators and security professionals, providing a user-friendly interface with colorful outputs and visual elements for network reconnaissance and security assessment.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/niladri-1/NetScan-Pro?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/958391378/c2c8c385-ee2c-4b98-bb1b-95f7365fa499",
         "platform": "telegram",
         "quality_score": 0.3
-    },
-    {
-        "project_id": 795821853,
-        "content": "🌟 <b>cheatshh</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a quick and organized way to store, access, and recall command-line commands and their associated information, acting as a personal command-line reference.\n<br>\n✨ <b>Key Features:</b>\n• Interactive CLI for managing command-line cheatsheets\n• Store, group, and view commands with descriptions, TLDR, and man pages\n• Customizable cheatsheets and groups\n• Bookmark commands for easy access\n<br>\n📖 <b>Summary:</b>\nCheatshh is an interactive command-line interface (CLI) tool written in shell script for managing and accessing command-line cheatsheets. It allows users to store, group, and easily retrieve commands with their descriptions, TLDR, and man pages, reducing the need to memorize commands.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AnirudhG07/cheatshh?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/630526943c4532bb30eb4b830b770b4c23ad026fd36f70e5daece125c3e3bf80/AnirudhG07/cheatshh",
-        "platform": "telegram",
-        "quality_score": 0.3
-    },
-    {
-        "project_id": 1058593350,
-        "content": "🔥 <b>elementBlur</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo obscure sensitive information or emphasize specific content on webpages for privacy, focus, or presentation purposes.\n<br>\n✨ <b>Key Features:</b>\n• Dual Mode (blur/highlight)\n• Element Selection\n• Region Drawing\n• Text Selection\n• Color Picker\n<br>\n📖 <b>Summary:</b>\nElement Blur & Highlight Extension is a browser extension that allows users to selectively blur or highlight elements, text, or custom regions on any webpage. It offers dual modes for blurring and highlighting, with controls for color, opacity, and intensity, along with undo/redo functionality and screenshot capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hongvin/elementBlur?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7ac5f28e304582dc8676aa8a0e6d93efb762548d056b35b554974b065e2784d1/hongvin/elementBlur",
-        "platform": "telegram",
-        "quality_score": 0.25
     }
 ]
