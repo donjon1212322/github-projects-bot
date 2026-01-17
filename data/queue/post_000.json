@@ -1,0 +1,7 @@
+{
+    "project_id": 1130305975,
+    "content": "✨ <b>pasteguard</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo act as a privacy-preserving proxy for Large Language Model (LLM) API calls, preventing sensitive data from being exposed to third-party providers by masking or routing it locally.\n<br>\n✨ <b>Key Features:</b>\n• PII Detection (Names, Emails, Phone Numbers, Credit Cards, IBANs, IP Addresses, Locations)\n• Secrets Detection (API Keys, Tokens, Private Keys)\n<br>\n📖 <b>Summary:</b>\nPasteGuard is an OpenAI-compatible proxy that protects sensitive data by masking Personally Identifiable Information (PII) and secrets before they are sent to external LLM APIs. It offers two modes: Mask Mode for replacing data with placeholders and Route Mode for directing sensitive requests to local LLMs, ensuring data privacy.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sgasser/pasteguard?embed=0\">View Project</a>\n• <a href=\"https://pasteguard.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/9e390567963e2991dd29d21938d5b672c611ddcf78e9ad8cd6f2187f3e95df9b/sgasser/pasteguard",
+    "platform": "telegram",
+    "quality_score": 1.0000000000000002
+}
