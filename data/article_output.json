@@ -1,26 +1,26 @@
 {
-    "title": "ServiceRadar: Mastering Observability in the Edge and Beyond",
-    "article": "Ever felt like your monitoring system only works when everything is already running smoothly? If you manage infrastructure in remote locations, constrained environments, or highly distributed setups, you know the pain of losing visibility when the network gets shaky. That's exactly the problem ServiceRadar is built to solve. This project is a game-changer for maintaining real-time awareness, even when your services are deployed in \"hard-to-reach places.\"\r\n\r\nServiceRadar operates on a truly distributed architecture, meaning you can place monitoring components right where they are needed, regardless of geographic or network segmentation. It’s designed to be the eyes and ears of your infrastructure, continuously gathering data. It doesn't just rely on one data source; it's a comprehensive observability platform that pulls in metrics, logs, and traces using industry standards like OpenTelemetry (OTEL), alongside traditional network tools like SNMP. This holistic view ensures no critical event slips through the cracks.\r\n\r\nOne of the most impressive aspects is its unified data layer. Forget juggling separate databases for different data types. ServiceRadar combines the power of relational data, time-series data (via TimescaleDB), and, crucially, graph data using Apache AGE. Why graph data? Because infrastructure is fundamentally a graph! This combination allows ServiceRadar's advanced discovery engine, the Graph Network Mapper, to automatically map complex device, interface, and topology relationships. You don't just see that two devices are up; you see *how* they are connected and the potential impact of a failure across the entire network map.\r\n\r\nFor developers and SREs, ServiceRadar offers immediate workflow improvements. Querying this massive, interconnected dataset is streamlined using SRQL, the ServiceRadar Query Language, which uses an intuitive key:value syntax—making complex data retrieval simple. Security is paramount, and the project enforces a zero-trust model using mTLS via SPIFFE, ensuring secure, certificate-based authentication for all components. Furthermore, its blazing-fast, Rust-based rule engine processes alerts and actions instantly, guaranteeing that you get informed the second something goes wrong, even if the primary network link is compromised. This level of comprehensive, secure, and distributed monitoring is essential for modern, complex deployments, giving you the peace of mind that your services are visible no matter where they are running.",
+    "title": "Stop Debugging UI in Production: Meet Storybook, Your Isolated Component Workshop",
+    "article": "Have you ever struggled to test a UI component because it was deeply nested within a complex application state? Storybook solves this fundamental problem by giving you a dedicated, isolated environment—a \"frontend workshop\"—where you can build, view, and interact with your UI components entirely separately from your main application logic. Think of it as a virtual gallery for every button, card, and layout you create, ensuring every piece is polished before it ever hits the main stage.\r\n\r\nThe way Storybook works is elegantly simple. You define \"stories\" for each component. A story is essentially a single, specific state of a component. For instance, a \"Button\" component might have stories for its default state, its disabled state, its loading state, and its primary variant. By documenting these various states, you ensure that every possible permutation of the component is visible and testable, removing the guesswork involved in complex rendering scenarios. This systematic approach is what helps you build truly bulletproof interfaces.\r\n\r\nThis isolation dramatically speeds up development. Instead of navigating through multiple pages or simulating complex data flows just to see how a small component looks when a certain flag is set, you simply click on the corresponding story in the Storybook interface. This instant feedback loop is invaluable for rapid iteration and design system development. Furthermore, because Storybook supports virtually every major frontend framework—from React and Vue to Angular—it integrates seamlessly into almost any modern stack, making it a universal tool for UI engineers.\r\n\r\nFor developers, the benefits extend far beyond just faster coding. Storybook inherently creates living documentation. The stories you write serve dual purposes: they are tests for your components and comprehensive documentation for your entire team, including designers and product managers. This dramatically improves collaboration. Designers can review components without needing to run the full application, and new developers can quickly understand the entire component library just by browsing the Storybook catalog. The extensive addon ecosystem also lets you integrate accessibility checks, performance monitoring, and interactive controls directly into your component previews, ensuring consistency and reducing unexpected bugs down the line.",
     "key_takeaways": [
-        "ServiceRadar is a distributed monitoring system specifically engineered for hard-to-reach and constrained network environments.",
-        "It features a unified data layer powered by CloudNativePG, TimescaleDB, and Apache AGE, enabling powerful topology mapping via its Graph Network Mapper.",
-        "The system supports comprehensive observability, collecting metrics, logs, and traces using standards like OpenTelemetry (OTEL) and SNMP.",
-        "Data querying is simplified using the intuitive ServiceRadar Query Language (SRQL).",
-        "Security is baked in with mTLS component authentication provided by SPIFFE, enforcing a strong zero-trust architecture."
+        "Develop UI components in complete isolation, speeding up iteration and reducing dependency on complex application state.",
+        "Storybook automatically generates living documentation, serving as a single source of truth for the entire component library.",
+        "Facilitates robust visual testing and quality assurance by capturing all possible component states (stories).",
+        "Supports major frontend frameworks including React, Vue, and Angular, ensuring broad compatibility across projects.",
+        "The rich addon ecosystem allows direct integration of accessibility checks and design controls into the development environment."
     ],
     "tags": [
-        "Observability",
-        "Distributed Systems",
-        "Network Monitoring",
-        "Apache AGE",
-        "OpenTelemetry"
+        "Frontend Development",
+        "Component Library",
+        "UI Testing",
+        "Design System",
+        "JavaScript"
     ],
-    "stars": 470,
-    "forks": 24,
-    "open_issues": 194,
-    "languages": "Elixir",
-    "readme_summary": "ServiceRadar is a distributed network monitoring system designed for infrastructure and services in constrained or hard-to-reach environments. It offers real-time monitoring, distributed architecture, and cloud-based alerting, supporting various data collection methods like metrics, logs, traces, and SNMP.",
-    "project_id": 916252207,
-    "url": "https://github.com/carverauto/serviceradar",
-    "description": "opensource network management and observability platform"
+    "stars": 89069,
+    "forks": 9827,
+    "open_issues": 2126,
+    "languages": "TypeScript",
+    "readme_summary": "Storybook is a development environment for building UI components in isolation. It provides a workshop for developers to create, test, and document components independently of the main application, supporting a wide range of frameworks and offering numerous addons for enhanced functionality.",
+    "project_id": 54173593,
+    "url": "https://github.com/storybookjs/storybook",
+    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
 }
