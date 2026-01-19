@@ -1,7 +1,0 @@
-{
-    "project_id": 1039763226,
-    "content": "✨ <b>transcriber</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a private, fast, and self-hosted solution for transcribing audio and video content from various sources, including YouTube.\n<br>\n✨ <b>Key Features:</b>\n• Transcribe from YouTube URLs or local audio/video files\n• Two Whisper backends (openai-whisper, faster-whisper) with fallback\n• GPU acceleration (CUDA) with CPU fallback\n• FFmpeg detection\n<br>\n📖 <b>Summary:</b>\nTranscriber is an open-source, self-hosted web application that leverages AI (Whisper) to transcribe audio and video files or YouTube URLs. It prioritizes privacy and speed, offering GPU acceleration and a user-friendly interface with features like transcript history and temporary media cleanup.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Br3n0k/transcriber?embed=0\">View Project</a>\n• <a href=\"https://noktech.com.br/softwares/transcriber?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/6d793fe90f12e62ea9c7512364cbdaf798e968547d911bbd3711a1e1eef233d0/Br3n0k/transcriber",
-    "platform": "telegram",
-    "quality_score": 0.25
-}
