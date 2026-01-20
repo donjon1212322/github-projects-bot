@@ -1,37 +1,44 @@
 [
     {
-        "project_id": 1039763226,
-        "content": "✨ <b>transcriber</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a private, fast, and self-hosted solution for transcribing audio and video content from various sources, including YouTube.\n<br>\n✨ <b>Key Features:</b>\n• Transcribe from YouTube URLs or local audio/video files\n• Two Whisper backends (openai-whisper, faster-whisper) with fallback\n• GPU acceleration (CUDA) with CPU fallback\n• FFmpeg detection\n<br>\n📖 <b>Summary:</b>\nTranscriber is an open-source, self-hosted web application that leverages AI (Whisper) to transcribe audio and video files or YouTube URLs. It prioritizes privacy and speed, offering GPU acceleration and a user-friendly interface with features like transcript history and temporary media cleanup.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Br3n0k/transcriber?embed=0\">View Project</a>\n• <a href=\"https://noktech.com.br/softwares/transcriber?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6d793fe90f12e62ea9c7512364cbdaf798e968547d911bbd3711a1e1eef233d0/Br3n0k/transcriber",
+        "project_id": 1121789084,
+        "content": "🚀 <b>browser</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling AI agents to programmatically control and interact with the Google Chrome browser for tasks such as web scraping, automated testing, and information gathering.\n<br>\n✨ <b>Key Features:</b>\n• Fast and token-efficient Chrome control for AI agents\n• CLI for browser automation\n• Commands for browser control, navigation, tab management, interaction, content extraction, screenshots, and debugging\n<br>\n📖 <b>Summary:</b>\nThis repository provides a command-line interface (CLI) tool for AI agents to control the Chrome browser. It offers fast and token-efficient control over browser actions like navigation, interaction, and content extraction, aiming to be significantly faster than existing solutions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/camhahu/browser?embed=0\">View Project</a>\n• <a href=\"https://browser-cli.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/2d3d11bdf2a368e3335e27f53fc2bfba19656bd49703a30a20fcadceda7f763a/camhahu/browser",
         "platform": "telegram",
-        "quality_score": 0.25
+        "quality_score": 0.7499999999999999
     },
     {
-        "project_id": 1107265809,
-        "content": "✨ <b>ExploitDB-Hunter</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo efficiently find and download exploit code from Exploit-DB via a command-line interface, streamlining the workflow for information security professionals.\n<br>\n✨ <b>Key Features:</b>\n• Search exploits by CVE ID\n• Search exploits by title\n• Download exploits directly from the command line\n• Interactive terminal interface for selecting exploits\n• Filter exploits by type, platform, port, and tag\n<br>\n📖 <b>Summary:</b>\nExploitDB-Hunter is a lightweight Python command-line tool designed to simplify the process of searching and downloading exploits from Exploit-DB. It offers an interactive terminal interface, eliminating the need to manually browse the website and copy exploit code.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/J0hnTh3Kn1ght/ExploitDB-Hunter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e05247462a7d7f93902768a07e6925e7c9aa0ad6a774662b12eace125fd1f943/J0hnTh3Kn1ght/ExploitDB-Hunter",
-        "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 1072386015,
-        "content": "💡 <b>ProximityLockSystem</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automatically secure a computer by locking it when the user walks away with their paired Bluetooth device, preventing unauthorized access.\n<br>\n✨ <b>Key Features:</b>\n• Automatic system locking based on Bluetooth device proximity\n• Continuous monitoring of paired devices\n• Cross-platform compatibility (Windows, macOS, Linux)\n• Configurable polling interval\n<br>\n📖 <b>Summary:</b>\nProximityLockSystem is a Python-based CLI tool that automatically locks your computer when your paired Bluetooth device moves out of range. It continuously monitors nearby devices, providing a privacy-first security solution for users who frequently step away from their workstations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Akarshjha03/ProximityLockSystem?embed=0\">View Project</a>\n• <a href=\"https://www.producthunt.com/products/proximity-lock-system?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e7ae037d65716c418e0d2bd146a71309ba0fe80fe4d69bf8fb58e437b9cc214d/Akarshjha03/ProximityLockSystem",
-        "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 54173593,
-        "content": "✨ <b>storybook</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDeveloping, documenting, and testing UI components in isolation.\n<br>\n✨ <b>Key Features:</b>\n• Develop UI components in isolation\n• Document components\n• Test components\n• Support for multiple frameworks (React, Vue, Angular, Svelte, Web Components, etc.)\n• Extensible with addons\n<br>\n📖 <b>Summary:</b>\nStorybook is a development environment for building UI components in isolation. It provides a workshop for developers to create, test, and document components independently of the main application, supporting a wide range of frameworks and offering numerous addons for enhanced functionality.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/storybookjs/storybook?embed=0\">View Project</a>\n• <a href=\"https://storybook.js.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/54173593/39e57000-a3fa-11e9-83c7-953827061607",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 1051789550,
-        "content": "🌟 <b>tuios</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging multiple terminal sessions efficiently within a single terminal window, providing a desktop-like experience.\n<br>\n✨ <b>Key Features:</b>\n• Terminal-based window manager\n• Vim-like modal interface\n• Comprehensive keyboard shortcuts\n• Workspace support\n• Mouse interaction\n<br>\n📖 <b>Summary:</b>\nTUIOS is a terminal-based window manager built with Go, offering a modern, efficient interface for managing multiple terminal sessions. It features a vim-like modal interface, comprehensive keyboard shortcuts, workspace support, and mouse interaction, leveraging the Charm stack (Bubble Tea v2 and Lipgloss v2).\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Gaurav-Gosain/tuios?embed=0\">View Project</a>\n• <a href=\"https://tuios.gaurav.zip/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1051789550/22be6433-0723-4367-bf0b-c6b265092a3e",
+        "project_id": 425837195,
+        "content": "✨ <b>sourcegit</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a user-friendly graphical interface for interacting with Git repositories, making complex Git operations more accessible to users across different operating systems.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform support (Windows, macOS, Linux)\n• Visual Git commands (Clone, Fetch, Pull, Push, Merge, Rebase, etc.)\n• Customizable themes\n• Visual commit graph\n• SSH access support\n<br>\n📖 <b>Summary:</b>\nSourceGit is an open-source, cross-platform GUI client for Git, designed to provide a user-friendly interface for managing Git repositories on Windows, macOS, and Linux. It offers a wide range of Git commands through a visual interface, supports customization, and includes advanced features like GitFlow, Git LFS, and AI-assisted commit message generation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sourcegit-scm/sourcegit?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/690894cbf7a65d7c1de5228ec73148014ab9779d7ce3a160c0bac74f5eb03fb1/sourcegit-scm/sourcegit",
         "platform": "telegram",
         "quality_score": 0.85
+    },
+    {
+        "project_id": 717491059,
+        "content": "✨ <b>compressO</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nReducing video file sizes for easier storage, sharing, or streaming.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform desktop app (Linux, Windows, macOS)\n• Video compression to tiny sizes\n• Powered by FFmpeg\n• Built with Tauri and Rust\n• Offline functionality\n<br>\n📖 <b>Summary:</b>\nCompressO is a cross-platform desktop application built with Tauri and Rust that allows users to significantly reduce video file sizes. It leverages FFmpeg for powerful compression and works entirely offline, ensuring user privacy and security.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/codeforreal1/compressO?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/68470d8ec93fb719132cebec0594ccd462fb63d7ee2bf98212b77f639441f15c/codeforreal1/compressO",
+        "platform": "telegram",
+        "quality_score": 0.5
+    },
+    {
+        "project_id": 1072286200,
+        "content": "🚀 <b>pyversity</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo improve the quality and variety of results returned by search and retrieval systems by reducing redundancy and increasing diversity.\n<br>\n✨ <b>Key Features:</b>\n• Fast and lightweight library for result diversification\n• Implements popular strategies: MMR, MSD, DPP, Cover\n• Unified and clear API\n• Minimal dependency (NumPy only)\n• Tunable diversity parameter for relevance-diversity trade-off\n<br>\n📖 <b>Summary:</b>\nPyversity is a Python library designed to enhance search and retrieval systems by diversifying their results. It efficiently re-ranks lists of similar items to reduce redundancy and surface a wider range of relevant content.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Pringled/pyversity?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d9538c2c75ff10c297590c8e1b92d58fd0e539ae5d067dcfd4bb47cbdb4e486c/Pringled/pyversity",
+        "platform": "telegram",
+        "quality_score": 0.5
+    },
+    {
+        "project_id": 764723738,
+        "content": "✨ <b>skyvern</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating complex, dynamic, and repetitive tasks across various websites without manual coding for each site, by using AI to understand and interact with the visual elements of web pages.\n<br>\n✨ <b>Key Features:</b>\n• Automates browser-based workflows using LLMs and computer vision\n• Provides a simple API endpoint for automation\n<br>\n📖 <b>Summary:</b>\nSkyvern is a Python-based tool that automates browser-based workflows using Large Language Models (LLMs) and computer vision. It offers a simple API to replace brittle automation solutions by enabling agents to understand and interact with websites visually, making them resilient to layout changes and capable of handling unseen websites.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Skyvern-AI/skyvern?embed=0\">View Project</a>\n• <a href=\"https://www.skyvern.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d2b788cd8898f468ffd7297b77a9f7742fb6d63cd9ab69e0de710b7bf966d4d9/Skyvern-AI/skyvern",
+        "platform": "telegram",
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 167483271,
+        "content": "🔥 <b>sampler</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time visualization and monitoring of shell command output for development and quick metric observation, serving as a lightweight alternative to full-scale monitoring systems.\n<br>\n✨ <b>Key Features:</b>\n• Shell command execution with configurable rates\n• Real-time visualization of command output (runchart, sparkline, barchart, gauge, textbox, asciibox)\n<br>\n📖 <b>Summary:</b>\nSampler is a Go-based command-line tool that executes shell commands at specified intervals, visualizing their output in real-time through various terminal-based charts and providing alerting capabilities. It's designed as a lightweight alternative to complex monitoring systems for development and quick metric observation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sqshq/sampler?embed=0\">View Project</a>\n• <a href=\"https://sampler.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/167483271/c5906200-b3e4-11e9-9ca2-00bf3eaaaaf7",
+        "platform": "telegram",
+        "quality_score": 0.45
     }
 ]
