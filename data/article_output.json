@@ -1,25 +1,26 @@
 {
-    "title": "Terminal Email Mastery: Meet Pop, The CLI Tool That Changes How You Send Mail",
-    "article": "We often live and breathe in the terminal, executing commands, writing code, and managing services. So why should sending an email require context switching to a heavy GUI application or navigating a slow web browser? This constant friction interrupts focus and slows down automated workflows. Pop solves this fundamental problem by bringing full email capability right into your command line environment. It's designed for developers who value speed, efficiency, and automation, allowing you to handle crucial communication without ever leaving the flow state of your terminal session. This isn't just a basic mailer; it's a powerful, composable tool built specifically for the modern, terminal-centric developer.\n\nPop offers two fantastic ways to send mail, catering to different needs. If you prefer an interactive experience for composing a one-off message, just typing `pop` launches a beautiful Text-based User Interface (TUI). This interface lets you easily compose the body, add recipients, and set subjects using familiar keyboard shortcuts, all styled with Charm's signature, aesthetically pleasing design. For power users and automation fanatics, the true magic lies in the Command Line Interface (CLI). The CLI allows you to pipe content directly into Pop, setting the `from`, `to`, `subject`, and even attaching files using simple, intuitive flags. Imagine generating a dynamic build report or a database backup and emailing it to your team in a single, chained command, all executed instantly upon completion.\n\nOne of Pop's most appealing features is its flexibility in delivery configuration. It doesn't force you into a proprietary ecosystem. You can easily configure it using traditional SMTP settings (perfect for connecting to services like Gmail or your corporate server) simply by setting a few standard environment variables like host, port, username, and password. Even better, it offers seamless integration with modern email delivery APIs like Resend. If you have a `RESEND_API_KEY`, setting up Pop is virtually instantaneous, offering reliable, high-volume email delivery capabilities right from your shell scripts. This dual support makes Pop incredibly versatile, whether you are using it for local development testing or integrating it into production deployment pipelines for automated notifications.\n\nWhere Pop truly elevates the terminal experience is its ability to integrate flawlessly with the wider ecosystem of CLI tools. Because it handles input via standard piping, it becomes an essential building block in complex, automated workflows. For example, you can combine it with `charmbracelet/mods` to draft an entire email body using AI and pipe that text directly into Pop, adding a subject line and recipient, all in one elegant command line instruction. Need to send a time-sensitive invoice? Combine Pop with a tool like `invoice` to generate a PDF and use Pop's `--attach` flag to instantly send it off to your client. You can even use `gum` for interactive selection, allowing you to choose recipients from a dynamically filtered list before sending the final message. Pop transforms email communication from a tedious, context-switching task into an elegant, repeatable, and scriptable action, drastically improving developer efficiency and embracing the true power of the command line philosophy.",
+    "title": "Ditch the Cloud: This Open-Source Chromium Fork Puts AI Agents Right in Your Browser",
+    "article": "Have you ever wished your web browser could actually help you automate tasks, instead of just being a passive window to the internet? We're all juggling dozens of tabs and constantly switching context, which feels archaic in the age of powerful AI. That's exactly the pain point BrowserOS tackles. It's not just another browser; it’s an open-source fork of Chromium—meaning it looks and feels exactly like the Chrome you’re used to, complete with full extension compatibility—but with a massive difference: native AI agent integration.\r\nThe core magic of BrowserOS is that it lets AI agents run directly within the browser environment. Imagine having an intelligent assistant that can scrape data, perform complex navigation tasks, or even manage your tabs, all running locally and interacting with the web pages you visit. This is a game-changer for workflow automation, especially for developers who constantly need to interact with various web UIs or extract information quickly. Unlike cloud-based AI tools that have limited visibility into your live browsing session, BrowserOS agents operate right where the action is.\r\nWhat truly sets this project apart is its unwavering commitment to privacy. In an era where every action is tracked, BrowserOS gives you essential control. It’s a privacy-first browser that allows you to \"bring your own key\" for services like OpenAI or, even better, run completely local models using tools like Ollama. Your browsing history, your prompts, and your data stay securely on your computer, eliminating the need to trust third-party cloud providers with sensitive information. This open-source approach also means you can audit the code and see exactly what’s happening under the hood, fostering transparency and trust.\r\nFor developers looking to integrate browser actions into their existing AI tooling, BrowserOS offers a unique and powerful feature: it can act as an MCP (Multi-Context Processor) server. This means you can control the browser instance externally using popular AI code tools like claude-code or gemini-cli. Think of it as a fully programmable, intelligent browser that can be orchestrated by your favorite AI agents, enabling powerful scripting, testing, and automation scenarios that go far beyond standard headless browser setups. Plus, it even comes with a built-in AI-powered ad blocker that is designed to work across a wider range of scenarios than traditional blockers. If you value automation, privacy, and an open platform for building the next generation of web workflows, BrowserOS is a must-try.",
     "key_takeaways": [
-        "Pop enables sending emails directly from the terminal using both an interactive TUI and a powerful CLI.",
-        "It supports flexible delivery via traditional SMTP configuration or modern email APIs like Resend.",
-        "The CLI allows for powerful automation and scripting by piping content from other tools and attaching files easily.",
-        "Pop integrates seamlessly with the Charm ecosystem and other CLI utilities (like mods and gum) to create advanced email workflows, such as AI-drafting or interactive recipient selection."
+        "BrowserOS is an open-source Chromium fork that integrates AI agents natively for powerful web automation.",
+        "It prioritizes privacy, allowing users to run local models via Ollama or use their own API keys, keeping data off the cloud.",
+        "The browser maintains the familiar Chrome interface and supports existing extensions, ensuring a smooth transition.",
+        "It can function as an MCP server, allowing external AI tools like claude-code to programmatically control browser actions.",
+        "Developers can use BrowserOS to build and test next-generation AI workflows directly within a familiar, privacy-respecting environment."
     ],
     "tags": [
-        "Go",
-        "CLI",
-        "TUI",
-        "Email",
-        "Automation"
+        "AI Agents",
+        "Chromium",
+        "Open Source",
+        "Web Automation",
+        "Privacy"
     ],
-    "stars": 2733,
-    "forks": 67,
-    "open_issues": 21,
-    "languages": "Go",
-    "readme_summary": "Pop is a command-line tool written in Go that allows users to send emails directly from their terminal. It supports both a text-based user interface (TUI) and a command-line interface (CLI), offering flexibility for different workflows. Pop can integrate with email services like Resend or traditional SMTP, and can be combined with other CLI tools for advanced email automation.",
-    "project_id": 656839452,
-    "url": "https://github.com/charmbracelet/pop",
-    "description": "Send emails from your terminal 📬"
+    "stars": 8746,
+    "forks": 846,
+    "open_issues": 39,
+    "languages": "C++",
+    "readme_summary": "BrowserOS is an open-source, privacy-focused browser built on a Chromium fork, designed to run AI agents natively within the browser. It offers a familiar Chrome-like interface and supports local AI models, making it a secure alternative to cloud-based AI browsing tools.",
+    "project_id": 985839104,
+    "url": "https://github.com/browseros-ai/BrowserOS",
+    "description": "🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia."
 }
