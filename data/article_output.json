@@ -1,26 +1,26 @@
 {
-    "title": "Ditch the Cloud: This Open-Source Chromium Fork Puts AI Agents Right in Your Browser",
-    "article": "Have you ever wished your web browser could actually help you automate tasks, instead of just being a passive window to the internet? We're all juggling dozens of tabs and constantly switching context, which feels archaic in the age of powerful AI. That's exactly the pain point BrowserOS tackles. It's not just another browser; it’s an open-source fork of Chromium—meaning it looks and feels exactly like the Chrome you’re used to, complete with full extension compatibility—but with a massive difference: native AI agent integration.\r\nThe core magic of BrowserOS is that it lets AI agents run directly within the browser environment. Imagine having an intelligent assistant that can scrape data, perform complex navigation tasks, or even manage your tabs, all running locally and interacting with the web pages you visit. This is a game-changer for workflow automation, especially for developers who constantly need to interact with various web UIs or extract information quickly. Unlike cloud-based AI tools that have limited visibility into your live browsing session, BrowserOS agents operate right where the action is.\r\nWhat truly sets this project apart is its unwavering commitment to privacy. In an era where every action is tracked, BrowserOS gives you essential control. It’s a privacy-first browser that allows you to \"bring your own key\" for services like OpenAI or, even better, run completely local models using tools like Ollama. Your browsing history, your prompts, and your data stay securely on your computer, eliminating the need to trust third-party cloud providers with sensitive information. This open-source approach also means you can audit the code and see exactly what’s happening under the hood, fostering transparency and trust.\r\nFor developers looking to integrate browser actions into their existing AI tooling, BrowserOS offers a unique and powerful feature: it can act as an MCP (Multi-Context Processor) server. This means you can control the browser instance externally using popular AI code tools like claude-code or gemini-cli. Think of it as a fully programmable, intelligent browser that can be orchestrated by your favorite AI agents, enabling powerful scripting, testing, and automation scenarios that go far beyond standard headless browser setups. Plus, it even comes with a built-in AI-powered ad blocker that is designed to work across a wider range of scenarios than traditional blockers. If you value automation, privacy, and an open platform for building the next generation of web workflows, BrowserOS is a must-try.",
+    "title": "Ditch the Cloud: This Open-Source AI Tracker Reads Your Bank SMS, 100% Private",
+    "article": "We all know the hassle of manually tracking expenses. Dealing with spreadsheets or trusting sensitive financial data to third-party cloud services can feel risky and time-consuming. This is precisely the problem PennyWise AI solves, offering a revolutionary, privacy-first expense tracking solution built right into your Android phone. It transforms those scattered bank SMS alerts into a clean, searchable financial timeline, completely automatically.\n\nThe core genius of PennyWise AI lies in its simplicity and commitment to user privacy. When your bank sends an SMS notification about a transaction, the app intercepts and reads only that specific message—it never sends messages or modifies your inbox. It then employs sophisticated, yet entirely local, AI models to parse the messy, often inconsistent text from different banks. It automatically extracts the key data points: the transaction amount, the merchant name, the spending category (like \"Groceries\" or \"Fuel\"), and the date.\n\nThe most crucial aspect for privacy-conscious developers is that PennyWise AI performs 100% of its smart processing on the device itself. There are absolutely no servers involved in handling your financial details. This isn't just a marketing claim; it's fundamental to its architecture, utilizing cutting-edge on-device machine learning capabilities, making it a massive differentiator in the financial tracking space where data security is paramount.\n\nFor developers, this open-source project written in Kotlin is a goldmine. You can dive deep into the codebase and see exactly how the team tackled complex challenges like multi-bank SMS parsing and multi-currency localization, supporting 40+ banks across five countries. If you need to extend support for a new regional bank or currency, the framework is transparent and ready for contribution. This is a fantastic educational resource for anyone interested in practical application of edge ML.\n\nBeyond basic tracking, PennyWise AI provides clear insights, automatically detects recurring subscriptions, and includes an on-device AI assistant. This assistant allows users to ask natural language questions, such as \"What did I spend on dining out last month?\" or \"Show me all transactions at this specific merchant.\" This powerful feature, executed locally, dramatically reduces the friction associated with personal finance management, turning a tedious chore into an automated, insightful process, all while keeping the user firmly in control of their data.",
     "key_takeaways": [
-        "BrowserOS is an open-source Chromium fork that integrates AI agents natively for powerful web automation.",
-        "It prioritizes privacy, allowing users to run local models via Ollama or use their own API keys, keeping data off the cloud.",
-        "The browser maintains the familiar Chrome interface and supports existing extensions, ensuring a smooth transition.",
-        "It can function as an MCP server, allowing external AI tools like claude-code to programmatically control browser actions.",
-        "Developers can use BrowserOS to build and test next-generation AI workflows directly within a familiar, privacy-respecting environment."
+        "Achieves automatic expense tracking solely by parsing bank SMS notifications on Android devices.",
+        "Guarantees 100% data privacy by executing all AI processing and categorization directly on the device, eliminating cloud reliance.",
+        "Supports multi-currency tracking and parsing for 40+ banks across multiple international regions.",
+        "Offers an on-device AI assistant for natural language querying of spending habits without sending data externally.",
+        "The open-source Kotlin codebase serves as an excellent reference for developers building privacy-focused applications utilizing edge machine learning."
     ],
     "tags": [
-        "AI Agents",
-        "Chromium",
-        "Open Source",
-        "Web Automation",
-        "Privacy"
+        "Android",
+        "Kotlin",
+        "Privacy",
+        "On-Device AI",
+        "Expense Tracker"
     ],
-    "stars": 8746,
-    "forks": 846,
-    "open_issues": 39,
-    "languages": "C++",
-    "readme_summary": "BrowserOS is an open-source, privacy-focused browser built on a Chromium fork, designed to run AI agents natively within the browser. It offers a familiar Chrome-like interface and supports local AI models, making it a secure alternative to cloud-based AI browsing tools.",
-    "project_id": 985839104,
-    "url": "https://github.com/browseros-ai/BrowserOS",
-    "description": "🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia."
+    "stars": 354,
+    "forks": 56,
+    "open_issues": 22,
+    "languages": "Kotlin",
+    "readme_summary": "PennyWise AI is a privacy-focused Android application that automatically tracks expenses by parsing transaction SMS messages using on-device AI. It organizes financial data, detects subscriptions, and provides insights without sending any data to the cloud.",
+    "project_id": 1022165857,
+    "url": "https://github.com/sarim2000/pennywiseai-tracker",
+    "description": "PennyWise automatically reads transaction SMS messages and transforms them    into organized financial data with on-device AI assistance. No manual   entry, no cloud processing, complete privacy."
 }
