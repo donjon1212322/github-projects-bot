@@ -1,26 +1,26 @@
 {
-    "title": "Ditch the Cloud: This Open-Source AI Tracker Reads Your Bank SMS, 100% Private",
-    "article": "We all know the hassle of manually tracking expenses. Dealing with spreadsheets or trusting sensitive financial data to third-party cloud services can feel risky and time-consuming. This is precisely the problem PennyWise AI solves, offering a revolutionary, privacy-first expense tracking solution built right into your Android phone. It transforms those scattered bank SMS alerts into a clean, searchable financial timeline, completely automatically.\n\nThe core genius of PennyWise AI lies in its simplicity and commitment to user privacy. When your bank sends an SMS notification about a transaction, the app intercepts and reads only that specific message—it never sends messages or modifies your inbox. It then employs sophisticated, yet entirely local, AI models to parse the messy, often inconsistent text from different banks. It automatically extracts the key data points: the transaction amount, the merchant name, the spending category (like \"Groceries\" or \"Fuel\"), and the date.\n\nThe most crucial aspect for privacy-conscious developers is that PennyWise AI performs 100% of its smart processing on the device itself. There are absolutely no servers involved in handling your financial details. This isn't just a marketing claim; it's fundamental to its architecture, utilizing cutting-edge on-device machine learning capabilities, making it a massive differentiator in the financial tracking space where data security is paramount.\n\nFor developers, this open-source project written in Kotlin is a goldmine. You can dive deep into the codebase and see exactly how the team tackled complex challenges like multi-bank SMS parsing and multi-currency localization, supporting 40+ banks across five countries. If you need to extend support for a new regional bank or currency, the framework is transparent and ready for contribution. This is a fantastic educational resource for anyone interested in practical application of edge ML.\n\nBeyond basic tracking, PennyWise AI provides clear insights, automatically detects recurring subscriptions, and includes an on-device AI assistant. This assistant allows users to ask natural language questions, such as \"What did I spend on dining out last month?\" or \"Show me all transactions at this specific merchant.\" This powerful feature, executed locally, dramatically reduces the friction associated with personal finance management, turning a tedious chore into an automated, insightful process, all while keeping the user firmly in control of their data.",
+    "title": "Ditch the Cloud: AltSendme Brings Back Private, Lightning-Fast P2P File Sharing",
+    "article": "We’ve all been there: needing to send a huge file or a sensitive folder, only to hit the storage limits of Dropbox or worry about our data sitting on a massive, centralized server. This is where AltSendme steps in, completely changing the game for file sharing. It’s a powerful, open-source tool that brings back the simplicity and privacy we deserve by cutting out the middleman entirely. Why rely on traditional services when you can transfer files directly, securely, and without exposing any personal information?\r\nThe core genius of AltSendme lies in its peer-to-peer (P2P) architecture, powered by a modern networking stack called Iroh. Instead of uploading your file to a corporate cloud server and forcing your recipient to download it from there, AltSendme establishes a direct, secure connection between your device and theirs. Think of it like a secure, private pipeline built just for this one transfer. This means the transfer speed is limited only by your internet connection, not by the throttling policies of a cloud provider. For developers dealing with large assets, complex builds, or massive datasets, this speed and efficiency are game-changers.\r\nThe transfer process itself couldn't be simpler. You drag and drop your file or entire directory into the application. AltSendme then instantly generates a unique, one-time share code, which they call a \"ticket.\" You simply send this ticket to your colleague via any channel—email, chat, or even a text message. The recipient pastes this ticket into their AltSendme app, and boom, the transfer starts immediately. This ticket acts as the secure key and address book combined, allowing the two devices to find each other and initiate the private connection, even if they are halfway across the world.\r\nSecurity and reliability are non-negotiable here. Every transfer is protected with end-to-end encryption using QUIC and TLS 1.3, ensuring forward and backward secrecy. Your data is scrambled from the moment it leaves your machine until it’s safely reconstituted on the recipient’s side. Crucially, AltSendme uses techniques like NAT traversal and hole-punching to ensure that these direct connections work flawlessly, even when devices are hidden behind complex home or corporate routers. If a direct path isn't possible, it intelligently uses encrypted relay fallbacks, guaranteeing the transfer completes without compromising the P2P principle or your data's privacy.\r\nWhy should developers specifically care? Beyond the immediate benefits of speed and security, AltSendme is built on resilient, modular, and open-source technology. It handles everything gracefully, from ensuring data integrity using BLAKE3-based checks to automatically resuming interrupted downloads. Imagine transferring a multi-gigabyte project file and losing connection halfway through—AltSendme just picks up where it left off, saving hours of wasted time and frustration. By leveraging this tool, you are choosing a file transfer solution that respects your bandwidth, your privacy, and your time, making those frustrating cloud upload/download cycles a thing of the past. It’s truly a glimpse into the future of data sharing: decentralized, secure, and lightning fast.",
     "key_takeaways": [
-        "Achieves automatic expense tracking solely by parsing bank SMS notifications on Android devices.",
-        "Guarantees 100% data privacy by executing all AI processing and categorization directly on the device, eliminating cloud reliance.",
-        "Supports multi-currency tracking and parsing for 40+ banks across multiple international regions.",
-        "Offers an on-device AI assistant for natural language querying of spending habits without sending data externally.",
-        "The open-source Kotlin codebase serves as an excellent reference for developers building privacy-focused applications utilizing edge machine learning."
+        "Achieves true peer-to-peer file transfer, eliminating the need for centralized cloud storage services like Dropbox or WeTransfer.",
+        "Utilizes modern networking (Iroh, QUIC, TLS 1.3) for end-to-end encryption, speed, and reliable NAT traversal.",
+        "Transfers are initiated using a simple, one-time \"ticket\" code, requiring zero sign-ups or personal information.",
+        "Supports resumable transfers and verifies data integrity using BLAKE3 checks, making it ideal for large files and directories.",
+        "It is completely free and open source, offering a high-performance, privacy-focused alternative to commercial services."
     ],
     "tags": [
-        "Android",
-        "Kotlin",
-        "Privacy",
-        "On-Device AI",
-        "Expense Tracker"
+        "Peer-to-Peer",
+        "File Transfer",
+        "Open Source",
+        "Encryption",
+        "Iroh"
     ],
-    "stars": 354,
-    "forks": 56,
-    "open_issues": 22,
-    "languages": "Kotlin",
-    "readme_summary": "PennyWise AI is a privacy-focused Android application that automatically tracks expenses by parsing transaction SMS messages using on-device AI. It organizes financial data, detects subscriptions, and provides insights without sending any data to the cloud.",
-    "project_id": 1022165857,
-    "url": "https://github.com/sarim2000/pennywiseai-tracker",
-    "description": "PennyWise automatically reads transaction SMS messages and transforms them    into organized financial data with on-device AI assistance. No manual   entry, no cloud processing, complete privacy."
+    "stars": 4995,
+    "forks": 273,
+    "open_issues": 16,
+    "languages": "TypeScript",
+    "readme_summary": "Alt-Sendme is a free, open-source tool for direct peer-to-peer file transfer. It allows users to send any file or folder of any size or format directly between devices without using cloud storage, ensuring end-to-end encryption and privacy.",
+    "project_id": 1078137951,
+    "url": "https://github.com/tonyantony300/alt-sendme",
+    "description": "Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions."
 }

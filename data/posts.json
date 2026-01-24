@@ -1,37 +1,44 @@
 [
     {
-        "project_id": 238085999,
-        "content": "🌟 <b>forensix</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDigital forensics and investigation of user browsing activity on Google Chrome.\n<br>\n✨ <b>Key Features:</b>\n• Mounting of volume with Google Chrome data in read-only mode with hash checking\n• Suspect profile and behavior estimations (personal info, Chrome/system metadata, login frequency, browsing activity heatmaps)\n• Browsing history analysis (transition types, visit durations)\n• Login data parsing\n• Autofill data extraction and estimation\n<br>\n📖 <b>Summary:</b>\nForensiX is a Google Chrome forensic tool designed to process, analyze, and visually present browsing artifacts. It helps investigators extract and understand user activity, personal information, and system metadata from Chrome profiles.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ChmaraX/forensix?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/52b151ec15caee94f93a09e1ae26f47a96c9e58b6563e9db6a514264df5f303f/ChmaraX/forensix",
+        "project_id": 1078137951,
+        "content": "🚀 <b>alt-sendme</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDirect, secure, and private file and folder transfer between devices without relying on cloud services.\n<br>\n✨ <b>Key Features:</b>\n• Peer-to-peer direct transfer\n• End-to-end encryption (QUIC + TLS 1.3)\n• No accounts or personal info required\n• Transfer any file/folder size or format\n• Resumable transfers\n<br>\n📖 <b>Summary:</b>\nAlt-Sendme is a free, open-source tool for direct peer-to-peer file transfer. It allows users to send any file or folder of any size or format directly between devices without using cloud storage, ensuring end-to-end encryption and privacy.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tonyantony300/alt-sendme?embed=0\">View Project</a>\n• <a href=\"https://www.altsendme.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1078137951/7b09289c-f785-4a96-9a7d-f536b6b3c2e9",
         "platform": "telegram",
-        "quality_score": 0.45
+        "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 1022165857,
-        "content": "💡 <b>pennywiseai-tracker</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomatic, private expense tracking for Android users by parsing SMS messages.\n<br>\n✨ <b>Key Features:</b>\n• Smart SMS Parsing\n• Multi-Currency Support\n• Clear Insights (Analytics & Charts)\n• Subscription Tracking\n• On-device AI Assistant\n<br>\n📖 <b>Summary:</b>\nPennyWise AI is a privacy-focused Android application that automatically tracks expenses by parsing transaction SMS messages using on-device AI. It organizes financial data, detects subscriptions, and provides insights without sending any data to the cloud.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sarim2000/pennywiseai-tracker?embed=0\">View Project</a>\n• <a href=\"https://github.com/sarim2000/pennywiseai-tracker?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/de393fbf134f9d024bfe5f7ac1188677d55c2ba74220122a33a3c27bb9741a33/sarim2000/pennywiseai-tracker",
+        "project_id": 1080153923,
+        "content": "🔥 <b>deepseek_ocr_app</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDigitizing and extracting text and structured data from scanned documents (images and PDFs) into editable and usable digital formats.\n<br>\n✨ <b>Key Features:</b>\n• PDF Processing\n• Multi-Format Document Conversion (Markdown, HTML, DOCX, JSON)\n• Automatic Image Extraction from PDFs\n• Formula & Formatting Preservation\n• Image OCR (Plain OCR, Describe, Find, Freeform modes)\n<br>\n📖 <b>Summary:</b>\nDeepSeek OCR is a modern web application for Optical Character Recognition, featuring a React frontend and FastAPI backend. It supports processing both individual images and entire multi-page PDF documents, with advanced features like formula and formatting preservation, and allows exporting results into various formats including Markdown, HTML, DOCX, and JSON.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rdumasia303/deepseek_ocr_app?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5ed2c07bf751cd78e4d0b0882378fb5b8a8ab2323a3805baea9e4180d7c1942a/rdumasia303/deepseek_ocr_app",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 102588436,
+        "content": "💡 <b>gobackup</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating scheduled backups of databases and files to cloud storage for application servers.\n<br>\n✨ <b>Key Features:</b>\n• No dependencies\n• Multiple Databases source support\n• Multiple Storage type support\n• Archive paths or files into a tar\n• Split large backup file into multiple parts\n<br>\n📖 <b>Summary:</b>\nGoBackup is a Go-based CLI tool designed for application servers to automate the backup of databases and files. It supports scheduled backups to various cloud storage services, offering features like encryption, compression, and notifications for a low-maintenance, secure backup solution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gobackup/gobackup?embed=0\">View Project</a>\n• <a href=\"https://gobackup.github.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/102588436/7b47bca6-b275-4bcd-9a2b-a4ff99de3918",
+        "platform": "telegram",
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 299820726,
+        "content": "✨ <b>legend</b> | Jinja\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating the generation and management of Grafana dashboards for monitoring services and infrastructure.\n<br>\n✨ <b>Key Features:</b>\n• Build dashboards for services with prefilled metrics\n• Customizable alerts and panels\n• Automatic setup of basic alerts with priority and service mapping\n• Uniform dashboard layout\n• Support for a wide range of components (Airflow, ALB, Kubernetes, MySQL, Nginx, etc.)\n<br>\n📖 <b>Summary:</b>\nLegend is a tool that automates the creation and publishing of Grafana dashboards for various services and infrastructure components. It preconfigures metrics and alerts based on established methodologies like USE and RED, simplifying the observability setup for developers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/grofers/legend?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://avatars.githubusercontent.com/u/8791674?s=400&v=4",
+        "platform": "telegram",
+        "quality_score": 0.7000000000000001
+    },
+    {
+        "project_id": 825470378,
+        "content": "💡 <b>beszel</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosted server and Docker container monitoring with historical data and alerting.\n<br>\n✨ <b>Key Features:</b>\n• Lightweight and resource-efficient\n• Simple setup and configuration\n• Docker and Podman container stats (CPU, memory, network)\n• Configurable alerts for various system metrics\n• Multi-user support with admin sharing\n<br>\n📖 <b>Summary:</b>\nBeszel is a lightweight, self-hosted server monitoring platform that collects historical data, tracks Docker container statistics, and provides configurable alerts. It features a user-friendly web interface, supports multi-user and OAuth authentication, and offers automatic backup capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/henrygd/beszel?embed=0\">View Project</a>\n• <a href=\"https://beszel.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/825470378/2710c6db-f934-4a8b-a2c4-7a0abbcd2ad6",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 882358520,
+        "content": "🌟 <b>nginx-ignition</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying the management of Nginx web server configurations through a user-friendly graphical interface for developers and enthusiasts.\n<br>\n✨ <b>Key Features:</b>\n• Virtual host management\n• Stream proxying (TCP, UDP, Unix sockets)\n• Versatile routing (proxies, redirects, custom code)\n• Server configuration tuning\n• Automated SSL certificate management (Let's Encrypt)\n<br>\n📖 <b>Summary:</b>\nnginx-ignition is a Go-based web UI for managing Nginx configurations, designed for developers and enthusiasts. It simplifies the setup and management of virtual hosts, streams, SSL certificates, and server settings through an intuitive interface, offering both direct Nginx control and configuration file generation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lucasdillmann/nginx-ignition?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/796c62123645b413913b7e7122820bfd8e27b8dcf80e0fe57d9f7f794b8d3769/lucasdillmann/nginx-ignition",
         "platform": "telegram",
         "quality_score": 0.9
-    },
-    {
-        "project_id": 28944251,
-        "content": "🌟 <b>arwes</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDeveloping web user interfaces with a distinct futuristic science fiction theme and visual style.\n<br>\n✨ <b>Key Features:</b>\n• Futuristic Sci-Fi UI framework\n• Inspired by Cyberprep, Star Citizen, Halo, NIKKE, Mecha Break\n• Focus on advanced science and technology aesthetics\n• Provides Vanilla and React packages\n• Under development (alpha release)\n<br>\n📖 <b>Summary:</b>\nARWES is a web framework for building user interfaces with a futuristic sci-fi aesthetic. It provides components and tools inspired by science fiction designs, animations, and sound effects, aiming to create advanced technological interfaces.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/arwes/arwes?embed=0\">View Project</a>\n• <a href=\"https://arwes.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/28944251/ee99edcf-3ec3-4e1e-8e18-9c956fc69d14",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 943416536,
-        "content": "🌟 <b>StegoScan</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/LCBOWER33/StegoScan?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e3fdef1d587a359e4d330b73fc57ac071f4042dd2920e9f5d28673f2e50fb279/LCBOWER33/StegoScan",
-        "platform": "telegram",
-        "quality_score": 0.15
-    },
-    {
-        "project_id": 301669663,
-        "content": "🔥 <b>snapdrop-android</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nQuick and easy local file transfer between Android devices and other computers/smartphones on the same network, bypassing traditional slow or cumbersome methods.\n<br>\n✨ <b>Key Features:</b>\n• Local file sharing via PairDrop/Snapdrop\n• Seamless Android OS integration\n• Direct sharing from other apps\n<br>\n📖 <b>Summary:</b>\nSnapdrop-Android is an Android client for the open-source local file sharing solution PairDrop (and Snapdrop). It offers seamless integration with the Android OS, allowing users to share files quickly and easily from any app directly to other devices on the same local network, functioning as a modern, cross-platform alternative to older transfer methods.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/fm-sys/snapdrop-android?embed=0\">View Project</a>\n• <a href=\"https://play.google.com/store/apps/details?id=com.fmsys.snapdrop?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/301669663/e1bd4800-08a0-11eb-8c18-d1dde960bde2",
-        "platform": "telegram",
-        "quality_score": 0.55
     }
 ]
