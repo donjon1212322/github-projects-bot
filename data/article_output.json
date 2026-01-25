@@ -1,26 +1,26 @@
 {
-    "title": "Ditch the Cloud: AltSendme Brings Back Private, Lightning-Fast P2P File Sharing",
-    "article": "We’ve all been there: needing to send a huge file or a sensitive folder, only to hit the storage limits of Dropbox or worry about our data sitting on a massive, centralized server. This is where AltSendme steps in, completely changing the game for file sharing. It’s a powerful, open-source tool that brings back the simplicity and privacy we deserve by cutting out the middleman entirely. Why rely on traditional services when you can transfer files directly, securely, and without exposing any personal information?\r\nThe core genius of AltSendme lies in its peer-to-peer (P2P) architecture, powered by a modern networking stack called Iroh. Instead of uploading your file to a corporate cloud server and forcing your recipient to download it from there, AltSendme establishes a direct, secure connection between your device and theirs. Think of it like a secure, private pipeline built just for this one transfer. This means the transfer speed is limited only by your internet connection, not by the throttling policies of a cloud provider. For developers dealing with large assets, complex builds, or massive datasets, this speed and efficiency are game-changers.\r\nThe transfer process itself couldn't be simpler. You drag and drop your file or entire directory into the application. AltSendme then instantly generates a unique, one-time share code, which they call a \"ticket.\" You simply send this ticket to your colleague via any channel—email, chat, or even a text message. The recipient pastes this ticket into their AltSendme app, and boom, the transfer starts immediately. This ticket acts as the secure key and address book combined, allowing the two devices to find each other and initiate the private connection, even if they are halfway across the world.\r\nSecurity and reliability are non-negotiable here. Every transfer is protected with end-to-end encryption using QUIC and TLS 1.3, ensuring forward and backward secrecy. Your data is scrambled from the moment it leaves your machine until it’s safely reconstituted on the recipient’s side. Crucially, AltSendme uses techniques like NAT traversal and hole-punching to ensure that these direct connections work flawlessly, even when devices are hidden behind complex home or corporate routers. If a direct path isn't possible, it intelligently uses encrypted relay fallbacks, guaranteeing the transfer completes without compromising the P2P principle or your data's privacy.\r\nWhy should developers specifically care? Beyond the immediate benefits of speed and security, AltSendme is built on resilient, modular, and open-source technology. It handles everything gracefully, from ensuring data integrity using BLAKE3-based checks to automatically resuming interrupted downloads. Imagine transferring a multi-gigabyte project file and losing connection halfway through—AltSendme just picks up where it left off, saving hours of wasted time and frustration. By leveraging this tool, you are choosing a file transfer solution that respects your bandwidth, your privacy, and your time, making those frustrating cloud upload/download cycles a thing of the past. It’s truly a glimpse into the future of data sharing: decentralized, secure, and lightning fast.",
+    "title": "Stop Rewriting! This Minimalist Windows Tool Copies Any Text You See, Anywhere.",
+    "article": "Have you ever stared at a screenshot, a protected PDF, or even a paused video frame and desperately wished you could copy that text? We all know the frustration of text being visually available but digitally inaccessible. That's exactly the headache Text Grab eliminates. This project is a minimalist Optical Character Recognition (OCR) utility designed specifically for Windows users (10/11) that acts like a digital siphon, extracting \"trapped\" text and dropping it straight into your clipboard. It’s the ultimate productivity hack for dealing with non-selectable content.\n\nThe genius of Text Grab lies in its simplicity and efficiency. It doesn't rely on heavy cloud services or constantly running background processes. When you activate it, it takes a momentary screenshot of the area you define. This image is then processed instantly using the native Windows OCR API\textemdash meaning the recognition happens locally on your machine. The result? Lightning-fast text extraction without hogging system resources. Because the heavy lifting is done by the Windows API, the application itself remains incredibly lightweight and almost UI-less until you need it.\n\nText Grab offers more than just basic screen capture. Its primary and most powerful feature is the Full-Screen Mode, which allows you to define a precise region to scan, or even better, simply click on a visible word to copy just that word. This is possible because the OCR engine intelligently draws bounding boxes around recognized words. This flexibility is what made it the basis for the official PowerToys Text Extractor.\n\nFor more persistent tasks, there's the Grab Frame Mode. Imagine a transparent, resizable window you can place over a specific application area, like a terminal or a table, letting you continuously monitor and grab text without cluttering your main screen. You can search within the frame or click the Grab button to capture the text instantly. This multi-mode approach ensures you have the right tool for any text extraction scenario.\n\nFor developers, time is precious, and manual transcription is a productivity killer. Whether you're pulling error codes from a non-selectable log window, documenting API responses shown in an image, or copying text from a UI mockup, Text Grab saves countless keystrokes and prevents typos. It integrates seamlessly into your Windows workflow, installing easily via the Microsoft Store, GitHub Releases, or package managers like Scoop and Chocolatey. It’s a small utility with a massive impact on daily efficiency that every Windows developer should have in their toolkit.",
     "key_takeaways": [
-        "Achieves true peer-to-peer file transfer, eliminating the need for centralized cloud storage services like Dropbox or WeTransfer.",
-        "Utilizes modern networking (Iroh, QUIC, TLS 1.3) for end-to-end encryption, speed, and reliable NAT traversal.",
-        "Transfers are initiated using a simple, one-time \"ticket\" code, requiring zero sign-ups or personal information.",
-        "Supports resumable transfers and verifies data integrity using BLAKE3 checks, making it ideal for large files and directories.",
-        "It is completely free and open source, offering a high-performance, privacy-focused alternative to commercial services."
+        "Text Grab uses local Windows OCR API for fast, resource-light text extraction from images and non-selectable areas.",
+        "It solves the common developer frustration of copying trapped text found in screenshots, videos, or legacy applications.",
+        "Features multiple modes, including Full-Screen selection and a persistent, transparent Grab Frame, enhancing workflow flexibility.",
+        "The project is highly reliable, serving as the foundational technology for the official PowerToys Text Extractor utility.",
+        "Installation is simple via Microsoft Store, Scoop, or Chocolatey, making it easy to integrate into any Windows development environment."
     ],
     "tags": [
-        "Peer-to-Peer",
-        "File Transfer",
-        "Open Source",
-        "Encryption",
-        "Iroh"
+        "OCR",
+        "Windows Utility",
+        "Productivity Tool",
+        "C#",
+        "Text Extraction"
     ],
-    "stars": 4995,
-    "forks": 273,
-    "open_issues": 16,
-    "languages": "TypeScript",
-    "readme_summary": "Alt-Sendme is a free, open-source tool for direct peer-to-peer file transfer. It allows users to send any file or folder of any size or format directly between devices without using cloud storage, ensuring end-to-end encryption and privacy.",
-    "project_id": 1078137951,
-    "url": "https://github.com/tonyantony300/alt-sendme",
-    "description": "Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions."
+    "stars": 4481,
+    "forks": 288,
+    "open_issues": 103,
+    "languages": "C#",
+    "readme_summary": "Text Grab is a C# Windows utility that uses Optical Character Recognition (OCR) to extract and copy text from any visible content on the screen. It leverages the Windows API for local OCR processing, offering multiple modes for flexible text capture without requiring a constant background process.",
+    "project_id": 317531562,
+    "url": "https://github.com/TheJoeFin/Text-Grab",
+    "description": "Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications."
 }

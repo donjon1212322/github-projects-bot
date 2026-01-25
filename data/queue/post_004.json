@@ -1,7 +1,7 @@
 {
-    "project_id": 825470378,
-    "content": "💡 <b>beszel</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosted server and Docker container monitoring with historical data and alerting.\n<br>\n✨ <b>Key Features:</b>\n• Lightweight and resource-efficient\n• Simple setup and configuration\n• Docker and Podman container stats (CPU, memory, network)\n• Configurable alerts for various system metrics\n• Multi-user support with admin sharing\n<br>\n📖 <b>Summary:</b>\nBeszel is a lightweight, self-hosted server monitoring platform that collects historical data, tracks Docker container statistics, and provides configurable alerts. It features a user-friendly web interface, supports multi-user and OAuth authentication, and offers automatic backup capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/henrygd/beszel?embed=0\">View Project</a>\n• <a href=\"https://beszel.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://repository-images.githubusercontent.com/825470378/2710c6db-f934-4a8b-a2c4-7a0abbcd2ad6",
+    "project_id": 148061471,
+    "content": "✨ <b>TLG_JoinCaptchaBot</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPreventing unverified or bot accounts from joining and spamming Telegram groups.\n<br>\n✨ <b>Key Features:</b>\n• Automatic CAPTCHA challenges for new users\n• User removal for failed CAPTCHA attempts\n• Time limit for CAPTCHA solving\n• Anti-spam by deleting URL messages from unverified users\n• Support for multiple languages (localization)\n<br>\n📖 <b>Summary:</b>\nTLG_JoinCaptchaBot is a Python-based Telegram bot that automatically verifies new users joining a group by presenting them with an image CAPTCHA. It removes users who fail to solve the challenge within a time limit and also combats spam by deleting messages with URLs from unverified users.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/J-Rios/TLG_JoinCaptchaBot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/fcceba959e6167445730b103b2c37ecf1d6374401e8b188e25999c03c1c3e7b8/J-Rios/TLG_JoinCaptchaBot",
     "platform": "telegram",
-    "quality_score": 0.85
+    "quality_score": 0.75
 }
