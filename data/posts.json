@@ -1,37 +1,44 @@
 [
     {
-        "project_id": 317531562,
-        "content": "🔥 <b>Text-Grab</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nQuickly and easily copying text from any visible source on a Windows screen, including images, videos, or application elements where text is not selectable.\n<br>\n✨ <b>Key Features:</b>\n• Optical Character Recognition (OCR) for screen text\n• Local OCR processing via Windows API\n• Copy text to clipboard\n• Full-Screen Grab Mode (select region or click word)\n<br>\n📖 <b>Summary:</b>\nText Grab is a C# Windows utility that uses Optical Character Recognition (OCR) to extract and copy text from any visible content on the screen. It leverages the Windows API for local OCR processing, offering multiple modes for flexible text capture without requiring a constant background process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TheJoeFin/Text-Grab?embed=0\">View Project</a>\n• <a href=\"https://www.microsoft.com/en-us/p/text-grab/9mznkqj7sl0b?cid=TextGrabGitHub?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/317531562/faf49931-411a-43c6-a21f-0fefd45fc46a",
+        "project_id": 179609596,
+        "content": "💡 <b>sui</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a personalized and organized dashboard for servers or as a browser's new tab page.\n<br>\n✨ <b>Key Features:</b>\n• Customizable startpage/new tab page\n• Application and bookmark organization\n• Theming options\n• Docker deployment\n• Git pull variant for automatic updates\n<br>\n📖 <b>Summary:</b>\nSUI is a customizable startpage and new tab page designed for servers and personal use. It allows users to easily organize applications and bookmarks, with options for theming and deployment via Docker.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jeroenpardon/sui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/25621335b9b0274322fbcdb6ea15edd445d4357fb92813df78c78401c42fd265/jeroenpardon/sui",
         "platform": "telegram",
-        "quality_score": 0.8500000000000001
+        "quality_score": 0.45
     },
     {
-        "project_id": 657057869,
-        "content": "🌟 <b>HuggingFaceModelDownloader</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDownloading models and datasets from the Hugging Face Hub with enhanced speed, reliability, and user interface options.\n<br>\n✨ <b>Key Features:</b>\n• Resumable downloads with SHA-256 and size-based verification\n• Multipart parallel downloads with up to 16 connections per file\n• Simultaneous download of multiple files\n• Colorful terminal UI (TUI) with progress bars\n• Web-based dashboard for managing downloads\n<br>\n📖 <b>Summary:</b>\nHuggingFaceModelDownloader is a Go utility designed for efficiently downloading models and datasets from the Hugging Face Hub. It offers features like resumable and multipart downloads, a user-friendly TUI and Web UI, and a Go library for programmatic integration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bodaay/HuggingFaceModelDownloader?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3f827d962154c12b01f0e758c768be11f46a759acf7cc8a59117106b53923e8a/bodaay/HuggingFaceModelDownloader",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 971726597,
-        "content": "💡 <b>abogen</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating audiobooks and voiceovers from text-based documents with synchronized captions.\n<br>\n✨ <b>Key Features:</b>\n• Converts EPUB, PDF, text, markdown, and subtitle files to audio.\n• Generates synchronized captions for the audio.\n• Uses the Kokoro-82M model for high-quality text-to-speech.\n• Supports installation via script (Windows) or uv (with CUDA support for NVIDIA GPUs).\n<br>\n📖 <b>Summary:</b>\nAbogen is a Python-based tool that converts various document formats (EPUB, PDF, text, markdown, subtitles) into audiobooks with synchronized captions. It utilizes the Kokoro-82M model for natural-sounding text-to-speech and can be used for creating audio content for platforms like Instagram, YouTube, and TikTok.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/denizsafak/abogen?embed=0\">View Project</a>\n• <a href=\"https://pypi.org/project/abogen/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/971726597/ddab73d8-8020-434e-8c9c-ab1b2d93b618",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 275031765,
-        "content": "✨ <b>holehe</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nInformation gathering and OSINT by checking email account existence across multiple online platforms.\n<br>\n✨ <b>Key Features:</b>\n• Checks email registration status on over 120 websites\n• Utilizes forgotten password function to avoid detection\n• Provides information on account existence, and sometimes partial recovery details\n• Can be used via CLI or embedded in Python applications\n• Supports asynchronous operations with Trio and httpx\n<br>\n📖 <b>Summary:</b>\nHolehe is a Python tool designed to check if an email address is registered on a wide variety of websites. It leverages the 'forgotten password' functionality of these sites to discreetly gather this information without alerting the user.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/megadose/holehe?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/275031765/68237c00-491c-11eb-86b6-05150f13a326",
+        "project_id": 685571470,
+        "content": "🔥 <b>pause-windows-updates</b> | Batchfile\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with granular control over Windows updates, system privacy, and bloatware, allowing for a customized and more secure Windows environment.\n<br>\n✨ <b>Key Features:</b>\n• Pause/Disable/Enable Windows Updates\n• Remove Windows Telemetry and Tracking\n• Debloat Windows Apps and Services\n• Apply various Registry Tweaks\n• Remove Privacy Threats (Copilot, Recall, Cortana)\n<br>\n📖 <b>Summary:</b>\nThe Windows Personalization Utility (WPU) is a batch and registry script tool designed to give users control over Windows updates and system privacy. It allows for pausing updates indefinitely, removing telemetry, debloating apps and services, and applying various system tweaks for a more personalized Windows experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Aetherinox/pause-windows-updates?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/685571470/b8e460e3-e962-4de9-8386-8d31479e7211",
         "platform": "telegram",
         "quality_score": 0.7000000000000001
     },
     {
-        "project_id": 148061471,
-        "content": "✨ <b>TLG_JoinCaptchaBot</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPreventing unverified or bot accounts from joining and spamming Telegram groups.\n<br>\n✨ <b>Key Features:</b>\n• Automatic CAPTCHA challenges for new users\n• User removal for failed CAPTCHA attempts\n• Time limit for CAPTCHA solving\n• Anti-spam by deleting URL messages from unverified users\n• Support for multiple languages (localization)\n<br>\n📖 <b>Summary:</b>\nTLG_JoinCaptchaBot is a Python-based Telegram bot that automatically verifies new users joining a group by presenting them with an image CAPTCHA. It removes users who fail to solve the challenge within a time limit and also combats spam by deleting messages with URLs from unverified users.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/J-Rios/TLG_JoinCaptchaBot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fcceba959e6167445730b103b2c37ecf1d6374401e8b188e25999c03c1c3e7b8/J-Rios/TLG_JoinCaptchaBot",
+        "project_id": 771108826,
+        "content": "🔥 <b>public-ip-address</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo programmatically obtain a client's public IP address and its geographical location within a Rust application.\n<br>\n✨ <b>Key Features:</b>\n• Retrieve public IP address from multiple services\n• Fetch geolocation data\n• Asynchronous and blocking interfaces\n• Caching functionality with optional encryption\n• Support for arbitrary IP address lookup and API keys\n<br>\n📖 <b>Summary:</b>\nThis Rust crate, `public-ip-address`, provides a straightforward way to retrieve a user's public IP address and associated geolocation data. It supports multiple lookup services, offers both asynchronous and blocking interfaces, and includes optional caching with encryption for privacy and performance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ghztomash/public-ip-address?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6c0dd6c149124aa7acd7b2adf6814afc3664d607dcad7edbccfc5ad9452fb427/ghztomash/public-ip-address",
         "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 0.7999999999999999
+    },
+    {
+        "project_id": 982978455,
+        "content": "🚀 <b>warpnet</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a censorship-resistant and decentralized alternative to traditional social media platforms like Twitter.\n<br>\n✨ <b>Key Features:</b>\n• Decentralized, peer-to-peer architecture\n• No central servers required\n• Noise protocol for inter-node communication\n• Built-in local storage\n• Censorship-resistant\n<br>\n📖 <b>Summary:</b>\nWarpNet is a decentralized, peer-to-peer social network built with Go, inspired by Twitter. It operates without central servers, utilizing the Noise protocol for secure communication and local storage for data persistence. This design makes WarpNet censorship-resistant, scalable, and fully open-source.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Warp-net/warpnet?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/cf64f2e725adf862828f29ca8e6841f850d8e57a5d3eaa130bc04ea08d3f4162/Warp-net/warpnet",
+        "platform": "telegram",
+        "quality_score": 0.9
+    },
+    {
+        "project_id": 1070815414,
+        "content": "✨ <b>runtime-radar</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring and responding to runtime security threats in containerized environments.\n<br>\n✨ <b>Key Features:</b>\n• Flexible monitoring configuration of runtime events via web interface\n• Centralized management for multi-cluster installations\n• Integration with syslog, SMTP, and webhook\n• Develop custom detectors (signatures) in Go using an SDK\n<br>\n📖 <b>Summary:</b>\nRuntime Radar is an open-source solution for monitoring runtime security events and responding to incidents within containerized environments. It offers flexible configuration, centralized multi-cluster management, and integration with existing security systems, providing accessible protection and user-friendly tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Runtime-Radar/runtime-radar?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/57b30f41754033296aa293bc7e555ee86ca1689fc2f2d8ce6fe2e0151359200a/Runtime-Radar/runtime-radar",
+        "platform": "telegram",
+        "quality_score": 0.8
+    },
+    {
+        "project_id": 1051869896,
+        "content": "✨ <b>flint</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying and streamlining the management of KVM virtual machines through a user-friendly interface and a streamlined, bloat-free tool.\n<br>\n✨ <b>Key Features:</b>\n• Single binary distribution (<11MB)\n• Modern Web UI, CLI, and API\n• No XML configuration required\n• Supports KVM/QEMU\n• Provides binaries for glibc and musl (Alpine Linux)\n<br>\n📖 <b>Summary:</b>\nFlint is a lightweight, self-contained KVM management tool that provides a modern Web UI, CLI, and API for managing virtual machines. It aims for zero bloat and maximum efficiency, simplifying VM management without relying on complex XML configurations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/volantvm/flint?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1051869896/ad0c965b-19f2-4f39-b123-047325db7b69",
+        "platform": "telegram",
+        "quality_score": 0.6
     }
 ]
