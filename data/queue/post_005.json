@@ -1,7 +1,7 @@
 {
-    "project_id": 1051869896,
-    "content": "✨ <b>flint</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying and streamlining the management of KVM virtual machines through a user-friendly interface and a streamlined, bloat-free tool.\n<br>\n✨ <b>Key Features:</b>\n• Single binary distribution (<11MB)\n• Modern Web UI, CLI, and API\n• No XML configuration required\n• Supports KVM/QEMU\n• Provides binaries for glibc and musl (Alpine Linux)\n<br>\n📖 <b>Summary:</b>\nFlint is a lightweight, self-contained KVM management tool that provides a modern Web UI, CLI, and API for managing virtual machines. It aims for zero bloat and maximum efficiency, simplifying VM management without relying on complex XML configurations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/volantvm/flint?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://repository-images.githubusercontent.com/1051869896/ad0c965b-19f2-4f39-b123-047325db7b69",
+    "project_id": 873217205,
+    "content": "🔥 <b>vulnhuntr</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated discovery of zero-day vulnerabilities in Python projects using AI and static code analysis.\n<br>\n✨ <b>Key Features:</b>\n• Zero-shot vulnerability discovery using LLMs\n• Identifies complex, multi-step vulnerabilities\n• Analyzes code call chains from user input to server output\n• Supports Python codebases\n• Detects vulnerability classes: LFI, AFO, RCE, XSS, SQLI, SSRF, IDOR\n<br>\n📖 <b>Summary:</b>\nVulnhuntr is a Python tool that uses Large Language Models (LLMs) combined with static code analysis to discover complex, multi-step, remotely exploitable vulnerabilities in Python codebases. It aims to find zero-day vulnerabilities that traditional static analysis tools might miss by analyzing entire code call chains from user input to server output.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/protectai/vulnhuntr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/de43a7c8c2578454cc1a1ff21b839877bdd4b0074caec0c4637970af8881585a/protectai/vulnhuntr",
     "platform": "telegram",
-    "quality_score": 0.6
+    "quality_score": 0.45
 }

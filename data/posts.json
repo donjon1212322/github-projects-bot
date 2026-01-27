@@ -1,44 +1,44 @@
 [
     {
-        "project_id": 179609596,
-        "content": "💡 <b>sui</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a personalized and organized dashboard for servers or as a browser's new tab page.\n<br>\n✨ <b>Key Features:</b>\n• Customizable startpage/new tab page\n• Application and bookmark organization\n• Theming options\n• Docker deployment\n• Git pull variant for automatic updates\n<br>\n📖 <b>Summary:</b>\nSUI is a customizable startpage and new tab page designed for servers and personal use. It allows users to easily organize applications and bookmarks, with options for theming and deployment via Docker.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jeroenpardon/sui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/25621335b9b0274322fbcdb6ea15edd445d4357fb92813df78c78401c42fd265/jeroenpardon/sui",
+        "project_id": 1085475816,
+        "content": "🌟 <b>surge</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nA versatile and high-performance download manager for terminal-based workflows, automation, and background server tasks.\n<br>\n✨ <b>Key Features:</b>\n• High-speed Downloads with multi-connection support\n• Beautiful TUI built with Bubble Tea & Lipgloss\n• Pause/Resume downloads seamlessly\n• Real-time Progress with speed graphs and ETA\n• Auto-retry on connection failures\n<br>\n📖 <b>Summary:</b>\nSurge is a high-speed, open-source download manager built in Go, offering a versatile experience through its Terminal User Interface (TUI), Headless Server mode, and Command Line Interface (CLI) capabilities. It is designed for efficient file downloads with features like multi-connection support, pause/resume, and real-time progress monitoring.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/surge-downloader/surge?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f33c10e20e80f6cd22bd1d38ab8b30fb26b770b3ed10a90702319e0d6167ab9e/surge-downloader/surge",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 658056064,
+        "content": "🌟 <b>fclones-gui</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nFinding and removing duplicate files through an interactive graphical interface.\n<br>\n✨ <b>Key Features:</b>\n• Identifying groups of identical files\n• Finding duplicate files\n• Scanning multiple directory roots\n• Filtering names and paths by extended UNIX globs\n• Filtering by min/max file size\n<br>\n📖 <b>Summary:</b>\nfclones-gui is an interactive graphical user interface for the fclones command-line tool, designed to help users find and remove duplicate files efficiently. It offers features for identifying identical files across multiple directories, with advanced filtering options, and provides flexible methods for removing or replacing duplicates, including support for copy-on-write file systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pkolaczk/fclones-gui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/24305c90807ef10d564b07e5d20654d2f7cf5463b614c7846e20b5793e308660/pkolaczk/fclones-gui",
+        "platform": "telegram",
+        "quality_score": 0.25
+    },
+    {
+        "project_id": 1062196393,
+        "content": "✨ <b>Singularity</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide advanced stealth and evasion capabilities within a Linux kernel environment, primarily for security research, penetration testing, or demonstrating kernel-level vulnerabilities.\n<br>\n✨ <b>Key Features:</b>\n• Process Hiding\n• File & Directory Hiding\n• Network Stealth\n• Privilege Escalation\n• Log Sanitization\n<br>\n📖 <b>Summary:</b>\nSingularity is a stealthy Linux Kernel Module (LKM) rootkit for modern 6.x kernels, utilizing ftrace for advanced system call hooking. It offers comprehensive features for hiding processes, files, and network connections, alongside capabilities for privilege escalation, log sanitization, and evasion of various detection mechanisms like eBPF tools and EDRs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MatheuZSecurity/Singularity?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1062196393/a2149a49-9fd4-44e6-8ffa-76845a998d60",
+        "platform": "telegram",
+        "quality_score": 0.8500000000000001
+    },
+    {
+        "project_id": 874158162,
+        "content": "🔥 <b>superlinker</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating self-contained, dependency-free ELF executables by merging multiple libraries and the dynamic linker into a single binary.\n<br>\n✨ <b>Key Features:</b>\n• Combines ELF executables and shared libraries into larger products\n• Lifts ELF ET_DYN objects into an intermediate representation\n• Lowers intermediate representation back to an ELF ET_DYN object\n<br>\n📖 <b>Summary:</b>\nSuperlinker is a Rust tool that reinterprets and combines ELF executables and shared libraries into larger, self-contained binaries. It functions like a compiler for interpreted programs, lifting ELF objects into an intermediate representation and lowering them back, enabling the merging of dynamic linkers and dependencies into a single executable.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/whitequark/superlinker?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a082f31a127ce78f35f114600643d181106d46e827adce9a09376f73d5242024/whitequark/superlinker",
         "platform": "telegram",
         "quality_score": 0.45
     },
     {
-        "project_id": 685571470,
-        "content": "🔥 <b>pause-windows-updates</b> | Batchfile\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with granular control over Windows updates, system privacy, and bloatware, allowing for a customized and more secure Windows environment.\n<br>\n✨ <b>Key Features:</b>\n• Pause/Disable/Enable Windows Updates\n• Remove Windows Telemetry and Tracking\n• Debloat Windows Apps and Services\n• Apply various Registry Tweaks\n• Remove Privacy Threats (Copilot, Recall, Cortana)\n<br>\n📖 <b>Summary:</b>\nThe Windows Personalization Utility (WPU) is a batch and registry script tool designed to give users control over Windows updates and system privacy. It allows for pausing updates indefinitely, removing telemetry, debloating apps and services, and applying various system tweaks for a more personalized Windows experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Aetherinox/pause-windows-updates?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/685571470/b8e460e3-e962-4de9-8386-8d31479e7211",
+        "project_id": 873373981,
+        "content": "🚀 <b>Allegro</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating short, high-quality videos from textual descriptions and optionally initial image frames.\n<br>\n✨ <b>Key Features:</b>\n• Text-to-Video generation\n• Text-Image-to-Video generation (Allegro-TI2V)\n• Generates 6-second videos at 15 FPS and 720p resolution\n• Open-sourced models available on Hugging Face\n• Integration with Hugging Face diffusers library\n<br>\n📖 <b>Summary:</b>\nAllegro is a Python-based text-to-video generation model capable of producing up to 6-second videos at 720p resolution and 15 FPS from text prompts. A variant, Allegro-TI2V, extends this by incorporating first-frame and optional last-frame image inputs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rhymes-ai/Allegro?embed=0\">View Project</a>\n• <a href=\"https://rhymes.ai/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/265d109257341385897e65c168de927f5ff0e04395b95072a3bda6f27c7a28bb/rhymes-ai/Allegro",
         "platform": "telegram",
-        "quality_score": 0.7000000000000001
+        "quality_score": 0.6000000000000001
     },
     {
-        "project_id": 771108826,
-        "content": "🔥 <b>public-ip-address</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo programmatically obtain a client's public IP address and its geographical location within a Rust application.\n<br>\n✨ <b>Key Features:</b>\n• Retrieve public IP address from multiple services\n• Fetch geolocation data\n• Asynchronous and blocking interfaces\n• Caching functionality with optional encryption\n• Support for arbitrary IP address lookup and API keys\n<br>\n📖 <b>Summary:</b>\nThis Rust crate, `public-ip-address`, provides a straightforward way to retrieve a user's public IP address and associated geolocation data. It supports multiple lookup services, offers both asynchronous and blocking interfaces, and includes optional caching with encryption for privacy and performance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ghztomash/public-ip-address?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6c0dd6c149124aa7acd7b2adf6814afc3664d607dcad7edbccfc5ad9452fb427/ghztomash/public-ip-address",
+        "project_id": 873217205,
+        "content": "🔥 <b>vulnhuntr</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated discovery of zero-day vulnerabilities in Python projects using AI and static code analysis.\n<br>\n✨ <b>Key Features:</b>\n• Zero-shot vulnerability discovery using LLMs\n• Identifies complex, multi-step vulnerabilities\n• Analyzes code call chains from user input to server output\n• Supports Python codebases\n• Detects vulnerability classes: LFI, AFO, RCE, XSS, SQLI, SSRF, IDOR\n<br>\n📖 <b>Summary:</b>\nVulnhuntr is a Python tool that uses Large Language Models (LLMs) combined with static code analysis to discover complex, multi-step, remotely exploitable vulnerabilities in Python codebases. It aims to find zero-day vulnerabilities that traditional static analysis tools might miss by analyzing entire code call chains from user input to server output.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/protectai/vulnhuntr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/de43a7c8c2578454cc1a1ff21b839877bdd4b0074caec0c4637970af8881585a/protectai/vulnhuntr",
         "platform": "telegram",
-        "quality_score": 0.7999999999999999
-    },
-    {
-        "project_id": 982978455,
-        "content": "🚀 <b>warpnet</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a censorship-resistant and decentralized alternative to traditional social media platforms like Twitter.\n<br>\n✨ <b>Key Features:</b>\n• Decentralized, peer-to-peer architecture\n• No central servers required\n• Noise protocol for inter-node communication\n• Built-in local storage\n• Censorship-resistant\n<br>\n📖 <b>Summary:</b>\nWarpNet is a decentralized, peer-to-peer social network built with Go, inspired by Twitter. It operates without central servers, utilizing the Noise protocol for secure communication and local storage for data persistence. This design makes WarpNet censorship-resistant, scalable, and fully open-source.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Warp-net/warpnet?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/cf64f2e725adf862828f29ca8e6841f850d8e57a5d3eaa130bc04ea08d3f4162/Warp-net/warpnet",
-        "platform": "telegram",
-        "quality_score": 0.9
-    },
-    {
-        "project_id": 1070815414,
-        "content": "✨ <b>runtime-radar</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring and responding to runtime security threats in containerized environments.\n<br>\n✨ <b>Key Features:</b>\n• Flexible monitoring configuration of runtime events via web interface\n• Centralized management for multi-cluster installations\n• Integration with syslog, SMTP, and webhook\n• Develop custom detectors (signatures) in Go using an SDK\n<br>\n📖 <b>Summary:</b>\nRuntime Radar is an open-source solution for monitoring runtime security events and responding to incidents within containerized environments. It offers flexible configuration, centralized multi-cluster management, and integration with existing security systems, providing accessible protection and user-friendly tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Runtime-Radar/runtime-radar?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/57b30f41754033296aa293bc7e555ee86ca1689fc2f2d8ce6fe2e0151359200a/Runtime-Radar/runtime-radar",
-        "platform": "telegram",
-        "quality_score": 0.8
-    },
-    {
-        "project_id": 1051869896,
-        "content": "✨ <b>flint</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying and streamlining the management of KVM virtual machines through a user-friendly interface and a streamlined, bloat-free tool.\n<br>\n✨ <b>Key Features:</b>\n• Single binary distribution (<11MB)\n• Modern Web UI, CLI, and API\n• No XML configuration required\n• Supports KVM/QEMU\n• Provides binaries for glibc and musl (Alpine Linux)\n<br>\n📖 <b>Summary:</b>\nFlint is a lightweight, self-contained KVM management tool that provides a modern Web UI, CLI, and API for managing virtual machines. It aims for zero bloat and maximum efficiency, simplifying VM management without relying on complex XML configurations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/volantvm/flint?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1051869896/ad0c965b-19f2-4f39-b123-047325db7b69",
-        "platform": "telegram",
-        "quality_score": 0.6
+        "quality_score": 0.45
     }
 ]

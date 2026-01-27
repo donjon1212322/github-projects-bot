@@ -1,0 +1,7 @@
+{
+    "project_id": 874158162,
+    "content": "🔥 <b>superlinker</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating self-contained, dependency-free ELF executables by merging multiple libraries and the dynamic linker into a single binary.\n<br>\n✨ <b>Key Features:</b>\n• Combines ELF executables and shared libraries into larger products\n• Lifts ELF ET_DYN objects into an intermediate representation\n• Lowers intermediate representation back to an ELF ET_DYN object\n<br>\n📖 <b>Summary:</b>\nSuperlinker is a Rust tool that reinterprets and combines ELF executables and shared libraries into larger, self-contained binaries. It functions like a compiler for interpreted programs, lifting ELF objects into an intermediate representation and lowering them back, enabling the merging of dynamic linkers and dependencies into a single executable.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/whitequark/superlinker?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/a082f31a127ce78f35f114600643d181106d46e827adce9a09376f73d5242024/whitequark/superlinker",
+    "platform": "telegram",
+    "quality_score": 0.45
+}

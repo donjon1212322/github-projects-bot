@@ -1,26 +1,25 @@
 {
-    "title": "Warp Speed Networking: Simplifying Decentralized Node Management with Go and Wails",
-    "article": "Warpnet is essentially a modern toolkit designed to streamline the creation and management of decentralized network nodes. Its primary purpose is to abstract away the complexity often associated with peer-to-peer connectivity, allowing developers to focus purely on application logic rather than infrastructure plumbing. Think of it as a friendly orchestrator for the individual members of your distributed system, providing visibility and control right out of the box.\n\nThis project achieves its robustness by leveraging the performance of Go for its core backend logic and networking capabilities. Go is an ideal choice because its inherent support for concurrency makes Warpnet incredibly efficient at handling numerous simultaneous connections reliably. The crucial element that elevates Warpnet beyond a standard command-line tool is its user interface, built using Wails. Wails enables the creation of native, cross-platform desktop applications, utilizing standard web technologies for the frontend while keeping the powerful Go code running securely beneath the surface. This unique combination results in a tool that is not only fast and reliable but also visually intuitive and easy to navigate.\n\nFor developers, the primary benefit is an immediate and substantial productivity boost. Since Warpnet provides a ready-made, graphical framework for node operation—complete with features for monitoring network status and node health—you drastically cut down on the time spent writing boilerplate code for basic network setup, logging, and status checks. You can quickly spin up a member node, connect it to a testnet environment, and immediately start prototyping your actual decentralized application features. The cross-platform nature provided by Wails means that distributing this powerful tool to other team members or end-users, regardless of their operating system, is painless.\n\nFurthermore, being an open-source project licensed under AGPL v3, Warpnet thrives on community contributions. This means the tool is constantly refined and enhanced based on real-world feedback and developer needs. By adopting Warpnet, you are tapping into a collaborative effort aimed at simplifying the complexities of distributed systems, providing a powerful, ready-to-use foundation for any project involving decentralized communication or mesh networking. It's a fantastic way to accelerate development in this rapidly growing space.",
+    "title": "The Kernel's Blind Spot: Deconstructing the Advanced Techniques of the Singularity Rootkit",
+    "article": "Have you ever wondered just how deep a threat actor can bury themselves inside a modern Linux system? When we talk about security, most defensive tools focus on user-space monitoring, but the real battleground is often the kernel itself. A project called Singularity serves as a stark, powerful example of what advanced kernel-level malware looks like today. It’s not just a simple module; it’s a masterclass in evasion, designed specifically to bypass the latest and greatest defensive technologies, including sophisticated EDRs and eBPF-based security tools like Falco and Tracee. Understanding how a threat like this operates is absolutely critical for anyone serious about system defense and kernel hardening.\r\n\r\nSingularity operates as a Linux Kernel Module (LKM), meaning it lives alongside the operating system's core functions. Its primary weapon is system call hooking, which it achieves using the ftrace infrastructure. Instead of crudely patching the kernel memory, it leverages legitimate kernel tracing mechanisms to intercept and modify system behavior. For example, when a defender runs a command to list processes or check network connections, Singularity intercepts those calls and filters out any hidden entries in real-time. This sophisticated filtering extends deeply into the system, allowing it to conceal files, processes, and even block audit messages before they reach the system journal or auditd.\r\n\r\nWhat makes this project truly fascinating—and frightening—is its focus on anti-forensics and anti-detection. It actively targets modern defensive layers. For instance, it implements filtering for /proc/kcore and /proc/kallsyms, which are essential files used by memory forensics tools like Volatility to analyze the kernel state. By sanitizing these outputs, it attempts to blind investigators completely. Furthermore, it explicitly targets evasion techniques against eBPF security tools and even the Linux Kernel Runtime Guard (LKRG), demonstrating a profound understanding of kernel defense mechanisms. This level of comprehensive evasion shows that modern kernel threats must be designed not just to hide, but to anticipate and neutralize specific detection methods.\r\n\r\nFor developers focused on security, kernel engineering, or incident response, studying the architecture of tools like Singularity is an invaluable educational exercise. It reveals the necessary blind spots and points of weakness that next-generation security tools must address. If an LKM can leverage ftrace for undetectable hooking, how can we monitor ftrace usage itself? If it filters Netlink messages, how do we establish a trusted, out-of-band communication channel for telemetry? This project provides a blueprint for advanced threats, and by analyzing it, we gain the crucial knowledge needed to build stronger, more resilient kernel defenses. This is the ultimate defensive homework assignment for anyone serious about protecting Linux infrastructure.",
     "key_takeaways": [
-        "Warpnet simplifies decentralized networking and node management using a powerful Go backend for high performance.",
-        "It utilizes Wails to provide a fast, cross-platform native graphical user interface (GUI) for intuitive network monitoring and control.",
-        "Developers save significant time by eliminating complex boilerplate code typically required for setting up peer-to-peer connections and status checks.",
-        "The project offers a ready-to-use foundation for prototyping and deploying distributed system members quickly.",
-        "Warpnet is open source under the AGPL v3 license, benefiting from continuous community-driven enhancements."
+        "Singularity demonstrates state-of-the-art kernel evasion using ftrace system call hooking rather than traditional, easily detectable methods.",
+        "It actively bypasses modern security tools, including eBPF monitors (like Falco/Tracee) and the Linux Kernel Runtime Guard (LKRG).",
+        "The rootkit employs advanced anti-forensics by filtering critical kernel data files such as /proc/kcore and /proc/kallsyms to evade memory analysis.",
+        "Analyzing the techniques used by Singularity is essential for security developers building next-generation kernel defense and EDR solutions."
     ],
     "tags": [
-        "Go",
-        "Wails",
-        "Decentralized Networking",
-        "Distributed Systems",
-        "Open Source"
+        "Linux Kernel",
+        "Cybersecurity",
+        "Rootkits",
+        "ftrace",
+        "EDR Evasion"
     ],
-    "stars": 85,
-    "forks": 8,
-    "open_issues": 31,
-    "languages": "Go",
-    "readme_summary": "WarpNet is a decentralized, peer-to-peer social network built with Go, inspired by Twitter. It operates without central servers, utilizing the Noise protocol for secure communication and local storage for data persistence. This design makes WarpNet censorship-resistant, scalable, and fully open-source.",
-    "project_id": 982978455,
-    "url": "https://github.com/Warp-net/warpnet",
-    "description": "WarpNet is a decentralized, peer-to-peer social network inspired by Twitter, built with Go. It runs without central servers, using Noise protocol for inter-node communication and built-in local storage. WarpNet is censorship-resistant, scalable, and fully open-source."
+    "stars": 1264,
+    "forks": 142,
+    "open_issues": 0,
+    "languages": "C",
+    "readme_summary": "Singularity is a stealthy Linux Kernel Module (LKM) rootkit for modern 6.x kernels, utilizing ftrace for advanced system call hooking. It offers comprehensive features for hiding processes, files, and network connections, alongside capabilities for privilege escalation, log sanitization, and evasion of various detection mechanisms like eBPF tools and EDRs.",
+    "project_id": 1062196393,
+    "url": "https://github.com/MatheuZSecurity/Singularity",
+    "description": "Stealthy Linux Kernel Rootkit for modern kernels (6x)"
 }
