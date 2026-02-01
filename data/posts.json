@@ -1,44 +1,23 @@
 [
     {
-        "project_id": 1114124458,
-        "content": "🚀 <b>browserwing</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling AI agents to directly control web browsers for efficient and reliable automation tasks.\n<br>\n✨ <b>Key Features:</b>\n• Complete Browser Control via 26+ HTTP API endpoints\n• Built-in AI Agent with direct conversational interface\n• Universal AI Tool Integration with MCP & Skills protocol support\n• Visual Script Recording and editing\n• Flexible Export to MCP commands or Skills files\n<br>\n📖 <b>Summary:</b>\nBrowserWing is a platform for native browser automation with AI integration. It allows AI agents to control browsers by converting browser actions into commands or Claude Skills, enabling faster and more reliable automation compared to traditional LLM interactions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/browserwing/browserwing?embed=0\">View Project</a>\n• <a href=\"https://www.browserwing.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e87e8b57ce8dbf2a3e3aebb01022e7337c96517ba1026bbf34f6d41ed2147672/browserwing/browserwing",
+        "project_id": 946107912,
+        "content": "🚀 <b>livecc</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling AI systems to generate real-time commentary for videos by processing video content and its associated audio stream simultaneously.\n<br>\n✨ <b>Key Features:</b>\n• Real-time video commentary generation\n• Streaming speech transcription for video LLMs\n• State-of-the-art performance on streaming and offline benchmarks\n• Pre-training and instruction tuning capabilities\n• Large-scale dataset (Live-WhisperX-526K) and benchmark (LiveSports-3K) available\n<br>\n📖 <b>Summary:</b>\nLiveCC is a video Large Language Model (LLM) designed for real-time commentary generation. It utilizes a novel streaming speech transcription method to process video and generate commentary, achieving state-of-the-art performance on both streaming and offline benchmarks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/showlab/livecc?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f87d3c179e45675f902e7ca6f4caea60a4af3e909886deb92ee0fae141bf944b/showlab/livecc",
         "platform": "telegram",
-        "quality_score": 0.7
+        "quality_score": 0.25
     },
     {
-        "project_id": 923253209,
-        "content": "🚀 <b>CUT3R</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling continuous and persistent 3D scene understanding and reconstruction from sequential data.\n<br>\n✨ <b>Key Features:</b>\n• Continuous 3D Perception\n• Persistent State Representation\n• CVPR 2025 (Oral) publication\n• PyTorch implementation\n• CUDA kernel compilation for performance\n<br>\n📖 <b>Summary:</b>\nCUT3R is the official implementation of a Continuous 3D Perception Model with Persistent State. It enables the model to understand and reconstruct 3D environments over time, maintaining a consistent representation of the scene.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/CUT3R/CUT3R?embed=0\">View Project</a>\n• <a href=\"https://cut3r.github.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e6e1e64dba4437c7c231d90d49cfdd4d9ad7f7b37cae47952c03df5b5dbcc4f9/CUT3R/CUT3R",
+        "project_id": 1091015339,
+        "content": "✨ <b>xleak</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nViewing and interacting with Excel spreadsheets directly in the terminal without needing Microsoft Excel.\n<br>\n✨ <b>Key Features:</b>\n• Beautiful terminal rendering\n• Interactive TUI mode\n• Smart data type handling\n• Multi-sheet support\n• Excel Table support\n<br>\n📖 <b>Summary:</b>\nxleak is a fast terminal-based Excel viewer built with Rust and ratatui. It provides an interactive TUI for navigating and searching spreadsheet data, supporting various Excel and OpenDocument formats with features like lazy loading for large files and export capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bgreenwell/xleak?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/84e4da9d38d3d6d4e08c1290e2679363827f363f9d49226ec516a19f66bbc65c/bgreenwell/xleak",
         "platform": "telegram",
-        "quality_score": 0.45
+        "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 1115482628,
-        "content": "✨ <b>sqlit</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a fast, efficient, and user-friendly terminal-based interface for developers to connect to, query, and manage data across a wide variety of SQL databases without leaving their command line environment.\n<br>\n✨ <b>Key Features:</b>\n• Connection manager for saving and switching between multiple database connections.\n• Support for a wide range of databases including SQL Server, PostgreSQL, MySQL, SQLite, and cloud-specific databases.\n<br>\n📖 <b>Summary:</b>\nsqlit is a user-friendly Terminal User Interface (TUI) application written in Python for interacting with various SQL databases directly from your command line. It aims to provide a fast, intuitive, and efficient way to connect, query, and inspect database data without the need for heavy graphical applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Maxteabag/sqlit?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/045d3a08c5681bc2ef7515b657cec10e9d3395ab2a3830f583f5e163cf1aa3d3/Maxteabag/sqlit",
+        "project_id": 1043269436,
+        "content": "💡 <b>filesql</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nQuerying and manipulating data within various file formats (CSV, TSV, Parquet, Excel) using SQL syntax directly within Go applications, without requiring a traditional database setup.\n<br>\n✨ <b>Key Features:</b>\n• SQLite3 SQL Interface\n• Support for CSV, TSV, LTSV, Parquet, and Excel (XLSX) files\n• Automatic handling of .gz, .bz2, .xz, .zst, .z, .snappy, .s2, and .lz4 compressed files\n• Stream processing for large files\n• Support for file paths, directories, io.Reader, and embed.FS\n<br>\n📖 <b>Summary:</b>\nfilesql is a Go SQL driver that allows users to query various file formats like CSV, TSV, LTSV, Parquet, and Excel using standard SQLite3 SQL syntax. It supports multiple compression formats and flexible input sources, enabling in-memory data processing without external databases.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nao1215/filesql?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1043269436/5a595494-6608-41df-9898-bf8b9e67e24d",
         "platform": "telegram",
-        "quality_score": 1.1000000000000003
-    },
-    {
-        "project_id": 122758193,
-        "content": "✨ <b>video2x</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nUpscaling low-resolution videos and increasing frame rates using AI for improved visual quality.\n<br>\n✨ <b>Key Features:</b>\n• Machine learning-based video super resolution\n• Machine learning-based frame interpolation\n• Rewrite in C/C++ for speed and efficiency\n• Cross-platform support (Windows, Linux)\n• Support for Anime4K v4, Real-ESRGAN, Real-CUGAN, RIFE\n<br>\n📖 <b>Summary:</b>\nVideo2X is a C++ framework for enhancing video quality through machine learning. It offers super-resolution to upscale video clarity and frame interpolation to smooth motion, supporting various AI models and GPU acceleration via Vulkan.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/k4yt3x/video2x?embed=0\">View Project</a>\n• <a href=\"https://docs.video2x.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/269879256fd66679a9b78dce3779352c5840aaba17188050e52a54d44352d480/k4yt3x/video2x",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 235077636,
-        "content": "🚀 <b>SmartImage</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nFinding the original source or similar instances of an image online.\n<br>\n✨ <b>Key Features:</b>\n• Reverse image search across multiple engines (SauceNao, IQDB, Ascii2D, trace.moe, Google, TinEye, Yandex, Bing, etc.)\n• GUI for Windows\n• Cross-platform command-line interface (Rdx)\n• Configurable search behavior\n• Context menu integration (for GUI)\n<br>\n📖 <b>Summary:</b>\nSmartImage is a C# application that provides a powerful reverse image search functionality. It allows users to find the source of an image by querying multiple popular search engines simultaneously and presenting the best match directly in the browser. It offers both a Windows GUI and a cross-platform command-line interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Decimation/SmartImage?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/dc079e078af277d24983fb0bfa439cdc92f2b2341771be7831c799fa343fbb31/Decimation/SmartImage",
-        "platform": "telegram",
-        "quality_score": 0.6499999999999999
-    },
-    {
-        "project_id": 664080436,
-        "content": "💡 <b>WebDeck</b> | Jinja\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a software-based, accessible, and free alternative to physical StreamDeck devices for controlling computer functions remotely via a web browser on a touchscreen device.\n<br>\n✨ <b>Key Features:</b>\n• Flask web application\n• Remote computer control\n• Touchscreen interface\n• Browser-based access\n• Free alternative to StreamDeck\n<br>\n📖 <b>Summary:</b>\nWebDeck is a free, open-source alternative to Elgato's StreamDeck. It's a Flask web application that allows users to control their computer remotely from any browser-enabled device with a touchscreen, acting as a customizable interface for various actions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lenochxd/WebDeck?embed=0\">View Project</a>\n• <a href=\"https://webdeck.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4258e958d041971c24cabd9c0537e86d07c8df37e16c43059ec16a3fd19d4482/Lenochxd/WebDeck",
-        "platform": "telegram",
-        "quality_score": 0.6499999999999999
+        "quality_score": 0.85
     }
 ]

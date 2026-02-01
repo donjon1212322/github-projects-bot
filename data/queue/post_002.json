@@ -1,0 +1,7 @@
+{
+    "project_id": 1043269436,
+    "content": "💡 <b>filesql</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nQuerying and manipulating data within various file formats (CSV, TSV, Parquet, Excel) using SQL syntax directly within Go applications, without requiring a traditional database setup.\n<br>\n✨ <b>Key Features:</b>\n• SQLite3 SQL Interface\n• Support for CSV, TSV, LTSV, Parquet, and Excel (XLSX) files\n• Automatic handling of .gz, .bz2, .xz, .zst, .z, .snappy, .s2, and .lz4 compressed files\n• Stream processing for large files\n• Support for file paths, directories, io.Reader, and embed.FS\n<br>\n📖 <b>Summary:</b>\nfilesql is a Go SQL driver that allows users to query various file formats like CSV, TSV, LTSV, Parquet, and Excel using standard SQLite3 SQL syntax. It supports multiple compression formats and flexible input sources, enabling in-memory data processing without external databases.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nao1215/filesql?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://repository-images.githubusercontent.com/1043269436/5a595494-6608-41df-9898-bf8b9e67e24d",
+    "platform": "telegram",
+    "quality_score": 0.85
+}
