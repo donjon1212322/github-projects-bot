@@ -1,23 +1,37 @@
 [
     {
-        "project_id": 946107912,
-        "content": "🚀 <b>livecc</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling AI systems to generate real-time commentary for videos by processing video content and its associated audio stream simultaneously.\n<br>\n✨ <b>Key Features:</b>\n• Real-time video commentary generation\n• Streaming speech transcription for video LLMs\n• State-of-the-art performance on streaming and offline benchmarks\n• Pre-training and instruction tuning capabilities\n• Large-scale dataset (Live-WhisperX-526K) and benchmark (LiveSports-3K) available\n<br>\n📖 <b>Summary:</b>\nLiveCC is a video Large Language Model (LLM) designed for real-time commentary generation. It utilizes a novel streaming speech transcription method to process video and generate commentary, achieving state-of-the-art performance on both streaming and offline benchmarks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/showlab/livecc?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f87d3c179e45675f902e7ca6f4caea60a4af3e909886deb92ee0fae141bf944b/showlab/livecc",
-        "platform": "telegram",
-        "quality_score": 0.25
-    },
-    {
-        "project_id": 1091015339,
-        "content": "✨ <b>xleak</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nViewing and interacting with Excel spreadsheets directly in the terminal without needing Microsoft Excel.\n<br>\n✨ <b>Key Features:</b>\n• Beautiful terminal rendering\n• Interactive TUI mode\n• Smart data type handling\n• Multi-sheet support\n• Excel Table support\n<br>\n📖 <b>Summary:</b>\nxleak is a fast terminal-based Excel viewer built with Rust and ratatui. It provides an interactive TUI for navigating and searching spreadsheet data, supporting various Excel and OpenDocument formats with features like lazy loading for large files and export capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bgreenwell/xleak?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/84e4da9d38d3d6d4e08c1290e2679363827f363f9d49226ec516a19f66bbc65c/bgreenwell/xleak",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 1043269436,
-        "content": "💡 <b>filesql</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nQuerying and manipulating data within various file formats (CSV, TSV, Parquet, Excel) using SQL syntax directly within Go applications, without requiring a traditional database setup.\n<br>\n✨ <b>Key Features:</b>\n• SQLite3 SQL Interface\n• Support for CSV, TSV, LTSV, Parquet, and Excel (XLSX) files\n• Automatic handling of .gz, .bz2, .xz, .zst, .z, .snappy, .s2, and .lz4 compressed files\n• Stream processing for large files\n• Support for file paths, directories, io.Reader, and embed.FS\n<br>\n📖 <b>Summary:</b>\nfilesql is a Go SQL driver that allows users to query various file formats like CSV, TSV, LTSV, Parquet, and Excel using standard SQLite3 SQL syntax. It supports multiple compression formats and flexible input sources, enabling in-memory data processing without external databases.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nao1215/filesql?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1043269436/5a595494-6608-41df-9898-bf8b9e67e24d",
+        "project_id": 962685604,
+        "content": "🚀 <b>robin</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConducting AI-assisted investigations and intelligence gathering on the dark web.\n<br>\n✨ <b>Key Features:</b>\n• Modular Architecture\n• Multi-Model Support (OpenAI, Claude, Gemini, Ollama)\n• CLI-First Design\n• Docker-Ready\n• Customizable Reporting\n<br>\n📖 <b>Summary:</b>\nRobin is an AI-powered tool designed for dark web Open Source Intelligence (OSINT) investigations. It utilizes Large Language Models (LLMs) to enhance search queries, filter results from dark web search engines, and generate concise investigation summaries, making dark web data more accessible for analysis.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/apurvsinghgautam/robin?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/bc805cca0d152bf0e46e8d7be6b80e940c1378501469a811452d1b6d36be260c/apurvsinghgautam/robin",
         "platform": "telegram",
         "quality_score": 0.85
+    },
+    {
+        "project_id": 1109843084,
+        "content": "💡 <b>LiveAvatar</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time, interactive, and infinitely long audio-driven avatar video generation for applications like virtual assistants, virtual influencers, and interactive storytelling.\n<br>\n✨ <b>Key Features:</b>\n• Real-time streaming interaction with high FPS (45 FPS)\n• Infinite-length autoregressive generation (10,000+ seconds)\n• Audio-driven avatar generation\n• Generalization across diverse characters and scenarios\n• FP8 quantization for reduced GPU memory usage (v1.1)\n<br>\n📖 <b>Summary:</b>\nLive Avatar is a framework for generating real-time, streaming, and infinitely long avatar videos driven by audio input. It utilizes a large diffusion model and block-wise autoregressive processing to achieve high frame rates and support extended video generation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Alibaba-Quark/LiveAvatar?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/29c129a6698e2862730c7e22f79b58713bac16de2bd3b498a650bede06e95548/Alibaba-Quark/LiveAvatar",
+        "platform": "telegram",
+        "quality_score": 0.9000000000000001
+    },
+    {
+        "project_id": 839216423,
+        "content": "🔥 <b>liam</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nVisualizing database schemas by automatically generating interactive ER diagrams.\n<br>\n✨ <b>Key Features:</b>\n• Automatic ER diagram generation\n• Beautiful and interactive UI\n• Simple reverse engineering from existing databases\n• Effortless setup with zero configuration\n• High performance for large schemas (100+ tables)\n<br>\n📖 <b>Summary:</b>\nLiam ERD is an open-source tool that automatically generates beautiful, interactive Entity Relationship (ER) diagrams from your database schemas. It simplifies the visualization of complex database structures with a user-friendly interface, seamless reverse engineering, and high performance for projects of all sizes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/liam-hq/liam?embed=0\">View Project</a>\n• <a href=\"https://liambx.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/839216423/1a7e486e-1212-4f08-94d1-2e9d116ad149",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 971397603,
+        "content": "🔥 <b>hyprshot-rs</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTaking screenshots in Hyprland and Sway on Wayland with flexible capture options and easy integration.\n<br>\n✨ <b>Key Features:</b>\n• Screenshot Capture (full monitor, active monitor, selected region, selected window, active window)\n• Save to specified folder and copy to clipboard\n• TOML-based configuration system\n• CLI commands for config management\n<br>\n📖 <b>Summary:</b>\nHyprshot-rs is a Rust utility for capturing screenshots in Wayland environments, specifically Hyprland and Sway. It offers flexible capture modes including full monitor, active monitor, selected region, and selected window, with options to save to disk or copy to the clipboard. The tool features a TOML configuration system and integrates seamlessly with Hyprland for automatic keybinding generation and setup.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/shikoucore/hyprshot-rs?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0c16cbe4412c5070c14df7e29d239f1a5bbe335e1a691b7550fb4f180a9ffb4b/shikoucore/hyprshot-rs",
+        "platform": "telegram",
+        "quality_score": 0.65
+    },
+    {
+        "project_id": 535309783,
+        "content": "💡 <b>speedtest-tracker</b> | PHP\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring and tracking internet connection performance and uptime through automated speed tests.\n<br>\n✨ <b>Key Features:</b>\n• Automated Tests\n• Detailed Metrics (download/upload speeds, ping, packet loss)\n• Historical Data and Trends\n• Notifications for performance drops\n• Multi-Language Support\n<br>\n📖 <b>Summary:</b>\nSpeedtest Tracker is a self-hosted PHP application that automates internet speed tests and monitors connection performance over time. It captures detailed metrics, stores historical data, and provides notifications for performance drops.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alexjustesen/speedtest-tracker?embed=0\">View Project</a>\n• <a href=\"https://speedtest-tracker.dev/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d5dd39a30b96e8e495fa062b878bc281d0dbe8d4d8d609067081daaf3df2c806/alexjustesen/speedtest-tracker",
+        "platform": "telegram",
+        "quality_score": 1.1000000000000003
     }
 ]
