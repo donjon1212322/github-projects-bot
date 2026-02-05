@@ -1,37 +1,44 @@
 [
     {
-        "project_id": 478710402,
-        "content": "🔥 <b>ImageToolbox</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nAdvanced image editing and manipulation on Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Advanced image manipulation\n• Basic tools (crop, draw)\n• Filters\n• OCR\n• Image processing options\n<br>\n📖 <b>Summary:</b>\nImage Toolbox is a powerful Android application built with Kotlin and Jetpack Compose, offering advanced image manipulation capabilities. It provides a wide array of features, from basic editing tools to sophisticated AI-powered functions like background removal and upscaling.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/T8RIN/ImageToolbox?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/478710402/a8d96d04-d9dd-4f79-bb63-0453b2dd9939",
+        "project_id": 1079089186,
+        "content": "🚀 <b>user-scanner</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPerforming OSINT investigations by checking email registrations and username availability across multiple online platforms.\n<br>\n✨ <b>Key Features:</b>\n• Email & username OSINT\n• Dual-mode usage (email scanner, username scanner, or username-only)\n• Clear results (Registered/Not Registered, Available/Taken/Error)\n• Modular architecture for easy platform addition\n• Bulk scanning support\n<br>\n📖 <b>Summary:</b>\nUser Scanner is a Python-based OSINT tool designed for both email and username analysis across numerous platforms. It helps security researchers and investigators quickly determine the presence of an email or the availability of a username on various social, developer, and creator sites.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kaifcodec/user-scanner?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1079089186/2bcf14d0-8421-45ca-bf5a-629cbe85e08d",
         "platform": "telegram",
-        "quality_score": 1.0000000000000002
+        "quality_score": 1.1000000000000003
     },
     {
-        "project_id": 666584530,
-        "content": "🚀 <b>LiveContainer</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning multiple iOS applications on a device without adhering to standard installation or app ID limitations, particularly for development or testing purposes.\n<br>\n✨ <b>Key Features:</b>\n• Run iOS apps without installing them\n• Install unlimited apps with a single app ID\n• Support for multiple versions of an app with separate data containers\n• Bypass codesigning with JIT enabled\n<br>\n📖 <b>Summary:</b>\nLiveContainer is an app launcher for iOS that allows users to run multiple iOS applications without needing to install each one individually. It bypasses typical app installation limits and signing requirements, especially when Just-In-Time (JIT) compilation is available, offering a way to manage and launch apps more flexibly.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/LiveContainer/LiveContainer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4b94af65df3b854420ddaba90f06a2cbf73d567707291bf4370cb02b0a8a7320/LiveContainer/LiveContainer",
+        "project_id": 840074844,
+        "content": "🚀 <b>Linly-Dubbing</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable seamless and high-quality multi-language dubbing and translation for videos, making content accessible globally.\n<br>\n✨ <b>Key Features:</b>\n• Automatic Video Download\n• Vocal Separation (Demucs, UVR5)\n• AI Speech Recognition (WhisperX, FunASR)\n• Large Language Model Translation (OpenAI API, Qwen, Google Translate)\n• AI-Powered Speech Synthesis (Edge TTS, XTTS, CosyVoice, GPT-SoVITS)\n<br>\n📖 <b>Summary:</b>\nLinly-Dubbing is an intelligent AI-powered tool designed for multi-language video dubbing and translation. It automates video downloading, vocal separation, speech recognition, translation, and AI-driven speech synthesis, enhanced with digital human lip-sync technology for natural and accurate multilingual content.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Kedreamix/Linly-Dubbing?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/873157ba9c35d1a1b0b33300c49e156a36902d03a2b5391117ee383a948b79e6/Kedreamix/Linly-Dubbing",
+        "platform": "telegram",
+        "quality_score": 0.25
+    },
+    {
+        "project_id": 1103012935,
+        "content": "🌟 <b>openclaw</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a private, fast, and always-on personal AI assistant that integrates seamlessly with their existing communication platforms.\n<br>\n✨ <b>Key Features:</b>\n• Personal AI assistant running on user devices\n<br>\n📖 <b>Summary:</b>\nOpenClaw is a personal AI assistant that runs locally on your devices, integrating with various communication channels like WhatsApp, Telegram, and Slack. It allows users to have a fast, always-on, and private AI experience, supporting multiple LLM providers and offering features like voice interaction and live canvas rendering.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/openclaw/openclaw?embed=0\">View Project</a>\n• <a href=\"https://openclaw.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/064875513c19dfd6fe06acecbb8a9bde4fe2146c14cc3ae445164b2b850d6a27/openclaw/openclaw",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 159307622,
+        "content": "🚀 <b>arozos</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a functional and accessible desktop operating system experience on low-power devices, primarily for home server, NAS, and cloud storage management, accessible via a web browser.\n<br>\n✨ <b>Key Features:</b>\n• Web Desktop Interface\n• File Manager with drag-and-drop and upload support\n• Network Statistic monitoring\n• Static Web Server with built-in editor\n• Disk mounting for local and remote file systems\n<br>\n📖 <b>Summary:</b>\nArozOS is a web-based desktop operating system designed for low-power platforms like Raspberry Pi. It provides a user-friendly interface, extensive file and disk management capabilities, networking tools, and security features, all accessible through a web browser.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tobychui/arozos?embed=0\">View Project</a>\n• <a href=\"https://os.aroz.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/159307622/0b3574c7-a416-4e09-ac38-6617b8273f5e",
+        "platform": "telegram",
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 1074218324,
+        "content": "🌟 <b>DeepAnalyze</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating and performing complex data science tasks autonomously, generating comprehensive research reports from various data sources.\n<br>\n✨ <b>Key Features:</b>\n• Autonomous data science pipeline execution\n• Support for structured, semi-structured, and unstructured data\n• Open-ended data research capabilities\n• Analyst-grade research report generation\n• Fully open-source model, code, and training data\n<br>\n📖 <b>Summary:</b>\nDeepAnalyze is an open-source, agentic LLM designed for autonomous data science. It automates the entire data science pipeline, from data preparation and analysis to modeling, visualization, and report generation, handling diverse data types and enabling open-ended data research.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ruc-datalab/DeepAnalyze?embed=0\">View Project</a>\n• <a href=\"https://ruc-deepanalyze.github.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fab60d7ad9f114a4793b020a406de00925cf71612a195392397e6cfed35ceec8/ruc-datalab/DeepAnalyze",
+        "platform": "telegram",
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 827603038,
+        "content": "✨ <b>Asspp</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging multiple Apple IDs and their associated App Store content (apps, historical versions) on a single device, simplifying app acquisition and installation.\n<br>\n✨ <b>Key Features:</b>\n• Multi-Account support\n• Region Selection\n• App Search\n• App Download\n• IPA Install on non-jailbroken devices\n<br>\n📖 <b>Summary:</b>\nAsspp is a Swift-based application that provides a centralized management system for multiple Apple IDs within the App Store ecosystem. It allows users to manage apps across different accounts and regions, facilitating app discovery, download, and installation on non-jailbroken devices, including the ability to manage historical versions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lakr233/Asspp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/14de3574c97de9ca386d41edf98eec2b56558125f7e953ce8062010b2bab3223/Lakr233/Asspp",
         "platform": "telegram",
         "quality_score": 0.7499999999999999
-    },
-    {
-        "project_id": 802751567,
-        "content": "🌟 <b>DrawPen</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAnnotating the screen during presentations, tutorials, or general screen sharing to highlight information or add visual cues.\n<br>\n✨ <b>Key Features:</b>\n• Screen annotation tool\n• Cross-platform availability (macOS, Windows, Linux)\n• Drawing, shapes, text, and highlighter tools\n• Laser pointer and eraser functionality\n• Customizable pen thickness and color\n<br>\n📖 <b>Summary:</b>\nDrawPen is an open-source screen annotation tool available for macOS, Windows, and Linux. It allows users to draw, add shapes, text, and highlights directly on their screen, with a laser pointer and eraser functionality for presentations and general annotation needs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DmytroVasin/DrawPen?embed=0\">View Project</a>\n• <a href=\"https://drawpen.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/634554c0b89ea865365dbeea13229d936605ee08efe235add5832f4447ab8ed7/DmytroVasin/DrawPen",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 458991305,
-        "content": "🌟 <b>picoshare</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosting a simple and efficient file-sharing service for any type of file, with direct download links and no content modification.\n<br>\n✨ <b>Key Features:</b>\n• Minimalist file sharing service\n• Easy to host\n• Direct download links\n• No file restrictions (any file type/size)\n• No resizing or re-encoding of media files\n<br>\n📖 <b>Summary:</b>\nPicoShare is a minimalist, self-hostable file-sharing service written in Go. It provides direct download links for any file type and size without re-encoding or resizing, ensuring users receive their files exactly as uploaded. It supports local storage and cloud data replication via Litestream for persistence.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mtlynch/picoshare?embed=0\">View Project</a>\n• <a href=\"https://demo.pico.rocks?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e4ad9ed934e2991e1d73d972997644299106210b9a8823d4ca45b9204893ee2e/mtlynch/picoshare",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1030561901,
-        "content": "💡 <b>Nook</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nA desktop web browser for macOS with an alternative tab management interface.\n<br>\n✨ <b>Key Features:</b>\n• Sidebar-first navigation (vertical tabs)\n• Performance optimization with modern macOS APIs\n• Minimal and modern UI focused on content\n<br>\n📖 <b>Summary:</b>\nNook is a fast, minimal web browser for macOS designed with a unique sidebar-first interface. It prioritizes performance and a clean user experience, leveraging modern macOS APIs for efficiency.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nook-browser/Nook?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7f07bf724d15972436feacf50ca55fa2434210d855ed996d1e0a17d318bea60b/nook-browser/Nook",
-        "platform": "telegram",
-        "quality_score": 0.7
     }
 ]
