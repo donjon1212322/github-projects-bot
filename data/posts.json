@@ -1,44 +1,37 @@
 [
     {
-        "project_id": 1079089186,
-        "content": "🚀 <b>user-scanner</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPerforming OSINT investigations by checking email registrations and username availability across multiple online platforms.\n<br>\n✨ <b>Key Features:</b>\n• Email & username OSINT\n• Dual-mode usage (email scanner, username scanner, or username-only)\n• Clear results (Registered/Not Registered, Available/Taken/Error)\n• Modular architecture for easy platform addition\n• Bulk scanning support\n<br>\n📖 <b>Summary:</b>\nUser Scanner is a Python-based OSINT tool designed for both email and username analysis across numerous platforms. It helps security researchers and investigators quickly determine the presence of an email or the availability of a username on various social, developer, and creator sites.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kaifcodec/user-scanner?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1079089186/2bcf14d0-8421-45ca-bf5a-629cbe85e08d",
+        "project_id": 1040150625,
+        "content": "✨ <b>cronmaster</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a centralized, user-friendly web interface for managing and monitoring cron jobs and associated scripts, simplifying task scheduling and execution logging.\n<br>\n✨ <b>Key Features:</b>\n• Modern UI with dark/light mode\n• System Information display (uptime, memory, CPU, etc.)\n• Cron Job Management (view, create, delete)\n• Script Management (view, create, delete bash scripts)\n• Job Execution Logging (stdout, stderr, exit codes, timestamps)\n<br>\n📖 <b>Summary:</b>\nCronmaster is a TypeScript-based web UI for managing cron jobs. It offers a user-friendly interface for creating, viewing, and deleting cron jobs and associated bash scripts, with features like live logging, log history, and system information display.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/fccview/cronmaster?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3bad39a6e574fa366e51c29a1ffd87fc8cf1ecce9eca5685205c76d7fb018649/fccview/cronmaster",
         "platform": "telegram",
-        "quality_score": 1.1000000000000003
+        "quality_score": 0.6
     },
     {
-        "project_id": 840074844,
-        "content": "🚀 <b>Linly-Dubbing</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable seamless and high-quality multi-language dubbing and translation for videos, making content accessible globally.\n<br>\n✨ <b>Key Features:</b>\n• Automatic Video Download\n• Vocal Separation (Demucs, UVR5)\n• AI Speech Recognition (WhisperX, FunASR)\n• Large Language Model Translation (OpenAI API, Qwen, Google Translate)\n• AI-Powered Speech Synthesis (Edge TTS, XTTS, CosyVoice, GPT-SoVITS)\n<br>\n📖 <b>Summary:</b>\nLinly-Dubbing is an intelligent AI-powered tool designed for multi-language video dubbing and translation. It automates video downloading, vocal separation, speech recognition, translation, and AI-driven speech synthesis, enhanced with digital human lip-sync technology for natural and accurate multilingual content.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Kedreamix/Linly-Dubbing?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/873157ba9c35d1a1b0b33300c49e156a36902d03a2b5391117ee383a948b79e6/Kedreamix/Linly-Dubbing",
+        "project_id": 1108246441,
+        "content": "🚀 <b>drip</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo securely expose a local development server or service to the internet for testing, collaboration, or public access, using a custom domain and without relying on external tunneling services.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted tunneling\n• Secure exposure of local services\n• Unlimited bandwidth and requests\n• No third-party servers\n• Use of own domain\n<br>\n📖 <b>Summary:</b>\nDrip is a self-hosted tunneling solution written in Go that allows users to securely expose local services to the internet without relying on third-party servers. It offers unlimited bandwidth and requests, enabling users to use their own domains for custom subdomains.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Gouryella/drip?embed=0\">View Project</a>\n• <a href=\"https://driptunnel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9b221b14acb65fe55d5bbd81a6080beabf785d264254279e1d07963dc2f75dae/Gouryella/drip",
+        "platform": "telegram",
+        "quality_score": 0.9
+    },
+    {
+        "project_id": 424069513,
+        "content": "💡 <b>OSX-PROXMOX</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to easily install and run macOS as a virtual machine on Proxmox VE, effectively creating a Hackintosh within a virtualization platform.\n<br>\n✨ <b>Key Features:</b>\n• Easy installation of macOS on Proxmox VE\n• Support for AMD and Intel hardware\n• Wide range of macOS versions supported (High Sierra to Sequoia)\n• Support for Proxmox VE versions 7.XX to 8.XX\n• Includes OpenCore version 1.0.4\n<br>\n📖 <b>Summary:</b>\nThis repository provides a streamlined script to install and run macOS virtual machines on Proxmox VE, supporting a wide range of macOS and Proxmox versions on both AMD and Intel hardware. It simplifies the complex process of Hackintoshing within a virtualization environment.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/luchina-gabriel/OSX-PROXMOX?embed=0\">View Project</a>\n• <a href=\"https://osx-proxmox.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e03d1c0e88fa33426008c252b1d109a3600a8644f7a46866ae2166f242ac094b/luchina-gabriel/OSX-PROXMOX",
+        "platform": "telegram",
+        "quality_score": 0.6000000000000001
+    },
+    {
+        "project_id": 1070160746,
+        "content": "🌟 <b>gpu-hot</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time monitoring and visualization of NVIDIA GPU performance and system metrics for single machines or clusters, particularly useful for MLOps, AI/ML workloads, and DevOps.\n<br>\n✨ <b>Key Features:</b>\n• Real-time GPU metrics (sub-second)\n• Automatic multi-GPU detection\n• Process monitoring (PID, memory usage)\n• Historical charts (utilization, temperature, power, clocks)\n• System metrics (CPU, RAM)\n<br>\n📖 <b>Summary:</b>\nGPU Hot is a real-time, web-based dashboard for monitoring NVIDIA GPUs. It provides detailed metrics for utilization, memory, temperature, and processes, accessible without SSH, and can scale from single machines to large clusters.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/psalias2006/gpu-hot?embed=0\">View Project</a>\n• <a href=\"https://psalias2006.github.io/gpu-hot/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e6179460108b0b9ff7b81d16076f62d9d30b051853353001d26dd2490114efb1/psalias2006/gpu-hot",
+        "platform": "telegram",
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 1019142065,
+        "content": "✨ <b>Dropp</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nSeamlessly transferring and accessing files across macOS and Android devices through a cloud-synced dropzone.\n<br>\n✨ <b>Key Features:</b>\n• Completely Open-Source\n• Cloud Sync\n• Native macOS Dropzone\n• Native Android App\n• Secure Authentication\n<br>\n📖 <b>Summary:</b>\nDropp is a cross-platform application that provides a persistent dropzone on macOS, allowing users to drag files and sync them to the cloud. These files can then be accessed on other devices, such as Android phones, creating a seamless file transfer and accessibility experience across multiple platforms.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/spacefarers/Dropp?embed=0\">View Project</a>\n• <a href=\"https://dropp.yangm.tech?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9330fcadb4c4c5f51afa8ec46c19fc8cd9fd106c20459d07e5eef1e5acd1c0d3/spacefarers/Dropp",
         "platform": "telegram",
         "quality_score": 0.25
-    },
-    {
-        "project_id": 1103012935,
-        "content": "🌟 <b>openclaw</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a private, fast, and always-on personal AI assistant that integrates seamlessly with their existing communication platforms.\n<br>\n✨ <b>Key Features:</b>\n• Personal AI assistant running on user devices\n<br>\n📖 <b>Summary:</b>\nOpenClaw is a personal AI assistant that runs locally on your devices, integrating with various communication channels like WhatsApp, Telegram, and Slack. It allows users to have a fast, always-on, and private AI experience, supporting multiple LLM providers and offering features like voice interaction and live canvas rendering.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/openclaw/openclaw?embed=0\">View Project</a>\n• <a href=\"https://openclaw.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/064875513c19dfd6fe06acecbb8a9bde4fe2146c14cc3ae445164b2b850d6a27/openclaw/openclaw",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 159307622,
-        "content": "🚀 <b>arozos</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a functional and accessible desktop operating system experience on low-power devices, primarily for home server, NAS, and cloud storage management, accessible via a web browser.\n<br>\n✨ <b>Key Features:</b>\n• Web Desktop Interface\n• File Manager with drag-and-drop and upload support\n• Network Statistic monitoring\n• Static Web Server with built-in editor\n• Disk mounting for local and remote file systems\n<br>\n📖 <b>Summary:</b>\nArozOS is a web-based desktop operating system designed for low-power platforms like Raspberry Pi. It provides a user-friendly interface, extensive file and disk management capabilities, networking tools, and security features, all accessible through a web browser.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tobychui/arozos?embed=0\">View Project</a>\n• <a href=\"https://os.aroz.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/159307622/0b3574c7-a416-4e09-ac38-6617b8273f5e",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 1074218324,
-        "content": "🌟 <b>DeepAnalyze</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating and performing complex data science tasks autonomously, generating comprehensive research reports from various data sources.\n<br>\n✨ <b>Key Features:</b>\n• Autonomous data science pipeline execution\n• Support for structured, semi-structured, and unstructured data\n• Open-ended data research capabilities\n• Analyst-grade research report generation\n• Fully open-source model, code, and training data\n<br>\n📖 <b>Summary:</b>\nDeepAnalyze is an open-source, agentic LLM designed for autonomous data science. It automates the entire data science pipeline, from data preparation and analysis to modeling, visualization, and report generation, handling diverse data types and enabling open-ended data research.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ruc-datalab/DeepAnalyze?embed=0\">View Project</a>\n• <a href=\"https://ruc-deepanalyze.github.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fab60d7ad9f114a4793b020a406de00925cf71612a195392397e6cfed35ceec8/ruc-datalab/DeepAnalyze",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 827603038,
-        "content": "✨ <b>Asspp</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging multiple Apple IDs and their associated App Store content (apps, historical versions) on a single device, simplifying app acquisition and installation.\n<br>\n✨ <b>Key Features:</b>\n• Multi-Account support\n• Region Selection\n• App Search\n• App Download\n• IPA Install on non-jailbroken devices\n<br>\n📖 <b>Summary:</b>\nAsspp is a Swift-based application that provides a centralized management system for multiple Apple IDs within the App Store ecosystem. It allows users to manage apps across different accounts and regions, facilitating app discovery, download, and installation on non-jailbroken devices, including the ability to manage historical versions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lakr233/Asspp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/14de3574c97de9ca386d41edf98eec2b56558125f7e953ce8062010b2bab3223/Lakr233/Asspp",
-        "platform": "telegram",
-        "quality_score": 0.7499999999999999
     }
 ]

@@ -1,26 +1,25 @@
 {
-    "title": "Stop Manual Hunting: This 2-in-1 Tool Scans Emails and Usernames Across the Web Instantly",
-    "article": "Tired of manually checking if that perfect username is available across GitHub, Reddit, and Instagram? Or maybe you need to quickly verify if a specific email address is registered on dozens of common sites for an OSINT (Open Source Intelligence) investigation? If you’ve ever found yourself clicking through endless sign-up forms just to check availability, you know how much time this process wastes. This is where User Scanner steps in, acting as your lightweight, lightning-fast digital detective, combining two crucial capabilities into a single command-line tool.\r\n\r\nUser Scanner is fundamentally a dual-mode system. On one hand, it excels at email OSINT. You feed it an email address, and it rapidly pings various platforms to determine if that email is registered. This is incredibly useful for security researchers, investigators, or even just confirming the digital footprint of a contact. The results are clear and unambiguous: Registered or Not Registered. It cuts through the noise and provides actionable intelligence instantly.\r\n\r\nOn the other hand, its username scanning capability is a huge win for developers, marketers, and anyone focused on personal branding. Finding a unique handle that hasn't been snagged on every major platform is tough. User Scanner lets you input a desired username, and it simultaneously checks its status—Available, Taken, or Error—across social media, developer sites, and creator platforms. This ensures brand consistency without the tedious manual verification process.\r\n\r\nWhat makes this project truly powerful for developers is its built-in automation features. Forget scanning one username at a time; User Scanner supports bulk processing via input files. Even cooler, it includes wildcard-based username permutation. If your ideal name, \"johnnydev,\" is taken, you can use a permutation flag to automatically generate variations like \"johnnydev_official\" or \"johnnydev_io,\" and scan all of them instantly. This feature alone is a massive time-saver for securing your digital identity.\r\n\r\nFurthermore, the architecture is designed for extensibility. It uses a fully modular system, meaning adding support for a new platform is straightforward. If you need to integrate User Scanner's output into a larger security pipeline or database, it offers multiple output formats, including structured JSON and CSV, which are perfect for programmatic consumption. For those dealing with rate limiting or geographical restrictions, the tool even supports proxy files and validates those proxies before scanning, ensuring robust and reliable operation even under heavy load. This level of detail and flexibility makes User Scanner a must-have utility in any developer's toolkit, transforming tedious reconnaissance into a single, efficient command.",
+    "title": "Stop SSHing! Monitor Your NVIDIA GPUs with This Real-Time Web Dashboard",
+    "article": "Tired of constantly SSHing into your GPU servers and running `nvidia-smi` just to see if your training jobs are actually utilizing the hardware? That tedious routine is officially obsolete thanks to GPU Hot. This project delivers a sleek, real-time web dashboard specifically designed for monitoring NVIDIA GPUs, eliminating the friction associated with remote terminal checks. It solves the pain point of scattered monitoring by giving you a centralized, immediate visual representation of your compute resources, making hardware management dramatically easier and more efficient.\n\nGPU Hot is built around simplicity and speed. It leverages the power of Docker, meaning setup is incredibly fast—often just one command is enough to get started. Once running, it uses the NVIDIA Management Library (NVML) to pull metrics directly from your hardware in sub-second intervals. This data isn't static; it's pushed instantly to your browser via WebSockets, ensuring you see exactly what your GPUs are doing right now. The dashboard automatically detects every GPU on the machine and presents critical information like utilization, temperature, power draw, clock speeds, and even detailed process monitoring, showing exactly which process ID is currently consuming VRAM.\n\nFor developers and MLOps engineers, this translates directly into saved time and better resource allocation. You can quickly diagnose bottlenecks—is the GPU underutilized, or is it hitting thermal limits? Are those rogue processes eating up memory? By providing system metrics alongside GPU data (like CPU and RAM usage), GPU Hot helps you understand the entire context of your workload. It’s a crucial tool for maximizing hardware investment and ensuring your demanding computational tasks run smoothly and efficiently without manual, repetitive checks.\n\nThe true power of GPU Hot lies in its scalability, making it ideal whether you run one workstation or manage a massive deep learning cluster. For a single machine, it’s a drop-in Docker solution. But if you have multiple servers, you can easily configure one instance as a \"hub.\" This hub aggregates data from all your individual GPU nodes, giving you a single pane of glass to oversee your entire fleet. No more jumping between terminals; just one browser tab shows you the health and performance of dozens of GPUs, complete with historical charts to track performance trends over time and ensure continuous optimal operation.",
     "key_takeaways": [
-        "Performs dual-mode scanning: fast OSINT checks for email registration and simultaneous username availability verification.",
-        "Supports bulk scanning via files and advanced wildcard-based username permutation generation for efficient branding and security checks.",
-        "Offers structured output formats (JSON/CSV) perfect for integrating results into automated security scripts or databases.",
-        "Features a modular architecture, making it easy for developers to contribute and add support for new platforms.",
-        "Includes robust features like proxy support and pre-scan proxy validation for reliable, high-volume operations."
+        "GPU Hot provides a real-time, web-based dashboard for NVIDIA GPU monitoring, eliminating the need for constant SSH access and manual `nvidia-smi` checks.",
+        "The project is highly scalable, supporting easy deployment for single machines or aggregating data from large clusters using a simple Docker 'hub' configuration.",
+        "It delivers comprehensive metrics, including utilization, temperature, power draw, clock speeds, and detailed process monitoring (PID and memory usage) in sub-second intervals.",
+        "Utilizing WebSockets, the dashboard ensures instant data updates and provides historical charts for analyzing performance trends and diagnosing bottlenecks."
     ],
     "tags": [
-        "OSINT",
-        "Python",
-        "Security",
-        "Command-Line",
-        "Branding"
+        "GPU Monitoring",
+        "NVIDIA",
+        "Docker",
+        "MLOps",
+        "Dashboard"
     ],
-    "stars": 531,
-    "forks": 59,
-    "open_issues": 6,
-    "languages": "Python",
-    "readme_summary": "User Scanner is a Python-based OSINT tool designed for both email and username analysis across numerous platforms. It helps security researchers and investigators quickly determine the presence of an email or the availability of a username on various social, developer, and creator sites.",
-    "project_id": 1079089186,
-    "url": "https://github.com/kaifcodec/user-scanner",
-    "description": "🕵️🫆 (2-in-1) Emaill and Username  OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis"
+    "stars": 1398,
+    "forks": 60,
+    "open_issues": 4,
+    "languages": "JavaScript",
+    "readme_summary": "GPU Hot is a real-time, web-based dashboard for monitoring NVIDIA GPUs. It provides detailed metrics for utilization, memory, temperature, and processes, accessible without SSH, and can scale from single machines to large clusters.",
+    "project_id": 1070160746,
+    "url": "https://github.com/psalias2006/gpu-hot",
+    "description": "🔥 Real-time NVIDIA GPU dashboard"
 }
