@@ -1,30 +1,30 @@
 [
     {
-        "project_id": 1130006965,
-        "content": "🌟 <b>blitzbrowser</b> | Svelte\n<br>\n🎯 <b>Primary Use Case:</b>\nDeploying and managing headful browser instances in Docker for web automation, testing, and scraping tasks, while abstracting away infrastructure complexities.\n<br>\n✨ <b>Key Features:</b>\n• Parallelism\n• Chrome DevTools Protocol\n• Headful Browsers\n• Live View\n• Persistent Sessions (S3)\n<br>\n📖 <b>Summary:</b>\nBlitzBrowser provides a managed Docker environment for running headful browsers, simplifying deployment and scaling. It allows direct connection from automation frameworks like Puppeteer and Playwright, offering features like live viewing, persistent sessions via S3, and proxy support without requiring extensive DevOps knowledge.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/blitzbrowser/blitzbrowser?embed=0\">View Project</a>\n• <a href=\"https://docs.blitzbrowser.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1130006965/833e23b4-4b80-4db0-bd9d-820e0c414774",
+        "project_id": 1055391222,
+        "content": "🌟 <b>ChatGPT-Product-Info</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enhance ChatGPT's capabilities by integrating direct product search and comparison functionality, providing users with comprehensive product insights without leaving the ChatGPT interface.\n<br>\n✨ <b>Key Features:</b>\n• Unlocks ChatGPT's internal product search API\n• Fetches detailed product information, reviews, and comparisons\n<br>\n📖 <b>Summary:</b>\nThis browser extension and script unlocks ChatGPT's internal product search API, allowing users to fetch detailed product information, reviews, and comparisons directly within the ChatGPT interface. It provides a user-friendly modal for searching and comparing products, with features like search history and sentiment analysis.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Xyborg/ChatGPT-Product-Info?embed=0\">View Project</a>\n• <a href=\"https://www.martinaberastegue.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1055391222/2782f154-a1a7-40cf-8c4a-53d7c93721a8",
+        "platform": "telegram",
+        "quality_score": 0.3
+    },
+    {
+        "project_id": 755550519,
+        "content": "✨ <b>pik</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nInteractively finding and killing processes in a terminal environment.\n<br>\n✨ <b>Key Features:</b>\n• Interactive fuzzy process searching by name, command path, arguments, and ports\n• Ability to select exact process by ID or process family (process + children)\n• Kill selected process with Ctrl + X\n• Configuration via `config.toml` for customization\n• Support for multiple meta key names in key bindings\n<br>\n📖 <b>Summary:</b>\nPik is an interactive command-line tool for finding and terminating processes on Linux, macOS, and Windows. It offers fuzzy searching capabilities based on process name, command path, arguments, ports, or a combination of these, providing a more user-friendly alternative to the standard `pkill` command.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jacek-kurlit/pik?embed=0\">View Project</a>\n• <a href=\"https://crates.io/crates/pik?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d168bd5a462da7a12690e17a18f38540edb609b6947fd3049aab19caef045bb3/jacek-kurlit/pik",
+        "platform": "telegram",
+        "quality_score": 0.8499999999999999
+    },
+    {
+        "project_id": 1079196239,
+        "content": "💡 <b>k7</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a self-hosted, secure, and scalable environment for executing untrusted code within lightweight virtual machine sandboxes, particularly for AI compute workloads.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted VM sandboxes for untrusted code execution\n• Built on Kubernetes, Kata, and Firecracker\n• Lightweight and efficient VM isolation\n• Scalable AI compute infrastructure\n<br>\n📖 <b>Summary:</b>\nKatakate (k7) provides a self-hosted infrastructure for creating and managing lightweight, secure virtual machine sandboxes. It's designed to safely execute untrusted code at scale, leveraging technologies like Kata, Firecracker, and Kubernetes, and is suitable for AI compute, custom serverless, and hardened CI/CD runners.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Katakate/k7?embed=0\">View Project</a>\n• <a href=\"https://docs.katakate.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c5d38a1cf236d0be33d2b2a763263b99f8e3a61f5330703240b32241ab14ac19/Katakate/k7",
         "platform": "telegram",
         "quality_score": 0.65
     },
     {
-        "project_id": 1135290437,
-        "content": "🔥 <b>VibeNVR</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSetting up and managing a local, privacy-respecting video surveillance system for IP cameras without relying on cloud services.\n<br>\n✨ <b>Key Features:</b>\n• Modern Web Interface (React, Vite)\n• Customizable Dashboard\n• Secure JWT Authentication\n• Advanced Video Engine (Python, OpenCV, FFmpeg)\n• Passthrough Recording (Direct Stream Copy)\n<br>\n📖 <b>Summary:</b>\nVibeNVR is a privacy-focused, local Network Video Recorder (NVR) system designed for efficient video surveillance. It offers a modern React-based interface, a custom high-performance video engine using Python, OpenCV, and FFmpeg, and features like smart motion detection, a unified event timeline, and secure authentication, all deployable via Docker.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/spupuz/VibeNVR?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/dd380287ed0e8562ea41ba8ed004e8a16f0ae61a3d6fb3302214a36b9134306f/spupuz/VibeNVR",
+        "project_id": 364854508,
+        "content": "🔥 <b>evershop</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding tailored e-commerce shopping experiences.\n<br>\n✨ <b>Key Features:</b>\n• TypeScript-first e-commerce platform\n• Built with GraphQL and React\n• Modular and customizable architecture\n• Designed for developers\n• Docker installation option\n<br>\n📖 <b>Summary:</b>\nEverShop is a modern, TypeScript-first e-commerce platform built with GraphQL and React. It provides a modular and customizable architecture for developers to build tailored shopping experiences efficiently.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/evershopcommerce/evershop?embed=0\">View Project</a>\n• <a href=\"https://evershop.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/364854508/1f6cb4f1-78f1-49d3-8e42-67a25799c3a4",
         "platform": "telegram",
-        "quality_score": 0.5499999999999999
-    },
-    {
-        "project_id": 1027643050,
-        "content": "🔥 <b>ScreenCoder</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating the conversion of UI designs or screenshots into editable HTML/CSS code for front-end development.\n<br>\n✨ <b>Key Features:</b>\n• UI screenshot to HTML/CSS code generation\n• Modular multi-agent architecture\n• Visual understanding and layout planning\n• Adaptive code synthesis\n• Customizable modifications for layout and styling\n<br>\n📖 <b>Summary:</b>\nScreenCoder is an intelligent system that converts UI screenshots into production-ready HTML/CSS code. It utilizes a modular multi-agent architecture for visual understanding, layout planning, and adaptive code synthesis, enabling accurate and editable front-end code generation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/leigest519/ScreenCoder?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/bfe85d61b029a13875b2dafa2dbd38b23aa38893a69d2d79ba40220bc625d75a/leigest519/ScreenCoder",
-        "platform": "telegram",
-        "quality_score": 0.6000000000000001
-    },
-    {
-        "project_id": 629045943,
-        "content": "✨ <b>devFind</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA platform for developers to showcase their skills and for others to find and connect with them.\n<br>\n✨ <b>Key Features:</b>\n• Developer profile creation in JSON format\n• Searchable platform for discovering developers\n• Search by skills, location, or name\n• Facilitates connection for collaboration or employment\n<br>\n📖 <b>Summary:</b>\ndevFind is an open-source platform designed for developers to create profiles showcasing their skills and connect with potential collaborators. Profiles are created in JSON format and are discoverable through a user-friendly, searchable interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/shyamtawli/devFind?embed=0\">View Project</a>\n• <a href=\"https://dev-find.vercel.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/996bb48cb75240ae7c13aa11f519cdceea0a322daff209116e7edbd8977124ac/shyamtawli/devFind",
-        "platform": "telegram",
-        "quality_score": 0.7000000000000001
+        "quality_score": 0.85
     }
 ]

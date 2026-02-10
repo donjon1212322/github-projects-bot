@@ -1,0 +1,7 @@
+{
+    "project_id": 755550519,
+    "content": "✨ <b>pik</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nInteractively finding and killing processes in a terminal environment.\n<br>\n✨ <b>Key Features:</b>\n• Interactive fuzzy process searching by name, command path, arguments, and ports\n• Ability to select exact process by ID or process family (process + children)\n• Kill selected process with Ctrl + X\n• Configuration via `config.toml` for customization\n• Support for multiple meta key names in key bindings\n<br>\n📖 <b>Summary:</b>\nPik is an interactive command-line tool for finding and terminating processes on Linux, macOS, and Windows. It offers fuzzy searching capabilities based on process name, command path, arguments, ports, or a combination of these, providing a more user-friendly alternative to the standard `pkill` command.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jacek-kurlit/pik?embed=0\">View Project</a>\n• <a href=\"https://crates.io/crates/pik?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/d168bd5a462da7a12690e17a18f38540edb609b6947fd3049aab19caef045bb3/jacek-kurlit/pik",
+    "platform": "telegram",
+    "quality_score": 0.8499999999999999
+}

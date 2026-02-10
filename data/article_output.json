@@ -1,26 +1,26 @@
 {
-    "title": "Stop Hunting: devFind is the Open-Source Directory Built by Developers, for Developers",
-    "article": "Have you ever wished there was a simple, centralized hub specifically designed for developers to showcase their technical prowess without the noise and algorithmic distractions of traditional social networks? That's exactly the problem devFind solves. This fantastic open-source project is building a developer directory driven entirely by the community, making it incredibly easy to discover and connect with skilled talent based on concrete technical requirements. It acts like a highly specialized, technical phonebook for the global developer community.\r\n\r\nThe core genius of devFind lies in its simplicity and developer-centric approach. Instead of filling out lengthy, proprietary web forms, developers contribute their profile data directly via a standardized JSON file within the GitHub repository. This methodology is highly appealing because it treats profile creation like code contribution—it’s familiar, version-controlled, transparent, and inherently collaborative. Once your JSON profile is merged into the main branch, it becomes instantly searchable on the platform’s clean, user-friendly website.\r\n\r\nWhat makes this project a must-watch is its powerful, targeted search engine. Imagine needing a React Native expert in Berlin, or a Python developer specializing specifically in machine learning libraries. devFind allows users—whether they are recruiters, project managers, or potential collaborators—to filter developers based on granular criteria like specific skills, locations, or names. This capability cuts through the clutter, delivering highly relevant results directly to those who need them. For you, the contributor, this means your profile gets seen by the right people for the right opportunities, maximizing your visibility within the technical community.\r\n\r\nContributing to devFind is also a fantastic way to engage with open source, even if you are a beginner. The process involves the standard Git workflow: forking the repository, adding your profile JSON, and submitting a Pull Request. It’s a low-barrier entry point for new contributors and a great way to polish your collaboration skills while simultaneously boosting your professional visibility. By participating, you’re not just listing yourself; you’re helping build a vital, community-owned resource for the entire development ecosystem. It’s time to ditch the generic resumes and let your skills speak for themselves on a platform built by developers, for developers.",
+    "title": "EverShop: Why This TypeScript & GraphQL E-commerce Platform is a Developer's Dream",
+    "article": "Are you tired of wrestling with legacy e-commerce platforms that feel like they were built in the stone age? As developers, we crave tools that are fast, flexible, and built on modern principles. Trying to customize a complex shopping cart experience often turns into a maintenance nightmare. We need a solution that gives us the power of a full commerce engine but the freedom to build truly bespoke storefronts without getting bogged down in outdated architectures.\n\nThat’s where EverShop steps in, and trust me, this project is a game-changer for anyone building online stores. It is fundamentally designed for developers, built from the ground up using a powerhouse modern stack: TypeScript for robustness, React for dynamic frontends, and GraphQL for efficient data fetching. This isn't just another shopping cart; it’s a TypeScript-first foundation that ensures type safety and scalability right out of the box, making development predictable and enjoyable.\n\nWhat makes EverShop truly stand out is its commitment to modularity. Think of it less as a monolithic application and more as a customizable framework. All essential commerce features—from catalog management to checkout flows—are packaged in a way that allows you to easily plug in extensions or swap out themes. This architecture means you can tailor the platform exactly to your client’s needs without modifying core files, which is crucial for painless upgrades and long-term maintainability. If you need a specific payment gateway or a unique product display widget, you build it as a focused extension.\n\nThe GraphQL layer is another huge win. Instead of dealing with REST endpoints that often over-fetch or under-fetch data, GraphQL lets your React components request exactly the data they need, nothing more, nothing less. This translates directly to faster loading times and a snappier user experience, which, as we all know, is essential for conversion rates in e-commerce. For the frontend developers among us, the ability to leverage the full power of React for theme development means building sophisticated, lightning-fast UIs is straightforward and fun.\n\nGetting started couldn't be simpler, which is a massive relief when exploring new projects. If you have Docker installed, you can literally spin up a fully functional EverShop instance in minutes using a simple `docker compose up` command. This low barrier to entry means you can test features, explore the codebase, or start prototyping your next client project without spending hours on environment setup and dependency hell.\n\nIf you’re looking to escape the limitations of traditional e-commerce platforms and embrace a modern, developer-centric approach, EverShop is absolutely worth starring on GitHub. It combines robust back-end features with the flexibility and speed required by today's demanding web applications. Go check out the live demo and see the power of React, GraphQL, and TypeScript united to redefine open-source commerce.",
     "key_takeaways": [
-        "devFind is a community-driven, open-source platform for showcasing developer skills and facilitating professional connections.",
-        "Profiles are created by contributing standardized JSON files, treating profile management like code contribution.",
-        "The platform features a powerful, targeted search engine allowing users to filter developers by specific skills, location, or name.",
-        "It serves as a highly valuable resource for finding specialized talent, collaborators, and employment opportunities.",
-        "Contributing your profile is an easy and effective way to engage in open source and increase professional visibility."
+        "EverShop is a modern, TypeScript-first e-commerce platform built on React and GraphQL, ensuring type safety and efficient data fetching.",
+        "The modular architecture supports easy customization via extensions and themes, eliminating the need to modify core files for upgrades.",
+        "The use of GraphQL enables faster loading times and better performance by allowing clients to fetch only the necessary data.",
+        "It is designed for rapid deployment, allowing developers to set up a full instance quickly using Docker.",
+        "The platform offers a developer-centric alternative to traditional monolithic e-commerce solutions, focusing on flexibility and speed."
     ],
     "tags": [
-        "Open Source",
-        "Developer Directory",
-        "Collaboration",
-        "JSON",
-        "Skill Showcase"
+        "ecommerce",
+        "react",
+        "graphql",
+        "typescript",
+        "opensource"
     ],
-    "stars": 604,
-    "forks": 590,
-    "open_issues": 4,
-    "languages": "JavaScript",
-    "readme_summary": "devFind is an open-source platform designed for developers to create profiles showcasing their skills and connect with potential collaborators. Profiles are created in JSON format and are discoverable through a user-friendly, searchable interface.",
-    "project_id": 629045943,
-    "url": "https://github.com/shyamtawli/devFind",
-    "description": "devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format."
+    "stars": 9051,
+    "forks": 2076,
+    "open_issues": 89,
+    "languages": "TypeScript",
+    "readme_summary": "EverShop is a modern, TypeScript-first e-commerce platform built with GraphQL and React. It provides a modular and customizable architecture for developers to build tailored shopping experiences efficiently.",
+    "project_id": 364854508,
+    "url": "https://github.com/evershopcommerce/evershop",
+    "description": "🛍️ Typescript E-commerce Platform"
 }
