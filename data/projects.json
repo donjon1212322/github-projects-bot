@@ -1,151 +1,113 @@
 [
     {
-        "id": 1055391222,
-        "name": "ChatGPT-Product-Info",
-        "description": "This is a browser script that unlocks ChatGPT's internal product search API to fetch detailed product information, reviews, and comparisons directly within ChatGPT's interface.",
-        "url": "https://github.com/Xyborg/ChatGPT-Product-Info",
-        "language": "JavaScript",
-        "stars": 7,
-        "forks": 0,
-        "created_at": "2025-09-12T07:43:41Z",
-        "updated_at": "2026-02-10T11:04:11Z",
-        "topics": [
-            "chatgpt",
-            "chatgpt-api",
-            "chatgpt-scraper"
-        ],
-        "quality_score": 0.3,
-        "contributors_count": 0,
-        "last_commit_date": "2025-10-04T13:27:02Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/1055391222/2782f154-a1a7-40cf-8c4a-53d7c93721a8"
-        ],
-        "homepage": "https://www.martinaberastegue.com",
-        "readme_summary": "This browser extension and script unlocks ChatGPT's internal product search API, allowing users to fetch detailed product information, reviews, and comparisons directly within the ChatGPT interface. It provides a user-friendly modal for searching and comparing products, with features like search history and sentiment analysis.",
-        "key_features": [
-            "Unlocks ChatGPT's internal product search API",
-            "Fetches detailed product information, reviews, and comparisons",
-            "Provides a modal interface within ChatGPT",
-            "Supports single product search and multi-product comparison",
-            "Includes search history, sentiment analysis, and citation links",
-            "Offers Chrome extension and browser script options"
-        ],
-        "primary_use_case": "To enhance ChatGPT's capabilities by integrating direct product search and comparison functionality, providing users with comprehensive product insights without leaving the ChatGPT interface.",
-        "open_issues": 0,
-        "cover_image_prompt": "A wise old librarian, representing ChatGPT, is seated at a grand, antique desk. In front of them, instead of books, are glowing, holographic product boxes. The librarian is using a magical magnifying glass, representing the browser script, to peer into one of the boxes. As they look, detailed information, star ratings, and comparison charts materialize in the air around the box, floating towards the viewer. Subtle digital particles and faint code snippets drift in the background, hinting at the underlying technology. The scene is set in a cozy, dimly lit study, evoking a sense of discovery and knowledge. The overall style is a 3D isometric illustration with a warm, inviting color palette."
-    },
-    {
-        "id": 755550519,
-        "name": "pik",
-        "description": "Process Interactive Kill",
-        "url": "https://github.com/jacek-kurlit/pik",
-        "language": "Rust",
-        "stars": 470,
-        "forks": 17,
-        "created_at": "2024-02-10T14:59:53Z",
-        "updated_at": "2026-02-10T13:53:09Z",
-        "topics": [
-            "rust",
-            "terminal",
-            "tui"
-        ],
-        "quality_score": 0.8499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2026-01-24T16:45:23Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/d168bd5a462da7a12690e17a18f38540edb609b6947fd3049aab19caef045bb3/jacek-kurlit/pik"
-        ],
-        "homepage": "https://crates.io/crates/pik",
-        "readme_summary": "Pik is an interactive command-line tool for finding and terminating processes on Linux, macOS, and Windows. It offers fuzzy searching capabilities based on process name, command path, arguments, ports, or a combination of these, providing a more user-friendly alternative to the standard `pkill` command.",
-        "key_features": [
-            "Interactive fuzzy process searching by name, command path, arguments, and ports",
-            "Ability to select exact process by ID or process family (process + children)",
-            "Kill selected process with Ctrl + X",
-            "Configuration via `config.toml` for customization",
-            "Support for multiple meta key names in key bindings",
-            "Precompiled binaries available for Linux and macOS, with package manager support"
-        ],
-        "primary_use_case": "Interactively finding and killing processes in a terminal environment.",
-        "open_issues": 17,
-        "cover_image_prompt": "A friendly, stylized robot character holding a magnifying glass over a chaotic network of glowing process lines. The robot is actively 'zapping' or 'deleting' specific lines with a small, precise laser beam, while other lines representing active processes remain untouched. The background is a clean, dark terminal interface, subtly showing the 'pik' logo. Small, abstract icons representing 'name', 'path', 'args', and 'port' float near the magnifying glass, indicating the search criteria. The overall mood is efficient and controlled, with a clear visual metaphor of a precise cleaner in a digital space. Style: 3D isometric illustration with a vibrant, tech-focused color palette."
-    },
-    {
-        "id": 1079196239,
-        "name": "k7",
-        "description": "Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐",
-        "url": "https://github.com/Katakate/k7",
-        "language": "Python",
-        "stars": 723,
-        "forks": 18,
-        "created_at": "2025-10-19T10:14:36Z",
-        "updated_at": "2026-02-10T14:22:27Z",
-        "topics": [
-            "agents",
-            "code",
-            "firecracker",
-            "kata",
-            "kubernetes",
-            "sandbox",
-            "security",
-            "self-hosted",
-            "virtual-machine",
-            "virtualization"
-        ],
-        "quality_score": 0.65,
-        "contributors_count": 0,
-        "last_commit_date": "2025-12-14T12:52:34Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/c5d38a1cf236d0be33d2b2a763263b99f8e3a61f5330703240b32241ab14ac19/Katakate/k7"
-        ],
-        "homepage": "https://docs.katakate.org",
-        "readme_summary": "Katakate (k7) provides a self-hosted infrastructure for creating and managing lightweight, secure virtual machine sandboxes. It's designed to safely execute untrusted code at scale, leveraging technologies like Kata, Firecracker, and Kubernetes, and is suitable for AI compute, custom serverless, and hardened CI/CD runners.",
-        "key_features": [
-            "Self-hosted VM sandboxes for untrusted code execution",
-            "Built on Kubernetes, Kata, and Firecracker",
-            "Lightweight and efficient VM isolation",
-            "Scalable AI compute infrastructure",
-            "Custom serverless capabilities",
-            "Hardened CI/CD runners",
-            "CLI, API, and Python SDK"
-        ],
-        "primary_use_case": "To provide a self-hosted, secure, and scalable environment for executing untrusted code within lightweight virtual machine sandboxes, particularly for AI compute workloads.",
-        "open_issues": 0,
-        "cover_image_prompt": "A futuristic, transparent vault protecting a single, glowing seedling (representing untrusted code). Robotic arms, resembling K8s pods, carefully tend to the seedling within its secure, isolated glass enclosure (the VM sandbox). Outside the vault, a bustling digital city (representing AI compute at scale) thrives, with data streams flowing safely from the vault to power it. Subtle visual cues like small, stylized Kata and Firecracker icons are etched onto the vault's surface. The overall mood is one of secure innovation and controlled growth, rendered in a clean, 3D isometric illustration style with a vibrant, tech-focused color palette."
-    },
-    {
-        "id": 364854508,
-        "name": "evershop",
-        "description": "🛍️ Typescript E-commerce Platform",
-        "url": "https://github.com/evershopcommerce/evershop",
+        "id": 15642573,
+        "name": "asciiflow",
+        "description": "ASCIIFlow",
+        "url": "https://github.com/lewish/asciiflow",
         "language": "TypeScript",
-        "stars": 9051,
-        "forks": 2076,
-        "created_at": "2021-05-06T09:23:37Z",
-        "updated_at": "2026-02-10T14:28:41Z",
-        "topics": [
-            "ecommerce",
-            "ecommerce-framework",
-            "ecommerce-platform",
-            "react",
-            "typescript"
-        ],
-        "quality_score": 0.85,
+        "stars": 5521,
+        "forks": 401,
+        "created_at": "2014-01-05T00:34:30Z",
+        "updated_at": "2026-02-10T21:58:30Z",
+        "topics": [],
+        "quality_score": 0.55,
         "contributors_count": 0,
-        "last_commit_date": "2026-02-01T10:03:17Z",
+        "last_commit_date": "2024-08-06T19:02:07Z",
         "media_urls": [
-            "https://repository-images.githubusercontent.com/364854508/1f6cb4f1-78f1-49d3-8e42-67a25799c3a4"
+            "https://opengraph.githubassets.com/d7c96d17700068d227c450f8f021e0840befecb7288c7d92c8677ee8cd3c57d2/lewish/asciiflow"
         ],
-        "homepage": "https://evershop.io/",
-        "readme_summary": "EverShop is a modern, TypeScript-first e-commerce platform built with GraphQL and React. It provides a modular and customizable architecture for developers to build tailored shopping experiences efficiently.",
+        "homepage": "https://asciiflow.com",
+        "readme_summary": "ASCIIFlow is a client-side web application for creating ASCII diagrams directly in the browser. It provides a simple, intuitive interface for drawing and manipulating text-based art without requiring any server-side processing.",
         "key_features": [
-            "TypeScript-first e-commerce platform",
-            "Built with GraphQL and React",
-            "Modular and customizable architecture",
-            "Designed for developers",
-            "Docker installation option"
+            "Client-side only web application",
+            "Draw ASCII diagrams",
+            "Web-based interface"
         ],
-        "primary_use_case": "Building tailored e-commerce shopping experiences.",
-        "open_issues": 89,
-        "cover_image_prompt": "A skilled artisan, dressed in modern developer attire, is meticulously assembling a vibrant, bustling marketplace from modular building blocks. Each block represents a feature like 'product catalog', 'checkout', or 'user accounts'. Glowing lines of GraphQL and React code flow from the artisan's tools, connecting the blocks seamlessly. In the background, a stylized digital blueprint of a sleek online store is visible. The overall mood is one of creation and efficiency, with a clean, bright aesthetic. The art style should be a 3D isometric illustration with subtle glowing digital elements and the EverShop logo subtly integrated into the marketplace signage."
+        "primary_use_case": "Creating ASCII diagrams for documentation, code comments, or simple visual representations in a web browser.",
+        "open_issues": 58,
+        "cover_image_prompt": "A whimsical artist sitting at a digital easel in a bright, clean studio. Instead of paint, they are using a glowing cursor to 'draw' intricate shapes and flowcharts using only characters like '|', '-', '+', and letters. The 'canvas' is a large, transparent screen displaying the ASCII art as it's being created. Subtle digital particles flow from the cursor, and small, stylized code snippets are visible on a nearby tablet, hinting at the software's nature. The overall mood is creative and accessible, emphasizing the ease of building diagrams with text. The style should be a 3D isometric illustration with a friendly, modern aesthetic."
+    },
+    {
+        "id": 222258954,
+        "name": "hetty",
+        "description": "An HTTP toolkit for security research.",
+        "url": "https://github.com/dstotijn/hetty",
+        "language": "Go",
+        "stars": 9299,
+        "forks": 514,
+        "created_at": "2019-11-17T14:16:23Z",
+        "updated_at": "2026-02-11T05:01:16Z",
+        "topics": [
+            "bugbounty",
+            "http",
+            "infosec",
+            "mitm",
+            "pentesting",
+            "proxy"
+        ],
+        "quality_score": 0.55,
+        "contributors_count": 0,
+        "last_commit_date": "2025-01-13T22:26:31Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/222258954/97473f06-84ac-4fc6-ad06-6392a920ac97"
+        ],
+        "homepage": "https://hetty.xyz",
+        "readme_summary": "Hetty is an open-source HTTP toolkit designed for security research, offering a powerful alternative to commercial tools like Burp Suite Pro. It provides a machine-in-the-middle proxy, an HTTP client, and request/response interception capabilities, all managed through an easy-to-use web interface.",
+        "key_features": [
+            "Machine-in-the-middle (MITM) HTTP proxy with logs and advanced search",
+            "HTTP client for request creation, editing, and replay",
+            "Request and response interception for manual review",
+            "Scope support for organizing work",
+            "Web-based admin interface",
+            "Project-based database storage"
+        ],
+        "primary_use_case": "Security research and penetration testing of HTTP applications.",
+        "open_issues": 17,
+        "cover_image_prompt": "A skilled detective in a dimly lit, high-tech control room, examining a stream of digital data flowing like a river. The detective uses a magnifying glass that reveals hidden symbols and vulnerabilities within the data packets, which are represented as small, glowing orbs. Some orbs are marked with red 'X's (threats), while others glow green (safe). Subtle UI elements resembling Hetty's web interface are visible on a nearby monitor, displaying logs and requests. The overall mood is one of focused investigation and discovery. The image should be in a 3D isometric illustration style with a dark, atmospheric color scheme and glowing digital accents."
+    },
+    {
+        "id": 966098572,
+        "name": "garmin-grafana",
+        "description": "A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana",
+        "url": "https://github.com/arpanghosh8453/garmin-grafana",
+        "language": "Python",
+        "stars": 2827,
+        "forks": 174,
+        "created_at": "2025-04-14T11:59:09Z",
+        "updated_at": "2026-02-11T02:36:58Z",
+        "topics": [
+            "database",
+            "garmin",
+            "garmin-api",
+            "garmin-connect",
+            "garmin-data",
+            "garmin-smartwatches",
+            "grafana",
+            "grafana-dashboard",
+            "grafana-influxdb",
+            "influxdb",
+            "python",
+            "python3"
+        ],
+        "quality_score": 1.0000000000000002,
+        "contributors_count": 0,
+        "last_commit_date": "2026-02-10T18:38:45Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/966098572/a6413bc9-3e7e-4121-9b17-4d11f9b1f414"
+        ],
+        "homepage": "",
+        "readme_summary": "This repository provides a Dockerized Python script to fetch health data from Garmin Connect and store it in an InfluxDB database. The data can then be visualized using Grafana, allowing users to track long-term health trends and create custom dashboards.",
+        "key_features": [
+            "Automatic data collection from Garmin",
+            "Collects comprehensive health metrics (Heart Rate, Steps, Sleep Data, SpO2, HRV, Stress, Body Battery, Calories, Activity Timeline, GPS data)",
+            "Automated data fetching at regular intervals",
+            "Historical data backfilling",
+            "Local data ownership and privacy",
+            "Full visualization freedom with Grafana",
+            "Export data for advanced analysis"
+        ],
+        "primary_use_case": "To fetch, store, and visualize personal Garmin health data for long-term trend analysis and custom dashboard creation.",
+        "open_issues": 20,
+        "cover_image_prompt": "A stylized, open book lies on a desk. One page shows a vibrant, detailed map of a person's health metrics (heart rate waves, sleep patterns, step counts) flowing like rivers. From the book, a stream of glowing digital data particles flows into a sleek, modern database icon. Beside the database, a stylized Grafana dashboard interface is visible, displaying charts and graphs derived from the data. The overall mood is one of discovery and personal insight, with a clean, bright aesthetic. The repository name 'Garmin Grafana' is subtly integrated into the book's title or a small plaque on the desk. 3D isometric illustration style."
     }
 ]
