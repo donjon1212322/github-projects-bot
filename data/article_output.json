@@ -1,26 +1,26 @@
 {
-    "title": "Deta Surf: The AI Notebook That Turns Juggling Tabs Into Pure Synthesis",
-    "article": "We all know the pain of deep research: juggling a dozen browser tabs, opening external PDFs, keeping a separate note-taking app open, and constantly copying and pasting snippets while desperately trying to maintain context. Deta Surf aims to eliminate this workflow chaos by merging research, documentation, and powerful AI analysis into one seamless, integrated environment. It’s not just another note-taker; it’s designed specifically for synthesis and deep thinking across diverse media.\n\nAt its core, Surf functions as a robust multi-media library. It doesn't just handle plain text; it intelligently indexes almost any resource you throw at it—local files, PDFs, full websites, and even YouTube videos. Crucially, all this data is stored locally on your machine using the Surf Flat File System (SFFS). This commitment to local-first data storage and open formats (it’s built with high-performance Rust, TypeScript, and Svelte) means your research remains private, transparent, and often accessible even when you're offline.\n\nThe real magic unfolds within the Smart Notes feature. Imagine you are writing a complex analysis. Instead of manually searching for that key quote, you can simply use an `@-mention` to reference a specific section of a saved PDF or a crucial timestamp in a video you viewed earlier. The integrated AI can then leverage these referenced sources to synthesize new information directly into your note, automatically generating integrated citations that deep-link back to the exact location in the original source material. This capability completely eliminates the manual grunt work of hunting, copying, and pasting.\n\nFor developers, the built-in 'Surflets' feature is a game-changer. If you need a quick utility, data visualization, or interactive helper application to explore a concept—perhaps a temporary code snippet parser or a simple chart—you don't have to leave your notes or fire up a separate IDE. You can ask the AI to generate an interactive applet right inside your document. This transforms your notes from static text into dynamic, executable environments, perfect for rapid prototyping and idea exploration.\n\nSurf’s architecture, utilizing modern technologies like Rust for performance and Svelte for a snappy UI, ensures a fast, cross-platform experience on MacOS, Windows, and Linux. The project’s focus on being open source and user-centric, combined with powerful features like split-view browsing and integrated web search, makes Deta Surf a compelling tool for anyone serious about elevating their research and documentation workflow. It is truly an open, powerful accelerator designed to boost productivity and intellectual clarity.",
+    "title": "Stop Context Switching: Meet Kimi, The Autonomous AI Agent for Your Command Line",
+    "article": "We all know the grind: you’re deep in the terminal, you need to check documentation, you switch to the browser, then back to the IDE, and finally back to the CLI to run a test. This constant context switching is a massive productivity killer. That’s exactly the problem Kimi Code CLI is designed to solve. This project isn't just another language model wrapper; it's an intelligent, autonomous agent that lives right inside your terminal, making it your ultimate development companion.\r\n\r\nKimi Code CLI functions as a powerful, context-aware shell. When you give it a task—say, \"Refactor the logging logic in `main.py` and ensure all unit tests pass\"—it doesn't just spit out code. Instead, it autonomously plans a series of actions. It can read your existing files to understand the current state, search the web for relevant documentation if needed, execute shell commands (like `git status` or `pip install`), and then apply the necessary code edits. If the first attempt fails or a command returns an error, Kimi automatically adjusts its plan and tries again, mimicking a human developer's debugging process.\r\n\r\nOne of the most impressive features is its dedicated Shell Command Mode, accessible instantly via `Ctrl-X`. This means you never have to leave the AI session to run a quick, manual command. You switch modes, execute your command (like checking a specific log file output), and switch back. The agent retains full context of what you just did, ensuring seamless continuity in your workflow. This is crucial for maintaining flow and preventing the mental overhead of juggling multiple terminal windows or applications.\r\n\r\nBeyond the raw CLI, Kimi is incredibly versatile in how you integrate it into your development environment. It offers a ready-made VS Code extension for those who prefer their editor interface. More importantly, it supports the Agent Client Protocol (ACP) out of the box. This means if you use modern IDEs like Zed or JetBrains, you can configure Kimi Code CLI as an ACP agent server. You get the full power of the autonomous agent running in the background, accessible directly from your IDE's agent panel, allowing you to bridge the power of the terminal agent with the comfort of your graphical editor.\r\n\r\nWhy should developers immediately integrate this? Simply put, Kimi Code CLI automates the tedious, multi-step administrative tasks that consume huge chunks of your time. Instead of spending 30 minutes manually identifying, replacing, and testing deprecated functions across multiple files, you delegate the entire workflow to Kimi with a single, conversational prompt. It saves time, minimizes errors from manual context switching, and allows you to focus your intellectual energy on high-level architectural challenges rather than repetitive command-line mechanics. This is the future of terminal interaction, and it’s available right now.",
     "key_takeaways": [
-        "Unifies research, note-taking, and AI analysis across diverse media types (PDFs, videos, web pages) in one application.",
-        "Smart Notes feature enables context-aware referencing via `@-mentions` and generates automatic, deep-linked citations to sources.",
-        "Leverages a local-first, open-format architecture (SFFS) built using Rust, Svelte, and TypeScript, ensuring data privacy and high performance.",
-        "Includes 'Surflets' for AI-powered generation of interactive code applets directly within your notes for visualization and rapid prototyping.",
-        "Eliminates workflow friction by integrating web search, split-view multitasking, and synthesis tools into a single environment."
+        "Kimi Code CLI is an autonomous AI agent embedded directly in the terminal, capable of complex, multi-step software development tasks.",
+        "It eliminates context switching by handling code editing, shell execution, web searches, and autonomous planning within a single session.",
+        "The dedicated Shell Command Mode allows developers to execute manual terminal commands instantly without breaking the agent's context.",
+        "The agent offers seamless integration with VS Code and supports the Agent Client Protocol (ACP) for use in IDEs like Zed and JetBrains.",
+        "By automating repetitive tasks, Kimi Code CLI significantly accelerates refactoring, debugging, and general development workflows."
     ],
     "tags": [
-        "AI Notebook",
-        "Research Tool",
-        "Svelte",
-        "Rust",
-        "Local First"
+        "AI Agent",
+        "CLI Tool",
+        "Developer Productivity",
+        "VS Code",
+        "Autonomous Coding"
     ],
-    "stars": 3190,
-    "forks": 225,
-    "open_issues": 18,
-    "languages": "TypeScript",
-    "readme_summary": "Deta Surf is a personal AI notebook designed to streamline research and thinking by integrating files, webpages, and other digital content. It allows users to organize information into notebooks, generate notes, perform web searches, and even create interactive applications (Surflets) powered by user-selected AI models, all while prioritizing local data storage and open formats.",
-    "project_id": 1079906817,
-    "url": "https://github.com/deta/surf",
-    "description": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local)."
+    "stars": 6343,
+    "forks": 597,
+    "open_issues": 38,
+    "languages": "Python",
+    "readme_summary": "Kimi Code CLI is an AI-powered command-line agent designed to assist with software development tasks and terminal operations. It can read and edit code, execute shell commands, fetch web content, and autonomously plan actions, integrating with various IDEs and shells.",
+    "project_id": 1076863218,
+    "url": "https://github.com/MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent."
 }
