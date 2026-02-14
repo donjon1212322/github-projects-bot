@@ -1,7 +1,0 @@
-{
-    "project_id": 232181980,
-    "content": "🌟 <b>dangerzone</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo safely convert untrusted documents into a secure PDF format, mitigating risks from malicious code embedded in the original files.\n<br>\n✨ <b>Key Features:</b>\n• Sandboxed document conversion\n• Network-isolated sandbox using gVisor\n• Optional OCR for text layer\n• PDF compression\n• Support for a wide range of document types (PDF, Office, images, EPUB, HWP)\n<br>\n📖 <b>Summary:</b>\nDangerzone is a security tool that converts potentially dangerous documents (PDFs, Office files, images) into safe PDFs by processing them within an isolated sandbox environment. It sanitizes the content by converting it to raw pixel data and then back to a PDF, ensuring that any malicious code is neutralized.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/freedomofpress/dangerzone?embed=0\">View Project</a>\n• <a href=\"https://dangerzone.rocks/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/2b811b66938cc2aa8214e6f9c671bb49ce0fa937e8d5828275f3f2c0ee28e095/freedomofpress/dangerzone",
-    "platform": "telegram",
-    "quality_score": 0.95
-}
