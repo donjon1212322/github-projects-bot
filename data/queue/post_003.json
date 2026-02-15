@@ -1,0 +1,7 @@
+{
+    "project_id": 1147485756,
+    "content": "🔥 <b>refract</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enforce session concurrency limits for Xray-core by blocking multiple simultaneous connections from different IPs under the same user identity.\n<br>\n✨ <b>Key Features:</b>\n• Real-time Enforcement\n• Kernel-Level Blocking (ipset, iptables)\n• Instant Session Termination (Netlink/SOCK_DIAG)\n• Zero-Copy Log Parsing\n• Docker Ready\n<br>\n📖 <b>Summary:</b>\nRefract is a Go-based policy enforcement service designed to control concurrent user sessions for Xray-core. It achieves this by monitoring access logs and using Linux kernel features like Netlink and IPSet to block unauthorized connections in real-time.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/quyxishi/refract?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/5e5d276dc8a0562229f88c5b88de6dc2f828711b66afca4d170aa3de7f6953ef/quyxishi/refract",
+    "platform": "telegram",
+    "quality_score": 0.44999999999999996
+}

@@ -1,37 +1,37 @@
 [
     {
-        "project_id": 1118663704,
-        "content": "💡 <b>syntux</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomatically generating dynamic and customizable user interfaces for web applications based on provided data.\n<br>\n✨ <b>Key Features:</b>\n• Streamable UI generation\n• Support for custom React components\n• Cacheable generated UIs\n• Integration with LLM providers via Vercel AI SDK\n• Support for custom actions and server actions\n<br>\n📖 <b>Summary:</b>\nSyntux is a generative UI library for the web that automatically designs user interfaces to display given data. It works by converting data into a JSON-based React Interface Schema, allowing for dynamic and customizable UI generation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/puffinsoft/syntux?embed=0\">View Project</a>\n• <a href=\"https://getsyntux.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1118663704/23dd08c1-9158-4601-b3f4-ff03a6d1a310",
+        "project_id": 773225023,
+        "content": "🌟 <b>plasma-smart-video-wallpaper-reborn</b> | QML\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to set video files as their dynamic desktop and lock screen wallpapers within the KDE Plasma environment.\n<br>\n✨ <b>Key Features:</b>\n• Plasma 6 wallpaper plugin\n• Plays videos on Desktop/Lock Screen\n• Seamless integration with KDE Plasma\n<br>\n📖 <b>Summary:</b>\nThis repository provides a Plasma 6 wallpaper plugin that allows users to set videos as their desktop or lock screen background. It integrates seamlessly with the KDE Plasma desktop environment to offer dynamic and personalized wallpapers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn?embed=0\">View Project</a>\n• <a href=\"https://store.kde.org/p/2139746?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/773225023/c69c3381-1bbc-4830-b90e-37528cece478",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 67093,
+        "content": "🔥 <b>focuswriter</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a focused and immersive writing environment, minimizing distractions for users to concentrate on their content.\n<br>\n✨ <b>Key Features:</b>\n• Distraction-free fullscreen interface\n• Hide-away UI accessed by mouse movement\n• Customizable themes (font, colors, background)\n• On-the-fly statistics\n• Daily goals\n<br>\n📖 <b>Summary:</b>\nFocusWriter is a distraction-free, fullscreen word processor designed for immersive writing. It offers a minimalist interface that hides away until needed, customizable themes for ambiance, and essential features like spell-checking and document statistics to aid productivity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gottcode/focuswriter?embed=0\">View Project</a>\n• <a href=\"https://gottcode.org/focuswriter/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/88872b272b4ed37b3a8bd3b39aae72348c53d0d3ca36de4df131411b9094e0dc/gottcode/focuswriter",
+        "platform": "telegram",
+        "quality_score": 0.6499999999999999
+    },
+    {
+        "project_id": 998423454,
+        "content": "🚀 <b>BotCommander</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and monitoring multiple Python bots through a web-based dashboard.\n<br>\n✨ <b>Key Features:</b>\n• Web interface built on Flask\n• Automatic startup of all bots on launch\n• Monitor CPU, memory, and uptime for each bot\n• Bot management: start, stop, restart, disable\n• Display system information\n<br>\n📖 <b>Summary:</b>\nBotCommander is a lightweight, self-hosted web interface for managing multiple Python bots. It provides a centralized dashboard to monitor bot status, resource usage, and uptime, with functionalities to start, stop, restart, and disable individual bots.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Sergei768/BotCommander?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a5361f3c70212abd772865fc84730c116b0375a34cb7175519417da3341a5258/Sergei768/BotCommander",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 232181980,
-        "content": "🌟 <b>dangerzone</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo safely convert untrusted documents into a secure PDF format, mitigating risks from malicious code embedded in the original files.\n<br>\n✨ <b>Key Features:</b>\n• Sandboxed document conversion\n• Network-isolated sandbox using gVisor\n• Optional OCR for text layer\n• PDF compression\n• Support for a wide range of document types (PDF, Office, images, EPUB, HWP)\n<br>\n📖 <b>Summary:</b>\nDangerzone is a security tool that converts potentially dangerous documents (PDFs, Office files, images) into safe PDFs by processing them within an isolated sandbox environment. It sanitizes the content by converting it to raw pixel data and then back to a PDF, ensuring that any malicious code is neutralized.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/freedomofpress/dangerzone?embed=0\">View Project</a>\n• <a href=\"https://dangerzone.rocks/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2b811b66938cc2aa8214e6f9c671bb49ce0fa937e8d5828275f3f2c0ee28e095/freedomofpress/dangerzone",
-        "platform": "telegram",
-        "quality_score": 0.95
-    },
-    {
-        "project_id": 267958226,
-        "content": "🌟 <b>apkleaks</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nStatic analysis of Android APK files to discover security vulnerabilities, sensitive information, and network endpoints.\n<br>\n✨ <b>Key Features:</b>\n• Scans APK files for URIs, endpoints, and secrets\n• Supports installation via PyPI, source, and Docker\n• Allows custom pattern definitions for enhanced scanning\n• Integrates with the JADX decompiler\n• Provides options for output formatting (text, JSON) and file redirection\n<br>\n📖 <b>Summary:</b>\nAPKLeaks is a Python-based tool designed for static analysis of Android application package (APK) files. It scans APKs to identify URIs, network endpoints, and sensitive secrets embedded within the code, aiding in security assessments and bug bounty hunting.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dwisiswant0/apkleaks?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/267958226/8811a880-8ae3-11eb-86f8-c87b5d0ec178",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 1152403746,
-        "content": "🔥 <b>async-scanner</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nHigh-speed asynchronous TCP port scanning for network diagnostics and security research.\n<br>\n✨ <b>Key Features:</b>\n• Asynchronous TCP scanning powered by Tokio\n• Configurable concurrency level\n• Customizable connection timeout\n• Optional service banner grabbing\n• Output in human-readable or JSON format\n<br>\n📖 <b>Summary:</b>\nAsync Scanner is a high-performance TCP port scanner built with Rust and Tokio. It enables rapid scanning of network ports with customizable concurrency, timeouts, and optional banner grabbing, making it suitable for network diagnostics and security research.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/NickIBrody/async-scanner?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/24e0dbcb6fa55cd97fb2049f4ceb29a17a9a1a2988958fc7409880de099efbf6/NickIBrody/async-scanner",
+        "project_id": 1147485756,
+        "content": "🔥 <b>refract</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enforce session concurrency limits for Xray-core by blocking multiple simultaneous connections from different IPs under the same user identity.\n<br>\n✨ <b>Key Features:</b>\n• Real-time Enforcement\n• Kernel-Level Blocking (ipset, iptables)\n• Instant Session Termination (Netlink/SOCK_DIAG)\n• Zero-Copy Log Parsing\n• Docker Ready\n<br>\n📖 <b>Summary:</b>\nRefract is a Go-based policy enforcement service designed to control concurrent user sessions for Xray-core. It achieves this by monitoring access logs and using Linux kernel features like Netlink and IPSet to block unauthorized connections in real-time.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/quyxishi/refract?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5e5d276dc8a0562229f88c5b88de6dc2f828711b66afca4d170aa3de7f6953ef/quyxishi/refract",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 530393473,
-        "content": "🚀 <b>motionity</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and editing motion graphics and animations directly in a web browser.\n<br>\n✨ <b>Key Features:</b>\n• Keyframing with custom easing\n• Image and video filters (adjustments, blur, chroma key)\n• Trim and cut videos\n• Layer masking\n• Audio support\n<br>\n📖 <b>Summary:</b>\nMotionity is a free, open-source, web-based motion graphics editor that allows users to create animations with features like keyframing, masking, filters, and audio support. It aims to be a user-friendly alternative to complex software like After Effects, with integrations for easy asset searching and dragging.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alyssaxuu/motionity?embed=0\">View Project</a>\n• <a href=\"https://motionity.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/530393473/85d5587f-07f6-4d1c-8341-0a0d2c0a33fc",
+        "project_id": 374315513,
+        "content": "🌟 <b>samurai</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated moderation and enhancement of Telegram group chats.\n<br>\n✨ <b>Key Features:</b>\n• Anti-Profanity (Russian/English)\n• ML-based Anti-Spam for new users\n• NSFW Detection (Profile Photo Analysis)\n• Reputation System\n• Report System for messages\n<br>\n📖 <b>Summary:</b>\nSamurai is a Python-based Telegram auto-moderator bot designed to enhance community safety and engagement. It offers features like profanity filtering, AI-powered spam and NSFW detection, a user reputation system, and scheduled announcements.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Priler/samurai?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4c0c022b74c15094a85927e8bc7f10d3087ecc03376759e5cdc30a1c004095e6/Priler/samurai",
         "platform": "telegram",
-        "quality_score": 0.45
+        "quality_score": 0.8
     }
 ]
