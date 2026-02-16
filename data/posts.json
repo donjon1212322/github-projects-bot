@@ -1,37 +1,44 @@
 [
     {
-        "project_id": 773225023,
-        "content": "🌟 <b>plasma-smart-video-wallpaper-reborn</b> | QML\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to set video files as their dynamic desktop and lock screen wallpapers within the KDE Plasma environment.\n<br>\n✨ <b>Key Features:</b>\n• Plasma 6 wallpaper plugin\n• Plays videos on Desktop/Lock Screen\n• Seamless integration with KDE Plasma\n<br>\n📖 <b>Summary:</b>\nThis repository provides a Plasma 6 wallpaper plugin that allows users to set videos as their desktop or lock screen background. It integrates seamlessly with the KDE Plasma desktop environment to offer dynamic and personalized wallpapers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn?embed=0\">View Project</a>\n• <a href=\"https://store.kde.org/p/2139746?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/773225023/c69c3381-1bbc-4830-b90e-37528cece478",
+        "project_id": 558451176,
+        "content": "💡 <b>flutter-pos-app-ui</b> | Dart\n<br>\n🎯 <b>Primary Use Case:</b>\nTo serve as a pre-built, customizable UI template for developers creating Point of Sale (POS) applications, particularly for restaurants, using Flutter.\n<br>\n✨ <b>Key Features:</b>\n• Modern and responsive UI design\n• Side navigation menu with animated selections\n• Food category filtering\n• Product grid view with images and pricing\n• Order management system\n<br>\n📖 <b>Summary:</b>\nThis repository provides a modern, responsive, and visually appealing UI for a Point of Sale (POS) application built with Flutter. It showcases features like product browsing, order management, and a clean order summary, ideal for restaurant systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/julvikramsupandi/flutter-pos-app-ui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fc86d886819e604ce63ab6456edc968e06516beda74f5bd5b011606e161f4b45/julvikramsupandi/flutter-pos-app-ui",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.35
     },
     {
-        "project_id": 67093,
-        "content": "🔥 <b>focuswriter</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a focused and immersive writing environment, minimizing distractions for users to concentrate on their content.\n<br>\n✨ <b>Key Features:</b>\n• Distraction-free fullscreen interface\n• Hide-away UI accessed by mouse movement\n• Customizable themes (font, colors, background)\n• On-the-fly statistics\n• Daily goals\n<br>\n📖 <b>Summary:</b>\nFocusWriter is a distraction-free, fullscreen word processor designed for immersive writing. It offers a minimalist interface that hides away until needed, customizable themes for ambiance, and essential features like spell-checking and document statistics to aid productivity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gottcode/focuswriter?embed=0\">View Project</a>\n• <a href=\"https://gottcode.org/focuswriter/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/88872b272b4ed37b3a8bd3b39aae72348c53d0d3ca36de4df131411b9094e0dc/gottcode/focuswriter",
-        "platform": "telegram",
-        "quality_score": 0.6499999999999999
-    },
-    {
-        "project_id": 998423454,
-        "content": "🚀 <b>BotCommander</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and monitoring multiple Python bots through a web-based dashboard.\n<br>\n✨ <b>Key Features:</b>\n• Web interface built on Flask\n• Automatic startup of all bots on launch\n• Monitor CPU, memory, and uptime for each bot\n• Bot management: start, stop, restart, disable\n• Display system information\n<br>\n📖 <b>Summary:</b>\nBotCommander is a lightweight, self-hosted web interface for managing multiple Python bots. It provides a centralized dashboard to monitor bot status, resource usage, and uptime, with functionalities to start, stop, restart, and disable individual bots.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Sergei768/BotCommander?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a5361f3c70212abd772865fc84730c116b0375a34cb7175519417da3341a5258/Sergei768/BotCommander",
+        "project_id": 506853901,
+        "content": "💡 <b>Mockoops</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating animated marketing or tutorial videos from screen recordings using pre-designed templates.\n<br>\n✨ <b>Key Features:</b>\n• Superfast rendering powered by Serverless Functions\n• Real-time preview updates\n• Responsive Video Templates\n• Multiple pre-built templates for various scenarios\n• Long-term Caching for rendering optimization\n<br>\n📖 <b>Summary:</b>\nMockoops is a JavaScript-based tool that transforms boring screen recordings into beautiful, animated mockups in seconds. It leverages React and serverless functions for fast rendering, offering responsive video templates and efficient caching.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Just-Moh-it/Mockoops?embed=0\">View Project</a>\n• <a href=\"https://mockoops.mohitya.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0c5ca936f4068a943292bb512b66f967779241d8616a4b72ef42b91f7adc6bfe/Just-Moh-it/Mockoops",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 1147485756,
-        "content": "🔥 <b>refract</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enforce session concurrency limits for Xray-core by blocking multiple simultaneous connections from different IPs under the same user identity.\n<br>\n✨ <b>Key Features:</b>\n• Real-time Enforcement\n• Kernel-Level Blocking (ipset, iptables)\n• Instant Session Termination (Netlink/SOCK_DIAG)\n• Zero-Copy Log Parsing\n• Docker Ready\n<br>\n📖 <b>Summary:</b>\nRefract is a Go-based policy enforcement service designed to control concurrent user sessions for Xray-core. It achieves this by monitoring access logs and using Linux kernel features like Netlink and IPSet to block unauthorized connections in real-time.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/quyxishi/refract?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5e5d276dc8a0562229f88c5b88de6dc2f828711b66afca4d170aa3de7f6953ef/quyxishi/refract",
-        "platform": "telegram",
-        "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 374315513,
-        "content": "🌟 <b>samurai</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated moderation and enhancement of Telegram group chats.\n<br>\n✨ <b>Key Features:</b>\n• Anti-Profanity (Russian/English)\n• ML-based Anti-Spam for new users\n• NSFW Detection (Profile Photo Analysis)\n• Reputation System\n• Report System for messages\n<br>\n📖 <b>Summary:</b>\nSamurai is a Python-based Telegram auto-moderator bot designed to enhance community safety and engagement. It offers features like profanity filtering, AI-powered spam and NSFW detection, a user reputation system, and scheduled announcements.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Priler/samurai?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4c0c022b74c15094a85927e8bc7f10d3087ecc03376759e5cdc30a1c004095e6/Priler/samurai",
+        "project_id": 282085598,
+        "content": "🌟 <b>chat-downloader</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo download and archive chat messages from online video content for analysis, record-keeping, or other purposes.\n<br>\n✨ <b>Key Features:</b>\n• Retrieve chat messages from livestreams, videos, clips, and past broadcasts\n• Supports multiple platforms (e.g., YouTube, Twitch)\n• No authentication required\n• Command-line interface (CLI) with extensive options\n• Python library for programmatic use\n<br>\n📖 <b>Summary:</b>\nChat Downloader is a Python tool that retrieves chat messages from various online video platforms like YouTube and Twitch. It supports livestreams, videos, clips, and past broadcasts, and operates without requiring user authentication.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/xenova/chat-downloader?embed=0\">View Project</a>\n• <a href=\"https://chat-downloader.readthedocs.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7d02c9506c79c2e820bd978de0b9ee3e30ecfe59d5ec4d9b5935b3013048c4a0/xenova/chat-downloader",
         "platform": "telegram",
         "quality_score": 0.8
+    },
+    {
+        "project_id": 906490557,
+        "content": "🌟 <b>telegram-files</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated and continuous downloading of files from Telegram, managed through a self-hosted web interface.\n<br>\n✨ <b>Key Features:</b>\n• Seamless file downloads from Telegram channels and groups\n• Support for multiple Telegram accounts\n• Pause and resume downloads\n• Automatic file transfer to designated destinations\n• Instant preview of downloaded videos and images\n<br>\n📖 <b>Summary:</b>\nTelegram Files is a self-hosted application designed for continuous, stable, and unattended downloading of files from Telegram channels and groups. It supports multiple Telegram accounts, allows pausing and resuming downloads, and offers features like instant previews and PWA support.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jarvis2f/telegram-files?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/15919752e9bcb5185c54bf100bff16bce11df50417bea003d8a65b68ff2d0748/jarvis2f/telegram-files",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 1005890033,
+        "content": "✨ <b>subtrackr</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosted subscription tracking and financial management.\n<br>\n✨ <b>Key Features:</b>\n• Dashboard Overview with real-time stats\n• Subscription Management with logos\n• Calendar View with iCal export\n• Analytics for spending by category\n• Email and Pushover Notifications for renewals\n<br>\n📖 <b>Summary:</b>\nSubTrackr is a self-hosted subscription management application built with Go and HTMX. It allows users to track their subscriptions, visualize spending habits, receive renewal reminders, and manage their finances effectively.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bscott/subtrackr?embed=0\">View Project</a>\n• <a href=\"https://subtrackr.xyz/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/18ddf989856f17fdc88f170ead96895e28d4b1da5961f39c3a27bf62f03bc0af/bscott/subtrackr",
+        "platform": "telegram",
+        "quality_score": 0.8499999999999999
+    },
+    {
+        "project_id": 1116927424,
+        "content": "🌟 <b>mirrow</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nDetecting and terminating malicious or suspicious overlay applications on macOS.\n<br>\n✨ <b>Key Features:</b>\n• Intelligent Detection of suspicious overlay applications\n• Risk Scoring for detected applications\n• Real-time System Monitoring\n• Automatic Filtering of legitimate macOS applications\n• One-Click Termination of suspicious apps\n<br>\n📖 <b>Summary:</b>\nMirror is a macOS security tool written in Swift that detects and neutralizes suspicious overlay applications. It scans active windows, identifies potentially malicious apps based on characteristics like hidden layers or transparency, and allows for one-click termination.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ajagatobby/mirrow?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a5e0c6574cb0cfdf85492175a73aeb6667d13cd36aa15ace0e2659e13d733a5b/ajagatobby/mirrow",
+        "platform": "telegram",
+        "quality_score": 0.3
     }
 ]
