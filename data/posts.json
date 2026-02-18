@@ -1,37 +1,23 @@
 [
     {
-        "project_id": 193305104,
-        "content": "🌟 <b>QtScrcpy</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nMirroring and controlling an Android device's screen on a desktop computer for enhanced productivity, gaming, or development.\n<br>\n✨ <b>Key Features:</b>\n• Display and control Android devices\n• USB or network connection\n• No root required\n• Cross-platform support (Windows, macOS, Linux)\n• Lightweight and high performance (30-60 fps)\n<br>\n📖 <b>Summary:</b>\nQtScrcpy is a lightweight, high-performance application for displaying and controlling Android devices on your computer via USB or network. It requires no root access and supports Windows, macOS, and Linux, offering low latency and fast startup times.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/barry-ran/QtScrcpy?embed=0\">View Project</a>\n• <a href=\"https://blog.csdn.net/rankun1/article/details/87970523?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b39f0d9c2c2a9356fb40cb4a1409af6f031fb6f963d897b86b0b6202ecb3ddbe/barry-ran/QtScrcpy",
+        "project_id": 1121139995,
+        "content": "🔥 <b>youtube-live-tts</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable YouTube live stream viewers' chat messages to be read aloud in real-time using AI-generated voices, enhancing viewer engagement and accessibility.\n<br>\n✨ <b>Key Features:</b>\n• Real-time chat monitoring\n• AI-powered voices (ElevenLabs)\n• Modern web dashboard\n• Customizable templates\n• Smart message queue\n<br>\n📖 <b>Summary:</b>\nThis repository provides a real-time text-to-speech service for YouTube live streams, converting chat messages into spoken audio using ElevenLabs AI voices. It features a web dashboard for configuration and monitoring, with options for customization, spam protection, and cross-platform compatibility.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/emiliioaguirre/youtube-live-tts?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1121139995/5e5b6114-4e80-40d0-8355-4d41383970fb",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.4
     },
     {
-        "project_id": 1152969678,
-        "content": "💡 <b>weathr</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a visually engaging and informative real-time weather forecast directly within their terminal environment.\n<br>\n✨ <b>Key Features:</b>\n• Real-time weather data from Open-Meteo\n• Animated ASCII art for weather conditions (rain, snow, thunderstorms, etc.)\n• Auto-location detection via IP\n• Customizable configuration for units, HUD visibility, and location display\n• CLI options for simulation and unit overrides\n<br>\n📖 <b>Summary:</b>\nWeathr is a command-line interface (CLI) application written in Rust that displays real-time weather information directly in the terminal. It features animated ASCII art for various weather conditions, auto-location detection, and customizable display options.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Veirt/weathr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/bb8fdd5c55df2fa9382d78f38ce38c17a3eacd49533df0ecc495152839e2b964/Veirt/weathr",
+        "project_id": 1133234083,
+        "content": "🔥 <b>ShowUI-Aloha</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating repetitive computer tasks by learning from human demonstrations.\n<br>\n✨ <b>Key Features:</b>\n• Records human demonstrations (screen, mouse, keyboard)\n• Learns semantic action traces\n• Plans new tasks based on learned workflows\n• Executes reliably with OS-level actions\n• Generalizes from single demonstrations to task families\n<br>\n📖 <b>Summary:</b>\nShowUI-Aloha is a human-taught computer-use agent for Windows and macOS that learns workflows from recorded demonstrations. It generalizes these learnings to plan and execute new task variants, performing OS-level actions like clicks, typing, and scrolling.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/showlab/ShowUI-Aloha?embed=0\">View Project</a>\n• <a href=\"https://arxiv.org/abs/2601.07181?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ab1a763bc1254f8a61948e2ddbd5c2f86b22014b0457fc7a4516d21e755b295c/showlab/ShowUI-Aloha",
         "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 0.3
     },
     {
-        "project_id": 111058386,
-        "content": "🌟 <b>browserless</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning automated browser tasks like web scraping, testing, and PDF generation in a scalable and manageable environment.\n<br>\n✨ <b>Key Features:</b>\n• Dockerized headless browsers (Chrome, Firefox, Webkit)\n• Integration with Puppeteer and Playwright\n• Parallelism and queueing\n• Debug Viewer for real-time session inspection\n• Configurable timeouts\n<br>\n📖 <b>Summary:</b>\nBrowserless is a Dockerized headless browser solution that allows users to deploy and manage Chrome, Firefox, or Webkit instances for automated tasks. It supports integration with Puppeteer and Playwright, offering features like parallelism, a debug viewer, and configurable timeouts, and can be run locally or used via their cloud service.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/browserless/browserless?embed=0\">View Project</a>\n• <a href=\"https://browserless.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/111058386/04588780-851c-11e9-8b4e-4b84a9a0b4b9",
+        "project_id": 561822224,
+        "content": "✨ <b>tiktok-live-recorder</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRecording and saving TikTok live streams for later viewing.\n<br>\n✨ <b>Key Features:</b>\n• Records TikTok live streams\n• Captures both audio and video\n• Supports recording via username, URL, or room ID\n• Offers different recording modes (manual, automatic, followers)\n• Allows customization of checking intervals and output directories\n<br>\n📖 <b>Summary:</b>\nThis Python tool records TikTok live streams, capturing both audio and video. It allows users to save and revisit live content for later viewing or analysis, serving creators, researchers, and general users interested in preserving TikTok live moments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Michele0303/tiktok-live-recorder?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fe2843b2ba2bcb824991a881617638a6380f92c91ee51e2f554ac2eca94f6d20/Michele0303/tiktok-live-recorder",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 914139037,
-        "content": "✨ <b>SpotiFLAC</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDownloading Spotify music in high-fidelity FLAC format without needing a Spotify account.\n<br>\n✨ <b>Key Features:</b>\n• Download Spotify tracks in FLAC\n• Source audio from Tidal, Qobuz, Amazon Music\n• No Spotify account required\n• Cross-platform support (Windows, macOS, Linux)\n• Free and open-source\n<br>\n📖 <b>Summary:</b>\nSpotiFLAC is a desktop application that allows users to download Spotify tracks in high-quality FLAC format. It sources audio from alternative streaming services like Tidal, Qobuz, and Amazon Music without requiring any user accounts or authentication with Spotify.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/afkarxyz/SpotiFLAC?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/914139037/905298cd-35ec-4b96-ade5-3a4e2c8b6f0a",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 717491059,
-        "content": "🌟 <b>compressO</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nReducing video file sizes for easier storage, sharing, and faster uploads.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform compatibility (Linux, Windows, macOS)\n• High video compression ratios\n• Powered by FFmpeg\n• Built with Tauri and Rust\n• Offline functionality\n<br>\n📖 <b>Summary:</b>\nCompressO is a cross-platform desktop application built with Tauri and Rust that allows users to significantly reduce video file sizes. It leverages FFmpeg for powerful video compression and offers a user-friendly interface for offline video conversion.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/codeforreal1/compressO?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7e6a62e83a29eadcdb9e17d6961564a2563022c33e4fc3cc30664795f3bcd040/codeforreal1/compressO",
-        "platform": "telegram",
-        "quality_score": 0.5
     }
 ]
