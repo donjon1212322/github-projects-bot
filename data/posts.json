@@ -1,23 +1,37 @@
 [
     {
-        "project_id": 1121139995,
-        "content": "🔥 <b>youtube-live-tts</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable YouTube live stream viewers' chat messages to be read aloud in real-time using AI-generated voices, enhancing viewer engagement and accessibility.\n<br>\n✨ <b>Key Features:</b>\n• Real-time chat monitoring\n• AI-powered voices (ElevenLabs)\n• Modern web dashboard\n• Customizable templates\n• Smart message queue\n<br>\n📖 <b>Summary:</b>\nThis repository provides a real-time text-to-speech service for YouTube live streams, converting chat messages into spoken audio using ElevenLabs AI voices. It features a web dashboard for configuration and monitoring, with options for customization, spam protection, and cross-platform compatibility.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/emiliioaguirre/youtube-live-tts?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1121139995/5e5b6114-4e80-40d0-8355-4d41383970fb",
+        "project_id": 988575614,
+        "content": "💡 <b>videoeditor</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a user-friendly, AI-enhanced, open-source video editing experience for creating and exporting videos.\n<br>\n✨ <b>Key Features:</b>\n• Advanced Multi-Track Editing\n• Real-Time Preview\n• Fast Export\n• Vibe AI Assistant\n• Smart Media Library\n<br>\n📖 <b>Summary:</b>\nThis repository provides an open-source, AI-powered video editing platform that offers advanced multi-track editing, real-time previews, and fast exports. It aims to be a user-friendly alternative to popular tools like Capcut and Canva, with features like an AI assistant for automated edits and a smart media library.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/trykimu/videoeditor?embed=0\">View Project</a>\n• <a href=\"https://trykimu.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/988575614/c172efea-e6db-4922-b695-abaddc42b4c9",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 341369834,
+        "content": "🔥 <b>pytgcalls</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling developers to programmatically control and participate in Telegram group voice and video calls within their Python applications.\n<br>\n✨ <b>Key Features:</b>\n• Async client API for Telegram group voice calls\n• Integration with MTProto libraries (Pyrogram, Telethon, Hydrogram)\n• Support for voice and video calls in channels and chats\n• Functionality for joining as channels or chats\n<br>\n📖 <b>Summary:</b>\nPyTgCalls is an asynchronous Python library that enables developers to integrate Telegram group voice call functionalities into their applications. It leverages MTProto and WebRTC, working with popular MTProto libraries like Pyrogram and Telethon to facilitate voice and video calls in channels and chats.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pytgcalls/pytgcalls?embed=0\">View Project</a>\n• <a href=\"http://pytgcalls.github.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/da115e866a1ea07a51d3c3930bbd11b523d3594eab9f1ee45dc9a127e4af9338/pytgcalls/pytgcalls",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 1102157650,
+        "content": "🚀 <b>llm-council</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide more comprehensive and accurate answers to complex questions by aggregating and evaluating responses from multiple LLMs.\n<br>\n✨ <b>Key Features:</b>\n• Query multiple LLMs simultaneously\n• LLM response review and ranking\n• Chairman LLM for final response synthesis\n• Local web application interface\n• Customizable LLM council configuration\n<br>\n📖 <b>Summary:</b>\nLLM Council is a local web application that leverages multiple large language models (LLMs) to answer complex questions. It sends queries to various LLMs, has them review and rank each other's responses, and then synthesizes a final answer using a designated 'Chairman' LLM.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/karpathy/llm-council?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/33cb1a8da6bbb03212294b1affd9f11b4ef5997e2828dc152ac448dd26e8ca5d/karpathy/llm-council",
         "platform": "telegram",
         "quality_score": 0.4
     },
     {
-        "project_id": 1133234083,
-        "content": "🔥 <b>ShowUI-Aloha</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating repetitive computer tasks by learning from human demonstrations.\n<br>\n✨ <b>Key Features:</b>\n• Records human demonstrations (screen, mouse, keyboard)\n• Learns semantic action traces\n• Plans new tasks based on learned workflows\n• Executes reliably with OS-level actions\n• Generalizes from single demonstrations to task families\n<br>\n📖 <b>Summary:</b>\nShowUI-Aloha is a human-taught computer-use agent for Windows and macOS that learns workflows from recorded demonstrations. It generalizes these learnings to plan and execute new task variants, performing OS-level actions like clicks, typing, and scrolling.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/showlab/ShowUI-Aloha?embed=0\">View Project</a>\n• <a href=\"https://arxiv.org/abs/2601.07181?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ab1a763bc1254f8a61948e2ddbd5c2f86b22014b0457fc7a4516d21e755b295c/showlab/ShowUI-Aloha",
-        "platform": "telegram",
-        "quality_score": 0.3
-    },
-    {
-        "project_id": 561822224,
-        "content": "✨ <b>tiktok-live-recorder</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRecording and saving TikTok live streams for later viewing.\n<br>\n✨ <b>Key Features:</b>\n• Records TikTok live streams\n• Captures both audio and video\n• Supports recording via username, URL, or room ID\n• Offers different recording modes (manual, automatic, followers)\n• Allows customization of checking intervals and output directories\n<br>\n📖 <b>Summary:</b>\nThis Python tool records TikTok live streams, capturing both audio and video. It allows users to save and revisit live content for later viewing or analysis, serving creators, researchers, and general users interested in preserving TikTok live moments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Michele0303/tiktok-live-recorder?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fe2843b2ba2bcb824991a881617638a6380f92c91ee51e2f554ac2eca94f6d20/Michele0303/tiktok-live-recorder",
+        "project_id": 946498681,
+        "content": "🌟 <b>neovate-code</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo act as an AI-powered assistant for developers, automating and improving various aspects of the software development lifecycle.\n<br>\n✨ <b>Key Features:</b>\n• Code generation\n• Bug fixing\n• Code review\n• Test addition\n• Interactive mode\n<br>\n📖 <b>Summary:</b>\nNeovate Code is a TypeScript-based coding agent designed to enhance developer workflows. It assists with tasks such as code generation, bug fixing, code review, and test creation, operating in both interactive and headless modes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/neovateai/neovate-code?embed=0\">View Project</a>\n• <a href=\"https://neovateai.dev/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/71845a20c7e42d9912f1cd237520f24013bea908392f37dbb0fadd5d36d87853/neovateai/neovate-code",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 1009192288,
+        "content": "🚀 <b>arch-cleaner</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating system maintenance and cleanup for Arch Linux.\n<br>\n✨ <b>Key Features:</b>\n• System backup before changes\n• Standard and aggressive system updates\n• Removal of orphaned & unused packages\n• Pacman cache cleaning\n• Journal log cleaning\n<br>\n📖 <b>Summary:</b>\nArch-Cleaner is a bash script designed for Arch Linux users to automate routine system maintenance and cleanup tasks. It offers configurable options for updating packages, removing unused files and cache, cleaning logs, and more, with safety features like backups and optional aggressive modes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/antonio-foti/arch-cleaner?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a62338017a2b2aefc2d0debfe3c20327cd517a3c601f8d0cd4a0715f8473b6b6/antonio-foti/arch-cleaner",
+        "platform": "telegram",
+        "quality_score": 0.15
     }
 ]
