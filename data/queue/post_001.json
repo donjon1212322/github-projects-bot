@@ -1,7 +1,0 @@
-{
-    "project_id": 1125728254,
-    "content": "💡 <b>mssh</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide secure and straightforward SSH access to remote machines that are not directly exposed to the internet due to NAT or firewall restrictions.\n<br>\n✨ <b>Key Features:</b>\n• SSH access to machines behind NAT/firewalls\n• Minimal rendezvous server architecture\n• No VPN setup required\n• Works with standard `ssh` command (ProxyCommand)\n• Built-in Go SSH client\n<br>\n📖 <b>Summary:</b>\nmssh is a Go-based tool that enables SSH access to machines located behind NAT or firewalls. It uses a minimal rendezvous server to facilitate connections, eliminating the need for complex VPN setups and working seamlessly with the standard `ssh` command.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/eznix86/mssh?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/905367b66f340ad4bcc715a3675e808cb035a6984924a41a695df06865fcafec/eznix86/mssh",
-    "platform": "telegram",
-    "quality_score": 0.6
-}
