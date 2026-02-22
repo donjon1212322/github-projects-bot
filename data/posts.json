@@ -1,44 +1,37 @@
 [
     {
-        "project_id": 1110692853,
-        "content": "💡 <b>imagemagick-webui</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding an accessible and feature-rich web-based interface for performing various image editing and processing tasks, enhanced with AI capabilities.\n<br>\n✨ <b>Key Features:</b>\n• Resize & Crop\n• Format Conversion\n• Filters & Effects\n• Watermark & Text\n• Rotate & Flip\n<br>\n📖 <b>Summary:</b>\nImageMagick WebGUI is a modern, user-friendly web interface for ImageMagick, offering a wide range of image manipulation tools and AI-powered features like background removal and auto-enhancement. It provides a real-time preview and supports batch processing, making it suitable for both casual users and power users via a terminal mode.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/PrzemekSkw/imagemagick-webui?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/df3322ccf155e5f5dbc9486e78e2fedb32a2bd285b596df0d880b8f5df305af9/PrzemekSkw/imagemagick-webui",
-        "platform": "telegram",
-        "quality_score": 0.9
-    },
-    {
-        "project_id": 1125728254,
-        "content": "💡 <b>mssh</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide secure and straightforward SSH access to remote machines that are not directly exposed to the internet due to NAT or firewall restrictions.\n<br>\n✨ <b>Key Features:</b>\n• SSH access to machines behind NAT/firewalls\n• Minimal rendezvous server architecture\n• No VPN setup required\n• Works with standard `ssh` command (ProxyCommand)\n• Built-in Go SSH client\n<br>\n📖 <b>Summary:</b>\nmssh is a Go-based tool that enables SSH access to machines located behind NAT or firewalls. It uses a minimal rendezvous server to facilitate connections, eliminating the need for complex VPN setups and working seamlessly with the standard `ssh` command.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/eznix86/mssh?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/905367b66f340ad4bcc715a3675e808cb035a6984924a41a695df06865fcafec/eznix86/mssh",
-        "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 489889160,
-        "content": "🔥 <b>pointless</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA simple, distraction-free digital whiteboard or note-taking application with an infinite canvas for creative or organizational tasks.\n<br>\n✨ <b>Key Features:</b>\n• Endless drawing canvas\n• SVG canvas\n• Local file state persistence\n• Brotli-unicode compression for small file sizes\n• Export to PNG, JPEG, SVG\n<br>\n📖 <b>Summary:</b>\nPointless is a cross-platform desktop application for drawing and note-taking, built with Tauri and React. It offers an infinite canvas with features like shape creation, undo/redo, and local file persistence, saving data with brotli-unicode compression for small file sizes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kkoomen/pointless?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/489889160/2cc26aae-fbf9-4a74-b963-e8c693eeb7df",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 90356372,
-        "content": "💡 <b>ArchiveBox</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide individuals and organizations with a self-hosted, robust solution for preserving digital content from the web in a reliable and accessible manner.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted web archiving\n• Supports multiple input sources (URLs, bookmarks, Pocket, Pinboard, browser history)\n• Saves content in various formats (HTML, JS, PDFs, media, WARC, SQLite, JSON)\n• Provides CLI, REST API, and webhooks for integrations\n<br>\n📖 <b>Summary:</b>\nArchiveBox is an open-source, self-hosted web archiving solution that captures and preserves digital content from various sources. It saves web pages, media, and other online data in durable, readable formats, making it accessible for long-term storage and future use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ArchiveBox/ArchiveBox?embed=0\">View Project</a>\n• <a href=\"https://archivebox.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/90356372/6ce4d400-6129-11e9-9898-707bd6d5df76",
+        "project_id": 409653223,
+        "content": "🚀 <b>nixtla</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nTime series forecasting and anomaly detection\n<br>\n✨ <b>Key Features:</b>\n• Production-ready generative pretrained transformer for time series\n• Forecasting capabilities\n• Anomaly detection capabilities\n• Zero-shot inference\n• Support for multiple programming languages via API\n<br>\n📖 <b>Summary:</b>\nTimeGPT-1 is a production-ready, pre-trained transformer model for time series analysis. It excels at forecasting and anomaly detection across diverse domains like retail, electricity, and finance, requiring minimal code for accurate predictions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Nixtla/nixtla?embed=0\">View Project</a>\n• <a href=\"https://www.nixtla.io/docs?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3b602875bb094355b0824470aa575b6fe6aefc7785759843aa5d052036f973c2/Nixtla/nixtla",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 540842713,
-        "content": "✨ <b>buzz</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nOffline audio and video transcription and translation on a personal computer.\n<br>\n✨ <b>Key Features:</b>\n• Offline audio and video transcription and translation\n• Live microphone transcription with presentation window\n• Speech separation and speaker identification\n• Multiple Whisper backend support (CUDA, Apple Silicon, Vulkan)\n• Export transcripts to TXT, SRT, VTT\n<br>\n📖 <b>Summary:</b>\nBuzz is a desktop application that transcribes and translates audio and video files offline on your personal computer. It leverages OpenAI's Whisper model and offers various features for enhanced transcription accuracy and user experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/chidiwilliams/buzz?embed=0\">View Project</a>\n• <a href=\"https://chidiwilliams.github.io/buzz?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/00a667a49b142f22eddebefe71c2dc1f36c23ca68fb326dd63d4289e970a4a4d/chidiwilliams/buzz",
+        "project_id": 1097654343,
+        "content": "✨ <b>freecut</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a professional, feature-rich video editing experience directly in the web browser, accessible to anyone without installation or complex setup.\n<br>\n✨ <b>Key Features:</b>\n• Browser-based multi-track video editing\n• No installation required\n• Local editing using WebCodecs, OPFS, File System Access API\n• Multi-track timeline (video, audio, text, image, shape)\n<br>\n📖 <b>Summary:</b>\nFreeCut is a powerful, open-source video editor that runs entirely within your web browser. It offers professional-grade features like multi-track editing, keyframe animation, and real-time preview, all without requiring any installation or server-side processing, leveraging modern web APIs for local editing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/walterlow/freecut?embed=0\">View Project</a>\n• <a href=\"https://freecut-sandy.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d0da150bece7060659db40648dc191e55e2869db8af2426e5ce3bf255063035b/walterlow/freecut",
         "platform": "telegram",
-        "quality_score": 1.1000000000000003
+        "quality_score": 1.0
     },
     {
-        "project_id": 1154626321,
-        "content": "💡 <b>discord-id-bypass-tool</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nBypassing Discord verification by simulating live avatar input.\n<br>\n✨ <b>Key Features:</b>\n• Browser-based tool\n• Real-time 3D avatar head and mouth control\n• Gamepad and keyboard support\n• VRM, FBX, GLB/GLTF model support\n• Automatic bone detection\n<br>\n📖 <b>Summary:</b>\nThis repository provides a browser-based tool to control a 3D avatar's head and mouth movements in real-time using a gamepad or keyboard. It aims to bypass Discord's verification process by simulating live human input with a rigged avatar.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/promptpirate-x/discord-id-bypass-tool?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/83f8e11cc8c66209992125577f68c8ed075d7830767fbd2b940e56ef5af1088f/promptpirate-x/discord-id-bypass-tool",
+        "project_id": 881755123,
+        "content": "✨ <b>bg-remove</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRemoving image backgrounds directly in the user's browser for privacy and speed.\n<br>\n✨ <b>Key Features:</b>\n• One-click background removal\n• Custom background color and image selection\n• Download options for transparent and colored backgrounds\n• Local processing (no server uploads)\n• Privacy-focused\n<br>\n📖 <b>Summary:</b>\nThis repository provides a client-side, privacy-focused web application for removing backgrounds from images using machine learning models powered by Transformers.js. It offers one-click removal, custom background options, and local processing without server uploads, with optional WebGPU acceleration for enhanced performance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/addyosmani/bg-remove?embed=0\">View Project</a>\n• <a href=\"https://bg.addy.ie?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d4aaac157bac19a75482ff9297d163fe81c8a85df277b1d455e75783a5fcc0d8/addyosmani/bg-remove",
         "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 0.45
+    },
+    {
+        "project_id": 195263280,
+        "content": "🚀 <b>ArrowDL</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nDownloading various types of web content, including videos, torrents, and batch files, through a dedicated download manager application with browser integration.\n<br>\n✨ <b>Key Features:</b>\n• Standalone download manager for Windows, MacOS, and Linux\n• WebExtensions support for Mozilla Firefox and other browsers\n• Embedded web engine (Google Gumbo Parser or Chromium)\n• Parses HTML to collect links\n• Supports torrents, YouTube, and batch downloads\n<br>\n📖 <b>Summary:</b>\nArrowDL is a cross-platform download manager for Windows, macOS, and Linux, designed to efficiently download various types of content from the web. It integrates with web browsers via extensions and features an embedded web engine for independent operation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/setvisible/ArrowDL?embed=0\">View Project</a>\n• <a href=\"https://www.arrow-dl.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7a22bc2ef3cb3b769bdbe154962d0d2a992b84dec319d56615206adc6b180404/setvisible/ArrowDL",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 695473735,
+        "content": "💡 <b>daktilo</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a nostalgic and engaging typing experience by simulating typewriter sounds through a command-line interface.\n<br>\n✨ <b>Key Features:</b>\n• Plays typewriter sounds on keypress\n• Customizable sound presets\n• Command-line interface\n• Built-in sound presets (default, basic, musicbox, ducktilo, drumkit, spark)\n• Support for custom sound presets\n<br>\n📖 <b>Summary:</b>\nDaktilo is a Rust-based command-line tool that emulates the sound of a typewriter with every keystroke. It offers various sound presets and allows for custom sound configurations to enhance the typing experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/orhun/daktilo?embed=0\">View Project</a>\n• <a href=\"https://daktilo.cli.rs/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/695473735/cdc55c61-44d3-4428-a677-0a4f1700cc01",
+        "platform": "telegram",
+        "quality_score": 0.85
     }
 ]
