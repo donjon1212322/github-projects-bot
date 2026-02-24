@@ -1,44 +1,30 @@
 [
     {
-        "project_id": 1115161703,
-        "content": "🌟 <b>gogcli</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and automating Google Workspace services directly from the command line.\n<br>\n✨ <b>Key Features:</b>\n• Gmail management (search, send, labels, etc.)\n• Calendar event management (create, update, conflicts, etc.)\n• Drive file management (list, search, upload, download, permissions)\n• Contacts management (search, create, update)\n• Tasks management (tasklists, tasks)\n<br>\n📖 <b>Summary:</b>\ngogcli is a fast, script-friendly command-line interface for managing various Google Workspace services, including Gmail, Calendar, Drive, and more. It offers JSON-first output, support for multiple accounts, and secure credential management, making it ideal for automation and terminal-based workflows.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/steipete/gogcli?embed=0\">View Project</a>\n• <a href=\"https://gogcli.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/134c93e68a2d2eb40849cf3a6b108fc58ac388a4be84f7dbf1f567adee954fcf/steipete/gogcli",
+        "project_id": 1025738262,
+        "content": "🚀 <b>nyx</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nCleaning forensic traces and sensitive data from operating systems to enhance privacy and security.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform support (Linux, macOS, Windows)\n• Comprehensive artifact cleaning (shell history, logs, network, user data, browsers, applications)\n• Modular design for targeted cleaning\n• Self-contained script for ease of use\n• Alpha software with ongoing development\n<br>\n📖 <b>Summary:</b>\nNyx is a self-contained shell script designed to clean forensic traces across Linux, macOS, and Windows operating systems. It systematically removes artifacts related to shell history, logs, network activity, user data, browsers, and various applications to help maintain system privacy and security.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/evilsocket/nyx?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ebafa55160915d71aebdefed3c8f8c3af068bb85e204791379506d9d7ea4f51c/evilsocket/nyx",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.35
     },
     {
-        "project_id": 875146326,
-        "content": "✨ <b>portabase</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying and automating database backups and restorations for various database engines in a self-hosted environment.\n<br>\n✨ <b>Key Features:</b>\n• Database backup and restore tool\n• Supports PostgreSQL, MySQL/MariaDB, MongoDB\n• Web UI for management\n• Integrates with Portabase agents for secure operations\n• Self-hosted and open-source\n<br>\n📖 <b>Summary:</b>\nPortabase is a self-hosted, open-source tool designed to simplify database backup and restoration for PostgreSQL, MySQL/MariaDB, and MongoDB. It leverages a web UI and integrates with agents for secure and efficient operations, making database management accessible for developers and DevOps professionals.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Portabase/portabase?embed=0\">View Project</a>\n• <a href=\"https://portabase.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e8019aa6875c1a06235f627e741716087a9341862c4f9d6156f220ab06eed9cc/Portabase/portabase",
+        "project_id": 1084579793,
+        "content": "🔥 <b>ShizuWall</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with granular control over application network access on Android devices without requiring root privileges or a VPN connection, enhancing privacy and reducing data usage.\n<br>\n✨ <b>Key Features:</b>\n• No root or VPN required\n• Per-app system networking control\n• Privacy-first design\n• Leverages Shizuku or local ADB daemon\n<br>\n📖 <b>Summary:</b>\nShizuWall is a lightweight Android firewall application that allows users to block network connections for specific apps without needing root access or a VPN. It utilizes the Shizuku service or a local ADB daemon to manage network permissions on a per-app basis, offering a privacy-focused solution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AhmetCanArslan/ShizuWall?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d08e9b4cbdd3895450de68bcbfeeeca189e4dccf157d49b10caa8ae6d468ba12/AhmetCanArslan/ShizuWall",
+        "platform": "telegram",
+        "quality_score": 0.5499999999999999
+    },
+    {
+        "project_id": 599778152,
+        "content": "🌟 <b>dline</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging personal schedules and important dates directly within the terminal environment.\n<br>\n✨ <b>Key Features:</b>\n• Dynamic calendar view with color-coded events and filtering\n• Static monthly calendar view\n• Event calculator for workdays and timespans\n• Calendar data management (add, delete, update, import, export)\n• Support for multiple calendars and public holidays\n<br>\n📖 <b>Summary:</b>\ndLine is a command-line calendar tool designed for terminal enthusiasts. It allows users to view monthly calendars, track events, calculate timespans between dates, and manage multiple calendar datasets directly from their terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jazz-it/dline?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/60808bbd45685a63e920ba1aaa65a27d591c107f3188b34e760cfa284d3bfd24/jazz-it/dline",
+        "platform": "telegram",
+        "quality_score": 0.35
+    },
+    {
+        "project_id": 305793798,
+        "content": "🔥 <b>sablier</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo reduce resource consumption and operational costs by automatically managing the lifecycle of containerized applications, ensuring they are only active when actively being used.\n<br>\n✨ <b>Key Features:</b>\n• Starts containers on demand\n• Automatically shuts down inactive containers\n• Docker, Docker Swarm Mode, and Kubernetes compatible\n<br>\n📖 <b>Summary:</b>\nSablier is an open-source tool designed to manage containerized workloads by starting them only when needed and automatically shutting them down after a period of inactivity. It integrates with various reverse proxies and orchestration platforms like Docker, Docker Swarm, and Kubernetes to optimize resource usage.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sablierapp/sablier?embed=0\">View Project</a>\n• <a href=\"https://sablierapp.dev/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/305793798/8f513c66-9139-4da6-9c9d-dff9d63810d4",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 677526746,
-        "content": "💡 <b>geoai</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nApplying state-of-the-art deep learning models to geospatial data for analysis and visualization, accessible through Python and a QGIS plugin.\n<br>\n✨ <b>Key Features:</b>\n• Interactive and programmatic search and download of remote sensing imagery and geospatial data\n• Automated dataset preparation with image chips and label generation\n• Model training for classification, detection, and segmentation\n<br>\n📖 <b>Summary:</b>\nGeoAI is a Python package that integrates artificial intelligence with geospatial data analysis. It provides tools for processing satellite imagery and vector data, training AI models for tasks like segmentation and classification, and visualizing results, with seamless integration into QGIS.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/opengeos/geoai?embed=0\">View Project</a>\n• <a href=\"https://opengeoai.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0c62d01e969f1293d1cc279e54caae1a68289a09239782f7299db1685ec5c260/opengeos/geoai",
-        "platform": "telegram",
-        "quality_score": 0.8499999999999999
-    },
-    {
-        "project_id": 1048895278,
-        "content": "🌟 <b>eclaire</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a private, self-hosted AI assistant that can intelligently organize, search, and automate tasks across a user's diverse personal data without relying on cloud services.\n<br>\n✨ <b>Key Features:</b>\n• Local-first and self-hosted AI assistant\n• Unifies diverse data types (tasks, notes, docs, photos, bookmarks)\n• Privacy-focused with local models and data storage\n<br>\n📖 <b>Summary:</b>\nEclaire is a self-hosted, local-first AI assistant designed to unify and process personal data, including tasks, notes, documents, photos, and bookmarks. It prioritizes privacy and extensibility, allowing users to run it entirely on their own hardware with local models and data storage.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/eclaire-labs/eclaire?embed=0\">View Project</a>\n• <a href=\"https://eclaire.co?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/189a3d4a0b08aaa443ca160e2155734cdd03e04a7dab11686e68bf77e3a9083c/eclaire-labs/eclaire",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 1062924394,
-        "content": "🚀 <b>dockmon</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring and managing Docker containers across multiple hosts with automated restart and alerting capabilities.\n<br>\n✨ <b>Key Features:</b>\n• Multi-Host Monitoring\n• Agent-Based Remote Monitoring\n• Real-Time Dashboard\n• Real-Time Statistics\n• Real-Time Container Logs\n<br>\n📖 <b>Summary:</b>\nDockMon is a comprehensive platform for monitoring and managing Docker containers. It offers real-time insights, automated recovery, and multi-channel alerts for containerized applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/darthnorse/dockmon?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d269104678360b8e4c5da0315a661307036d2baf82c3240f8e6ea7857b522014/darthnorse/dockmon",
-        "platform": "telegram",
-        "quality_score": 0.7499999999999999
-    },
-    {
-        "project_id": 1080664979,
-        "content": "🚀 <b>face_looker</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating interactive and engaging UI elements, such as portfolio headers or avatars, where a face image appears to follow the user's cursor.\n<br>\n✨ <b>Key Features:</b>\n• Generate AI-powered face images with varying gaze directions\n• Create a sprite/grid sheet of all generated faces\n• Interactive React hook to make faces follow cursor\n• Option to use Replicate model for easy generation\n• Option to use Python script for advanced control over generation\n<br>\n📖 <b>Summary:</b>\nFace Looker is a project that generates AI-powered gaze-tracking face images and provides an interactive React component to display them. It allows users to create engaging UI elements where a face image dynamically follows the cursor's position.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kylan02/face_looker?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ae3d15388a098bf851de64e0135a894958941f3c75250f0b82b5ff1b9888cfd7/kylan02/face_looker",
-        "platform": "telegram",
-        "quality_score": 0.5
     }
 ]
