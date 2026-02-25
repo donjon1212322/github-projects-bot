@@ -1,30 +1,44 @@
 [
     {
-        "project_id": 1025738262,
-        "content": "🚀 <b>nyx</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nCleaning forensic traces and sensitive data from operating systems to enhance privacy and security.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform support (Linux, macOS, Windows)\n• Comprehensive artifact cleaning (shell history, logs, network, user data, browsers, applications)\n• Modular design for targeted cleaning\n• Self-contained script for ease of use\n• Alpha software with ongoing development\n<br>\n📖 <b>Summary:</b>\nNyx is a self-contained shell script designed to clean forensic traces across Linux, macOS, and Windows operating systems. It systematically removes artifacts related to shell history, logs, network activity, user data, browsers, and various applications to help maintain system privacy and security.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/evilsocket/nyx?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ebafa55160915d71aebdefed3c8f8c3af068bb85e204791379506d9d7ea4f51c/evilsocket/nyx",
+        "project_id": 907990001,
+        "content": "🌟 <b>fresh</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a powerful, fast, and user-friendly text editing experience directly within the terminal, suitable for developers who prefer a terminal-based workflow or need to handle large files efficiently.\n<br>\n✨ <b>Key Features:</b>\n• Zero configuration\n• Familiar keybindings\n• Mouse support\n• IDE-level features\n• Command Palette & Fuzzy Finder\n<br>\n📖 <b>Summary:</b>\nFresh is a modern, full-featured text editor designed for the terminal, offering IDE-level features like multi-cursor editing, a command palette, and LSP support with zero configuration. It prioritizes performance, handling large files efficiently and providing a familiar user experience akin to graphical editors.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sinelaw/fresh?embed=0\">View Project</a>\n• <a href=\"https://getfresh.dev/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/907990001/dc5c6a32-2632-4ac2-84aa-bb7c4945dd9e",
         "platform": "telegram",
-        "quality_score": 0.35
+        "quality_score": 0.85
     },
     {
-        "project_id": 1084579793,
-        "content": "🔥 <b>ShizuWall</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with granular control over application network access on Android devices without requiring root privileges or a VPN connection, enhancing privacy and reducing data usage.\n<br>\n✨ <b>Key Features:</b>\n• No root or VPN required\n• Per-app system networking control\n• Privacy-first design\n• Leverages Shizuku or local ADB daemon\n<br>\n📖 <b>Summary:</b>\nShizuWall is a lightweight Android firewall application that allows users to block network connections for specific apps without needing root access or a VPN. It utilizes the Shizuku service or a local ADB daemon to manage network permissions on a per-app basis, offering a privacy-focused solution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AhmetCanArslan/ShizuWall?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d08e9b4cbdd3895450de68bcbfeeeca189e4dccf157d49b10caa8ae6d468ba12/AhmetCanArslan/ShizuWall",
-        "platform": "telegram",
-        "quality_score": 0.5499999999999999
-    },
-    {
-        "project_id": 599778152,
-        "content": "🌟 <b>dline</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging personal schedules and important dates directly within the terminal environment.\n<br>\n✨ <b>Key Features:</b>\n• Dynamic calendar view with color-coded events and filtering\n• Static monthly calendar view\n• Event calculator for workdays and timespans\n• Calendar data management (add, delete, update, import, export)\n• Support for multiple calendars and public holidays\n<br>\n📖 <b>Summary:</b>\ndLine is a command-line calendar tool designed for terminal enthusiasts. It allows users to view monthly calendars, track events, calculate timespans between dates, and manage multiple calendar datasets directly from their terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jazz-it/dline?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/60808bbd45685a63e920ba1aaa65a27d591c107f3188b34e760cfa284d3bfd24/jazz-it/dline",
-        "platform": "telegram",
-        "quality_score": 0.35
-    },
-    {
-        "project_id": 305793798,
-        "content": "🔥 <b>sablier</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo reduce resource consumption and operational costs by automatically managing the lifecycle of containerized applications, ensuring they are only active when actively being used.\n<br>\n✨ <b>Key Features:</b>\n• Starts containers on demand\n• Automatically shuts down inactive containers\n• Docker, Docker Swarm Mode, and Kubernetes compatible\n<br>\n📖 <b>Summary:</b>\nSablier is an open-source tool designed to manage containerized workloads by starting them only when needed and automatically shutting them down after a period of inactivity. It integrates with various reverse proxies and orchestration platforms like Docker, Docker Swarm, and Kubernetes to optimize resource usage.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sablierapp/sablier?embed=0\">View Project</a>\n• <a href=\"https://sablierapp.dev/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/305793798/8f513c66-9139-4da6-9c9d-dff9d63810d4",
+        "project_id": 1119585052,
+        "content": "✨ <b>intercept</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a comprehensive and integrated platform for signal intelligence (SIGINT) gathering, analysis, and decoding using various software-defined radio (SDR) and related tools.\n<br>\n✨ <b>Key Features:</b>\n• Pager Decoding (POCSAG/FLEX)\n• 433MHz Sensor Decoding (rtl_433)\n• Sub-GHz RF Analysis (HackRF)\n• Aircraft Tracking (ADS-B)\n• Vessel Tracking (AIS)\n<br>\n📖 <b>Summary:</b>\niNTERCEPT is an open-source, web-based platform that integrates a wide array of signal intelligence tools into a unified interface. It supports various signal decoding, tracking, and analysis functionalities, making advanced SIGINT capabilities accessible.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/smittix/intercept?embed=0\">View Project</a>\n• <a href=\"https://smittix.github.io/intercept/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/afa33608f27ed4842bc33bc1ccfac5449c54aae4415e67878e9a4955ce70ec45/smittix/intercept",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 924637527,
+        "content": "🚀 <b>zen</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA self-hosted, private note-taking and knowledge management application.\n<br>\n✨ <b>Key Features:</b>\n• Single Go binary or Docker Compose\n• Low resource usage\n• Standard Markdown files, local SQLite database\n• Organize with flexible tags\n• Full-text search with BM25 ranking\n<br>\n📖 <b>Summary:</b>\nZen is a self-hosted notes application that stores notes as Markdown files in a local SQLite database. It offers features like full-text search, flexible tagging, and data portability, all within a single, low-resource binary or Docker container.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sheshbabu/zen?embed=0\">View Project</a>\n• <a href=\"https://www.sheshbabu.com/zen/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/924637527/b8017903-ecbc-4421-83f5-eb15e07f1f8e",
+        "platform": "telegram",
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 624557411,
+        "content": "🚀 <b>Jauth</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSecuring and managing access to self-hosted applications through a lightweight reverse proxy with flexible authorization methods.\n<br>\n✨ <b>Key Features:</b>\n• Single binary executable\n• SSL/TLS encryption (self-signed or Let's Encrypt)\n• User authorization via SSH or Telegram\n• Optional Single Sign-On\n• Whitelist-based access control\n<br>\n📖 <b>Summary:</b>\nJauth is a Go-based, lightweight SSL/TLS reverse proxy designed to secure self-hosted applications. It provides authorization through SSH or Telegram and supports Single Sign-On (SSO), simplifying access management for internal services.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Jipok/Jauth?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ee52a6b7399c69ad089c011a0fe3c3baee6e5a1ce7eaaf2954244ec3d0df95cd/Jipok/Jauth",
+        "platform": "telegram",
+        "quality_score": 0.25
+    },
+    {
+        "project_id": 165047811,
+        "content": "🌟 <b>GitJournal</b> | Dart\n<br>\n🎯 <b>Primary Use Case:</b>\nA private and portable note-taking solution integrated with Git for version control and flexible hosting.\n<br>\n✨ <b>Key Features:</b>\n• Mobile-first note taking\n• Stores notes in Git repositories\n• Uses Markdown + YAML header format\n• Supports GitHub, GitLab, and custom Git providers\n• Focus on privacy and data portability\n<br>\n📖 <b>Summary:</b>\nGitJournal is a mobile-first note-taking application that prioritizes privacy and data portability by storing notes in a standardized Markdown format within a Git repository. Users can choose to self-host their notes or use various Git providers like GitHub and GitLab.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/GitJournal/GitJournal?embed=0\">View Project</a>\n• <a href=\"https://gitjournal.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/165047811/99dc4400-f699-11ea-989c-2231eced9412",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 1012666054,
+        "content": "🌟 <b>Monic</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nControlling external monitor settings (brightness, volume, input) directly from the system tray on Linux.\n<br>\n✨ <b>Key Features:</b>\n• Brightness control with smooth animation\n• Volume control for built-in monitor speakers\n• Input source switching\n• Multiple monitor support\n• System tray interface\n<br>\n📖 <b>Summary:</b>\nMonic is a Python-based utility for Linux that provides system tray control over external monitor settings like brightness, volume, and input source. It features smooth animations for brightness changes and supports multiple monitors with an automatic update mechanism.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Toxblh/Monic?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/2058301b6a5ff687f9322001323985089f19657b0738bb49801154a376af0552/Toxblh/Monic",
+        "platform": "telegram",
+        "quality_score": 0.15
     }
 ]
