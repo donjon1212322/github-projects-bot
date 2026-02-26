@@ -1,44 +1,37 @@
 [
     {
-        "project_id": 907990001,
-        "content": "🌟 <b>fresh</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a powerful, fast, and user-friendly text editing experience directly within the terminal, suitable for developers who prefer a terminal-based workflow or need to handle large files efficiently.\n<br>\n✨ <b>Key Features:</b>\n• Zero configuration\n• Familiar keybindings\n• Mouse support\n• IDE-level features\n• Command Palette & Fuzzy Finder\n<br>\n📖 <b>Summary:</b>\nFresh is a modern, full-featured text editor designed for the terminal, offering IDE-level features like multi-cursor editing, a command palette, and LSP support with zero configuration. It prioritizes performance, handling large files efficiently and providing a familiar user experience akin to graphical editors.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sinelaw/fresh?embed=0\">View Project</a>\n• <a href=\"https://getfresh.dev/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/907990001/dc5c6a32-2632-4ac2-84aa-bb7c4945dd9e",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1119585052,
-        "content": "✨ <b>intercept</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a comprehensive and integrated platform for signal intelligence (SIGINT) gathering, analysis, and decoding using various software-defined radio (SDR) and related tools.\n<br>\n✨ <b>Key Features:</b>\n• Pager Decoding (POCSAG/FLEX)\n• 433MHz Sensor Decoding (rtl_433)\n• Sub-GHz RF Analysis (HackRF)\n• Aircraft Tracking (ADS-B)\n• Vessel Tracking (AIS)\n<br>\n📖 <b>Summary:</b>\niNTERCEPT is an open-source, web-based platform that integrates a wide array of signal intelligence tools into a unified interface. It supports various signal decoding, tracking, and analysis functionalities, making advanced SIGINT capabilities accessible.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/smittix/intercept?embed=0\">View Project</a>\n• <a href=\"https://smittix.github.io/intercept/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/afa33608f27ed4842bc33bc1ccfac5449c54aae4415e67878e9a4955ce70ec45/smittix/intercept",
+        "project_id": 1041543426,
+        "content": "🚀 <b>whosthere</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDiscovering and visualizing devices on a local area network through an interactive terminal interface.\n<br>\n✨ <b>Key Features:</b>\n• Interactive TUI\n• Fast & Concurrent scanning\n• No Elevated Privileges Required\n• Device Enrichment (OUI lookup)\n• Integrated Port Scanner\n<br>\n📖 <b>Summary:</b>\nWhosthere is a Go-based Local Area Network discovery tool that uses an interactive Terminal User Interface (TUI) to help users understand their network. It employs multiple unprivileged scanning techniques like mDNS, SSDP, and ARP cache analysis, enriching discovered devices with manufacturer information (OUI lookups).\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ramonvermeulen/whosthere?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d70c74c45fd46f19d69e60640e794ca64ed7876a7720bcc2c882401916507bc8/ramonvermeulen/whosthere",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 924637527,
-        "content": "🚀 <b>zen</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA self-hosted, private note-taking and knowledge management application.\n<br>\n✨ <b>Key Features:</b>\n• Single Go binary or Docker Compose\n• Low resource usage\n• Standard Markdown files, local SQLite database\n• Organize with flexible tags\n• Full-text search with BM25 ranking\n<br>\n📖 <b>Summary:</b>\nZen is a self-hosted notes application that stores notes as Markdown files in a local SQLite database. It offers features like full-text search, flexible tagging, and data portability, all within a single, low-resource binary or Docker container.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sheshbabu/zen?embed=0\">View Project</a>\n• <a href=\"https://www.sheshbabu.com/zen/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/924637527/b8017903-ecbc-4421-83f5-eb15e07f1f8e",
+        "project_id": 1060712801,
+        "content": "🚀 <b>homehub</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a centralized, private, and easy-to-use dashboard for families to manage various daily utilities and information on their home network.\n<br>\n✨ <b>Key Features:</b>\n• Shared Notes\n• Shared Cloud (File Upload/Sharing)\n• Shopping List with history suggestions\n• Chore Tracker\n• Calendar & Reminders\n<br>\n📖 <b>Summary:</b>\nHomeHub is a private, self-hosted, and lightweight web application designed to centralize family utilities. It offers a no-login, Progressive Web App (PWA) experience for managing shared notes, shopping lists, chores, media downloads, and more, all within your home network.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/surajverma/homehub?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f00b8d2c568ee5c596304f7d0a44a71fd20602faf9ae3fe960d107ff6e2a3ee9/surajverma/homehub",
         "platform": "telegram",
         "quality_score": 0.75
     },
     {
-        "project_id": 624557411,
-        "content": "🚀 <b>Jauth</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSecuring and managing access to self-hosted applications through a lightweight reverse proxy with flexible authorization methods.\n<br>\n✨ <b>Key Features:</b>\n• Single binary executable\n• SSL/TLS encryption (self-signed or Let's Encrypt)\n• User authorization via SSH or Telegram\n• Optional Single Sign-On\n• Whitelist-based access control\n<br>\n📖 <b>Summary:</b>\nJauth is a Go-based, lightweight SSL/TLS reverse proxy designed to secure self-hosted applications. It provides authorization through SSH or Telegram and supports Single Sign-On (SSO), simplifying access management for internal services.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Jipok/Jauth?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ee52a6b7399c69ad089c011a0fe3c3baee6e5a1ce7eaaf2954244ec3d0df95cd/Jipok/Jauth",
+        "project_id": 108133682,
+        "content": "🔥 <b>cyberpanel</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nWeb hosting management and server administration.\n<br>\n✨ <b>Key Features:</b>\n• Auto SSL\n• FTP Server\n• Light-weight DNS Server (PowerDNS)\n• phpMyAdmin\n• Email Support (SnappyMail)\n<br>\n📖 <b>Summary:</b>\nCyberPanel is a web hosting control panel powered by OpenLiteSpeed, designed to simplify server and website management. It offers a wide range of features for managing domains, emails, databases, security, and PHP versions, making it a comprehensive solution for hosting providers and developers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/usmannasir/cyberpanel?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/108133682/67fac200-785d-11ea-86af-231457af80e2",
         "platform": "telegram",
-        "quality_score": 0.25
+        "quality_score": 0.85
     },
     {
-        "project_id": 165047811,
-        "content": "🌟 <b>GitJournal</b> | Dart\n<br>\n🎯 <b>Primary Use Case:</b>\nA private and portable note-taking solution integrated with Git for version control and flexible hosting.\n<br>\n✨ <b>Key Features:</b>\n• Mobile-first note taking\n• Stores notes in Git repositories\n• Uses Markdown + YAML header format\n• Supports GitHub, GitLab, and custom Git providers\n• Focus on privacy and data portability\n<br>\n📖 <b>Summary:</b>\nGitJournal is a mobile-first note-taking application that prioritizes privacy and data portability by storing notes in a standardized Markdown format within a Git repository. Users can choose to self-host their notes or use various Git providers like GitHub and GitLab.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/GitJournal/GitJournal?embed=0\">View Project</a>\n• <a href=\"https://gitjournal.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/165047811/99dc4400-f699-11ea-989c-2231eced9412",
+        "project_id": 11344209,
+        "content": "🔥 <b>openlitespeed</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nServing web content efficiently and at high speeds.\n<br>\n✨ <b>Key Features:</b>\n• High-performance HTTP server\n• Lightweight\n• Open source\n• GPLv3 license\n• Developed by LiteSpeed Technologies\n<br>\n📖 <b>Summary:</b>\nOpenLiteSpeed is a high-performance, lightweight, open-source HTTP server developed by LiteSpeed Technologies. It is distributed under the GPLv3 license and offers robust web serving capabilities with a focus on speed and efficiency.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/litespeedtech/openlitespeed?embed=0\">View Project</a>\n• <a href=\"https://openlitespeed.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/11344209/eb776f00-6cee-11e9-853e-de36aa29c39f",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.6
     },
     {
-        "project_id": 1012666054,
-        "content": "🌟 <b>Monic</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nControlling external monitor settings (brightness, volume, input) directly from the system tray on Linux.\n<br>\n✨ <b>Key Features:</b>\n• Brightness control with smooth animation\n• Volume control for built-in monitor speakers\n• Input source switching\n• Multiple monitor support\n• System tray interface\n<br>\n📖 <b>Summary:</b>\nMonic is a Python-based utility for Linux that provides system tray control over external monitor settings like brightness, volume, and input source. It features smooth animations for brightness changes and supports multiple monitors with an automatic update mechanism.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Toxblh/Monic?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2058301b6a5ff687f9322001323985089f19657b0738bb49801154a376af0552/Toxblh/Monic",
+        "project_id": 244694886,
+        "content": "🌟 <b>nightingale</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a powerful and flexible alerting engine for monitoring systems, processing and distributing alarms effectively, and integrating with existing data sources and visualization tools.\n<br>\n✨ <b>Key Features:</b>\n• Open-source alerting expert\n• Connects with various data sources (VictoriaMetrics, ElasticSearch, etc.)\n• Configurable alerting and notification rules\n<br>\n📖 <b>Summary:</b>\nNightingale is an open-source alerting system designed to work with existing data sources, focusing on processing and distributing alarms. It complements visualization tools like Grafana by providing a robust alerting engine and supports distributed deployments for resilience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ccfos/nightingale?embed=0\">View Project</a>\n• <a href=\"https://n9e.github.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/2bd0bc747b45ec2878b1e4645169d02604cfa40749e913f42d0e6a21aa13c6d3/ccfos/nightingale",
         "platform": "telegram",
-        "quality_score": 0.15
+        "quality_score": 0.85
     }
 ]
