@@ -1,37 +1,16 @@
 [
     {
-        "project_id": 1041543426,
-        "content": "🚀 <b>whosthere</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDiscovering and visualizing devices on a local area network through an interactive terminal interface.\n<br>\n✨ <b>Key Features:</b>\n• Interactive TUI\n• Fast & Concurrent scanning\n• No Elevated Privileges Required\n• Device Enrichment (OUI lookup)\n• Integrated Port Scanner\n<br>\n📖 <b>Summary:</b>\nWhosthere is a Go-based Local Area Network discovery tool that uses an interactive Terminal User Interface (TUI) to help users understand their network. It employs multiple unprivileged scanning techniques like mDNS, SSDP, and ARP cache analysis, enriching discovered devices with manufacturer information (OUI lookups).\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ramonvermeulen/whosthere?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d70c74c45fd46f19d69e60640e794ca64ed7876a7720bcc2c882401916507bc8/ramonvermeulen/whosthere",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 1060712801,
-        "content": "🚀 <b>homehub</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a centralized, private, and easy-to-use dashboard for families to manage various daily utilities and information on their home network.\n<br>\n✨ <b>Key Features:</b>\n• Shared Notes\n• Shared Cloud (File Upload/Sharing)\n• Shopping List with history suggestions\n• Chore Tracker\n• Calendar & Reminders\n<br>\n📖 <b>Summary:</b>\nHomeHub is a private, self-hosted, and lightweight web application designed to centralize family utilities. It offers a no-login, Progressive Web App (PWA) experience for managing shared notes, shopping lists, chores, media downloads, and more, all within your home network.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/surajverma/homehub?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f00b8d2c568ee5c596304f7d0a44a71fd20602faf9ae3fe960d107ff6e2a3ee9/surajverma/homehub",
-        "platform": "telegram",
-        "quality_score": 0.75
-    },
-    {
-        "project_id": 108133682,
-        "content": "🔥 <b>cyberpanel</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nWeb hosting management and server administration.\n<br>\n✨ <b>Key Features:</b>\n• Auto SSL\n• FTP Server\n• Light-weight DNS Server (PowerDNS)\n• phpMyAdmin\n• Email Support (SnappyMail)\n<br>\n📖 <b>Summary:</b>\nCyberPanel is a web hosting control panel powered by OpenLiteSpeed, designed to simplify server and website management. It offers a wide range of features for managing domains, emails, databases, security, and PHP versions, making it a comprehensive solution for hosting providers and developers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/usmannasir/cyberpanel?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/108133682/67fac200-785d-11ea-86af-231457af80e2",
+        "project_id": 968390577,
+        "content": "✨ <b>voidauth</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a centralized, secure, and user-friendly Single Sign-On (SSO) solution for managing access to multiple self-hosted applications.\n<br>\n✨ <b>Key Features:</b>\n• OpenID Connect (OIDC) Provider\n• Proxy ForwardAuth\n• User and Groups Management\n• User Self-Registration and Invitations\n• Customizable UI and Email Templates\n<br>\n📖 <b>Summary:</b>\nVoidAuth is an open-source Single Sign-On (SSO) solution designed for self-hosted applications. It acts as a central authentication provider using OpenID Connect (OIDC) and Proxy ForwardAuth, simplifying user management and enhancing security for a personal digital universe.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/voidauth/voidauth?embed=0\">View Project</a>\n• <a href=\"http://voidauth.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/968390577/0e7f41a9-1f65-435c-96f3-489a5d20f422",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 11344209,
-        "content": "🔥 <b>openlitespeed</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nServing web content efficiently and at high speeds.\n<br>\n✨ <b>Key Features:</b>\n• High-performance HTTP server\n• Lightweight\n• Open source\n• GPLv3 license\n• Developed by LiteSpeed Technologies\n<br>\n📖 <b>Summary:</b>\nOpenLiteSpeed is a high-performance, lightweight, open-source HTTP server developed by LiteSpeed Technologies. It is distributed under the GPLv3 license and offers robust web serving capabilities with a focus on speed and efficiency.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/litespeedtech/openlitespeed?embed=0\">View Project</a>\n• <a href=\"https://openlitespeed.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/11344209/eb776f00-6cee-11e9-853e-de36aa29c39f",
+        "project_id": 478269472,
+        "content": "🚀 <b>lodestone</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying the setup and management of multiplayer game servers, particularly Minecraft, through an accessible graphical interface.\n<br>\n✨ <b>Key Features:</b>\n• Clean and intuitive UI\n• One-click installation and setup\n• Real-time server status\n• File manager (unzip, upload, download, copy, paste)\n• Collaborative remote server and resource management\n<br>\n📖 <b>Summary:</b>\nLodestone is a free, open-source server hosting tool for Minecraft and other multiplayer games, built with Rust, React, and TypeScript. It offers a user-friendly interface for easy setup, real-time status monitoring, file management, and collaborative server administration, with a focus on security and extensibility.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lodestone-Team/lodestone?embed=0\">View Project</a>\n• <a href=\"https://www.lodestone.cc/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e031e6cf4872d0a86570a39e3896ea1b6fea48adef44b7dc9aa0c947ee245b97/Lodestone-Team/lodestone",
         "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 244694886,
-        "content": "🌟 <b>nightingale</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a powerful and flexible alerting engine for monitoring systems, processing and distributing alarms effectively, and integrating with existing data sources and visualization tools.\n<br>\n✨ <b>Key Features:</b>\n• Open-source alerting expert\n• Connects with various data sources (VictoriaMetrics, ElasticSearch, etc.)\n• Configurable alerting and notification rules\n<br>\n📖 <b>Summary:</b>\nNightingale is an open-source alerting system designed to work with existing data sources, focusing on processing and distributing alarms. It complements visualization tools like Grafana by providing a robust alerting engine and supports distributed deployments for resilience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ccfos/nightingale?embed=0\">View Project</a>\n• <a href=\"https://n9e.github.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2bd0bc747b45ec2878b1e4645169d02604cfa40749e913f42d0e6a21aa13c6d3/ccfos/nightingale",
-        "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.55
     }
 ]
