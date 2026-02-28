@@ -1,16 +1,44 @@
 [
     {
-        "project_id": 968390577,
-        "content": "✨ <b>voidauth</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a centralized, secure, and user-friendly Single Sign-On (SSO) solution for managing access to multiple self-hosted applications.\n<br>\n✨ <b>Key Features:</b>\n• OpenID Connect (OIDC) Provider\n• Proxy ForwardAuth\n• User and Groups Management\n• User Self-Registration and Invitations\n• Customizable UI and Email Templates\n<br>\n📖 <b>Summary:</b>\nVoidAuth is an open-source Single Sign-On (SSO) solution designed for self-hosted applications. It acts as a central authentication provider using OpenID Connect (OIDC) and Proxy ForwardAuth, simplifying user management and enhancing security for a personal digital universe.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/voidauth/voidauth?embed=0\">View Project</a>\n• <a href=\"http://voidauth.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/968390577/0e7f41a9-1f65-435c-96f3-489a5d20f422",
+        "project_id": 235077636,
+        "content": "💡 <b>SmartImage</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nFinding the original source or similar instances of an image by leveraging a wide array of reverse image search engines.\n<br>\n✨ <b>Key Features:</b>\n• Supports multiple reverse image search engines (SauceNao, IQDB, Ascii2D, trace.moe, Google Images, TinEye, Yandex, Bing, etc.)\n• Provides both a Windows GUI and a cross-platform Rdx command-line tool\n• Allows searching via direct image links or files\n• Configurable search behavior and output\n• Context menu integration for Windows GUI\n<br>\n📖 <b>Summary:</b>\nSmartImage is a C# application that performs reverse image searches across multiple engines. It offers both a Windows GUI and a cross-platform command-line interface (Rdx) to help users find the source of an image.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Decimation/SmartImage?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/cb5fdfd78509cb09ad66519efaa2d2fa0d82abd17dc43a5e1d4f216088368fe9/Decimation/SmartImage",
+        "platform": "telegram",
+        "quality_score": 0.6499999999999999
+    },
+    {
+        "project_id": 1155424764,
+        "content": "🌟 <b>yj_nearbyglasses</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nTo alert users to the potential presence of nearby smart glasses, serving as a privacy-protection tool.\n<br>\n✨ <b>Key Features:</b>\n• Detects nearby smart glasses via Bluetooth signals\n• Warns the user of potential smart glasses presence\n• Free and open-source\n• No telemetry or data collection from the app itself\n• Local log file export (user-controlled)\n<br>\n📖 <b>Summary:</b>\nThis Android application, written in Kotlin, aims to detect nearby smart glasses by analyzing their Bluetooth signals and alerting the user. It focuses on privacy by not collecting user data, but warns of potential false positives and advises extreme caution in interpreting its alerts.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yjeanrenaud/yj_nearbyglasses?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e90e45b651dd64c720016f56ec715dcdb39b648981ec82b94c25803c4c0a9df9/yjeanrenaud/yj_nearbyglasses",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 478269472,
-        "content": "🚀 <b>lodestone</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying the setup and management of multiplayer game servers, particularly Minecraft, through an accessible graphical interface.\n<br>\n✨ <b>Key Features:</b>\n• Clean and intuitive UI\n• One-click installation and setup\n• Real-time server status\n• File manager (unzip, upload, download, copy, paste)\n• Collaborative remote server and resource management\n<br>\n📖 <b>Summary:</b>\nLodestone is a free, open-source server hosting tool for Minecraft and other multiplayer games, built with Rust, React, and TypeScript. It offers a user-friendly interface for easy setup, real-time status monitoring, file management, and collaborative server administration, with a focus on security and extensibility.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lodestone-Team/lodestone?embed=0\">View Project</a>\n• <a href=\"https://www.lodestone.cc/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e031e6cf4872d0a86570a39e3896ea1b6fea48adef44b7dc9aa0c947ee245b97/Lodestone-Team/lodestone",
+        "project_id": 949144653,
+        "content": "🔥 <b>paneru</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a flexible and efficient window management experience on macOS, particularly for users who prefer tiling but find traditional implementations suboptimal on large or small screens.\n<br>\n✨ <b>Key Features:</b>\n• Sliding, tiling window management on an infinite strip\n• Independent window strips per monitor\n• No resizing of existing windows when new ones open\n• Works with macOS workspaces and separate spaces\n• Focus follows mouse\n<br>\n📖 <b>Summary:</b>\nPaneru is a sliding, tiling window manager for macOS that arranges windows on an infinite strip, ensuring existing layouts are never resized when new windows are opened. It operates independently on each monitor and is designed to optimize usability for both large and small displays.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/karinushka/paneru?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c73a2f6459a659c4e1a7c8a11ff7cc649996966f5bc7ecc39166a77cc323980c/karinushka/paneru",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 1160595224,
+        "content": "🔥 <b>desk_troll</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nA prank or gag application to temporarily disrupt a user's Windows desktop experience.\n<br>\n✨ <b>Key Features:</b>\n• Animated characters running on the desktop\n• Simulated fake desktop using a screenshot\n• Interactive elements like 'stealing' icons\n• Inverted mouse control\n• Clicking erases parts of the fake desktop\n<br>\n📖 <b>Summary:</b>\nThis repository contains a prank application for Windows called 'desk_troll'. Upon execution, it simulates a fake desktop by displaying a screenshot of the user's actual desktop, while animated characters (a penguin and a fly) interact with it, 'stealing' icons and making the mouse behave erratically. The application is designed to be difficult to close, requiring a specific password.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ngixsystem/desk_troll?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/16cf8ad16dbf9665595f3122c770e92a522b6d281a6d33d4ced4dcf712dcea9a/ngixsystem/desk_troll",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 1028303998,
+        "content": "🌟 <b>OnlyHuman</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nFiltering out AI-generated SEO spam and low-effort content from web search results and feeds.\n<br>\n✨ <b>Key Features:</b>\n• Blocks AI-SEO content farms\n• Blocks thin SEO sites\n• Blocks spun content and rewrites\n• Blocks search result spam\n• Integrates with uBlock Origin\n<br>\n📖 <b>Summary:</b>\nOnlyHuman is a filter list for uBlock Origin designed to block AI-generated SEO spam, thin content websites, and other low-effort content from search results and feeds. It aims to improve the quality of online information by removing junk content that exploits search engines.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/FranklyRocks/OnlyHuman?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7bc7d0643f38850fd8f5351f0530af24b8fe8d7c1bf8aae72403af3a19fcc273/FranklyRocks/OnlyHuman",
+        "platform": "telegram",
+        "quality_score": 0.65
+    },
+    {
+        "project_id": 15778896,
+        "content": "🔥 <b>lmms</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nDigital audio workstation for music production\n<br>\n✨ <b>Key Features:</b>\n• Song-Editor for arranging melodies, samples, patterns, and automation\n• Pattern-Editor for creating beats and patterns\n• Piano-Roll for editing patterns and melodies\n• Mixer with unlimited mixer channels and arbitrary number of effects\n• Instrument and effect-plugins\n<br>\n📖 <b>Summary:</b>\nLMMS is a free, open-source, cross-platform digital audio workstation for music production. It provides a comprehensive suite of tools for composing, arranging, and mixing music, including a song editor, piano roll, beat sequencer, and mixer.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/LMMS/lmms?embed=0\">View Project</a>\n• <a href=\"https://lmms.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3b1e784488eec89f800c6f925074ce50bf83c29db483a4d17da22816521b8c70/LMMS/lmms",
+        "platform": "telegram",
+        "quality_score": 0.95
     }
 ]
