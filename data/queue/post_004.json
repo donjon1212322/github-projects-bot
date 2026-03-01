@@ -1,7 +1,7 @@
 {
-    "project_id": 1028303998,
-    "content": "🌟 <b>OnlyHuman</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nFiltering out AI-generated SEO spam and low-effort content from web search results and feeds.\n<br>\n✨ <b>Key Features:</b>\n• Blocks AI-SEO content farms\n• Blocks thin SEO sites\n• Blocks spun content and rewrites\n• Blocks search result spam\n• Integrates with uBlock Origin\n<br>\n📖 <b>Summary:</b>\nOnlyHuman is a filter list for uBlock Origin designed to block AI-generated SEO spam, thin content websites, and other low-effort content from search results and feeds. It aims to improve the quality of online information by removing junk content that exploits search engines.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/FranklyRocks/OnlyHuman?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/7bc7d0643f38850fd8f5351f0530af24b8fe8d7c1bf8aae72403af3a19fcc273/FranklyRocks/OnlyHuman",
+    "project_id": 1161062745,
+    "content": "🌟 <b>Load-Monitor</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated resource management and throttling of runaway processes on Linux systems with cgroups v2 enabled.\n<br>\n✨ <b>Key Features:</b>\n• Real-time system metrics collection (CPU, memory, load average)\n• Per-process monitoring\n• Rule-based resource limiting\n• CPU and memory restriction via cgroups v2\n• Configurable duration thresholds\n<br>\n📖 <b>Summary:</b>\nLoad-Monitor is a Rust-based daemon for Linux that automatically throttles resource-intensive processes using cgroups v2. It monitors CPU and RAM usage, applying configurable rules to limit or terminate processes that exceed defined thresholds.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/NickIBrody/Load-Monitor?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/4925e1985ac3eddcb2e417ffe78c025d6fc4369870c275367df0edd3924b4d57/NickIBrody/Load-Monitor",
     "platform": "telegram",
-    "quality_score": 0.65
+    "quality_score": 0.6
 }

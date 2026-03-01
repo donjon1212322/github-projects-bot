@@ -1,44 +1,37 @@
 [
     {
-        "project_id": 235077636,
-        "content": "💡 <b>SmartImage</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nFinding the original source or similar instances of an image by leveraging a wide array of reverse image search engines.\n<br>\n✨ <b>Key Features:</b>\n• Supports multiple reverse image search engines (SauceNao, IQDB, Ascii2D, trace.moe, Google Images, TinEye, Yandex, Bing, etc.)\n• Provides both a Windows GUI and a cross-platform Rdx command-line tool\n• Allows searching via direct image links or files\n• Configurable search behavior and output\n• Context menu integration for Windows GUI\n<br>\n📖 <b>Summary:</b>\nSmartImage is a C# application that performs reverse image searches across multiple engines. It offers both a Windows GUI and a cross-platform command-line interface (Rdx) to help users find the source of an image.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Decimation/SmartImage?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/cb5fdfd78509cb09ad66519efaa2d2fa0d82abd17dc43a5e1d4f216088368fe9/Decimation/SmartImage",
+        "project_id": 1132288067,
+        "content": "🚀 <b>office-website</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a private, in-browser document editing solution for common office file formats, eliminating the need for server-side processing.\n<br>\n✨ <b>Key Features:</b>\n• Multi-Format Support (.docx, .xlsx, .pptx)\n• Local-First Processing for Enhanced Privacy\n• Fast and Responsive User Interface (Next.js 15+)\n• Rich Editing Capabilities\n• Persistent Local Storage (IndexedDB)\n<br>\n📖 <b>Summary:</b>\nThis repository provides a serverless, client-side Office suite that allows users to edit Word, Excel, and PowerPoint documents directly in their browser using WebAssembly. It prioritizes user privacy by processing all data locally, with no backend interaction required.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/baotlake/office-website?embed=0\">View Project</a>\n• <a href=\"https://office.ziziyi.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/03c9651819f4dd1acba7e874a3128b2d0bc695621125d7a1a373c8ef2bde0a6c/baotlake/office-website",
         "platform": "telegram",
-        "quality_score": 0.6499999999999999
+        "quality_score": 0.6
     },
     {
-        "project_id": 1155424764,
-        "content": "🌟 <b>yj_nearbyglasses</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nTo alert users to the potential presence of nearby smart glasses, serving as a privacy-protection tool.\n<br>\n✨ <b>Key Features:</b>\n• Detects nearby smart glasses via Bluetooth signals\n• Warns the user of potential smart glasses presence\n• Free and open-source\n• No telemetry or data collection from the app itself\n• Local log file export (user-controlled)\n<br>\n📖 <b>Summary:</b>\nThis Android application, written in Kotlin, aims to detect nearby smart glasses by analyzing their Bluetooth signals and alerting the user. It focuses on privacy by not collecting user data, but warns of potential false positives and advises extreme caution in interpreting its alerts.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yjeanrenaud/yj_nearbyglasses?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e90e45b651dd64c720016f56ec715dcdb39b648981ec82b94c25803c4c0a9df9/yjeanrenaud/yj_nearbyglasses",
+        "project_id": 944516885,
+        "content": "💡 <b>mcp-server</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo serve as a bridge for AI assistants to access and query real-time and historical financial market data through a standardized MCP interface.\n<br>\n✨ <b>Key Features:</b>\n• Provides access to income statements, balance sheets, and cash flow statements.\n• Enables retrieval of current and historical stock prices.\n• Fetches company news and available crypto tickers.\n• Supports historical cryptocurrency price data.\n<br>\n📖 <b>Summary:</b>\nThis Python repository provides a Model Context Protocol (MCP) server that exposes financial data from Financial Datasets. It allows AI assistants like Claude to access and retrieve various financial statements, stock prices, and company news through a defined interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/financial-datasets/mcp-server?embed=0\">View Project</a>\n• <a href=\"https://www.financialdatasets.ai/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7887a27a2655a877b89dd8b819961924f29af418ae8b569b8ad5d1a60c71f836/financial-datasets/mcp-server",
+        "platform": "telegram",
+        "quality_score": 0.45
+    },
+    {
+        "project_id": 71293321,
+        "content": "🌟 <b>react-pdf</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating PDF documents programmatically using React components for both client-side and server-side applications.\n<br>\n✨ <b>Key Features:</b>\n• Create PDF files using React components\n• Render PDFs in the browser (DOM)\n• Render PDFs on the server (Node.js)\n• Styling using StyleSheet API\n• Supports Flexbox layout\n<br>\n📖 <b>Summary:</b>\nReact-pdf/renderer is a React renderer for creating PDF documents on both the browser and server. It allows developers to build PDFs using React components and styling, similar to how they build web UIs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/diegomura/react-pdf?embed=0\">View Project</a>\n• <a href=\"https://react-pdf.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e19471765c2a4ff660ff585586bbdc89bc27f1d36360a4ed072490b1dc9be90e/diegomura/react-pdf",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 975734319,
+        "content": "🔥 <b>opencode</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide developers with an AI-powered coding assistant through a user-friendly interface, streamlining the development process.\n<br>\n✨ <b>Key Features:</b>\n• Open-source AI coding agent\n• Command-line interface (CLI)\n• Desktop application (BETA)\n• Multiple installation methods (curl, npm, scoop, choco, Homebrew, pacman, AUR, mise, nix)\n• Customizable installation directory\n<br>\n📖 <b>Summary:</b>\nOpenCode is an open-source AI coding agent designed to assist developers. It provides a command-line interface and a desktop application for seamless integration into development workflows, offering AI-powered coding assistance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/anomalyco/opencode?embed=0\">View Project</a>\n• <a href=\"https://opencode.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/975734319/2c2c3389-c647-405c-a499-f80e4d521277",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 949144653,
-        "content": "🔥 <b>paneru</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a flexible and efficient window management experience on macOS, particularly for users who prefer tiling but find traditional implementations suboptimal on large or small screens.\n<br>\n✨ <b>Key Features:</b>\n• Sliding, tiling window management on an infinite strip\n• Independent window strips per monitor\n• No resizing of existing windows when new ones open\n• Works with macOS workspaces and separate spaces\n• Focus follows mouse\n<br>\n📖 <b>Summary:</b>\nPaneru is a sliding, tiling window manager for macOS that arranges windows on an infinite strip, ensuring existing layouts are never resized when new windows are opened. It operates independently on each monitor and is designed to optimize usability for both large and small displays.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/karinushka/paneru?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c73a2f6459a659c4e1a7c8a11ff7cc649996966f5bc7ecc39166a77cc323980c/karinushka/paneru",
+        "project_id": 1161062745,
+        "content": "🌟 <b>Load-Monitor</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated resource management and throttling of runaway processes on Linux systems with cgroups v2 enabled.\n<br>\n✨ <b>Key Features:</b>\n• Real-time system metrics collection (CPU, memory, load average)\n• Per-process monitoring\n• Rule-based resource limiting\n• CPU and memory restriction via cgroups v2\n• Configurable duration thresholds\n<br>\n📖 <b>Summary:</b>\nLoad-Monitor is a Rust-based daemon for Linux that automatically throttles resource-intensive processes using cgroups v2. It monitors CPU and RAM usage, applying configurable rules to limit or terminate processes that exceed defined thresholds.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/NickIBrody/Load-Monitor?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4925e1985ac3eddcb2e417ffe78c025d6fc4369870c275367df0edd3924b4d57/NickIBrody/Load-Monitor",
         "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1160595224,
-        "content": "🔥 <b>desk_troll</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nA prank or gag application to temporarily disrupt a user's Windows desktop experience.\n<br>\n✨ <b>Key Features:</b>\n• Animated characters running on the desktop\n• Simulated fake desktop using a screenshot\n• Interactive elements like 'stealing' icons\n• Inverted mouse control\n• Clicking erases parts of the fake desktop\n<br>\n📖 <b>Summary:</b>\nThis repository contains a prank application for Windows called 'desk_troll'. Upon execution, it simulates a fake desktop by displaying a screenshot of the user's actual desktop, while animated characters (a penguin and a fly) interact with it, 'stealing' icons and making the mouse behave erratically. The application is designed to be difficult to close, requiring a specific password.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ngixsystem/desk_troll?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/16cf8ad16dbf9665595f3122c770e92a522b6d281a6d33d4ced4dcf712dcea9a/ngixsystem/desk_troll",
-        "platform": "telegram",
-        "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 1028303998,
-        "content": "🌟 <b>OnlyHuman</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nFiltering out AI-generated SEO spam and low-effort content from web search results and feeds.\n<br>\n✨ <b>Key Features:</b>\n• Blocks AI-SEO content farms\n• Blocks thin SEO sites\n• Blocks spun content and rewrites\n• Blocks search result spam\n• Integrates with uBlock Origin\n<br>\n📖 <b>Summary:</b>\nOnlyHuman is a filter list for uBlock Origin designed to block AI-generated SEO spam, thin content websites, and other low-effort content from search results and feeds. It aims to improve the quality of online information by removing junk content that exploits search engines.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/FranklyRocks/OnlyHuman?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7bc7d0643f38850fd8f5351f0530af24b8fe8d7c1bf8aae72403af3a19fcc273/FranklyRocks/OnlyHuman",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 15778896,
-        "content": "🔥 <b>lmms</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nDigital audio workstation for music production\n<br>\n✨ <b>Key Features:</b>\n• Song-Editor for arranging melodies, samples, patterns, and automation\n• Pattern-Editor for creating beats and patterns\n• Piano-Roll for editing patterns and melodies\n• Mixer with unlimited mixer channels and arbitrary number of effects\n• Instrument and effect-plugins\n<br>\n📖 <b>Summary:</b>\nLMMS is a free, open-source, cross-platform digital audio workstation for music production. It provides a comprehensive suite of tools for composing, arranging, and mixing music, including a song editor, piano roll, beat sequencer, and mixer.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/LMMS/lmms?embed=0\">View Project</a>\n• <a href=\"https://lmms.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3b1e784488eec89f800c6f925074ce50bf83c29db483a4d17da22816521b8c70/LMMS/lmms",
-        "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 0.6
     }
 ]
