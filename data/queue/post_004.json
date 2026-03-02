@@ -1,7 +1,7 @@
 {
-    "project_id": 1161062745,
-    "content": "🌟 <b>Load-Monitor</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated resource management and throttling of runaway processes on Linux systems with cgroups v2 enabled.\n<br>\n✨ <b>Key Features:</b>\n• Real-time system metrics collection (CPU, memory, load average)\n• Per-process monitoring\n• Rule-based resource limiting\n• CPU and memory restriction via cgroups v2\n• Configurable duration thresholds\n<br>\n📖 <b>Summary:</b>\nLoad-Monitor is a Rust-based daemon for Linux that automatically throttles resource-intensive processes using cgroups v2. It monitors CPU and RAM usage, applying configurable rules to limit or terminate processes that exceed defined thresholds.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/NickIBrody/Load-Monitor?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/4925e1985ac3eddcb2e417ffe78c025d6fc4369870c275367df0edd3924b4d57/NickIBrody/Load-Monitor",
+    "project_id": 1013147705,
+    "content": "🔥 <b>gamewiki</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide gamers with an unobtrusive, AI-driven overlay for quick access to game information, guides, and answers without interrupting gameplay.\n<br>\n✨ <b>Key Features:</b>\n• One Hotkey for instant overlay access (Ctrl+Q)\n• AI Game Expert powered by Google Gemini with local knowledge bases\n• Real-time wiki overlay\n• Supports over 100 games for wiki access\n<br>\n📖 <b>Summary:</b>\nGameWiki is an AI-powered in-game overlay tool for gamers, providing instant access to wiki information and smart Q&A services powered by Google Gemini's RAG capabilities. It allows users to get answers and guides without leaving their game, enhancing the gaming experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rimulu030/gamewiki?embed=0\">View Project</a>\n• <a href=\"https://www.gamewiki.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/c0f333e8dd50a82864d340b753cd526670ae73d7fa008de37b77515d072b813c/rimulu030/gamewiki",
     "platform": "telegram",
-    "quality_score": 0.6
+    "quality_score": 0.6000000000000001
 }
