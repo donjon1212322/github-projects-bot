@@ -1,26 +1,26 @@
 {
-    "title": "Unleash Your Inner Terminal Guru: Torrenting Just Got a Command-Line Upgrade with Torrra!",
-    "article": "Imagine you're deep in your coding flow, focused on your terminal, and suddenly you need to grab a specific file via torrent. What do you usually do? Minimize your terminal, open a browser, find a tracker, copy a magnet link, open your torrent client, paste the link, and then wait. It's a context switch nightmare! This is exactly the problem that Torrra, an incredibly slick Python tool, swoops in to solve. It lets you search for and download torrents directly from your command-line interface, keeping you right where you're most productive.\n\nTorrra's magic lies in its elegant integration with powerful backend services and a beautiful front-end experience. For searching, it leverages existing indexers like Jackett or Prowlarr, which aggregate results from various torrent sites. This means you're not limited to a single source but get a comprehensive search across your configured trackers. Once you find what you're looking for, Torrra uses Libtorrent, a robust C++ torrent library, to handle the actual download process. This ensures reliable and efficient peer-to-peer transfers, all managed from within your terminal.\n\nWhat truly sets Torrra apart is its interactive Text User Interface (TUI), built with the amazing Textual framework. Forget drab, text-only outputs; Torrra presents a visually appealing and responsive interface that makes managing your downloads a breeze. You can easily browse search results, select files, and even pause or resume downloads – all without ever leaving the terminal window. This TUI transforms a potentially clunky CLI experience into something genuinely enjoyable and intuitive.\n\nFor developers, the benefits are clear. Torrra eliminates the need to jump between applications, drastically improving your workflow efficiency. If you're someone who lives in the terminal, this tool is a game-changer for maintaining focus. It supports persistent configuration via a `config.toml` file, allowing you to set up your default indexers, download paths, and even customize themes (yes, dark and light modes!). This means you can tailor Torrra to fit seamlessly into your existing setup and preferences, making subsequent uses even faster and more convenient.\n\nInstallation is straightforward, whether you prefer `pipx`, `uv tool install`, AUR, Homebrew, standalone binaries, or even Docker. Once installed, you can launch it interactively to browse, or use direct commands like `torrra search \"your query\"` or `torrra download \"magnet_link\"` for quick actions. The smart caching feature ensures that your searches are lightning-fast after the initial lookup. With native support across Linux, macOS, and Windows, Torrra truly brings cross-platform torrent management right to your fingertips, empowering you to stay productive and in control of your downloads from the comfort of your command line.",
+    "title": "Transform Any Location into Stunning Art: Discover MapToPoster JS!",
+    "article": "Ever wanted to turn a special place on Earth into a beautiful, personalized piece of art? Imagine a minimalist map of your hometown, a vibrant poster of your favorite travel destination, or a unique visualization of a journey. That's exactly what MapToPoster JS empowers you to do! This incredible client-side web application lets you generate custom map posters with professional-grade quality, all from the comfort of your browser.\n\nAt its core, MapToPoster JS is designed for ease of use and powerful customization. You simply search for any location in the world using its precision geocoding, and then the magic begins. The application features a clever hybrid rendering system, allowing you to seamlessly switch between efficient tile-based mapping, perfect for traditional street views or satellite imagery, and procedural vector artistry for truly unique aesthetic styles. This means you can choose between established map providers or explore hand-crafted artistic themes like 'Arctic Frost' or 'Volcanic Ash' with dynamic colors and textures.\n\nThe customization options are truly impressive. Beyond selecting a base map style, you can add dynamic markers to pinpoint specific spots, plot custom travel paths to visualize journeys, and even apply classic gallery-style framing effects with adjustable width and opacity. Typography is also a key feature, offering a curated selection of premium fonts for custom text and coordinate overlays. You have full control over layout elements, allowing you to toggle country names, geographic coordinates, and map labels independently for a tailored look. For better readability, you can even add subtle background edge effects like vignette shading.\n\nOne of the biggest advantages for developers and users alike is its commitment to privacy and performance. MapToPoster JS renders everything 100% client-side, meaning your data never leaves your browser. This ensures both speed and peace of mind. And when you're ready to bring your creation to life, the application offers pro-grade exports, generating high-fidelity PNG files at custom resolutions or even ultra-high resolutions up to 50,000px, making them perfectly suitable for large-format printing. This makes it an ideal tool for creating unique wall art, personalized gifts, or even just a cool digital keepsake. For developers, it's a fantastic example of leveraging modern web technologies like Leaflet and MapLibre GL to build a robust, feature-rich application that runs entirely in the browser.",
     "key_takeaways": [
-        "Search and download torrents directly from your CLI, eliminating context switching.",
-        "Leverages Jackett/Prowlarr for comprehensive search and Libtorrent for reliable downloads.",
-        "Features an interactive, visually appealing TUI with pause/resume functionality, built with Textual.",
-        "Enhances developer workflow with persistent configuration, customizable themes, and smart caching.",
-        "Easy installation and cross-platform support for Linux, macOS, and Windows."
+        "Create high-resolution, custom map posters from any global location.",
+        "Utilizes a hybrid rendering system with both traditional and artistic map themes.",
+        "Offers extensive customization including markers, paths, framing, and typography.",
+        "Ensures user privacy with 100% client-side processing; no data leaves your browser.",
+        "Generates ultra-high-resolution PNG exports suitable for professional printing."
     ],
     "tags": [
-        "CLI",
-        "Torrent",
-        "Python",
-        "TUI",
-        "Productivity"
+        "Map Art",
+        "Web Development",
+        "Leaflet",
+        "MapLibre GL",
+        "Client-Side"
     ],
-    "stars": 1132,
-    "forks": 67,
-    "open_issues": 2,
-    "languages": "Python",
-    "readme_summary": "Torrra is a Python-based command-line tool that provides a text-based user interface (TUI) for searching and downloading torrents. It integrates with indexers like Jackett and Prowlarr, leverages libtorrent for downloads, and is built using the Textual framework for a rich terminal experience.",
-    "project_id": 1014780508,
-    "url": "https://github.com/stabldev/torrra",
-    "description": "A Python tool that lets you search and download torrents without leaving your CLI."
+    "stars": 607,
+    "forks": 97,
+    "open_issues": 1,
+    "languages": "JavaScript",
+    "readme_summary": "MapToPoster JS is a client-side JavaScript web application that allows users to generate high-resolution, customizable map posters from any location. It offers a hybrid rendering system, dynamic styling options, and pro-grade export capabilities for creating personalized geographic art.",
+    "project_id": 1159866842,
+    "url": "https://github.com/dimartarmizi/map-to-poster",
+    "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options."
 }
