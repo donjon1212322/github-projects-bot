@@ -1,7 +1,0 @@
-{
-    "project_id": 1137837751,
-    "content": "💡 <b>frame</b> | Svelte\n<br>\n🎯 <b>Primary Use Case:</b>\nA user-friendly desktop application for converting and transcoding video and audio files with advanced options and AI upscaling.\n<br>\n✨ <b>Key Features:</b>\n• Support for various media containers (mp4, mkv, webm, etc.)\n• Multiple video and audio encoders (H.264, H.265, VP9, AV1, AAC, Opus, etc.)\n• Hardware acceleration support (Apple, NVIDIA)\n• Bitrate control (CRF, Target Bitrate)\n• Metadata probing via ffprobe\n<br>\n📖 <b>Summary:</b>\nFrame is a high-performance media conversion utility that provides a native graphical interface for FFmpeg operations. It allows users to control transcoding parameters, leverage hardware acceleration, and even perform AI upscaling, all managed by a Rust backend and a Svelte frontend.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/66HEX/frame?embed=0\">View Project</a>\n• <a href=\"https://www.framegui.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/fefaf4ab43214af36a0c48e071a748b4dc84bc44b7cea118c667f6b82827240f/66HEX/frame",
-    "platform": "telegram",
-    "quality_score": 0.85
-}
