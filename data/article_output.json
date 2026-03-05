@@ -1,26 +1,26 @@
 {
-    "title": "Supercharge Your Multilingual Browsing: Discover Pair Translate!",
-    "article": "Have you ever found yourself navigating a foreign language website, perhaps for a crucial piece of documentation or an interesting international article? The usual drill involves copying text, opening a new tab for a translator, pasting, reading, and then switching back – a clunky and inefficient dance that breaks your focus. It's a common pain point for anyone trying to bridge language barriers online, and it often leads to frustration or simply giving up on valuable content.\n\nThis is where Pair Translate swoops in as a game-changer. It's a brilliant browser extension designed to eliminate that friction by providing instant, side-by-side translations directly on the web page you're viewing. Instead of disrupting your workflow, Pair Translate seamlessly appends the translated text right next to the original, allowing you to see both versions simultaneously. This means you can grasp the meaning without losing the original context, which is incredibly powerful for deep understanding and even language learning.\n\nThe beauty of Pair Translate lies in its versatility and simplicity. When you encounter text you want to understand, you simply select it. The extension then works its magic, fetching the translation and displaying it immediately alongside the source text. What makes it even more appealing is its broad support for various translation platforms. You're not locked into just one service; it integrates with popular options like Google Translate, Bing, and DeepL, giving you the flexibility to choose your preferred engine. And for those of you who appreciate the cutting edge, it even supports leading Large Language Models (LLMs) such as ChatGPT, Claude, and Gemini, offering potentially more nuanced and context-aware translations.\n\nFor developers, the benefits are clear and significant. Imagine effortlessly reading foreign language technical specifications, understanding community discussions in global forums, or even learning a new programming language by consuming its documentation in its native tongue while still having an instant reference. Pair Translate enhances your ability to access and comprehend a vast ocean of information that might otherwise be inaccessible. It's a massive productivity booster, cutting down on context switching and allowing you to absorb information more naturally and efficiently.\n\nBeyond its core functionality, Pair Translate stands out for its commitment to user privacy. It's fully open-source, meaning its code is transparent and auditable by anyone. Crucially, it collects no data, and all translation requests are sent directly from your browser to the chosen translation service provider. This privacy-first approach is a huge win, especially in an era where data security is paramount. It's available for Chrome, Firefox, and Edge, making it accessible to most developers. If you're looking to streamline your multilingual browsing and unlock a world of information, Pair Translate is definitely a project you need to check out!",
+    "title": "AltSendme: The Secure, Serverless Way to Share Files Directly",
+    "article": "Tired of wrestling with cloud storage limits, privacy concerns, and slow uploads just to share a file with a colleague or friend? We've all been there, uploading sensitive documents to third-party servers, hoping they're secure, only to find the download link expires or the service limits file size. What if there was a better way, a truly direct way to send files without any intermediaries?\n\nEnter AltSendme, a fantastic open-source project that's changing how we think about file transfers. Imagine sending files directly from your computer to someone else's, anywhere in the world, without them ever touching a cloud server. That's exactly what AltSendme delivers, leveraging cutting-edge peer-to-peer networking to create a secure, private, and incredibly efficient file-sharing experience.\n\nThe magic behind AltSendme is surprisingly simple for the user. You just drag and drop your file or folder into the application. AltSendme then generates a unique, one-time \"ticket\" – think of it like a temporary, secure key. You share this ticket with your recipient via any communication method you prefer – chat, email, text. Your friend pastes that ticket into their AltSendme app, and boom! The transfer begins directly between your devices. No sign-ups, no personal information required, just a straightforward, encrypted connection.\n\nUnder the hood, AltSendme is powered by Iroh, a modern modular networking technology designed for robust peer-to-peer communication. This means you get features like end-to-end encryption (using QUIC + TLS 1.3 for top-tier security), ensuring your data is always protected and private. It also handles the complex stuff like NAT traversal and hole-punching, so transfers work seamlessly whether you're on the same local network or across continents, even behind tricky firewalls, with encrypted relay fallback if a direct connection isn't immediately possible.\n\nDevelopers, this project is a game-changer for several reasons. First, the emphasis on privacy and security is paramount. No more worrying about data breaches on third-party servers; your files go straight from source to destination. Second, the performance is phenomenal, capable of saturating multi-gigabit connections, which means lightning-fast transfers for even the largest files or directories. Transfers are also resumable, so if your connection drops, it picks up right where it left off. And because it's free and open-source, you have complete transparency and control, with no hidden costs or size limits. For anyone building applications that involve file sharing or needs a robust, secure way to move data, understanding and potentially integrating with the underlying Iroh technology, or simply using AltSendme as a reliable utility, offers immense value. It’s a powerful demonstration of what modern P2P networking can achieve, freeing us from the constraints and compromises of traditional cloud-based file sharing.",
     "key_takeaways": [
-        "Provides seamless side-by-side translation directly on web pages.",
-        "Supports multiple translation services including Google, DeepL, Bing, and LLMs like ChatGPT and Gemini.",
-        "Enhances productivity and comprehension for foreign language content, especially technical documentation.",
-        "Fully open-source and privacy-focused, with no data collection.",
-        "Easy to install and use across major browsers like Chrome, Firefox, and Edge."
+        "AltSendme enables direct, peer-to-peer file transfers, bypassing cloud servers entirely.",
+        "It offers end-to-end encryption and requires no accounts or personal information for maximum privacy and security.",
+        "Transfers are fast, reliable, resumable, and can handle files or directories of any size, anywhere in the world.",
+        "Powered by the Iroh networking stack, it includes advanced features like NAT traversal for seamless connections.",
+        "As a free and open-source solution, it provides transparency and eliminates common cloud-sharing limitations."
     ],
     "tags": [
-        "Browser Extension",
-        "Translation",
-        "Multilingual",
-        "Productivity",
-        "Open Source"
+        "Peer-to-Peer",
+        "File Transfer",
+        "Open Source",
+        "Security",
+        "Iroh"
     ],
-    "stars": 364,
-    "forks": 25,
-    "open_issues": 4,
+    "stars": 5548,
+    "forks": 324,
+    "open_issues": 11,
     "languages": "TypeScript",
-    "readme_summary": "Pair Translate is a browser extension that provides an immersive translation experience by appending translated text directly to the original web content. It allows users to view both the original and translated versions side-by-side, enhancing comprehension and accessibility for multilingual web browsing.",
-    "project_id": 1071453476,
-    "url": "https://github.com/Cookee24/PairTranslate",
-    "description": "开源的沉浸式翻译，支持选段/查词/选词翻译 | Open-source immersive translation, supporting segment/word lookup and selection translation"
+    "readme_summary": "AltSendme is a free, open-source, and privacy-focused tool for direct peer-to-peer file transfers. It enables users to send any file or folder of any size across the globe without relying on cloud storage, ensuring end-to-end encryption and no account requirements.",
+    "project_id": 1078137951,
+    "url": "https://github.com/tonyantony300/alt-sendme",
+    "description": "Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions."
 }

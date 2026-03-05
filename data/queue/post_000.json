@@ -1,0 +1,7 @@
+{
+    "project_id": 150164840,
+    "content": "💡 <b>mxcheck</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nScanning and assessing the security and configuration of email servers.\n<br>\n✨ <b>Key Features:</b>\n• DNS record checks (A, MX, PTR, SPF, MTA-STS, DKIM, DMARC)\n• StartTLS and certificate validation\n• Open port scanning (25, 465, 587)\n• Blacklist status checking\n• Information leakage detection (server string, VRFY command)\n<br>\n📖 <b>Summary:</b>\nmxcheck is a Go-based scanner for e-mail servers, providing comprehensive checks on DNS records, security protocols, open ports, blacklist status, and potential vulnerabilities like open relays and SMTPSmuggling. It allows for customizable sender/receiver addresses and outputs reports in TSV format.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/steffenfritz/mxcheck?embed=0\">View Project</a>\n• <a href=\"https://mxcheck.fritz.wtf?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/22033443c3bcb05b5e840e4220ab4a6b3179dee07c81d063c6cfbf2f13b9d421/steffenfritz/mxcheck",
+    "platform": "telegram",
+    "quality_score": 0.44999999999999996
+}
