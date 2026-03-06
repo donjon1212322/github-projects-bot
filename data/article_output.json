@@ -1,26 +1,26 @@
 {
-    "title": "AltSendme: The Secure, Serverless Way to Share Files Directly",
-    "article": "Tired of wrestling with cloud storage limits, privacy concerns, and slow uploads just to share a file with a colleague or friend? We've all been there, uploading sensitive documents to third-party servers, hoping they're secure, only to find the download link expires or the service limits file size. What if there was a better way, a truly direct way to send files without any intermediaries?\n\nEnter AltSendme, a fantastic open-source project that's changing how we think about file transfers. Imagine sending files directly from your computer to someone else's, anywhere in the world, without them ever touching a cloud server. That's exactly what AltSendme delivers, leveraging cutting-edge peer-to-peer networking to create a secure, private, and incredibly efficient file-sharing experience.\n\nThe magic behind AltSendme is surprisingly simple for the user. You just drag and drop your file or folder into the application. AltSendme then generates a unique, one-time \"ticket\" – think of it like a temporary, secure key. You share this ticket with your recipient via any communication method you prefer – chat, email, text. Your friend pastes that ticket into their AltSendme app, and boom! The transfer begins directly between your devices. No sign-ups, no personal information required, just a straightforward, encrypted connection.\n\nUnder the hood, AltSendme is powered by Iroh, a modern modular networking technology designed for robust peer-to-peer communication. This means you get features like end-to-end encryption (using QUIC + TLS 1.3 for top-tier security), ensuring your data is always protected and private. It also handles the complex stuff like NAT traversal and hole-punching, so transfers work seamlessly whether you're on the same local network or across continents, even behind tricky firewalls, with encrypted relay fallback if a direct connection isn't immediately possible.\n\nDevelopers, this project is a game-changer for several reasons. First, the emphasis on privacy and security is paramount. No more worrying about data breaches on third-party servers; your files go straight from source to destination. Second, the performance is phenomenal, capable of saturating multi-gigabit connections, which means lightning-fast transfers for even the largest files or directories. Transfers are also resumable, so if your connection drops, it picks up right where it left off. And because it's free and open-source, you have complete transparency and control, with no hidden costs or size limits. For anyone building applications that involve file sharing or needs a robust, secure way to move data, understanding and potentially integrating with the underlying Iroh technology, or simply using AltSendme as a reliable utility, offers immense value. It’s a powerful demonstration of what modern P2P networking can achieve, freeing us from the constraints and compromises of traditional cloud-based file sharing.",
+    "title": "Master Your AI API Spending: Discover onWatch, Your Real-Time Usage Tracker!",
+    "article": "Ever found yourself wondering exactly how much you're tapping into those powerful AI APIs? Whether it's GitHub Copilot assisting your code, Claude helping with a complex problem, or other AI-powered tools, keeping track of your quota usage can feel like a guessing game. That's where onWatch steps in, and trust me, it's a game-changer for any developer leveraging AI in their workflow. This fantastic, free, and open-source CLI tool brings much-needed transparency to your AI API consumption.\n\nonWatch's core purpose is elegantly simple: it tracks your API quota usage in real-time. It supports a wide array of popular AI services including Synthetic, Z.ai, Anthropic (think Claude Code), Codex, GitHub Copilot, and Antigravity. This means no more surprises when you hit a usage limit or wonder where your credits went. It runs as a super lightweight background agent, typically consuming less than 50 MB of RAM even when polling all six providers simultaneously, so you won't even notice it's there.\n\nThe real magic happens with its integrated web dashboard. This isn't just a static display; it's a dynamic Material Design 3 interface, complete with dark and light modes, that visualizes your historical usage data. onWatch stores all this valuable information locally in an SQLite database. This means you get comprehensive historical, per-cycle, and cross-session intelligence, filling a crucial gap between a simple current snapshot and the deep insights developers truly need to manage their AI tool usage effectively. You can see trends, identify peak usage times, and understand your consumption patterns over days, weeks, or months.\n\nOne of the most compelling aspects of onWatch is its commitment to privacy and developer freedom. It boasts zero telemetry, meaning absolutely no data leaves your machine. Everything stays local, giving you complete control and peace of mind. It's delivered as a single binary, making installation incredibly straightforward across macOS, Linux, and Windows. Furthermore, onWatch is designed to be compatible with *any* tool that uses the supported API keys, including popular ones like Cline, Roo Code, Kilo Code, Claude Code, Codex CLI, Cursor, and Antigravity. This broad compatibility ensures that no matter your preferred AI-powered coding environment, onWatch can provide the insights you need.\n\nFor developers, onWatch isn't just a monitoring tool; it's an empowerment tool. It helps you optimize your AI spending by giving you a clear picture of where your resources are going. It allows for better budgeting, prevents unexpected overages, and provides valuable data for making informed decisions about your AI tool stack. If you're serious about integrating AI into your development process and want to maintain control and visibility over your API usage, onWatch is an absolute must-have in your toolkit. It transforms the opaque world of AI API costs into a transparent, manageable landscape.",
     "key_takeaways": [
-        "AltSendme enables direct, peer-to-peer file transfers, bypassing cloud servers entirely.",
-        "It offers end-to-end encryption and requires no accounts or personal information for maximum privacy and security.",
-        "Transfers are fast, reliable, resumable, and can handle files or directories of any size, anywhere in the world.",
-        "Powered by the Iroh networking stack, it includes advanced features like NAT traversal for seamless connections.",
-        "As a free and open-source solution, it provides transparency and eliminates common cloud-sharing limitations."
+        "onWatch offers real-time API quota tracking for major AI services like GitHub Copilot, Anthropic, and Codex.",
+        "It provides a local, historical usage dashboard with powerful analytics, filling the gap between snapshots and deep insights.",
+        "The tool is lightweight, open-source, and ensures privacy with zero telemetry; all data stays on your machine.",
+        "Compatible with any tool using the supported APIs, offering broad utility for developers.",
+        "Helps developers manage AI spending, optimize usage, and gain transparency into their AI tool consumption."
     ],
     "tags": [
-        "Peer-to-Peer",
-        "File Transfer",
-        "Open Source",
-        "Security",
-        "Iroh"
+        "AI Tools",
+        "API Usage",
+        "Cost Management",
+        "Developer Tools",
+        "Open Source"
     ],
-    "stars": 5548,
-    "forks": 324,
-    "open_issues": 11,
-    "languages": "TypeScript",
-    "readme_summary": "AltSendme is a free, open-source, and privacy-focused tool for direct peer-to-peer file transfers. It enables users to send any file or folder of any size across the globe without relying on cloud storage, ensuring end-to-end encryption and no account requirements.",
-    "project_id": 1078137951,
-    "url": "https://github.com/tonyantony300/alt-sendme",
-    "description": "Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions."
+    "stars": 151,
+    "forks": 10,
+    "open_issues": 2,
+    "languages": "Go",
+    "readme_summary": "onWatch is an open-source CLI tool and background agent that monitors AI API quota usage across multiple providers like Synthetic, Z.ai, Anthropic, Codex, GitHub Copilot, and Antigravity in real time. It stores historical data locally in SQLite and provides a Material Design 3 web dashboard for easy visualization, ensuring all data remains on the user's machine with zero telemetry.",
+    "project_id": 1151441959,
+    "url": "https://github.com/onllm-dev/onWatch",
+    "description": "Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (<50MB RAM), SQLite storage, Material Design 3 dashboard. Zero telemetry."
 }
