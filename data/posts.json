@@ -1,37 +1,30 @@
 [
     {
-        "project_id": 1159609450,
-        "content": "🌟 <b>Profanity-Filtering-All-languages</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo filter out or censor profane language in text across a wide range of languages for applications like chat platforms, content moderation, or user-generated content.\n<br>\n✨ <b>Key Features:</b>\n• 107 languages support\n• Blazing fast O(1) lookups\n• Lazy loading of locale data\n• Zero runtime dependencies\n• Rich API (check, detect, censor, addWords, removeWords)\n<br>\n📖 <b>Summary:</b>\nThis TypeScript library provides a highly performant profanity filtering solution supporting 107 languages. It offers features like lazy loading, zero runtime dependencies, and a rich API for checking, detecting, and censoring profanity, with options for customization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Wart050/Profanity-Filtering-All-languages?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1abe316fdfc6fce7984615a39d409389c5f6c11d889ace30b29dc1e2e8213c70/Wart050/Profanity-Filtering-All-languages",
+        "project_id": 439824270,
+        "content": "🚀 <b>hfs</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo easily share files and folders from a personal computer over a local network or the internet via a web browser, acting as a personal cloud storage and sharing solution.\n<br>\n✨ <b>Key Features:</b>\n• Web-based file sharing\n• Virtual file system\n• Real-time activity monitoring\n• Bandwidth throttling\n• Direct file transfers\n<br>\n📖 <b>Summary:</b>\nHFS (HTTP File Server) is a versatile web-based file server that allows users to share files and folders directly from their computer over the web. It offers features like a virtual file system for flexible sharing, real-time monitoring, bandwidth throttling, and plugin support for extensibility.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rejetto/hfs?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5e1ca026aa2457d1889d51e39319ef1b6ca1e0de62f516248f1e13be5fbb4856/rejetto/hfs",
         "platform": "telegram",
-        "quality_score": 0.7
+        "quality_score": 1.0
     },
     {
-        "project_id": 1156869346,
-        "content": "✨ <b>clamshell</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling laptop users to close their lid and use external monitors seamlessly on Linux, regardless of power connection or init system.\n<br>\n✨ <b>Key Features:</b>\n• Implements clamshell mode on Linux\n• Does not require AC power\n• Independent of init systems\n• Configurable suspend modes (freeze, suspend_to_ram, suspend_to_disk)\n• Specific NVIDIA GPU suspend handling\n<br>\n📖 <b>Summary:</b>\nClamshell is a Linux daemon that enables clamshell mode, allowing users to close their laptop lid and continue working with external displays and peripherals without requiring AC power or a specific init system. It offers flexible suspend mode options and specific handling for NVIDIA GPUs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Hato1125/clamshell?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/36d2b3e6fdc501579861ce5e60542a6d3b917978595d901c877b1cf15e260db6/Hato1125/clamshell",
+        "project_id": 1138915102,
+        "content": "💡 <b>lastsignal</b> | Ruby\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a secure, self-hosted mechanism for users to ensure their important encrypted messages are delivered to loved ones or trusted contacts in the event of their incapacitation or death.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted dead man's switch\n• End-to-end encrypted (E2EE) messaging\n• Zero-knowledge architecture\n• Email-first check-in system\n<br>\n📖 <b>Summary:</b>\nLastSignal is a self-hosted, end-to-end encrypted dead man's switch that automatically delivers messages to trusted contacts if the user becomes unresponsive. It prioritizes security with a zero-knowledge architecture and modern cryptography, allowing users to configure check-in intervals and delivery delays.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/giovantenne/lastsignal?embed=0\">View Project</a>\n• <a href=\"https://lastsignal.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9eae5e4ef8ff9f8c7a4db7ba89dd61cbe44b3a4d8600c0e3ba7eadb128541783/giovantenne/lastsignal",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 1170977343,
-        "content": "🚀 <b>sshb</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a fun, interactive Tamagotchi-like experience within the user's terminal environment, enhancing engagement with command-line usage.\n<br>\n✨ <b>Key Features:</b>\n• Tamagotchi-style virtual pet in the terminal\n• Persistent pet state\n• ASCII art pet with animated expressions\n• Four core stats: Hunger, Energy, Happiness, Health\n• Background daemon for stat decay (systemd)\n<br>\n📖 <b>Summary:</b>\nSSHB (SSH Buddy) is a terminal-based Tamagotchi-style virtual pet that lives in your command line. It requires regular care, with its stats decaying over time, and can be integrated into your bash prompt to display its status.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/C-GBL/sshb?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/18bb24e72be237fe65fcc87181b62934e88e1554e1b50ab24dd3b7679b05b620/C-GBL/sshb",
+        "project_id": 820927427,
+        "content": "💡 <b>PDF-Extract-Kit</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting high-quality content and structured data from diverse and complex PDF documents, enabling the development of applications like document translation, Q&A, and assistants.\n<br>\n✨ <b>Key Features:</b>\n• Integration of Leading Document Parsing Models\n• High-Quality Parsing Across Diverse Documents\n• Modular Design\n<br>\n📖 <b>Summary:</b>\nPDF-Extract-Kit is a Python toolkit for high-quality content extraction from complex PDF documents. It integrates state-of-the-art models for layout detection, formula recognition, OCR, and table recognition, offering a modular design for flexible application building and comprehensive evaluation benchmarks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/opendatalab/PDF-Extract-Kit?embed=0\">View Project</a>\n• <a href=\"https://pdf-extract-kit.readthedocs.io/zh-cn/latest/index.html?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3ef3c67afc51312803b9f966a8619d50ee983ccd2f7d4eb2787eac7e7b9c8b6f/opendatalab/PDF-Extract-Kit",
+        "platform": "telegram",
+        "quality_score": 0.45
+    },
+    {
+        "project_id": 773544702,
+        "content": "✨ <b>openui</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRapid prototyping and generation of UI components through natural language descriptions, making UI development faster and more flexible.\n<br>\n✨ <b>Key Features:</b>\n• Describe UI using imagination (natural language)\n• Live rendering of generated UI\n• Convert HTML to React, Svelte, Web Components, etc.\n• Supports multiple LLM providers (OpenAI, Groq, Gemini, Anthropic, Cohere, Mistral)\n• Local execution via Docker or from source\n<br>\n📖 <b>Summary:</b>\nOpenUI is an open-source tool that allows users to describe user interfaces using natural language and see them rendered live. It leverages AI to generate UI components and can convert them into various frontend frameworks like React, Svelte, and Web Components.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wandb/openui?embed=0\">View Project</a>\n• <a href=\"https://openui.fly.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c89e7f4e60d22b146960829bdbc3734b7cb4d7ce771fa50835e89fbe6f0d94d4/wandb/openui",
         "platform": "telegram",
         "quality_score": 0.55
-    },
-    {
-        "project_id": 1132399830,
-        "content": "🔥 <b>kugelaudio-open</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding high-quality, open-source text-to-speech synthesis for a wide range of European languages, enabling developers and researchers to create natural-sounding speech for various applications.\n<br>\n✨ <b>Key Features:</b>\n• Open-source text-to-speech for European languages\n• AR + Diffusion architecture\n• High-quality voice cloning capabilities\n• Outperforms leading commercial TTS systems (e.g., ElevenLabs) in human preference benchmarks\n<br>\n📖 <b>Summary:</b>\nKugelAudio is an open-source text-to-speech (TTS) system focused on European languages, leveraging an AR + Diffusion architecture. It aims to bridge the gap in high-quality TTS for underserved European languages, offering performance that rivals and surpasses leading commercial solutions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Kugelaudio/kugelaudio-open?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0cf0a6479640c6d103135cacccc814cc993e2dcd6d69483e97d9832ac17e4702/Kugelaudio/kugelaudio-open",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 232181980,
-        "content": "✨ <b>dangerzone</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo safely convert untrusted documents into a secure PDF format, mitigating potential security risks from malicious content.\n<br>\n✨ <b>Key Features:</b>\n• Sandboxed document conversion\n• Conversion to pixel-based PDFs\n• Optional OCR for text layer\n• PDF compression\n• Support for various document and image formats\n<br>\n📖 <b>Summary:</b>\nDangerzone is a security tool that converts potentially dangerous documents (PDFs, Office files, images) into safe, pixel-based PDFs. It achieves this by processing the documents within a sandboxed environment, converting them to raw pixel data, and then reconstructing them as new PDFs, thus neutralizing embedded threats.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/freedomofpress/dangerzone?embed=0\">View Project</a>\n• <a href=\"https://dangerzone.rocks/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/32ed0713e48120e33a044d2957c7106ff85169ee9063cede7d80326028d8e47b/freedomofpress/dangerzone",
-        "platform": "telegram",
-        "quality_score": 0.95
     }
 ]
