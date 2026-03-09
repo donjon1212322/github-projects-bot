@@ -1,30 +1,30 @@
 [
     {
-        "project_id": 439824270,
-        "content": "🚀 <b>hfs</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo easily share files and folders from a personal computer over a local network or the internet via a web browser, acting as a personal cloud storage and sharing solution.\n<br>\n✨ <b>Key Features:</b>\n• Web-based file sharing\n• Virtual file system\n• Real-time activity monitoring\n• Bandwidth throttling\n• Direct file transfers\n<br>\n📖 <b>Summary:</b>\nHFS (HTTP File Server) is a versatile web-based file server that allows users to share files and folders directly from their computer over the web. It offers features like a virtual file system for flexible sharing, real-time monitoring, bandwidth throttling, and plugin support for extensibility.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rejetto/hfs?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5e1ca026aa2457d1889d51e39319ef1b6ca1e0de62f516248f1e13be5fbb4856/rejetto/hfs",
-        "platform": "telegram",
-        "quality_score": 1.0
-    },
-    {
-        "project_id": 1138915102,
-        "content": "💡 <b>lastsignal</b> | Ruby\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a secure, self-hosted mechanism for users to ensure their important encrypted messages are delivered to loved ones or trusted contacts in the event of their incapacitation or death.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted dead man's switch\n• End-to-end encrypted (E2EE) messaging\n• Zero-knowledge architecture\n• Email-first check-in system\n<br>\n📖 <b>Summary:</b>\nLastSignal is a self-hosted, end-to-end encrypted dead man's switch that automatically delivers messages to trusted contacts if the user becomes unresponsive. It prioritizes security with a zero-knowledge architecture and modern cryptography, allowing users to configure check-in intervals and delivery delays.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/giovantenne/lastsignal?embed=0\">View Project</a>\n• <a href=\"https://lastsignal.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9eae5e4ef8ff9f8c7a4db7ba89dd61cbe44b3a4d8600c0e3ba7eadb128541783/giovantenne/lastsignal",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 820927427,
-        "content": "💡 <b>PDF-Extract-Kit</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting high-quality content and structured data from diverse and complex PDF documents, enabling the development of applications like document translation, Q&A, and assistants.\n<br>\n✨ <b>Key Features:</b>\n• Integration of Leading Document Parsing Models\n• High-Quality Parsing Across Diverse Documents\n• Modular Design\n<br>\n📖 <b>Summary:</b>\nPDF-Extract-Kit is a Python toolkit for high-quality content extraction from complex PDF documents. It integrates state-of-the-art models for layout detection, formula recognition, OCR, and table recognition, offering a modular design for flexible application building and comprehensive evaluation benchmarks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/opendatalab/PDF-Extract-Kit?embed=0\">View Project</a>\n• <a href=\"https://pdf-extract-kit.readthedocs.io/zh-cn/latest/index.html?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3ef3c67afc51312803b9f966a8619d50ee983ccd2f7d4eb2787eac7e7b9c8b6f/opendatalab/PDF-Extract-Kit",
-        "platform": "telegram",
-        "quality_score": 0.45
-    },
-    {
-        "project_id": 773544702,
-        "content": "✨ <b>openui</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRapid prototyping and generation of UI components through natural language descriptions, making UI development faster and more flexible.\n<br>\n✨ <b>Key Features:</b>\n• Describe UI using imagination (natural language)\n• Live rendering of generated UI\n• Convert HTML to React, Svelte, Web Components, etc.\n• Supports multiple LLM providers (OpenAI, Groq, Gemini, Anthropic, Cohere, Mistral)\n• Local execution via Docker or from source\n<br>\n📖 <b>Summary:</b>\nOpenUI is an open-source tool that allows users to describe user interfaces using natural language and see them rendered live. It leverages AI to generate UI components and can convert them into various frontend frameworks like React, Svelte, and Web Components.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wandb/openui?embed=0\">View Project</a>\n• <a href=\"https://openui.fly.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c89e7f4e60d22b146960829bdbc3734b7cb4d7ce771fa50835e89fbe6f0d94d4/wandb/openui",
+        "project_id": 458663914,
+        "content": "✨ <b>sshx</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCollaborative live terminal sharing for remote work, debugging, and pair programming.\n<br>\n✨ <b>Key Features:</b>\n• Run a single command to share your terminal\n• Resize, move windows, and freely zoom and pan on an infinite canvas\n• See other people's cursors moving in real time\n• Connect to the nearest server in a globally distributed mesh\n• End-to-end encryption with Argon2 and AES\n<br>\n📖 <b>Summary:</b>\nsshx is a Rust-based tool for secure, collaborative live terminal sharing over the web. It allows multiple users to interact with a shared terminal session in real-time, featuring end-to-end encryption and a globally distributed server network for low latency.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ekzhang/sshx?embed=0\">View Project</a>\n• <a href=\"https://sshx.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/458663914/10448fa6-fc83-4b4e-a5b8-3276a1cae95a",
         "platform": "telegram",
         "quality_score": 0.55
+    },
+    {
+        "project_id": 872581121,
+        "content": "🚀 <b>meshgen</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling users to control and manipulate 3D models and scenes within Blender using natural language commands processed by AI agents.\n<br>\n✨ <b>Key Features:</b>\n• AI agent control of Blender via natural language\n• Multiple backend options: local (llama.cpp, Ollama), remote (Hugging Face, Anthropic, OpenAI)\n• Optional LLaMA-Mesh integration for local mesh understanding\n• Optional Hyper3D integration for high-fidelity mesh generation\n<br>\n📖 <b>Summary:</b>\nMeshGen is a Blender add-on that allows users to control Blender functionalities using natural language commands interpreted by AI agents. It supports various local and remote AI model backends for inference, enhancing creative workflows by integrating AI directly into the 3D modeling process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/huggingface/meshgen?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8c48b47c5f8bef3c226b003ca16bd2ee4181ca705279eec467a3dd657a009e91/huggingface/meshgen",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 1141934589,
+        "content": "✨ <b>claudecode-telegram</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to interact with and receive responses from Claude Code through a familiar Telegram interface.\n<br>\n✨ <b>Key Features:</b>\n• Telegram bot integration for Claude Code\n• Message injection into Claude Code via tmux\n• Response retrieval from Claude Code's transcript\n• Setup via Cloudflare Tunnel for external access\n• Bot commands for status, clearing, resuming, and looping\n<br>\n📖 <b>Summary:</b>\nclaudecode-telegram is a Python-based bridge that connects Telegram to Claude Code, allowing users to interact with Claude Code by sending messages through a Telegram bot. It leverages tmux and Cloudflare Tunnel to facilitate this communication, enabling responses to be sent back to Telegram.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hanxiao/claudecode-telegram?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a96c562feab91d8518e3f51d457644d45faea2084f875707676cf6451fd9c7c3/hanxiao/claudecode-telegram",
+        "platform": "telegram",
+        "quality_score": 0.4
+    },
+    {
+        "project_id": 8270576,
+        "content": "🚀 <b>ProcessHacker</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring system resources, debugging software, and detecting malware on Windows.\n<br>\n✨ <b>Key Features:</b>\n• Detailed system activity overview with highlighting\n• Graphs and statistics for resource hog tracking\n• File usage detection\n• Network connection monitoring\n• Real-time disk access information\n<br>\n📖 <b>Summary:</b>\nSystem Informer is a free, open-source tool for Windows that provides detailed system monitoring, software debugging, and malware detection capabilities. It offers real-time insights into system activity, resource usage, network connections, and file access, allowing users to manage processes and services effectively.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/PKRoma/ProcessHacker?embed=0\">View Project</a>\n• <a href=\"http://processhacker.sourceforge.net/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0ecd0ee5f9b349909c88b9753603c29e0e51fe2d094d889359f73a9c54cfc96b/PKRoma/ProcessHacker",
+        "platform": "telegram",
+        "quality_score": 0.9
     }
 ]

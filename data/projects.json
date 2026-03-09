@@ -1,153 +1,134 @@
 [
     {
-        "id": 439824270,
-        "name": "hfs",
-        "description": "HFS is a web file server for your computer. Share folders or even a single file thanks to the virtual file system.",
-        "url": "https://github.com/rejetto/hfs",
-        "language": "TypeScript",
-        "stars": 3559,
-        "forks": 336,
-        "created_at": "2021-12-19T09:34:54Z",
-        "updated_at": "2026-03-08T03:52:53Z",
+        "id": 458663914,
+        "name": "sshx",
+        "description": "Fast, collaborative live terminal sharing over the web",
+        "url": "https://github.com/ekzhang/sshx",
+        "language": "Rust",
+        "stars": 7385,
+        "forks": 276,
+        "created_at": "2022-02-12T23:29:33Z",
+        "updated_at": "2026-03-09T04:55:19Z",
         "topics": [
-            "file-server",
-            "file-sharing",
-            "http-server",
-            "nodejs",
-            "typescript",
+            "collaborative",
+            "rust",
+            "share",
+            "ssh",
+            "terminal",
+            "tty",
             "web"
-        ],
-        "quality_score": 1.0,
-        "contributors_count": 0,
-        "last_commit_date": "2026-03-04T09:52:03Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/5e1ca026aa2457d1889d51e39319ef1b6ca1e0de62f516248f1e13be5fbb4856/rejetto/hfs"
-        ],
-        "homepage": "",
-        "readme_summary": "HFS (HTTP File Server) is a versatile web-based file server that allows users to share files and folders directly from their computer over the web. It offers features like a virtual file system for flexible sharing, real-time monitoring, bandwidth throttling, and plugin support for extensibility.",
-        "key_features": [
-            "Web-based file sharing",
-            "Virtual file system",
-            "Real-time activity monitoring",
-            "Bandwidth throttling",
-            "Direct file transfers",
-            "Plugin support",
-            "HTTPS support",
-            "Resumable downloads & uploads",
-            "Mobile-friendly interface",
-            "Admin web interface"
-        ],
-        "primary_use_case": "To easily share files and folders from a personal computer over a local network or the internet via a web browser, acting as a personal cloud storage and sharing solution.",
-        "open_issues": 20,
-        "cover_image_prompt": "A friendly, stylized robot standing in a cozy home office, holding out a glowing digital key. The key is unlocking a portal that reveals a stream of organized files and folders flowing from the robot's computer screen towards a diverse group of people on the other side, who are happily accessing them on their phones and laptops. Subtle data streams and small icons representing different file types are visible. The overall mood is helpful and accessible, with a clean, modern illustration style."
-    },
-    {
-        "id": 1138915102,
-        "name": "lastsignal",
-        "description": "A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive.",
-        "url": "https://github.com/giovantenne/lastsignal",
-        "language": "Ruby",
-        "stars": 444,
-        "forks": 8,
-        "created_at": "2026-01-21T09:25:42Z",
-        "updated_at": "2026-03-07T22:42:55Z",
-        "topics": [
-            "cryptography",
-            "e2ee",
-            "encryption",
-            "end-to-end-encryption",
-            "open-source",
-            "privacy",
-            "privacy-tools",
-            "self-hosted",
-            "zero-knowledge"
-        ],
-        "quality_score": 1.0000000000000002,
-        "contributors_count": 0,
-        "last_commit_date": "2026-03-05T15:16:11Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/9eae5e4ef8ff9f8c7a4db7ba89dd61cbe44b3a4d8600c0e3ba7eadb128541783/giovantenne/lastsignal"
-        ],
-        "homepage": "https://lastsignal.app",
-        "readme_summary": "LastSignal is a self-hosted, end-to-end encrypted dead man's switch that automatically delivers messages to trusted contacts if the user becomes unresponsive. It prioritizes security with a zero-knowledge architecture and modern cryptography, allowing users to configure check-in intervals and delivery delays.",
-        "key_features": [
-            "Self-hosted dead man's switch",
-            "End-to-end encrypted (E2EE) messaging",
-            "Zero-knowledge architecture",
-            "Email-first check-in system",
-            "Configurable timing for check-ins and reminders",
-            "Trusted contact notification system",
-            "Recipient-specific message decryption delay",
-            "Modern cryptography (Argon2id, XChaCha20-Poly1305, X25519)",
-            "Auditable open-source code"
-        ],
-        "primary_use_case": "To provide a secure, self-hosted mechanism for users to ensure their important encrypted messages are delivered to loved ones or trusted contacts in the event of their incapacitation or death.",
-        "open_issues": 1,
-        "cover_image_prompt": "A wise, ancient tree with glowing roots firmly planted in the earth. Periodically, a small, glowing seed pod detaches from the tree and floats gently downwards, representing a scheduled check-in. If the ground around the tree remains undisturbed (no user interaction), a secondary, larger seed pod containing a sealed, encrypted message slowly descends towards a waiting, stylized mailbox labeled 'Trusted Contact'. Subtle digital particles emanate from the tree's trunk, hinting at the underlying technology. The scene is set in a serene, slightly mystical forest clearing with soft, ethereal lighting. The overall style should be a 3D isometric illustration with a clean, symbolic aesthetic, emphasizing the concept of a delayed, secure delivery triggered by absence."
-    },
-    {
-        "id": 820927427,
-        "name": "PDF-Extract-Kit",
-        "description": "A Comprehensive Toolkit for High-Quality PDF Content Extraction",
-        "url": "https://github.com/opendatalab/PDF-Extract-Kit",
-        "language": "Python",
-        "stars": 9444,
-        "forks": 711,
-        "created_at": "2024-06-27T13:05:27Z",
-        "updated_at": "2026-03-08T05:32:12Z",
-        "topics": [],
-        "quality_score": 0.45,
-        "contributors_count": 0,
-        "last_commit_date": "2025-01-03T02:00:20Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/3ef3c67afc51312803b9f966a8619d50ee983ccd2f7d4eb2787eac7e7b9c8b6f/opendatalab/PDF-Extract-Kit"
-        ],
-        "homepage": "https://pdf-extract-kit.readthedocs.io/zh-cn/latest/index.html",
-        "readme_summary": "PDF-Extract-Kit is a Python toolkit for high-quality content extraction from complex PDF documents. It integrates state-of-the-art models for layout detection, formula recognition, OCR, and table recognition, offering a modular design for flexible application building and comprehensive evaluation benchmarks.",
-        "key_features": [
-            "Integration of Leading Document Parsing Models",
-            "High-Quality Parsing Across Diverse Documents",
-            "Modular Design",
-            "Comprehensive Evaluation Benchmarks"
-        ],
-        "primary_use_case": "Extracting high-quality content and structured data from diverse and complex PDF documents, enabling the development of applications like document translation, Q&A, and assistants.",
-        "open_issues": 96,
-        "cover_image_prompt": "A master librarian meticulously organizing a chaotic library where books are represented as complex, multi-layered PDF documents. The librarian uses a magical magnifying glass that, when focused on a PDF book, reveals its hidden structure: clear text, distinct images, and organized tables, all neatly categorized and extracted onto a nearby workbench. Subtle digital particles and glowing lines emanate from the magnifying glass, symbolizing data extraction. The repository name 'PDF-Extract-Kit' is subtly etched onto the librarian's desk. The scene is rendered in a warm, inviting atmosphere with a 3D isometric illustration style, emphasizing clarity and order emerging from complexity."
-    },
-    {
-        "id": 773544702,
-        "name": "openui",
-        "description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
-        "url": "https://github.com/wandb/openui",
-        "language": "TypeScript",
-        "stars": 22067,
-        "forks": 2050,
-        "created_at": "2024-03-17T23:46:16Z",
-        "updated_at": "2026-03-08T05:04:38Z",
-        "topics": [
-            "ai",
-            "generative-ai",
-            "html-css-javascript",
-            "tailwindcss"
         ],
         "quality_score": 0.55,
         "contributors_count": 0,
-        "last_commit_date": "2025-09-15T19:28:06Z",
+        "last_commit_date": "2025-06-19T14:09:17Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/c89e7f4e60d22b146960829bdbc3734b7cb4d7ce771fa50835e89fbe6f0d94d4/wandb/openui"
+            "https://repository-images.githubusercontent.com/458663914/10448fa6-fc83-4b4e-a5b8-3276a1cae95a"
         ],
-        "homepage": "https://openui.fly.dev",
-        "readme_summary": "OpenUI is an open-source tool that allows users to describe user interfaces using natural language and see them rendered live. It leverages AI to generate UI components and can convert them into various frontend frameworks like React, Svelte, and Web Components.",
+        "homepage": "https://sshx.io",
+        "readme_summary": "sshx is a Rust-based tool for secure, collaborative live terminal sharing over the web. It allows multiple users to interact with a shared terminal session in real-time, featuring end-to-end encryption and a globally distributed server network for low latency.",
         "key_features": [
-            "Describe UI using imagination (natural language)",
-            "Live rendering of generated UI",
-            "Convert HTML to React, Svelte, Web Components, etc.",
-            "Supports multiple LLM providers (OpenAI, Groq, Gemini, Anthropic, Cohere, Mistral)",
-            "Local execution via Docker or from source",
-            "Customizable LLM configuration via LiteLLM"
+            "Run a single command to share your terminal",
+            "Resize, move windows, and freely zoom and pan on an infinite canvas",
+            "See other people's cursors moving in real time",
+            "Connect to the nearest server in a globally distributed mesh",
+            "End-to-end encryption with Argon2 and AES",
+            "Automatic reconnection and real-time latency estimates",
+            "Predictive echo for faster local editing"
         ],
-        "primary_use_case": "Rapid prototyping and generation of UI components through natural language descriptions, making UI development faster and more flexible.",
-        "open_issues": 65,
-        "cover_image_prompt": "A whimsical, imaginative artist sitting at a digital easel, holding a paintbrush that glows with AI energy. With a single stroke, the artist conjures a vibrant, interactive user interface floating in the air before them, complete with buttons, forms, and layouts. Small, stylized code snippets and framework logos (React, Svelte) subtly orbit the UI. The background is a clean, modern studio space with soft, inspiring lighting. The repository name 'OpenUI' is subtly integrated into a digital blueprint on the easel. The style is a 3D isometric illustration with a playful, creative aesthetic."
+        "primary_use_case": "Collaborative live terminal sharing for remote work, debugging, and pair programming.",
+        "open_issues": 19,
+        "cover_image_prompt": "A vibrant, stylized illustration of a shared digital workbench where multiple hands, represented by glowing digital avatars, are simultaneously manipulating a single, complex 3D blueprint of a terminal interface. The blueprint is being actively edited, with cursors and lines of code appearing and disappearing in real-time. Subtle data streams flow between the avatars and the blueprint, symbolizing collaboration and instant feedback. The background is a clean, abstract digital space with subtle network nodes. The overall mood is dynamic and collaborative, highlighting seamless real-time interaction. The style should be a modern 3D isometric illustration with bright, engaging colors and clear visual cues of shared activity."
+    },
+    {
+        "id": 872581121,
+        "name": "meshgen",
+        "description": "Use AI Agents directly in Blender.",
+        "url": "https://github.com/huggingface/meshgen",
+        "language": "Python",
+        "stars": 818,
+        "forks": 62,
+        "created_at": "2024-10-14T17:28:53Z",
+        "updated_at": "2026-03-09T05:08:17Z",
+        "topics": [],
+        "quality_score": 0.44999999999999996,
+        "contributors_count": 0,
+        "last_commit_date": "2025-04-14T19:40:03Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/8c48b47c5f8bef3c226b003ca16bd2ee4181ca705279eec467a3dd657a009e91/huggingface/meshgen"
+        ],
+        "homepage": "",
+        "readme_summary": "MeshGen is a Blender add-on that allows users to control Blender functionalities using natural language commands interpreted by AI agents. It supports various local and remote AI model backends for inference, enhancing creative workflows by integrating AI directly into the 3D modeling process.",
+        "key_features": [
+            "AI agent control of Blender via natural language",
+            "Multiple backend options: local (llama.cpp, Ollama), remote (Hugging Face, Anthropic, OpenAI)",
+            "Optional LLaMA-Mesh integration for local mesh understanding",
+            "Optional Hyper3D integration for high-fidelity mesh generation"
+        ],
+        "primary_use_case": "Enabling users to control and manipulate 3D models and scenes within Blender using natural language commands processed by AI agents.",
+        "open_issues": 16,
+        "cover_image_prompt": "A 3D isometric illustration of a sculptor in a bustling digital workshop, holding a glowing chisel. Instead of traditional tools, the sculptor is speaking commands into a sleek, futuristic microphone. The microphone's sound waves transform into intricate 3D mesh structures that materialize on a digital workbench. Small, subtle UI elements displaying code snippets and AI agent icons float around the scene, indicating the AI's role in interpreting the spoken words and generating the complex geometry. The overall mood is creative and futuristic, with a clean, organized composition and a vibrant color palette highlighting the transformation from voice to form. The repository name 'MeshGen' is subtly integrated into a tool's label."
+    },
+    {
+        "id": 1141934589,
+        "name": "claudecode-telegram",
+        "description": "Telegram bridge for Claude Code",
+        "url": "https://github.com/hanxiao/claudecode-telegram",
+        "language": "Python",
+        "stars": 526,
+        "forks": 70,
+        "created_at": "2026-01-25T17:24:12Z",
+        "updated_at": "2026-03-09T05:03:39Z",
+        "topics": [],
+        "quality_score": 0.4,
+        "contributors_count": 0,
+        "last_commit_date": "2026-01-25T17:41:31Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/a96c562feab91d8518e3f51d457644d45faea2084f875707676cf6451fd9c7c3/hanxiao/claudecode-telegram"
+        ],
+        "homepage": null,
+        "readme_summary": "claudecode-telegram is a Python-based bridge that connects Telegram to Claude Code, allowing users to interact with Claude Code by sending messages through a Telegram bot. It leverages tmux and Cloudflare Tunnel to facilitate this communication, enabling responses to be sent back to Telegram.",
+        "key_features": [
+            "Telegram bot integration for Claude Code",
+            "Message injection into Claude Code via tmux",
+            "Response retrieval from Claude Code's transcript",
+            "Setup via Cloudflare Tunnel for external access",
+            "Bot commands for status, clearing, resuming, and looping"
+        ],
+        "primary_use_case": "To enable users to interact with and receive responses from Claude Code through a familiar Telegram interface.",
+        "open_issues": 1,
+        "cover_image_prompt": "A friendly, anthropomorphic robot sitting at a desk, holding a Telegram messaging bubble in one hand and a glowing code editor window in the other. The robot is actively typing a message into the code editor, which is visually represented as a stream of digital particles flowing from the Telegram bubble. On a small screen next to the robot, a snippet of the repository's name 'claudecode-telegram' is subtly displayed. The background is a clean, modern workspace with soft, ambient lighting, suggesting a seamless connection between communication and coding. The overall style is a 3D isometric illustration with a bright, inviting color palette, emphasizing ease of use and connectivity."
+    },
+    {
+        "id": 8270576,
+        "name": "ProcessHacker",
+        "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware—mirror of https://github.com/processhacker2/processhacker.git",
+        "url": "https://github.com/PKRoma/ProcessHacker",
+        "language": "C",
+        "stars": 996,
+        "forks": 193,
+        "created_at": "2013-02-18T15:01:47Z",
+        "updated_at": "2026-03-09T03:42:29Z",
+        "topics": [],
+        "quality_score": 0.9,
+        "contributors_count": 0,
+        "last_commit_date": "2026-03-07T01:27:55Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/0ecd0ee5f9b349909c88b9753603c29e0e51fe2d094d889359f73a9c54cfc96b/PKRoma/ProcessHacker"
+        ],
+        "homepage": "http://processhacker.sourceforge.net/",
+        "readme_summary": "System Informer is a free, open-source tool for Windows that provides detailed system monitoring, software debugging, and malware detection capabilities. It offers real-time insights into system activity, resource usage, network connections, and file access, allowing users to manage processes and services effectively.",
+        "key_features": [
+            "Detailed system activity overview with highlighting",
+            "Graphs and statistics for resource hog tracking",
+            "File usage detection",
+            "Network connection monitoring",
+            "Real-time disk access information",
+            "Detailed stack traces with kernel-mode, WOW64 and .NET support",
+            "Service creation, editing, and control",
+            "Portable and no installation required"
+        ],
+        "primary_use_case": "Monitoring system resources, debugging software, and detecting malware on Windows.",
+        "open_issues": 8,
+        "cover_image_prompt": "A vigilant, futuristic librarian meticulously organizing a vast, glowing library of information. Each book represents a running process or system resource. The librarian uses a magnifying glass that reveals hidden details and connections within the books, highlighting any anomalies or potential threats in red. Successfully managed resources are neatly shelved, emitting a soft, organized glow. Small, holographic screens around the librarian display real-time data streams and system statistics. The scene is set in a clean, modern digital space with a cool, analytical color palette. The image should be in a 3D isometric illustration style, emphasizing clarity and detail, with the 'System Informer' name subtly integrated into the library's architecture."
     }
 ]

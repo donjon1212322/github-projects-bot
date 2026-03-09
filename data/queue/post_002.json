@@ -1,0 +1,7 @@
+{
+    "project_id": 1141934589,
+    "content": "✨ <b>claudecode-telegram</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to interact with and receive responses from Claude Code through a familiar Telegram interface.\n<br>\n✨ <b>Key Features:</b>\n• Telegram bot integration for Claude Code\n• Message injection into Claude Code via tmux\n• Response retrieval from Claude Code's transcript\n• Setup via Cloudflare Tunnel for external access\n• Bot commands for status, clearing, resuming, and looping\n<br>\n📖 <b>Summary:</b>\nclaudecode-telegram is a Python-based bridge that connects Telegram to Claude Code, allowing users to interact with Claude Code by sending messages through a Telegram bot. It leverages tmux and Cloudflare Tunnel to facilitate this communication, enabling responses to be sent back to Telegram.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hanxiao/claudecode-telegram?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/a96c562feab91d8518e3f51d457644d45faea2084f875707676cf6451fd9c7c3/hanxiao/claudecode-telegram",
+    "platform": "telegram",
+    "quality_score": 0.4
+}
