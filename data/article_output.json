@@ -1,26 +1,26 @@
 {
-    "title": "Unlock Windows Secrets: Why System Informer is Your New Debugging Superpower",
-    "article": "If you've ever felt limited by Windows Task Manager when trying to understand what's truly happening under the hood of your system, then you're in for a treat. System Informer is a robust, free, and open-source tool designed to give you unparalleled insight into your Windows machine, going far beyond what built-in utilities offer. It's not just a process monitor; it's a comprehensive diagnostic toolkit for developers, power users, and anyone needing to deeply inspect their system's behavior. This powerful application provides a highly detailed overview of all system activity, complete with intelligent highlighting to quickly draw your attention to important changes or anomalies. Imagine instantly seeing which processes are hogging your CPU or memory with clear graphs and real-time statistics. This visual feedback is invaluable for quickly pinpointing performance bottlenecks in your own applications or identifying runaway processes that might be slowing down your development environment. One of its most incredibly useful features is its ability to identify which processes are using a specific file. Ever tried to delete a file only to be told it's \"in use\" without knowing by what? System Informer solves this common frustration instantly. Beyond that, it lets you monitor all active network connections, giving you a clear picture of what applications are communicating with the outside world, and even allowing you to close those connections if necessary. You can also get real-time information on disk access, helping you understand I/O patterns. For debugging, System Informer shines with its detailed stack traces, supporting kernel-mode, WOW64, and .NET environments. This level of detail is crucial for understanding crashes or unexpected behavior in complex applications. It also offers advanced service management capabilities, letting you create, edit, and control services in a way that goes far beyond the basic `services.msc` utility. The fact that it's small, portable, and requires no installation makes it an ideal tool to keep on your USB drive for quick diagnostics on any Windows 10 or higher machine. Developers can leverage its deep insights to optimize their code, troubleshoot elusive bugs, and ensure their applications are performing efficiently and securely.",
+    "title": "GNews: Your Python Gateway to Google News, No Scraping Required!",
+    "article": "Tired of wrestling with web scrapers just to get the latest news data? Imagine a world where you could tap into Google News, grab structured article information, and even fetch full article content with just a few lines of Python. That's exactly what GNews offers, and it's a game-changer for anyone dealing with news aggregation, sentiment analysis, or content generation.\n\nGNews is a fantastic, lightweight Python package designed to simplify access to Google News. It works by querying Google News's RSS feeds and then neatly packages the results into a usable JSON response. This means you get clean, structured data without the headache of parsing HTML or dealing with ever-changing website layouts. It's like having a dedicated news data assistant built right into your Python environment.\n\nWhat makes GNews truly powerful is its versatility. You can search for top news, articles by specific keywords, news based on major topics (like 'Technology' or 'Sports'), or even filter by geographical location. It boasts impressive coverage, supporting over 141 countries and 41 languages. This global reach opens up a massive trove of information for your applications, allowing you to tailor your news fetches to almost any audience or region.\n\nBut wait, there's more! Beyond just providing article metadata like title, URL, and publication date, GNews can also fetch the *full content* of an article. This feature alone is a huge time-saver, eliminating the need to write and maintain your own complex article scrapers. For developers, this translates to faster development cycles, more robust data pipelines, and the ability to focus on building features rather than fighting with web scraping complexities. It's incredibly easy to integrate into existing projects, whether you're building a news aggregator, a research tool, or a data analytics platform.",
     "key_takeaways": [
-        "Comprehensive system monitoring beyond standard Windows tools.",
-        "Essential for debugging with detailed stack traces, resource graphs, and real-time statistics.",
-        "Helps identify file locks, monitor network connections, and manage services with advanced control.",
-        "Portable, free, and open-source, making it ideal for on-the-go diagnostics and transparency.",
-        "Provides deep insights for optimizing code, troubleshooting bugs, and ensuring application efficiency."
+        "GNews provides a simple Python API to access Google News data.",
+        "It returns structured JSON responses, eliminating manual web scraping.",
+        "Supports global news fetching across 141+ countries and 41+ languages.",
+        "Can fetch full article content, saving significant development time.",
+        "Ideal for news aggregation, data analysis, and content generation projects."
     ],
     "tags": [
-        "Windows",
-        "SystemMonitoring",
-        "Debugging",
-        "OpenSource",
-        "Performance"
+        "Python",
+        "Google News",
+        "News API",
+        "Data Scraping",
+        "JSON"
     ],
-    "stars": 996,
-    "forks": 193,
-    "open_issues": 8,
-    "languages": "C",
-    "readme_summary": "System Informer is a free, open-source tool for Windows that provides detailed system monitoring, software debugging, and malware detection capabilities. It offers real-time insights into system activity, resource usage, network connections, and file access, allowing users to manage processes and services effectively.",
-    "project_id": 8270576,
-    "url": "https://github.com/PKRoma/ProcessHacker",
-    "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware—mirror of https://github.com/processhacker2/processhacker.git"
+    "stars": 949,
+    "forks": 144,
+    "open_issues": 43,
+    "languages": "Python",
+    "readme_summary": "GNews is a lightweight Python package that provides an API to search for articles on Google News. It allows users to fetch top news, news by keywords, major topics, geo-location, or specific sites, and can also retrieve the full article content.",
+    "project_id": 339720467,
+    "url": "https://github.com/ranahaani/GNews",
+    "description": "A Happy and lightweight Python Package that Provides an API to search for articles on Google News and returns a JSON response."
 }
