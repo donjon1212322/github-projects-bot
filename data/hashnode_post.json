@@ -1,30 +1,30 @@
 {
-    "title": "GNews: Your Python Gateway to Google News, No Scraping Required!",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nGNews is a lightweight Python package that provides an API to search for articles on Google News. It allows users to fetch top news, news by keywords, major topics, geo-location, or specific sites, and can also retrieve the full article content.\n\n## 🔑 Key Takeaways\n\n- ✅ GNews provides a simple Python API to access Google News data.\n\n- ✅ It returns structured JSON responses, eliminating manual web scraping.\n\n- ✅ Supports global news fetching across 141+ countries and 41+ languages.\n\n- ✅ Can fetch full article content, saving significant development time.\n\n- ✅ Ideal for news aggregation, data analysis, and content generation projects.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 949\n- 🍴 Forks: 144\n- ❗ Open Issues: 43\n\n\n## 🛠 Tech Stack\n- ✅ Python\n\n\nTired of wrestling with web scrapers just to get the latest news data? Imagine a world where you could tap into Google News, grab structured article information, and even fetch full article content with just a few lines of Python. That's exactly what GNews offers, and it's a game-changer for anyone dealing with news aggregation, sentiment analysis, or content generation.\n\nGNews is a fantastic, lightweight Python package designed to simplify access to Google News. It works by querying Google News's RSS feeds and then neatly packages the results into a usable JSON response. This means you get clean, structured data without the headache of parsing HTML or dealing with ever-changing website layouts. It's like having a dedicated news data assistant built right into your Python environment.\n\nWhat makes GNews truly powerful is its versatility. You can search for top news, articles by specific keywords, news based on major topics (like 'Technology' or 'Sports'), or even filter by geographical location. It boasts impressive coverage, supporting over 141 countries and 41 languages. This global reach opens up a massive trove of information for your applications, allowing you to tailor your news fetches to almost any audience or region.\n\nBut wait, there's more! Beyond just providing article metadata like title, URL, and publication date, GNews can also fetch the *full content* of an article. This feature alone is a huge time-saver, eliminating the need to write and maintain your own complex article scrapers. For developers, this translates to faster development cycles, more robust data pipelines, and the ability to focus on building features rather than fighting with web scraping complexities. It's incredibly easy to integrate into existing projects, whether you're building a news aggregator, a research tool, or a data analytics platform.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/ranahaani/GNews)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Unlock Market Secrets: Dive into Smart Money Concepts with this Python Library!",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nThis Python package implements Inner Circle Trader (ICT) smart money concepts for algorithmic trading. It provides a suite of indicators like Order Blocks, Liquidity, Fair Value Gaps, and market structure breaks to help traders analyze market sentiment and identify potential trading opportunities.\n\n## 🔑 Key Takeaways\n\n- ✅ Automates the detection of complex 'Smart Money Concepts' (SMC) for financial market analysis.\n\n- ✅ Provides key indicators like Fair Value Gap (FVG), Order Blocks (OB), Swing Highs/Lows, and Break of Structure (BOS) / Change of Character (CHoCH).\n\n- ✅ Enables developers to integrate advanced market structure analysis into Python-based trading strategies and systems.\n\n- ✅ Empowers data-driven decision-making and the creation of more sophisticated algorithmic trading bots.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 1366\n- 🍴 Forks: 655\n- ❗ Open Issues: 17\n\n\n## 🛠 Tech Stack\n- ✅ Python\n\n\nHave you ever looked at financial charts and wished you had a secret decoder ring to understand what the big players, the 'smart money,' are really doing? It often feels like retail traders are just reacting, while institutions are orchestrating movements. This is where the 'Smart Money Concepts' Python indicator library comes in, offering a powerful way to peel back the layers of market behavior and gain a deeper understanding of price action.\n\nThis fantastic open-source project provides a suite of tools inspired by Inner Circle Trader (ICT) methodologies. It's designed to help you identify key market dynamics that often precede significant price moves. Instead of relying purely on conventional indicators, `smc` helps you spot patterns that institutional traders use to make their decisions. It takes your standard Open, High, Low, Close (OHLC) price data and applies sophisticated logic to highlight these crucial insights.\n\nOne of its core features is identifying Fair Value Gaps (FVG). Imagine price moving so quickly that it leaves a gap, an inefficiency in the market. `smc` helps pinpoint these areas, which often act like magnets, drawing price back to 'fill' them. It also automatically detects Swing Highs and Lows, which are critical turning points that define the market's overall structure and direction.\n\nBeyond identifying these points, the library can detect Break of Structure (BOS) and Change of Character (CHoCH). These are powerful signals indicating whether a trend is likely to continue or if a significant reversal might be underway. BOS suggests the existing trend is strengthening, while CHoCH hints at a shift in market control. Furthermore, it helps pinpoint Order Blocks (OB), which are essentially price ranges where large institutional orders were placed. These areas often act as strong support or resistance levels where price might react.\n\nFor developers, this is a game-changer. Imagine automating the detection of these complex patterns, which are typically identified through painstaking manual charting. You can seamlessly integrate `smc` into your existing Python-based trading systems, allowing you to backtest strategies built around these concepts with ease. This library empowers you to build more sophisticated algorithmic trading bots that react to institutional footprints rather than just simple price movements. It removes the subjectivity from identifying these patterns, providing a quantifiable and programmatic way to incorporate advanced market structure analysis into your tools. Whether you're building a new trading bot, enhancing an existing one, or just looking to deepen your understanding of market mechanics, `smc` offers a robust foundation to work with.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/joshyattridge/smart-money-concepts)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
             "name": "python",
             "slug": "python"
         },
         {
-            "name": "google news",
-            "slug": "google-news"
+            "name": "trading",
+            "slug": "trading"
         },
         {
-            "name": "news api",
-            "slug": "news-api"
+            "name": "financial indicators",
+            "slug": "financial-indicators"
         },
         {
-            "name": "data scraping",
-            "slug": "data-scraping"
+            "name": "algorithmic trading",
+            "slug": "algorithmic-trading"
         },
         {
-            "name": "json",
-            "slug": "json"
+            "name": "market analysis",
+            "slug": "market-analysis"
         }
     ],
-    "slug": "gnews-your-python-gateway-to-google-news-no-scraping-required",
-    "project_id": 339720467,
+    "slug": "unlock-market-secrets-dive-into-smart-money-concepts-with-this-python-library",
+    "project_id": 694848632,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
