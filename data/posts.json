@@ -1,30 +1,37 @@
 [
     {
-        "project_id": 694848632,
-        "content": "🌟 <b>smart-money-concepts</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide traders with Python-based tools to implement and backtest algorithmic trading strategies using Smart Money Concepts (SMC) and ICT methodologies.\n<br>\n✨ <b>Key Features:</b>\n• Fair Value Gap (FVG) indicator\n• Swing Highs and Lows detection\n• Break of Structure (BOS) and Change of Character (CHoCH) indicators\n• Order Blocks (OB) detection\n<br>\n📖 <b>Summary:</b>\nThis Python package implements Inner Circle Trader (ICT) smart money concepts for algorithmic trading. It provides a suite of indicators like Order Blocks, Liquidity, Fair Value Gaps, and market structure breaks to help traders analyze market sentiment and identify potential trading opportunities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/joshyattridge/smart-money-concepts?embed=0\">View Project</a>\n• <a href=\"https://pypi.org/project/smartmoneyconcepts/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f73791bc1c96e91f8b2e4f05589abb6c62dee0523f00a56fb092e8858269cf76/joshyattridge/smart-money-concepts",
+        "project_id": 1173152133,
+        "content": "💡 <b>Shadowbroker</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a unified, real-time geospatial intelligence platform for monitoring global activities across various domains, including aviation, maritime, space, and geopolitical events.\n<br>\n✨ <b>Key Features:</b>\n• Real-time multi-domain OSINT dashboard\n• Unified dark-ops map interface\n• Tracks aircraft, ships, satellites, earthquakes, conflict zones, CCTV networks, GPS jamming, and geopolitical events\n<br>\n📖 <b>Summary:</b>\nShadowBroker is a real-time, multi-domain OSINT dashboard that aggregates live data from dozens of open-source intelligence feeds and displays them on a unified map interface. It tracks aircraft, ships, satellites, earthquakes, conflict zones, CCTV networks, and geopolitical events, updating all information in real time.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BigBodyCobain/Shadowbroker?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e982500ecffb276a5aa58ba6b4033cf6256b437333ad6be111ec9ac1448a2486/BigBodyCobain/Shadowbroker",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
+        "quality_score": 0.9
     },
     {
-        "project_id": 353446108,
-        "content": "🌟 <b>pytermgui</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDeveloping complex, visually appealing, and interactive terminal user interfaces with ease.\n<br>\n✨ <b>Key Features:</b>\n• Modular widget system\n• Mouse support\n• Customizable and rapid terminal markup language (TIM)\n• YAML or Python-based styling engines\n• Desktop-inspired window manager system\n<br>\n📖 <b>Summary:</b>\nPyTermGUI is a Python framework for building rich and interactive terminal user interfaces (TUIs). It offers a modular widget system, mouse support, and a customizable markup language for styling text, enabling the creation of desktop-like applications within the terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bczsalba/pytermgui?embed=0\">View Project</a>\n• <a href=\"https://ptg.bczsalba.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/98123649dca563d0be8f16c0e6f3b8ef9ba3e515527deb3a06b56c53621ddd88/bczsalba/pytermgui",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 308168474,
-        "content": "🔥 <b>PyPDFForm</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating the process of filling and managing data within PDF forms using Python.\n<br>\n✨ <b>Key Features:</b>\n• Inspect PDF form fields\n• Fill PDF forms using Python dictionaries\n• Create new form fields on PDFs\n• Extract pages from PDFs\n• Merge multiple PDF documents\n<br>\n📖 <b>Summary:</b>\nPyPDFForm is a Python library designed for automating PDF form interactions. It allows users to programmatically inspect, fill, and create form fields within PDF documents, simplifying form processing tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/chinapandaman/PyPDFForm?embed=0\">View Project</a>\n• <a href=\"https://chinapandaman.github.io/PyPDFForm/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5e9311a8882e8a3f020c0df65539889059acb11c25360bd40cf5b43dfa68e3c8/chinapandaman/PyPDFForm",
-        "platform": "telegram",
-        "quality_score": 0.8499999999999999
-    },
-    {
-        "project_id": 1066996005,
-        "content": "🌟 <b>cursor-clip</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a visually intuitive and dynamically positioned clipboard history manager on Wayland compositors, enhancing productivity and clipboard management.\n<br>\n✨ <b>Key Features:</b>\n• Windows 11-style clipboard history\n• Dynamic positioning at cursor location\n• Native GNOME/Libadwaita design\n• Advanced Wayland integration (Layer Shell Protocol, Cursor Tracking)\n• Multi-output and Multi-input support\n<br>\n📖 <b>Summary:</b>\nCursor Clip is a modern Wayland clipboard manager built with Rust and GTK4, offering a Windows 11-style clipboard history that dynamically positions itself at the mouse cursor. It integrates seamlessly with the GNOME design language and Wayland protocols for reliable clipboard handling.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Sirulex/cursor-clip?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/cafde45b2c127fa08acf39cadbfb1a538b565eb6160a3c5549c8b78992833378/Sirulex/cursor-clip",
+        "project_id": 600475150,
+        "content": "🔥 <b>Cosmos-Server</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSecuring and simplifying the management of self-hosted applications on a home server.\n<br>\n✨ <b>Key Features:</b>\n• App Store for easy installation and management\n• Storage Manager with Parity Disks and MergerFS\n• Network Storages based on RClone\n• Reverse-Proxy with automatic HTTPS\n• Authentication Server with MFA and multiple strategies\n<br>\n📖 <b>Summary:</b>\nCosmos is a self-hosted home server solution designed to enhance the security and ease of managing personal applications. It acts as a secure gateway and server manager, offering features like an app store, storage management, reverse proxy, and authentication server to protect self-hosted services.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/azukaar/Cosmos-Server?embed=0\">View Project</a>\n• <a href=\"https://cosmos-cloud.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c45ae63caa08658a2901d0c47473a6f3a01b169cf0b87bf460b0a0b26d3c846b/azukaar/Cosmos-Server",
         "platform": "telegram",
         "quality_score": 0.9000000000000001
+    },
+    {
+        "project_id": 1058117455,
+        "content": "💡 <b>hexhog</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nEditing and inspecting the raw byte content of files.\n<br>\n✨ <b>Key Features:</b>\n• Configurable hex viewer/editor\n• Basic hex editing (edit/delete/insert bytes)\n• Select and copy/paste bytes\n• Installation via cargo, AUR, and Homebrew\n• Customizable themes and character sets\n<br>\n📖 <b>Summary:</b>\nHexhog is a configurable hex viewer and editor written in Rust. It allows users to inspect and modify the byte-level content of files directly, offering basic editing features like byte insertion, deletion, copying, and pasting.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DVDTSB/hexhog?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/592f5f2116f983c646c043c241c749b989177547054e79b756d82c8d7ab8096c/DVDTSB/hexhog",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 342166902,
+        "content": "🚀 <b>pluGET</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating the process of updating plugins and server software for Minecraft servers to save time and ensure all components are up-to-date.\n<br>\n✨ <b>Key Features:</b>\n• Automated plugin and server software updates\n• Local and remote server management (SFTP/FTP)\n• Support for Spigot, Modrinth, and GitHub plugin sources\n• Updates for PaperMC, Purpur, Waterfall, and Velocity server software\n• Console-based operation with command line arguments\n<br>\n📖 <b>Summary:</b>\npluGET is a Python-based package manager designed to automate the updating of plugins and server software for Minecraft servers. It supports local and remote server management via SFTP/FTP, integrating with APIs from Spigot, Modrinth, and GitHub to simplify plugin and server software maintenance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Neocky/pluGET?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/342166902/4af76480-857f-11eb-8373-fd34c56f0ca1",
+        "platform": "telegram",
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 863717537,
+        "content": "🚀 <b>librepods</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling advanced AirPods features on non-Apple devices.\n<br>\n✨ <b>Key Features:</b>\n• Noise Control Modes\n• Ear Detection\n• Battery Status\n• Head Gestures\n• Conversational Awareness\n<br>\n📖 <b>Summary:</b>\nLibrePods aims to liberate Apple AirPods features from the Apple ecosystem, enabling users to access premium functionalities like noise control, ear detection, and battery status on non-Apple devices, primarily Android and Linux.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kavishdevar/librepods?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/863717537/80b4f2f1-52f9-4c3e-b32a-779933701089",
+        "platform": "telegram",
+        "quality_score": 0.7
     }
 ]
