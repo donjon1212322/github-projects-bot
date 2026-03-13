@@ -1,0 +1,7 @@
+{
+    "project_id": 979700644,
+    "content": "💡 <b>cloudflare-solver</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating the bypassing of Cloudflare's anti-bot challenges to obtain `cf_clearance` cookies or Turnstile tokens for programmatic access to Cloudflare-protected websites.\n<br>\n✨ <b>Key Features:</b>\n• Dual Challenge Support (Challenge and Turnstile)\n• Asynchronous operation using asyncio and Playwright\n• Stealthy browser fingerprinting with Camoufox and BrowserForge\n• Modular OOP design\n• Configurable options (retries, delays, OS)\n<br>\n📖 <b>Summary:</b>\nThis Python repository provides an asynchronous solution for bypassing Cloudflare's anti-bot challenges, specifically Turnstile and Challenge types. It aims to automate the process of obtaining necessary cookies or tokens, supporting features like proxy usage and realistic browser fingerprinting for stealth.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/art3m4ik3/cloudflare-solver?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/0b77c6a370ec7a83f0d583c6a67e47aae443bc56b7a0abeaf9b6b62d86c91d10/art3m4ik3/cloudflare-solver",
+    "platform": "telegram",
+    "quality_score": 0.44999999999999996
+}
