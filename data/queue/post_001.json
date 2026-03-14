@@ -1,7 +1,0 @@
-{
-    "project_id": 757797661,
-    "content": "🔥 <b>ffmpeg-over-ip</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling media servers (like Jellyfin or Emby) or other applications to utilize powerful remote GPU transcoding resources without complex infrastructure changes.\n<br>\n✨ <b>Key Features:</b>\n• GPU-accelerated FFmpeg transcoding from anywhere\n• No GPU passthrough or shared filesystems required\n• Client/server architecture over a single TCP port\n<br>\n📖 <b>Summary:</b>\nffmpeg-over-ip is a Go-based solution that allows applications to leverage GPU-accelerated FFmpeg transcoding on remote servers without requiring direct GPU access, complex setups like PCIe passthrough, or shared filesystems. It acts as a proxy, forwarding FFmpeg commands and file I/O over a TCP connection to a server running a patched FFmpeg instance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/steelbrain/ffmpeg-over-ip?embed=0\">View Project</a>\n• <a href=\"https://ffmpeg-over-ip.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/66e54d3af27963e4c491842ca7b24162ae412f0a4403d5f7b879c06870c6cbf1/steelbrain/ffmpeg-over-ip",
-    "platform": "telegram",
-    "quality_score": 0.6499999999999999
-}
