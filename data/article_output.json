@@ -1,26 +1,26 @@
 {
-    "title": "Scrapling: Your New Go-To for Effortless Web Scraping on the Modern Web!",
-    "article": "Ever felt the pain of trying to scrape data from a modern website? You know, the ones loaded with JavaScript, dynamic content, and clever anti-bot measures that make traditional scrapers throw their hands up in despair? Well, get ready to say goodbye to those headaches, because I've stumbled upon a fantastic project called Scrapling, and it's truly making web scraping effortless for the modern web.\n\nScrapling is designed from the ground up to tackle the complexities of today's internet. Its core purpose is to simplify the entire web scraping process, letting developers focus on the data they need rather than battling with intricate page structures or frustrating blocking mechanisms. Think of it as your intelligent assistant for data extraction.\n\nHow does it work its magic? Scrapling offers a range of powerful \"fetchers\" that can handle different types of websites, including those that heavily rely on JavaScript. This means you can reliably extract data from even the most dynamic pages. Once you've fetched the content, it provides flexible \"selection methods\" to pinpoint exactly what you want, whether it's a specific piece of text, an image URL, or data from a table.\n\nWhat really sets Scrapling apart for me is its intelligent approach to common scraping challenges. It includes built-in \"spiders\" for more structured and complex scraping tasks, allowing you to define how to navigate and extract information across multiple pages. And for those pesky websites that try to block you, Scrapling even features \"proxy rotation\" capabilities, helping you bypass restrictions and maintain anonymity without breaking a sweat. Plus, it comes with a handy command-line interface (CLI) for quick tasks and even has integrations for AI agents, pushing the boundaries of automated data collection.\n\nFor developers, this means a massive boost in productivity. No more spending hours debugging tricky scraping scripts or wrestling with CAPTCHAs and IP blocks. Scrapling handles much of the heavy lifting, allowing you to gather valuable data efficiently and reliably. Whether you're building a data analytics tool, monitoring prices, or just need to collect information for a personal project, Scrapling provides the robust foundation you need to succeed in the ever-evolving landscape of the web.",
+    "title": "Project Aura: Your Next-Gen Open-Source Air Quality Monitor (No Soldering!)",
+    "article": "Project Aura is an innovative open-source air quality station designed specifically for makers and developers who desire a polished and reliable device, moving beyond basic sensor boards. It provides a comprehensive solution for monitoring various environmental parameters with a professional-grade user experience.\n\nAt its core, Project Aura leverages the powerful ESP32-S3 microcontroller. One of its standout features for makers is the assembly process: it's designed for ease, requiring absolutely no soldering thanks to its reliance on Grove/QT connectors. This significantly lowers the barrier to entry, allowing more developers to jump straight into building and customizing their own advanced air quality monitor.\n\nThe device boasts a smooth, touch-friendly user interface built with LVGL. This UI isn't just functional; it's highly customizable, offering features like night mode, custom themes, and clear status indicators, ensuring a pleasant and informative interaction. It transforms raw sensor data into easily digestible visual information directly on the device's screen.\n\nBeyond the on-device display, Project Aura includes an integrated web dashboard, accessible locally. This powerful dashboard provides a live view of all sensor data, historical charts, event logs, and allows for seamless device configuration. Crucially, it also supports Over-The-Air (OTA) firmware updates, making maintenance and feature upgrades incredibly convenient. The telemetry it gathers is extensive, covering PM0.5, PM1, PM2.5, PM4, PM10, CO, CO2, VOC, NOx, temperature, humidity, absolute humidity, pressure, and HCHO.\n\nFor smart home enthusiasts, Project Aura is a game-changer. It's Home Assistant ready, featuring automatic MQTT discovery, which means integrating it into your existing smart home setup is a breeze. Additionally, it offers optional DAC control (GP8403, 0-10V), allowing for manual levels, timers, or even automatic demand mode based on air quality thresholds, perfect for controlling ventilation systems.\n\nDevelopers will appreciate the project's robust 'Safe Boot' feature, which ensures automatic rollback to the last-known-good configuration after any unexpected crashes, enhancing reliability. This project provides a ready-to-use, highly customizable, and robust platform for environmental monitoring. It saves countless hours of development time by providing a stable foundation with advanced features already implemented, making it an excellent starting point for personal projects, smart home integrations, or even as a learning tool for embedded development with ESP32 and LVGL.",
     "key_takeaways": [
-        "Simplifies web scraping for modern, dynamic websites.",
-        "Handles complex challenges like JavaScript rendering and anti-bot measures.",
-        "Offers flexible data selection methods and structured 'spiders'.",
-        "Features proxy rotation for reliable and anonymous data collection.",
-        "Boosts developer productivity with a CLI and AI agent integrations."
+        "Project Aura offers comprehensive, professional-grade air quality monitoring with extensive telemetry.",
+        "Assembly is simplified with no soldering required, utilizing Grove/QT connectors for easy setup.",
+        "Features a smooth, customizable LVGL touch UI and a powerful web dashboard for live data, charts, and OTA updates.",
+        "Seamlessly integrates with Home Assistant via automatic MQTT discovery, ideal for smart home automation.",
+        "Built with reliability in mind, including a 'Safe Boot' feature for automatic configuration rollback."
     ],
     "tags": [
-        "Web Scraping",
-        "Python",
-        "Data Extraction",
-        "Automation",
-        "Web Development"
+        "ESP32",
+        "AirQuality",
+        "IoT",
+        "HomeAssistant",
+        "LVGL"
     ],
-    "stars": 29719,
-    "forks": 2251,
-    "open_issues": 3,
-    "languages": "Python",
-    "readme_summary": "Scrapling is a Python framework designed for adaptive web scraping and crawling. It offers a flexible and robust solution for extracting data from websites, handling tasks ranging from single page requests to large-scale crawls.",
-    "project_id": 872119017,
-    "url": "https://github.com/D4Vinci/Scrapling",
-    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!"
+    "stars": 366,
+    "forks": 30,
+    "open_issues": 1,
+    "languages": "C",
+    "readme_summary": "Project Aura AQ is an open-source ESP32-S3 based air quality station featuring a touch-friendly LVGL UI, local web setup, and MQTT integration for Home Assistant. It provides comprehensive air quality telemetry and is designed for easy assembly by makers.",
+    "project_id": 1140029257,
+    "url": "https://github.com/21cncstudio/project_aura",
+    "description": "ESP32‑S3 air‑quality station with LVGL UI, MQTT, Home Assistant"
 }
