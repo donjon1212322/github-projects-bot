@@ -1,43 +1,36 @@
 [
     {
-        "project_id": 889942997,
-        "content": "✨ <b>UnrealGenAISupport</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable Unreal Engine developers to easily integrate and leverage cutting-edge LLM and Generative AI capabilities for in-game content creation, dynamic world generation, and intelligent NPC behavior.\n<br>\n✨ <b>Key Features:</b>\n• Integration of multiple LLM/GenAI APIs (OpenAI, Deepseek, Claude, Gemini, Qwen, Kimi, Grok)\n<br>\n📖 <b>Summary:</b>\nThis Unreal Engine plugin integrates various Large Language Models (LLMs) and Generative AI (GenAI) models directly into the game development workflow. It simplifies the process of using AI for tasks like scene generation, NPC behavior, and content creation within Unreal Engine, supporting a wide range of popular AI APIs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/prajwalshettydev/UnrealGenAISupport?embed=0\">View Project</a>\n• <a href=\"https://github.com/prajwalshettydev/UnrealGenAISupport/wiki?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/889942997/5b1c012c-0d34-4578-a579-86e77b5fe6b9",
-        "platform": "telegram",
-        "quality_score": 0.9000000000000001
-    },
-    {
-        "project_id": 1043448231,
-        "content": "🔥 <b>semtools</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling efficient semantic search and AI-powered question answering over local document collections directly from the command line.\n<br>\n✨ <b>Key Features:</b>\n• Fast semantic search using model2vec embeddings\n• Reliable document parsing with caching and error handling\n• Unix-friendly design with proper stdin/stdout handling\n• Configurable distance thresholds and returned chunk sizes\n• Multi-format support for parsing documents (PDF, DOCX, PPTX, etc.)\n<br>\n📖 <b>Summary:</b>\nSemTools is a high-performance command-line interface (CLI) tool built in Rust for semantic search and document parsing. It allows users to parse various document formats, perform local semantic keyword searches using multilingual embeddings, and interact with documents via an AI agent for question answering.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/run-llama/semtools?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2e89f3b68c9ca6ea3d7ff27d6e5998c53fa26e441a68f3c92706af140f795d96/run-llama/semtools",
-        "platform": "telegram",
-        "quality_score": 0.7499999999999999
-    },
-    {
-        "project_id": 1069669233,
-        "content": "🔥 <b>aether</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo easily create and apply cohesive desktop themes by extracting colors from wallpapers, supporting a wide range of applications.\n<br>\n✨ <b>Key Features:</b>\n• Color Extraction from wallpapers\n• Wallpaper Browser (wallhaven.cc, local files)\n• Image Filters (blur, exposure, presets)\n• Color Presets (Dracula, Nord, Gruvbox, Catppuccin)\n• Base16 Import\n<br>\n📖 <b>Summary:</b>\nAether is a visual theming application for Omarchy and other Linux desktops. It allows users to extract color palettes from wallpapers, apply them to various applications, and manage themes through a graphical interface or command line.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bjarneo/aether?embed=0\">View Project</a>\n• <a href=\"https://omarchy.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1ce4805e3c3302003c23af391d60396e0337bf4263a33624ff0faa733b19ea97/bjarneo/aether",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 244694886,
-        "content": "🌟 <b>nightingale</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a robust and intelligent alerting system for monitoring infrastructure and applications, integrating with existing data sources and offering advanced alarm processing and distribution.\n<br>\n✨ <b>Key Features:</b>\n• Open-source alerting expert\n• Connects with various existing data sources (e.g., VictoriaMetrics, ElasticSearch)\n• Configurable alerting and notification rules\n<br>\n📖 <b>Summary:</b>\nNightingale is an open-source alerting and monitoring system designed to work with existing data sources. It focuses on efficient processing and distribution of alarms, offering capabilities similar to Grafana but with a stronger emphasis on the alerting engine.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ccfos/nightingale?embed=0\">View Project</a>\n• <a href=\"https://n9e.github.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b04e02a0417b18afd932998d35545f092aae5a0a2de325b7647b8a78e7d7bbb5/ccfos/nightingale",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 997737944,
-        "content": "🚀 <b>RuView</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling non-visual, real-time human sensing and monitoring in environments using existing WiFi infrastructure.\n<br>\n✨ <b>Key Features:</b>\n• WiFi DensePose for human pose estimation\n• Vital sign monitoring (breathing rate, heart rate)\n• Presence detection\n• Edge AI system running on low-power hardware (ESP32)\n<br>\n📖 <b>Summary:</b>\nRuView is an edge AI perception system that uses commodity WiFi signals to perform real-time human pose estimation, vital sign monitoring, and presence detection without cameras or wearables. It analyzes Channel State Information (CSI) disturbances to reconstruct body position and physiological data, operating entirely on low-power hardware like ESP32.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ruvnet/RuView?embed=0\">View Project</a>\n• <a href=\"https://github.com/ruvnet/ruvector/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/997737944/2860500f-6e90-47c1-a59a-1c83e376e5cf",
+        "project_id": 956657893,
+        "content": "🚀 <b>mobile-mcp</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a unified, platform-agnostic interface for automating native iOS and Android applications on various device types, enabling LLM-driven interactions and complex user journeys.\n<br>\n✨ <b>Key Features:</b>\n• Platform-agnostic interface for iOS and Android automation\n• Supports emulators, simulators, and real devices\n<br>\n📖 <b>Summary:</b>\nThe Mobile MCP server acts as a platform-agnostic interface for automating and interacting with native iOS and Android applications. It allows agents and LLMs to control mobile devices (emulators, simulators, and real devices) using accessibility data or screenshot-based analysis, simplifying mobile development and automation tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mobile-next/mobile-mcp?embed=0\">View Project</a>\n• <a href=\"https://mobilenexthq.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5a3006bad043ab1b332bc00b7d7cde3ddcc755962bfce2c9f672442d39480585/mobile-next/mobile-mcp",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 319779344,
-        "content": "✨ <b>maplibre-gl-js</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEmbedding interactive, high-performance maps into web applications.\n<br>\n✨ <b>Key Features:</b>\n• Interactive vector tile maps\n• GPU-accelerated rendering\n• Open-source fork of mapbox-gl-js\n• Customizable map styles\n• Support for various map layers (e.g., heatmaps, 3D buildings)\n<br>\n📖 <b>Summary:</b>\nMapLibre GL JS is an open-source JavaScript library for displaying interactive vector tile maps on websites and web applications. It leverages GPU acceleration for fast rendering and originated as a fork of mapbox-gl-js.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/maplibre/maplibre-gl-js?embed=0\">View Project</a>\n• <a href=\"https://maplibre.org/maplibre-gl-js/docs/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/319779344/38baac00-8c8c-11eb-9b8b-01990f75f4f5",
+        "project_id": 845337192,
+        "content": "🌟 <b>certimate</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating and simplifying the management of SSL certificates for self-hosted environments through a visual interface.\n<br>\n✨ <b>Key Features:</b>\n• Automated SSL certificate issuance, deployment, renewal, and monitoring\n• Self-hosted with full data control and privacy\n• Zero dependencies, single-click deployment\n• Low resource usage (~16MB memory)\n• User-friendly GUI for visual workflow orchestration\n<br>\n📖 <b>Summary:</b>\nCertimate is an open-source, self-hosted ACME tool that automates the entire lifecycle of SSL certificate management, including issuance, deployment, renewal, and monitoring. It offers a user-friendly GUI, zero dependencies, and low resource usage, making it suitable for various deployment scenarios.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/certimate-go/certimate?embed=0\">View Project</a>\n• <a href=\"https://docs.certimate.me?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/845337192/867b36c1-f521-4092-af0f-dd3dba7da59f",
+        "platform": "telegram",
+        "quality_score": 0.9
+    },
+    {
+        "project_id": 1079345325,
+        "content": "🔥 <b>OpenMemory</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide AI agents and LLM applications with persistent, long-term memory, enabling them to retain information and context across interactions without relying solely on stateless models or basic RAG.\n<br>\n✨ <b>Key Features:</b>\n• Real long-term memory for AI agents\n• Self-hosted, local-first storage (SQLite/Postgres)\n• Python and Node.js SDKs\n• Integrations with LangChain, CrewAI, AutoGen, Streamlit, MCP, VS Code\n<br>\n📖 <b>Summary:</b>\nOpenMemory is a self-hosted, local-first cognitive memory engine for AI agents, providing real long-term memory beyond simple embeddings. It offers SDKs for Python and Node.js, integrates with popular agent frameworks, and supports data ingestion from various sources.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/CaviraOSS/OpenMemory?embed=0\">View Project</a>\n• <a href=\"https://openmemory.cavira.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1079345325/7824cc9a-f2e5-4013-ae35-fc371f799ccd",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 740303686,
+        "content": "✨ <b>sglang</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nServing large language models and multimodal models with high performance and low latency for inference.\n<br>\n✨ <b>Key Features:</b>\n• High-performance inference for LLMs and multimodal models\n• Optimized attention mechanisms (e.g., FlashAttention, PagedAttention)\n• Support for a wide array of open-source models (Llama, Mistral, Qwen, etc.)\n• Day-0 support for new model releases\n<br>\n📖 <b>Summary:</b>\nSGLang is a high-performance serving framework designed for efficient inference of large language models (LLMs) and multimodal models. It offers advanced features like optimized attention mechanisms and supports a wide range of popular models, enabling faster and more scalable AI deployments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sgl-project/sglang?embed=0\">View Project</a>\n• <a href=\"https://sglang.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f230631142cda3618d433edfa88d18c7f841af7cf0ccf86361e4fe957ccb9fd8/sgl-project/sglang",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 936374955,
+        "content": "🔥 <b>x402</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling seamless, network-agnostic payments over the internet using HTTP.\n<br>\n✨ <b>Key Features:</b>\n• Open standard for internet-native payments\n• Supports all networks (crypto & fiat) and forms of value (stablecoins, tokens, fiat)\n• Built on HTTP, complementing existing data transportation\n• Network, token, and currency agnostic\n• Backwards compatible\n<br>\n📖 <b>Summary:</b>\nx402 is an open standard for internet-native payments, built on HTTP. It aims to support all networks and forms of value, abstracting away complexities like gas fees for clients and resource servers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/coinbase/x402?embed=0\">View Project</a>\n• <a href=\"https://x402.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a3f41577af713094cf8ae23c3bc5bf0bffc999eb372e8376293196e6a8d788c2/coinbase/x402",
         "platform": "telegram",
         "quality_score": 0.85
     }

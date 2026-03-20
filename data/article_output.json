@@ -1,26 +1,26 @@
 {
-    "title": "See Through Walls with WiFi + AI? Meet π RuView!",
-    "article": "Ever wish your smart home or IoT projects could understand what's happening in a room without needing cameras or intrusive wearables? Imagine a system that can 'see' through walls, detect human presence, track movement, and even monitor vital signs like breathing and heart rate, all using just the WiFi signals already around us. Sounds like science fiction, right? Well, get ready to meet π RuView, a truly groundbreaking open-source project that turns this futuristic vision into a practical reality for developers.\n\nπ RuView is an ingenious edge AI perception system that learns directly from its environment. Instead of relying on visual data from cameras or expensive cloud processing, it leverages existing signals like WiFi. Think of it this way: when you move, you create tiny disturbances in the WiFi signals around you. RuView is designed to 'listen' to these disturbances, specifically by analyzing something called Channel State Information (CSI). This CSI data acts like a detailed fingerprint of how WiFi signals are affected by everything in a space, including people.\n\nThe project gained significant attention for its implementation of WiFi DensePose, a technique inspired by academic research. Essentially, by processing these CSI disturbances, RuView can reconstruct a human's body position, almost like creating a 'skeleton' of their movement. But it doesn't stop there. It can also precisely detect breathing rates (6-30 BPM), heart rates (40-120 BPM), and simply sense presence with sub-millisecond latency. All this happens locally, on inexpensive hardware like an ESP32 sensor mesh, which can cost as little as a dollar per node.\n\nWhat makes π RuView truly stand out is its 'self-learning' capability. Unlike many AI systems that require vast amounts of labeled data or synchronized cameras for training, RuView learns directly from the radio signals it observes. Each deployment develops a unique local model of its surroundings, continuously adapting and improving over time without needing internet connectivity, cloud fees, or manual calibration. This means your smart spaces can gain sophisticated spatial awareness, understanding activity and presence purely through physics-based signal processing and on-device machine learning.\n\nFor developers, this opens up a world of possibilities. You can build incredibly private and responsive applications for smart homes, elder care monitoring, security systems, or even interactive installations, all without the privacy concerns associated with cameras. The system is built for low-power edge applications, offering instant response times and robust performance, thanks to its Rust foundation. With π RuView, you're not just building smart devices; you're enabling environments to truly perceive and understand the world around them, offering a new dimension of ambient intelligence.",
+    "title": "Tired of Mobile Automation Headaches? Meet Mobile Next MCP!",
+    "article": "Developing and automating for mobile platforms often feels like juggling two different worlds: iOS and Android. Each has its own quirks, tools, and learning curve, making scalable automation a real challenge. What if you could interact with any mobile device, regardless of its operating system, through a single, unified interface? That's precisely where Mobile Next MCP (Model Context Protocol) server steps in, offering a breath of fresh air for developers.\n\nMobile Next MCP is designed to be your go-to solution for scalable mobile automation and development. Its core strength lies in being completely platform-agnostic, meaning you no longer need distinct iOS or Android expertise just to get your automation scripts running. Whether you're working with emulators, simulators, or actual physical devices—be it an iPhone, Samsung, or Google Pixel—this server provides a consistent way to interact.\n\nThe magic behind Mobile Next MCP's versatility comes from how it enables interaction. It allows agents and Large Language Models (LLMs) to communicate with native iOS/Android applications and devices. This is achieved primarily through structured accessibility snapshots, which are essentially detailed maps of what's on the screen and how elements are organized. When accessibility labels aren't available, it intelligently falls back to coordinate-based taps derived from screenshots, ensuring robust interaction even in challenging scenarios. This dual approach makes it incredibly reliable.\n\nFor developers, this project opens up a world of possibilities. Imagine easily scripting complex native app automation for testing or data-entry scenarios, without the tedious manual control of individual simulators or devices. You can automate multi-step user journeys driven by an LLM, allowing AI to navigate and interact with apps intelligently. It's also perfect for general-purpose mobile application interaction within agent-based frameworks, fostering agent-to-agent communication for advanced mobile automation use cases like data extraction.\n\nBeyond its powerful capabilities, Mobile Next MCP is built for efficiency. It's fast and lightweight, leveraging native accessibility trees for most interactions, which is also incredibly LLM-friendly as it doesn't always require heavy computer vision models. Its 'Visual Sense' feature evaluates and analyzes what's actually rendered on screen to make deterministic decisions, reducing the ambiguity often found in purely screenshot-based methods. This means more reliable, predictable automation and development workflows for everyone.",
     "key_takeaways": [
-        "Perceive human pose, vital signs (breathing, heart rate), and presence using only WiFi signals, even through walls.",
-        "Operates entirely at the edge on inexpensive ESP32 hardware, without cameras, wearables, or internet connectivity.",
-        "Self-learns and adapts to its environment, continuously improving its local model without cloud infrastructure or labeled data.",
-        "Enables privacy-focused ambient intelligence for smart spaces and IoT applications by avoiding visual sensors.",
-        "Built for low-power, instant-response applications with a high-performance Rust foundation."
+        "Achieve platform-agnostic mobile automation across iOS and Android devices, simulators, and emulators.",
+        "Enable LLMs and AI agents to interact with native mobile applications using structured accessibility data or screenshot analysis.",
+        "Simplify complex mobile workflows, allowing for scripted flows, data entry, and multi-step user journey automation.",
+        "Benefit from a fast, lightweight, and LLM-friendly solution that reduces the need for heavy computer vision models.",
+        "Enhance automation reliability with 'Visual Sense' for deterministic interaction based on actual screen rendering."
     ],
     "tags": [
-        "WiFi Sensing",
-        "Edge AI",
-        "DensePose",
-        "IoT",
-        "ESP32"
+        "MobileAutomation",
+        "iOSDevelopment",
+        "AndroidDevelopment",
+        "LLMAgents",
+        "MCPProtocol"
     ],
-    "stars": 38149,
-    "forks": 5220,
-    "open_issues": 30,
-    "languages": "Rust",
-    "readme_summary": "RuView is an edge AI perception system that uses commodity WiFi signals to perform real-time human pose estimation, vital sign monitoring, and presence detection without cameras or wearables. It analyzes Channel State Information (CSI) disturbances to reconstruct body position and physiological data, operating entirely on low-power hardware like ESP32.",
-    "project_id": 997737944,
-    "url": "https://github.com/ruvnet/RuView",
-    "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. "
+    "stars": 3966,
+    "forks": 340,
+    "open_issues": 26,
+    "languages": "TypeScript",
+    "readme_summary": "The Mobile MCP server acts as a platform-agnostic interface for automating and interacting with native iOS and Android applications. It allows agents and LLMs to control mobile devices (emulators, simulators, and real devices) using accessibility data or screenshot-based analysis, simplifying mobile development and automation tasks.",
+    "project_id": 956657893,
+    "url": "https://github.com/mobile-next/mobile-mcp",
+    "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
 }
