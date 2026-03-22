@@ -1,44 +1,30 @@
 [
     {
-        "project_id": 1166329580,
-        "content": "🔥 <b>tennis</b> | Zig\n<br>\n🎯 <b>Primary Use Case:</b>\nDisplaying CSV data in a formatted, readable table within the terminal.\n<br>\n✨ <b>Key Features:</b>\n• auto-layout to fit your terminal window\n• auto-themes to pick light or dark based on your terminal background\n• auto-format numbers\n• auto-detect csv vs tsv (or semis, or pipes)\n• titles, row numbers, border styles\n<br>\n📖 <b>Summary:</b>\nTennis is a command-line interface tool written in Zig that displays CSV data in a stylish, well-formatted table directly within the terminal. It automatically adjusts to terminal size, applies color themes based on background, and formats numbers for readability.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gurgeous/tennis?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d31b9d226ff13007ab4e5596e3579286f96818498303c5a280d320fb77b314b0/gurgeous/tennis",
+        "project_id": 1160059994,
+        "content": "🚀 <b>Snowify</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a desktop music listening experience by streaming audio from YouTube Music, offering advanced features and a clean interface without ads or account requirements.\n<br>\n✨ <b>Key Features:</b>\n• Search YouTube Music\n• Stream audio with playback controls\n• Manage music queues\n• Create and manage playlists\n• View synced lyrics\n<br>\n📖 <b>Summary:</b>\nSnowify is a desktop music player built using Electron that streams audio directly from YouTube Music. It offers a clean user interface without requiring accounts or displaying ads, providing features like search, playback controls, playlist management, and synced lyrics.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nyakuoff/Snowify?embed=0\">View Project</a>\n• <a href=\"https://snowify.cc?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1160059994/8c0ae12d-f1d7-4203-b1f1-1cda8c8e88a9",
         "platform": "telegram",
-        "quality_score": 0.5499999999999999
+        "quality_score": 0.9
     },
     {
-        "project_id": 27574418,
-        "content": "🌟 <b>nerd-fonts</b> | CSS\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide developers with programming fonts enhanced with a comprehensive set of icons and glyphs, improving the visual representation of code and terminal output.\n<br>\n✨ <b>Key Features:</b>\n• Patches developer-targeted fonts with a high number of glyphs (icons)\n• Includes glyphs from Font Awesome, Devicons, Octicons, and others\n• Provides a font patcher tool\n<br>\n📖 <b>Summary:</b>\nNerd Fonts is a project that enhances programming fonts by patching them with a large collection of glyphs and icons from popular iconic font libraries. It provides a font patcher tool for users to customize their own fonts, offering a wide variety of installation options across different operating systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ryanoasis/nerd-fonts?embed=0\">View Project</a>\n• <a href=\"https://NerdFonts.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/27574418/e3fca880-c1ad-11e9-8588-78686ecb4ca0",
+        "project_id": 299482335,
+        "content": "💡 <b>autocomplete</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing command-line productivity by providing intelligent autocompletion for terminal commands.\n<br>\n✨ <b>Key Features:</b>\n• IDE-style autocompletion for terminal commands\n• Supports hundreds of popular CLIs (git, npm, docker, aws, etc.)\n• Contextually relevant suggestions for subcommands, options, and arguments\n• Declarative schema for defining completions ('completion specs')\n• Extensible with custom completion specs\n<br>\n📖 <b>Summary:</b>\nAmazon Q Developer CLI, formerly Fig, provides IDE-style autocompletion for terminal commands. It enhances the command-line experience by offering contextually relevant suggestions for subcommands, options, and arguments for hundreds of popular CLIs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/withfig/autocomplete?embed=0\">View Project</a>\n• <a href=\"https://fig.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/299482335/73b47831-7f71-40e1-8b61-40eaa4555bb0",
         "platform": "telegram",
-        "quality_score": 1.0000000000000002
+        "quality_score": 0.55
     },
     {
-        "project_id": 273572029,
-        "content": "💡 <b>PhotoGIMP</b> | CSS\n<br>\n🎯 <b>Primary Use Case:</b>\nTo make GIMP's user interface and controls feel familiar to Adobe Photoshop users, easing the transition for those switching to GIMP.\n<br>\n✨ <b>Key Features:</b>\n• Photoshop-like tool layout\n• Custom Splash Screen\n• Maximized canvas space\n• Photoshop keyboard shortcuts\n• Custom icon & name\n<br>\n📖 <b>Summary:</b>\nPhotoGIMP is a patch for GIMP that modifies its user interface and keyboard shortcuts to closely resemble Adobe Photoshop. It aims to provide a familiar environment for users transitioning from Photoshop to the free and open-source GIMP, enhancing usability for those accustomed to Adobe's workflow.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Diolinux/PhotoGIMP?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/273572029/f6123ad8-c71e-4767-844e-f1fae73181b7",
+        "project_id": 969686408,
+        "content": "🚀 <b>nerdlog</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nReading system logs from one or more remote Linux hosts efficiently, with a focus on web service backend logs, enabling quick filtering by time range and patterns.\n<br>\n✨ <b>Key Features:</b>\n• Remote-first, multi-host TUI log viewer\n• No central server required\n• Log analysis performed on remote nodes\n• Interactive timeline histogram for visual insight\n• Efficient querying even on large log files\n<br>\n📖 <b>Summary:</b>\nNerdlog is a fast, remote-first TUI log viewer designed for efficiently querying and visualizing logs from multiple hosts simultaneously. It requires no central server and performs log analysis on remote nodes, downloading only necessary data for display and timeline histograms.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dimonomid/nerdlog?embed=0\">View Project</a>\n• <a href=\"https://dmitryfrank.com/projects/nerdlog/article?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/969686408/9362bef8-17bd-45d4-b08b-0007b713191b",
         "platform": "telegram",
-        "quality_score": 0.6
+        "quality_score": 0.55
     },
     {
-        "project_id": 1034918094,
-        "content": "🌟 <b>zerobyte</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating and managing encrypted backups for self-hosted data through a web interface.\n<br>\n✨ <b>Key Features:</b>\n• Automated backups with encryption, compression, and retention policies powered by Restic\n• Flexible scheduling for automated backup jobs with fine-grained retention policies\n• End-to-end encryption\n• Multi-protocol support (NFS, SMB, WebDAV, SFTP, local directories)\n<br>\n📖 <b>Summary:</b>\nZerobyte is a TypeScript-based backup automation tool designed for self-hosters. It leverages Restic to provide a web interface for scheduling, managing, and monitoring encrypted backups across various storage protocols.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nicotsx/zerobyte?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1034918094/2d0f4581-1187-485d-bbf8-50a20f3e408c",
+        "project_id": 648784316,
+        "content": "🔥 <b>Linkora</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nOrganizing and synchronizing web links across multiple devices (Android and desktop) with an optional self-hosted sync server.\n<br>\n✨ <b>Key Features:</b>\n• Organize links with folders, subfolders, and tags\n• Multiple view layouts with AMOLED theme support\n• Highlight important links and archive old ones\n• Customize link names and auto-recognize images/titles\n• Share from other apps and add folders to Panels\n<br>\n📖 <b>Summary:</b>\nLinkora is a local-first link organizer for Android and desktop that allows users to save, organize, and sync links across devices. It supports features like folders, tags, and self-hosted synchronization, along with a browser extension for easy saving.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/LinkoraApp/Linkora?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/648784316/a821a4f4-cfc4-4e0b-ba7a-164bf9ac3fe9",
         "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1100973251,
-        "content": "🚀 <b>server-survival</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTeaching cloud architecture and DevOps principles through an engaging game simulation.\n<br>\n✨ <b>Key Features:</b>\n• Interactive 3D simulation game\n• Learn cloud architecture concepts\n• Build and scale cloud infrastructure\n• Handle increasing traffic loads\n• Defend against DDoS attacks\n<br>\n📖 <b>Summary:</b>\nServer Survival is an educational 3D simulation game where players act as Cloud Architects. The game teaches cloud infrastructure concepts by challenging players to build, scale, and manage a resilient system to handle traffic loads, defend against attacks, and stay within budget.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pshenok/server-survival?embed=0\">View Project</a>\n• <a href=\"https://pshenok.github.io/server-survival/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4100ee5d777a68eb2843d376198acf1d8acfee566615b12971565b749e6942ee/pshenok/server-survival",
-        "platform": "telegram",
-        "quality_score": 0.9000000000000001
-    },
-    {
-        "project_id": 888108803,
-        "content": "🚀 <b>THE-Process-Manager</b> | Makefile\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time system monitoring and process management via a terminal user interface.\n<br>\n✨ <b>Key Features:</b>\n• Retrieve and Display Process Data\n• CPU and Memory Usage Calculations\n• Sorting\n• Detailed Process Information\n<br>\n📖 <b>Summary:</b>\nTHE Process Manager is a Rust-based TUI application for real-time system monitoring. It retrieves and displays detailed CPU and memory usage for running processes, offering sorting and filtering capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/moh-a-abde/THE-Process-Manager?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1398816e1c5dec4d25a122430e4bfb67ad3b32148c2d5111fef186fb8cef9965/moh-a-abde/THE-Process-Manager",
-        "platform": "telegram",
-        "quality_score": 0.6
+        "quality_score": 0.5
     }
 ]
