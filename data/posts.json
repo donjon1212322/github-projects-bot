@@ -1,30 +1,44 @@
 [
     {
-        "project_id": 1160059994,
-        "content": "🚀 <b>Snowify</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a desktop music listening experience by streaming audio from YouTube Music, offering advanced features and a clean interface without ads or account requirements.\n<br>\n✨ <b>Key Features:</b>\n• Search YouTube Music\n• Stream audio with playback controls\n• Manage music queues\n• Create and manage playlists\n• View synced lyrics\n<br>\n📖 <b>Summary:</b>\nSnowify is a desktop music player built using Electron that streams audio directly from YouTube Music. It offers a clean user interface without requiring accounts or displaying ads, providing features like search, playback controls, playlist management, and synced lyrics.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nyakuoff/Snowify?embed=0\">View Project</a>\n• <a href=\"https://snowify.cc?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1160059994/8c0ae12d-f1d7-4203-b1f1-1cda8c8e88a9",
+        "project_id": 769637253,
+        "content": "🚀 <b>Tamari</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nA personal web application for users to manage, organize, and discover recipes, plan meals, and create shopping lists.\n<br>\n✨ <b>Key Features:</b>\n• User account creation and management\n• Recipe storage, viewing, searching, and sharing\n• Recipe organization (categories, favorites)\n• Recipe import from external websites\n• Shopping list creation and management\n<br>\n📖 <b>Summary:</b>\nTamari is a comprehensive web application for managing recipes, built with Python and Flask. It allows users to store, search, organize, and share recipes, create shopping lists, plan meals, and import recipes from other websites.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alexbates/Tamari?embed=0\">View Project</a>\n• <a href=\"https://tamariapp.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ea6f53d23db3ecdeb1cdc9024f204016d5d5af7c721e118c554e816f09abf760/alexbates/Tamari",
+        "platform": "telegram",
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 681836129,
+        "content": "🌟 <b>tookie-osint</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDiscovering social media usernames across various websites based on a given input.\n<br>\n✨ <b>Key Features:</b>\n• Advanced OSINT information gathering\n• Finds social media accounts based on inputs\n• Simple-to-use UI\n• High performance (rewritten from scratch)\n• Optimized for Python 3.12\n<br>\n📖 <b>Summary:</b>\nTookie-OSINT is an advanced Python-based tool designed for efficient information gathering, specifically focused on discovering social media accounts based on provided inputs. It aims to be user-friendly and highly performant, assisting new programmers and pentesters in the field of OSINT.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Alfredredbird/tookie-osint?embed=0\">View Project</a>\n• <a href=\"https://alfredredbird.github.io/tookie-osint/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/681836129/d0520daa-4300-4539-b8b9-6bd1b5f3317e",
         "platform": "telegram",
         "quality_score": 0.9
     },
     {
-        "project_id": 299482335,
-        "content": "💡 <b>autocomplete</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing command-line productivity by providing intelligent autocompletion for terminal commands.\n<br>\n✨ <b>Key Features:</b>\n• IDE-style autocompletion for terminal commands\n• Supports hundreds of popular CLIs (git, npm, docker, aws, etc.)\n• Contextually relevant suggestions for subcommands, options, and arguments\n• Declarative schema for defining completions ('completion specs')\n• Extensible with custom completion specs\n<br>\n📖 <b>Summary:</b>\nAmazon Q Developer CLI, formerly Fig, provides IDE-style autocompletion for terminal commands. It enhances the command-line experience by offering contextually relevant suggestions for subcommands, options, and arguments for hundreds of popular CLIs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/withfig/autocomplete?embed=0\">View Project</a>\n• <a href=\"https://fig.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/299482335/73b47831-7f71-40e1-8b61-40eaa4555bb0",
+        "project_id": 477528511,
+        "content": "🚀 <b>bore</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nExposing local services to the internet through a secure tunnel, enabling remote access or public testing of local applications.\n<br>\n✨ <b>Key Features:</b>\n• Simple CLI tool\n• TCP tunneling\n• Exposes local ports to remote servers\n• Bypasses NAT and firewalls\n• Efficient and unopinionated\n<br>\n📖 <b>Summary:</b>\nbore is a Rust-based CLI tool for creating simple TCP tunnels. It allows users to expose local ports to a remote server, effectively bypassing NAT and firewalls, and is designed for efficiency and ease of self-hosting.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ekzhang/bore?embed=0\">View Project</a>\n• <a href=\"http://bore.pub?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/2c02225d402a8ff02df87906473c5b128fd645bc2ebf48d877baff50cc657b4d/ekzhang/bore",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.9
     },
     {
-        "project_id": 969686408,
-        "content": "🚀 <b>nerdlog</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nReading system logs from one or more remote Linux hosts efficiently, with a focus on web service backend logs, enabling quick filtering by time range and patterns.\n<br>\n✨ <b>Key Features:</b>\n• Remote-first, multi-host TUI log viewer\n• No central server required\n• Log analysis performed on remote nodes\n• Interactive timeline histogram for visual insight\n• Efficient querying even on large log files\n<br>\n📖 <b>Summary:</b>\nNerdlog is a fast, remote-first TUI log viewer designed for efficiently querying and visualizing logs from multiple hosts simultaneously. It requires no central server and performs log analysis on remote nodes, downloading only necessary data for display and timeline histograms.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dimonomid/nerdlog?embed=0\">View Project</a>\n• <a href=\"https://dmitryfrank.com/projects/nerdlog/article?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/969686408/9362bef8-17bd-45d4-b08b-0007b713191b",
+        "project_id": 1182448316,
+        "content": "🔥 <b>badapple_in_tg</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to play video animations within Telegram chats by converting videos into custom animated emoji sticker packs.\n<br>\n✨ <b>Key Features:</b>\n• Video to animated emoji sticker pack conversion\n• Playing animations (e.g., Bad Apple) in Telegram chats using custom emoji\n• Multi-bot architecture to bypass Telegram API limits\n• Customizable grid size for emoji animation\n<br>\n📖 <b>Summary:</b>\nThis repository provides two Python bots for Telegram: a \"cutter bot\" that converts videos into animated emoji sticker packs, and a \"player bot\" that plays animations like Bad Apple using these custom emoji in Telegram chats. It leverages multiple bots to overcome Telegram API rate limits.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/IRRatium/badapple_in_tg?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/47270e37cc85eddf75ce0d141a2cbb2350b254fd14a5edf1e30fd76a85444825/IRRatium/badapple_in_tg",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.6499999999999999
     },
     {
-        "project_id": 648784316,
-        "content": "🔥 <b>Linkora</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nOrganizing and synchronizing web links across multiple devices (Android and desktop) with an optional self-hosted sync server.\n<br>\n✨ <b>Key Features:</b>\n• Organize links with folders, subfolders, and tags\n• Multiple view layouts with AMOLED theme support\n• Highlight important links and archive old ones\n• Customize link names and auto-recognize images/titles\n• Share from other apps and add folders to Panels\n<br>\n📖 <b>Summary:</b>\nLinkora is a local-first link organizer for Android and desktop that allows users to save, organize, and sync links across devices. It supports features like folders, tags, and self-hosted synchronization, along with a browser extension for easy saving.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/LinkoraApp/Linkora?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/648784316/a821a4f4-cfc4-4e0b-ba7a-164bf9ac3fe9",
+        "project_id": 1182460384,
+        "content": "✨ <b>codevault</b> | PHP\n<br>\n🎯 <b>Primary Use Case:</b>\nA personal code library for developers to store, organize, search, and share code snippets.\n<br>\n✨ <b>Key Features:</b>\n• Snippet management with syntax highlighting\n• Full-text search across title, tags, and code\n• Public and private snippet options\n• Explore page for public snippets\n• User profiles\n<br>\n📖 <b>Summary:</b>\nCodeVault is a PHP-based web application designed to help developers manage their code snippets. It allows users to save, organize, search, and share code snippets with features like syntax highlighting, full-text search, public/private options, and a REST API.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/IManss-ai/codevault?embed=0\">View Project</a>\n• <a href=\" https://codevault-production-86f2.up.railway.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fa1f40ef54d3532fde1e021d10a99d064921871a3ec9e59bf5d0d4277fc0970e/IManss-ai/codevault",
         "platform": "telegram",
-        "quality_score": 0.5
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 71402842,
+        "content": "🔥 <b>Detours</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring and instrumenting API calls on Windows for debugging, analysis, or modifying application behavior.\n<br>\n✨ <b>Key Features:</b>\n• API call monitoring\n• API call instrumentation\n• Hooking Windows API calls\n• Source code availability\n• MIT License\n<br>\n📖 <b>Summary:</b>\nDetours is a C++ software package for monitoring and instrumenting API calls on Windows. It allows developers to intercept and modify the behavior of existing Windows API functions, enabling features like debugging, performance analysis, and application behavior modification. The project is now open-sourced under the MIT license.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/microsoft/Detours?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5bf8649653b7a1da7d56b787650d1864e90eee84371f8c2f9c7bce8d47e9a204/microsoft/Detours",
+        "platform": "telegram",
+        "quality_score": 0.8999999999999999
     }
 ]
