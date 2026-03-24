@@ -1,7 +1,0 @@
-{
-    "project_id": 848600003,
-    "content": "🔥 <b>scuda</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling CPU-only machines to access and leverage GPUs on remote machines for tasks like local testing, aggregated GPU pooling, and remote model training.\n<br>\n✨ <b>Key Features:</b>\n• GPU over IP bridge\n• Remote GPU attachment to CPU-only machines\n• Support for CUDA libraries (cuBLAS, cuDNN)\n• Unified Memory support\n• RPC call generation via codegen\n<br>\n📖 <b>Summary:</b>\nSCUDA is a C++ based GPU-over-IP bridge that allows CPU-only machines to access and utilize GPUs located on remote machines. It facilitates distributed GPU resource pooling and remote development/testing by creating a virtual GPU connection over a network.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kevmo314/scuda?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/b84bcf7ee3f09574dc14825814aeb0ce47f458c13b76d4c60ca2852fef2b8165/kevmo314/scuda",
-    "platform": "telegram",
-    "quality_score": 0.65
-}
