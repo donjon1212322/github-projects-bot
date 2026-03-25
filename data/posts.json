@@ -1,44 +1,30 @@
 [
     {
-        "project_id": 639195966,
-        "content": "🌟 <b>swarms</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nOrchestrating and managing enterprise-grade, production-ready multi-agent AI systems.\n<br>\n✨ <b>Key Features:</b>\n• Production-Ready Infrastructure\n• High Availability Systems\n• Modular Microservices Design\n• Hierarchical Agent Swarms\n• Parallel Processing Pipelines\n<br>\n📖 <b>Summary:</b>\nSwarms is an enterprise-grade, production-ready framework for orchestrating multi-agent systems. It provides a robust infrastructure for building, deploying, and managing complex AI agent workflows, supporting hierarchical and parallel processing, and integrating with various AI models and tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kyegomez/swarms?embed=0\">View Project</a>\n• <a href=\"https://docs.swarms.world?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/639195966/bc2890e2-b8dc-4f4c-b2f2-73a7ca0367ac",
+        "project_id": 325550081,
+        "content": "🌟 <b>HeroicGamesLauncher</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a unified and open-source game launcher for users to access and play games from various digital distribution platforms on their desktop operating systems.\n<br>\n✨ <b>Key Features:</b>\n• Supports Epic Games Store, GOG, and Amazon Games.\n• Cross-platform compatibility (Linux, Windows, macOS).\n• Built with web technologies (TypeScript, React, Electron).\n<br>\n📖 <b>Summary:</b>\nHeroic Games Launcher is an open-source game launcher that allows users to manage and play games from multiple digital storefronts including Epic Games Store, GOG, and Amazon Games. It supports Linux, Windows, and macOS, leveraging web technologies for its development.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher?embed=0\">View Project</a>\n• <a href=\"https://heroicgameslauncher.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1747ee29838fbfc1f5bf08e7a6f154cfd5143f0927d51218a0bef0d1b9c5cc95/Heroic-Games-Launcher/HeroicGamesLauncher",
         "platform": "telegram",
-        "quality_score": 1.2000000000000002
+        "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 909666349,
-        "content": "🌟 <b>imgcompress</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a comprehensive, self-hosted solution for all common image manipulation tasks, ensuring user privacy and data security by processing images locally via Docker.\n<br>\n✨ <b>Key Features:</b>\n• Offline and privacy-first image processing\n• Supports 70+ image formats (including PSD, HEIC, TIFF, EPS, PDF)\n• AI-powered background removal (runs locally)\n<br>\n📖 <b>Summary:</b>\nImgCompress is a privacy-focused, self-hosted image processing tool that runs entirely within Docker. It offers a wide range of functionalities including compression, conversion, resizing, batch processing, and AI-powered background removal for over 70 image formats, all without relying on cloud services.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/karimz1/imgcompress?embed=0\">View Project</a>\n• <a href=\"https://imgcompress.karimzouine.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ee2e244624cce86375d1952e9372386e5cc85a0d26bb152514d2b5397ffd6c2a/karimz1/imgcompress",
+        "project_id": 1182006348,
+        "content": "🌟 <b>folio</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating sophisticated PDF documents programmatically within Go applications, including converting HTML content to PDF, creating reports, invoices, and documents with advanced features like forms, signatures, and barcodes.\n<br>\n✨ <b>Key Features:</b>\n• Layout engine for programmatic PDF creation\n<br>\n📖 <b>Summary:</b>\nFolio is a modern PDF generation library for Go, offering a comprehensive suite of features including a layout engine, HTML to PDF conversion, form creation, digital signatures, barcode generation, and PDF/A compliance. It aims to provide a fast and efficient way to create complex PDF documents directly within Go applications without external dependencies like browsers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/carlos7ags/folio?embed=0\">View Project</a>\n• <a href=\"https://folio-playground.pages.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d303028d1ff4406eca3d293c3404059b4fe2e7ed22a6a3c51ae52ab28b22e7cb/carlos7ags/folio",
         "platform": "telegram",
-        "quality_score": 1.2000000000000002
+        "quality_score": 1.1
     },
     {
-        "project_id": 848600003,
-        "content": "🔥 <b>scuda</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling CPU-only machines to access and leverage GPUs on remote machines for tasks like local testing, aggregated GPU pooling, and remote model training.\n<br>\n✨ <b>Key Features:</b>\n• GPU over IP bridge\n• Remote GPU attachment to CPU-only machines\n• Support for CUDA libraries (cuBLAS, cuDNN)\n• Unified Memory support\n• RPC call generation via codegen\n<br>\n📖 <b>Summary:</b>\nSCUDA is a C++ based GPU-over-IP bridge that allows CPU-only machines to access and utilize GPUs located on remote machines. It facilitates distributed GPU resource pooling and remote development/testing by creating a virtual GPU connection over a network.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kevmo314/scuda?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b84bcf7ee3f09574dc14825814aeb0ce47f458c13b76d4c60ca2852fef2b8165/kevmo314/scuda",
+        "project_id": 1127110039,
+        "content": "💡 <b>planning-with-files</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a structured and persistent planning system for AI agents and developers using markdown files, mimicking the successful workflow of Manus.\n<br>\n✨ <b>Key Features:</b>\n• Claude Code skill for persistent markdown planning\n• Manus-style workflow pattern\n• Project and task management via markdown files\n• Session recovery and version management\n• Support for various IDE hooks and agent integrations\n<br>\n📖 <b>Summary:</b>\nThis Python repository implements a Claude Code skill that enables persistent markdown planning, inspired by the Manus workflow pattern. It allows users to manage projects and tasks through structured markdown files, facilitating a more organized and efficient development process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/OthmanAdi/planning-with-files?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8587edfe141730273c43e41a732a1a0b070afaed91a97b90f03c18ea1ee5ee2c/OthmanAdi/planning-with-files",
         "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 1.1
     },
     {
-        "project_id": 354461310,
-        "content": "💡 <b>gomphotherium</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nInteracting with the Mastodon social network via a terminal-based interface.\n<br>\n✨ <b>Key Features:</b>\n• Command-line Mastodon client\n• Text-based User Interface (TUI)\n• CLI for Mastodon interaction\n• Timeline viewing and posting functionality\n• Authentication with Mastodon instances\n<br>\n📖 <b>Summary:</b>\nGomphotherium is a command-line Mastodon client that offers both a command-line interface (CLI) and a text-based user interface (TUI). It allows users to interact with their Mastodon instance, view timelines, and post messages directly from their terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mrusme/gomphotherium?embed=0\">View Project</a>\n• <a href=\"https://マリウス.com/gomphotherium-a-command-line-mastodon-client/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/354461310/227f5080-99ed-11eb-8861-c7a29bb8298b",
+        "project_id": 1130381422,
+        "content": "🚀 <b>maptoposter</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating personalized, aesthetically pleasing map posters of any city in the world using code.\n<br>\n✨ <b>Key Features:</b>\n• Generate city map posters\n• Customizable themes and styles\n• Uses OpenStreetMap data via osmnx\n• Exportable map designs\n• Multilingual support with custom fonts\n<br>\n📖 <b>Summary:</b>\nMapToPoster is a Python script that generates minimalist map posters of cities. It leverages OpenStreetMap data and Matplotlib to create customizable visual designs based on various themes and user-defined parameters.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/originalankur/maptoposter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/09c77987c2235ca4f381c6bb7a65baababbe56f4adb36acff0e079af1e7abbe4/originalankur/maptoposter",
         "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 742106639,
-        "content": "💡 <b>glasskube</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying and accelerating package management for Kubernetes applications.\n<br>\n✨ <b>Key Features:</b>\n• GUI and CLI interface\n• Dependency-aware packaging\n• GitOps ready\n• Automatic updates from a central repository\n• Faster deployment compared to Helm/Kustomize\n<br>\n📖 <b>Summary:</b>\nGlasskube is an open-source package manager for Kubernetes, designed to simplify the deployment, updating, and configuration of applications. It offers both a GUI and a CLI, making Kubernetes package management as easy as using tools like Homebrew or npm.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/glasskube/glasskube?embed=0\">View Project</a>\n• <a href=\"https://glasskube.dev/docs/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/99dba472a40f1120073011d94c10e0c4a74b79b63d83f2ee21451ee64bb8e099/glasskube/glasskube",
-        "platform": "telegram",
-        "quality_score": 0.7999999999999999
-    },
-    {
-        "project_id": 200370313,
-        "content": "💡 <b>vuestic-ui</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nAccelerating the development of user interfaces for Vue.js 3 applications by providing a rich set of reusable and accessible UI components.\n<br>\n✨ <b>Key Features:</b>\n• Vue 3 Component Library\n• Rapid Development\n• Easy Maintenance\n• High Accessibility\n• Open-Source\n<br>\n📖 <b>Summary:</b>\nVuestic UI is an open-source Vue 3 component library designed for rapid development, easy maintenance, and high accessibility. It provides a comprehensive set of pre-built UI components to streamline the creation of modern web applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/epicmaxco/vuestic-ui?embed=0\">View Project</a>\n• <a href=\"https://vuestic.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/200370313/ba257b62-6e6e-484a-90b9-24617643e3be",
-        "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 1.1
     }
 ]
