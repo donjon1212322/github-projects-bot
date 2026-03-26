@@ -1,26 +1,26 @@
 {
-    "title": "Folio: The Go-Native PDF Powerhouse You've Been Waiting For!",
-    "article": "Generating PDFs in development often feels like a chore, doesn't it? You're usually wrestling with external tools, headless browsers, or clunky libraries that add complexity and slow down your Go applications. But what if you could ditch all that and generate beautiful, feature-rich PDFs directly within your Go code, with speed and reliability? That's exactly what Folio brings to the table, and it's a game-changer for anyone working with document generation in Go.\n\nFolio is a modern PDF library designed from the ground up for Go. Its core purpose is to provide a comprehensive, native solution for all your PDF needs, from simple reports to complex interactive documents. It's not just a wrapper around another tool; it's a pure Go implementation that gives you fine-grained control and exceptional performance. Think of it as a Swiss Army knife for PDFs, built with the Go developer in mind.\n\nOne of Folio's standout features is its lightning-fast HTML to PDF conversion. Forget about spinning up Chrome instances or dealing with Puppeteer; Folio can take your raw HTML templates, along with inline and `<style>` block CSS, and convert them into perfectly rendered PDFs directly. This means you can leverage your existing web design skills and templates to generate professional documents like invoices or reports without any external dependencies, making your deployments simpler and your generation process significantly faster. It supports a wide array of HTML elements, flexbox, CSS grid, SVG, and even `@page` rules, ensuring fidelity to your designs.\n\nBeyond HTML, Folio boasts a sophisticated, plan-based layout engine. This isn't just about throwing elements onto a page; it's about intelligent, predictable layout. The engine ensures that elements can be laid out multiple times safely, which translates to clean and reliable page break splitting – a common headache in other PDF libraries. You can construct documents using a rich set of layout elements like paragraphs with word-wrapping and alignment, headings with auto-bookmarks, complex tables with colspan/rowspan and auto-column widths, various list types, images, flexible containers (`Div`, `Flex`), multi-column layouts, and even specialized elements like line separators, tabbed lines for TOCs, and float elements. It truly empowers you to design intricate document structures programmatically.\n\nFurthermore, Folio extends its capabilities to more advanced PDF features. Need to add interactive forms? Digital signatures for document authenticity? Barcodes (Code128, QR, EAN-13) embedded directly into your layout? Or perhaps you need to ensure PDF/A compliance for archival purposes? Folio handles all these with aplomb. This comprehensive feature set means you don't need to patchwork multiple libraries together; Folio provides a unified solution, streamlining your development workflow and reducing maintenance overhead. For any Go developer needing robust, high-performance PDF generation, Folio is an absolute must-check-out project.",
+    "title": "Dyad: Revolutionizing AI App Building Right on Your Desktop!",
+    "article": "Dyad is an exciting new platform that empowers developers to build AI applications directly on their local machines. Imagine having the power of AI app creation tools like Lovable or v0, but with all the processing happening right on your desktop, completely under your control. This project addresses the growing need for privacy and autonomy in AI development, moving away from cloud-dependent solutions. It's built for those who value speed, security, and the ability to truly own their development stack.\n\nAt its core, Dyad is designed for speed and privacy. It runs natively on your Mac or Windows computer, ensuring that your data and AI models stay local. A standout feature is its 'bring your own keys' approach, which means you're not locked into any particular AI service provider. You can plug in your existing API keys, giving you ultimate flexibility and potentially better cost control over your AI operations. Getting started is incredibly straightforward; there's no complex sign-up process, just a simple download and you're ready to build.\n\nFor developers, this local-first approach offers significant advantages. Beyond the immediate benefits of enhanced privacy and data security, Dyad provides a faster development loop. Local execution often translates to quicker iterations and testing, accelerating your project timelines. The ability to use your own AI API keys means you maintain direct relationships with your AI providers, avoiding potential vendor lock-in and leveraging any existing credits or preferred rates you might have. Furthermore, being open-source, Dyad invites community contributions, fostering a robust ecosystem where developers can shape its future and extend its capabilities.\n\nThe project also boasts a welcoming community on Reddit, offering a space for builders to share their creations, ask questions, and collaborate. This collaborative environment is invaluable for learning and growing with the platform. If you're passionate about local AI, privacy, and having full control over your development stack, Dyad offers a compelling solution that truly puts the power back into the developer's hands.",
     "key_takeaways": [
-        "Folio offers a pure Go solution for comprehensive PDF generation, eliminating external dependencies.",
-        "It provides ultra-fast HTML to PDF conversion without requiring headless browsers like Chrome or Puppeteer.",
-        "The library features a sophisticated, plan-based layout engine for precise and predictable document structuring.",
-        "Developers can leverage a rich set of layout elements and advanced features including forms, digital signatures, and barcodes.",
-        "Folio simplifies complex PDF tasks, improving performance, reliability, and developer workflow in Go applications."
+        "Dyad enables private, local AI app development directly on your machine.",
+        "It supports 'bring your own keys' for AI APIs, ensuring no vendor lock-in and full control.",
+        "Fast, cross-platform (Mac/Windows), and simple to download and start building.",
+        "The open-source nature fosters community contributions and transparency.",
+        "Offers enhanced privacy and control over your AI development workflow."
     ],
     "tags": [
-        "Go",
-        "PDF",
-        "HTML to PDF",
-        "Document Generation",
-        "GoLang"
+        "AI Development",
+        "Local AI",
+        "Open Source",
+        "Privacy",
+        "App Builder"
     ],
-    "stars": 495,
-    "forks": 15,
-    "open_issues": 7,
-    "languages": "Go",
-    "readme_summary": "Folio is a modern PDF generation library for Go, offering a comprehensive suite of features including a layout engine, HTML to PDF conversion, form creation, digital signatures, barcode generation, and PDF/A compliance. It aims to provide a fast and efficient way to create complex PDF documents directly within Go applications without external dependencies like browsers.",
-    "project_id": 1182006348,
-    "url": "https://github.com/carlos7ags/folio",
-    "description": "Modern PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0."
+    "stars": 19986,
+    "forks": 2303,
+    "open_issues": 250,
+    "languages": "TypeScript",
+    "readme_summary": "Dyad is a local, open-source AI application builder that allows users to run AI models and applications directly on their machine. It prioritizes speed, privacy, and user control, offering an alternative to cloud-based services and enabling the use of personal API keys for various AI models.",
+    "project_id": 964395174,
+    "url": "https://github.com/dyad-sh/dyad",
+    "description": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!"
 }
