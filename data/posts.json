@@ -1,44 +1,37 @@
 [
     {
-        "project_id": 68063511,
-        "content": "🚀 <b>ttyd</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling remote access and sharing of terminal sessions through a web browser.\n<br>\n✨ <b>Key Features:</b>\n• Share terminal over the web using WebSockets\n• Built on libuv and WebGL2 for performance\n• Full terminal features including CJK and IME support\n• ZMODEM/trzsz file transfer support\n• Sixel image output support\n<br>\n📖 <b>Summary:</b>\nttyd is a command-line utility that allows users to share their terminal sessions over the web via WebSockets. It provides a fully-featured terminal experience in a browser, supporting features like file transfer and image output, and can be run on various operating systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tsl0922/ttyd?embed=0\">View Project</a>\n• <a href=\"https://tsl0922.github.io/ttyd?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7ddb6acd53fae1857ef3309505a0aa53463652a9ae04e83c0c54bdf945f57f4c/tsl0922/ttyd",
+        "project_id": 62712899,
+        "content": "🌟 <b>AdGuardHome</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a network-wide solution for blocking advertisements and tracking on all connected devices by acting as a custom DNS server.\n<br>\n✨ <b>Key Features:</b>\n• Network-wide ads & trackers blocking\n• Operates as a DNS server\n• Blocks ads and tracking without client-side software\n• Supports DNS-over-HTTPS, DNS-over-TLS, DNS-over-QUIC, and DNSCrypt\n<br>\n📖 <b>Summary:</b>\nAdGuard Home is an open-source, network-wide DNS server designed to block ads and trackers across all devices on a home network. It functions by intercepting DNS requests and redirecting malicious domains to a null route, thereby preventing connections to unwanted servers without requiring client-side software.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AdguardTeam/AdGuardHome?embed=0\">View Project</a>\n• <a href=\"https://adguard.com/adguard-home/overview.html?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/67bb4c1ccb3f22bbfdca2f91e56f554bf9ba3ea2b2bbe5d5c656ff1fd3a3211e/AdguardTeam/AdGuardHome",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 550775432,
-        "content": "🚀 <b>WAAS</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide an accessible and scalable service for transcribing audio and video content, with both a user-friendly interface and a robust API for integration.\n<br>\n✨ <b>Key Features:</b>\n• GUI for uploading and transcribing audio/video\n• API for asynchronous transcription jobs\n• Queuing system for transcription processing\n• Email notifications with download links for transcriptions\n• Local browser-based editor for correcting transcriptions\n<br>\n📖 <b>Summary:</b>\nWhisper as a Service (WAAS) provides a GUI and API for transcribing audio and video files using OpenAI Whisper. It offers asynchronous job processing, language detection, and various output formats for transcriptions, with an integrated editor for local transcription correction.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/schibsted/WAAS?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/550775432/6415ebea-4a2b-45fe-bdcb-2f752762f3ff",
+        "project_id": 1178117518,
+        "content": "💡 <b>webclaw</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide AI agents with clean, structured, and token-efficient web content extracted directly from URLs, bypassing common scraping obstacles.\n<br>\n✨ <b>Key Features:</b>\n• Fast, local-first web content extraction\n• Optimized output for LLMs (67% fewer tokens)\n• Sub-millisecond extraction speed\n• Zero browser overhead\n• Chrome-level TLS fingerprinting\n<br>\n📖 <b>Summary:</b>\nWebclaw is a high-performance web scraping tool written in Rust, designed for AI agents. It efficiently extracts structured data from web pages, optimizing content for LLM consumption by reducing token count and removing unnecessary elements, all without requiring a headless browser.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/0xMassi/webclaw?embed=0\">View Project</a>\n• <a href=\"https://webclaw.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6b1edbaf022c23d3f02d0de8d22999381b238366d39ebe32eb05dda406bcb26a/0xMassi/webclaw",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 729878728,
+        "content": "🚀 <b>netscanner</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nNetwork scanning and diagnostics from the terminal with a modern TUI.\n<br>\n✨ <b>Key Features:</b>\n• List HW Interfaces\n• Switching active Interface\n• WiFi networks scanning\n• WiFi signals strength (with charts)\n• IPv4 Pinging CIDR\n<br>\n📖 <b>Summary:</b>\nNetscanner is a Rust-based terminal network scanner and diagnostic tool that provides a modern TUI for analyzing network interfaces, scanning WiFi networks, and performing packet dumping and port scanning. It allows users to switch active interfaces, monitor WiFi signal strength, ping IPv4 CIDRs, and filter packet logs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Chleba/netscanner?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a88e3a5581d0d71743a267f2aada2b6dc954ad54ba07e0306382508fbbbe9a9b/Chleba/netscanner",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 877402904,
+        "content": "💡 <b>inksight</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nDigitizing physical handwritten notes into searchable and editable digital formats.\n<br>\n✨ <b>Key Features:</b>\n• Offline-to-online handwriting conversion from photos\n• Multi-language support\n• Robust background handling\n• Word-level and full-page text processing\n• Vector-based digital ink output\n<br>\n📖 <b>Summary:</b>\nInkSight is a system that converts photos of handwritten text into editable digital ink. It uses a Vision Transformer and mT5 architecture to process diverse handwriting styles and backgrounds, supporting both word-level and full-page conversion for practical digitization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/google-research/inksight?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/83cfd4810c7d7c002dd271d7050c25d64f932e54f55bd28cadc1fd5563542214/google-research/inksight",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 51288857,
+        "content": "🔥 <b>awesome-bash</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a comprehensive and curated collection of resources for learning, using, and mastering the Bash shell and its scripting capabilities.\n<br>\n✨ <b>Key Features:</b>\n• Curated list of Bash scripts and resources\n• Covers command-line productivity, customization, data handling, development tools, and more\n• Includes books, guides, FAQs, and best practices for Bash scripting\n• Links to related awesome lists for shell environments and tools\n<br>\n📖 <b>Summary:</b>\nAwesome Bash is a curated list of delightful Bash scripts and resources, aimed at enhancing command-line productivity, customization, and development. It serves as a comprehensive guide to learning and utilizing Bash effectively.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/awesome-lists/awesome-bash?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4204e61c1f2f79a0ac0884936c86716edc7a99bbde224ec3b9fead42084e5355/awesome-lists/awesome-bash",
         "platform": "telegram",
         "quality_score": 0.75
-    },
-    {
-        "project_id": 1144983220,
-        "content": "🚀 <b>once</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying the process of self-hosting and managing Dockerized web applications.\n<br>\n✨ <b>Key Features:</b>\n• Easy installation of Docker-based web apps\n• Automatic updates\n• Automatic backups\n• System information dashboard\n• TUI and CLI interfaces\n<br>\n📖 <b>Summary:</b>\nONCE is a platform designed to simplify the self-hosting of Docker-based web applications. It provides an easy-to-use interface for installation, automatic updates, backups, and system monitoring, catering to both TUI and CLI users.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/basecamp/once?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6161a0ee3516b4f38de165d0f9bdd3b98dcb91e4f3f4f9489f8859b5e99b6b94/basecamp/once",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 1078266985,
-        "content": "🔥 <b>Paper2All</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automatically generate interactive academic homepages from research papers.\n<br>\n✨ <b>Key Features:</b>\n• Autonomous pipeline for converting scientific papers to homepages\n• Iterative refinement of content and layout\n• Creation of engaging and interactive websites\n• Addresses limitations of direct generation, templates, and HTML conversion\n• Includes a dataset and benchmark for evaluation and improvement\n<br>\n📖 <b>Summary:</b>\nPaper2Web is an autonomous pipeline that transforms academic papers into interactive, explorable homepages. It refines both content and layout to create engaging websites that effectively disseminate research, addressing limitations of current conversion methods.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/YuhangChen1/Paper2All?embed=0\">View Project</a>\n• <a href=\"https://francischen3.github.io/P2W_Website/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5a81859381452497ef36cbb490902f1d39c2081013d79d1d0f45444d5425a6c3/YuhangChen1/Paper2All",
-        "platform": "telegram",
-        "quality_score": 0.6000000000000001
-    },
-    {
-        "project_id": 253849484,
-        "content": "💡 <b>argos-translate</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding an offline, programmatic translation service through a Python library and command-line tools, with support for installing various language models.\n<br>\n✨ <b>Key Features:</b>\n• Offline translation\n• Python library\n• Command-line interface\n• GUI application\n• Installable language model packages (.argosmodel)\n<br>\n📖 <b>Summary:</b>\nArgos Translate is an open-source, offline translation library written in Python. It leverages OpenNMT for its translation engine and supports installation of language model packages. It also features automatic pivoting through intermediate languages for unsupported direct translations, and is the engine behind LibreTranslate.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/argosopentech/argos-translate?embed=0\">View Project</a>\n• <a href=\"https://www.argosopentech.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3b4faa08bd0401f7c566446be0a903d6c9775bb37a81c8e182865b7c350b9280/argosopentech/argos-translate",
-        "platform": "telegram",
-        "quality_score": 0.9
-    },
-    {
-        "project_id": 953521037,
-        "content": "🌟 <b>next-ai-draw-io</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to create, modify, and visualize diagrams quickly and intuitively using AI and natural language, streamlining the process of technical diagramming.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered diagram generation from natural language prompts\n• Integration with draw.io for editing and visualization\n• Support for various cloud provider icons (AWS, GCP, Azure)\n• Live demo available online\n<br>\n📖 <b>Summary:</b>\nNext AI Draw.io is a Next.js web application that leverages AI to enhance diagram creation and modification. It allows users to generate and edit diagrams using natural language commands, integrating with the draw.io editor for a seamless workflow.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DayuanJiang/next-ai-draw-io?embed=0\">View Project</a>\n• <a href=\"https://next-ai-drawio.jiang.jp/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/bebcf39ff205731fbe3fa2851215e6914781972bc686a9aab3fcc8e72c81ede9/DayuanJiang/next-ai-draw-io",
-        "platform": "telegram",
-        "quality_score": 1.2000000000000002
     }
 ]
