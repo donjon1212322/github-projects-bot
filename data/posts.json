@@ -1,44 +1,44 @@
 [
     {
-        "project_id": 1163251644,
-        "content": "🚀 <b>clawfeed</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with concise, AI-generated summaries of news and information from a wide range of online sources, reducing information overload.\n<br>\n✨ <b>Key Features:</b>\n• Multi-frequency digests (4-hourly, daily, weekly, monthly)\n• Supports various sources: Twitter, RSS, HackerNews, Reddit, GitHub Trending\n• Source Packs for sharing curated source bundles\n<br>\n📖 <b>Summary:</b>\nClawFeed is an AI-powered news digest service that aggregates content from various sources like Twitter and RSS feeds. It provides structured summaries at different frequencies and features a web dashboard for management and analysis, with options for standalone use or integration as a skill within other platforms.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kevinho/clawfeed?embed=0\">View Project</a>\n• <a href=\"https://clawfeed.kevinhe.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b5e5455da64c9421d5d37ffd6d0f3a9f37c501f3a21837c07fbb60d7af755e5e/kevinho/clawfeed",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 691846708,
-        "content": "🚀 <b>escrcpy</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDisplaying and controlling Android devices graphically on a desktop, enabling automation and multi-device management.\n<br>\n✨ <b>Key Features:</b>\n• Intelligent Control with natural-language commands\n• Automation and parallel operations across multiple devices\n• Multi-device visual window orchestration\n• Wireless connections with Gnirehtet reverse tethering\n<br>\n📖 <b>Summary:</b>\nEscrcpy is a JavaScript-based application that provides graphical display and control of Android devices on a desktop. It leverages the scrcpy core for high-performance mirroring and integrates features like natural-language commands, multi-device management, and wireless connectivity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/viarotel-org/escrcpy?embed=0\">View Project</a>\n• <a href=\"https://viarotel.eu.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/774c5d8b21d2143f70b436f11db0c84fe59f5b0acaf1f660fb0bbca7b390b98f/viarotel-org/escrcpy",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 896163475,
-        "content": "🔥 <b>YTSage</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDownloading YouTube videos and audio through a graphical user interface.\n<br>\n✨ <b>Key Features:</b>\n• Clean PySide6 interface\n• Download videos in any quality\n• Extract audio\n• Fetch subtitles\n• SponsorBlock integration\n<br>\n📖 <b>Summary:</b>\nYTSage is a modern, user-friendly YouTube downloader application built with PySide6. It leverages the power of yt-dlp to provide a clean graphical interface for downloading videos in various qualities, extracting audio, fetching subtitles, and integrating with SponsorBlock.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/oop7/YTSage?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/cf67152951dd5df7dab4a76b94a9f519beb114399bfab3847f0d20628be54cfe/oop7/YTSage",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 1212922,
-        "content": "✨ <b>theHarvester</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGathering open-source intelligence (OSINT) for domain reconnaissance during security assessments.\n<br>\n✨ <b>Key Features:</b>\n• Open Source Intelligence (OSINT) gathering\n• Reconnaissance for red team assessments and penetration tests\n• Gathers names, emails, IPs, subdomains, and URLs\n• Utilizes multiple public resources and passive modules\n• Supports Python 3.12+\n<br>\n📖 <b>Summary:</b>\ntheHarvester is a Python-based OSINT tool designed for the reconnaissance phase of security assessments. It efficiently gathers emails, subdomains, hostnames, and other external information related to a domain by querying numerous public data sources.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/laramies/theHarvester?embed=0\">View Project</a>\n• <a href=\"http://www.edge-security.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1212922/0933ae00-d41e-11e9-85da-8c22b674c731",
+        "project_id": 1155099363,
+        "content": "🚀 <b>openclaw-android</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling users to run OpenClaw and other Linux binaries on Android devices with minimal resource consumption and simplified setup.\n<br>\n✨ <b>Key Features:</b>\n• Run OpenClaw on Android without proot-distro\n• Minimal storage overhead (~200MB)\n• Fast setup time (3-10 minutes)\n• Native performance\n• Standalone Android app with integrated UI and terminal\n<br>\n📖 <b>Summary:</b>\nOpenClaw on Android allows users to run OpenClaw, a powerful tool, directly on their Android devices without the need for a full Linux distribution like proot-distro. It achieves this by installing only the necessary glibc dynamic linker, significantly reducing storage overhead and setup time while offering native performance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AidanPark/openclaw-android?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3885328c2c2f09b59707d631a7492502a3f3d2fc0baf32fd4ca95c11d86dcb97/AidanPark/openclaw-android",
         "platform": "telegram",
         "quality_score": 1.05
     },
     {
-        "project_id": 86696315,
-        "content": "✨ <b>ru-test-assignments</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a centralized resource for individuals to find and complete technical assignments from various IT companies for skill development and portfolio building.\n<br>\n✨ <b>Key Features:</b>\n• Collection of technical assignments from IT companies\n• Organized by company and role (e.g., Analyst, Product Analyst)\n• Includes links to specific assignment details\n<br>\n📖 <b>Summary:</b>\nThis repository serves as a curated collection of technical assignments from various IT companies, primarily aimed at helping individuals practice and improve their analytical and data-related skills. It organizes these assignments by company and role, providing links to the specific tasks and sometimes indicating the required technologies.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Hexlet/ru-test-assignments?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/57200d14dd2fcd77c48ffc933acfa35c233479d8addfbdc313e479c7d7f67143/Hexlet/ru-test-assignments",
+        "project_id": 1190363679,
+        "content": "🚀 <b>OpenSpace</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enhance existing AI agents by enabling them to learn, adapt, and evolve from experience, leading to improved performance, reduced costs, and shared intelligence across a network of agents.\n<br>\n✨ <b>Key Features:</b>\n• Self-Evolution (AUTO-FIX, AUTO-IMPROVE, AUTO-LEARN, Quality monitoring)\n• Collective Agent Intelligence (Shared evolution, Network effects, Easy sharing, Access control)\n<br>\n📖 <b>Summary:</b>\nOpenSpace is a self-evolving engine designed to make AI agents smarter, more cost-efficient, and capable of learning from real-world experience. It enhances existing agents by providing them with self-evolutionary skills, enabling them to automatically fix, improve, and learn from usage, while also facilitating collective intelligence through skill sharing among agents.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HKUDS/OpenSpace?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/51b4c6fdc97acce8cc619cdc9816c77e607f146f59ac3c3e63f791e1ff56b33c/HKUDS/OpenSpace",
         "platform": "telegram",
-        "quality_score": 0.6
+        "quality_score": 1.0
     },
     {
-        "project_id": 954908083,
-        "content": "💡 <b>octofriend</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo act as a friendly, privacy-conscious AI coding assistant that helps developers with various coding tasks, integrates with multiple LLMs, and provides advanced features like sandboxing and automated error correction.\n<br>\n✨ <b>Key Features:</b>\n• Open-source coding assistant\n• Supports OpenAI-compatible and Anthropic-compatible LLM APIs\n• Supports switching models mid-conversation\n• Optional custom-trained autofix models for tool call and code edit failures\n<br>\n📖 <b>Summary:</b>\nOcto is an open-source, privacy-focused coding assistant that integrates with various LLM APIs. It offers features like automatic tool call and code edit handling, optional web search, and sandboxing via Docker, aiming to be a friendly and helpful coding companion.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/synthetic-lab/octofriend?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6ebaede004ec182b9f822c2674714adb7f812344641025ea596ecb626c605544/synthetic-lab/octofriend",
+        "project_id": 283503342,
+        "content": "💡 <b>OSS-DocumentScanner</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a powerful and open-source mobile application for digitizing physical documents and extracting text from them.\n<br>\n✨ <b>Key Features:</b>\n• Document scanning with edge detection and perspective correction\n• Optical Character Recognition (OCR) using Tesseract\n• Barcode scanning using ZXing C++\n• PDF generation from scanned documents\n• Image processing for document enhancement\n<br>\n📖 <b>Summary:</b>\nThis repository hosts two open-source applications: OSS Document Scanner, an Android app for scanning documents, and Oss CardWallet, an app for managing digital cards. Both apps leverage advanced image processing and OCR technologies.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Akylas/OSS-DocumentScanner?embed=0\">View Project</a>\n• <a href=\"http://www.akylas.fr/OSS-DocumentScanner/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/283503342/9723a031-aefa-4ca6-9ef6-8ef24905ab1f",
         "platform": "telegram",
-        "quality_score": 0.8500000000000001
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 1026272059,
+        "content": "🔥 <b>Raven</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling users to interact with and gain insights from their documents through a local, private AI assistant on macOS and iOS.\n<br>\n✨ <b>Key Features:</b>\n• Text extraction from images, PDFs, audio, and video files\n• Audio transcription and video text extraction\n• Smart Q&A and contextual content analysis\n• Local AI processing using Apple Foundation Models\n• Project creation and file organization\n<br>\n📖 <b>Summary:</b>\nRaven is a privacy-focused document chat application for macOS and iOS that allows users to upload files and ask questions, with all processing performed locally on the device using Apple Foundation Models. It extracts text from various file types, transcribes audio, and provides contextual answers and summaries without requiring internet connectivity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/31d4r/Raven?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/49ecee20b09bf22786c06e8820e2d575b492749d1fd127cb79a611f5b1e77db7/31d4r/Raven",
+        "platform": "telegram",
+        "quality_score": 0.65
+    },
+    {
+        "project_id": 642027917,
+        "content": "🌟 <b>memory-guardian</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nProtecting sensitive information from accidental exposure by automatically clearing the device's clipboard.\n<br>\n✨ <b>Key Features:</b>\n• Automatic Clearing\n• Manual Clearing\n• Clipboard Editing\n• Notifications\n• Dark Mode\n<br>\n📖 <b>Summary:</b>\nMemory Guardian is a lightweight Android application designed to enhance user privacy and security by automatically clearing the clipboard at user-defined intervals. It offers manual clearing, clipboard editing, and notifications, all within a minimalistic, ad-free, and permission-free interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hashemi-hossein/memory-guardian?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8ec89b3f955f774703b7278c03c96d4eb1fffb0b1b7046fe4443a4496d9b3dec/hashemi-hossein/memory-guardian",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 847565467,
+        "content": "💡 <b>ghostty-config</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a user-friendly, visual interface for generating and customizing configuration files for the Ghostty terminal.\n<br>\n✨ <b>Key Features:</b>\n• Interactive settings editor for fonts, colors, cursor styles, transparency, blur, etc.\n• Font playground with support for various font types.\n• Live previews of cursors, selections, app icons, and color palettes.\n• One-click export of Ghostty configuration files.\n<br>\n📖 <b>Summary:</b>\nGhostty Config is a web-based tool that simplifies the customization of the Ghostty terminal. It provides an intuitive interface for users to visually adjust settings like fonts, colors, and cursor styles, with live previews, and then export a ready-to-use configuration file.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/zerebos/ghostty-config?embed=0\">View Project</a>\n• <a href=\"http://ghostty.zerebos.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1f7ca3b20969edd3847a217b628877f2315ae3bdd9781557a161b1299db3885a/zerebos/ghostty-config",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
     }
 ]
