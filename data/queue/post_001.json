@@ -1,7 +1,0 @@
-{
-    "project_id": 1122362345,
-    "content": "✨ <b>claude-swarm</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nOrchestrating and managing parallel, long-running autonomous coding sessions using Claude Code workers, with robust state persistence, behavioral governance, and real-time monitoring.\n<br>\n✨ <b>Key Features:</b>\n• Persistent State Management\n• Parallel Claude Code Workers (tmux)\n• Isolated Git Worktree Execution\n• Protocol-Based Behavioral Governance\n• Real-time Web Dashboard\n<br>\n📖 <b>Summary:</b>\nClaude Swarm is a TypeScript-based MCP server designed to orchestrate parallel Claude Code worker swarms for long-running autonomous coding sessions. It features persistent state management, parallel worker execution using tmux and isolated git worktrees, and protocol-based behavioral governance to enforce constraints during runtime.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cj-vana/claude-swarm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/a7bf639cbca8bcbfcbb9976e83ca3f0cf7637d1c0653cd250a33305fd95b9d57/cj-vana/claude-swarm",
-    "platform": "telegram",
-    "quality_score": 0.75
-}
