@@ -1,26 +1,27 @@
 {
-    "title": "Stop Cloning Everything! Meet ghgrab: Your CLI Sidekick for Smarter GitHub Downloads",
-    "article": "Ever found yourself needing just one tiny file or a specific folder from a massive GitHub repository, only to groan at the thought of a full `git clone`? That feeling of downloading gigabytes of code when you only need a few kilobytes is frustrating and inefficient. This common pain point is exactly what `ghgrab` aims to solve, making your interaction with GitHub much more streamlined.\n\n`ghgrab` is a super-powered command-line interface (CLI) tool that lets you browse, search, and download *only* what you need from any GitHub repository, all without ever leaving your terminal. Imagine a file explorer specifically for GitHub, right within your command line, built with Rust for blazing speed and efficiency. It's designed to save you time, bandwidth, and precious disk space by eliminating unnecessary downloads.\n\nThe project provides a beautiful Terminal User Interface (TUI) that makes navigating repositories incredibly intuitive and smooth. You can quickly fuzzy search through folders and files, making it easy to pinpoint exactly what you're looking for. Need to check a file's content before downloading? `ghgrab` offers a built-in file preview feature for source code and text files. Plus, if you're looking for new projects, you can even discover repositories directly from the home screen by typing a keyword.\n\nFor developers, the benefits are clear and immediate. No more waiting for large `git clone` operations to complete just to extract a single configuration file or an example snippet. `ghgrab` allows you to cherry-pick precisely what you need, when you need it. It's also incredibly versatile, with support for GitHub LFS (Large File Storage) for those working with bigger assets, and a convenient batch mode to select and download multiple files or folders at once.\n\nInstallation is a breeze, supporting popular package managers like NPM, Cargo, and PIP, ensuring it integrates seamlessly into almost any developer's workflow. Beyond interactive use, `ghgrab` includes a powerful 'agent mode.' This feature allows for machine-friendly JSON output, making it perfect for scripting, automation, or integrating into CI/CD pipelines where you might need to programmatically fetch specific parts of a repository without manual interaction. This makes `ghgrab` not just a convenience tool, but a powerful utility for automating parts of your development process, keeping your local environment lean and your workflows efficient.",
+    "title": "Vane: Your Private AI Answering Engine That Puts You in Control",
+    "article": "Ever felt uneasy about feeding your sensitive queries into a black-box AI search engine? What if you could have all the power of an AI assistant, but with the complete assurance that your data stays private and under your control? This is exactly where Vane shines, offering a revolutionary approach to information retrieval that prioritizes your privacy without sacrificing capability.Vane is an innovative, open-source AI answering engine designed to run entirely on your own hardware. Imagine a smart research assistant that combines the vast knowledge of the internet with the analytical power of large language models, all while ensuring your searches remain confidential. It achieves this by intelligently leveraging a privacy-focused web search component, like SearxNG, to gather information from various online sources. Once the data is retrieved, Vane then processes it using your chosen Large Language Model.The beauty of Vane lies in its flexibility. You're not locked into a single AI provider. It seamlessly integrates with local LLMs through Ollama, allowing you to run powerful models right on your machine for ultimate privacy and control. But if you need more horsepower or access to specific cloud-based models, Vane also supports major providers like OpenAI, Anthropic Claude, Google Gemini, and Groq. This means you can mix and match based on your specific needs, whether it's for speed, quality, or data sovereignty.Beyond just answering questions, Vane offers a suite of powerful features designed to enhance your research and information gathering. You can select from 'Speed Mode' for quick answers, 'Balanced Mode' for everyday use, or 'Quality Mode' for deep dives, tailoring the AI's approach to your task. It's not limited to just general web searches; you can specifically target discussions, academic papers, or even limit searches to particular domains, making it invaluable for developers digging into documentation or research.Think about the possibilities: uploading a complex PDF and asking Vane to summarize it or answer specific questions, all without sending your document to a third-party server. It also provides helpful widgets for quick lookups like weather or calculations, smart search suggestions as you type, and even image and video search capabilities. Plus, every search is saved locally in your history, ensuring you can revisit your discoveries anytime. For developers, this means a powerful, customizable, and privacy-respecting tool for everything from debugging to learning new technologies, giving you transparent, cited answers and putting you firmly in control of your data and your workflow.",
     "key_takeaways": [
-        "Selectively download specific files or folders from GitHub without a full `git clone`.",
-        "Features a beautiful and efficient Terminal User Interface (TUI) with fuzzy search and file preview.",
-        "Saves time, bandwidth, and disk space by only downloading necessary content.",
-        "Supports batch downloads, GitHub LFS, and offers a scriptable 'agent mode' for automation.",
-        "Easy to install across various platforms via NPM, Cargo, or PIP."
+        "Vane is a privacy-focused, self-hosted AI answering engine that runs on your own hardware.",
+        "It offers unparalleled flexibility by supporting both local LLMs (Ollama) and major cloud providers (OpenAI, Claude, Groq).",
+        "Get accurate answers with cited sources, ensuring transparency and trustworthiness in your research.",
+        "Enhance your workflow with smart search modes, diverse source selection (web, academic, discussions), and the ability to upload and query files.",
+        "Developers gain full control over their data, models, and search experience, making it an ideal tool for secure and customized information gathering."
     ],
     "tags": [
-        "GitHub",
-        "CLI",
-        "Developer Tools",
-        "Productivity",
-        "Rust"
+        "AI",
+        "Privacy",
+        "Self-hosted",
+        "LLM",
+        "Search Engine",
+        "Open Source"
     ],
-    "stars": 665,
-    "forks": 44,
-    "open_issues": 6,
-    "languages": "Rust",
-    "readme_summary": "ghgrab is a Rust-based command-line tool that provides a user-friendly terminal interface for searching and downloading specific files or entire folders from GitHub repositories without needing to perform a full `git clone`. It offers features like fuzzy search, file preview, batch downloads, and an agent mode for scripting.",
-    "project_id": 1116144677,
-    "url": "https://github.com/abhixdd/ghgrab",
-    "description": "A simple, pretty terminal tool that lets you search and download files from GitHub without leaving your CLI."
+    "stars": 33585,
+    "forks": 3642,
+    "open_issues": 188,
+    "languages": "TypeScript",
+    "readme_summary": "Vane is an open-source, privacy-focused AI answering engine that allows users to self-host their searches. It integrates with various LLM providers, including local Ollama models and cloud services, to deliver accurate, cited answers while maintaining user privacy.",
+    "project_id": 784181462,
+    "url": "https://github.com/ItzCrazyKns/Vane",
+    "description": "Vane is an AI-powered answering engine."
 }
