@@ -1,37 +1,30 @@
 [
     {
-        "project_id": 1036544455,
-        "content": "🚀 <b>mcp-ssh-manager</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling AI models to securely and efficiently manage and automate tasks on remote SSH servers.\n<br>\n✨ <b>Key Features:</b>\n• Remote SSH server management via Model Context Protocol (MCP)\n• Compatibility with Claude Code and OpenAI Codex\n• Execute commands on remote servers\n• Transfer files to/from remote servers\n• Database operations\n<br>\n📖 <b>Summary:</b>\nMCP SSH Manager is a Node.js server that allows AI models like Claude Code and OpenAI Codex to manage remote SSH connections. It facilitates executing commands, transferring files, and automating DevOps tasks on multiple servers through the Model Context Protocol.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bvisible/mcp-ssh-manager?embed=0\">View Project</a>\n• <a href=\"https://www.npmjs.com/package/mcp-ssh-manager?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/52778e86b7ee3951b9b88fdf90bcd9dd59c1b4fa31ddd849173734da02a64309/bvisible/mcp-ssh-manager",
+        "project_id": 1199975239,
+        "content": "🔥 <b>tuitter</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nInteracting with X (Twitter) content and features directly from the terminal.\n<br>\n✨ <b>Key Features:</b>\n• Terminal UI client for X (Twitter)\n• Authentication with X account\n• Browse and interact with content\n• Built with TypeScript and OpenTUI\n• Local token storage\n<br>\n📖 <b>Summary:</b>\ntuitter is a terminal UI client for X (formerly Twitter) built with TypeScript. It allows users to authenticate with their X account and interact with content directly from their command-line interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bddicken/tuitter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ccbf4e398289ff178d29564ae57f0e9dd0b9b3a130f06b347240e5bfe943f5a0/bddicken/tuitter",
         "platform": "telegram",
-        "quality_score": 1.2000000000000002
+        "quality_score": 0.6499999999999999
     },
     {
-        "project_id": 1190688252,
-        "content": "💡 <b>terminal-use</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide AI agents with a functional, headless terminal environment to interact with command-line applications, enabling complex tasks like navigating file systems, running text-based games, or interacting with ncurses UIs.\n<br>\n✨ <b>Key Features:</b>\n• Headless virtual terminal for AI agents\n• Spawn interactive terminal apps\n• Read terminal screen output\n• Send keystrokes to terminal applications\n• No GUI, X server, or display needed\n<br>\n📖 <b>Summary:</b>\nterminal-use (`tu`) is a Rust-based headless virtual terminal emulator designed for AI agents. It allows AI agents to spawn and interact with command-line applications in a simulated terminal environment, enabling them to read screen output and send keystrokes without needing a graphical interface or X server.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/flipbit03/terminal-use?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/aab18c838784c35e5b70422158f8fed4638cd904c0ff1998f28a221e4a384c0b/flipbit03/terminal-use",
+        "project_id": 843412763,
+        "content": "🌟 <b>caesium-app-web</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCompressing images offline and in the browser while maintaining user privacy.\n<br>\n✨ <b>Key Features:</b>\n• JPG, PNG and WebP supported\n• Lossy and lossless compression\n• Keeps images metadata\n• Before/after comparison\n• Runs entirely on your browser, no images are uploaded or processed on any external server\n<br>\n📖 <b>Summary:</b>\nCaesium Web Image Compressor is a privacy-focused, offline web application that compresses images directly in the browser using WebAssembly. It supports various image formats and compression types, ensuring no data is uploaded to external servers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lymphatus/caesium-app-web?embed=0\">View Project</a>\n• <a href=\"https://caesium.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e0af762d7e25f71e693e16ec2cbcc28ff3b996df1360d67e924cbc45c430f21d/Lymphatus/caesium-app-web",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.5499999999999999
     },
     {
-        "project_id": 1197990888,
-        "content": "🚀 <b>openclaude</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide developers with a single, consistent command-line interface for interacting with a wide variety of AI coding models, both cloud-based and local, streamlining their development workflow.\n<br>\n✨ <b>Key Features:</b>\n• Unified CLI for multiple AI model providers (OpenAI, Gemini, Ollama, GitHub Models, Codex, etc.)\n• Terminal-first workflow with prompts, tools, agents, MCP, and slash commands\n<br>\n📖 <b>Summary:</b>\nOpenClaude is an open-source, terminal-first coding agent CLI that unifies access to over 200 AI models, including OpenAI, Gemini, and local options like Ollama. It provides a consistent workflow for developers to interact with various AI backends for coding tasks, leveraging features like slash commands, agents, and streaming output.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Gitlawb/openclaude?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/78f3e8be03cc651ab53f0595b5c6a85b005f4f9a346ea74fba6e5436cd433ca2/Gitlawb/openclaude",
+        "project_id": 1175555902,
+        "content": "🔥 <b>zero_password_manager</b> | Dart\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a secure, private, and self-controlled method for storing and managing sensitive credentials and seed phrases, eliminating reliance on third-party cloud services.\n<br>\n✨ <b>Key Features:</b>\n• Open-source and self-hosted\n• Flutter-based application\n• AES-256-GCM end-to-end encryption\n• PBKDF2-SHA256 key derivation\n• Blind site hashing for URLs\n<br>\n📖 <b>Summary:</b>\nZero Password Manager is an open-source, self-hosted password manager built with Flutter, prioritizing privacy and security. It allows users to store passwords and crypto seed phrases securely on their own servers, employing end-to-end encryption and zero-knowledge principles.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SoulNaturalist/zero_password_manager?embed=0\">View Project</a>\n• <a href=\"https://soulnaturalist.github.io/zero_password_manager/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ae6701a8a4ebd7d5ed1c2188b17c29844a4464f7ad34ba8f43e2bf1b0f1dfae1/SoulNaturalist/zero_password_manager",
         "platform": "telegram",
-        "quality_score": 1.1
+        "quality_score": 0.9
     },
     {
-        "project_id": 247350713,
-        "content": "💡 <b>neko</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a secure, self-hosted, and accessible virtual browser environment for private browsing, collaboration, and shared media experiences.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted virtual browser\n• Docker containerization\n• WebRTC for streaming\n• Secure and private browsing\n• Multi-user access\n<br>\n📖 <b>Summary:</b>\nNeko is a self-hosted virtual browser running in Docker, utilizing WebRTC for secure and private internet access from anywhere. It allows multiple users to access a shared browser environment simultaneously, making it suitable for collaboration, remote work, and shared viewing experiences like watch parties and interactive presentations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/m1k1o/neko?embed=0\">View Project</a>\n• <a href=\"https://neko.m1k1o.net/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/153defba62e28176887d14a8ce751c240fb733ed888506186d9c72f6c1f3a2e4/m1k1o/neko",
+        "project_id": 1184857135,
+        "content": "🚀 <b>rom</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nDeterministic web automation and browser API research\n<br>\n✨ <b>Key Features:</b>\n• Lightweight embedded JavaScript engine\n• Growing browser API compatibility layer\n• Deterministic probes, snapshots, and acceptance harnesses\n• JS and Python bindings\n• Focus on browser emulation\n<br>\n📖 <b>Summary:</b>\nROM is a Rust-based browser runtime designed to be lightweight and programmable, emulating browser APIs without relying on Chromium. It's ideal for deterministic web automation, surface emulation, and browser API research.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Rxflex/rom?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f1436acec2477c1b51432b0a0e3ffb845369f47bc5082da0b702d3006322be9b/Rxflex/rom",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 1152485186,
-        "content": "🚀 <b>VSRFI-ComfyUI</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo upscale and enhance the frame rate of long videos within the ComfyUI environment, overcoming memory limitations.\n<br>\n✨ <b>Key Features:</b>\n• Video Super Resolution using Flash VSR\n• Frame Interpolation with GIMM-VFI, RIFE, or FILM\n• Smart Tile Processing for VRAM optimization\n• Stream Processing for arbitrary video lengths\n• Automatic model downloads\n<br>\n📖 <b>Summary:</b>\nThis ComfyUI custom node enhances video processing by combining Video Super Resolution (VSR) with Frame Interpolation (VFI). It supports arbitrary video lengths through smart tiling and stream processing, allowing for memory-efficient upscaling and frame rate doubling.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/neilthefrobot/VSRFI-ComfyUI?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/391d9171cd07b2884856dcb9dca37604df730df1029836494f412f12b4d02cd7/neilthefrobot/VSRFI-ComfyUI",
-        "platform": "telegram",
-        "quality_score": 0.8
+        "quality_score": 0.7
     }
 ]

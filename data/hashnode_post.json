@@ -1,30 +1,30 @@
 {
-    "title": "Unleash Your AI: Seamless SSH Management with MCP SSH Manager!",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nMCP SSH Manager is a Node.js server that allows AI models like Claude Code and OpenAI Codex to manage remote SSH connections. It facilitates executing commands, transferring files, and automating DevOps tasks on multiple servers through the Model Context Protocol.\n\n## 🔑 Key Takeaways\n\n- ✅ Enables AI models (Claude Code, OpenAI Codex) to manage multiple SSH connections.\n\n- ✅ Automates remote server tasks like command execution, file transfer, database management, and DevOps workflows.\n\n- ✅ Introduces ProxyJump support for seamless connections through bastion hosts, simplifying complex network access.\n\n- ✅ Integrates SSH Agent for secure, passphrase-protected key usage, enhancing convenience and security.\n\n- ✅ Boosts developer productivity by transforming AI into an intelligent infrastructure operator, reducing manual effort.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 124\n- 🍴 Forks: 23\n- ❗ Open Issues: 4\n\n\n## 🛠 Tech Stack\n- ✅ JavaScript\n\n\nEver wished your AI assistant could just... handle that server deployment for you? Or maybe quickly fetch a log file from a remote machine? The MCP SSH Manager is here to turn that wish into reality, bridging the gap between powerful AI models like Claude Code and OpenAI Codex and your remote server infrastructure. It's a game-changer for anyone looking to supercharge their DevOps and server management with intelligent automation.\n\nAt its heart, MCP SSH Manager is a Model Context Protocol (MCP) server. Think of MCP as a standardized language that allows AI tools to securely and efficiently interact with external systems. This manager specifically enables your AI to establish and control multiple SSH connections, acting as a smart intermediary. Your AI can then issue commands, transfer files, manage databases, and even automate complex DevOps tasks across all your connected servers, all through a unified interface. It's like giving your AI a super-powered remote control for your entire infrastructure.\n\nFor developers, this means a significant leap in productivity. Imagine automating routine server maintenance, orchestrating deployments, or debugging issues by simply asking your AI. The recent updates make this even more powerful. With ProxyJump support, you can now seamlessly connect to servers located behind bastion or jump hosts. This feature intelligently navigates complex network setups, allowing your AI to reach deeply nested environments without any extra manual configuration on your part. It's like giving your AI a secure, multi-hop pass to anywhere.\n\nSecurity and convenience haven't been overlooked either. The integration of SSH Agent support means that your passphrase-protected SSH keys are automatically used, streamlining authentication and enhancing security without constant manual input. Furthermore, the recent fix ensuring npx mcp-ssh-manager works correctly makes installation a breeze, and the addition of Windows SSH host support significantly broadens the project's applicability, ensuring it works reliably across diverse server platforms.\n\nUltimately, MCP SSH Manager empowers developers to integrate AI directly into their infrastructure management workflows. It transforms your AI assistant from a coding companion into a full-fledged infrastructure operator, saving countless hours on repetitive tasks and enabling more sophisticated automation strategies. This isn't just about executing commands; it's about intelligent, automated control over your entire server ecosystem, making your development and operations smoother and more efficient than ever before. This project truly changes how you can interact with your remote servers, making your AI an indispensable part of your toolkit.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/bvisible/mcp-ssh-manager)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Reclaim Your Privacy: Zero Password Manager Puts You in Control!",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nZero Password Manager is an open-source, self-hosted password manager built with Flutter, prioritizing privacy and security. It allows users to store passwords and crypto seed phrases securely on their own servers, employing end-to-end encryption and zero-knowledge principles.\n\n## 🔑 Key Takeaways\n\n- ✅ You self-host your password vault, ensuring complete physical control over your data.\n\n- ✅ True zero-knowledge security: client-side AES-256-GCM encryption means your key never leaves your device and the server is cryptographically blind.\n\n- ✅ Eliminates cloud subscriptions, vendor lock-in, and reliance on third-party trust.\n\n- ✅ Includes robust security features like mandatory TOTP 2FA, biometric unlock, and WebAuthn/FIDO2 passkey support.\n\n- ✅ Offers a seamless cross-platform experience (Android, iOS, Web, Desktop) powered by Flutter and FastAPI.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 36\n- 🍴 Forks: 2\n- ❗ Open Issues: 0\n\n\n## 🛠 Tech Stack\n- ✅ Dart\n\n\nThis project tackles a fundamental flaw in many popular password managers: the reliance on third-party servers to store your encrypted vault. While they often claim 'zero-knowledge,' the fact remains that your sensitive data, albeit encrypted, resides on someone else's hardware. Zero Password Manager offers a radical alternative by putting you in complete control. Your encrypted vault lives on a server *you* run, whether it's a home server, a personal VPS, or even a Raspberry Pi. This means you physically control the hardware that holds your secrets, eliminating the need to trust any external cloud provider with your data's physical location. The core of its security lies in robust client-side encryption. Your data is encrypted on your device *before* it ever gets sent to your self-hosted server, and crucially, your encryption key *never* leaves your device. This design ensures that your server is 'cryptographically blind' to your vault's contents; it simply stores encrypted data it cannot decipher. This approach provides true zero-knowledge security, where cryptographic proof, not just a company's promise, guarantees your privacy. For developers and privacy-conscious users, this offers significant advantages. It eliminates vendor lock-in and the need for cloud subscriptions, giving you complete autonomy over your password management solution. The project incorporates advanced security features like AES-256-GCM end-to-end encryption, PBKDF2-SHA256 for strong key derivation, and mandatory TOTP 2FA, providing an ironclad defense against unauthorized access. Further protections include blind site hashing, ensuring URLs are never stored in plaintext, and per-operation OTP gating for sensitive actions, along with replay attack protection. Modern conveniences haven't been overlooked, with support for biometric unlock (fingerprint and Face ID) and WebAuthn/FIDO2 passkeys, all integrated within a system where you retain ultimate ownership. Built with Flutter for a seamless cross-platform experience (Android, iOS, Web, Desktop) and a FastAPI backend, it's an excellent open-source project to explore, adapt, and contribute to, empowering you to manage your digital identity with unparalleled control and peace of mind.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/SoulNaturalist/zero_password_manager)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "ssh",
-            "slug": "ssh"
+            "name": "password manager",
+            "slug": "password-manager"
         },
         {
-            "name": "ai",
-            "slug": "ai"
+            "name": "self-hosted",
+            "slug": "self-hosted"
         },
         {
-            "name": "devops",
-            "slug": "devops"
+            "name": "zero-knowledge",
+            "slug": "zero-knowledge"
         },
         {
-            "name": "automation",
-            "slug": "automation"
+            "name": "privacy",
+            "slug": "privacy"
         },
         {
-            "name": "model context protocol",
-            "slug": "model-context-protocol"
+            "name": "security",
+            "slug": "security"
         }
     ],
-    "slug": "unleash-your-ai-seamless-ssh-management-with-mcp-ssh-manager",
-    "project_id": 1036544455,
+    "slug": "reclaim-your-privacy-zero-password-manager-puts-you-in-control",
+    "project_id": 1175555902,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
