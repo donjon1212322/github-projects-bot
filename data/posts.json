@@ -1,30 +1,37 @@
 [
     {
-        "project_id": 1199975239,
-        "content": "🔥 <b>tuitter</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nInteracting with X (Twitter) content and features directly from the terminal.\n<br>\n✨ <b>Key Features:</b>\n• Terminal UI client for X (Twitter)\n• Authentication with X account\n• Browse and interact with content\n• Built with TypeScript and OpenTUI\n• Local token storage\n<br>\n📖 <b>Summary:</b>\ntuitter is a terminal UI client for X (formerly Twitter) built with TypeScript. It allows users to authenticate with their X account and interact with content directly from their command-line interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bddicken/tuitter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ccbf4e398289ff178d29564ae57f0e9dd0b9b3a130f06b347240e5bfe943f5a0/bddicken/tuitter",
+        "project_id": 1047673244,
+        "content": "🔥 <b>proxmox-manager</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a user-friendly, scriptable interface for managing Proxmox VE virtual machines and containers directly from the command line.\n<br>\n✨ <b>Key Features:</b>\n• Single-file Bash script for Proxmox VE management\n• Interactive TUI for VMs and CTs\n• Start, stop, restart instances with confirmation\n• Console access (LXC shell or QEMU terminal)\n• Snapshot management (list, create, rollback, delete)\n<br>\n📖 <b>Summary:</b>\nProxmox Manager is a single Bash script that provides an interactive text-based user interface (TUI) for managing Proxmox Virtual Machines (VMs) and Containers (CTs). It simplifies common tasks like starting, stopping, listing, and managing snapshots, offering both interactive and machine-readable output options.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TimInTech/proxmox-manager?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1047673244/b2552f71-d0dc-4e4c-bb0c-c5fa49ee142f",
         "platform": "telegram",
-        "quality_score": 0.6499999999999999
+        "quality_score": 1.0
     },
     {
-        "project_id": 843412763,
-        "content": "🌟 <b>caesium-app-web</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCompressing images offline and in the browser while maintaining user privacy.\n<br>\n✨ <b>Key Features:</b>\n• JPG, PNG and WebP supported\n• Lossy and lossless compression\n• Keeps images metadata\n• Before/after comparison\n• Runs entirely on your browser, no images are uploaded or processed on any external server\n<br>\n📖 <b>Summary:</b>\nCaesium Web Image Compressor is a privacy-focused, offline web application that compresses images directly in the browser using WebAssembly. It supports various image formats and compression types, ensuring no data is uploaded to external servers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lymphatus/caesium-app-web?embed=0\">View Project</a>\n• <a href=\"https://caesium.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e0af762d7e25f71e693e16ec2cbcc28ff3b996df1360d67e924cbc45c430f21d/Lymphatus/caesium-app-web",
+        "project_id": 1173233006,
+        "content": "✨ <b>gridland</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDeveloping cross-platform terminal user interfaces (TUIs) that can be deployed as both standalone command-line applications and web applications.\n<br>\n✨ <b>Key Features:</b>\n• Build terminal apps that run in the browser\n• React integration for UI development\n• Built on OpenTUI rendering engine\n• Quick start with `create-gridland`\n• Interactive demos\n<br>\n📖 <b>Summary:</b>\nGridland is a TypeScript framework for building terminal applications that can also run seamlessly in web browsers. It leverages the OpenTUI rendering engine and provides React components for creating interactive command-line interfaces.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/thoughtfulllc/gridland?embed=0\">View Project</a>\n• <a href=\"https://gridland.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ba82e99fbbd5963e8469a6c60ecc46702583ca1d22ff22f8f7343e821dbf9839/thoughtfulllc/gridland",
         "platform": "telegram",
-        "quality_score": 0.5499999999999999
+        "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 1175555902,
-        "content": "🔥 <b>zero_password_manager</b> | Dart\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a secure, private, and self-controlled method for storing and managing sensitive credentials and seed phrases, eliminating reliance on third-party cloud services.\n<br>\n✨ <b>Key Features:</b>\n• Open-source and self-hosted\n• Flutter-based application\n• AES-256-GCM end-to-end encryption\n• PBKDF2-SHA256 key derivation\n• Blind site hashing for URLs\n<br>\n📖 <b>Summary:</b>\nZero Password Manager is an open-source, self-hosted password manager built with Flutter, prioritizing privacy and security. It allows users to store passwords and crypto seed phrases securely on their own servers, employing end-to-end encryption and zero-knowledge principles.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SoulNaturalist/zero_password_manager?embed=0\">View Project</a>\n• <a href=\"https://soulnaturalist.github.io/zero_password_manager/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ae6701a8a4ebd7d5ed1c2188b17c29844a4464f7ad34ba8f43e2bf1b0f1dfae1/SoulNaturalist/zero_password_manager",
+        "project_id": 940398328,
+        "content": "🌟 <b>NomAI-App</b> | Dart\n<br>\n🎯 <b>Primary Use Case:</b>\nPersonalized AI-powered nutrition tracking and meal analysis for healthier eating habits.\n<br>\n✨ <b>Key Features:</b>\n• Meal logging with detailed nutrition breakdowns\n• AI chat assistant for analysis, planning, and tips\n• Monthly analytics with charts and summary statistics\n• Personalization based on dietary preferences, allergies, and targets\n• Image recognition for faster meal logging\n<br>\n📖 <b>Summary:</b>\nNomAI is an open-source Flutter application designed for tracking meals and analyzing nutrition. It leverages AI to provide personalized guidance, making healthy eating more accessible and sustainable through features like quick logging, detailed analytics, and a conversational assistant.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MabudAlam/NomAI-App?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/67c450b997438ad7de8297fb0b4360baf44389331b95aa861b06c9499af8643b/MabudAlam/NomAI-App",
         "platform": "telegram",
-        "quality_score": 0.9
+        "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 1184857135,
-        "content": "🚀 <b>rom</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nDeterministic web automation and browser API research\n<br>\n✨ <b>Key Features:</b>\n• Lightweight embedded JavaScript engine\n• Growing browser API compatibility layer\n• Deterministic probes, snapshots, and acceptance harnesses\n• JS and Python bindings\n• Focus on browser emulation\n<br>\n📖 <b>Summary:</b>\nROM is a Rust-based browser runtime designed to be lightweight and programmable, emulating browser APIs without relying on Chromium. It's ideal for deterministic web automation, surface emulation, and browser API research.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Rxflex/rom?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f1436acec2477c1b51432b0a0e3ffb845369f47bc5082da0b702d3006322be9b/Rxflex/rom",
+        "project_id": 1101281251,
+        "content": "🔥 <b>GitHub-Store</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a centralized and user-friendly platform for discovering, installing, and managing open-source applications distributed via GitHub releases across multiple operating systems.\n<br>\n✨ <b>Key Features:</b>\n• Browse and discover open-source apps from GitHub releases\n• One-click installation of apps\n• Automatic detection of installable binaries (APK, EXE, DMG, AppImage, DEB, RPM)\n<br>\n📖 <b>Summary:</b>\nGitHub Store is a cross-platform application store that allows users to discover and install open-source software directly from GitHub releases. It supports automatic detection of various executable formats and provides a streamlined one-click installation process with update tracking.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/OpenHub-Store/GitHub-Store?embed=0\">View Project</a>\n• <a href=\"https://www.github-store.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1101281251/bed4993d-dbc8-48c8-b9ae-666fe66c4d1a",
         "platform": "telegram",
-        "quality_score": 0.7
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 728572979,
+        "content": "💡 <b>BloomeeTunes</b> | Dart\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a unified, ad-free music listening experience by combining local music playback with streaming from various online sources through a plugin system.\n<br>\n✨ <b>Key Features:</b>\n• Ad-Free Experience\n• Plugins system for music sources\n• Local Music playback\n• Karaoke-Style Lyrics\n• Audio Equalizer\n<br>\n📖 <b>Summary:</b>\nBloomeeTunes is a cross-platform, ad-free music player built with Flutter and Rust. It allows users to seamlessly stream music from various online sources via a plugin system while also playing local music files. The app offers features like lyrics, an equalizer, and Last.fm scrobbling.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HemantKArya/BloomeeTunes?embed=0\">View Project</a>\n• <a href=\"https://bloomeex.org/bloomeetunes?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/728572979/fca32f1e-fd5a-4398-a018-c4df6e9e7525",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
     }
 ]
