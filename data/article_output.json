@@ -1,26 +1,26 @@
 {
-    "title": "GitHub Store: Your One-Stop Shop for Open-Source Apps!",
-    "article": "As developers, we all love open-source software. GitHub is a treasure trove of incredible projects, but let's be honest, finding, downloading, and keeping track of updates for all those cool applications can sometimes feel like a scavenger hunt. You navigate to a repository, dig through the releases section, figure out which file to download for your OS, and then manually install it. And repeat that process every time there's an update. Sound familiar? That's exactly the problem GitHub Store swoops in to solve.\n\nImagine having an app store, but exclusively for the fantastic projects hosted on GitHub. That's precisely what GitHub Store delivers. This brilliant cross-platform application simplifies the entire lifecycle of discovering, installing, and managing open-source software from GitHub releases. It transforms the often-clunky process into a smooth, familiar, app-store-like experience.\n\nSo, how does this magic happen? GitHub Store intelligently scans GitHub repositories and automatically detects installable binaries. Whether you're on Android and need an APK, on Windows looking for an EXE, or on macOS needing a DMG, it identifies the correct file format. What's even better is the one-click installation feature. No more manual downloads and installations; just a single tap or click, and you're good to go. Beyond initial installation, it keeps an eye on your installed applications, tracking updates and notifying you when a new version is available. This means your favorite open-source tools are always up-to-date without you having to lift a finger.\n\nFrom a developer's perspective, this project is a game-changer. It's built using modern technologies like Kotlin Multiplatform and Compose Multiplatform, making it available seamlessly across Android and Desktop platforms. This not only showcases the power of these frameworks but also means developers can benefit from this tool regardless of their primary development environment. It frees up valuable time that would otherwise be spent on administrative tasks like package management, allowing you to focus on what you do best: coding. Think about the sheer convenience of having all your essential GitHub-hosted tools, from utility apps to dev environment enhancements, managed in one central, easy-to-use interface. It truly streamlines your workflow and makes exploring the vast open-source ecosystem a joy rather than a chore.",
+    "title": "Unlock SMS Superpowers: Turn Your Android into an API-Driven SMS Gateway!",
+    "article": "Ever found yourself needing to send SMS messages programmatically from your applications or services, but cringing at the thought of expensive third-party APIs or complex setups? What if your trusty Android phone could become your very own, free, and incredibly flexible SMS gateway? That's exactly what the 'SMS Gateway for Android' project on GitHub lets you do, and it's a game-changer for developers.This ingenious open-source application transforms any Android smartphone running version 5.0 or newer into a powerful SMS gateway. Imagine being able to send messages directly from your backend code, a script, or even a command-line tool, all by simply making an API call to your phone. The project provides a straightforward API that allows you to trigger SMS sends effortlessly. No more relying on external services that charge per message or require lengthy registration processes. In fact, for local use, you don't even need an account!But it's not just about sending. This gateway is a two-way street. It also empowers your applications to *receive* incoming SMS messages in real-time. How? Through webhooks! When a new message lands on your Android phone, the gateway can instantly fire off a notification to a URL you specify. This means your services can react to incoming messages, process user replies, or trigger automated workflows without constant polling. You can even view all your incoming SMS, Data SMS, and MMS messages directly within the app, complete with organized tabs and statistics.The beauty of this project lies in its simplicity and robust feature set. Need to send a really long message? No problem, it handles multipart messages by auto-partitioning them. Want to know if your message actually went through? It offers real-time message status tracking, so you're always in the loop. This means greater reliability and transparency for your SMS-dependent applications. Developers should care because it offers a highly customizable, cost-effective, and private way to integrate SMS functionality directly into their projects, making it perfect for notification systems, two-factor authentication, customer support, or even IoT applications where device-to-human communication is key. It's an open-source solution that puts you in control, leveraging hardware you likely already own.",
     "key_takeaways": [
-        "GitHub Store simplifies the discovery, installation, and management of open-source software from GitHub releases.",
-        "It offers one-click installation for various binary formats (APK, EXE, DMG, AppImage, DEB, RPM) across platforms.",
-        "The application automatically tracks and notifies users about updates for installed GitHub-hosted software.",
-        "It provides a familiar, user-friendly app-store style interface for managing open-source projects.",
-        "Built with Kotlin Multiplatform and Compose Multiplatform, ensuring a consistent experience on Android and Desktop."
+        "Transform any Android 5.0+ device into a personal SMS gateway.",
+        "Send and receive SMS messages programmatically via a simple API and webhooks.",
+        "Eliminate reliance on expensive third-party SMS providers and their registration processes.",
+        "Gain real-time message status tracking and incoming message notifications.",
+        "Open-source solution for cost-effective, private, and customizable SMS integration."
     ],
     "tags": [
-        "OpenSource",
-        "GitHub",
-        "AppStore",
-        "KotlinMultiplatform",
-        "DeveloperTools"
+        "Android",
+        "SMS Gateway",
+        "API",
+        "Webhooks",
+        "Mobile Development"
     ],
-    "stars": 10840,
-    "forks": 383,
-    "open_issues": 26,
+    "stars": 3501,
+    "forks": 599,
+    "open_issues": 11,
     "languages": "Kotlin",
-    "readme_summary": "GitHub Store is a cross-platform application store that allows users to discover and install open-source software directly from GitHub releases. It supports automatic detection of various executable formats and provides a streamlined one-click installation process with update tracking.",
-    "project_id": 1101281251,
-    "url": "https://github.com/OpenHub-Store/GitHub-Store",
-    "description": "🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows)."
+    "readme_summary": "The Android SMS Gateway app transforms an Android device into an SMS gateway, allowing users to send and receive SMS messages programmatically via an API. It supports direct device access or cloud server integration, making it suitable for embedding SMS functionality into other applications.",
+    "project_id": 503827141,
+    "url": "https://github.com/capcom6/android-sms-gateway",
+    "description": "The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible."
 }
