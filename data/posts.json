@@ -1,44 +1,30 @@
 [
     {
-        "project_id": 226883777,
-        "content": "🌟 <b>Lemuroid</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nEmulating classic video game consoles on Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Libretro integration\n• Wide system support (Atari, Nintendo, Sega, PlayStation, PSP, NDS, 3DS, Arcade, etc.)\n• Ease of use and good Android integration\n• Automatic save/restore game states\n• ROM scanning and indexing\n<br>\n📖 <b>Summary:</b>\nLemuroid is an open-source Android emulator based on Libretro, designed for ease of use and a great user experience. It supports a wide range of classic gaming consoles and offers features like automatic state saving, ROM scanning, and customizable touch controls.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Swordfish90/Lemuroid?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/178192f2468baa0b6d6848be683be8aade849347de2bddd06019dfb13b240f82/Swordfish90/Lemuroid",
+        "project_id": 591022890,
+        "content": "🔥 <b>proxelar</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nIntercepting, inspecting, and modifying HTTP/HTTPS traffic for debugging, reverse engineering, testing, and automation.\n<br>\n✨ <b>Key Features:</b>\n• Lua scripting for request/response modification, blocking, or mocking\n• Automatic CA generation for HTTPS interception\n• Forward and reverse proxy modes\n• Multiple interfaces: Terminal, TUI (ratatui), and Web GUI (axum + WebSocket)\n• Request filtering and detailed inspection\n<br>\n📖 <b>Summary:</b>\nProxelar is a Man-in-the-Middle proxy written in Rust, designed to intercept, inspect, and modify HTTP/HTTPS traffic. It offers flexible interfaces including a TUI and a web GUI, and supports Lua scripting for runtime traffic manipulation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/emanuele-em/proxelar?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ef84eab8575c1404fb197793b9faec485b41bf74b008e269b2e5e56345ed161c/emanuele-em/proxelar",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 465344326,
+        "content": "🚀 <b>uncover</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDiscovering exposed hosts on the internet by querying multiple search engines through a unified CLI interface.\n<br>\n✨ <b>Key Features:</b>\n• Query multiple search engines simultaneously\n• Supports Shodan, Censys, FOFA, Hunter, Quake, ZoomEye, Netlas, CriminalIP, PublicWWW, HunterHow, Google, Onyphe, and Driftnet\n• Multiple API key input and automatic randomization\n• stdin/stdout support for input and output\n• Built with automation in mind for pipeline integration\n<br>\n📖 <b>Summary:</b>\nUncover is a Go-based command-line tool that leverages multiple search engine APIs to discover publicly exposed hosts on the internet. It's designed for automation and integration into existing security and reconnaissance workflows.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/projectdiscovery/uncover?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/419d0ff3c3c38665dfd4a623ced6e2f077dad61463738e8c1df00febed08deaf/projectdiscovery/uncover",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 203504244,
-        "content": "🔥 <b>undiscord</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBulk deletion of messages in Discord channels or direct messages via a browser extension.\n<br>\n✨ <b>Key Features:</b>\n• Bulk delete all messages in a Discord channel or DM\n• Operates as a browser extension/userscript\n• Easy and fast message deletion\n• Requires browser-based Discord access (not the desktop app)\n<br>\n📖 <b>Summary:</b>\nUndiscord is a browser extension and userscript designed to efficiently delete all messages within a Discord channel or direct message. It operates directly within the browser, offering a fast and easy way to manage message history.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/victornpb/undiscord?embed=0\">View Project</a>\n• <a href=\"https://victornpb.github.io/undiscord?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/203504244/3a288259-556f-4b85-83e6-988fa6a2e9ea",
+        "project_id": 105627846,
+        "content": "💡 <b>reactos</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nTo develop a free, open-source operating system that can run Windows applications and drivers.\n<br>\n✨ <b>Key Features:</b>\n• Windows NT family compatibility (applications and drivers)\n• Open Source development\n• Alpha quality, under heavy development\n• Build environment (RosBE) for Windows and Unix/GNU-Linux\n• Support for building bootable CD images\n<br>\n📖 <b>Summary:</b>\nReactOS is an open-source operating system aiming for compatibility with applications and drivers designed for Microsoft Windows NT family. It is currently in alpha development, meaning it is unstable and best tested in virtual environments.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/reactos/reactos?embed=0\">View Project</a>\n• <a href=\"https://reactos.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c2f0ef84acfb8cd110605e6109ab567c1ed765ddc8bbad0ac356d7a1bb57c72f/reactos/reactos",
         "platform": "telegram",
         "quality_score": 0.65
     },
     {
-        "project_id": 503827141,
-        "content": "💡 <b>android-sms-gateway</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling programmatic sending and receiving of SMS messages through an API, integrating SMS functionality into other applications and services.\n<br>\n✨ <b>Key Features:</b>\n• Send and Receive SMS via API\n• Support for Android 5.0 and above\n• Multipart message support\n• Message status tracking\n• Incoming messages viewer\n<br>\n📖 <b>Summary:</b>\nThe Android SMS Gateway app transforms an Android device into an SMS gateway, allowing users to send and receive SMS messages programmatically via an API. It supports direct device access or cloud server integration, making it suitable for embedding SMS functionality into other applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/capcom6/android-sms-gateway?embed=0\">View Project</a>\n• <a href=\"https://docs.sms-gate.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/613de3436cfa23d767d52d517e610e42146b2fa8844686e49f19f107b640530b/capcom6/android-sms-gateway",
-        "platform": "telegram",
-        "quality_score": 1.1
-    },
-    {
-        "project_id": 935604638,
-        "content": "🔥 <b>agenticSeek</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a private, autonomous AI assistant that can perform web browsing, coding, and task management locally on a user's machine, without relying on cloud services.\n<br>\n✨ <b>Key Features:</b>\n• Fully Local & Private operation\n• Smart Web Browsing capabilities\n• Autonomous Coding Assistant for multiple languages\n• Automatic Agent Selection for tasks\n• Complex Task Planning and Execution\n<br>\n📖 <b>Summary:</b>\nAgenticSeek is a fully local, voice-enabled AI assistant that autonomously browses the web, writes code, and plans complex tasks. It functions entirely on the user's hardware, ensuring complete privacy and eliminating cloud dependency, making it a private alternative to services like Manus AI.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Fosowl/agenticSeek?embed=0\">View Project</a>\n• <a href=\"http://agenticseek.tech?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/146cbf70b96d00e819f136ec5c99090149bfbca2bd787bd5f55fa2c14ed2d4b7/Fosowl/agenticSeek",
-        "platform": "telegram",
-        "quality_score": 1.1
-    },
-    {
-        "project_id": 1077819522,
-        "content": "✨ <b>editor</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and sharing 3D architectural projects.\n<br>\n✨ <b>Key Features:</b>\n• 3D architectural project creation and sharing\n• Built with React Three Fiber and WebGPU\n• Turborepo monorepo architecture\n• Separation of concerns into core, viewer, and editor packages\n• Zustand stores for scene, viewer, and editor state management\n<br>\n📖 <b>Summary:</b>\nPascal Editor is a 3D architectural building editor built using React Three Fiber and WebGPU, leveraging a monorepo architecture with Turborepo. It separates concerns into core schema and state management, 3D rendering components, and the main editor application, enabling the creation and sharing of architectural projects.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pascalorg/editor?embed=0\">View Project</a>\n• <a href=\"https://editor.pascal.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1077819522/f76f9c77-a8ac-47a2-9fd7-d17a9cdb3759",
+        "project_id": 400501136,
+        "content": "💡 <b>mujoco</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nAccurate and fast simulation of articulated structures interacting with their environment, primarily for research and development in robotics, biomechanics, and machine learning.\n<br>\n✨ <b>Key Features:</b>\n• C API for low-level control and performance\n• Interactive visualization with native GUI (OpenGL)\n• XML compiler for preallocating data structures\n• Python bindings for ease of use\n• Unity game engine plug-in\n<br>\n📖 <b>Summary:</b>\nMuJoCo is a high-performance physics engine designed for simulating articulated structures with contact. It is optimized for speed and accuracy, making it suitable for research in robotics, biomechanics, graphics, and machine learning.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/google-deepmind/mujoco?embed=0\">View Project</a>\n• <a href=\"https://mujoco.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1e1e16cd7f7b571de43047b7af7f7c75c1610efc09fcfe6ff4ec38ffa5ae0e97/google-deepmind/mujoco",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 1165885512,
-        "content": "✨ <b>MedgeClaw</b> | TeX\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a conversational AI interface for executing complex biomedical research analyses, making advanced bioinformatics and drug discovery workflows accessible through natural language interaction.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered biomedical research assistant\n• Supports RNA-seq, drug discovery, clinical analysis, and more\n• Integrates 140 K-Dense Scientific Skills\n• Real-time research dashboard\n<br>\n📖 <b>Summary:</b>\nMedgeClaw is an open-source AI research assistant designed for biomedical applications. It allows users to interact via messaging apps like WhatsApp or Slack to initiate complex analyses such as RNA-seq, drug discovery, and clinical research, with results accessible through RStudio or JupyterLab.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/xjtulyc/MedgeClaw?embed=0\">View Project</a>\n• <a href=\"https://medgeai.cn/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5da25498c5ba35f697931b0e8015a8e284415f0b81335dc90c9aa72ac32b37b8/xjtulyc/MedgeClaw",
-        "platform": "telegram",
-        "quality_score": 0.8
     }
 ]
