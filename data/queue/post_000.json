@@ -1,0 +1,7 @@
+{
+    "project_id": 1078024758,
+    "content": "💡 <b>pad3r-public</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nReconstructing dynamic 3D objects from casual monocular videos.\n<br>\n✨ <b>Key Features:</b>\n• Reconstructs dynamic 4D objects from single casual monocular videos\n• Jointly models object deformation and camera motion\n• Three-stage reconstruction pipeline: Static 3D, PoseNet, Dynamic 4D\n• Utilizes Zero123 SDS, SuGaR, Gaussian Splatting, DINOv2, and CoTracker3\n<br>\n📖 <b>Summary:</b>\nPAD3R is a Python-based pipeline for reconstructing dynamic 3D objects from a single casual monocular video. It achieves this by jointly modeling object deformation and camera motion through a three-stage process involving static 3D reconstruction, camera pose estimation, and dynamic 4D reconstruction.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pad3r/pad3r-public?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/9070d0bfb2b3b23626ae83c6624d631ea724d9fbc459c9f517f06af33b575f7d/pad3r/pad3r-public",
+    "platform": "telegram",
+    "quality_score": 0.6
+}

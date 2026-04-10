@@ -1,0 +1,7 @@
+{
+    "project_id": 1134714755,
+    "content": "🌟 <b>SPAG4d</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTransforming panoramic photos into interactive 3D environments using Gaussian Splatting technology.\n<br>\n✨ <b>Key Features:</b>\n• Conversion of 360° panoramas to 3D Gaussian Splats\n• Multiple generator backends: DA360, DAP, SHARP 360\n• Depth-based projection via spherical geometry\n• Direct Gaussian prediction using Apple's SHARP model\n• Optional refinement with GSFix3D (diffusion inpainting)\n<br>\n📖 <b>Summary:</b>\nSPAG-4D is a Python-based tool that converts 360° equirectangular panoramic images into explorable 3D Gaussian Splat scenes. It offers multiple generator backends for depth estimation and direct Gaussian prediction, with optional refinement steps to fill disocclusions and improve visual quality.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cedarconnor/SPAG4d?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/dbea3e51d29eda1bf1308080c0fa05499e1ced29a920a5530cf5f813960102ee/cedarconnor/SPAG4d",
+    "platform": "telegram",
+    "quality_score": 0.85
+}
