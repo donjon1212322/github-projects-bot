@@ -1,7 +1,7 @@
 {
-    "project_id": 998434422,
-    "content": "🌟 <b>pgschema</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating and simplifying PostgreSQL schema migrations using a declarative, Terraform-like approach, especially for complex schemas with advanced PostgreSQL features.\n<br>\n✨ <b>Key Features:</b>\n• Terraform-style declarative schema migration\n• Automatic DDL generation from desired state\n• Support for advanced PostgreSQL-specific objects (RLS, partitioning, triggers, etc.)\n<br>\n📖 <b>Summary:</b>\npgschema is a Go-based CLI tool that enables Terraform-style declarative schema migrations for PostgreSQL. It allows users to define their desired database schema state and automatically generates the necessary SQL migration DDL, simplifying the migration process and supporting advanced PostgreSQL features.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pgplex/pgschema?embed=0\">View Project</a>\n• <a href=\"https://www.pgschema.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/0cc59914c94cf72f2090ea9b72b2102af7208d98fc643dae3151f2100d42300f/pgplex/pgschema",
+    "project_id": 1121152498,
+    "content": "✨ <b>tuitube</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDownloading videos from various online platforms through an easy-to-use text-based interface.\n<br>\n✨ <b>Key Features:</b>\n• TUI for video downloads\n• Supports YouTube, X (Twitter), Twitch, Instagram, Bilibili, and more\n• Uses yt-dlp CLI for downloading\n• Cross-platform compatibility (macOS, Windows)\n<br>\n📖 <b>Summary:</b>\nTuitube is a command-line interface (CLI) tool that provides a Text User Interface (TUI) for downloading videos from various popular platforms like YouTube, X (Twitter), Twitch, and Instagram. It leverages the power of yt-dlp to handle the actual downloading process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/remorses/tuitube?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/b11d53bb750d733423faf5b31cd024c96deeaae3138513630aac1341b83bf234/remorses/tuitube",
     "platform": "telegram",
-    "quality_score": 0.9500000000000001
+    "quality_score": 0.25
 }
