@@ -1,30 +1,44 @@
 [
     {
-        "project_id": 973854292,
-        "content": "✨ <b>android-tv-debloat-toolkit</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo debloat, customize, and improve the performance of Android TV devices by removing unwanted applications and system services.\n<br>\n✨ <b>Key Features:</b>\n• Connect to Android TV over Wi-Fi (ADB Wireless)\n• Debloat TCL and Google bloatware\n• Remove Google TV Recommendations\n• Install APKs remotely\n• Disable Google Launcher safely\n<br>\n📖 <b>Summary:</b>\nThis Python-based Windows application simplifies the customization of Android TV devices. It allows users to connect via Wi-Fi, debloat unnecessary apps, install custom launchers and APKs, and disable the default Google TV launcher, leading to a cleaner and faster user experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/seun-novodev/android-tv-debloat-toolkit?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/957a363890a204fd45b53f69218d7e82796d407627b49ab9e23cf26c0358c297/seun-novodev/android-tv-debloat-toolkit",
+        "project_id": 1199201064,
+        "content": "🌟 <b>gopher-code</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a highly performant, dependency-free, and easily distributable version of the Claude Code application, optimized for speed and resource efficiency.\n<br>\n✨ <b>Key Features:</b>\n• Rewritten from scratch in Go\n• Zero Node.js, Zero Electron dependencies\n• Single static binary distribution\n• Fast 12ms cold start\n• Native concurrency with goroutines\n<br>\n📖 <b>Summary:</b>\nGopher Code is a complete rewrite of the Claude Code application from scratch in Go. It aims to provide a single, static binary with no Node.js or Electron dependencies, offering significantly faster startup times, reduced memory usage, and easier cross-compilation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ProjectBarks/gopher-code?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ed4f9940e795e20b513f469d0f4b1b05853e7fb459dcfbd28a0a03c194e7d803/ProjectBarks/gopher-code",
         "platform": "telegram",
-        "quality_score": 0.35
+        "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 997737944,
-        "content": "🔥 <b>RuView</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo transform commodity WiFi signals into a comprehensive sensing system for real-time human activity and vital sign monitoring, operating entirely on edge devices without cameras.\n<br>\n✨ <b>Key Features:</b>\n• Real-time human pose estimation (17 COCO keypoints)\n<br>\n📖 <b>Summary:</b>\nRuView is a Rust-based WiFi sensing platform that uses ESP32 sensors to capture and interpret Channel State Information (CSI) from WiFi signals. It enables real-time human pose estimation, vital sign monitoring (breathing and heart rate), activity recognition, and environmental mapping without requiring cameras or wearables. The system operates entirely on edge hardware, learning environments locally and ensuring privacy.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ruvnet/RuView?embed=0\">View Project</a>\n• <a href=\"https://Cognitum.One?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/997737944/2860500f-6e90-47c1-a59a-1c83e376e5cf",
+        "project_id": 1141782198,
+        "content": "✨ <b>voicebox</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a private, powerful, and versatile local application for voice cloning, speech generation, and audio editing, enabling the creation of voice-powered applications and content.\n<br>\n✨ <b>Key Features:</b>\n• Local-first voice cloning studio\n• 5 TTS engines (Qwen3-TTS, LuxTTS, Chatterbox Multilingual, Chatterbox Turbo, HumeAI TADA)\n<br>\n📖 <b>Summary:</b>\nVoicebox is an open-source, local-first voice synthesis studio that allows users to clone voices, generate speech in multiple languages and TTS engines, apply audio effects, and compose multi-voice projects. It prioritizes user privacy by running entirely on the user's machine and offers a REST API for integration into other applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jamiepine/voicebox?embed=0\">View Project</a>\n• <a href=\"https://voicebox.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fea8d53dc9296e6f757a0be9d67f032d67c2ce1d147506fdd2b8cc8093c16b3f/jamiepine/voicebox",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 1054812421,
+        "content": "✨ <b>Infographic</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating and rendering high-quality infographics declaratively, with AI assistance for creation and editing.\n<br>\n✨ <b>Key Features:</b>\n• AI-friendly configuration and syntax for AI generation, streaming output, and rendering\n• Approximately 200 built-in infographic templates, data-item components, and layouts\n• Theme system with preset themes and deep customization options\n<br>\n📖 <b>Summary:</b>\nAntV Infographic is a declarative infographic visualization engine that uses a specialized syntax to quickly and flexibly render high-quality infographics. It aims to make information presentation more efficient and data storytelling simpler, with AI-friendly features for generation and editing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/antvis/Infographic?embed=0\">View Project</a>\n• <a href=\"https://infographic.antv.vision?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1054812421/de39c53f-53b2-42cf-8d80-070065435002",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 886725915,
+        "content": "✨ <b>savr</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nSaving and reading online content offline, with a focus on user data control and decentralization.\n<br>\n✨ <b>Key Features:</b>\n• Save articles for reading later\n• Remove distractions like advertisements\n• Read content and images without an internet connection\n• No dependency on a service/company for scraping or storage\n• Optional authorization and cross-device synchronization (Dropbox/Google Drive)\n<br>\n📖 <b>Summary:</b>\nSavr is a progressive web app designed for saving online content like articles and images for offline reading. It prioritizes user data ownership, decentralization, and works locally without requiring a server or company dependency.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jonocodes/savr?embed=0\">View Project</a>\n• <a href=\"https://savr.link?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/96b91a4d1b2b4b44cacac677173cca6fa2fda7efce550b271f6a9a007a1c26cb/jonocodes/savr",
+        "platform": "telegram",
+        "quality_score": 0.9
+    },
+    {
+        "project_id": 672545033,
+        "content": "🚀 <b>Mantella</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo allow players of Skyrim and Fallout 4 to interact with Non-Player Characters (NPCs) using their own voice, creating a more immersive and natural gameplay experience.\n<br>\n✨ <b>Key Features:</b>\n• Speech-to-Text integration (Moonshine/Whisper)\n• LLM integration for natural language processing\n• Text-to-Speech integration (Piper/xVASynth/XTTS)\n• Mod for Skyrim and Fallout 4\n• Enables natural voice interaction with NPCs\n<br>\n📖 <b>Summary:</b>\nMantella is a mod for Skyrim and Fallout 4 that integrates AI-powered voice interaction with NPCs. It uses a pipeline of speech-to-text, large language models (LLMs), and text-to-speech to enable players to speak naturally with game characters.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/art-from-the-machine/Mantella?embed=0\">View Project</a>\n• <a href=\"https://art-from-the-machine.github.io/Mantella/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/048408facc9b5c82c93f8660f1079e2211487858d9a0e0fb8801c8a374d13c3e/art-from-the-machine/Mantella",
+        "platform": "telegram",
+        "quality_score": 1.2000000000000002
+    },
+    {
+        "project_id": 1068787337,
+        "content": "🔥 <b>BubbleLab</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a self-hostable and extensible workflow engine for automating operational tasks, building custom agents, and integrating with various systems.\n<br>\n✨ <b>Key Features:</b>\n• Workflow execution runtime\n• Agent and integration primitives (\"Bubbles\")\n• Local workflow studio\n• Execution tracing, logging, and observability\n• CLI tooling\n<br>\n📖 <b>Summary:</b>\nBubble Lab is an open-core workflow engine that powers its own AI operator platform. It allows teams to automate operational tasks directly within Slack using an AI assistant named Pearl, and can be run, hosted, and extended independently for custom automation needs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bubblelabai/BubbleLab?embed=0\">View Project</a>\n• <a href=\"https://bubblelab.ai/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c5889624b3884be31755f68a663b30db334814d92be2ce6439e3d75538358932/bubblelabai/BubbleLab",
         "platform": "telegram",
         "quality_score": 1.1
-    },
-    {
-        "project_id": 1094578857,
-        "content": "💡 <b>sbv</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a web-based interface for easily viewing, searching, and managing SMS, MMS, and call log backups created by the 'SMS Backup & Restore' Android application.\n<br>\n✨ <b>Key Features:</b>\n• Web application for viewing SMS/MMS backups\n• Imports 'SMS Backup & Restore' XML files\n• Texting app-like interface\n• Multi-user support with username/password\n• Idempotent imports to prevent duplicates\n<br>\n📖 <b>Summary:</b>\nSBV (SMS Backup Viewer) is a modern web application designed to view SMS and MMS message backups from XML files generated by the 'SMS Backup & Restore' app. It provides a user-friendly, texting app-like interface for browsing, searching, and filtering messages, including support for media attachments and call logs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lowcarbdev/sbv?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/046ce59cfd7318920febd8c3cc59af7ed371eaf6b611f24d38f94554fa6b3b83/lowcarbdev/sbv",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 1070459511,
-        "content": "🚀 <b>maivi</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a fast, accurate, and convenient way to convert spoken words into text in real-time, directly on their local machine, with seamless integration into their workflow.\n<br>\n✨ <b>Key Features:</b>\n• Hotkey Recording (Alt+Q)\n• Real-time Transcription\n• Clipboard Integration\n• Floating Overlay\n• Smart Chunk Merging\n<br>\n📖 <b>Summary:</b>\nMaivi is a cross-platform desktop application that provides real-time, local voice-to-text transcription using advanced AI models. It features hotkey support for easy recording, automatic clipboard copying, and a floating overlay for live transcription, designed to be efficient and accurate even on CPU.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MaximeRivest/maivi?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1e634a98761393a27d4f8697531746457309354344fe4adba8daf9b190c3bc8c/MaximeRivest/maivi",
-        "platform": "telegram",
-        "quality_score": 0.8
     }
 ]
