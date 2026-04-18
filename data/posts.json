@@ -1,44 +1,44 @@
 [
     {
-        "project_id": 1199201064,
-        "content": "🌟 <b>gopher-code</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a highly performant, dependency-free, and easily distributable version of the Claude Code application, optimized for speed and resource efficiency.\n<br>\n✨ <b>Key Features:</b>\n• Rewritten from scratch in Go\n• Zero Node.js, Zero Electron dependencies\n• Single static binary distribution\n• Fast 12ms cold start\n• Native concurrency with goroutines\n<br>\n📖 <b>Summary:</b>\nGopher Code is a complete rewrite of the Claude Code application from scratch in Go. It aims to provide a single, static binary with no Node.js or Electron dependencies, offering significantly faster startup times, reduced memory usage, and easier cross-compilation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ProjectBarks/gopher-code?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ed4f9940e795e20b513f469d0f4b1b05853e7fb459dcfbd28a0a03c194e7d803/ProjectBarks/gopher-code",
+        "project_id": 1152691112,
+        "content": "🔥 <b>textream</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a discreet and customizable teleprompter experience for macOS users during live streams, interviews, or presentations.\n<br>\n✨ <b>Key Features:</b>\n• Real-time word tracking using on-device speech recognition\n• Classic auto-scroll with adjustable speed\n• Voice-activated scrolling that pauses when silent\n• Dynamic Island-style overlay, draggable floating window, or fullscreen on Sidecar iPad\n<br>\n📖 <b>Summary:</b>\nTextream is a free, open-source macOS teleprompter application designed for streamers, interviewers, and presenters. It offers real-time word tracking, classic auto-scroll, and voice-activated scrolling, displayed in a discreet overlay that is invisible to the audience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/f/textream?embed=0\">View Project</a>\n• <a href=\"https://textream.fka.dev/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/cb600db8e8cb6d0bef89ccd3d9e76d3a753aec0ecd92546e0f818b0d65057984/f/textream",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.95
     },
     {
-        "project_id": 1141782198,
-        "content": "✨ <b>voicebox</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a private, powerful, and versatile local application for voice cloning, speech generation, and audio editing, enabling the creation of voice-powered applications and content.\n<br>\n✨ <b>Key Features:</b>\n• Local-first voice cloning studio\n• 5 TTS engines (Qwen3-TTS, LuxTTS, Chatterbox Multilingual, Chatterbox Turbo, HumeAI TADA)\n<br>\n📖 <b>Summary:</b>\nVoicebox is an open-source, local-first voice synthesis studio that allows users to clone voices, generate speech in multiple languages and TTS engines, apply audio effects, and compose multi-voice projects. It prioritizes user privacy by running entirely on the user's machine and offers a REST API for integration into other applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jamiepine/voicebox?embed=0\">View Project</a>\n• <a href=\"https://voicebox.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fea8d53dc9296e6f757a0be9d67f032d67c2ce1d147506fdd2b8cc8093c16b3f/jamiepine/voicebox",
+        "project_id": 709027512,
+        "content": "✨ <b>maxun</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling users to extract structured data from websites and turn them into APIs through a no-code interface.\n<br>\n✨ <b>Key Features:</b>\n• No-code web data platform\n• Real-time web scraping and crawling\n• AI-powered data extraction\n• Recorder Mode for robot creation\n• SDK for developers\n<br>\n📖 <b>Summary:</b>\nMaxun is an open-source, no-code platform designed to transform websites into structured data APIs. It offers tools for web scraping, crawling, search, and AI-powered data extraction, enabling users to automate data collection without writing code.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/getmaxun/maxun?embed=0\">View Project</a>\n• <a href=\"https://www.maxun.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3ee55d8ae87759cf799d943253b68d7cf474d1991f2e0961d28b708139be7602/getmaxun/maxun",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
+        "quality_score": 1.0
     },
     {
-        "project_id": 1054812421,
-        "content": "✨ <b>Infographic</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating and rendering high-quality infographics declaratively, with AI assistance for creation and editing.\n<br>\n✨ <b>Key Features:</b>\n• AI-friendly configuration and syntax for AI generation, streaming output, and rendering\n• Approximately 200 built-in infographic templates, data-item components, and layouts\n• Theme system with preset themes and deep customization options\n<br>\n📖 <b>Summary:</b>\nAntV Infographic is a declarative infographic visualization engine that uses a specialized syntax to quickly and flexibly render high-quality infographics. It aims to make information presentation more efficient and data storytelling simpler, with AI-friendly features for generation and editing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/antvis/Infographic?embed=0\">View Project</a>\n• <a href=\"https://infographic.antv.vision?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1054812421/de39c53f-53b2-42cf-8d80-070065435002",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 886725915,
-        "content": "✨ <b>savr</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nSaving and reading online content offline, with a focus on user data control and decentralization.\n<br>\n✨ <b>Key Features:</b>\n• Save articles for reading later\n• Remove distractions like advertisements\n• Read content and images without an internet connection\n• No dependency on a service/company for scraping or storage\n• Optional authorization and cross-device synchronization (Dropbox/Google Drive)\n<br>\n📖 <b>Summary:</b>\nSavr is a progressive web app designed for saving online content like articles and images for offline reading. It prioritizes user data ownership, decentralization, and works locally without requiring a server or company dependency.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jonocodes/savr?embed=0\">View Project</a>\n• <a href=\"https://savr.link?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/96b91a4d1b2b4b44cacac677173cca6fa2fda7efce550b271f6a9a007a1c26cb/jonocodes/savr",
-        "platform": "telegram",
-        "quality_score": 0.9
-    },
-    {
-        "project_id": 672545033,
-        "content": "🚀 <b>Mantella</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo allow players of Skyrim and Fallout 4 to interact with Non-Player Characters (NPCs) using their own voice, creating a more immersive and natural gameplay experience.\n<br>\n✨ <b>Key Features:</b>\n• Speech-to-Text integration (Moonshine/Whisper)\n• LLM integration for natural language processing\n• Text-to-Speech integration (Piper/xVASynth/XTTS)\n• Mod for Skyrim and Fallout 4\n• Enables natural voice interaction with NPCs\n<br>\n📖 <b>Summary:</b>\nMantella is a mod for Skyrim and Fallout 4 that integrates AI-powered voice interaction with NPCs. It uses a pipeline of speech-to-text, large language models (LLMs), and text-to-speech to enable players to speak naturally with game characters.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/art-from-the-machine/Mantella?embed=0\">View Project</a>\n• <a href=\"https://art-from-the-machine.github.io/Mantella/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/048408facc9b5c82c93f8660f1079e2211487858d9a0e0fb8801c8a374d13c3e/art-from-the-machine/Mantella",
-        "platform": "telegram",
-        "quality_score": 1.2000000000000002
-    },
-    {
-        "project_id": 1068787337,
-        "content": "🔥 <b>BubbleLab</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a self-hostable and extensible workflow engine for automating operational tasks, building custom agents, and integrating with various systems.\n<br>\n✨ <b>Key Features:</b>\n• Workflow execution runtime\n• Agent and integration primitives (\"Bubbles\")\n• Local workflow studio\n• Execution tracing, logging, and observability\n• CLI tooling\n<br>\n📖 <b>Summary:</b>\nBubble Lab is an open-core workflow engine that powers its own AI operator platform. It allows teams to automate operational tasks directly within Slack using an AI assistant named Pearl, and can be run, hosted, and extended independently for custom automation needs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bubblelabai/BubbleLab?embed=0\">View Project</a>\n• <a href=\"https://bubblelab.ai/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c5889624b3884be31755f68a663b30db334814d92be2ce6439e3d75538358932/bubblelabai/BubbleLab",
+        "project_id": 951958279,
+        "content": "✨ <b>telegram-mcp</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo act as a bridge between AI models/clients and the Telegram messaging platform, enabling AI to read, understand, and interact with Telegram chats and groups programmatically.\n<br>\n✨ <b>Key Features:</b>\n• Full-featured Telegram integration for MCP-compatible clients (Claude, Cursor, etc.)\n• Powered by Telethon and the Model Context Protocol (MCP)\n• Programmatic interaction with Telegram accounts\n<br>\n📖 <b>Summary:</b>\nTelegram MCP Server is a Python-based server that leverages the Telethon library to provide a comprehensive interface for interacting with Telegram. It allows MCP-compatible clients, such as AI assistants, to read chats, manage groups, send and modify messages, media, contacts, and settings.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/chigwell/telegram-mcp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3325cfbd5dd020fe1fbbb8586adce83f8a6e66d15f75d2d3025358fc16ba3561/chigwell/telegram-mcp",
         "platform": "telegram",
         "quality_score": 1.1
+    },
+    {
+        "project_id": 742263235,
+        "content": "🌟 <b>clipboard-history</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and searching clipboard history on Linux systems.\n<br>\n✨ <b>Key Features:</b>\n• Remembers clipboard history across reboots\n• Saves images and arbitrary bytes\n• Searchable history with Regex or raw queries\n• Installable on any Linux system\n• Efficient storage using custom binary format\n<br>\n📖 <b>Summary:</b>\nRingboard is a Rust-based clipboard manager for Linux that efficiently stores, searches, and retrieves clipboard history, including images and arbitrary data. It features a client-server architecture for composability and supports a large history size with minimal resource usage.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SUPERCILEX/clipboard-history?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/539ee58a8b471957a7e822f4c8331d60672aea824978acb9cd18b713f21cb52d/SUPERCILEX/clipboard-history",
+        "platform": "telegram",
+        "quality_score": 1.05
+    },
+    {
+        "project_id": 1017945204,
+        "content": "🔥 <b>noctalia-shell</b> | QML\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a beautiful, minimal, and highly customizable desktop shell experience for Wayland users.\n<br>\n✨ <b>Key Features:</b>\n• Native support for Niri, Hyprland, Sway, Scroll, Labwc and MangoWC\n• Extensive theming with predefined color schemes and automatic color generation from your wallpaper\n• Wallpaper management with Wallhaven integration\n• Notification system with history and Do Not Disturb\n• Multi-monitor support\n<br>\n📖 <b>Summary:</b>\nNoctalia Shell is a minimal and customizable desktop shell for Wayland, built on Quickshell (Qt/QML). It offers extensive theming, wallpaper management, a notification system, multi-monitor support, and a lock screen, with nearly 100 available plugins.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/noctalia-dev/noctalia-shell?embed=0\">View Project</a>\n• <a href=\"https://docs.noctalia.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/58e1293348e96beb2532d160dfc677544e02552082a252f9ae4220935f90c115/noctalia-dev/noctalia-shell",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 583375059,
+        "content": "🌟 <b>gdrive</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging Google Drive files and folders via a command-line interface.\n<br>\n✨ <b>Key Features:</b>\n• Command-line interface for Google Drive interaction\n• File and folder management\n• Account management (add, export, import)\n• Successor to gdrive2 with basic functionality implemented\n<br>\n📖 <b>Summary:</b>\ngdrive is a command-line interface (CLI) application built with Rust for interacting with Google Drive. It allows users to manage their files and folders directly from the terminal, acting as a successor to previous gdrive versions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/glotlabs/gdrive?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6ef3c42577f0974d36ce07d5e09a3f4818e4b0caf3e7ab877efe20b1a81b5b06/glotlabs/gdrive",
+        "platform": "telegram",
+        "quality_score": 0.65
     }
 ]
