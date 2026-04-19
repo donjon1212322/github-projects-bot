@@ -1,25 +1,26 @@
 {
-    "title": "Supercharge Your AI Agents with Telegram Integration",
-    "article": "This project provides a robust bridge between modern AI models and the Telegram messaging platform, enabling powerful automation and intelligent interaction. It functions as a Model Context Protocol (MCP) server, allowing AI agents like Claude or Cursor to seamlessly access and control Telegram functionalities. Built upon the Telethon library, it translates AI commands received via MCP into concrete actions on your Telegram account. The core idea is to empower AI with the ability to \"see\" and \"act\" within Telegram. Imagine an AI agent that can not only understand your requests but also directly manage your groups, send messages, reply to conversations, and even handle channel subscriptions. This server exposes an extensive suite of Telegram tools, encompassing virtually every major feature available through the Telegram API and Telethon. From basic messaging operations like sending, editing, and deleting messages, to complex group and channel management tasks such as creating groups, inviting users, promoting admins, or banning members, the possibilities are vast. For developers, this means a significant leap in building intelligent applications. Instead of manually coding intricate Telegram API interactions, you can leverage this MCP server to give your AI agents programmatic control. This drastically simplifies the development of AI-powered Telegram bots for customer support, automated content distribution, personalized assistants, or even advanced moderation tools. By integrating your AI with this server, you unlock a new dimension of real-world interaction, allowing your models to perform tasks that previously required human intervention or complex, custom-built integrations. It's about making your AI not just smart, but also highly functional and integrated into one of the world's most popular communication platforms.",
+    "title": "DeArrow: Reclaiming Your YouTube Feed from Clickbait Chaos!",
+    "article": "Are you tired of sensationalized YouTube titles and exaggerated thumbnails that promise the world but deliver a puddle? If your answer is a resounding 'YES!', then get ready to discover a project that's about to change your YouTube browsing for the better. I'm talking about DeArrow, a brilliant open-source browser extension designed to put an end to the clickbait madness, one video at a time. It's like a community-powered shield against the constant barrage of misleading content, aiming to make your viewing experience more accurate and less frustrating.\n\nDeArrow tackles the pervasive issue of sensationalism by empowering its users to crowdsource better, more honest titles and thumbnails for YouTube videos. Imagine a world where video titles accurately describe the content and thumbnails are genuine screenshots, not exaggerated reaction faces. That's the vision DeArrow is bringing to life. Users can submit alternative titles (any text they deem more appropriate) and suggest new thumbnails by picking specific, representative timestamps from the video itself. These submissions are then voted on by the community, ensuring that the most accurate and helpful options rise to the top.\n\nWhat happens if there aren't any community submissions for a particular video yet? DeArrow has a clever fallback system. By default, it will automatically reformat the original YouTube title into a more readable, standardized format (like title case or sentence case, based on your preference). For thumbnails, instead of showing a potentially misleading original, it generates a screenshot from a random, non-sponsored moment in the video. This means even without community input, you're still getting a cleaner, less sensationalized experience. And if you ever want to see the original title or thumbnail, a simple \"show original\" button is always there for you.\n\nFrom a developer's perspective, DeArrow is not just a cool tool; it's a testament to the power of community and open source. The extension fetches data from a backend server about these user-submitted titles and thumbnails, then locally replaces the branding. For thumbnails, it intelligently uses either a cached service or local generation to ensure quick loading times. The integration with SponsorBlock's concept, by avoiding sponsored segments for random thumbnails, is a thoughtful touch that further enhances the user experience. Developers can dive into the codebase, understand how this system works, and even contribute to its evolution. It's a fantastic example of how collective effort can solve a widespread digital problem.\n\nThis project offers a significant quality-of-life improvement for anyone who spends time on YouTube. It reduces mental fatigue caused by constantly trying to discern genuine content from clickbait. It fosters a more truthful and less manipulative online environment. For developers, it's an opportunity to support, learn from, and contribute to an innovative solution that truly makes a difference in daily browsing habits. DeArrow is more than just an extension; it's a movement towards a more honest internet.",
     "key_takeaways": [
-        "Enables AI models to programmatically control Telegram accounts through the Model Context Protocol (MCP).",
-        "Offers a comprehensive suite of Telegram features, from messaging to group management, as accessible tools for AI agents.",
-        "Simplifies the development of advanced AI-powered Telegram bots and automation solutions.",
-        "Leverages the robust Telethon library to provide deep integration with the Telegram API."
+        "DeArrow is an open-source browser extension that combats YouTube clickbait and sensationalism.",
+        "It allows users to crowdsource and vote on more accurate titles and genuine video thumbnails.",
+        "Features smart fallbacks, including formatted original titles and random, non-sponsored thumbnails, for videos without submissions.",
+        "Significantly improves the YouTube browsing experience by reducing mental fatigue from misleading content.",
+        "Offers developers a chance to contribute to a community-driven project focused on improving online content honesty."
     ],
     "tags": [
-        "Telegram",
-        "AI",
-        "Automation",
-        "MCP",
-        "Telethon"
+        "YouTube",
+        "Browser Extension",
+        "Anti-Clickbait",
+        "Crowdsourcing",
+        "Open Source"
     ],
-    "stars": 962,
-    "forks": 243,
-    "open_issues": 11,
-    "languages": "Python",
-    "readme_summary": "Telegram MCP Server is a Python-based server that leverages the Telethon library to provide a comprehensive interface for interacting with Telegram. It allows MCP-compatible clients, such as AI assistants, to read chats, manage groups, send and modify messages, media, contacts, and settings.",
-    "project_id": 951958279,
-    "url": "https://github.com/chigwell/telegram-mcp",
-    "description": "Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings."
+    "stars": 2104,
+    "forks": 71,
+    "open_issues": 129,
+    "languages": "TypeScript",
+    "readme_summary": "DeArrow is a browser extension that aims to combat sensationalism on YouTube by allowing users to crowdsource and submit better titles and thumbnails. It replaces original YouTube titles and thumbnails with user-submitted alternatives or applies configurable formatting and random screenshots when no submissions are available.",
+    "project_id": 559119124,
+    "url": "https://github.com/ajayyy/DeArrow",
+    "description": "Crowdsourcing better titles and thumbnails on YouTube"
 }
