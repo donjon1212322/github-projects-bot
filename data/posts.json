@@ -1,37 +1,44 @@
 [
     {
-        "project_id": 1155424764,
-        "content": "🚀 <b>yj_nearbyglasses</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nTo alert users about the presence of nearby smart glasses, acting as a privacy and self-defense tool.\n<br>\n✨ <b>Key Features:</b>\n• Detects nearby smart glasses via Bluetooth LE advertising\n• Warns users of potential smart glasses presence\n• Privacy-focused: no data collection or telemetry\n• Free and open-source\n• Local log file storage (optional)\n<br>\n📖 <b>Summary:</b>\nThis Android application detects nearby smart glasses by analyzing their Bluetooth advertising data. It aims to provide users with a privacy-focused warning system, alerting them if potentially surveillance-capable smart glasses are in their vicinity. The app emphasizes user privacy by not collecting or transmitting any personal data.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yjeanrenaud/yj_nearbyglasses?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/aa99ca63d2d97da8e430dfba12ab4504899676fb6b299c6b46ed1b3a0739f9e3/yjeanrenaud/yj_nearbyglasses",
-        "platform": "telegram",
-        "quality_score": 0.8500000000000001
-    },
-    {
-        "project_id": 1135605666,
-        "content": "🔥 <b>Edit-Banana</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTransforming non-editable visual diagrams from images into editable formats for easy modification and reuse.\n<br>\n✨ <b>Key Features:</b>\n• Converts static images of diagrams into editable DrawIO (XML) format\n• High-fidelity reconstruction preserving original details and logical relationships\n• Powered by SAM 3 and multimodal large models\n<br>\n📖 <b>Summary:</b>\nEdit Banana is a framework that converts static visual formats, such as figures and diagrams from images, into fully editable formats like DrawIO (XML). It leverages advanced AI models, including SAM 3 and multimodal large models, to reconstruct diagrams with high fidelity, preserving original details and logical relationships.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BIT-DataLab/Edit-Banana?embed=0\">View Project</a>\n• <a href=\"https://editbanana.anxin6.cn/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7f7afc3935ef3771d188aea950886532db1a47c9640ba275ef98caaf9c5793a7/BIT-DataLab/Edit-Banana",
-        "platform": "telegram",
-        "quality_score": 0.8500000000000001
-    },
-    {
-        "project_id": 1111742998,
-        "content": "💡 <b>device-activity-tracker</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurity research and demonstration of privacy vulnerabilities in instant messaging applications like WhatsApp and Signal by analyzing device activity patterns through RTT measurements.\n<br>\n✨ <b>Key Features:</b>\n• Detects device activity (active, standby, offline) based on RTT of delivery receipts.\n• Infers potential location changes by differentiating between mobile data and WiFi.\n<br>\n📖 <b>Summary:</b>\nThis project demonstrates a proof-of-concept for tracking device activity on WhatsApp and Signal by analyzing the Round-Trip Time (RTT) of message delivery receipts. It can infer whether a device is active, in standby, or offline, and potentially detect location changes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gommzystudio/device-activity-tracker?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1111742998/493bf5d6-3cd6-40f5-9358-a511b4087742",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 559119124,
-        "content": "✨ <b>DeArrow</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nImproving the accuracy and reducing the sensationalism of YouTube video titles and thumbnails through community contributions and configurable display options.\n<br>\n✨ <b>Key Features:</b>\n• Crowdsourced titles and thumbnails for YouTube videos\n• Replaces original titles with user-submitted or formatted text\n<br>\n📖 <b>Summary:</b>\nDeArrow is a browser extension that aims to combat sensationalism on YouTube by allowing users to crowdsource and submit better titles and thumbnails. It replaces original YouTube titles and thumbnails with user-submitted alternatives or applies configurable formatting and random screenshots when no submissions are available.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ajayyy/DeArrow?embed=0\">View Project</a>\n• <a href=\"https://dearrow.ajay.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/25e70c88313867aade100b7e1eb7acd55d62aa4e3edcced88a10b00ed69ed8bf/ajayyy/DeArrow",
+        "project_id": 310022924,
+        "content": "🚀 <b>odiff</b> | Zig\n<br>\n🎯 <b>Primary Use Case:</b>\nVisual regression testing and identifying pixel-level differences between images, especially in automated testing pipelines.\n<br>\n✨ <b>Key Features:</b>\n• SIMD-first image comparison\n• Support for PNG, JPEG, JPG, WebP, TIFF\n• Cross-format comparison\n• Handles images with different layouts\n• Anti-aliasing detection\n<br>\n📖 <b>Summary:</b>\nOdiff is a high-performance image comparison library written in Zig, optimized with SIMD instructions for speed. It provides pixel-by-pixel difference detection for various image formats and offers both a command-line interface and Node.js bindings for integration into testing workflows.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dmtrKovalenko/odiff?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d31518f56e180e31d0cbbc8a96b95aec53962a4f2f034901124085b5f74ae881/dmtrKovalenko/odiff",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 1091749509,
-        "content": "🔥 <b>homepage-lite</b> | CSS\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a centralized, easy-to-manage dashboard for homelab services, bookmarks, and system monitoring.\n<br>\n✨ <b>Key Features:</b>\n• Service Monitoring with real-time status checks\n• Bookmark Management organized by groups\n• System Metrics (CPU, Memory, Disk) with real-time updates\n• Modern UI with multiple themes and custom backgrounds\n• Lightweight design with a single binary and low memory footprint\n<br>\n📖 <b>Summary:</b>\nHomepage-lite is a lightweight, Go-powered dashboard for managing and monitoring homelab services and bookmarks. It offers real-time status checks, system metrics, and a customizable modern UI with multiple themes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jkerdreux-imt/homepage-lite?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1091749509/66793a1f-bd46-4833-8f14-3c8816f663d3",
+        "project_id": 505667511,
+        "content": "🌟 <b>CodeFormer</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRestoring and enhancing the quality of degraded or low-resolution facial images.\n<br>\n✨ <b>Key Features:</b>\n• Robust blind face restoration\n• Codebook Lookup Transformer architecture\n• Face inpainting\n• Face color enhancement and restoration\n• Support for video input\n<br>\n📖 <b>Summary:</b>\nCodeFormer is a PyTorch-based framework for robust blind face restoration, utilizing a Codebook Lookup Transformer. It excels at enhancing degraded facial images, fixing AI-generated art, and can also perform face inpainting and colorization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sczhou/CodeFormer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f94e0478fbda7415a90d864509435cc842efc5d149b1291e638337bdf3f9d082/sczhou/CodeFormer",
         "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 1194746675,
+        "content": "🌟 <b>tegaki</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating animated handwriting effects for text on the web, enhancing user interfaces with a dynamic and personalized touch.\n<br>\n✨ <b>Key Features:</b>\n• Animates any font into handwriting\n• No manual path authoring required\n• No native dependencies\n• Supports React, Svelte, Vue, SolidJS, Astro, Web Components, and Vanilla JS\n• Bundled handwriting fonts available\n<br>\n📖 <b>Summary:</b>\nTegaki is a TypeScript library that animates any font to appear as if it's being written by hand. It requires no manual path authoring and supports integration with major web frameworks like React, Svelte, Vue, and SolidJS, as well as Vanilla JS and Web Components.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/KurtGokhan/tegaki?embed=0\">View Project</a>\n• <a href=\"http://gkurt.com/tegaki?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1194746675/11ef7275-f0dc-4e2c-aa37-fa99910d0f1a",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 1206030612,
+        "content": "✨ <b>llm_wiki_agent</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automatically build and maintain a personal, interlinked knowledge base (wiki) from diverse raw data sources, powered by an LLM.\n<br>\n✨ <b>Key Features:</b>\n• Ingests raw sources (URLs, PDFs, audio, video)\n• Extracts content using Apache Tika\n• Transcribes audio/video using OpenAI Whisper\n• Generates interlinked wiki pages compatible with Obsidian\n• Manages wiki content (CRUD, search, index, log)\n<br>\n📖 <b>Summary:</b>\nThe llm_wiki_agent is a Kotlin-based server that acts as a toolkit for an LLM (Claude Code) to ingest various raw data sources like URLs, PDFs, and audio/video files. It extracts and processes this content, transforming it into an interlinked Obsidian-compatible wiki, enabling a personal knowledge management system.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Anton15K/llm_wiki_agent?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/105588fb1c09cc50015d7f97d703971ddc0d4be53af662e976e042ef6db2f949/Anton15K/llm_wiki_agent",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 1174659477,
+        "content": "💡 <b>telegram_ex</b> | Elixir\n<br>\n🎯 <b>Primary Use Case:</b>\nDeveloping Telegram bots using the Elixir programming language, with support for both simple and complex state management.\n<br>\n✨ <b>Key Features:</b>\n• Macro-based API for bot development\n• Handles messages, callbacks, and inline queries\n• Supports automatic polling\n• Stateless handler implementation\n• Stateful handler implementation with FSM\n<br>\n📖 <b>Summary:</b>\nTelegramEx is an Elixir library designed for building Telegram bots. It offers a macro-based API for simplified handling of messages, callbacks, and inline queries, supporting both stateless and stateful (FSM) bot logic.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lsdrfrx/telegram_ex?embed=0\">View Project</a>\n• <a href=\"https://hex.pm/packages/telegram_ex?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/35a7e6489f44089414d9928bd5af461b15a72b4db2c57c777f153cead1f111d1/lsdrfrx/telegram_ex",
+        "platform": "telegram",
+        "quality_score": 0.5499999999999999
+    },
+    {
+        "project_id": 1207903409,
+        "content": "💡 <b>git-guide</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nTo serve as a comprehensive, easily accessible reference guide for learning and using Git version control system.\n<br>\n✨ <b>Key Features:</b>\n• Comprehensive Git commands and examples\n• Beginner to advanced topics\n• Branching and merging strategies\n• Conflict resolution guides\n• Online interactive version (MkDocs)\n<br>\n📖 <b>Summary:</b>\nThis repository provides a comprehensive guide and cheatsheet for Git, covering everything from basic installation and commands to advanced techniques like rebasing, conflict resolution, and branching strategies. It aims to be a daily reference for developers of all skill levels.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DaniilGavrin/git-guide?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8a85b34b1b15fe9408f123c06baee9822d8aea3d10ff1101d2664452b05f8ddf/DaniilGavrin/git-guide",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
     }
 ]
