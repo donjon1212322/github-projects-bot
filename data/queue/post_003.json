@@ -1,7 +1,0 @@
-{
-    "project_id": 1206030612,
-    "content": "✨ <b>llm_wiki_agent</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automatically build and maintain a personal, interlinked knowledge base (wiki) from diverse raw data sources, powered by an LLM.\n<br>\n✨ <b>Key Features:</b>\n• Ingests raw sources (URLs, PDFs, audio, video)\n• Extracts content using Apache Tika\n• Transcribes audio/video using OpenAI Whisper\n• Generates interlinked wiki pages compatible with Obsidian\n• Manages wiki content (CRUD, search, index, log)\n<br>\n📖 <b>Summary:</b>\nThe llm_wiki_agent is a Kotlin-based server that acts as a toolkit for an LLM (Claude Code) to ingest various raw data sources like URLs, PDFs, and audio/video files. It extracts and processes this content, transforming it into an interlinked Obsidian-compatible wiki, enabling a personal knowledge management system.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Anton15K/llm_wiki_agent?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/105588fb1c09cc50015d7f97d703971ddc0d4be53af662e976e042ef6db2f949/Anton15K/llm_wiki_agent",
-    "platform": "telegram",
-    "quality_score": 0.44999999999999996
-}
