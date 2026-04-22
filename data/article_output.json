@@ -1,26 +1,26 @@
 {
-    "title": "Buzz: Unleash the Power of Offline Audio Transcription and Translation!",
-    "article": "Ever found yourself needing to transcribe an important meeting, a lecture, or even a podcast, only to be frustrated by online tools that compromise privacy or require constant internet access? What if you could do all that, and more, right on your own machine, completely offline and with impressive accuracy? Get ready to meet Buzz, a fantastic open-source project that brings the magic of OpenAI's Whisper model directly to your desktop.\n\nBuzz is an incredible application designed to transcribe and translate audio and video files, and even live microphone input, without ever sending your data to the cloud. It leverages the cutting-edge Whisper model, known for its remarkable accuracy in converting speech to text and translating between languages. This means you can process sensitive information, personal recordings, or large media files quickly and privately.\n\nThe beauty of Buzz lies in its versatility and robust feature set. You can feed it audio or video files from your computer, point it to a YouTube link, or even use it for real-time live transcription from your microphone – perfect for presentations or live events, especially with its dedicated presentation window. It doesn't just transcribe; it also offers advanced features like speech separation to handle noisy audio better and even speaker identification, helping you understand who said what.\n\nDevelopers will especially appreciate Buzz for its powerful backend support. Whether you're on a machine with an Nvidia GPU (thanks to CUDA acceleration), an Apple Silicon Mac, or even using integrated GPUs with Vulkan acceleration via Whisper.cpp, Buzz is optimized to run efficiently. This ensures fast processing times, making it a reliable tool for various workflows. Once transcribed, you're not locked in; Buzz allows you to export your transcripts into popular formats like TXT, SRT (for subtitles), and VTT, making it super easy to integrate into other projects or media. Plus, with a command-line interface and a 'watch folder' feature for automatic transcription, automation possibilities are endless. It's truly a game-changer for anyone dealing with spoken content, offering a powerful, private, and precise solution right at your fingertips.",
+    "title": "LangExtract: Your LLM-Powered Sidekick for Flawless Data Extraction!",
+    "article": "Imagine sifting through mountains of unstructured text – clinical notes, reports, or even old documents – trying to pull out specific, organized pieces of information. It's a tedious, error-prone task, right? This is exactly where LangExtract steps in, making that challenge a thing of the past. It's a fantastic Python library that leverages the power of Large Language Models (LLMs) to intelligently extract structured data from any text document, based purely on your instructions.\n\nThe core magic of LangExtract lies in its ability to be incredibly precise and reliable. You define exactly what you want to extract, perhaps by providing a few examples, and LangExtract goes to work. What's truly impressive is its 'source grounding' feature. Every single piece of data it pulls out is mapped back to its exact location in the original text. This means you can visually highlight and verify extractions, building immense trust in the output. No more guessing if the extracted data truly came from the source!\n\nFor developers dealing with vast amounts of text, the 'needle-in-a-haystack' problem is real. LangExtract tackles this head-on with an optimized strategy for long documents. It intelligently chunks the text, processes it in parallel, and even uses multiple passes to ensure it doesn't miss anything important, leading to much higher recall. This is a game-changer for anyone working with lengthy reports or documents where crucial details might be buried.\n\nAnother huge win is the structured output. LangExtract enforces a consistent schema for your extracted data, thanks to its ability to leverage controlled generation in supported models like Gemini. This guarantees you get robust, clean, and usable structured results every single time. Plus, it can even generate an interactive HTML file to visualize and review thousands of extracted entities in their original context, making the review process incredibly efficient.\n\nFlexibility is key for any modern tool, and LangExtract delivers. Whether you prefer powerful cloud-based LLMs like Google's Gemini family or want to keep things local with open-source models via the built-in Ollama interface, LangExtract supports your choice. This adaptability means you're not locked into a specific ecosystem. You can define complex extraction tasks for any domain with just a few examples, and the library adapts without needing any model fine-tuning. It truly lets you harness the world knowledge of LLMs to make your data extraction tasks smarter and more efficient.",
     "key_takeaways": [
-        "Offline transcription and translation of audio/video using OpenAI Whisper.",
-        "Supports diverse inputs: files, YouTube links, and live microphone with real-time display.",
-        "Advanced features include speech separation, speaker identification, and multi-GPU acceleration for performance.",
-        "Exports to common formats like TXT, SRT, VTT, and provides a powerful CLI for automation.",
-        "Ensures privacy and high accuracy, making it ideal for sensitive or personal content."
+        "Precisely extracts structured data from unstructured text using LLMs.",
+        "Ensures 'source grounding' by mapping extractions to their exact location for easy verification.",
+        "Optimized for long documents, overcoming the 'needle-in-a-haystack' challenge with high recall.",
+        "Provides reliable, consistently structured outputs and interactive visualization for review.",
+        "Offers flexible LLM support, from cloud models like Gemini to local options via Ollama, adapting to any domain."
     ],
     "tags": [
-        "Transcription",
-        "Whisper AI",
-        "Offline Processing",
-        "Speech-to-Text",
-        "Open Source"
+        "LLM",
+        "Data Extraction",
+        "Python",
+        "NLP",
+        "Structured Data"
     ],
-    "stars": 18782,
-    "forks": 1379,
-    "open_issues": 22,
+    "stars": 35730,
+    "forks": 2431,
+    "open_issues": 77,
     "languages": "Python",
-    "readme_summary": "Buzz is a desktop application that transcribes and translates audio and video files offline on your personal computer, powered by OpenAI's Whisper. It offers advanced features like live transcription, speech separation, speaker identification, and multiple backend support for GPU acceleration.",
-    "project_id": 540842713,
-    "url": "https://github.com/chidiwilliams/buzz",
-    "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper."
+    "readme_summary": "LangExtract is a Python library designed to extract structured information from unstructured text using Large Language Models (LLMs). It ensures precise source grounding for extracted data and offers interactive visualization of results, supporting various LLM providers including cloud-based and local models.",
+    "project_id": 1016323751,
+    "url": "https://github.com/google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization."
 }
