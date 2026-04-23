@@ -1,37 +1,30 @@
 [
     {
-        "project_id": 226408450,
-        "content": "🔥 <b>neovide</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a feature-rich, visually enhanced graphical user interface for the Neovim text editor, offering a smoother and more modern user experience than traditional terminal interfaces.\n<br>\n✨ <b>Key Features:</b>\n• Rust-based Neovim GUI\n• GPU acceleration via Skia\n• Smooth scrolling and cursor animations\n• Functional parity with terminal Neovim\n• Pre-built releases for major OS\n<br>\n📖 <b>Summary:</b>\nNeovide is a graphical user interface (GUI) for the Neovim text editor, built in Rust. It aims to provide a smooth and visually enhanced experience by leveraging GPU acceleration, while maintaining functional parity with Neovim's terminal UI. It offers features like smooth scrolling and cursor animations for a more modern feel.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/neovide/neovide?embed=0\">View Project</a>\n• <a href=\"https://neovide.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d31f5230306d32933e80bd05a94ee3c45b7bfbcb535ebd7acbda9466f8a5afca/neovide/neovide",
+        "project_id": 418086942,
+        "content": "💡 <b>plain-app</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely managing and accessing an Android phone's data and features from a web browser on the same local network, without relying on cloud services.\n<br>\n✨ <b>Key Features:</b>\n• Web-based phone management dashboard\n• Local-only operation (no cloud)\n• End-to-end encryption (TLS + XChaCha20-Poly1305)\n• File browsing, upload, download\n• Media viewing and streaming\n<br>\n📖 <b>Summary:</b>\nPlainApp is an open-source Android application that provides a self-hosted, web-based interface for managing your phone's files, media, contacts, SMS, and more from any device on the same network. It prioritizes privacy and security with local-only operation and end-to-end encryption.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/plainhub/plain-app?embed=0\">View Project</a>\n• <a href=\"https://plainapp.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d325c13dc20b0ccf3ef5dc7b358debf4e760bc006fa283bb5b1ea81d44033188/plainhub/plain-app",
+        "platform": "telegram",
+        "quality_score": 1.0000000000000002
+    },
+    {
+        "project_id": 482789449,
+        "content": "💡 <b>deb-get</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging .deb packages from third-party sources that are not available in official repositories, simplifying software installation and updates on Debian-based systems.\n<br>\n✨ <b>Key Features:</b>\n• Install .deb packages from GitHub releases or direct download URLs\n• Update and upgrade packages installed via deb-get\n• Search for available applications\n• Remove and purge packages\n• Support for GitHub Personal Access Tokens for API authorization\n<br>\n📖 <b>Summary:</b>\ndeb-get is a command-line tool that extends apt-get functionality to manage .deb packages published via GitHub releases or direct downloads. It simplifies the installation, upgrade, and removal of software not available in standard Ubuntu/Debian repositories.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wimpysworld/deb-get?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e677b7902092279e8959561417a47ce9e802fb613a4b79fb016d3f4604a11b36/wimpysworld/deb-get",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 608064783,
-        "content": "🔥 <b>caligula</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating, burning, and verifying disk images from a user-friendly terminal interface.\n<br>\n✨ <b>Key Features:</b>\n• Disk imaging and burning\n• TUI interface\n• Disk listing with size and model info\n• Compression support (gz, bz2, xz, lz4, zst)\n• Hash validation (md5, sha1, sha256, etc.)\n<br>\n📖 <b>Summary:</b>\nCaligula is a lightweight, user-friendly TUI application for creating and verifying disk images. It offers features like disk listing, compression handling, hash validation, and post-write verification, all within a terminal interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ifd3f/caligula?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/608064783/fb979b62-c726-4dc4-955d-a4a09c0012bd",
+        "project_id": 1158138526,
+        "content": "🔥 <b>netwatch</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time network monitoring and troubleshooting directly within the terminal, providing both a broad overview and detailed packet-level insights.\n<br>\n✨ <b>Key Features:</b>\n• Real-time network diagnostics\n• Terminal-based interface (TUI)\n• Interface statistics with sparklines\n• Connection monitoring with process names and PIDs\n• Gateway and DNS health checks with latency heatmap\n<br>\n📖 <b>Summary:</b>\nNetWatch is a real-time network diagnostics tool for the terminal, offering instant visibility into network interfaces, connections, and packet data. It provides both high-level overviews and deep packet inspection capabilities, along with a flight recorder feature to capture transient network events.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/matthart1983/netwatch?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/aa51110eba430ccf9e02e7d10bf8ee116beb8758d783287d314dda17c639f1da/matthart1983/netwatch",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
+        "quality_score": 0.7499999999999999
     },
     {
-        "project_id": 1130809465,
-        "content": "🔥 <b>oh-my-claudecode</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable developers to efficiently use and manage multiple AI agents within the Claude Code environment for automated code generation and complex task completion without requiring extensive setup or learning.\n<br>\n✨ <b>Key Features:</b>\n• Multi-agent orchestration for Claude Code\n• Zero learning curve for users\n• Intuitive CLI commands and in-session skills\n<br>\n📖 <b>Summary:</b>\nOh-my-claudecode is a TypeScript-based tool that orchestrates multiple AI agents for Claude Code, aiming to simplify complex coding tasks. It provides a zero-learning-curve experience for users, allowing them to leverage advanced AI capabilities for code generation and automation through intuitive commands and workflows.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Yeachan-Heo/oh-my-claudecode?embed=0\">View Project</a>\n• <a href=\"https://oh-my-claudecode.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1130809465/ed0bdc3a-1d1a-4cf6-ab07-7b5c63ae2459",
+        "project_id": 823871392,
+        "content": "✨ <b>agents</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding and deploying AI agents to automate trading on Polymarket prediction markets.\n<br>\n✨ <b>Key Features:</b>\n• Integration with Polymarket API\n• AI agent utilities for prediction markets\n• Local and remote RAG support\n• Data sourcing from betting services, news providers, and web search\n• Comprehensive LLM tools for prompt engineering\n<br>\n📖 <b>Summary:</b>\nPolymarket Agents is a Python-based developer framework for building AI agents that can autonomously trade on the Polymarket prediction market platform. It provides tools for integrating with the Polymarket API, sourcing data, and utilizing LLMs for market predictions and trade execution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Polymarket/agents?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/bb8990d52384b1d3cd59bf44e5238c9beb87aede45205cd23dd4d268b862ddae/Polymarket/agents",
         "platform": "telegram",
-        "quality_score": 1.05
-    },
-    {
-        "project_id": 1020171325,
-        "content": "✨ <b>EntraGoat</b> | PowerShell\n<br>\n🎯 <b>Primary Use Case:</b>\nLearning and practicing Microsoft Entra ID security by simulating real-world attack vectors and misconfigurations in a safe, isolated environment.\n<br>\n✨ <b>Key Features:</b>\n• Deliberately vulnerable Entra ID environment\n• Realistic identity security misconfigurations\n• Multiple privilege escalation paths\n• Black-box attack methodologies\n• PowerShell scripts for deployment\n<br>\n📖 <b>Summary:</b>\nEntraGoat is a deliberately vulnerable Microsoft Entra ID environment designed for security professionals to learn and practice identity security through hands-on attack simulations. It uses PowerShell and Microsoft Graph APIs to deploy intentional misconfigurations, offering multiple privilege escalation paths and black-box attack challenges.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Semperis/EntraGoat?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a9d15714d9d325e22d3990543b066c45c62aef1d2040fc7896ff86510a38c8fc/Semperis/EntraGoat",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 1016323751,
-        "content": "🔥 <b>langextract</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting structured information from unstructured text documents with precise source grounding and interactive visualization, adaptable to various domains and LLM providers.\n<br>\n✨ <b>Key Features:</b>\n• Precise Source Grounding: Maps every extraction to its exact location in the source text.\n<br>\n📖 <b>Summary:</b>\nLangExtract is a Python library designed to extract structured information from unstructured text using Large Language Models (LLMs). It ensures precise source grounding for extracted data and offers interactive visualization of results, supporting various LLM providers including cloud-based and local models.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/google/langextract?embed=0\">View Project</a>\n• <a href=\"https://pypi.org/project/langextract/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/0981e6cea157862782b08fbe84457ad82db546cd8bd70ec9daab5314802f7763/google/langextract",
-        "platform": "telegram",
-        "quality_score": 1.2000000000000002
+        "quality_score": 0.75
     }
 ]

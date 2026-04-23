@@ -1,26 +1,26 @@
 {
-    "title": "LangExtract: Your LLM-Powered Sidekick for Flawless Data Extraction!",
-    "article": "Imagine sifting through mountains of unstructured text – clinical notes, reports, or even old documents – trying to pull out specific, organized pieces of information. It's a tedious, error-prone task, right? This is exactly where LangExtract steps in, making that challenge a thing of the past. It's a fantastic Python library that leverages the power of Large Language Models (LLMs) to intelligently extract structured data from any text document, based purely on your instructions.\n\nThe core magic of LangExtract lies in its ability to be incredibly precise and reliable. You define exactly what you want to extract, perhaps by providing a few examples, and LangExtract goes to work. What's truly impressive is its 'source grounding' feature. Every single piece of data it pulls out is mapped back to its exact location in the original text. This means you can visually highlight and verify extractions, building immense trust in the output. No more guessing if the extracted data truly came from the source!\n\nFor developers dealing with vast amounts of text, the 'needle-in-a-haystack' problem is real. LangExtract tackles this head-on with an optimized strategy for long documents. It intelligently chunks the text, processes it in parallel, and even uses multiple passes to ensure it doesn't miss anything important, leading to much higher recall. This is a game-changer for anyone working with lengthy reports or documents where crucial details might be buried.\n\nAnother huge win is the structured output. LangExtract enforces a consistent schema for your extracted data, thanks to its ability to leverage controlled generation in supported models like Gemini. This guarantees you get robust, clean, and usable structured results every single time. Plus, it can even generate an interactive HTML file to visualize and review thousands of extracted entities in their original context, making the review process incredibly efficient.\n\nFlexibility is key for any modern tool, and LangExtract delivers. Whether you prefer powerful cloud-based LLMs like Google's Gemini family or want to keep things local with open-source models via the built-in Ollama interface, LangExtract supports your choice. This adaptability means you're not locked into a specific ecosystem. You can define complex extraction tasks for any domain with just a few examples, and the library adapts without needing any model fine-tuning. It truly lets you harness the world knowledge of LLMs to make your data extraction tasks smarter and more efficient.",
+    "title": "PlainApp: Reclaim Your Phone's Data with This Local-First, Open-Source Powerhouse!",
+    "article": "Tired of phone management tools that demand your data, push subscriptions, or bombard you with ads? We've all been there, constantly weighing convenience against privacy. But what if you could have full control over your Android device, accessible from any browser, with absolutely no strings attached? That's exactly what PlainApp delivers, and it's truly a game-changer for anyone who values their digital autonomy.Imagine turning your Android phone into a personal, self-hosted management hub. PlainApp does just that, allowing you to access and manage your device's content from any web browser on the same network. There are no accounts to create, no cloud servers involved, and definitely no recurring subscriptions. Your data stays entirely within your local network, giving you peace of mind that it's not being routed through unknown third-party servers.The core magic of PlainApp lies in its web-based interface. Simply open a browser on your desktop or laptop, connect to the same Wi-Fi network as your phone, and you're presented with a comprehensive dashboard. From here, you can effortlessly browse your internal storage, SD card, and even USB drives, uploading or downloading files with ease. Need to view photos or stream videos stored on your phone? You can do that directly in your browser. It also handles contacts, allows you to read and send SMS messages from your desktop, mirrors phone notifications in real-time, and even live-streams your phone screen with remote control capabilities. All of this without installing a single app on your computer!Beyond its powerful web interface, PlainApp also functions as a robust standalone Android application. It includes handy tools like a Markdown notes editor, a distraction-free RSS reader, a full-featured video and audio player, and even a Pomodoro timer to boost your productivity. It also offers peer-to-peer chat and file sharing, allowing direct device-to-device communication without any central server.For developers, PlainApp is a dream come true. It's 100% open-source, meaning you can audit its code, understand exactly how it works, build your own binaries, or even contribute to its development. The project champions privacy and security, ensuring all traffic between your phone and browser is end-to-end encrypted using robust protocols like TLS + XChaCha20-Poly1305. This commitment to local, secure, and transparent operation makes it an excellent alternative to proprietary solutions that often compromise user data for convenience or profit. It's a fantastic example of what open-source can achieve in putting users back in control.",
     "key_takeaways": [
-        "Precisely extracts structured data from unstructured text using LLMs.",
-        "Ensures 'source grounding' by mapping extractions to their exact location for easy verification.",
-        "Optimized for long documents, overcoming the 'needle-in-a-haystack' challenge with high recall.",
-        "Provides reliable, consistently structured outputs and interactive visualization for review.",
-        "Offers flexible LLM support, from cloud models like Gemini to local options via Ollama, adapting to any domain."
+        "PlainApp transforms your Android phone into a self-hosted management hub, accessible from any web browser on your local network.",
+        "It's 100% local, open-source, completely free, ad-free, and ensures end-to-end encrypted communication for maximum privacy and security.",
+        "Manage files, media, SMS, contacts, notifications, and even mirror your screen directly from your desktop browser without installing any software on your computer.",
+        "The app also includes useful standalone Android tools like a Markdown editor, RSS reader, media player, and P2P file sharing.",
+        "PlainApp empowers developers and users by providing full control over their data, free from cloud dependencies, subscriptions, or intrusive ads."
     ],
     "tags": [
-        "LLM",
-        "Data Extraction",
-        "Python",
-        "NLP",
-        "Structured Data"
+        "Android",
+        "OpenSource",
+        "SelfHosted",
+        "Privacy",
+        "FileManagement"
     ],
-    "stars": 35730,
-    "forks": 2431,
-    "open_issues": 77,
-    "languages": "Python",
-    "readme_summary": "LangExtract is a Python library designed to extract structured information from unstructured text using Large Language Models (LLMs). It ensures precise source grounding for extracted data and offers interactive visualization of results, supporting various LLM providers including cloud-based and local models.",
-    "project_id": 1016323751,
-    "url": "https://github.com/google/langextract",
-    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization."
+    "stars": 4336,
+    "forks": 237,
+    "open_issues": 52,
+    "languages": "Kotlin",
+    "readme_summary": "PlainApp is an open-source Android application that provides a self-hosted, web-based interface for managing your phone's files, media, contacts, SMS, and more from any device on the same network. It prioritizes privacy and security with local-only operation and end-to-end encryption.",
+    "project_id": 418086942,
+    "url": "https://github.com/plainhub/plain-app",
+    "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop."
 }
