@@ -1,37 +1,37 @@
 [
     {
-        "project_id": 1203381546,
-        "content": "🔥 <b>tui-use</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAllowing AI agents to interact with and control terminal user interface (TUI) applications, REPLs, and debuggers that require human-like keyboard input and screen interpretation.\n<br>\n✨ <b>Key Features:</b>\n• Full VT Rendering\n• Smart Wait (debounce and text pattern matching)\n• Snapshot Model for explicit interaction loop\n• Highlights for identifying selected items in TUI apps\n<br>\n📖 <b>Summary:</b>\ntui-use enables AI agents to interact with terminal-based programs like REPLs, debuggers, and TUI applications, which are typically inaccessible to automated scripts. It provides a way to send keystrokes and read the screen output as plain text, bridging the gap between human interaction and agent control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/onesuper/tui-use?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9614dc69b4bb2787ba3c212b192f0de994a8b18954d8c4814607422a0424a9fe/onesuper/tui-use",
+        "project_id": 1205687807,
+        "content": "🔥 <b>3dsvg</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling developers to easily convert static SVG files into interactive 3D components within React applications, and providing a user-friendly visual editor for creating and exporting 3D assets.\n<br>\n✨ <b>Key Features:</b>\n• Embeddable `<SVG3D>` React component\n• Visual editor for designing 3D objects from SVGs\n• Multiple input methods (Text, Pixel Editor, SVG Code, File Upload)\n• 10 material presets and procedural/custom textures\n• 7 animation options\n<br>\n📖 <b>Summary:</b>\n3dsvg is a monorepo providing a React component for creating interactive 3D visualizations from SVGs and a web-based visual editor to design and export these 3D objects. It simplifies the process of turning 2D vector graphics into dynamic 3D experiences.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/renatoworks/3dsvg?embed=0\">View Project</a>\n• <a href=\"https://3dsvg.design?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/28847843c5cbd174537859bde9c562575db08138542818b1dbc3ad548cc414c7/renatoworks/3dsvg",
+        "platform": "telegram",
+        "quality_score": 0.6499999999999999
+    },
+    {
+        "project_id": 992424531,
+        "content": "💡 <b>donutbrowser</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging multiple, isolated browser environments for tasks requiring distinct digital footprints, such as web scraping, testing, or maintaining anonymity online.\n<br>\n✨ <b>Key Features:</b>\n• Unlimited isolated browser profiles\n• Chromium & Firefox engines with advanced fingerprint spoofing\n• Proxy and VPN support per profile\n• Local API & MCP for automation\n<br>\n📖 <b>Summary:</b>\nDonut Browser is an open-source anti-detect browser built with Rust, offering robust privacy and profile management. It allows users to create and manage unlimited isolated browser profiles, each with its own unique fingerprint, cookies, and extensions, powered by Chromium and Firefox engines with advanced spoofing capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/zhom/donutbrowser?embed=0\">View Project</a>\n• <a href=\"https://donutbrowser.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c140a5d9b8f4c99217b266b177307657b5283b7975fe4dddd6c126e5a0a4f26f/zhom/donutbrowser",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 904490600,
+        "content": "🔥 <b>KrillinAI</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated video translation and dubbing for creating multilingual, cross-platform video content.\n<br>\n✨ <b>Key Features:</b>\n• One-click deployment and operation\n• Video acquisition via yt-dlp or local upload\n• High-accuracy speech recognition (Whisper)\n• LLM-powered subtitle segmentation and translation\n• Professional vocabulary replacement\n<br>\n📖 <b>Summary:</b>\nKrillinAI is a Go-based tool for video translation and dubbing, offering end-to-end localization for cross-platform content. It supports over 100 languages, integrates speech recognition and LLM-based translation, and features voice cloning for professional-sounding dubs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/krillinai/KrillinAI?embed=0\">View Project</a>\n• <a href=\"https://www.klic.studio/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f6134cdaf7c51e7e9841db8795a06964c00ddc49e3c5b4582861c4cf4820b088/krillinai/KrillinAI",
+        "platform": "telegram",
+        "quality_score": 0.7999999999999999
+    },
+    {
+        "project_id": 290870599,
+        "content": "🚀 <b>qxresearch-event-1</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo serve as a learning resource for Python developers, showcasing how to build various applications with minimal code, and to provide easily understandable examples for different programming concepts.\n<br>\n✨ <b>Key Features:</b>\n• 50+ Python applications\n• 10 lines of code per application\n• Covers ML, DL, GUI, CV, API development\n<br>\n📖 <b>Summary:</b>\nThis repository offers a collection of over 50 practical Python applications, each written with a maximum of 10 lines of code. It covers diverse areas like Machine Learning, GUI, Computer Vision, and API development, aiming to provide simple, understandable, and easily modifiable code examples for learning and experimentation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/qxresearch/qxresearch-event-1?embed=0\">View Project</a>\n• <a href=\"https://www.youtube.com/qxresearch?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/290870599/1a50bbf2-d463-43f3-be74-d490a1a24f60",
+        "platform": "telegram",
+        "quality_score": 0.65
+    },
+    {
+        "project_id": 1186219527,
+        "content": "🚀 <b>TREK</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide individuals and groups with a comprehensive, self-hosted platform for planning and managing all aspects of their trips, from initial itinerary creation to budgeting and packing.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted\n• Real-time collaboration\n• Interactive maps (Leaflet/Mapbox GL)\n• Budget tracker\n• Packing lists\n<br>\n📖 <b>Summary:</b>\nTREK is a self-hosted, real-time collaborative travel planner application. It offers features like interactive maps, budget tracking, packing lists, and a journal, all accessible via a Progressive Web App (PWA) with support for Single Sign-On (SSO).\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mauriceboe/TREK?embed=0\">View Project</a>\n• <a href=\"https://demo-nomad.pakulat.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1186219527/e99097ec-2cd3-412c-b0a5-fcee6aa76859",
         "platform": "telegram",
         "quality_score": 1.1
-    },
-    {
-        "project_id": 528107459,
-        "content": "✨ <b>musicat</b> | Svelte\n<br>\n🎯 <b>Primary Use Case:</b>\nA desktop application for organizing, playing, and enriching local music libraries with advanced features and visualizations.\n<br>\n✨ <b>Key Features:</b>\n• Supports MP3, FLAC, WAV, AAC, OGG\n• Linked library using original files\n• Gapless playback (same sample rate)\n• Metadata tagger (ID3v2, Vorbis)\n• Auto-watch and re-scan folders\n<br>\n📖 <b>Summary:</b>\nMusicat is a sleek, cross-platform desktop music player and tagger designed for managing local music libraries. It offers features like gapless playback, smart playlists, metadata editing, album art fetching, and unique visualizations such as waveform and map views, all built with Svelte and Tauri.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/basharovV/musicat?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/528107459/1ec65408-1453-49dc-8dce-0328f5dc5da0",
-        "platform": "telegram",
-        "quality_score": 1.1
-    },
-    {
-        "project_id": 1040968366,
-        "content": "🚀 <b>try</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nOrganizing and quickly navigating through multiple small, experimental coding projects.\n<br>\n✨ <b>Key Features:</b>\n• Fuzzy search for experiment directories\n• Smart sorting prioritizing recently used projects\n• Auto-dating for new experiment directories (e.g., YYYY-MM-DD-idea)\n• Zero configuration, single Ruby file\n• Shell integration for easy access\n<br>\n📖 <b>Summary:</b>\nThe 'try' repository provides a simple, zero-configuration Ruby script to manage and quickly navigate through numerous small experiment directories. It helps developers keep their exploratory code organized with features like fuzzy search, smart sorting, and auto-dating.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tobi/try?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f098b51826ef4b4b22d2c4a7f76b31692db69a51a1e59393797f663db96be581/tobi/try",
-        "platform": "telegram",
-        "quality_score": 0.8
-    },
-    {
-        "project_id": 1077989117,
-        "content": "✨ <b>Paper2Any</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automate the creation of visual assets (diagrams, plots, slides) from research papers and technical documents, making complex information more accessible and editable.\n<br>\n✨ <b>Key Features:</b>\n• Universal File Support (PDFs, screenshots, text)\n• AI-Powered Generation of diagrams, plots, and slides\n• Customizable Styling\n• Fast Generation Speed\n<br>\n📖 <b>Summary:</b>\nPaper2Any is a Python-based tool designed to transform research papers, text, or topics into editable research figures, technical route diagrams, and presentation slides. It supports various input formats and leverages AI to automatically generate visual content, facilitating easier understanding and integration of complex information.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/OpenDCAI/Paper2Any?embed=0\">View Project</a>\n• <a href=\"http://dcai-paper2any.nas.cpolar.cn/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fd0c8781d1172f75b20ff539e843a35a81fce0333d819ee8c1dd9debcb640085/OpenDCAI/Paper2Any",
-        "platform": "telegram",
-        "quality_score": 1.1
-    },
-    {
-        "project_id": 1033778670,
-        "content": "💡 <b>AionUi</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a desktop environment where users can collaborate with multiple AI agents for tasks like coding, file management, and automation, with full transparency and control.\n<br>\n✨ <b>Key Features:</b>\n• AI agents work alongside you on your computer\n• Reads files, writes code, browses the web, automates tasks\n• Full file access for built-in agents\n• Autonomous multi-step task execution with user approval\n<br>\n📖 <b>Summary:</b>\nAionUi is a free, open-source desktop application that functions as a Cowork platform, enabling AI agents to work alongside users on their computer. It allows AI to interact with files, execute multi-step tasks, and automate processes, with features like remote access and 24/7 scheduling.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/iOfficeAI/AionUi?embed=0\">View Project</a>\n• <a href=\"https://www.aionui.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1033778670/3e70b0fa-6208-4c93-8141-b96b49205297",
-        "platform": "telegram",
-        "quality_score": 1.2000000000000002
     }
 ]
