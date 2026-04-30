@@ -3,6 +3,7 @@ import aiohttp
 import json
 import os
 import logging
+import sys
 from dotenv import load_dotenv
 import google.generativeai as genai
 
@@ -19,16 +20,16 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 # Проверка наличия токенов API
 if not GH_API_TOKEN or not GEMINI_API_KEY:
     logging.error("Необходимо установить переменные окружения GH_API_TOKEN и GEMINI_API_KEY")
-    exit(1)
+    sys.exit(1)
 
 # Настройка модели Gemini
 try:
     genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel("gemini-2.5-flash")  # Используем flash-версию
+    model = genai.GenerativeModel("gemini-2.5-flash")
     logging.info("Модель Gemini успешно инициализирована")
 except Exception as e:
     logging.error(f"Ошибка инициализации модели Gemini: {e}")
-    exit(1)
+    sys.exit(1)
 
 # Константы
 PROJECTS_FILE = "data/projects.json"
@@ -47,7 +48,7 @@ async def fetch_github_graphql(session, query):
     headers = {"Authorization": f"token {GH_API_TOKEN}"}
     try:
         async with session.post(url, json={"query": query}, headers=headers) as response:
-            response.raise_for_status()  # Поднимает исключение для HTTP ошибок
+            response.raise_for_status()
             return await response.json()
     except aiohttp.ClientError as e:
         logging.error(f"Ошибка при выполнении GraphQL запроса: {e}")
@@ -61,11 +62,10 @@ async def get_published_post_ids(filepath):
     try:
         with open(filepath, "r", encoding="utf-8") as f:
             data = json.load(f)
-            # Assuming the file contains a list of IDs, adjust if the structure is different
             if isinstance(data, list):
                 return set(data)
             elif isinstance(data, dict) and "published_ids" in data and isinstance(data["published_ids"], list):
-                return set(data["published_ids"])  # Extract from "published_ids" list
+                return set(data["published_ids"])
             else:
                 logging.warning(f"Неверный формат файла: {filepath}. Ожидается список ID или словарь с ключом 'published_ids'.")
                 return set()
@@ -89,6 +89,11 @@ async def get_best_repository():
         return None
     except json.JSONDecodeError as e:
         logging.error(f"Ошибка при чтении JSON из файла {PROJECTS_FILE}: {e}")
+        return None
+
+    # ✅ ФИКС: если projects.json пустой — нет смысла продолжать
+    if not projects:
+        logging.warning("Файл projects.json пуст — Gemini не сгенерировал данные ни для одного проекта. Публикация отменена.")
         return None
 
     published_dev_ids = await get_published_post_ids(PUBLISHED_POSTS_DEV_FILE)
@@ -222,41 +227,49 @@ async def main():
     """
     async with aiohttp.ClientSession() as session:
         best_repo = await get_best_repository()
+
+        # ✅ ФИКС: нет репозитория — завершаем с exit(1),
+        # GitHub Actions остановит все последующие шаги пайплайна
         if not best_repo:
-            logging.info("Не удалось найти подходящий репозиторий для публикации.")
-            return
+            logging.warning("Не удалось найти подходящий репозиторий. Публикация отменена. Останавливаем пайплайн.")
+            sys.exit(1)
 
         repo_url = best_repo['url']
         owner, repo = repo_url.split('/')[-2:]
 
         readme_content = await get_readme_content(session, owner, repo)
-        if readme_content:
-            article_data = await generate_article_from_readme(readme_content)
-            if article_data:
-                # Incorporate data from best_repo into article_data
-                article_data["title"] = article_data.get("title", best_repo.get("name", "No Title"))  # Use Gemini title if present, else repo name
-                article_data["stars"] = best_repo.get("stars", 0)
-                article_data["forks"] = best_repo.get("forks", 0)
-                article_data["open_issues"] = best_repo.get("open_issues", 0)
-                article_data["languages"] = best_repo.get("language", "Not specified")  # Add languages
-                article_data["readme_summary"] = best_repo.get("readme_summary", "")  # Add readme_summary
-                # Add other fields from best_repo that you want to save
-                article_data["project_id"] = best_repo.get("id")
-                article_data["url"] = best_repo.get("url")
-                article_data["description"] = best_repo.get("description")
 
-                # Save to data directory in JSON format
-                try:
-                    with open(ARTICLE_OUTPUT_FILE, "w", encoding="utf-8") as f:
-                        json.dump(article_data, f, indent=4, ensure_ascii=False)  # This should create a valid JSON
-                    logging.info(f"Статья сохранена в {ARTICLE_OUTPUT_FILE}")
-                except IOError as e:
-                    logging.error(f"Ошибка при записи в файл {ARTICLE_OUTPUT_FILE}: {e}")
+        # ✅ ФИКС: нет README — завершаем с exit(1)
+        if not readme_content:
+            logging.warning(f"Не удалось получить README для {owner}/{repo}. Публикация отменена. Останавливаем пайплайн.")
+            sys.exit(1)
 
-            else:
-                logging.warning("Не удалось сгенерировать статью.")
-        else:
-            logging.warning("Не удалось сгенерировать статью из-за отсутствия README контента.")
+        article_data = await generate_article_from_readme(readme_content)
+
+        # ✅ ФИКС: Gemini вернул None — завершаем с exit(1)
+        if not article_data:
+            logging.warning("Gemini не смог сгенерировать статью (вернул None). Публикация отменена. Останавливаем пайплайн.")
+            sys.exit(1)
+
+        # Все данные есть — собираем итоговый объект
+        article_data["title"] = article_data.get("title", best_repo.get("name", "No Title"))
+        article_data["stars"] = best_repo.get("stars", 0)
+        article_data["forks"] = best_repo.get("forks", 0)
+        article_data["open_issues"] = best_repo.get("open_issues", 0)
+        article_data["languages"] = best_repo.get("language", "Not specified")
+        article_data["readme_summary"] = best_repo.get("readme_summary", "")
+        article_data["project_id"] = best_repo.get("id")
+        article_data["url"] = best_repo.get("url")
+        article_data["description"] = best_repo.get("description")
+
+        # Сохраняем в файл
+        try:
+            with open(ARTICLE_OUTPUT_FILE, "w", encoding="utf-8") as f:
+                json.dump(article_data, f, indent=4, ensure_ascii=False)
+            logging.info(f"Статья сохранена в {ARTICLE_OUTPUT_FILE}")
+        except IOError as e:
+            logging.error(f"Ошибка при записи в файл {ARTICLE_OUTPUT_FILE}: {e}")
+            sys.exit(1)
 
 
 if __name__ == "__main__":
