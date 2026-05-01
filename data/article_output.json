@@ -1,26 +1,26 @@
 {
-    "title": "Tame Your Digital Learning Chaos: Discover OmniGet, Your All-in-One Study Hub!",
-    "article": "Have you ever felt overwhelmed by the sheer number of platforms and files involved in online learning? One course on Udemy, another on Hotmart, PDFs scattered across your downloads, and a stack of EPUBs you've been meaning to read? It's a common struggle, and it often leads to unfinished courses and forgotten knowledge. This is exactly the problem OmniGet, a fantastic open-source desktop app, aims to solve, and it's a game-changer for anyone serious about digital learning.\n\nOmniGet isn't just another downloader; it's a complete learning ecosystem designed to put you back in control of your educational content. Imagine being able to download your favorite courses from platforms like Hotmart, Udemy, Kiwify, and Teachable, then watch every lesson, take notes, and track your progress all within a single, intuitive application. That's the core magic of OmniGet. It ensures you own your learning materials, freeing you from platform restrictions and internet dependency.\n\nThe way it works is beautifully simple yet powerful. After you've downloaded a course, OmniGet transforms that folder of files into an interactive study environment. Its built-in video player is packed with features you'd expect: adjustable playback speeds (from 0.5x to 2x), keyboard shortcuts, fullscreen and picture-in-picture modes, and even auto-resume at the exact second you left off. But it goes further: you can pin notes directly to specific timestamps in the video, making it incredibly easy to revisit key concepts. Plus, any supplementary materials like PDFs or images included with the course are readily accessible in a side panel, right alongside your video.\n\nBut OmniGet isn't just for video courses. It's also a robust reader for your digital books. Whether it's a PDF, EPUB, or CBZ file, you can open it within the app, add bookmarks, highlight important sections, and even engage a focus mode to minimize distractions. This integrated approach means your entire learning library, from video lectures to textbooks, lives in one organized, accessible place.\n\nBeyond its primary functions, OmniGet surprises with a suite of \"small things you discover later\" that add immense value. Need to grab a video from YouTube, Instagram, or TikTok? Just paste the link, and OmniGet delivers an MP4. It even supports torrents and P2P file transfers, FFmpeg conversions, and a Telegram chat browser. For developers, this means a centralized tool that not only helps you learn new skills by consolidating your courses and books but also offers utility for various media management tasks. It's about streamlining your workflow, ensuring your valuable learning content is always at your fingertips, offline and on your terms, making your study sessions more efficient and enjoyable. This level of control and integration is why OmniGet is truly exciting for any developer looking to optimize their personal learning journey.",
+    "title": "Never Miss a Test Result Again: Automate Your Allure Notifications!",
+    "article": "Are you tired of constantly checking your CI/CD pipelines or manually notifying your team about the latest automated test results? Keeping everyone in the loop regarding test passes, failures, or broken tests can be a tedious and time-consuming task, often leading to delayed feedback or missed critical information. This is where a fantastic open-source project called Allure notifications comes to the rescue, designed to streamline your development and QA workflow.\n\nAllure notifications is a powerful yet simple library that automates the process of broadcasting your Allure Report test results directly to your team's preferred communication channels. Imagine a world where every test run, whether successful or not, automatically sends a concise summary to your Slack, Telegram, Discord, or even email, without you lifting a finger after the initial setup. This project acts as your personal test results messenger service.\n\nThe core principle behind Allure notifications is quite clever. After your automated tests complete and the Allure Report is generated, a crucial file named `summary.json` (found in the `allure-report/widgets` folder) contains all the high-level statistics about your test run – how many passed, failed, skipped, or were broken. The Allure notifications tool reads this very file. If you're also using the Allure Summary plugin, it can even pull additional data from `suites.json` for a more comprehensive overview.\n\nOnce the tool has processed this data, it intelligently formats a message. This isn't just raw data; it often includes a clear diagram or chart visually representing the test outcomes, along with a descriptive text summary. This neatly packaged notification is then dispatched by a bot to your chosen messenger. It transforms static test report data into an actionable, immediate update, providing context and clarity at a glance.\n\nFor developers and QA engineers, the benefits are immense. Firstly, it provides instant feedback. You'll know immediately if a recent code change broke something crucial, allowing for much faster debugging and resolution. This drastically shortens the feedback loop in your development cycle. Secondly, it fosters better collaboration. Your entire team – developers, QAs, product owners, and even stakeholders – stays consistently informed without needing to navigate to a CI server or an Allure Report URL every time. This transparency can significantly improve team communication and accountability.\n\nSetting up Allure notifications is straightforward. You essentially download a JAR file, place it in your project, and configure a simple `config.json` file to specify your messenger details and preferences. Whether you're running tests locally for quick checks or integrating it into a complex CI/CD pipeline like Jenkins, the process is designed to be user-friendly. With support for a wide array of messengers including Telegram, Slack, Mattermost, Discord, Email, Rocket.Chat, Zoho Cliq, and Loop, you can be sure it fits seamlessly into your team's existing communication ecosystem. This project truly empowers teams to stay on top of their test automation efforts with minimal overhead.",
     "key_takeaways": [
-        "OmniGet provides a centralized learning hub for online courses and digital books (PDF, EPUB, CBZ).",
-        "Download and own course content from popular platforms like Udemy, Hotmart, Kiwify, and Teachable.",
-        "Features an integrated video player with timestamped notes, adjustable playback, auto-resume, and side-by-side attachments.",
-        "Offers a robust book reader with highlights, bookmarks, and a focus mode for distraction-free study.",
-        "Acts as a versatile media utility, allowing downloads from various video sites, torrents, and more."
+        "Automates test result notifications to various messengers, eliminating manual reporting.",
+        "Integrates with Allure Report by parsing `summary.json` to gather test statistics.",
+        "Provides immediate feedback on test runs, accelerating debugging and issue resolution.",
+        "Enhances team collaboration by keeping all stakeholders updated on test health.",
+        "Easy to set up and configure, supporting a wide range of popular communication platforms."
     ],
     "tags": [
-        "OpenSource",
-        "Learning",
-        "Productivity",
-        "CourseDownloader",
-        "OfflineLearning"
+        "TestAutomation",
+        "AllureReport",
+        "Notifications",
+        "CICD",
+        "DevOps"
     ],
-    "stars": 2244,
-    "forks": 162,
-    "open_issues": 4,
-    "languages": "Rust",
-    "readme_summary": "OmniGet is an open-source desktop application designed for efficient online learning and content consumption. It allows users to download courses from various platforms and read digital books (PDF, EPUB) within the app, offering features like timestamped notes, flashcards, and focus modes to enhance studying. Additionally, it supports downloading videos from social media and torrents.",
-    "project_id": 1155787322,
-    "url": "https://github.com/tonhowtf/omniget",
-    "description": "Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs and EPUBs with highlights, bookmarks and a focus mode. Also downloads YouTube, Instagram, TikTok and torrents."
+    "stars": 567,
+    "forks": 95,
+    "open_issues": 21,
+    "languages": "Java",
+    "readme_summary": "Allure Notifications is a Java library that automatically sends test execution results to various messengers. It generates a pie chart from the test statistics and includes a link to the build report.",
+    "project_id": 224297032,
+    "url": "https://github.com/qa-guru/allure-notifications",
+    "description": "jar, that draws piechart from results and sends it with link to build to messenger"
 }
