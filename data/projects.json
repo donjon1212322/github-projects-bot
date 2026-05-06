@@ -1,177 +1,233 @@
 [
     {
-        "id": 1105590721,
-        "name": "MV-SAM3D",
-        "description": "SAM 3D Objects with Multi-view Images",
-        "url": "https://github.com/devinli123/MV-SAM3D",
+        "id": 1066243512,
+        "name": "Code2Video",
+        "description": "Video generation via code",
+        "url": "https://github.com/showlab/Code2Video",
         "language": "Python",
-        "stars": 437,
-        "forks": 35,
-        "created_at": "2025-11-27T21:17:03Z",
-        "updated_at": "2026-05-05T07:06:36Z",
-        "topics": [],
-        "quality_score": 0.4,
+        "stars": 1725,
+        "forks": 245,
+        "created_at": "2025-09-29T08:15:44Z",
+        "updated_at": "2026-05-06T07:31:50Z",
+        "topics": [
+            "coding",
+            "education",
+            "multi-agent",
+            "video-generation"
+        ],
+        "quality_score": 0.8500000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2026-03-15T09:35:37Z",
+        "last_commit_date": "2026-05-01T10:41:19Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/0f752b374c0f93acc439f93d158ebcf6f38d6535ef72553063752e08fbdc6c5c/devinli123/MV-SAM3D"
+            "https://opengraph.githubassets.com/e68d9f2607a55bd734cf86ae6d9edbbb704aa3369b95b545fe9a9591a093a5a7/showlab/Code2Video"
+        ],
+        "homepage": "https://showlab.github.io/Code2Video/",
+        "readme_summary": "Code2Video is a Python-based framework that generates educational videos directly from code. It leverages a multi-agent approach to transform code into visual explanations, aiming to simplify the creation of learning content.",
+        "key_features": [
+            "Video generation from code",
+            "Code-centric paradigm",
+            "Educational video creation",
+            "Multi-agent system"
+        ],
+        "primary_use_case": "Automated generation of educational videos from source code.",
+        "open_issues": 0,
+        "cover_image_prompt": "A magical quill pen, labeled 'Code2Video', is actively writing lines of code onto a blank scroll. As the quill writes, the code magically transforms into a vibrant, animated educational video playing out on the scroll itself, illustrating concepts like algorithms or data structures. The background is a cozy, modern study with subtle digital particles flowing from the quill. Small, transparent UI elements showing code snippets and video playback controls are visible around the scroll. The overall mood is creative and educational, with warm, inviting lighting. The style should be a 3D isometric illustration with clear, friendly visuals and a focus on the transformation from code to video."
+    },
+    {
+        "id": 522136982,
+        "name": "adbpad",
+        "description": "AdpPad is a GUI software to test android apps using adb. This software is running Windows and macOS.",
+        "url": "https://github.com/kaleidot725/adbpad",
+        "language": "Kotlin",
+        "stars": 346,
+        "forks": 29,
+        "created_at": "2022-08-07T06:42:03Z",
+        "updated_at": "2026-05-06T07:11:45Z",
+        "topics": [
+            "adb",
+            "android",
+            "application",
+            "compose-desktop",
+            "compose-for-desktop",
+            "desktop",
+            "gui",
+            "jetpack-compose",
+            "kotlin"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2026-05-05T05:03:22Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/522136982/46ee3144-3569-432f-907e-55949bec1ee3"
+        ],
+        "homepage": "https://kaleidot725.github.io/adbpad/",
+        "readme_summary": "AdbPad is a cross-platform GUI application for Windows and macOS that simplifies Android app testing by providing a user-friendly interface for executing ADB commands, managing connected devices, sending text input, capturing screenshots, and creating virtual displays.",
+        "key_features": [
+            "Device Management",
+            "ADB Command Execution",
+            "Text Input",
+            "Screenshots",
+            "Virtual Display"
+        ],
+        "primary_use_case": "Streamlining Android app testing through a graphical user interface for ADB operations.",
+        "open_issues": 3,
+        "cover_image_prompt": "A friendly robot assistant, labeled 'AdbPad', is holding a tablet displaying a vibrant Android interface. The robot is using a digital wand to seamlessly connect to multiple Android devices shown as floating orbs. One orb is being 'typed' on by the robot's wand, another is showing a captured screenshot, and a third is projecting a larger virtual display. Subtle lines of code and data streams flow between the robot and the devices, indicating command execution and data transfer. The scene is set in a clean, modern workshop with soft, focused lighting. The overall style should be a 3D isometric illustration with a bright and approachable color palette, emphasizing ease of use and efficient testing."
+    },
+    {
+        "id": 812044182,
+        "name": "mcp-toolbox",
+        "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+        "url": "https://github.com/googleapis/mcp-toolbox",
+        "language": "Go",
+        "stars": 14977,
+        "forks": 1508,
+        "created_at": "2024-06-07T20:52:54Z",
+        "updated_at": "2026-05-06T07:19:53Z",
+        "topics": [
+            "agent",
+            "agents",
+            "ai",
+            "bigquery",
+            "clickhouse",
+            "cockroachdb",
+            "database",
+            "elasticsearch",
+            "firestore",
+            "genai",
+            "llm",
+            "mcp",
+            "mongodb",
+            "mysql",
+            "oracle",
+            "postgresql",
+            "redis",
+            "server",
+            "spanner",
+            "tidb"
+        ],
+        "quality_score": 1.05,
+        "contributors_count": 0,
+        "last_commit_date": "2026-05-05T03:59:24Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/812044182/9691d4ec-d0aa-4903-b9ba-55670028f730"
+        ],
+        "homepage": "https://mcp-toolbox.dev/documentation/introduction/",
+        "readme_summary": "MCP Toolbox for Databases is an open-source Go-based server that bridges AI agents, IDEs, and applications with enterprise databases. It offers both a ready-to-use MCP server with prebuilt tools for immediate data interaction and a framework for building custom, secure AI tools with specific logic.",
+        "key_features": [
+            "Open-source MCP server for databases",
+            "Connects AI agents, IDEs, and applications to enterprise databases",
+            "Prebuilt generic tools for instant data exploration (e.g., list_tables, execute_sql)",
+            "Custom tools framework for building specialized, secure AI tools",
+            "Supports NL2SQL capabilities",
+            "Provides SDKs for Python, JavaScript/TypeScript, Go, and Java"
+        ],
+        "primary_use_case": "To enable AI agents and applications to interact with and query enterprise databases through the Model Context Protocol (MCP), offering both out-of-the-box functionality and a platform for custom tool development.",
+        "open_issues": 139,
+        "cover_image_prompt": "A wise, ancient librarian standing at a grand, ornate desk, holding a glowing digital tablet. The tablet displays a complex database schema, and with a gesture, the librarian conjures shimmering, organized books representing data. Around the desk, AI-like robotic assistants eagerly receive these books, while small, stylized icons of various database systems (like PostgreSQL, MySQL, etc.) are subtly integrated into the library's architecture. The scene is bathed in warm, inviting light, emphasizing knowledge and accessibility. The overall style is a 3D isometric illustration with a clean, modern aesthetic, highlighting the transformation of raw data into understandable information for AI."
+    },
+    {
+        "id": 1058933003,
+        "name": "review-prompts",
+        "description": "AI review prompts",
+        "url": "https://github.com/masoncl/review-prompts",
+        "language": "Python",
+        "stars": 804,
+        "forks": 108,
+        "created_at": "2025-09-17T18:44:03Z",
+        "updated_at": "2026-05-06T07:36:22Z",
+        "topics": [],
+        "quality_score": 0.8500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2026-04-27T12:51:29Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/c43860f88eef4e8b85a8e8fe04815b7d94cf323359432c88b5a04258ebc2fbb2/masoncl/review-prompts"
         ],
         "homepage": null,
-        "readme_summary": "MV-SAM3D is a multi-view 3D reconstruction framework that enhances the SAM 3D Objects model by utilizing multiple viewpoints. It aims to produce more stable and consistent 3D geometry, textures, and scene compositions for both single and multiple objects.",
+        "readme_summary": "This repository provides AI-assisted code review prompts specifically tailored for Linux kernel, systemd, and iproute development. It integrates with AI tools like Claude Code and offers specialized commands for reviewing, debugging, and verifying code within these projects.",
         "key_features": [
-            "Multi-view 3D reconstruction",
-            "Extends SAM 3D Objects",
-            "Supports single-object generation",
-            "Supports multi-object generation",
-            "Aims for stable geometry and texture",
-            "Aims for scene-level consistency"
+            "AI-assisted code review prompts",
+            "Specialized prompts for Linux kernel, systemd, and iproute",
+            "Integration with AI tools (e.g., Claude Code)",
+            "Quick start installation script",
+            "Slash commands for review, debug, and verify workflows",
+            "Context-aware skill loading based on working directory",
+            "Semcode integration for enhanced code navigation"
         ],
-        "primary_use_case": "Generating more robust and consistent 3D object reconstructions from multiple input images.",
-        "open_issues": 11,
-        "cover_image_prompt": "A sculptor carefully chiseling a 3D statue from a block of marble. Instead of traditional tools, the sculptor uses multiple beams of light, each originating from a different angle (representing multi-view images), converging on the marble to precisely shape it. The marble block glows with intricate details as it forms. In the background, a holographic display shows the different camera angles feeding into the process, and the repository name 'MV-SAM3D' is subtly etched onto the sculptor's workbench. The scene is set in a clean, modern workshop with soft, focused lighting, rendered in a 3D isometric illustration style with a focus on clarity and detail."
-    },
-    {
-        "id": 1050548417,
-        "name": "graphrag-workbench",
-        "description": "Interactive 3D visualization of knowledge graphs generated by Microsoft GraphRAG. Explore entities, relationships, and communities with immersive visual analytics.",
-        "url": "https://github.com/ChristopherLyon/graphrag-workbench",
-        "language": "TypeScript",
-        "stars": 598,
-        "forks": 77,
-        "created_at": "2025-09-04T15:29:08Z",
-        "updated_at": "2026-05-04T23:55:34Z",
-        "topics": [
-            "graphrag",
-            "microsoft",
-            "nextjs",
-            "visualization"
-        ],
-        "quality_score": 0.4,
-        "contributors_count": 0,
-        "last_commit_date": "2025-09-09T17:58:00Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/1050548417/940dc2a3-5a09-4c90-bbf6-0220059034d6"
-        ],
-        "homepage": "https://graphrag-workbench-web.vercel.app",
-        "readme_summary": "GraphRAG Workbench is an interactive web application for building and visualizing knowledge graphs from documents using Microsoft's GraphRAG framework. It offers advanced AI-powered analysis, natural language querying, and immersive 3D exploration of extracted entities and relationships.",
-        "key_features": [
-            "Interactive 3D Knowledge Graph Visualization",
-            "Community Detection and Analysis",
-            "AI-Powered Entity and Relationship Extraction (GraphRAG)",
-            "Natural Language Querying (Chat Interface)",
-            "Document Upload and Processing (PDFs)",
-            "Advanced Filtering and Search Capabilities",
-            "Responsive Design"
-        ],
-        "primary_use_case": "To provide an interactive and visually intuitive platform for users to build, explore, and query knowledge graphs derived from their documents using AI.",
+        "primary_use_case": "To enhance and automate the code review process for critical Linux-based system projects using AI.",
         "open_issues": 2,
-        "cover_image_prompt": "A wise old librarian meticulously organizing a vast, ancient library where the bookshelves are made of glowing data streams and the books are translucent cubes containing interconnected nodes. The librarian uses a magical magnifying glass to reveal hidden relationships and communities within the data, which are visualized as shimmering constellations. Subtle UI elements resembling a modern dashboard are integrated into the library's architecture, showing document uploads and AI analysis progress. The overall mood is one of discovery and intellectual exploration, rendered in a detailed, ethereal digital painting style with a focus on luminous blues and golds."
+        "cover_image_prompt": "A wise old librarian meticulously organizing and annotating ancient, complex scrolls representing code. The librarian uses a glowing magnifying glass to highlight specific sections, and as they do, small, intelligent digital sprites (representing AI) emerge from the scrolls, offering suggestions and corrections in a clear, organized manner. The scrolls are neatly arranged on shelves, with subtle UI elements and code snippets appearing as floating annotations around the librarian. The scene is a warm, inviting study filled with books and soft light, rendered in a detailed 3D isometric illustration style, emphasizing clarity and order."
     },
     {
-        "id": 1072880759,
-        "name": "Stable-Video-Infinity",
-        "description": "[ICLR 26 Oral] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling",
-        "url": "https://github.com/vita-epfl/Stable-Video-Infinity",
+        "id": 1075431749,
+        "name": "nanochat",
+        "description": "The best ChatGPT that $100 can buy.",
+        "url": "https://github.com/karpathy/nanochat",
         "language": "Python",
-        "stars": 2395,
-        "forks": 205,
-        "created_at": "2025-10-09T10:37:34Z",
-        "updated_at": "2026-05-05T07:11:55Z",
-        "topics": [
-            "audio-driven-talking-face",
-            "dance-generation",
-            "end-to-end-filming",
-            "long-video-generation",
-            "video-diffusion-transformers"
-        ],
-        "quality_score": 0.55,
+        "stars": 52982,
+        "forks": 7100,
+        "created_at": "2025-10-13T13:46:35Z",
+        "updated_at": "2026-05-06T07:28:29Z",
+        "topics": [],
+        "quality_score": 0.9500000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2026-01-19T12:12:34Z",
+        "last_commit_date": "2026-05-05T03:17:21Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/5fd44ca34ca6c32d2e09f735745ef265606ca567496de644462d5e0e1be301dc/vita-epfl/Stable-Video-Infinity"
+            "https://opengraph.githubassets.com/75dd70ef9a4f6b0d524ce66186fbcfe3fc025d4ce69881532364a5fde899d3fe/karpathy/nanochat"
         ],
-        "homepage": "https://stable-video-infinity.github.io/homepage/",
-        "readme_summary": "Stable Video Infinity (SVI) is a Python-based framework for generating infinitely long videos by recycling errors. It builds upon diffusion transformer models to achieve this, offering advanced capabilities for various video generation tasks.",
+        "homepage": "",
+        "readme_summary": "nanochat is a minimalist and hackable Python framework for training and experimenting with Large Language Models (LLMs) on a single GPU. It covers the full LLM lifecycle from tokenization to inference and includes a ChatGPT-like UI, enabling users to train models like GPT-2 for a fraction of the original cost.",
         "key_features": [
-            "Infinite-length video generation",
-            "Error recycling mechanism",
-            "Built on diffusion transformer models",
-            "Supports various applications like end-to-end filming, audio-driven talking faces, and dance generation",
-            "Available in different versions (SVI 1.0, SVI 2.0, SVI 2.0 Pro) and integrated with ComfyUI workflows"
+            "Minimalist and hackable codebase for LLM training",
+            "Supports full LLM lifecycle: tokenization, pretraining, finetuning, evaluation, inference",
+            "Includes a ChatGPT-like web UI for interaction",
+            "Enables training GPT-2 capability models for under $100 on a single GPU node",
+            "Automated hyperparameter calculation for compute-optimal models",
+            "Time-to-GPT-2 leaderboard for tracking training speed and efficiency",
+            "Dependency management using uv for streamlined setup"
         ],
-        "primary_use_case": "Generating exceptionally long and coherent videos by iteratively refining frames and recycling previous errors, enabling applications like continuous storytelling, realistic character animation, and extended visual sequences.",
-        "open_issues": 36,
-        "cover_image_prompt": "A majestic, ancient loom weaving an endless tapestry of moving images. The loom's threads are streams of digital data, flowing from a source of raw visual information. As the tapestry extends infinitely into the distance, subtle glitches or 'errors' are visibly recycled back into the loom's mechanism, transforming into new, coherent visual elements. Small, glowing UI elements representing 'error recycling' and 'infinite generation' are subtly integrated into the loom's design. The scene is set in a bright, ethereal workshop with a soft, digital glow. The overall style is a 3D isometric illustration with clean lines and a vibrant, yet harmonious color palette, emphasizing the seamless continuation of the video."
+        "primary_use_case": "To provide an accessible and cost-effective platform for researchers and developers to train, experiment with, and deploy Large Language Models, particularly focusing on achieving GPT-2 level capabilities on minimal hardware.",
+        "open_issues": 17,
+        "cover_image_prompt": "A miniature, highly detailed laboratory workbench where a single, powerful GPU glows with energy. From the GPU, a stream of digital 'building blocks' (representing data and code) flows into a complex, yet elegant, transformer model structure. This structure then elegantly transforms into a friendly, glowing chatbot avatar that is interacting with a user on a simple, clean screen. Subtle lines of code and data visualizations are etched into the workbench surface. The overall mood is one of focused innovation and accessibility, with a clean, bright aesthetic. The style should be a 3D isometric illustration with a focus on clear visual storytelling and a vibrant, tech-inspired color palette."
     },
     {
-        "id": 868811259,
-        "name": "prek",
-        "description": "⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.",
-        "url": "https://github.com/j178/prek",
-        "language": "Rust",
-        "stars": 7525,
-        "forks": 208,
-        "created_at": "2024-10-07T08:21:29Z",
-        "updated_at": "2026-05-05T06:30:52Z",
+        "id": 1031849744,
+        "name": "qui",
+        "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
+        "url": "https://github.com/autobrr/qui",
+        "language": "Go",
+        "stars": 3822,
+        "forks": 117,
+        "created_at": "2025-08-04T12:28:27Z",
+        "updated_at": "2026-05-06T06:02:40Z",
         "topics": [
-            "git",
-            "git-hooks",
-            "pre-commit"
+            "cross-seed",
+            "cross-seeding",
+            "go",
+            "golang",
+            "libtorrent",
+            "qbit",
+            "qbittorrent",
+            "workflows"
         ],
         "quality_score": 1.1,
         "contributors_count": 0,
-        "last_commit_date": "2026-05-05T05:43:41Z",
+        "last_commit_date": "2026-05-06T06:02:34Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/0b57e8cbdb69732ac0ef79b337a492fc5b5e72873583ebadde6d716f728f1242/j178/prek"
+            "https://repository-images.githubusercontent.com/1031849744/55b9056d-ded7-4bb7-88fa-b060d3ff4fa0"
         ],
-        "homepage": "https://prek.j178.dev/",
-        "readme_summary": "Prek is a fast, dependency-free Git hook manager written in Rust, serving as a drop-in alternative to pre-commit. It offers improved performance, reduced disk space usage, and enhanced features like monorepo support and integrated Python environment management.",
+        "homepage": "https://getqui.com",
+        "readme_summary": "qui is a fast, single-binary web UI for qBittorrent, designed to manage multiple qBittorrent instances efficiently. It offers features like cross-seeding, automated torrent workflows, and backups, all accessible through a responsive interface.",
         "key_features": [
-            "Single binary with no dependencies",
-            "Faster and more efficient than pre-commit",
-            "Fully compatible with pre-commit configurations",
-            "Built-in support for monorepos",
-            "Integration with uv for Python environment management",
-            "Improved toolchain installations for multiple languages",
-            "Rust-native implementation of common hooks"
+            "Single Binary",
+            "Multi-Instance Support",
+            "Fast & Responsive",
+            "Cross-Seed",
+            "Automations",
+            "Backups & Restore",
+            "Reverse Proxy"
         ],
-        "primary_use_case": "Managing and running Git hooks efficiently in software development projects, providing a faster and more streamlined alternative to pre-commit.",
-        "open_issues": 52,
-        "cover_image_prompt": "A highly efficient, futuristic robot arm meticulously organizing and checking small, standardized packages (representing Git commits) on a conveyor belt. Each package passes through a glowing scanner that instantly verifies its contents, with successful packages receiving a green checkmark and faulty ones a red 'X'. The robot arm is labeled 'prek' and subtle lines of code or data streams flow around the scene. The background is a clean, modern workshop with a focus on speed and precision. The overall style is a 3D isometric illustration with a bright, clean color palette, emphasizing efficiency and automation."
-    },
-    {
-        "id": 925273833,
-        "name": "flowsint",
-        "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-        "url": "https://github.com/reconurge/flowsint",
-        "language": "TypeScript",
-        "stars": 3391,
-        "forks": 453,
-        "created_at": "2025-01-31T15:10:41Z",
-        "updated_at": "2026-05-05T07:11:20Z",
-        "topics": [
-            "investigation",
-            "osint",
-            "python",
-            "recon"
-        ],
-        "quality_score": 1.1,
-        "contributors_count": 0,
-        "last_commit_date": "2026-04-29T09:35:17Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/8e7ab6e226e6599e9f592b58ecb557b840ec684c3c4261e454fec4492200dcef/reconurge/flowsint"
-        ],
-        "homepage": "https://flowsint.io",
-        "readme_summary": "Flowsint is an open-source OSINT graph exploration tool designed for ethical cybersecurity investigations. It visualizes relationships between entities and uses automated enrichers to gather intelligence, storing all data locally for enhanced privacy.",
-        "key_features": [
-            "Graph-based investigation interface",
-            "Automated data enrichment for various entity types (domains, IPs, social media, crypto, etc.)",
-            "Local data storage for privacy",
-            "Extensible enricher system",
-            "Ethical use guidelines"
-        ],
-        "primary_use_case": "Visualizing and investigating relationships between entities for OSINT and cybersecurity reconnaissance.",
-        "open_issues": 28,
-        "cover_image_prompt": "A digital cartographer meticulously drawing an intricate, glowing web of interconnected nodes and pathways on a large, ancient map. Each node represents a piece of digital information (like an IP address, domain name, or social media profile), and the pathways show the connections discovered. The cartographer uses a magnifying glass that reveals hidden data points and a quill pen that draws glowing lines. Subtle UI elements of the Flowsint application are visible on a nearby digital tablet. The overall mood is one of discovery and clarity, with a dark, mysterious background illuminated by the glowing map. The style should be a detailed digital painting with a focus on intricate linework and ethereal light."
+        "primary_use_case": "Managing multiple qBittorrent instances and automating torrent workflows from a single, centralized web interface.",
+        "open_issues": 12,
+        "cover_image_prompt": "A conductor standing at a podium, orchestrating multiple diverse orchestras (representing qBittorrent instances) playing in harmony. Each orchestra has unique instruments and sheet music (representing different torrents and trackers). The conductor uses a glowing baton to seamlessly guide the flow of music, with streams of data flowing from one orchestra to another, symbolizing cross-seeding. Subtle digital interfaces and progress bars are visible on the podium. The scene is set in a grand, modern concert hall with a clean, organized aesthetic. The overall style is a 3D isometric illustration with vibrant colors and clear visual storytelling, emphasizing control and efficiency."
     }
 ]
