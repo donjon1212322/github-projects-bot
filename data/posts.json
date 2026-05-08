@@ -1,37 +1,30 @@
 [
     {
-        "project_id": 576103395,
-        "content": "💡 <b>whisperX</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide highly accurate, fast, and detailed speech-to-text transcriptions with precise word-level timing and speaker identification for audio and video content.\n<br>\n✨ <b>Key Features:</b>\n• 70x realtime transcription using faster-whisper\n• Accurate word-level timestamps via wav2vec2 alignment\n• Multispeaker ASR with speaker diarization from pyannote-audio\n<br>\n📖 <b>Summary:</b>\nWhisperX is a Python-based Automatic Speech Recognition (ASR) system that enhances OpenAI's Whisper model by providing accurate word-level timestamps and speaker diarization. It leverages faster-whisper for efficient inference, wav2vec2 for alignment, and pyannote-audio for speaker identification, enabling fast, multi-speaker transcription with improved accuracy.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/m-bain/whisperX?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/02cb528d2f1b1203cc2df40740dec95242ed563a8d2394a8d5089bc2427ad5aa/m-bain/whisperX",
-        "platform": "telegram",
-        "quality_score": 0.9
-    },
-    {
-        "project_id": 446364569,
-        "content": "✨ <b>docker-steam-headless</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nTo easily deploy and run a headless Steam instance within a Docker container for remote game streaming and access.\n<br>\n✨ <b>Key Features:</b>\n• Headless Steam Client with Proton support\n• Moonlight compatible server\n• Web UI with noVNC for browser access\n• NVIDIA, AMD, and Intel GPU support\n• Easy installation of EmeDeck, Heroic, and Lutris via Flatpak\n<br>\n📖 <b>Summary:</b>\nThis repository provides a Docker image for a headless Steam client, enabling remote game streaming. It supports NVIDIA GPU acceleration, web-based access via noVNC, and compatibility with Steam Link, Moonlight, and other game launchers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Steam-Headless/docker-steam-headless?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b9100dceda00ce07a77ee49e588981848638a2fc93937281ed0ae9ec3aedbfad/Steam-Headless/docker-steam-headless",
-        "platform": "telegram",
-        "quality_score": 0.8
-    },
-    {
-        "project_id": 824301644,
-        "content": "🌟 <b>free-llm-api-resources</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo discover and utilize free API endpoints for various Large Language Models, enabling developers to experiment with and integrate LLM functionalities without incurring costs.\n<br>\n✨ <b>Key Features:</b>\n• Lists free LLM inference resources accessible via API\n• Categorizes providers into 'Free Providers' and 'Providers with trial credits'\n• Details limits and available models for each provider\n<br>\n📖 <b>Summary:</b>\nThis repository serves as a curated list of free API resources for accessing various Large Language Models (LLMs). It aims to provide developers with readily available, cost-free options for integrating LLM capabilities into their applications, including models from major providers and open-source alternatives.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cheahjs/free-llm-api-resources?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9893f99938bf3f9245e6b0d90b04686f816345077179b5d9b59a0ebe17dd1b1d/cheahjs/free-llm-api-resources",
+        "project_id": 970046788,
+        "content": "💡 <b>GameNative</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying PC games on an Android device.\n<br>\n✨ <b>Key Features:</b>\n• Play PC games on Android\n• Steam, Epic Games, GOG integration\n• Cloud saves support\n• Automatic game image fetching (via SteamGridDB API Key)\n<br>\n📖 <b>Summary:</b>\nGameNative enables Android users to play PC games from Steam, Epic Games, and GOG directly on their mobile devices. It integrates with these platforms to allow installation and playing of owned games, with support for cloud saves and automatic game image fetching.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/utkarshdalal/GameNative?embed=0\">View Project</a>\n• <a href=\"https://gamenative.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/783729d3453358a85d5cda4c4ef49158eaf94e58adfa79d3e14f16d1dfc3b1a4/utkarshdalal/GameNative",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 646426100,
-        "content": "🚀 <b>monty</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSafely executing AI-generated Python code within an agent or application, providing a controlled and efficient sandbox.\n<br>\n✨ <b>Key Features:</b>\n• Minimal and secure Python interpreter in Rust\n• Fast startup times (<1μs)\n• Controlled execution with resource limits (memory, stack, time)\n• Blocks host environment access (filesystem, env, network) by default\n• Allows controlled external function calls\n<br>\n📖 <b>Summary:</b>\nMonty is a minimal and secure Python interpreter written in Rust, designed to safely execute Python code generated by AI agents. It offers fast startup times and controlled execution, avoiding the overhead of containerized sandboxes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pydantic/monty?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2dec1545041dc8d2647c7de81c48173b714ef126168f00a875ca9757ec7e9545/pydantic/monty",
+        "project_id": 845839905,
+        "content": "✨ <b>AIPex</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a privacy-focused, integrated AI-powered automation solution for web browsing tasks directly within the user's existing browser, and to enable AI coding agents to control browser actions.\n<br>\n✨ <b>Key Features:</b>\n• Zero Migration: Operates within your current browser.\n• Open Source: MIT licensed, transparent, auditable, and extensible.\n<br>\n📖 <b>Summary:</b>\nAIPex is an open-source browser extension that enables AI-powered automation directly within your existing browser, offering a privacy-first solution without requiring migration to a new browser or workflow. It integrates with AI coding agents via the Model Context Protocol (MCP) for enhanced browser control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AIPexStudio/AIPex?embed=0\">View Project</a>\n• <a href=\"https://claudechrome.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/845839905/4b138563-6945-405d-93f4-aad4c0439d89",
+        "platform": "telegram",
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 731804628,
+        "content": "🌟 <b>DebugSwift</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide iOS developers with an integrated, in-app toolkit for real-time debugging, performance analysis, and interface inspection, simplifying the development and troubleshooting workflow.\n<br>\n✨ <b>Key Features:</b>\n• Network Inspector (HTTP/WebSocket monitoring, encryption support)\n• Performance Monitoring (CPU, memory, FPS, leak detection)\n• App Tools (Crash reports, console logs, device info)\n• Interface Tools (Grid overlay, view hierarchy, animation control)\n<br>\n📖 <b>Summary:</b>\nDebugSwift is a comprehensive toolkit for iOS developers, offering a suite of tools to enhance the debugging process. It provides features for network inspection, performance monitoring, app diagnostics, and interface analysis, all accessible within the application itself.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DebugSwift/DebugSwift?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/731804628/3f8573ef-9e43-46cf-9dff-02ee2d5b1d39",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 1065059442,
-        "content": "✨ <b>shannon</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated, white-box penetration testing of web applications and APIs.\n<br>\n✨ <b>Key Features:</b>\n• Fully Autonomous Operation\n• Reproducible Proof-of-Concept Exploits\n• OWASP Vulnerability Coverage\n• Code-Aware Dynamic Testing\n• Parallel Processing\n<br>\n📖 <b>Summary:</b>\nShannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes source code to identify potential attack vectors and then executes real exploits to validate vulnerabilities before they reach production, providing reproducible proof-of-concept exploits.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/KeygraphHQ/shannon?embed=0\">View Project</a>\n• <a href=\"https://keygraph.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/18966f584f0153074bd9d138849cbe0d0bc82aaadda3833dbb02ffb262be03b4/KeygraphHQ/shannon",
+        "project_id": 1052845083,
+        "content": "🚀 <b>Personal_AI_Infrastructure</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo serve as a foundational infrastructure for building and deploying agentic AI systems that enhance individual human productivity and capabilities, acting as a personalized digital operating system.\n<br>\n✨ <b>Key Features:</b>\n• Agentic AI Infrastructure\n• Human capability augmentation\n• Personal productivity enhancement\n• Life Operating System concept\n• TypeScript and Bun based\n<br>\n📖 <b>Summary:</b>\nPersonal AI Infrastructure (PAI) is a framework designed to augment human capabilities by providing an agentic AI system. It aims to act as a 'Life Operating System,' integrating AI to magnify personal productivity and effectiveness.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/danielmiessler/Personal_AI_Infrastructure?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1052845083/986b3f67-e6d2-4ea1-b583-896f53f5331d",
         "platform": "telegram",
-        "quality_score": 1.1
+        "quality_score": 0.9500000000000001
     }
 ]

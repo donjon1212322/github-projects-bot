@@ -1,26 +1,26 @@
 {
-    "title": "Shannon: Your Autonomous AI Pentester for Bulletproof Web Apps!",
-    "article": "In today's fast-paced development world, we're constantly pushing out new features and updates. Tools like AI code assistants help us ship faster than ever. But here's the catch: while our code delivery accelerates, security testing often remains a bottleneck, typically happening once a year. This creates a massive security gap, leaving your applications vulnerable for 364 days out of 365. What if you could bridge that gap and integrate continuous, intelligent security testing directly into your development pipeline? That's where Shannon comes in.\n\nShannon is an autonomous, white-box AI pentester designed specifically for web applications and APIs. Think of it as having a tireless, intelligent security expert constantly scrutinizing your code and live application. Unlike traditional scanners that might only look at surface-level issues, Shannon takes a deep dive. It meticulously analyzes your application's source code to understand its inner workings and identify potential weak points, or 'attack vectors.' This code-aware approach allows it to craft highly targeted and effective attack strategies.\n\nBut Shannon doesn't stop at just finding potential issues. It goes a crucial step further: live exploitation. Using advanced browser automation and command-line tools, Shannon executes real exploits against your running application and its APIs. This means it actively attempts to perform injection attacks, authentication bypasses, Server-Side Request Forgery (SSRF), Cross-Site Scripting (XSS), and more. The beauty of this approach is that you're not just getting a list of theoretical vulnerabilities; you're getting a report filled with proven, reproducible proof-of-concept exploits. If Shannon can't successfully exploit it, it won't report it, virtually eliminating false positives.\n\nFor developers, this is a game-changer. Imagine running a full penetration test with a single command, automatically, against every new build or release. Shannon handles everything from complex 2FA/TOTP logins and SSO to browser navigation, exploitation, and comprehensive report generation, all without manual intervention. This level of automation means you can catch critical vulnerabilities early, before they ever make it to production, saving countless hours of rework and potential security breaches. It allows your team to maintain its rapid development pace without compromising on security, giving you peace of mind that your applications are robustly protected against common and complex threats. With Shannon, security becomes an integrated, continuous part of your development lifecycle, not an afterthought.",
+    "title": "GameNative: Play Your Steam, Epic, and GOG Library Directly on Android!",
+    "article": "Imagine being able to dive into your favorite PC games, the ones you already own on Steam, Epic Games, or GOG, right from your Android phone or tablet. GameNative makes this a reality, offering an incredible way to extend your existing game library to your mobile device without buying the same titles again. This project is all about breaking down the barriers between your desktop collection and your portable screen, giving you unprecedented freedom to play wherever you are.The core idea behind GameNative is straightforward: it provides a platform to run your PC games natively on Android. You start by downloading and installing the GameNative APK on your Android device. From there, you log into your Steam account, and GameNative also integrates support for Epic Games and GOG. Once logged in, you can browse your owned games, install them directly onto your Android device, and hit play. It's designed for ease of use, letting you jump into titles with minimal setup. A standout feature is its support for cloud saves, ensuring your game progress is seamlessly synchronized across all your devices. This means you can pick up exactly where you left off, whether you were playing on your PC at home or on your phone during a commute.For developers, GameNative is more than just a cool way to play games; it's a fascinating technical showcase. It demonstrates advanced methods for bringing complex PC game environments and their underlying architecture to a mobile operating system. Exploring how GameNative handles game installations, rendering pipelines, and input mapping on Android could provide valuable insights for those interested in cross-platform compatibility and optimizing game performance for diverse hardware. Beyond the technical intrigue, it offers a practical benefit: developers can easily test their games or simply enjoy their existing PC library without being confined to a desktop. This project democratizes access to a vast catalog of games, potentially expanding the reach for existing titles and fostering more flexible gaming habits. As GameNative is still in its early stages, it presents an exciting opportunity for the developer community to contribute, whether through testing, bug reporting, or code contributions, helping to shape the future of mobile PC gaming.",
     "key_takeaways": [
-        "Shannon is an autonomous AI pentester that combines source code analysis with live exploitation for web applications and APIs.",
-        "It provides reproducible proof-of-concept exploits for identified vulnerabilities, eliminating false positives.",
-        "Automates continuous security testing, closing the security gap between rapid development and infrequent manual pentests.",
-        "Covers critical OWASP vulnerabilities like Injection, XSS, SSRF, and Broken Authentication/Authorization.",
-        "Offers fully autonomous operation, handling complex logins and report generation without manual intervention."
+        "Play your owned Steam, Epic Games, and GOG PC titles directly on Android devices.",
+        "Enjoy seamless cloud save synchronization, letting you pick up games where you left off across platforms.",
+        "Expand your existing PC game library to mobile without the need to repurchase titles.",
+        "The project is an impressive technical feat, showcasing advanced cross-platform gaming capabilities.",
+        "Offers developers a unique opportunity to test and enjoy PC games on mobile, and contribute to an evolving open-source project."
     ],
     "tags": [
-        "AI Security",
-        "Penetration Testing",
-        "Web Security",
-        "AppSec",
-        "Vulnerability Scanning"
+        "AndroidGaming",
+        "PCGaming",
+        "CrossPlatform",
+        "OpenSource",
+        "MobileGaming"
     ],
-    "stars": 41412,
-    "forks": 4684,
-    "open_issues": 16,
-    "languages": "TypeScript",
-    "readme_summary": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes source code to identify potential attack vectors and then executes real exploits to validate vulnerabilities before they reach production, providing reproducible proof-of-concept exploits.",
-    "project_id": 1065059442,
-    "url": "https://github.com/KeygraphHQ/shannon",
-    "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production."
+    "stars": 5941,
+    "forks": 257,
+    "open_issues": 62,
+    "languages": "Kotlin",
+    "readme_summary": "GameNative enables Android users to play PC games from Steam, Epic Games, and GOG directly on their mobile devices. It integrates with these platforms to allow installation and playing of owned games, with support for cloud saves and automatic game image fetching.",
+    "project_id": 970046788,
+    "url": "https://github.com/utkarshdalal/GameNative",
+    "description": "Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android"
 }
