@@ -1,30 +1,30 @@
 [
     {
-        "project_id": 970046788,
-        "content": "💡 <b>GameNative</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying PC games on an Android device.\n<br>\n✨ <b>Key Features:</b>\n• Play PC games on Android\n• Steam, Epic Games, GOG integration\n• Cloud saves support\n• Automatic game image fetching (via SteamGridDB API Key)\n<br>\n📖 <b>Summary:</b>\nGameNative enables Android users to play PC games from Steam, Epic Games, and GOG directly on their mobile devices. It integrates with these platforms to allow installation and playing of owned games, with support for cloud saves and automatic game image fetching.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/utkarshdalal/GameNative?embed=0\">View Project</a>\n• <a href=\"https://gamenative.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/783729d3453358a85d5cda4c4ef49158eaf94e58adfa79d3e14f16d1dfc3b1a4/utkarshdalal/GameNative",
+        "project_id": 1168184085,
+        "content": "💡 <b>snip</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enhance AI coding workflows by enabling visual communication, allowing AI agents to render diagrams and previews and users to annotate and provide feedback directly on these visuals.\n<br>\n✨ <b>Key Features:</b>\n• Visual communication layer for AI agents\n• Capture, annotate, and render diagrams/previews\n• Integration with AI coding assistants (Claude Code, Cursor, etc.)\n<br>\n📖 <b>Summary:</b>\nSnip is a visual communication tool for AI agents, enabling users to capture, annotate, and render diagrams and previews directly within their AI coding workflows. It integrates with AI coding assistants like Claude Code to replace textual descriptions with visual outputs, facilitating a more intuitive review and iteration process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rixinhahaha/snip?embed=0\">View Project</a>\n• <a href=\"https://snipit.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7eeff59436fb658648fbda57b186922a0067fe1716eacaa291486f4e66bbc2ff/rixinhahaha/snip",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
+        "quality_score": 1.1000000000000003
     },
     {
-        "project_id": 845839905,
-        "content": "✨ <b>AIPex</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a privacy-focused, integrated AI-powered automation solution for web browsing tasks directly within the user's existing browser, and to enable AI coding agents to control browser actions.\n<br>\n✨ <b>Key Features:</b>\n• Zero Migration: Operates within your current browser.\n• Open Source: MIT licensed, transparent, auditable, and extensible.\n<br>\n📖 <b>Summary:</b>\nAIPex is an open-source browser extension that enables AI-powered automation directly within your existing browser, offering a privacy-first solution without requiring migration to a new browser or workflow. It integrates with AI coding agents via the Model Context Protocol (MCP) for enhanced browser control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AIPexStudio/AIPex?embed=0\">View Project</a>\n• <a href=\"https://claudechrome.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/845839905/4b138563-6945-405d-93f4-aad4c0439d89",
+        "project_id": 1196821690,
+        "content": "🌟 <b>reclip</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nDownloading videos and audio from a wide variety of websites through a user-friendly web interface.\n<br>\n✨ <b>Key Features:</b>\n• Download videos from 1000+ supported sites (via yt-dlp)\n• MP4 video or MP3 audio extraction\n• Quality/resolution picker\n• Bulk downloads\n• Automatic URL deduplication\n<br>\n📖 <b>Summary:</b>\nReClip is a self-hosted, open-source media downloader that allows users to download videos and audio from over 1000 websites. It features a clean web UI, supports MP4 and MP3 formats, and offers quality selection and bulk download capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/averygan/reclip?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ec6d069197137ffafbdf414a27f80d4bacd8521f0754082ea2a2913b381bd9ec/averygan/reclip",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 323640623,
+        "content": "🚀 <b>home-gallery</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a private, self-hosted, and feature-rich web gallery for users to organize, browse, and discover their personal photo and video collections, with an emphasis on user privacy and mobile accessibility.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted\n• Open-source\n• Web gallery\n• Mobile-friendly\n• Tagging\n<br>\n📖 <b>Summary:</b>\nHomeGallery is a self-hosted, open-source web gallery designed for personal photo and video collections. It offers features like tagging, mobile-friendliness, and AI-powered image and face discovery to help users browse and rediscover their media archives privately.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/xemle/home-gallery?embed=0\">View Project</a>\n• <a href=\"https://home-gallery.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a42cdf905d596087edf0b338e8e527b90aa5570d6a76ad0529341f70d0f37348/xemle/home-gallery",
         "platform": "telegram",
         "quality_score": 0.95
     },
     {
-        "project_id": 731804628,
-        "content": "🌟 <b>DebugSwift</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide iOS developers with an integrated, in-app toolkit for real-time debugging, performance analysis, and interface inspection, simplifying the development and troubleshooting workflow.\n<br>\n✨ <b>Key Features:</b>\n• Network Inspector (HTTP/WebSocket monitoring, encryption support)\n• Performance Monitoring (CPU, memory, FPS, leak detection)\n• App Tools (Crash reports, console logs, device info)\n• Interface Tools (Grid overlay, view hierarchy, animation control)\n<br>\n📖 <b>Summary:</b>\nDebugSwift is a comprehensive toolkit for iOS developers, offering a suite of tools to enhance the debugging process. It provides features for network inspection, performance monitoring, app diagnostics, and interface analysis, all accessible within the application itself.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DebugSwift/DebugSwift?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/731804628/3f8573ef-9e43-46cf-9dff-02ee2d5b1d39",
+        "project_id": 1118209243,
+        "content": "🔥 <b>summarize</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo quickly extract the essential information from web pages, documents, and media content through an accessible CLI and browser extension.\n<br>\n✨ <b>Key Features:</b>\n• Chrome Side Panel chat with streaming agent and history\n• Video slide extraction with OCR and transcript cards for YouTube and video files\n• Media-aware summarization (auto-detects audio/video vs. page content)\n• Support for multiple coding CLI backends (Codex, Claude, Gemini, etc.)\n<br>\n📖 <b>Summary:</b>\nSummarize is a versatile tool that provides concise summaries from various sources including URLs, files, and media like YouTube videos. It offers both a command-line interface (CLI) and a Chrome Side Panel extension for convenient access.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/steipete/summarize?embed=0\">View Project</a>\n• <a href=\"https://summarize.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/082509f07702a98248bf3e3c84e77934459402584baaa35f63310bd70debe313/steipete/summarize",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 1052845083,
-        "content": "🚀 <b>Personal_AI_Infrastructure</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo serve as a foundational infrastructure for building and deploying agentic AI systems that enhance individual human productivity and capabilities, acting as a personalized digital operating system.\n<br>\n✨ <b>Key Features:</b>\n• Agentic AI Infrastructure\n• Human capability augmentation\n• Personal productivity enhancement\n• Life Operating System concept\n• TypeScript and Bun based\n<br>\n📖 <b>Summary:</b>\nPersonal AI Infrastructure (PAI) is a framework designed to augment human capabilities by providing an agentic AI system. It aims to act as a 'Life Operating System,' integrating AI to magnify personal productivity and effectiveness.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/danielmiessler/Personal_AI_Infrastructure?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1052845083/986b3f67-e6d2-4ea1-b583-896f53f5331d",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
+        "quality_score": 1.05
     }
 ]
