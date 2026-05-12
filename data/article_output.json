@@ -1,25 +1,26 @@
 {
-    "title": "PocketPaw: Your Personal AI Agent, Securely on Your Own Machine!",
-    "article": "Ever wished you could have an AI assistant that truly respected your privacy? One that didn't send your sensitive data off to some distant cloud server? Well, get ready to meet PocketPaw, a groundbreaking project that puts the power of AI directly on your desktop, giving you complete control and peace of mind.\n\nPocketPaw is an ingenious self-hosted AI agent designed to run locally on your machine. This means all your interactions, all your data, stays right where it belongs – with you. It comes with a user-friendly native desktop application, available for Windows, macOS, and Linux, which simplifies the setup process by bundling the backend installer. For those who prefer, there's also a web dashboard, offering a flexible way to manage your AI.\n\nWhat's truly exciting is how PocketPaw communicates. It's built to integrate seamlessly with your existing communication channels. You can chat with your AI agent over popular platforms like Discord, Slack, WhatsApp, and Telegram, or simply through your web browser. This multi-channel approach means your AI assistant is always accessible, wherever you prefer to work or chat. Imagine having a smart helper available directly in your team's Slack channel or your personal WhatsApp.\n\nThe core appeal for developers is the unparalleled control and privacy. Forget about recurring subscription fees or the fear of vendor lock-in. With PocketPaw, you own your AI experience. Your data never leaves your machine, eliminating concerns about data breaches or how third-party providers might use your information. This project empowers you to experiment, customize, and build upon an AI agent without the usual cloud constraints. It's an open invitation to truly innovate with AI on your terms, fostering a secure and flexible development environment. Whether you're building personal automation tools or exploring new AI applications, PocketPaw provides a robust, private foundation.",
+    "title": "Tired of Juggling AI Coding Tools? Meet CC Switch, Your New Best Friend!",
+    "article": "Have you ever found yourself bouncing between different AI coding assistants like Claude Code, Codex, or Gemini CLI, trying to find the perfect one for your current task? It can be a real headache to manage separate installations, configurations, and command-line interfaces for each. This is where CC Switch steps in as a game-changer. It's designed to be your single, unified control panel for all these powerful AI coding agents.\n\nCC Switch simplifies your workflow by providing a sleek, cross-platform desktop application. Built with Tauri, it offers a native experience on Windows, macOS, and Linux, meaning you get a fast and responsive interface. Instead of opening multiple terminals or applications, you launch CC Switch, and from there, you can easily select and interact with your preferred AI agent. Think of it like a universal remote for your AI coding tools.\n\nThe project's core purpose is to eliminate the friction associated with using diverse AI models for development. Whether you're experimenting with OpenCode, leveraging OpenClaw for specific tasks, or relying on Hermes Agent for complex operations, CC Switch brings them all under one roof. It's not just about launching them; it’s about providing a consistent environment to switch context effortlessly and harness the unique strengths of each model without the overhead of individual management.\n\nDevelopers should absolutely care about CC Switch because it directly addresses a growing pain point in the age of AI-assisted development. Imagine the time saved by not having to remember specific commands or configurations for each agent. You can quickly compare outputs from different models for the same prompt, or simply switch to the agent best suited for a particular coding challenge – be it code generation, debugging, or refactoring. This level of seamless integration empowers you to be more productive and less bogged down by tool management.\n\nUltimately, CC Switch is about making AI coding more accessible and efficient. It lowers the barrier to entry for trying out new AI tools and maximizes the utility of the ones you already use. It's a powerful utility that helps you focus on writing great code, rather than managing your AI assistants.",
     "key_takeaways": [
-        "PocketPaw is a self-hosted AI agent, ensuring your data remains private and on your machine.",
-        "It eliminates cloud lock-in and subscription fees, giving you full ownership of your AI experience.",
-        "The agent offers flexible communication channels, including native desktop app, web dashboard, Discord, Slack, WhatsApp, and Telegram.",
-        "Developers gain a secure, customizable, and versatile platform for AI experimentation and integration."
+        "Manages multiple AI coding agents (Claude Code, Codex, Gemini CLI, etc.) from one unified interface.",
+        "Streamlines developer workflow by eliminating the need to juggle separate tools and configurations.",
+        "Cross-platform desktop application built with Tauri for a native user experience.",
+        "Enables efficient comparison and utilization of different AI models for various coding tasks.",
+        "Saves time and boosts productivity by simplifying AI tool management."
     ],
     "tags": [
-        "AI Agent",
-        "Self-hosted",
-        "Privacy",
+        "AI Development",
         "Developer Tools",
-        "Local AI"
+        "Tauri",
+        "AI Agents",
+        "Productivity"
     ],
-    "stars": 808,
-    "forks": 301,
-    "open_issues": 60,
-    "languages": "Python",
-    "readme_summary": "PocketPaw is a self-hosted, open-source personal AI agent designed for quick deployment. It offers a desktop installer and a web dashboard, allowing users to interact with their AI through various platforms like Discord, Slack, and Telegram, ensuring data privacy and avoiding cloud lock-in.",
-    "project_id": 1148290190,
-    "url": "https://github.com/pocketpaw/pocketpaw",
-    "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama."
+    "stars": 67872,
+    "forks": 4344,
+    "open_issues": 661,
+    "languages": "Rust",
+    "readme_summary": "CC Switch is a cross-platform desktop application designed to manage and integrate various AI coding assistants like Claude Code, Codex, Gemini CLI, OpenCode, OpenClaw, and Hermes Agent. It serves as an all-in-one interface for interacting with these different AI models, simplifying provider management and offering WSL support.",
+    "project_id": 1031912724,
+    "url": "https://github.com/farion1231/cc-switch",
+    "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io"
 }
