@@ -1,7 +1,0 @@
-{
-    "project_id": 1231379943,
-    "content": "🌟 <b>lay-public</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCorrecting the last typed word to the correct keyboard layout (e.g., Russian/English) with a double Shift press on Linux desktops, especially GNOME Wayland.\n<br>\n✨ <b>Key Features:</b>\n• Double Shift to fix the last word typed in the wrong layout\n• Works directly in applications without clipboard use\n• Supports GNOME Wayland via a Shell extension\n• Experimental support for KDE/Plasma and X11 backends\n• CLI for terminal text conversion\n<br>\n📖 <b>Summary:</b>\nLay is a Rust-based utility for Linux desktops, primarily GNOME Wayland, that corrects typing errors caused by incorrect keyboard layouts. It allows users to fix the last typed word by double-pressing the Shift key, seamlessly switching it to the intended layout without manual copy-pasting.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/radislabus-star/lay-public?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/cd62a12e32445d7db9b290b88276d8bfca6771aacf591483d00beda8689ae42b/radislabus-star/lay-public",
-    "platform": "telegram",
-    "quality_score": 0.65
-}
