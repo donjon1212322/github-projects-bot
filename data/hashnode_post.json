@@ -1,30 +1,30 @@
 {
-    "title": "Tired of Juggling AI Coding Tools? Meet CC Switch, Your New Best Friend!",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nCC Switch is a cross-platform desktop application designed to manage and integrate various AI coding assistants like Claude Code, Codex, Gemini CLI, OpenCode, OpenClaw, and Hermes Agent. It serves as an all-in-one interface for interacting with these different AI models, simplifying provider management and offering WSL support.\n\n## 🔑 Key Takeaways\n\n- ✅ Manages multiple AI coding agents (Claude Code, Codex, Gemini CLI, etc.) from one unified interface.\n\n- ✅ Streamlines developer workflow by eliminating the need to juggle separate tools and configurations.\n\n- ✅ Cross-platform desktop application built with Tauri for a native user experience.\n\n- ✅ Enables efficient comparison and utilization of different AI models for various coding tasks.\n\n- ✅ Saves time and boosts productivity by simplifying AI tool management.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 67872\n- 🍴 Forks: 4344\n- ❗ Open Issues: 661\n\n\n## 🛠 Tech Stack\n- ✅ Rust\n\n\nHave you ever found yourself bouncing between different AI coding assistants like Claude Code, Codex, or Gemini CLI, trying to find the perfect one for your current task? It can be a real headache to manage separate installations, configurations, and command-line interfaces for each. This is where CC Switch steps in as a game-changer. It's designed to be your single, unified control panel for all these powerful AI coding agents.\n\nCC Switch simplifies your workflow by providing a sleek, cross-platform desktop application. Built with Tauri, it offers a native experience on Windows, macOS, and Linux, meaning you get a fast and responsive interface. Instead of opening multiple terminals or applications, you launch CC Switch, and from there, you can easily select and interact with your preferred AI agent. Think of it like a universal remote for your AI coding tools.\n\nThe project's core purpose is to eliminate the friction associated with using diverse AI models for development. Whether you're experimenting with OpenCode, leveraging OpenClaw for specific tasks, or relying on Hermes Agent for complex operations, CC Switch brings them all under one roof. It's not just about launching them; it’s about providing a consistent environment to switch context effortlessly and harness the unique strengths of each model without the overhead of individual management.\n\nDevelopers should absolutely care about CC Switch because it directly addresses a growing pain point in the age of AI-assisted development. Imagine the time saved by not having to remember specific commands or configurations for each agent. You can quickly compare outputs from different models for the same prompt, or simply switch to the agent best suited for a particular coding challenge – be it code generation, debugging, or refactoring. This level of seamless integration empowers you to be more productive and less bogged down by tool management.\n\nUltimately, CC Switch is about making AI coding more accessible and efficient. It lowers the barrier to entry for trying out new AI tools and maximizes the utility of the ones you already use. It's a powerful utility that helps you focus on writing great code, rather than managing your AI assistants.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/farion1231/cc-switch)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Ratty: Unleash Mind-Bending 3D Graphics in Your Terminal!",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nRatty is a GPU-accelerated terminal emulator built with Rust and Ratatui, offering traditional 2D text rendering alongside a novel 3D mode. It supports inline 3D objects and image rendering via the Kitty Graphics Protocol, providing a unique visual experience for terminal applications.\n\n## 🔑 Key Takeaways\n\n- ✅ Ratty transforms the traditional terminal into a dynamic 3D environment.\n\n- ✅ It leverages GPU rendering for smooth visuals and supports inline 3D objects and images.\n\n- ✅ Built with Rust and Ratatui, showcasing modern performance and capabilities.\n\n- ✅ Offers deep customization, including personalized 3D cursors with animations.\n\n- ✅ Reinvents the terminal experience, making it more engaging and visually rich for developers.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 1424\n- 🍴 Forks: 32\n- ❗ Open Issues: 18\n\n\n## 🛠 Tech Stack\n- ✅ Rust\n\n\nEver felt like your terminal was a bit... flat? Most of us spend countless hours in command-line interfaces, and while they're incredibly powerful, they often lack a certain visual flair. Well, get ready for a mind-bending shift because Ratty is here to revolutionize your terminal experience by bringing stunning 3D graphics directly into your workspace. This isn't just a gimmick; it's a completely new way to interact with your command line, making it more engaging and visually dynamic.Imagine your everyday terminal transforming from a static 2D grid into a vibrant, three-dimensional space. That's exactly what Ratty offers. At its core, Ratty is a GPU-rendered terminal emulator, which means it leverages your graphics card for incredibly smooth and efficient visuals. Built with Rust and powered by the fantastic Ratatui library, it offers both a traditional 2D mode and an astonishing 3D mode. You can hit a simple key combination, and suddenly your terminal screen warps into a three-dimensional plane, revealing a hidden depth behind your text. You can even embed inline 3D objects right alongside your commands, transforming your terminal into an interactive canvas.Beyond the eye-catching 3D capabilities, Ratty also supports image rendering, bringing a richer visual experience to your command line. Developers should absolutely care about this project because it pushes the boundaries of what a terminal can be. It offers a fresh perspective on productivity tools, providing a highly customizable environment. You can even personalize your cursor with custom 3D models, complete with animations, making your terminal truly unique. This level of visual customization and immersion can make long coding sessions more engaging and less monotonous. It's a fantastic example of Rust's power in building high-performance, graphically rich applications, and it opens up new possibilities for how we perceive and interact with our development environments. Dive in and experience the future of the terminal!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/orhun/ratty)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "ai development",
-            "slug": "ai-development"
+            "name": "terminalemulator",
+            "slug": "terminalemulator"
         },
         {
-            "name": "developer tools",
-            "slug": "developer-tools"
+            "name": "rust",
+            "slug": "rust"
         },
         {
-            "name": "tauri",
-            "slug": "tauri"
+            "name": "gpu",
+            "slug": "gpu"
         },
         {
-            "name": "ai agents",
-            "slug": "ai-agents"
+            "name": "3dgraphics",
+            "slug": "3dgraphics"
         },
         {
-            "name": "productivity",
-            "slug": "productivity"
+            "name": "developertools",
+            "slug": "developertools"
         }
     ],
-    "slug": "tired-of-juggling-ai-coding-tools-meet-cc-switch-your-new-best-friend",
-    "project_id": 1031912724,
+    "slug": "ratty-unleash-mind-bending-3d-graphics-in-your-terminal",
+    "project_id": 1216390615,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
