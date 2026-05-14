@@ -1,26 +1,26 @@
 {
-    "title": "Ratty: Unleash Mind-Bending 3D Graphics in Your Terminal!",
-    "article": "Ever felt like your terminal was a bit... flat? Most of us spend countless hours in command-line interfaces, and while they're incredibly powerful, they often lack a certain visual flair. Well, get ready for a mind-bending shift because Ratty is here to revolutionize your terminal experience by bringing stunning 3D graphics directly into your workspace. This isn't just a gimmick; it's a completely new way to interact with your command line, making it more engaging and visually dynamic.Imagine your everyday terminal transforming from a static 2D grid into a vibrant, three-dimensional space. That's exactly what Ratty offers. At its core, Ratty is a GPU-rendered terminal emulator, which means it leverages your graphics card for incredibly smooth and efficient visuals. Built with Rust and powered by the fantastic Ratatui library, it offers both a traditional 2D mode and an astonishing 3D mode. You can hit a simple key combination, and suddenly your terminal screen warps into a three-dimensional plane, revealing a hidden depth behind your text. You can even embed inline 3D objects right alongside your commands, transforming your terminal into an interactive canvas.Beyond the eye-catching 3D capabilities, Ratty also supports image rendering, bringing a richer visual experience to your command line. Developers should absolutely care about this project because it pushes the boundaries of what a terminal can be. It offers a fresh perspective on productivity tools, providing a highly customizable environment. You can even personalize your cursor with custom 3D models, complete with animations, making your terminal truly unique. This level of visual customization and immersion can make long coding sessions more engaging and less monotonous. It's a fantastic example of Rust's power in building high-performance, graphically rich applications, and it opens up new possibilities for how we perceive and interact with our development environments. Dive in and experience the future of the terminal!",
+    "title": "CloakBrowser: The Ultimate Stealth Chromium for Undetectable Automation",
+    "article": "Ever felt the frustration of your web automation scripts getting blocked by sophisticated anti-bot systems? Whether it's Cloudflare, reCAPTCHA, or FingerprintJS, these defenses are constantly evolving, making tasks like data scraping, testing, or monitoring a real headache. Well, what if I told you there's a game-changer that lets your automated browsers sail through these checks undetected? Meet CloakBrowser, a stealth Chromium build designed to look and act just like a normal human-operated browser.\n\nThis isn't just a simple configuration tweak or a JavaScript injection. CloakBrowser goes deep, modifying the Chromium binary at the C++ source level. We're talking about 49 intricate patches that adjust fingerprints related to canvas, WebGL, audio, fonts, GPU, screen, WebRTC, network timing, and even automation signals. This means antibot systems score it as a legitimate browser because, under the hood, it *is* a legitimate browser, just with its automation tells expertly masked. Plus, with the `humanize=True` flag, you get incredibly realistic mouse curves, keyboard timing, and scroll patterns, making behavioral detection a thing of the past.\n\nThe best part? Integrating CloakBrowser into your existing projects is incredibly simple. If you're already using Playwright or Puppeteer, you're in luck! CloakBrowser is designed as a drop-in replacement. You literally just swap the import statement, and you're good to go. This means you can get unblocked in as little as three lines of code and about 30 seconds. No complex rewrites, no steep learning curve – just seamless transition to an undetectable browser. It's available via `pip install cloakbrowser` for Python and `npm install cloakbrowser` for JavaScript/Node.js, with the stealth Chromium binary automatically downloading on first run.\n\nImagine the possibilities: reliable data collection, robust end-to-end testing, and smoother monitoring without constant IP bans or CAPTCHA challenges. CloakBrowser has been rigorously tested against over 30 detection sites, consistently passing Cloudflare Turnstile, achieving a human-level 0.9 reCAPTCHA v3 score, and bypassing FingerprintJS. It even features an auto-updating binary, so you're always running the latest stealth build. And to top it all off, it's completely free and open source, meaning no subscriptions or usage limits to worry about. This project truly empowers developers to overcome the most challenging web automation hurdles.",
     "key_takeaways": [
-        "Ratty transforms the traditional terminal into a dynamic 3D environment.",
-        "It leverages GPU rendering for smooth visuals and supports inline 3D objects and images.",
-        "Built with Rust and Ratatui, showcasing modern performance and capabilities.",
-        "Offers deep customization, including personalized 3D cursors with animations.",
-        "Reinvents the terminal experience, making it more engaging and visually rich for developers."
+        "CloakBrowser offers true stealth browsing by modifying Chromium at the C++ source level, bypassing advanced bot detection.",
+        "It's a seamless, drop-in replacement for Playwright and Puppeteer, requiring minimal code changes to integrate.",
+        "The project effectively defeats major anti-bot systems like Cloudflare Turnstile, reCAPTCHA v3 (0.9 score), and FingerprintJS.",
+        "Features like `humanize=True` provide realistic mouse, keyboard, and scroll patterns, enhancing undetectability.",
+        "It's free, open-source, easy to install, and includes an auto-updating binary for continuous stealth."
     ],
     "tags": [
-        "TerminalEmulator",
-        "Rust",
-        "GPU",
-        "3DGraphics",
-        "DeveloperTools"
+        "Web Scraping",
+        "Browser Automation",
+        "Anti-Bot",
+        "Playwright",
+        "Puppeteer"
     ],
-    "stars": 1424,
-    "forks": 32,
-    "open_issues": 18,
-    "languages": "Rust",
-    "readme_summary": "Ratty is a GPU-accelerated terminal emulator built with Rust and Ratatui, offering traditional 2D text rendering alongside a novel 3D mode. It supports inline 3D objects and image rendering via the Kitty Graphics Protocol, providing a unique visual experience for terminal applications.",
-    "project_id": 1216390615,
-    "url": "https://github.com/orhun/ratty",
-    "description": "A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀 "
+    "stars": 9957,
+    "forks": 748,
+    "open_issues": 48,
+    "languages": "Python",
+    "readme_summary": "CloakBrowser is a stealth-focused Chromium browser designed to bypass bot detection systems. It functions as a drop-in replacement for Playwright and Puppeteer, offering a real Chromium binary with source-level fingerprint patches to appear as a legitimate user browser.",
+    "project_id": 1163834030,
+    "url": "https://github.com/CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
 }
