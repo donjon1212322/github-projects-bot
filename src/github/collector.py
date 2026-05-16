@@ -14,6 +14,7 @@ import requests
 import random
 from google import genai
 from google.genai import types
+import time
 
 load_dotenv()
 
@@ -34,6 +35,24 @@ logging.info("Модель Gemini успешно инициализирован�
 
 # ✅ Актуальная стабильная модель (GA)
 GEMINI_MODEL = "gemini-2.5-flash-lite"
+
+# Лимит: 5 запросов в минуту → минимальный интервал между запросами
+GEMINI_RPM_LIMIT = 5
+GEMINI_MIN_INTERVAL = 60.0 / GEMINI_RPM_LIMIT  # 12 секунд между запросами
+_last_gemini_call_time = 0.0
+
+
+def _wait_for_gemini_rate_limit():
+    """
+    Блокирующее ожидание, чтобы не превысить лимит 5 запросов в минуту.
+    """
+    global _last_gemini_call_time
+    elapsed = time.time() - _last_gemini_call_time
+    wait_time = GEMINI_MIN_INTERVAL - elapsed
+    if wait_time > 0:
+        logging.info(f"Rate limit: ожидаем {wait_time:.1f}с перед запросом к Gemini...")
+        time.sleep(wait_time)
+    _last_gemini_call_time = time.time()
 
 
 async def fetch_telegram_posts(api_id, api_hash, channel_username, session_string):
@@ -191,123 +210,150 @@ async def extract_media_urls(repo):
 
 
 async def generate_summary(repo, readme):
-    try:
-        prompt = (
-            "Analyze the following GitHub repository README and provide a structured response "
-            "focusing only on relevant technical information.\n\n"
-            f"Repository: {repo.name}\n"
-            f"Description: {repo.description}\n"
-            f"Language: {repo.language}\n"
-            f"Topics: {', '.join(repo.get_topics()) if repo.get_topics() else 'None'}\n\n"
-            f"README content:\n{readme[:4000]}\n\n"
+    """
+    Генерирует краткое описание проекта через Gemini.
+    При ошибках 503/429 (rate limit / перегрузка) делает retry с экспоненциальной задержкой.
+    """
+    prompt = (
+        "Analyze the following GitHub repository README and provide a structured response "
+        "focusing only on relevant technical information.\n\n"
+        f"Repository: {repo.name}\n"
+        f"Description: {repo.description}\n"
+        f"Language: {repo.language}\n"
+        f"Topics: {', '.join(repo.get_topics()) if repo.get_topics() else 'None'}\n\n"
+        f"README content:\n{readme[:4000]}\n\n"
 
-            "CRITICAL INSTRUCTION FOR LEONARDO.AI IMAGE PROMPT CREATION:\n\n"
+        "CRITICAL INSTRUCTION FOR LEONARDO.AI IMAGE PROMPT CREATION:\n\n"
 
-            "You are tasked with creating a prompt for Leonardo.AI that will generate a CONCEPTUAL ILLUSTRATION "
-            "that clearly shows what this repository does in a SINGLE, CLEAR VISUAL METAPHOR.\n\n"
+        "You are tasked with creating a prompt for Leonardo.AI that will generate a CONCEPTUAL ILLUSTRATION "
+        "that clearly shows what this repository does in a SINGLE, CLEAR VISUAL METAPHOR.\n\n"
 
-            "DO NOT create a technical diagram, code screen, or abstract tech visualization. "
-            "Instead, create a prompt for a CONCEPTUAL ILLUSTRATION that shows what the repository does "
-            "through a clear, intuitive visual metaphor that anyone could understand.\n\n"
+        "DO NOT create a technical diagram, code screen, or abstract tech visualization. "
+        "Instead, create a prompt for a CONCEPTUAL ILLUSTRATION that shows what the repository does "
+        "through a clear, intuitive visual metaphor that anyone could understand.\n\n"
 
-            "Follow these steps:\n\n"
+        "Follow these steps:\n\n"
 
-            "1. IDENTIFY THE CORE PURPOSE: What is the single most important thing this repository does? "
-            "Example: 'This repository helps developers test their APIs' or 'This repository converts PDFs to text'\n\n"
+        "1. IDENTIFY THE CORE PURPOSE: What is the single most important thing this repository does? "
+        "Example: 'This repository helps developers test their APIs' or 'This repository converts PDFs to text'\n\n"
 
-            "2. CREATE A VISUAL METAPHOR: Think of a clear, intuitive visual metaphor that represents this function. "
-            "Example: For an API testing tool, the metaphor could be 'a scientist in a lab testing different chemicals' "
-            "or for a PDF converter, 'a translator reading a book and writing down notes'\n\n"
+        "2. CREATE A VISUAL METAPHOR: Think of a clear, intuitive visual metaphor that represents this function. "
+        "Example: For an API testing tool, the metaphor could be 'a scientist in a lab testing different chemicals' "
+        "or for a PDF converter, 'a translator reading a book and writing down notes'\n\n"
 
-            "3. DESCRIBE A SINGLE SCENE: Describe a single, clear scene that shows this metaphor in action. Focus on:\n"
-            "   - A main character or object performing the core function\n"
-            "   - Clear visual indicators of the input and output\n"
-            "   - Simple, intuitive visual elements that anyone can understand\n"
-            "   - A clean, focused composition with minimal distractions\n\n"
+        "3. DESCRIBE A SINGLE SCENE: Describe a single, clear scene that shows this metaphor in action. Focus on:\n"
+        "   - A main character or object performing the core function\n"
+        "   - Clear visual indicators of the input and output\n"
+        "   - Simple, intuitive visual elements that anyone can understand\n"
+        "   - A clean, focused composition with minimal distractions\n\n"
 
-            "4. ADD SUBTLE TECH ELEMENTS: Add subtle tech elements that connect the metaphor to software, such as:\n"
-            "   - Small UI elements or screens showing the actual function\n"
-            "   - Digital particles or glowing elements\n"
-            "   - Small code snippets or data visualizations as secondary elements\n"
-            "   - The repository name subtly incorporated into the scene\n\n"
+        "4. ADD SUBTLE TECH ELEMENTS: Add subtle tech elements that connect the metaphor to software, such as:\n"
+        "   - Small UI elements or screens showing the actual function\n"
+        "   - Digital particles or glowing elements\n"
+        "   - Small code snippets or data visualizations as secondary elements\n"
+        "   - The repository name subtly incorporated into the scene\n\n"
 
-            "5. SPECIFY ARTISTIC STYLE: Request a specific artistic style that enhances understanding, such as:\n"
-            "   - 3D isometric illustration\n"
-            "   - Flat design with clear iconography\n"
-            "   - Digital painting with clear outlines\n"
-            "   - Technical illustration with labeled parts\n\n"
+        "5. SPECIFY ARTISTIC STYLE: Request a specific artistic style that enhances understanding, such as:\n"
+        "   - 3D isometric illustration\n"
+        "   - Flat design with clear iconography\n"
+        "   - Digital painting with clear outlines\n"
+        "   - Technical illustration with labeled parts\n\n"
 
-            "EXAMPLE PROMPT STRUCTURE:\n"
-            "\"A [SPECIFIC CHARACTER/OBJECT] [PERFORMING THE CORE FUNCTION] with [INPUT] and transforming it into [OUTPUT]. "
-            "The scene shows [VISUAL METAPHOR DETAILS] in a [SETTING] with [LIGHTING/MOOD]. Small digital elements like "
-            "[TECH ELEMENT 1] and [TECH ELEMENT 2] subtly connect the metaphor to software. The composition is [COMPOSITION DETAILS] "
-            "with [COLOR SCHEME]. The image should be in [ARTISTIC STYLE] style with [QUALITY DETAILS].\"\n\n"
+        "EXAMPLE PROMPT STRUCTURE:\n"
+        "\"A [SPECIFIC CHARACTER/OBJECT] [PERFORMING THE CORE FUNCTION] with [INPUT] and transforming it into [OUTPUT]. "
+        "The scene shows [VISUAL METAPHOR DETAILS] in a [SETTING] with [LIGHTING/MOOD]. Small digital elements like "
+        "[TECH ELEMENT 1] and [TECH ELEMENT 2] subtly connect the metaphor to software. The composition is [COMPOSITION DETAILS] "
+        "with [COLOR SCHEME]. The image should be in [ARTISTIC STYLE] style with [QUALITY DETAILS].\"\n\n"
 
-            "EXAMPLES OF GOOD PROMPTS:\n"
-            "- For a data visualization library: \"A wizard standing before a blank canvas, transforming scrolls of numbers into "
-            "vibrant, floating charts and graphs. The wizard's wand emits particles of data that flow onto the canvas, creating "
-            "beautiful visualizations. Small screens around the scene show actual code and the resulting charts. The scene is set "
-            "in a modern study with warm lighting. The image should be in 3D isometric illustration style with rich details and vibrant colors.\"\n\n"
+        "EXAMPLES OF GOOD PROMPTS:\n"
+        "- For a data visualization library: \"A wizard standing before a blank canvas, transforming scrolls of numbers into "
+        "vibrant, floating charts and graphs. The wizard's wand emits particles of data that flow onto the canvas, creating "
+        "beautiful visualizations. Small screens around the scene show actual code and the resulting charts. The scene is set "
+        "in a modern study with warm lighting. The image should be in 3D isometric illustration style with rich details and vibrant colors.\"\n\n"
 
-            "- For a security scanning tool: \"A vigilant guardian with a glowing shield inspecting packages before they enter a "
-            "futuristic city gate. The guardian uses a special lens to see inside each package, revealing hidden threats that glow red. "
-            "Successfully scanned packages emit a green aura as they pass through. Small monitors around the gate show scanning logs "
-            "and security metrics. The scene has a blue and purple color scheme with dramatic lighting. The image should be in digital "
-            "painting style with clean lines and clear details.\"\n\n"
+        "- For a security scanning tool: \"A vigilant guardian with a glowing shield inspecting packages before they enter a "
+        "futuristic city gate. The guardian uses a special lens to see inside each package, revealing hidden threats that glow red. "
+        "Successfully scanned packages emit a green aura as they pass through. Small monitors around the gate show scanning logs "
+        "and security metrics. The scene has a blue and purple color scheme with dramatic lighting. The image should be in digital "
+        "painting style with clean lines and clear details.\"\n\n"
 
-            "The Leonardo.AI prompt should be 100-150 words, focused on creating a SINGLE, CLEAR VISUAL METAPHOR "
-            "that immediately communicates what the repository does to anyone who sees it."
-        )
+        "The Leonardo.AI prompt should be 100-150 words, focused on creating a SINGLE, CLEAR VISUAL METAPHOR "
+        "that immediately communicates what the repository does to anyone who sees it."
+    )
 
-        # ✅ ФИКС: используем актуальную стабильную модель gemini-2.5-flash-lite
-        response = client_gemini.models.generate_content(
-            model=GEMINI_MODEL,
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                temperature=0.3,
-                top_p=0.8,
-                top_k=40,
-                response_mime_type="application/json",
-                response_schema={
-                    "type": "object",
-                    "properties": {
-                        "summary": {
-                            "type": "string",
-                            "description": "A 2-3 sentence summary of the repository's main features and use cases"
-                        },
-                        "key_features": {
-                            "type": "array",
-                            "items": {
-                                "type": "string"
-                            },
-                            "description": "List of main features mentioned in README"
-                        },
-                        "primary_use_case": {
-                            "type": "string",
-                            "description": "The primary intended use case of the repository"
-                        },
-                        "cover_image_prompt": {
-                            "type": "string",
-                            "description": "A 100-150 word prompt for Leonardo.AI that will generate a conceptual illustration showing what the repository does through a clear visual metaphor"
-                        }
-                    },
-                    "required": ["summary", "key_features", "primary_use_case", "cover_image_prompt"]
-                }
-            )
-        )
+    # Retry с экспоненциальной задержкой при 503/429
+    max_retries = 3
+    retry_delays = [30, 60, 120]  # секунды между попытками
 
-        logging.info(f"Gemini raw response: {response.text}")
-
+    for attempt in range(max_retries):
         try:
-            response_data = json.loads(response.text)
-            return response_data
-        except json.JSONDecodeError as e:
-            logging.error(f"Failed to parse JSON response: {e}")
-            return None
+            # Соблюдаем rate limit 5 RPM
+            _wait_for_gemini_rate_limit()
 
-    except Exception as e:
-        logging.warning(f"Couldn't process README: {str(e)}")
-        return None
+            response = client_gemini.models.generate_content(
+                model=GEMINI_MODEL,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    temperature=0.3,
+                    top_p=0.8,
+                    top_k=40,
+                    response_mime_type="application/json",
+                    response_schema={
+                        "type": "object",
+                        "properties": {
+                            "summary": {
+                                "type": "string",
+                                "description": "A 2-3 sentence summary of the repository's main features and use cases"
+                            },
+                            "key_features": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                },
+                                "description": "List of main features mentioned in README"
+                            },
+                            "primary_use_case": {
+                                "type": "string",
+                                "description": "The primary intended use case of the repository"
+                            },
+                            "cover_image_prompt": {
+                                "type": "string",
+                                "description": "A 100-150 word prompt for Leonardo.AI that will generate a conceptual illustration showing what the repository does through a clear visual metaphor"
+                            }
+                        },
+                        "required": ["summary", "key_features", "primary_use_case", "cover_image_prompt"]
+                    }
+                )
+            )
+
+            logging.info(f"Gemini raw response: {response.text}")
+
+            try:
+                response_data = json.loads(response.text)
+                return response_data
+            except json.JSONDecodeError as e:
+                logging.error(f"Failed to parse JSON response: {e}")
+                return None
+
+        except Exception as e:
+            error_str = str(e)
+            # Проверяем, является ли ошибка временной (503, 429, rate limit)
+            is_retryable = any(code in error_str for code in ["503", "429", "UNAVAILABLE", "RESOURCE_EXHAUSTED"])
+
+            if is_retryable and attempt < max_retries - 1:
+                delay = retry_delays[attempt]
+                logging.warning(
+                    f"Gemini временно недоступен для {repo.name} (попытка {attempt + 1}/{max_retries}): {e}. "
+                    f"Повторяем через {delay}с..."
+                )
+                time.sleep(delay)
+                continue
+            else:
+                logging.warning(f"Couldn't process README: {str(e)}")
+                return None
+
+    logging.warning(f"Все {max_retries} попытки исчерпаны для {repo.name}. Пропускаем.")
+    return None
 
 
 async def main():
