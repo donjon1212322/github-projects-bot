@@ -2,19 +2,18 @@ import asyncio
 import aiohttp
 import json
 from datetime import datetime, timedelta, timezone
-from github import Github
+from github import Github, GithubException
 import os
 from dotenv import load_dotenv
 import re
 import logging
 import urllib.parse
-from telethon import TelegramClient, events, sync
+from telethon import TelegramClient
 from telethon.sessions import StringSession
-from telethon.tl.functions.messages import GetHistoryRequest
-from telethon.tl.types import PeerChannel
 import requests
 import random
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 load_dotenv()
 
@@ -29,9 +28,10 @@ TELEGRAM_CHANNEL_USERNAME = os.getenv("TELEGRAM_CHANNEL_USERNAME")
 TELEGRAM_CHANNEL_USERNAME_2 = os.getenv("TELEGRAM_CHANNEL_USERNAME_2")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-# Initialize Gemini model
-genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel("gemini-2.5-flash-lite")
+# Initialize Gemini client (новый пакет google-genai)
+client_gemini = genai.Client(api_key=GEMINI_API_KEY)
+logging.info("Модель Gemini успешно инициализирована")
+
 
 async def fetch_telegram_posts(api_id, api_hash, channel_username, session_string):
     try:
@@ -57,8 +57,9 @@ async def fetch_telegram_posts(api_id, api_hash, channel_username, session_strin
             elif message.date and message.date <= last_day:
                 logging.info(f"Достигнут предел в 24 часов на сообщении от {message.date}")
                 break
+            # Лимит 3 сообщения (> 2 означает больше 2, т.е. 3+)
             if len(messages) > 2:
-                logging.info("Достигнут лимит в 10 сообщений, прекращаем получение")
+                logging.info("Достигнут лимит в 3 сообщения, прекращаем получение")
                 break
 
         await client.disconnect()
@@ -66,6 +67,7 @@ async def fetch_telegram_posts(api_id, api_hash, channel_username, session_strin
     except Exception as e:
         logging.error(f"Error fetching Telegram posts with Telethon: {e}")
         return []
+
 
 async def fetch_github_data(session, query):
     url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=1"
@@ -80,6 +82,7 @@ async def fetch_github_data(session, query):
             logging.error(f"Response text: {await response.text()}")
             raise
 
+
 async def fetch_github_graphql(session, query):
     url = "https://api.github.com/graphql"
     headers = {"Authorization": f"token {GH_API_TOKEN}"}
@@ -93,40 +96,70 @@ async def fetch_github_graphql(session, query):
             logging.error(f"Response text: {await response.text()}")
             raise
 
+
 def analyze_project(repo):
+    """
+    Анализирует репозиторий и возвращает score.
+    Все обращения к GitHub API обёрнуты в try/except,
+    чтобы отсутствие README или других данных не роняло пайплайн.
+    """
     score = 0
+
     if repo.description and len(repo.description) > 100:
         score += 0.15
-    if repo.get_readme():
-        score += 0.15
-    if repo.get_issues(state='open').totalCount > 0:
-        score += 0.1
-    if repo.get_pulls(state='open').totalCount > 0:
-        score += 0.1
-    if repo.get_contributors().totalCount > 1:
-        score += 0.2
 
-    last_commit_date = repo.get_commits().get_page(0)[0].commit.author.date if repo.get_commits().totalCount > 0 else None
-    if last_commit_date:
-        days_since_last_commit = (datetime.now(timezone.utc) - last_commit_date).days
-        if days_since_last_commit < 30:
-            score += 0.3
-        elif days_since_last_commit < 90:
-            score += 0.15
+    # ✅ ФИКС: get_readme() без обработки ошибки роняло весь пайплайн
+    try:
+        repo.get_readme()
+        score += 0.15
+    except GithubException:
+        logging.warning(f"README не найден для репозитория {repo.full_name} при анализе — пропускаем.")
+
+    try:
+        if repo.get_issues(state='open').totalCount > 0:
+            score += 0.1
+    except GithubException as e:
+        logging.warning(f"Не удалось получить issues для {repo.full_name}: {e}")
+
+    try:
+        if repo.get_pulls(state='open').totalCount > 0:
+            score += 0.1
+    except GithubException as e:
+        logging.warning(f"Не удалось получить pull requests для {repo.full_name}: {e}")
+
+    try:
+        if repo.get_contributors().totalCount > 1:
+            score += 0.2
+    except GithubException as e:
+        logging.warning(f"Не удалось получить contributors для {repo.full_name}: {e}")
+
+    try:
+        commits = repo.get_commits()
+        if commits.totalCount > 0:
+            last_commit_date = commits.get_page(0)[0].commit.author.date
+            if last_commit_date:
+                days_since_last_commit = (datetime.now(timezone.utc) - last_commit_date).days
+                if days_since_last_commit < 30:
+                    score += 0.3
+                elif days_since_last_commit < 90:
+                    score += 0.15
+    except GithubException as e:
+        logging.warning(f"Не удалось получить commits для {repo.full_name}: {e}")
 
     try:
         if repo.get_contents("tests"):
             score += 0.1
-    except:
+    except Exception:
         pass
 
     try:
         if repo.get_contents(".github/workflows"):
             score += 0.1
-    except:
+    except Exception:
         pass
 
     return score
+
 
 async def extract_media_urls(repo):
     try:
@@ -152,6 +185,7 @@ async def extract_media_urls(repo):
     except Exception as e:
         logging.error(f"Error extracting media URLs: {e}")
         return [], None
+
 
 async def generate_summary(repo, readme):
     try:
@@ -222,9 +256,11 @@ async def generate_summary(repo, readme):
             "that immediately communicates what the repository does to anyone who sees it."
         )
 
-        response = model.generate_content(
-            prompt,
-            generation_config=genai.GenerationConfig(
+        # ✅ ФИКС: используем новый пакет google-genai
+        response = client_gemini.models.generate_content(
+            model="gemini-2.5-flash-lite-preview-06-17",
+            contents=prompt,
+            config=types.GenerateContentConfig(
                 temperature=0.3,
                 top_p=0.8,
                 top_k=40,
@@ -272,8 +308,12 @@ async def generate_summary(repo, readme):
 
 
 async def main():
-    telegram_posts = await fetch_telegram_posts(TELEGRAM_API_ID, TELEGRAM_API_HASH, TELEGRAM_CHANNEL_USERNAME, TELEGRAM_SESSION_STRING)
-    telegram_posts_2 = await fetch_telegram_posts(TELEGRAM_API_ID, TELEGRAM_API_HASH, TELEGRAM_CHANNEL_USERNAME_2, TELEGRAM_SESSION_STRING)
+    telegram_posts = await fetch_telegram_posts(
+        TELEGRAM_API_ID, TELEGRAM_API_HASH, TELEGRAM_CHANNEL_USERNAME, TELEGRAM_SESSION_STRING
+    )
+    telegram_posts_2 = await fetch_telegram_posts(
+        TELEGRAM_API_ID, TELEGRAM_API_HASH, TELEGRAM_CHANNEL_USERNAME_2, TELEGRAM_SESSION_STRING
+    )
 
     github_links = []
     for post in telegram_posts:
@@ -372,11 +412,21 @@ async def main():
 
                         media_urls, homepage_url = await extract_media_urls(repo)
 
-                        readme = repo.get_readme().decoded_content.decode()
+                        # ✅ ФИКС: get_readme() с обработкой GithubException
+                        # Если README нет — пропускаем репозиторий без остановки пайплайна
+                        try:
+                            readme_content = repo.get_readme()
+                            readme = readme_content.decoded_content.decode()
+                        except GithubException as e:
+                            logging.warning(
+                                f"README не найден для {repo_name} (ветка по умолчанию). "
+                                f"Репозиторий пропущен. Ошибка: {e}"
+                            )
+                            continue
+
                         summary_data = await generate_summary(repo, readme)
 
-                        # ✅ ФИКС: если Gemini упал и вернул None — пропускаем проект,
-                        # пустой пост не будет создан и опубликован
+                        # Если Gemini упал и вернул None — пропускаем проект
                         if summary_data is None:
                             logging.warning(
                                 f"Gemini вернул None для {repo_name} — пропускаем проект, пост не будет опубликован."
@@ -414,6 +464,7 @@ async def main():
             json.dump(projects, f, indent=4, ensure_ascii=False, default=str)
 
         print("Data collected and saved to data/projects.json")
+
 
 if __name__ == "__main__":
     asyncio.run(main())
