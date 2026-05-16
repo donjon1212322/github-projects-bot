@@ -5,7 +5,8 @@ import os
 import logging
 import sys
 from dotenv import load_dotenv
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -22,10 +23,9 @@ if not GH_API_TOKEN or not GEMINI_API_KEY:
     logging.error("Необходимо установить переменные окружения GH_API_TOKEN и GEMINI_API_KEY")
     sys.exit(1)
 
-# Настройка модели Gemini
+# Настройка клиента Gemini (новый пакет google-genai)
 try:
-    genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel("gemini-2.5-flash")
+    client_gemini = genai.Client(api_key=GEMINI_API_KEY)
     logging.info("Модель Gemini успешно инициализирована")
 except Exception as e:
     logging.error(f"Ошибка инициализации модели Gemini: {e}")
@@ -91,7 +91,7 @@ async def get_best_repository():
         logging.error(f"Ошибка при чтении JSON из файла {PROJECTS_FILE}: {e}")
         return None
 
-    # ✅ ФИКС: если projects.json пустой — нет смысла продолжать
+    # Если projects.json пустой — нет смысла продолжать
     if not projects:
         logging.warning("Файл projects.json пуст — Gemini не сгенерировал данные ни для одного проекта. Публикация отменена.")
         return None
@@ -171,9 +171,11 @@ async def generate_article_from_readme(readme_content):
     )
 
     try:
-        response = model.generate_content(
-            prompt,
-            generation_config=genai.GenerationConfig(
+        # Используем новый пакет google-genai
+        response = client_gemini.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+            config=types.GenerateContentConfig(
                 temperature=0.7,
                 top_p=0.9,
                 top_k=50,
@@ -228,7 +230,7 @@ async def main():
     async with aiohttp.ClientSession() as session:
         best_repo = await get_best_repository()
 
-        # ✅ ФИКС: нет репозитория — завершаем с exit(1),
+        # Нет репозитория — завершаем с exit(1),
         # GitHub Actions остановит все последующие шаги пайплайна
         if not best_repo:
             logging.warning("Не удалось найти подходящий репозиторий. Публикация отменена. Останавливаем пайплайн.")
@@ -239,14 +241,14 @@ async def main():
 
         readme_content = await get_readme_content(session, owner, repo)
 
-        # ✅ ФИКС: нет README — завершаем с exit(1)
+        # Нет README — завершаем с exit(1)
         if not readme_content:
             logging.warning(f"Не удалось получить README для {owner}/{repo}. Публикация отменена. Останавливаем пайплайн.")
             sys.exit(1)
 
         article_data = await generate_article_from_readme(readme_content)
 
-        # ✅ ФИКС: Gemini вернул None — завершаем с exit(1)
+        # Gemini вернул None — завершаем с exit(1)
         if not article_data:
             logging.warning("Gemini не смог сгенерировать статью (вернул None). Публикация отменена. Останавливаем пайплайн.")
             sys.exit(1)
