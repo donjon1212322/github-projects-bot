@@ -1,7 +1,8 @@
 name: Publish Post
+
 on:
   schedule:
-    - cron: '0 */6 * * *' # Каждые 2 часа
+    - cron: '0 */6 * * *' # Каждые 6 часов
   workflow_dispatch:
 
 jobs:
@@ -9,13 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
+
       - name: Install dependencies
         run: pip install -r requirements.txt
+
       - name: Publish next post
         run: python src/bot/publish_next.py
         env:
@@ -25,6 +29,7 @@ jobs:
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           ADDITIONAL_CHANNELS: ${{ secrets.ADDITIONAL_CHANNELS }}
           CHANNEL_NAMES: ${{ secrets.CHANNEL_NAMES }}
+
       - name: Commit and push if there are changes
         run: |
           git config --local user.email "action@github.com"
