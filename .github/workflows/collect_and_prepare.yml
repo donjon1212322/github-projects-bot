@@ -1,5 +1,3 @@
-name: Collect and Prepare Posts
-
 on:
   schedule:
     - cron: '0 5 * * *' # 6:00 AM New York time (10:00 UTC)
@@ -10,12 +8,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
 
       - name: Install dependencies
         run: pip install -r requirements.txt
