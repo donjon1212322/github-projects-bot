@@ -31,6 +31,10 @@ except Exception as e:
     logging.error(f"Ошибка инициализации модели Gemini: {e}")
     sys.exit(1)
 
+# ✅ Актуальные стабильные модели (GA)
+GEMINI_MODEL_ARTICLE = "gemini-2.5-flash"       # для генерации статей
+GEMINI_MODEL_LITE = "gemini-2.5-flash-lite"     # для быстрых/лёгких задач
+
 # Константы
 PROJECTS_FILE = "data/projects.json"
 PUBLISHED_POSTS_DEV_FILE = "data/published_posts_dev.json"
@@ -171,9 +175,9 @@ async def generate_article_from_readme(readme_content):
     )
 
     try:
-        # Используем новый пакет google-genai
+        # ✅ Используем актуальную стабильную модель gemini-2.5-flash
         response = client_gemini.models.generate_content(
-            model="gemini-2.5-flash",
+            model=GEMINI_MODEL_ARTICLE,
             contents=prompt,
             config=types.GenerateContentConfig(
                 temperature=0.7,
