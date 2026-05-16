@@ -32,6 +32,9 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 client_gemini = genai.Client(api_key=GEMINI_API_KEY)
 logging.info("Модель Gemini успешно инициализирована")
 
+# ✅ Актуальная стабильная модель (GA)
+GEMINI_MODEL = "gemini-2.5-flash-lite"
+
 
 async def fetch_telegram_posts(api_id, api_hash, channel_username, session_string):
     try:
@@ -256,9 +259,9 @@ async def generate_summary(repo, readme):
             "that immediately communicates what the repository does to anyone who sees it."
         )
 
-        # ✅ ФИКС: используем новый пакет google-genai
+        # ✅ ФИКС: используем актуальную стабильную модель gemini-2.5-flash-lite
         response = client_gemini.models.generate_content(
-            model="gemini-2.5-flash-lite-preview-06-17",
+            model=GEMINI_MODEL,
             contents=prompt,
             config=types.GenerateContentConfig(
                 temperature=0.3,
