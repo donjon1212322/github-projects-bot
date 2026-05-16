@@ -4,6 +4,7 @@ import json
 import os
 import logging
 import sys
+import time
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
@@ -41,7 +42,24 @@ PUBLISHED_POSTS_DEV_FILE = "data/published_posts_dev.json"
 PUBLISHED_POSTS_HASHNODE_FILE = "data/published_posts_hashnode.json"
 ARTICLE_OUTPUT_FILE = "data/article_output.json"
 README_CHAR_LIMIT = 4000
-DEFAULT_BRANCHES = ["main", "master"]
+
+# Лимит: 5 запросов в минуту → минимальный интервал между запросами
+GEMINI_RPM_LIMIT = 5
+GEMINI_MIN_INTERVAL = 60.0 / GEMINI_RPM_LIMIT  # 12 секунд между запросами
+_last_gemini_call_time = 0.0
+
+
+def _wait_for_gemini_rate_limit():
+    """
+    Блокирующее ожидание, чтобы не превысить лимит 5 запросов в минуту.
+    """
+    global _last_gemini_call_time
+    elapsed = time.time() - _last_gemini_call_time
+    wait_time = GEMINI_MIN_INTERVAL - elapsed
+    if wait_time > 0:
+        logging.info(f"Rate limit: ожидаем {wait_time:.1f}с перед запросом к Gemini...")
+        time.sleep(wait_time)
+    _last_gemini_call_time = time.time()
 
 
 async def fetch_github_graphql(session, query):
@@ -116,11 +134,55 @@ async def get_best_repository():
     return best_repo
 
 
+async def get_default_branch(session, owner, repo):
+    """
+    Возвращает имя ветки по умолчанию репозитория через GitHub GraphQL API.
+    Если получить не удалось — возвращает None.
+    """
+    query = f"""
+    query {{
+      repository(owner: "{owner}", name: "{repo}") {{
+        defaultBranchRef {{
+          name
+        }}
+      }}
+    }}
+    """
+    data = await fetch_github_graphql(session, query)
+    try:
+        branch = data["data"]["repository"]["defaultBranchRef"]["name"]
+        logging.info(f"Ветка по умолчанию для {owner}/{repo}: {branch}")
+        return branch
+    except (TypeError, KeyError):
+        logging.warning(f"Не удалось получить ветку по умолчанию для {owner}/{repo}. Будет использован fallback.")
+        return None
+
+
 async def get_readme_content(session, owner, repo):
     """
-    Получает содержимое README.md файла из GitHub, автоматически определяя ветку.
+    Получает содержимое README.md из GitHub, используя ветку по умолчанию.
+
+    Алгоритм:
+      1. Запрашиваем defaultBranchRef.name через GraphQL — это точный ответ GitHub,
+         не зависящий от названия ветки (main / master / dev / trunk / любое другое).
+      2. Формируем список веток для перебора: сначала ветка по умолчанию,
+         затем fallback-варианты ["main", "master"] (дедуплицируем).
+      3. Перебираем ветки и возвращаем первый найденный README.
     """
-    for branch in DEFAULT_BRANCHES:
+    # Шаг 1: узнаём ветку по умолчанию
+    default_branch = await get_default_branch(session, owner, repo)
+
+    # Шаг 2: строим список веток без дубликатов, ветка по умолчанию — первая
+    fallback_branches = ["main", "master"]
+    branches_to_try = []
+    if default_branch:
+        branches_to_try.append(default_branch)
+    for b in fallback_branches:
+        if b not in branches_to_try:
+            branches_to_try.append(b)
+
+    # Шаг 3: перебираем ветки
+    for branch in branches_to_try:
         query = f"""
         query {{
           repository(owner: "{owner}", name: "{repo}") {{
@@ -133,23 +195,33 @@ async def get_readme_content(session, owner, repo):
         }}
         """
         data = await fetch_github_graphql(session, query)
-        if data and 'data' in data and 'repository' in data['data'] and 'object' in data['data']['repository']:
-            obj = data['data']['repository']['object']
-            if obj and obj.get('text'):
-                logging.info(f"README.md найден в ветке {branch} репозитория {owner}/{repo}.")
-                return obj['text']
+        if (
+            data
+            and "data" in data
+            and data["data"].get("repository")
+            and data["data"]["repository"].get("object")
+        ):
+            obj = data["data"]["repository"]["object"]
+            if obj and obj.get("text"):
+                logging.info(f"README.md найден в ветке '{branch}' репозитория {owner}/{repo}.")
+                return obj["text"]
             else:
-                logging.debug(f"README.md не найден в ветке {branch} репозитория {owner}/{repo}.")
+                logging.debug(f"README.md не найден в ветке '{branch}' репозитория {owner}/{repo}.")
         else:
-            logging.error(f"Ошибка при получении README.md для {owner}/{repo} в ветке {branch}: {data}")
+            logging.error(
+                f"Ошибка при получении README.md для {owner}/{repo} в ветке '{branch}': {data}"
+            )
 
-    logging.warning(f"README.md не найден ни в одной из веток {DEFAULT_BRANCHES} репозитория {owner}/{repo}.")
+    logging.warning(
+        f"README.md не найден ни в одной из веток {branches_to_try} репозитория {owner}/{repo}."
+    )
     return None
 
 
 async def generate_article_from_readme(readme_content):
     """
     Генерирует статью из README.md, используя модель Gemini.
+    При ошибках 503/429 (rate limit / перегрузка) делает retry с экспоненциальной задержкой.
     """
     prompt = (
         "Imagine you're a tech enthusiast sharing your excitement about a cool GitHub project with fellow developers. "
@@ -174,57 +246,80 @@ async def generate_article_from_readme(readme_content):
         "Provide the response in JSON format according to the specified schema:"
     )
 
-    try:
-        # ✅ Используем актуальную стабильную модель gemini-2.5-flash
-        response = client_gemini.models.generate_content(
-            model=GEMINI_MODEL_ARTICLE,
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                temperature=0.7,
-                top_p=0.9,
-                top_k=50,
-                response_mime_type="application/json",
-                response_schema={
-                    "type": "object",
-                    "properties": {
-                        "title": {
-                            "type": "string",
-                            "description": "An engaging and attention-grabbing title for the article"
-                        },
-                        "article": {
-                            "type": "string",
-                            "description": "The *main content* of the article, written in simple terms, at least 500 characters long. Explain the project's purpose, how it works, and why developers should care about it. *DO NOT* include a title, introduction, key takeaways, statistics, or any other metadata.  Structure the article with well-defined paragraphs."
-                        },
-                        "key_takeaways": {
-                            "type": "array",
-                            "items": {
-                                "type": "string"
-                            },
-                            "description": "A list of 3-5 key takeaways that summarize the project's most important aspects and benefits for developers."
-                        },
-                        "tags": {
-                            "type": "array",
-                            "items": {
-                                "type": "string"
-                            },
-                            "description": "A list of 3-5 relevant tags for the article."
-                        }
-                    },
-                    "required": ["title", "article", "key_takeaways", "tags"]
-                }
-            )
-        )
+    # Retry с экспоненциальной задержкой при 503/429
+    max_retries = 3
+    retry_delays = [30, 60, 120]  # секунды между попытками
 
+    for attempt in range(max_retries):
         try:
-            response_data = json.loads(response.text)
-            return response_data
-        except json.JSONDecodeError as e:
-            logging.error(f"Ошибка при парсинге JSON ответа от Gemini: {e}. Текст ответа: {response.text}")
-            return None
+            # Соблюдаем rate limit 5 RPM
+            _wait_for_gemini_rate_limit()
 
-    except Exception as e:
-        logging.error(f"Ошибка при вызове Gemini API: {e}")
-        return None
+            response = client_gemini.models.generate_content(
+                model=GEMINI_MODEL_ARTICLE,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    temperature=0.7,
+                    top_p=0.9,
+                    top_k=50,
+                    response_mime_type="application/json",
+                    response_schema={
+                        "type": "object",
+                        "properties": {
+                            "title": {
+                                "type": "string",
+                                "description": "An engaging and attention-grabbing title for the article"
+                            },
+                            "article": {
+                                "type": "string",
+                                "description": "The *main content* of the article, written in simple terms, at least 500 characters long. Explain the project's purpose, how it works, and why developers should care about it. *DO NOT* include a title, introduction, key takeaways, statistics, or any other metadata.  Structure the article with well-defined paragraphs."
+                            },
+                            "key_takeaways": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                },
+                                "description": "A list of 3-5 key takeaways that summarize the project's most important aspects and benefits for developers."
+                            },
+                            "tags": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                },
+                                "description": "A list of 3-5 relevant tags for the article."
+                            }
+                        },
+                        "required": ["title", "article", "key_takeaways", "tags"]
+                    }
+                )
+            )
+
+            try:
+                response_data = json.loads(response.text)
+                return response_data
+            except json.JSONDecodeError as e:
+                logging.error(f"Ошибка при парсинге JSON ответа от Gemini: {e}. Текст ответа: {response.text}")
+                return None
+
+        except Exception as e:
+            error_str = str(e)
+            # Проверяем, является ли ошибка временной (503, 429, rate limit)
+            is_retryable = any(code in error_str for code in ["503", "429", "UNAVAILABLE", "RESOURCE_EXHAUSTED"])
+
+            if is_retryable and attempt < max_retries - 1:
+                delay = retry_delays[attempt]
+                logging.warning(
+                    f"Gemini временно недоступен (попытка {attempt + 1}/{max_retries}): {e}. "
+                    f"Повторяем через {delay}с..."
+                )
+                time.sleep(delay)
+                continue
+            else:
+                logging.error(f"Ошибка при вызове Gemini API: {e}")
+                return None
+
+    logging.warning(f"Все {max_retries} попытки исчерпаны для generate_article_from_readme. Возвращаем None.")
+    return None
 
 
 async def main():
