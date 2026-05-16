@@ -1,30 +1,37 @@
 [
     {
-        "project_id": 5778132,
-        "content": "🌟 <b>finit</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a lightweight and efficient process supervisor and init system for Linux, especially in embedded environments.\n<br>\n✨ <b>Key Features:</b>\n• Fast and simple init system\n• Alternative to SysV init and systemd\n• Designed for small and embedded Linux systems\n• Can run on desktop and server systems\n• Reverse engineered from EeePC fastinit\n<br>\n📖 <b>Summary:</b>\nFinit is a fast, simple init system for Linux, designed as an alternative to SysV init and systemd, particularly for small and embedded systems. It aims to provide a lightweight and efficient boot process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/finit-project/finit?embed=0\">View Project</a>\n• <a href=\"http://finit-project.github.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/5778132/fcb5a500-a696-11eb-88e6-4e70ab0d2aa2",
+        "project_id": 903681077,
+        "content": "💡 <b>roxum-ide</b> | Dart\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a comprehensive and powerful code editing and development environment directly on Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Mobile-first code editor and mini IDE\n• Built with Flutter\n• Editing capabilities\n• Terminal workflows\n• Git/GitHub tooling\n<br>\n📖 <b>Summary:</b>\nRoxum IDE is a mobile-first code editor and mini IDE for Android, built with Flutter. It integrates editing, terminal workflows, Git/GitHub tooling, AI assistance, and runtime downloads into a single application.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/heckmon/roxum-ide?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/82a79c480928308b3ee695dd94e1a29398a01d038129bfa35005d125a7216bc6/heckmon/roxum-ide",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 838659679,
+        "content": "✨ <b>note-gen</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a seamless and intelligent note-taking experience that leverages AI to help users capture, organize, and refine their thoughts and knowledge.\n<br>\n✨ <b>Key Features:</b>\n• AI-native writing workflow (chat, rewrite, translate, polish)\n• Image workflow (capture, recognize, describe, host, reuse)\n• Native Markdown storage (local-first, portable)\n<br>\n📖 <b>Summary:</b>\nNoteGen is a cross-platform, AI-native Markdown note-taking application designed for capturing ideas and transforming them into structured, readable notes. It offers a rich feature set including AI-powered writing assistance, image processing, local Markdown storage, and flexible synchronization options.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/codexu/note-gen?embed=0\">View Project</a>\n• <a href=\"https://notegen.top?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/838659679/c78be239-ae07-4ca3-a259-1fafe3401edf",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 551189765,
-        "content": "🚀 <b>network-management-client</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a comprehensive desktop application for managing and analyzing Meshtastic mesh networks, offering insights beyond single-node management.\n<br>\n✨ <b>Key Features:</b>\n• Desktop client for Meshtastic devices\n• Management of large, decentralized mesh networks\n• Network-level management and analysis\n• Connection-level insights\n• Support for USB, IP, and Bluetooth connections\n<br>\n📖 <b>Summary:</b>\nThis repository provides a desktop client for managing Meshtastic devices, enabling users to administer large, decentralized mesh networks. It focuses on network-level management and analysis, offering insights into connections and network health.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/meshtastic/network-management-client?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/551189765/82652ab7-c308-4109-a244-686a754b02c7",
+        "project_id": 488620801,
+        "content": "🌟 <b>fingerprint-suite</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAnonymizing web scrapers by injecting realistic browser fingerprints to avoid detection.\n<br>\n✨ <b>Key Features:</b>\n• Generates configurable, realistic HTTP headers\n• Generates realistic browser fingerprints affecting JS APIs\n• Injects browser fingerprints into Playwright/Puppeteer instances\n• Includes a generative Bayesian network for fingerprint creation\n• Modular npm packages for separate or combined use\n<br>\n📖 <b>Summary:</b>\nThe fingerprint-suite is a collection of TypeScript tools designed to generate and inject realistic browser fingerprints. It helps anonymize web scraping activities by making automated browsers appear as unique human users, thus bypassing detection.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/apify/fingerprint-suite?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/33b77551379f337aeba21287a299526a5613610eda364d61e44be8a3b0f615b7/apify/fingerprint-suite",
         "platform": "telegram",
-        "quality_score": 0.7999999999999999
+        "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 1109163478,
-        "content": "✨ <b>StoryGen-Atelier</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated generation of storyboards and video content using AI models and video processing tools.\n<br>\n✨ <b>Key Features:</b>\n• AI-assisted storyboard generation using Gemini (text and image models)\n• Automated video generation by calling Vertex AI Veo for clips\n• Video stitching using FFmpeg with quality preservation\n• Integrated logs dashboard for tracking video and storyboard generation\n• Gallery for managing saved storyboards and videos\n<br>\n📖 <b>Summary:</b>\nStoryGen Atelier is an AI-powered tool that automates the creation of storyboards and videos. It leverages Google's Gemini for script and frame generation, Vertex AI's Veo model for video clip synthesis, and FFmpeg for final video assembly, incorporating features like logs and gallery management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/0xsline/StoryGen-Atelier?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a4e505e9f55d8c25b2b526a003f3a400524280653acadb7e51f0315d5bd88846/0xsline/StoryGen-Atelier",
+        "project_id": 243546335,
+        "content": "💡 <b>tabler-icons</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide web developers with a vast library of versatile and customizable SVG icons for use in their projects.\n<br>\n✨ <b>Key Features:</b>\n• Over 6000 high-quality SVG icons\n• MIT-licensed\n• Designed on a 24x24 grid with a 2px stroke\n• Available in outline and filled versions\n• Easy integration via `<img>`, `background-image`, or inline SVG\n<br>\n📖 <b>Summary:</b>\nTabler Icons provides a comprehensive collection of over 6000 free, high-quality SVG icons designed for web projects. Each icon is crafted on a 24x24 grid with a 2px stroke, available in both outline and filled versions, and licensed under MIT.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tabler/tabler-icons?embed=0\">View Project</a>\n• <a href=\"https://tabler.io/icons?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/243546335/540452a5-0dff-4d5b-a7bf-cc11972c839c",
         "platform": "telegram",
-        "quality_score": 0.4
+        "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 1040940947,
-        "content": "🔥 <b>jarvis</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nA private, always-on AI assistant for everyday tasks and conversations that respects user data privacy.\n<br>\n✨ <b>Key Features:</b>\n• 100% local processing (offline)\n• Privacy-focused with automatic sensitive data redaction\n• Natural conversational AI\n• Context-aware responses\n• Unlimited memory\n<br>\n📖 <b>Summary:</b>\nJarvis is a 100% private, offline AI voice assistant that runs locally on your computer. It allows for natural conversational interaction, remembers context, and can integrate with various tools and applications without sending data to the cloud.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/isair/jarvis?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/80b1fc06b66e86efb3a2ab103663625569eaafa75e41b4905ae874b4e1de66d1/isair/jarvis",
+        "project_id": 970933782,
+        "content": "💡 <b>swaptop</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring and visualizing swap memory usage on Linux and Windows systems through a text-based user interface.\n<br>\n✨ <b>Key Features:</b>\n• Real-time animated swap usage graph\n• List Swap devices with usage per disk / type\n• Process-level swap consumption tracking\n• Grouped view by software (aggregate mode)\n• Multiple color themes\n<br>\n📖 <b>Summary:</b>\nSwaptop is a real-time swap usage monitor for Linux and Windows systems, featuring a TUI interface that displays swap consumption per process and per software. It provides live-updating graphs, multiple color themes, and unit conversion, all with a lightweight memory footprint.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/luis-ota/swaptop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/11b4d96523a36be4af99e5c7cc53a2c69c32ebd62c6a2cc1d3944cd86dc33077/luis-ota/swaptop",
         "platform": "telegram",
-        "quality_score": 1.0
+        "quality_score": 0.7499999999999999
     }
 ]
