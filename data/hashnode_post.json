@@ -1,30 +1,30 @@
 {
-    "title": "NoteGen: Capture Ideas, Organize Smarter, and Let AI Do the Heavy Lifting",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nNoteGen is a cross-platform, AI-native Markdown note-taking application designed for capturing ideas and transforming them into structured, readable notes. It offers a rich feature set including AI-powered writing assistance, image processing, local Markdown storage, and flexible synchronization options.\n\n## 🔑 Key Takeaways\n\n- ✅ AI-powered note-taking that transforms fragmented thoughts into structured, readable notes.\n\n- ✅ Native Markdown storage ensures notes are portable, local-first, and future-proof.\n\n- ✅ Built-in knowledge base with RAG and vector indexing for powerful information retrieval from your notes.\n\n- ✅ Flexible synchronization options and cross-platform availability for seamless access anywhere.\n\n- ✅ Extensible AI stack allows for custom models and workflows, catering to advanced developer needs.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 11906\n- 🍴 Forks: 904\n- ❗ Open Issues: 116\n\n\n## 🛠 Tech Stack\n- ✅ TypeScript\n\n\nWe all have those moments of \"messy thinking\" – a brilliant idea strikes, but you only have a few fragmented thoughts. Capturing them quickly without losing momentum, and then making sense of them later, can be a real challenge. This is where NoteGen steps in, aiming to transform how developers and thinkers manage their ideas.\n\nNoteGen is an open-source, cross-platform Markdown note-taking application designed specifically for this kind of creative chaos. Its core philosophy is \"capture first, organize later.\" But what truly sets it apart is its deep integration with AI. Imagine jotting down a few keywords or half-formed sentences, and then having an AI assistant right there to help you expand, rewrite, translate, or polish those fragments into coherent, readable notes. It's like having a co-writer built directly into your note app.\n\nBeyond just text, NoteGen also boasts an impressive image workflow. You can capture images, have the AI recognize their content, describe them, and even host and reuse them seamlessly within your notes. For developers, the commitment to native Markdown storage is a huge win – your notes are portable, local-first, and future-proof, meaning you're never locked into a proprietary format. Plus, it includes a built-in knowledge base with RAG (Retrieval Augmented Generation) and vector indexing, turning your collection of notes into a powerful, searchable personal knowledge system.\n\nThe project is also incredibly extensible. Its AI stack supports custom models, prompts, memories, and even agent workflows, giving power users immense flexibility to tailor the AI to their specific needs. And when it comes to keeping your notes safe and synced across devices, NoteGen offers a wide array of options, including GitHub, Gitee, GitLab, Gitea, S3, and WebDAV. This ensures your valuable thoughts are always accessible, no matter where you are or what platform you prefer.\n\nSpeaking of platforms, NoteGen is truly cross-platform, with beta versions available for Windows, macOS, and Linux, and alpha versions for Android and iOS. This means a consistent, powerful note-taking experience across all your devices. For developers, this tool isn't just about taking notes; it's about supercharging your thinking process, reducing friction in documenting ideas, and leveraging AI to refine your thoughts from raw input to polished insights. It's a game-changer for personal knowledge management and project documentation.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/codexu/note-gen)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Never Miss a Market Beat: Realtime Stock Tickers in Your Terminal with Rust!",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nTickrs is a Rust-based command-line application that provides real-time stock ticker data directly in the terminal. It leverages Yahoo! Finance for data and offers various customization options for displaying stock information, charts, and market hours.\n\n## 🔑 Key Takeaways\n\n- ✅ Monitor real-time stock and crypto data directly in your terminal.\n\n- ✅ Built with Rust for high performance, efficiency, and reliability.\n\n- ✅ Offers customizable chart types (line, candle, kagi) and timeframes.\n\n- ✅ Eliminates context switching by providing market insights within your development environment.\n\n- ✅ A great example of a sophisticated Text User Interface (TUI) application for Rust developers.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 1612\n- 🍴 Forks: 92\n- ❗ Open Issues: 27\n\n\n## 🛠 Tech Stack\n- ✅ Rust\n\n\nAre you a developer who likes to keep an eye on the market but hates context switching to a browser or a heavy app? What if you could have real-time stock data, beautifully displayed, right there in your terminal? Enter `tick-rs`, a fantastic open-source project that brings your stock market watchlist directly into your command line interface. It's designed for efficiency and convenience, allowing you to stay informed without ever leaving your development environment.Imagine a sleek, interactive dashboard showing your favorite stock tickers updating live. That's exactly what `tick-rs` delivers. Built with the performance and reliability of Rust, this tool pulls real-time data from Yahoo! Finance and renders it as a stunning text-based user interface (TUI). You can visualize market movements with different chart types – choose from classic line charts, detailed candlestick charts (perfect for technical analysis), or even Kagi charts. The interface is highly interactive, letting you switch between symbols, adjust timeframes (from 1D to 5Y), and view different chart styles on the fly. It's incredibly responsive and feels just like a native GUI application, but it lives entirely within your terminal.Setting up `tick-rs` is a breeze, whether you prefer installing via Cargo, Homebrew, or downloading a pre-compiled binary. Once installed, you can launch it with a simple command, specifying your desired ticker symbols. The project also allows for extensive customization through command-line flags or a configuration file. Want to see pre/post-market data? No problem. Need to adjust the data update interval? You got it. You can even choose to show volume graphs or hide previous close lines to tailor the display precisely to your needs. This level of control ensures that `tick-rs` fits seamlessly into your workflow.For developers, `tick-rs` is more than just a cool gadget; it's a productivity enhancer. It eliminates the need to constantly open resource-heavy browser tabs or dedicated trading applications just to glance at a stock price. This means less context switching, fewer distractions, and a more streamlined way to monitor market trends while you're coding. Its lightweight nature, powered by Rust, ensures minimal system impact. Furthermore, for those interested in TUI development, `tick-rs` serves as an excellent example of a well-crafted, performant terminal application written in Rust, offering insights into building complex interactive interfaces without a GUI framework. It truly offers a unique blend of utility, performance, and developer-friendly design.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/tarkah/tickrs)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "markdown",
-            "slug": "markdown"
+            "name": "rust",
+            "slug": "rust"
         },
         {
-            "name": "ai",
-            "slug": "ai"
+            "name": "terminal",
+            "slug": "terminal"
         },
         {
-            "name": "note-taking",
-            "slug": "note-taking"
+            "name": "tui",
+            "slug": "tui"
         },
         {
-            "name": "open source",
-            "slug": "open-source"
+            "name": "finance",
+            "slug": "finance"
         },
         {
-            "name": "knowledge management",
-            "slug": "knowledge-management"
+            "name": "stock market",
+            "slug": "stock-market"
         }
     ],
-    "slug": "notegen-capture-ideas-organize-smarter-and-let-ai-do-the-heavy-lifting",
-    "project_id": 838659679,
+    "slug": "never-miss-a-market-beat-realtime-stock-tickers-in-your-terminal-with-rust",
+    "project_id": 241758947,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false

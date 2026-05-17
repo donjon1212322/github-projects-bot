@@ -1,205 +1,188 @@
 [
     {
-        "id": 903681077,
-        "name": "roxum-ide",
-        "description": "A minimal and powerful IDE/Code editor for Android",
-        "url": "https://github.com/heckmon/roxum-ide",
-        "language": "Dart",
-        "stars": 258,
-        "forks": 18,
-        "created_at": "2024-12-15T09:15:55Z",
-        "updated_at": "2026-05-16T08:36:29Z",
+        "id": 823175328,
+        "name": "CatVTON",
+        "description": "[ICLR 2025] CatVTON is a simple and efficient virtual try-on diffusion model with 1) Lightweight Network (899.06M parameters totally), 2) Parameter-Efficient Training (49.57M parameters trainable) and 3) Simplified Inference (< 8G VRAM for 1024X768 resolution).",
+        "url": "https://github.com/Zheng-Chong/CatVTON",
+        "language": "Python",
+        "stars": 1695,
+        "forks": 218,
+        "created_at": "2024-07-02T14:29:30Z",
+        "updated_at": "2026-05-17T07:06:25Z",
         "topics": [
-            "android-code-editor",
-            "android-ide",
-            "code-editor",
-            "roxum",
-            "vscode",
-            "vscode-mobile"
+            "diffusion-models",
+            "fashion",
+            "try-on"
         ],
-        "quality_score": 0.55,
+        "quality_score": 0.6000000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2026-04-28T07:27:38Z",
+        "last_commit_date": "2025-12-16T00:59:25Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/82a79c480928308b3ee695dd94e1a29398a01d038129bfa35005d125a7216bc6/heckmon/roxum-ide"
+            "https://opengraph.githubassets.com/db3610777a33e806a7a753b35b1efc6bf09f3fc88756552e24fd5897b0695059/Zheng-Chong/CatVTON"
         ],
         "homepage": "",
-        "readme_summary": "Roxum IDE is a mobile-first code editor and mini IDE for Android, built with Flutter. It integrates editing, terminal workflows, Git/GitHub tooling, AI assistance, and runtime downloads into a single application.",
+        "readme_summary": "CatVTON is an efficient diffusion model for virtual clothing try-on. It features a lightweight network architecture, parameter-efficient training, and simplified inference, allowing high-resolution try-ons with minimal VRAM.",
         "key_features": [
-            "Mobile-first code editor and mini IDE",
-            "Built with Flutter",
-            "Editing capabilities",
-            "Terminal workflows",
-            "Git/GitHub tooling",
-            "AI assistance",
-            "Runtime downloads",
-            "Deep customization"
+            "Lightweight Network (899.06M parameters)",
+            "Parameter-Efficient Training (49.57M parameters trainable)",
+            "Simplified Inference (< 8G VRAM for 1024x768)",
+            "Diffusion Model for Virtual Try-On",
+            "Mask-free version available",
+            "CatVTON-FLUX (LoRA for FLUX.1-Fill-dev)"
         ],
-        "primary_use_case": "Providing a comprehensive and powerful code editing and development environment directly on Android devices.",
-        "open_issues": 7,
-        "cover_image_prompt": "A miniature, highly detailed workshop on a smartphone screen, where a skilled artisan is meticulously crafting intricate code structures. Tools like a glowing terminal, a miniature Git commit icon, and a small AI assistant robot are actively being used. The artisan is shown taking raw lines of code (represented as wooden planks) and transforming them into a polished, functional application (a miniature, glowing cityscape). The background is a clean, abstract digital space with subtle circuit board patterns. The overall mood is one of focused creation and powerful mobile development. 3D isometric illustration style with vibrant, clean colors and soft lighting."
+        "primary_use_case": "Virtual clothing try-on for fashion",
+        "open_issues": 67,
+        "cover_image_prompt": "A fashion designer stands in a magical workshop, holding a plain mannequin. With a wave of their hand, a digital projection of a person appears, and a chosen garment from a rack of vibrant clothes seamlessly drapes onto the projected figure, perfectly fitting its form. The input is a photograph of a person and a separate image of clothing; the output is the person virtually wearing the clothing. Subtle UI elements showing clothing selection and pose adjustments are visible on a nearby holographic screen. The scene is bathed in soft, creative light, with glowing data particles flowing from the designer's hand to the projection. The style is a 3D isometric illustration with clean lines and a modern, elegant aesthetic, emphasizing the transformation and ease of use."
     },
     {
-        "id": 838659679,
-        "name": "note-gen",
-        "description": "A cross-platform Markdown AI note-taking software.",
-        "url": "https://github.com/codexu/note-gen",
-        "language": "TypeScript",
-        "stars": 11906,
-        "forks": 904,
-        "created_at": "2024-08-06T05:20:16Z",
-        "updated_at": "2026-05-16T08:51:04Z",
-        "topics": [
-            "agent",
-            "chatbot",
-            "knowledge-base",
-            "llm",
-            "markdown",
-            "mcp",
-            "nextjs",
-            "note-taking",
-            "rag",
-            "tauri",
-            "webdav"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2026-05-11T05:04:39Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/838659679/c78be239-ae07-4ca3-a259-1fafe3401edf"
-        ],
-        "homepage": "https://notegen.top",
-        "readme_summary": "NoteGen is a cross-platform, AI-native Markdown note-taking application designed for capturing ideas and transforming them into structured, readable notes. It offers a rich feature set including AI-powered writing assistance, image processing, local Markdown storage, and flexible synchronization options.",
-        "key_features": [
-            "AI-native writing workflow (chat, rewrite, translate, polish)",
-            "Image workflow (capture, recognize, describe, host, reuse)",
-            "Native Markdown storage (local-first, portable)",
-            "Built-in knowledge base (RAG, vector indexing, hybrid retrieval)",
-            "Extensible AI stack (MCP, custom models, agents)",
-            "Flexible sync (GitHub, Gitee, GitLab, Gitea, S3, WebDAV)",
-            "Cross-platform availability (Windows, macOS, Linux, Android, iOS)"
-        ],
-        "primary_use_case": "To provide a seamless and intelligent note-taking experience that leverages AI to help users capture, organize, and refine their thoughts and knowledge.",
-        "open_issues": 116,
-        "cover_image_prompt": "A wise old librarian meticulously organizing scattered, glowing fragments of thoughts and images into a beautifully bound, illuminated manuscript. The librarian uses a magical quill that sparks with AI energy, transforming chaotic scribbles into coherent text and organized visual elements. In the background, shelves are filled with books representing local Markdown files and cloud sync icons. Subtle UI elements of a chat interface and image recognition appear as glowing overlays. The scene is set in a cozy, futuristic library with warm, inviting light. The style should be a 3D isometric illustration with a focus on clarity and a touch of magic."
-    },
-    {
-        "id": 488620801,
-        "name": "fingerprint-suite",
-        "description": "Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.",
-        "url": "https://github.com/apify/fingerprint-suite",
-        "language": "TypeScript",
-        "stars": 2238,
-        "forks": 219,
-        "created_at": "2022-05-04T14:25:01Z",
-        "updated_at": "2026-05-16T09:02:42Z",
-        "topics": [
-            "fingerprinting",
-            "playwright",
-            "puppeteer",
-            "scraping",
-            "typescript"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2026-05-11T14:42:52Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/33b77551379f337aeba21287a299526a5613610eda364d61e44be8a3b0f615b7/apify/fingerprint-suite"
-        ],
-        "homepage": "",
-        "readme_summary": "The fingerprint-suite is a collection of TypeScript tools designed to generate and inject realistic browser fingerprints. It helps anonymize web scraping activities by making automated browsers appear as unique human users, thus bypassing detection.",
-        "key_features": [
-            "Generates configurable, realistic HTTP headers",
-            "Generates realistic browser fingerprints affecting JS APIs",
-            "Injects browser fingerprints into Playwright/Puppeteer instances",
-            "Includes a generative Bayesian network for fingerprint creation",
-            "Modular npm packages for separate or combined use"
-        ],
-        "primary_use_case": "Anonymizing web scrapers by injecting realistic browser fingerprints to avoid detection.",
-        "open_issues": 12,
-        "cover_image_prompt": "A master illusionist, dressed in a modern suit with subtle digital circuit patterns, stands on a stage. In one hand, they hold a generic, plain browser icon. With their other hand, they cast a spell, transforming the plain icon into a unique, intricately detailed avatar with a distinct digital aura and a personalized data stream flowing from it. Around the stage, faint holographic projections display lines of code and abstract data visualizations, hinting at the underlying technology. The 'fingerprint-suite' logo is subtly integrated into the stage design. The scene is lit with dramatic spotlights, emphasizing the transformation. Style: 3D isometric illustration with a clean, modern aesthetic and a vibrant, tech-inspired color palette."
-    },
-    {
-        "id": 243546335,
-        "name": "tabler-icons",
-        "description": "A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
-        "url": "https://github.com/tabler/tabler-icons",
-        "language": "JavaScript",
-        "stars": 20724,
-        "forks": 1134,
-        "created_at": "2020-02-27T15:10:04Z",
-        "updated_at": "2026-05-16T09:02:20Z",
-        "topics": [
-            "bootstrap-icons",
-            "components",
-            "css",
-            "icon",
-            "icon-pack",
-            "icons",
-            "icons-pack",
-            "iconset",
-            "quality-svg-icons",
-            "react",
-            "svelte",
-            "svg",
-            "svg-icons",
-            "tabler-icons"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2026-05-08T23:17:11Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/243546335/540452a5-0dff-4d5b-a7bf-cc11972c839c"
-        ],
-        "homepage": "https://tabler.io/icons",
-        "readme_summary": "Tabler Icons provides a comprehensive collection of over 6000 free, high-quality SVG icons designed for web projects. Each icon is crafted on a 24x24 grid with a 2px stroke, available in both outline and filled versions, and licensed under MIT.",
-        "key_features": [
-            "Over 6000 high-quality SVG icons",
-            "MIT-licensed",
-            "Designed on a 24x24 grid with a 2px stroke",
-            "Available in outline and filled versions",
-            "Easy integration via `<img>`, `background-image`, or inline SVG",
-            "CSS customizable for size, color, and stroke-width"
-        ],
-        "primary_use_case": "To provide web developers with a vast library of versatile and customizable SVG icons for use in their projects.",
-        "open_issues": 109,
-        "cover_image_prompt": "A whimsical, overflowing treasure chest made of digital code, spilling out a cascade of perfectly formed, glowing SVG icons of various shapes and sizes. Each icon is distinct yet harmonious, representing a vast library. In the background, a stylized, minimalist web page template is being built, with the icons seamlessly slotting into place like puzzle pieces. Subtle lines of code and data streams flow around the scene, connecting the chest to the web page. The overall mood is one of abundance, creativity, and ease of use. The art style should be a vibrant 3D isometric illustration with a clean, modern aesthetic and bright, inviting colors."
-    },
-    {
-        "id": 970933782,
-        "name": "swaptop",
-        "description": "swap usage monitor written in rust",
-        "url": "https://github.com/luis-ota/swaptop",
+        "id": 241758947,
+        "name": "tickrs",
+        "description": "Realtime ticker data in your terminal 📈",
+        "url": "https://github.com/tarkah/tickrs",
         "language": "Rust",
-        "stars": 150,
-        "forks": 8,
-        "created_at": "2025-04-22T18:56:02Z",
-        "updated_at": "2026-05-16T08:12:11Z",
+        "stars": 1612,
+        "forks": 92,
+        "created_at": "2020-02-20T00:37:35Z",
+        "updated_at": "2026-05-17T00:55:32Z",
         "topics": [
-            "btop",
-            "ratatui-rs",
             "rust",
-            "swap"
+            "stocks",
+            "tui"
         ],
-        "quality_score": 0.7499999999999999,
+        "quality_score": 0.9500000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2026-05-13T17:04:11Z",
+        "last_commit_date": "2026-05-07T20:51:33Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/11b4d96523a36be4af99e5c7cc53a2c69c32ebd62c6a2cc1d3944cd86dc33077/luis-ota/swaptop"
+            "https://opengraph.githubassets.com/32a809ee677cb327177870c42b57e1866be69e4e76a0f8b1fcc0905f10792b98/tarkah/tickrs"
         ],
         "homepage": "",
-        "readme_summary": "Swaptop is a real-time swap usage monitor for Linux and Windows systems, featuring a TUI interface that displays swap consumption per process and per software. It provides live-updating graphs, multiple color themes, and unit conversion, all with a lightweight memory footprint.",
+        "readme_summary": "Tickrs is a Rust-based command-line application that provides real-time stock ticker data directly in the terminal. It leverages Yahoo! Finance for data and offers various customization options for displaying stock information, charts, and market hours.",
         "key_features": [
-            "Real-time animated swap usage graph",
-            "List Swap devices with usage per disk / type",
-            "Process-level swap consumption tracking",
-            "Grouped view by software (aggregate mode)",
-            "Multiple color themes",
-            "Unit conversion (KB/MB/GB)",
-            "Lightweight (<5MB memory usage)"
+            "Real-time ticker data display",
+            "Terminal User Interface (TUI)",
+            "Data sourced from Yahoo! Finance",
+            "Customizable chart types (line, candle, kagi)",
+            "Configurable time frames and update intervals",
+            "Support for pre/post market hours",
+            "Multiple installation methods (binary, cargo, package managers)"
         ],
-        "primary_use_case": "Monitoring and visualizing swap memory usage on Linux and Windows systems through a text-based user interface.",
+        "primary_use_case": "Displaying real-time stock market data and charts in a terminal environment.",
+        "open_issues": 27,
+        "cover_image_prompt": "A stylized, glowing terminal window floating in a digital space, displaying vibrant, real-time stock charts and ticker symbols. Data streams, visualized as glowing particles, flow from a subtle Yahoo! Finance logo towards the terminal. A small, stylized graph icon is integrated into the terminal's interface, representing the charting capabilities. The overall mood is dynamic and informative, with a clean, modern aesthetic. The art style should be a 3D isometric illustration with a dark background, emphasizing the glowing elements and data flow."
+    },
+    {
+        "id": 141040549,
+        "name": "seeker",
+        "description": "Accurately Locate Smartphones using Social Engineering ",
+        "url": "https://github.com/thewhiteh4t/seeker",
+        "language": "CSS",
+        "stars": 9455,
+        "forks": 2199,
+        "created_at": "2018-07-15T16:06:48Z",
+        "updated_at": "2026-05-17T00:23:20Z",
+        "topics": [
+            "accuracy",
+            "altitude",
+            "geolocation",
+            "latitude",
+            "longitude",
+            "reconnaissance",
+            "system-information"
+        ],
+        "quality_score": 0.65,
+        "contributors_count": 0,
+        "last_commit_date": "2025-05-07T18:37:09Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/141040549/6aa9c100-8153-11ea-9052-17796dfa5349"
+        ],
+        "homepage": "",
+        "readme_summary": "Seeker is a tool designed to accurately locate smartphones by hosting a fake website that requests location permissions. Upon user consent, it gathers precise location data (longitude, latitude, accuracy, altitude) and device information (unique ID, model, OS, hardware specs, IP addresses) through social engineering tactics. It serves as a proof-of-concept to educate users about potential data privacy risks from malicious websites.",
+        "key_features": [
+            "Hosts fake websites to request location permissions",
+            "Gathers Longitude, Latitude, Accuracy, Altitude, Direction, and Speed",
+            "Collects Device Information via Canvas Fingerprinting (Unique ID, Model, OS, CPU Cores, RAM, Screen Resolution, GPU, Browser, Public/Local IP)",
+            "Performs Automatic IP Address Reconnaissance",
+            "Provides higher accuracy than traditional IP Geolocation by using GPS hardware",
+            "Includes various pre-made templates (NearYou, Google Drive, WhatsApp, etc.)",
+            "Supports custom template creation"
+        ],
+        "primary_use_case": "To demonstrate and educate users about how malicious websites can exploit location permissions and gather sensitive device information through social engineering, acting as a proof-of-concept for security awareness.",
+        "open_issues": 10,
+        "cover_image_prompt": "A stylized, slightly mischievous-looking smartphone character holding a glowing compass, with its location pinpointed on a stylized map that is subtly integrated into a web browser window. Faint digital particles representing collected data (like longitude, latitude, and device specs) float around the phone and map. In the background, a subtle, abstract representation of a 'fake' website interface is visible, hinting at the social engineering aspect. The overall mood is informative and cautionary, using a clean, modern illustration style with a focus on clarity and a color palette of blues, greens, and a touch of warning red for the data points. The repository name 'Seeker' is subtly integrated into the browser's URL bar."
+    },
+    {
+        "id": 1227411368,
+        "name": "NeoShell",
+        "description": "Управляй своим ПК с телефона через Wi-Fi.",
+        "url": "https://github.com/rud1x/NeoShell",
+        "language": "Python",
+        "stars": 14,
+        "forks": 0,
+        "created_at": "2026-05-02T16:40:45Z",
+        "updated_at": "2026-05-17T07:09:02Z",
+        "topics": [
+            "desktop-app",
+            "easydownload",
+            "remote-control",
+            "web-app",
+            "windows",
+            "windows-tools"
+        ],
+        "quality_score": 0.44999999999999996,
+        "contributors_count": 0,
+        "last_commit_date": "2026-05-15T07:03:03Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/1227411368/46ca5fee-bacf-48ef-88ab-1e7dbdb0a905"
+        ],
+        "homepage": "",
+        "readme_summary": "NeoShell is a Python-based application that allows users to remotely control their Windows PC from a smartphone via Wi-Fi. It provides a web-based interface accessible from any device on the same network, offering features like PC locking, sleep, shutdown, task management, and application launching.",
+        "key_features": [
+            "Remote PC control via Wi-Fi",
+            "Web-based interface",
+            "PC locking, sleep, shutdown, reboot",
+            "Minimize all windows",
+            "Task Manager access",
+            "Close active application (Alt+F4)",
+            "Open links/searches in browser",
+            "Launch custom applications",
+            "Real-time PC status (PING)",
+            "Security with a secret key",
+            "Progressive Web App (PWA) support for mobile",
+            "Tray icon with status indication",
+            "Autostart with Windows"
+        ],
+        "primary_use_case": "Remotely managing and controlling a Windows PC from a smartphone or other web-enabled device over a local Wi-Fi network.",
         "open_issues": 0,
-        "cover_image_prompt": "A wise old tree with roots deeply embedded in the ground, its branches reaching upwards. Instead of leaves, the branches are adorned with glowing, interconnected nodes representing active processes. The tree's trunk is a clear, transparent pipe showing a steady flow of digital 'sap' (representing swap data) being drawn from the earth. Small, subtle UI elements like a graph and unit labels (KB, MB, GB) are integrated into the tree's base. The scene is set in a serene, digital forest with soft, ambient lighting, emphasizing clarity and insight. The overall style is a 3D isometric illustration with a clean, modern aesthetic, highlighting the flow and management of system resources."
+        "cover_image_prompt": "A person relaxing on a couch, holding a smartphone that displays a sleek, futuristic dashboard. From the smartphone, a glowing, ethereal beam of light connects to a stylized, simplified representation of a desktop computer. The computer is shown performing actions like dimming its screen (sleep) or having its windows neatly stacked and minimized. Subtle digital particles flow from the phone to the PC, indicating control. The background is a comfortable, modern living room. The overall mood is one of effortless convenience and power. The art style should be a 3D isometric illustration with a clean, vibrant color palette, emphasizing the seamless connection between the phone and the PC."
+    },
+    {
+        "id": 303762,
+        "name": "Gource",
+        "description": "software version control visualization",
+        "url": "https://github.com/acaudwell/Gource",
+        "language": "C++",
+        "stars": 12986,
+        "forks": 781,
+        "created_at": "2009-09-11T04:24:26Z",
+        "updated_at": "2026-05-17T06:14:02Z",
+        "topics": [],
+        "quality_score": 0.8,
+        "contributors_count": 0,
+        "last_commit_date": "2026-03-06T05:45:50Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/d61310e461b0ec71985684d7b5927605adce6dd7f69b883204c1021db3b2ea5a/acaudwell/Gource"
+        ],
+        "homepage": "https://gource.io",
+        "readme_summary": "Gource is a C++ visualization tool that renders source control repository history as an interactive 3D tree. It visually represents directories as branches and files as leaves, with contributors appearing and disappearing as they make changes. The tool allows for real-time playback and customization of the visualization.",
+        "key_features": [
+            "3D visualization of repository history",
+            "Tree-based display of directories and files",
+            "Contributor avatars appearing/disappearing",
+            "Interactive playback controls (start/stop dates, speed)",
+            "Customizable appearance (colors, background, logo)"
+        ],
+        "primary_use_case": "Visualizing and understanding the history and evolution of source code repositories in an engaging and interactive 3D environment.",
+        "open_issues": 110,
+        "cover_image_prompt": "A vibrant, stylized 3D tree growing dynamically in a digital space. Each branch represents a directory, and leaves represent files. Tiny, diverse avatars of developers are seen actively tending to specific branches and leaves, making them glow or change color as they commit changes. Small, subtle UI elements showing commit messages and dates float around the tree. The repository name 'Gource' is subtly integrated into the roots of the tree. The overall mood is one of collaborative creation and growth. The art style should be a clean, modern 3D isometric illustration with a bright, engaging color palette."
     }
 ]
