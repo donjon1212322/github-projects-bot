@@ -1,188 +1,138 @@
 [
     {
-        "id": 823175328,
-        "name": "CatVTON",
-        "description": "[ICLR 2025] CatVTON is a simple and efficient virtual try-on diffusion model with 1) Lightweight Network (899.06M parameters totally), 2) Parameter-Efficient Training (49.57M parameters trainable) and 3) Simplified Inference (< 8G VRAM for 1024X768 resolution).",
-        "url": "https://github.com/Zheng-Chong/CatVTON",
-        "language": "Python",
-        "stars": 1695,
-        "forks": 218,
-        "created_at": "2024-07-02T14:29:30Z",
-        "updated_at": "2026-05-17T07:06:25Z",
-        "topics": [
-            "diffusion-models",
-            "fashion",
-            "try-on"
-        ],
-        "quality_score": 0.6000000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-12-16T00:59:25Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/db3610777a33e806a7a753b35b1efc6bf09f3fc88756552e24fd5897b0695059/Zheng-Chong/CatVTON"
-        ],
-        "homepage": "",
-        "readme_summary": "CatVTON is an efficient diffusion model for virtual clothing try-on. It features a lightweight network architecture, parameter-efficient training, and simplified inference, allowing high-resolution try-ons with minimal VRAM.",
-        "key_features": [
-            "Lightweight Network (899.06M parameters)",
-            "Parameter-Efficient Training (49.57M parameters trainable)",
-            "Simplified Inference (< 8G VRAM for 1024x768)",
-            "Diffusion Model for Virtual Try-On",
-            "Mask-free version available",
-            "CatVTON-FLUX (LoRA for FLUX.1-Fill-dev)"
-        ],
-        "primary_use_case": "Virtual clothing try-on for fashion",
-        "open_issues": 67,
-        "cover_image_prompt": "A fashion designer stands in a magical workshop, holding a plain mannequin. With a wave of their hand, a digital projection of a person appears, and a chosen garment from a rack of vibrant clothes seamlessly drapes onto the projected figure, perfectly fitting its form. The input is a photograph of a person and a separate image of clothing; the output is the person virtually wearing the clothing. Subtle UI elements showing clothing selection and pose adjustments are visible on a nearby holographic screen. The scene is bathed in soft, creative light, with glowing data particles flowing from the designer's hand to the projection. The style is a 3D isometric illustration with clean lines and a modern, elegant aesthetic, emphasizing the transformation and ease of use."
-    },
-    {
-        "id": 241758947,
-        "name": "tickrs",
-        "description": "Realtime ticker data in your terminal 📈",
-        "url": "https://github.com/tarkah/tickrs",
-        "language": "Rust",
-        "stars": 1612,
-        "forks": 92,
-        "created_at": "2020-02-20T00:37:35Z",
-        "updated_at": "2026-05-17T00:55:32Z",
-        "topics": [
-            "rust",
-            "stocks",
-            "tui"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2026-05-07T20:51:33Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/32a809ee677cb327177870c42b57e1866be69e4e76a0f8b1fcc0905f10792b98/tarkah/tickrs"
-        ],
-        "homepage": "",
-        "readme_summary": "Tickrs is a Rust-based command-line application that provides real-time stock ticker data directly in the terminal. It leverages Yahoo! Finance for data and offers various customization options for displaying stock information, charts, and market hours.",
-        "key_features": [
-            "Real-time ticker data display",
-            "Terminal User Interface (TUI)",
-            "Data sourced from Yahoo! Finance",
-            "Customizable chart types (line, candle, kagi)",
-            "Configurable time frames and update intervals",
-            "Support for pre/post market hours",
-            "Multiple installation methods (binary, cargo, package managers)"
-        ],
-        "primary_use_case": "Displaying real-time stock market data and charts in a terminal environment.",
-        "open_issues": 27,
-        "cover_image_prompt": "A stylized, glowing terminal window floating in a digital space, displaying vibrant, real-time stock charts and ticker symbols. Data streams, visualized as glowing particles, flow from a subtle Yahoo! Finance logo towards the terminal. A small, stylized graph icon is integrated into the terminal's interface, representing the charting capabilities. The overall mood is dynamic and informative, with a clean, modern aesthetic. The art style should be a 3D isometric illustration with a dark background, emphasizing the glowing elements and data flow."
-    },
-    {
-        "id": 141040549,
-        "name": "seeker",
-        "description": "Accurately Locate Smartphones using Social Engineering ",
-        "url": "https://github.com/thewhiteh4t/seeker",
-        "language": "CSS",
-        "stars": 9455,
-        "forks": 2199,
-        "created_at": "2018-07-15T16:06:48Z",
-        "updated_at": "2026-05-17T00:23:20Z",
-        "topics": [
-            "accuracy",
-            "altitude",
-            "geolocation",
-            "latitude",
-            "longitude",
-            "reconnaissance",
-            "system-information"
-        ],
-        "quality_score": 0.65,
-        "contributors_count": 0,
-        "last_commit_date": "2025-05-07T18:37:09Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/141040549/6aa9c100-8153-11ea-9052-17796dfa5349"
-        ],
-        "homepage": "",
-        "readme_summary": "Seeker is a tool designed to accurately locate smartphones by hosting a fake website that requests location permissions. Upon user consent, it gathers precise location data (longitude, latitude, accuracy, altitude) and device information (unique ID, model, OS, hardware specs, IP addresses) through social engineering tactics. It serves as a proof-of-concept to educate users about potential data privacy risks from malicious websites.",
-        "key_features": [
-            "Hosts fake websites to request location permissions",
-            "Gathers Longitude, Latitude, Accuracy, Altitude, Direction, and Speed",
-            "Collects Device Information via Canvas Fingerprinting (Unique ID, Model, OS, CPU Cores, RAM, Screen Resolution, GPU, Browser, Public/Local IP)",
-            "Performs Automatic IP Address Reconnaissance",
-            "Provides higher accuracy than traditional IP Geolocation by using GPS hardware",
-            "Includes various pre-made templates (NearYou, Google Drive, WhatsApp, etc.)",
-            "Supports custom template creation"
-        ],
-        "primary_use_case": "To demonstrate and educate users about how malicious websites can exploit location permissions and gather sensitive device information through social engineering, acting as a proof-of-concept for security awareness.",
-        "open_issues": 10,
-        "cover_image_prompt": "A stylized, slightly mischievous-looking smartphone character holding a glowing compass, with its location pinpointed on a stylized map that is subtly integrated into a web browser window. Faint digital particles representing collected data (like longitude, latitude, and device specs) float around the phone and map. In the background, a subtle, abstract representation of a 'fake' website interface is visible, hinting at the social engineering aspect. The overall mood is informative and cautionary, using a clean, modern illustration style with a focus on clarity and a color palette of blues, greens, and a touch of warning red for the data points. The repository name 'Seeker' is subtly integrated into the browser's URL bar."
-    },
-    {
-        "id": 1227411368,
-        "name": "NeoShell",
-        "description": "Управляй своим ПК с телефона через Wi-Fi.",
-        "url": "https://github.com/rud1x/NeoShell",
-        "language": "Python",
-        "stars": 14,
-        "forks": 0,
-        "created_at": "2026-05-02T16:40:45Z",
-        "updated_at": "2026-05-17T07:09:02Z",
-        "topics": [
-            "desktop-app",
-            "easydownload",
-            "remote-control",
-            "web-app",
-            "windows",
-            "windows-tools"
-        ],
-        "quality_score": 0.44999999999999996,
-        "contributors_count": 0,
-        "last_commit_date": "2026-05-15T07:03:03Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/1227411368/46ca5fee-bacf-48ef-88ab-1e7dbdb0a905"
-        ],
-        "homepage": "",
-        "readme_summary": "NeoShell is a Python-based application that allows users to remotely control their Windows PC from a smartphone via Wi-Fi. It provides a web-based interface accessible from any device on the same network, offering features like PC locking, sleep, shutdown, task management, and application launching.",
-        "key_features": [
-            "Remote PC control via Wi-Fi",
-            "Web-based interface",
-            "PC locking, sleep, shutdown, reboot",
-            "Minimize all windows",
-            "Task Manager access",
-            "Close active application (Alt+F4)",
-            "Open links/searches in browser",
-            "Launch custom applications",
-            "Real-time PC status (PING)",
-            "Security with a secret key",
-            "Progressive Web App (PWA) support for mobile",
-            "Tray icon with status indication",
-            "Autostart with Windows"
-        ],
-        "primary_use_case": "Remotely managing and controlling a Windows PC from a smartphone or other web-enabled device over a local Wi-Fi network.",
-        "open_issues": 0,
-        "cover_image_prompt": "A person relaxing on a couch, holding a smartphone that displays a sleek, futuristic dashboard. From the smartphone, a glowing, ethereal beam of light connects to a stylized, simplified representation of a desktop computer. The computer is shown performing actions like dimming its screen (sleep) or having its windows neatly stacked and minimized. Subtle digital particles flow from the phone to the PC, indicating control. The background is a comfortable, modern living room. The overall mood is one of effortless convenience and power. The art style should be a 3D isometric illustration with a clean, vibrant color palette, emphasizing the seamless connection between the phone and the PC."
-    },
-    {
-        "id": 303762,
-        "name": "Gource",
-        "description": "software version control visualization",
-        "url": "https://github.com/acaudwell/Gource",
-        "language": "C++",
-        "stars": 12986,
-        "forks": 781,
-        "created_at": "2009-09-11T04:24:26Z",
-        "updated_at": "2026-05-17T06:14:02Z",
+        "id": 1216054784,
+        "name": "DroidDesk",
+        "description": "DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.",
+        "url": "https://github.com/orailnoor/DroidDesk",
+        "language": "Shell",
+        "stars": 1416,
+        "forks": 142,
+        "created_at": "2026-04-20T14:17:25Z",
+        "updated_at": "2026-05-18T08:42:35Z",
         "topics": [],
         "quality_score": 0.8,
         "contributors_count": 0,
-        "last_commit_date": "2026-03-06T05:45:50Z",
+        "last_commit_date": "2026-04-24T11:25:37Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/d61310e461b0ec71985684d7b5927605adce6dd7f69b883204c1021db3b2ea5a/acaudwell/Gource"
+            "https://opengraph.githubassets.com/a709fb27f82f8dac2e6d64607c0996d71fdc7dfc25d16a3cb825b9a212715b42/orailnoor/DroidDesk"
         ],
-        "homepage": "https://gource.io",
-        "readme_summary": "Gource is a C++ visualization tool that renders source control repository history as an interactive 3D tree. It visually represents directories as branches and files as leaves, with contributors appearing and disappearing as they make changes. The tool allows for real-time playback and customization of the visualization.",
+        "homepage": null,
+        "readme_summary": "DroidDesk enables users to run a full Linux desktop environment on their Android phone, leveraging Termux, Termux X11, and Proot. It allows for the installation and execution of various Linux applications, including development tools, office suites, and even demanding software like Blender, with support for both on-device display and external monitor output via USB-C or a Raspberry Pi bridge.",
         "key_features": [
-            "3D visualization of repository history",
-            "Tree-based display of directories and files",
-            "Contributor avatars appearing/disappearing",
-            "Interactive playback controls (start/stop dates, speed)",
-            "Customizable appearance (colors, background, logo)"
+            "Run full Linux desktop on Android",
+            "Direct kernel access, no emulation",
+            "Support for XFCE4, LXQt, MATE, KDE desktop environments",
+            "Install and run applications like VS Code, LibreOffice, Blender, Wireshark, Metasploit, and local AI",
+            "X11 and VNC support for display",
+            "Optional Raspberry Pi bridge for monitor output on phones without USB-C display out",
+            "Automatic menu syncing for Proot installed applications",
+            "GPU acceleration setup"
         ],
-        "primary_use_case": "Visualizing and understanding the history and evolution of source code repositories in an engaging and interactive 3D environment.",
-        "open_issues": 110,
-        "cover_image_prompt": "A vibrant, stylized 3D tree growing dynamically in a digital space. Each branch represents a directory, and leaves represent files. Tiny, diverse avatars of developers are seen actively tending to specific branches and leaves, making them glow or change color as they commit changes. Small, subtle UI elements showing commit messages and dates float around the tree. The repository name 'Gource' is subtly integrated into the roots of the tree. The overall mood is one of collaborative creation and growth. The art style should be a clean, modern 3D isometric illustration with a bright, engaging color palette."
+        "primary_use_case": "Transforming an Android phone into a portable Linux PC capable of running a wide range of desktop applications.",
+        "open_issues": 6,
+        "cover_image_prompt": "A vibrant digital painting of an Android phone seamlessly transforming into a full-fledged Linux desktop computer. The phone's screen expands outwards, morphing into a monitor displaying a bustling desktop environment with icons for VS Code, LibreOffice, and Blender. From the phone's charging port, a stream of digital code flows and solidifies into a keyboard and mouse. In the background, subtle elements like a glowing Raspberry Pi and a USB-C to HDMI adapter hint at the connectivity options. The overall mood is one of powerful transformation and portable computing, with the DroidDesk logo subtly integrated into the scene."
+    },
+    {
+        "id": 952822080,
+        "name": "vibe-draw",
+        "description": "🎨 Turn your roughest sketches into stunning 3D worlds by vibe drawing",
+        "url": "https://github.com/martin226/vibe-draw",
+        "language": "TypeScript",
+        "stars": 2086,
+        "forks": 289,
+        "created_at": "2025-03-22T00:20:20Z",
+        "updated_at": "2026-05-18T08:24:30Z",
+        "topics": [],
+        "quality_score": 0.45,
+        "contributors_count": 0,
+        "last_commit_date": "2025-03-25T08:48:39Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/f1399e14d1f48ced9b74ddfa8e16810a26d3ba50f9bf3921776ec7b41adf7e51/martin226/vibe-draw"
+        ],
+        "homepage": "",
+        "readme_summary": "Vibe Draw is a TypeScript-based application that transforms rough 2D sketches into detailed 3D models and worlds. It allows users to draw, enhance, convert to 3D, build within a 3D environment, and export their creations in glTF format.",
+        "key_features": [
+            "Sketching on a 2D canvas",
+            "AI-powered drawing enhancement",
+            "2D sketch to 3D model conversion",
+            "3D world building",
+            "Iterative editing of 3D models via sketching or text prompts",
+            "One-click glTF export"
+        ],
+        "primary_use_case": "To enable users with little to no 3D modeling experience to easily create and build 3D worlds from simple 2D sketches.",
+        "open_issues": 6,
+        "cover_image_prompt": "A whimsical artist, holding a magic paintbrush, stands before a blank canvas. With a single stroke, the canvas transforms from a simple, rough sketch into a vibrant, detailed 3D world that rises from the surface. Floating around the artist are glowing particles representing AI enhancement, and small, stylized UI elements showing the 'sketch-to-3D' process. The background is a soft, ethereal studio. The overall mood is one of effortless creation and imagination. The art style should be a 3D isometric illustration with a bright, inviting color palette, emphasizing the magical transformation from 2D to 3D. The repository name 'Vibe Draw' is subtly integrated into a floating signpost."
+    },
+    {
+        "id": 1227251667,
+        "name": "mac-audit",
+        "description": "Full audit of installed software on macOS",
+        "url": "https://github.com/demureiskander/mac-audit",
+        "language": "Shell",
+        "stars": 2,
+        "forks": 0,
+        "created_at": "2026-05-02T12:26:11Z",
+        "updated_at": "2026-05-18T08:35:09Z",
+        "topics": [],
+        "quality_score": 0.44999999999999996,
+        "contributors_count": 0,
+        "last_commit_date": "2026-05-02T14:40:44Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/2b2e9097b8e6261c348c15ec3454615653d3adab3124e095926cffc9fd086b37/demureiskander/mac-audit"
+        ],
+        "homepage": null,
+        "readme_summary": "mac-audit is a comprehensive shell script designed to perform a full audit of installed software on macOS. It identifies applications, programming languages, AI/LLM models, Docker components, DevOps tools, security utilities, and disk usage, providing details on what is installed, where it is located, and its purpose.",
+        "key_features": [
+            "Audits applications (Applications folder, Homebrew Casks, App Store, Login Items, VS Code extensions)",
+            "Scans various programming language installations (Python, Node.js, Rust, Go, Ruby, Java, PHP, etc.)",
+            "Detects AI/LLM models and related files (Ollama, LM Studio, GGUF, Safetensors)",
+            "Inspects Docker images, containers, volumes, and compose projects",
+            "Identifies DevOps tools (CLI tools for AWS/GCP/Azure, kubectl, Terraform, Ansible)",
+            "Lists installed security tools (nmap, Burp Suite, Metasploit, Wireshark)",
+            "Analyzes disk usage (top folders by size, large files, caches)",
+            "Modular design allowing for individual module scans",
+            "Saves audit results to a text file on the Desktop"
+        ],
+        "primary_use_case": "To provide users with a detailed inventory and analysis of all software and related components installed on their macOS system, aiding in system management, cleanup, and understanding.",
+        "open_issues": 0,
+        "cover_image_prompt": "A meticulous digital librarian standing in a vast, organized library filled with shelves representing different software categories on a macOS system. The librarian is using a glowing magnifying glass to examine a book labeled 'Installed Software,' revealing intricate details about each application, language, and tool within. Small holographic projections of code snippets, Docker containers, and AI models float around the librarian, illustrating the diverse nature of the audit. The background subtly shows a stylized macOS desktop. The scene is brightly lit with a clean, modern aesthetic, rendered in a 3D isometric illustration style with clear iconography and a focus on detail."
+    },
+    {
+        "id": 1216904355,
+        "name": "qnote",
+        "description": "Minimal Tauri desktop note editor with Markdown, PDF export, and file history",
+        "url": "https://github.com/Omibranch/qnote",
+        "language": "TypeScript",
+        "stars": 77,
+        "forks": 1,
+        "created_at": "2026-04-21T10:52:24Z",
+        "updated_at": "2026-05-18T06:33:02Z",
+        "topics": [],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2026-05-13T17:28:24Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/484abd01050d381dd12e4e2657d2ea8138c2c172698c200a08a0b819c6a9ad2c/Omibranch/qnote"
+        ],
+        "homepage": null,
+        "readme_summary": "qnote is a minimal, cross-platform desktop note editor built with Tauri and React. It focuses on providing a clean interface for writing and managing notes, with features like Markdown support, live preview, file history, and PDF/HTML export.",
+        "key_features": [
+            "Plain text and Markdown editing",
+            "Live Markdown preview",
+            "Formatting toolbar",
+            "File history with search",
+            "Version history",
+            "PDF export (via typst)",
+            "HTML export",
+            "OCR (via tesseract)",
+            "Dark and light themes",
+            "Customizable appearance",
+            "Synchronized scroll",
+            "Custom window controls",
+            "Cross-platform (Linux, Windows, macOS)"
+        ],
+        "primary_use_case": "A lightweight, feature-rich desktop application for writing, organizing, and exporting notes in plain text and Markdown formats.",
+        "open_issues": 3,
+        "cover_image_prompt": "A minimalist, cozy study room where a single, glowing quill pen is actively writing on a scroll. As the quill writes, the text on the scroll magically transforms into a neatly organized stack of documents and a small, elegant PDF file. The room has subtle digital elements, like floating data particles and a small, unobtrusive screen showing the 'qnote' logo and a simple file history timeline. The overall mood is calm and productive, with a clean, modern aesthetic. The style should be a 3D isometric illustration with soft, ambient lighting and a balanced color palette."
     }
 ]

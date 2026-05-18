@@ -1,37 +1,30 @@
 [
     {
-        "project_id": 823175328,
-        "content": "💡 <b>CatVTON</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nVirtual clothing try-on for fashion\n<br>\n✨ <b>Key Features:</b>\n• Lightweight Network (899.06M parameters)\n• Parameter-Efficient Training (49.57M parameters trainable)\n• Simplified Inference (< 8G VRAM for 1024x768)\n• Diffusion Model for Virtual Try-On\n• Mask-free version available\n<br>\n📖 <b>Summary:</b>\nCatVTON is an efficient diffusion model for virtual clothing try-on. It features a lightweight network architecture, parameter-efficient training, and simplified inference, allowing high-resolution try-ons with minimal VRAM.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Zheng-Chong/CatVTON?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/db3610777a33e806a7a753b35b1efc6bf09f3fc88756552e24fd5897b0695059/Zheng-Chong/CatVTON",
+        "project_id": 1216054784,
+        "content": "💡 <b>DroidDesk</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nTransforming an Android phone into a portable Linux PC capable of running a wide range of desktop applications.\n<br>\n✨ <b>Key Features:</b>\n• Run full Linux desktop on Android\n• Direct kernel access, no emulation\n• Support for XFCE4, LXQt, MATE, KDE desktop environments\n<br>\n📖 <b>Summary:</b>\nDroidDesk enables users to run a full Linux desktop environment on their Android phone, leveraging Termux, Termux X11, and Proot. It allows for the installation and execution of various Linux applications, including development tools, office suites, and even demanding software like Blender, with support for both on-device display and external monitor output via USB-C or a Raspberry Pi bridge.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/orailnoor/DroidDesk?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a709fb27f82f8dac2e6d64607c0996d71fdc7dfc25d16a3cb825b9a212715b42/orailnoor/DroidDesk",
         "platform": "telegram",
-        "quality_score": 0.6000000000000001
+        "quality_score": 0.8
     },
     {
-        "project_id": 241758947,
-        "content": "💡 <b>tickrs</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nDisplaying real-time stock market data and charts in a terminal environment.\n<br>\n✨ <b>Key Features:</b>\n• Real-time ticker data display\n• Terminal User Interface (TUI)\n• Data sourced from Yahoo! Finance\n• Customizable chart types (line, candle, kagi)\n• Configurable time frames and update intervals\n<br>\n📖 <b>Summary:</b>\nTickrs is a Rust-based command-line application that provides real-time stock ticker data directly in the terminal. It leverages Yahoo! Finance for data and offers various customization options for displaying stock information, charts, and market hours.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tarkah/tickrs?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/32a809ee677cb327177870c42b57e1866be69e4e76a0f8b1fcc0905f10792b98/tarkah/tickrs",
+        "project_id": 952822080,
+        "content": "🌟 <b>vibe-draw</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users with little to no 3D modeling experience to easily create and build 3D worlds from simple 2D sketches.\n<br>\n✨ <b>Key Features:</b>\n• Sketching on a 2D canvas\n• AI-powered drawing enhancement\n• 2D sketch to 3D model conversion\n• 3D world building\n• Iterative editing of 3D models via sketching or text prompts\n<br>\n📖 <b>Summary:</b>\nVibe Draw is a TypeScript-based application that transforms rough 2D sketches into detailed 3D models and worlds. It allows users to draw, enhance, convert to 3D, build within a 3D environment, and export their creations in glTF format.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/martin226/vibe-draw?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f1399e14d1f48ced9b74ddfa8e16810a26d3ba50f9bf3921776ec7b41adf7e51/martin226/vibe-draw",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
+        "quality_score": 0.45
     },
     {
-        "project_id": 141040549,
-        "content": "✨ <b>seeker</b> | CSS\n<br>\n🎯 <b>Primary Use Case:</b>\nTo demonstrate and educate users about how malicious websites can exploit location permissions and gather sensitive device information through social engineering, acting as a proof-of-concept for security awareness.\n<br>\n✨ <b>Key Features:</b>\n• Hosts fake websites to request location permissions\n<br>\n📖 <b>Summary:</b>\nSeeker is a tool designed to accurately locate smartphones by hosting a fake website that requests location permissions. Upon user consent, it gathers precise location data (longitude, latitude, accuracy, altitude) and device information (unique ID, model, OS, hardware specs, IP addresses) through social engineering tactics. It serves as a proof-of-concept to educate users about potential data privacy risks from malicious websites.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/thewhiteh4t/seeker?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/141040549/6aa9c100-8153-11ea-9052-17796dfa5349",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 1227411368,
-        "content": "🌟 <b>NeoShell</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRemotely managing and controlling a Windows PC from a smartphone or other web-enabled device over a local Wi-Fi network.\n<br>\n✨ <b>Key Features:</b>\n• Remote PC control via Wi-Fi\n• Web-based interface\n• PC locking, sleep, shutdown, reboot\n• Minimize all windows\n• Task Manager access\n<br>\n📖 <b>Summary:</b>\nNeoShell is a Python-based application that allows users to remotely control their Windows PC from a smartphone via Wi-Fi. It provides a web-based interface accessible from any device on the same network, offering features like PC locking, sleep, shutdown, task management, and application launching.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rud1x/NeoShell?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1227411368/46ca5fee-bacf-48ef-88ab-1e7dbdb0a905",
+        "project_id": 1227251667,
+        "content": "🚀 <b>mac-audit</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a detailed inventory and analysis of all software and related components installed on their macOS system, aiding in system management, cleanup, and understanding.\n<br>\n✨ <b>Key Features:</b>\n• Audits applications (Applications folder, Homebrew Casks, App Store, Login Items, VS Code extensions)\n• Scans various programming language installations (Python, Node.js, Rust, Go, Ruby, Java, PHP, etc.)\n<br>\n📖 <b>Summary:</b>\nmac-audit is a comprehensive shell script designed to perform a full audit of installed software on macOS. It identifies applications, programming languages, AI/LLM models, Docker components, DevOps tools, security utilities, and disk usage, providing details on what is installed, where it is located, and its purpose.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/demureiskander/mac-audit?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/2b2e9097b8e6261c348c15ec3454615653d3adab3124e095926cffc9fd086b37/demureiskander/mac-audit",
         "platform": "telegram",
         "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 303762,
-        "content": "🌟 <b>Gource</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nVisualizing and understanding the history and evolution of source code repositories in an engaging and interactive 3D environment.\n<br>\n✨ <b>Key Features:</b>\n• 3D visualization of repository history\n• Tree-based display of directories and files\n• Contributor avatars appearing/disappearing\n• Interactive playback controls (start/stop dates, speed)\n• Customizable appearance (colors, background, logo)\n<br>\n📖 <b>Summary:</b>\nGource is a C++ visualization tool that renders source control repository history as an interactive 3D tree. It visually represents directories as branches and files as leaves, with contributors appearing and disappearing as they make changes. The tool allows for real-time playback and customization of the visualization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/acaudwell/Gource?embed=0\">View Project</a>\n• <a href=\"https://gource.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d61310e461b0ec71985684d7b5927605adce6dd7f69b883204c1021db3b2ea5a/acaudwell/Gource",
+        "project_id": 1216904355,
+        "content": "🔥 <b>qnote</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA lightweight, feature-rich desktop application for writing, organizing, and exporting notes in plain text and Markdown formats.\n<br>\n✨ <b>Key Features:</b>\n• Plain text and Markdown editing\n• Live Markdown preview\n• Formatting toolbar\n• File history with search\n• Version history\n<br>\n📖 <b>Summary:</b>\nqnote is a minimal, cross-platform desktop note editor built with Tauri and React. It focuses on providing a clean interface for writing and managing notes, with features like Markdown support, live preview, file history, and PDF/HTML export.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Omibranch/qnote?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/484abd01050d381dd12e4e2657d2ea8138c2c172698c200a08a0b819c6a9ad2c/Omibranch/qnote",
         "platform": "telegram",
-        "quality_score": 0.8
+        "quality_score": 0.85
     }
 ]
