@@ -1,30 +1,37 @@
 [
     {
-        "project_id": 1216054784,
-        "content": "💡 <b>DroidDesk</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nTransforming an Android phone into a portable Linux PC capable of running a wide range of desktop applications.\n<br>\n✨ <b>Key Features:</b>\n• Run full Linux desktop on Android\n• Direct kernel access, no emulation\n• Support for XFCE4, LXQt, MATE, KDE desktop environments\n<br>\n📖 <b>Summary:</b>\nDroidDesk enables users to run a full Linux desktop environment on their Android phone, leveraging Termux, Termux X11, and Proot. It allows for the installation and execution of various Linux applications, including development tools, office suites, and even demanding software like Blender, with support for both on-device display and external monitor output via USB-C or a Raspberry Pi bridge.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/orailnoor/DroidDesk?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a709fb27f82f8dac2e6d64607c0996d71fdc7dfc25d16a3cb825b9a212715b42/orailnoor/DroidDesk",
+        "project_id": 1006414368,
+        "content": "✨ <b>OpenCut</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA cross-platform, open-source video editing application.\n<br>\n✨ <b>Key Features:</b>\n• Editor API\n• Third-party plugins\n• Cross-platform (web, desktop, mobile) with Rust core\n• MCP server for AI agents\n• Headless mode for automation\n<br>\n📖 <b>Summary:</b>\nOpenCut is a free and open-source video editor being rewritten from the ground up to support web, desktop, and mobile platforms with a Rust core. It aims to offer a plugin-first architecture, an editor API, and headless capabilities for automation and batch rendering.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/OpenCut-app/OpenCut?embed=0\">View Project</a>\n• <a href=\"https://opencut.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3c1a4b39c0896ce8d64f47e90a9a592c1e108b0abb3eae8114e0878d5048b1ae/OpenCut-app/OpenCut",
         "platform": "telegram",
-        "quality_score": 0.8
+        "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 952822080,
-        "content": "🌟 <b>vibe-draw</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users with little to no 3D modeling experience to easily create and build 3D worlds from simple 2D sketches.\n<br>\n✨ <b>Key Features:</b>\n• Sketching on a 2D canvas\n• AI-powered drawing enhancement\n• 2D sketch to 3D model conversion\n• 3D world building\n• Iterative editing of 3D models via sketching or text prompts\n<br>\n📖 <b>Summary:</b>\nVibe Draw is a TypeScript-based application that transforms rough 2D sketches into detailed 3D models and worlds. It allows users to draw, enhance, convert to 3D, build within a 3D environment, and export their creations in glTF format.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/martin226/vibe-draw?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f1399e14d1f48ced9b74ddfa8e16810a26d3ba50f9bf3921776ec7b41adf7e51/martin226/vibe-draw",
+        "project_id": 1176011916,
+        "content": "🔥 <b>CLI-Anything</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable AI agents to interact with and control any software through a unified command-line interface system.\n<br>\n✨ <b>Key Features:</b>\n• Agent-native software integration\n• CLI-Hub for browsing, installing, and managing community-built CLIs\n• Support for various AI agents (Pi, OpenClaw, nanobot, Cursor, Claude Code, etc.)\n• Extensible through community contributions\n<br>\n📖 <b>Summary:</b>\nCLI-Anything is a Python-based framework designed to make all software accessible to AI agents. It provides a unified hub for installing and managing command-line interfaces (CLIs), enabling AI agents to interact with and control various applications and services seamlessly.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HKUDS/CLI-Anything?embed=0\">View Project</a>\n• <a href=\"https://clianything.cc/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/26b9305f4b03fe6b88ee251082efacc6e8151cd7a01c7326dfd9d4e5d8133be2/HKUDS/CLI-Anything",
         "platform": "telegram",
-        "quality_score": 0.45
+        "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 1227251667,
-        "content": "🚀 <b>mac-audit</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a detailed inventory and analysis of all software and related components installed on their macOS system, aiding in system management, cleanup, and understanding.\n<br>\n✨ <b>Key Features:</b>\n• Audits applications (Applications folder, Homebrew Casks, App Store, Login Items, VS Code extensions)\n• Scans various programming language installations (Python, Node.js, Rust, Go, Ruby, Java, PHP, etc.)\n<br>\n📖 <b>Summary:</b>\nmac-audit is a comprehensive shell script designed to perform a full audit of installed software on macOS. It identifies applications, programming languages, AI/LLM models, Docker components, DevOps tools, security utilities, and disk usage, providing details on what is installed, where it is located, and its purpose.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/demureiskander/mac-audit?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2b2e9097b8e6261c348c15ec3454615653d3adab3124e095926cffc9fd086b37/demureiskander/mac-audit",
+        "project_id": 12320895,
+        "content": "🔥 <b>annyang</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling users to control websites and web applications using voice commands.\n<br>\n✨ <b>Key Features:</b>\n• Speech recognition for websites\n• Voice command control\n• No dependencies\n• Lightweight (2 KB)\n• MIT License\n<br>\n📖 <b>Summary:</b>\nannyang is a lightweight JavaScript library that enables speech recognition on websites, allowing users to control web applications and interact with content using voice commands. It requires no external dependencies and is easy to integrate.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TalAter/annyang?embed=0\">View Project</a>\n• <a href=\"https://www.talater.com/annyang/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/631b5d5a24c542829ea1067e7cb8c2f1be04a5f48d32846e84ea1202d9b191a4/TalAter/annyang",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.6
     },
     {
-        "project_id": 1216904355,
-        "content": "🔥 <b>qnote</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA lightweight, feature-rich desktop application for writing, organizing, and exporting notes in plain text and Markdown formats.\n<br>\n✨ <b>Key Features:</b>\n• Plain text and Markdown editing\n• Live Markdown preview\n• Formatting toolbar\n• File history with search\n• Version history\n<br>\n📖 <b>Summary:</b>\nqnote is a minimal, cross-platform desktop note editor built with Tauri and React. It focuses on providing a clean interface for writing and managing notes, with features like Markdown support, live preview, file history, and PDF/HTML export.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Omibranch/qnote?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/484abd01050d381dd12e4e2657d2ea8138c2c172698c200a08a0b819c6a9ad2c/Omibranch/qnote",
+        "project_id": 12286597,
+        "content": "🚀 <b>promises-unwrapping</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDefining and refining the specification for JavaScript Promises to standardize asynchronous programming.\n<br>\n✨ <b>Key Features:</b>\n• Definition of Promise states: fulfilled, rejected, pending\n• Explanation of Promise resolution and settlement\n• Abstract operations for Promise management (PromiseCapability, PromiseReaction)\n• Detailed algorithm steps for Promise handling (IfAbruptRejectPromise)\n<br>\n📖 <b>Summary:</b>\nThis repository contains the specification for ES6 Promises, defining their states (fulfilled, rejected, pending) and behavior. It serves as a staging ground for refining the promises specification and fixing related issues, aiming to provide a robust foundation for asynchronous operations in JavaScript.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/domenic/promises-unwrapping?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d6d98492f38bbcbf41a5877f86ffedc1500db152390bb40ebcbc95f6296d37f0/domenic/promises-unwrapping",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 651170890,
+        "content": "✨ <b>eidos</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a local-first, extensible, and AI-enhanced personal data management system that functions like a pocket database.\n<br>\n✨ <b>Key Features:</b>\n• Personal Data Management with Notion-like documents and databases\n• Offline Support with local data storage\n• AI Features for translation, summarization, and data interaction\n• Extensible framework with a simple extension system\n• Open SQLite data format\n<br>\n📖 <b>Summary:</b>\nEidos is an extensible framework for personal data management, transforming SQLite into a user-friendly pocket database. It offers Notion-like document and database capabilities with strong offline support and integrated AI features for data interaction and extension generation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mayneyao/eidos?embed=0\">View Project</a>\n• <a href=\"https://eidos.space?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/651170890/2c885f96-cbde-4737-a3d8-293f151bb0af",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
     }
 ]
