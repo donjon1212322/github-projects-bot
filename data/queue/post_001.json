@@ -1,7 +1,0 @@
-{
-    "project_id": 382717148,
-    "content": "🚀 <b>dock-droid</b> | Dockerfile\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning and testing Android environments within Docker containers for development, security research, and CI/CD pipelines.\n<br>\n✨ <b>Key Features:</b>\n• Run QEMU Android x86 and ARM in Docker\n• X11 Forwarding\n• ADB on port :5555\n• Magisk, riru, LSPosed support on Android x86\n• SSH enabled\n<br>\n📖 <b>Summary:</b>\nDock-Droid allows users to run Android x86 and ARM environments within Docker containers using QEMU and KVM. It facilitates advanced use cases like security research, CI/CD pipelines, and app testing with features like X11 forwarding, ADB access, and GPU passthrough.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sickcodes/dock-droid?embed=0\">View Project</a>\n• <a href=\"https://hub.docker.com/r/sickcodes/dock-droid?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://repository-images.githubusercontent.com/382717148/c619b900-de95-11eb-9dab-836dc1bd2775",
-    "platform": "telegram",
-    "quality_score": 0.35
-}
