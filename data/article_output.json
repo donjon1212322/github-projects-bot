@@ -1,26 +1,26 @@
 {
-    "title": "OpenCut: The Future of Open Source Video Editing is Being Rewritten for Developers!",
-    "article": "Imagine a video editor that isn't just powerful, but also completely open source, designed from the ground up for extensibility, and available everywhere – web, desktop, and mobile. That's the vision behind OpenCut, a project currently undergoing a massive rewrite to become the ultimate developer-friendly video editing platform. This isn't just another editor; it's a foundational tool being built for the future of creative workflows, addressing the limitations of proprietary software and empowering the developer community. The project aims to democratize video editing by providing a robust, flexible, and free alternative. It's about giving creators and developers the tools to innovate without boundaries. \n\nThe core of this ambitious rewrite is a robust Rust backend, promising exceptional performance and cross-platform compatibility from a single codebase. This means developers can expect a consistent and efficient experience regardless of the environment, whether they're building for the web, a desktop application, or a mobile device. A key innovation is its plugin-first architecture, which isn't just a feature but the very philosophy of OpenCut. This design choice means that almost everything, from effects to transitions, can be extended or customized through third-party plugins. This opens up an incredible world of possibilities for developers to build specialized tools and integrations, tailoring the editor precisely to their needs or contributing to a rich ecosystem.\n\nDevelopers will find immense value in the upcoming Editor API, which will allow programmatic control over video projects. Think about integrating video editing directly into your applications, automating complex tasks, or even building entirely new user interfaces on top of OpenCut's powerful engine. Furthermore, the introduction of a headless mode is a game-changer for automation. Imagine batch rendering thousands of videos, generating dynamic content based on data, or integrating video production into CI/CD pipelines – all without a graphical interface. This capability alone can transform how video content is created and deployed at scale, saving countless hours and resources.\n\nAnother exciting development is the MCP server, designed to integrate AI agents directly into your video workflows. This capability paves the way for intelligent editing assistants, automated content generation, and advanced video analysis, pushing the boundaries of what's possible in video production. Coupled with a dedicated scripting tab within the editor itself, developers will have unprecedented power to automate repetitive tasks and create custom editing scripts right where they work. OpenCut is poised to become the go-to platform for developers looking to push the boundaries of video creation, offering unparalleled control, flexibility, and a vibrant open-source ecosystem to contribute to and benefit from.",
+    "title": "WebLLM: Run AI Models Directly in Your Browser with WebGPU!",
+    "article": "Imagine being able to power advanced AI directly within your web applications, without needing to send any data to external servers. This isn't a futuristic dream; it's what WebLLM makes possible right now. This incredible project brings large language model (LLM) inference directly into your user's web browser, leveraging the power of their own device's hardware. It's a game-changer for privacy-conscious applications and for reducing server infrastructure costs associated with running powerful AI models.\n\nAt its core, WebLLM is a high-performance engine that runs entirely client-side. This means all the heavy lifting of running an LLM happens locally on the user's machine, accelerated by WebGPU. Think of it: no more API calls to external services for every AI interaction. The entire model, from its computations to its output generation, is contained within the browser environment. This architecture ensures that user data remains private and secure, as it never leaves their device.\n\nWhat's truly exciting for developers is WebLLM's compatibility with the OpenAI API. If you've worked with OpenAI's models before, you'll feel right at home. You can use the same familiar API calls for chat completions, streaming responses, and even structured JSON generation, but with a wide array of open-source models like Llama 3, Phi 3, Gemma, and Mistral, all running locally. This vastly simplifies the adoption process and allows you to leverage powerful, community-driven models without vendor lock-in or per-token costs.\n\nBeyond privacy and cost savings, WebLLM offers practical benefits for your development workflow. It supports real-time streaming for dynamic chat experiences, and its modular design makes it easy to integrate into existing web projects using npm or CDN. You can even bring your own custom models in MLC format, giving you ultimate flexibility. For optimal UI performance, WebLLM is designed to work seamlessly with Web Workers and Service Workers, ensuring that intensive AI computations don't bog down the user interface. This project truly empowers developers to build sophisticated, private, and high-performance AI-powered web applications like never before.",
     "key_takeaways": [
-        "OpenCut is an open-source, cross-platform video editor being rewritten with a developer-first approach.",
-        "Its plugin-first architecture and Editor API enable extensive customization and programmatic control over video projects.",
-        "A Rust core ensures high performance and consistent experience across web, desktop, and mobile from a single codebase.",
-        "Features like headless mode and a scripting tab offer powerful automation capabilities for video workflows and batch processing.",
-        "Integration with AI agents via an MCP server opens new possibilities for intelligent video creation and analysis."
+        "WebLLM enables high-performance LLM inference directly within web browsers using WebGPU.",
+        "It offers full OpenAI API compatibility, allowing developers to use familiar API calls with open-source models locally.",
+        "Enhances user privacy and reduces server costs by performing all AI computations client-side.",
+        "Supports a wide range of popular open-source models (e.g., Llama 3, Phi 3) and allows custom model integration.",
+        "Simplifies integration into web projects with npm/CDN, streaming capabilities, and Web Worker support for optimal performance."
     ],
     "tags": [
-        "video-editing",
-        "open-source",
-        "Rust",
-        "developer-tools",
-        "automation"
+        "WebGPU",
+        "LLM",
+        "In-Browser AI",
+        "Client-side Inference",
+        "OpenAI API"
     ],
-    "stars": 51402,
-    "forks": 5561,
-    "open_issues": 205,
+    "stars": 18021,
+    "forks": 1285,
+    "open_issues": 128,
     "languages": "TypeScript",
-    "readme_summary": "OpenCut is a free and open-source video editor being rewritten from the ground up to support web, desktop, and mobile platforms with a Rust core. It aims to offer a plugin-first architecture, an editor API, and headless capabilities for automation and batch rendering.",
-    "project_id": 1006414368,
-    "url": "https://github.com/OpenCut-app/OpenCut",
-    "description": "The open-source CapCut alternative"
+    "readme_summary": "WebLLM is a high-performance inference engine that runs Large Language Models (LLMs) directly in web browsers using WebGPU for hardware acceleration. It offers full compatibility with the OpenAI API, enabling local execution of various open-source models with features like streaming and JSON mode, all without requiring server support.",
+    "project_id": 627561173,
+    "url": "https://github.com/mlc-ai/web-llm",
+    "description": "High-performance In-browser LLM Inference Engine "
 }

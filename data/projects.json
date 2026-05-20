@@ -1,169 +1,192 @@
 [
     {
-        "id": 1006414368,
-        "name": "OpenCut",
-        "description": "The open-source CapCut alternative",
-        "url": "https://github.com/OpenCut-app/OpenCut",
-        "language": "TypeScript",
-        "stars": 51402,
-        "forks": 5561,
-        "created_at": "2025-06-22T08:02:17Z",
-        "updated_at": "2026-05-19T08:23:44Z",
-        "topics": [
-            "editor",
-            "oss",
-            "videoeditor"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2026-05-18T15:06:40Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/3c1a4b39c0896ce8d64f47e90a9a592c1e108b0abb3eae8114e0878d5048b1ae/OpenCut-app/OpenCut"
-        ],
-        "homepage": "https://opencut.app",
-        "readme_summary": "OpenCut is a free and open-source video editor being rewritten from the ground up to support web, desktop, and mobile platforms with a Rust core. It aims to offer a plugin-first architecture, an editor API, and headless capabilities for automation and batch rendering.",
-        "key_features": [
-            "Editor API",
-            "Third-party plugins",
-            "Cross-platform (web, desktop, mobile) with Rust core",
-            "MCP server for AI agents",
-            "Headless mode for automation",
-            "Scripting tab in editor"
-        ],
-        "primary_use_case": "A cross-platform, open-source video editing application.",
-        "open_issues": 205,
-        "cover_image_prompt": "A skilled artisan in a bustling workshop, using a magical, multi-faceted lens to sculpt raw video footage into a polished cinematic masterpiece. Raw, unedited film reels are fed into one side of the lens, transforming into vibrant, dynamic scenes projected onto a large screen on the other side. Subtle UI elements of timelines and editing tools are integrated into the workshop's machinery. The OpenCut logo is subtly etched onto the artisan's apron. The scene is rendered in a 3D isometric illustration style with a warm, creative atmosphere and clear, defined elements."
-    },
-    {
-        "id": 1176011916,
-        "name": "CLI-Anything",
-        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-        "url": "https://github.com/HKUDS/CLI-Anything",
-        "language": "Python",
-        "stars": 37093,
-        "forks": 3578,
-        "created_at": "2026-03-08T13:52:57Z",
-        "updated_at": "2026-05-19T08:26:34Z",
-        "topics": [],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2026-05-18T02:45:38Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/26b9305f4b03fe6b88ee251082efacc6e8151cd7a01c7326dfd9d4e5d8133be2/HKUDS/CLI-Anything"
-        ],
-        "homepage": "https://clianything.cc/",
-        "readme_summary": "CLI-Anything is a Python-based framework designed to make all software accessible to AI agents. It provides a unified hub for installing and managing command-line interfaces (CLIs), enabling AI agents to interact with and control various applications and services seamlessly.",
-        "key_features": [
-            "Agent-native software integration",
-            "CLI-Hub for browsing, installing, and managing community-built CLIs",
-            "Support for various AI agents (Pi, OpenClaw, nanobot, Cursor, Claude Code, etc.)",
-            "Extensible through community contributions",
-            "Unified skill management with `skills/` directory and `npx skills add` command"
-        ],
-        "primary_use_case": "To enable AI agents to interact with and control any software through a unified command-line interface system.",
-        "open_issues": 40,
-        "cover_image_prompt": "A friendly, anthropomorphic robot holding a universal remote control, standing in front of a vast digital landscape filled with diverse software icons (like gears, code brackets, design tools, and game controllers). The robot is pointing the remote, and from its tip, streams of light are connecting to and activating these software icons, causing them to glow. Subtle UI elements showing command inputs and outputs float around the robot. The overall mood is one of seamless integration and empowerment, with a clean, modern digital art style and vibrant, inviting colors."
-    },
-    {
-        "id": 12320895,
-        "name": "annyang",
-        "description": "💬 Speech recognition for your site",
-        "url": "https://github.com/TalAter/annyang",
-        "language": "TypeScript",
-        "stars": 6671,
-        "forks": 1035,
-        "created_at": "2013-08-23T10:59:34Z",
-        "updated_at": "2026-05-19T08:27:15Z",
-        "topics": [
-            "speech",
-            "speech-recognition",
-            "speech-to-text",
-            "voice"
-        ],
-        "quality_score": 0.6,
-        "contributors_count": 0,
-        "last_commit_date": "2026-04-07T06:33:29Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/631b5d5a24c542829ea1067e7cb8c2f1be04a5f48d32846e84ea1202d9b191a4/TalAter/annyang"
-        ],
-        "homepage": "https://www.talater.com/annyang/",
-        "readme_summary": "annyang is a lightweight JavaScript library that enables speech recognition on websites, allowing users to control web applications and interact with content using voice commands. It requires no external dependencies and is easy to integrate.",
-        "key_features": [
-            "Speech recognition for websites",
-            "Voice command control",
-            "No dependencies",
-            "Lightweight (2 KB)",
-            "MIT License"
-        ],
-        "primary_use_case": "Enabling users to control websites and web applications using voice commands.",
-        "open_issues": 10,
-        "cover_image_prompt": "A friendly, stylized robot assistant with a microphone icon on its chest, actively listening. Around the robot, speech bubbles transform into actionable icons like a play button, a search magnifying glass, and a navigation arrow, representing voice commands being translated into website actions. Subtle digital sound waves emanate from the robot. The background is a clean, modern website interface with a soft glow. The overall style is a 3D isometric illustration with bright, friendly colors, clearly showing 'annyang' subtly integrated into a small UI element on the robot's screen."
-    },
-    {
-        "id": 12286597,
-        "name": "promises-unwrapping",
-        "description": "The ES6 promises spec, as per September 2013 TC39 meeting",
-        "url": "https://github.com/domenic/promises-unwrapping",
+        "id": 1080633810,
+        "name": "viewermetrics",
+        "description": null,
+        "url": "https://github.com/viewermetrics/viewermetrics",
         "language": "JavaScript",
-        "stars": 1257,
-        "forks": 92,
-        "created_at": "2013-08-22T02:33:06Z",
-        "updated_at": "2026-05-19T08:11:16Z",
+        "stars": 170,
+        "forks": 13,
+        "created_at": "2025-10-21T16:37:17Z",
+        "updated_at": "2026-05-20T11:11:51Z",
         "topics": [],
         "quality_score": 0.55,
         "contributors_count": 0,
-        "last_commit_date": "2014-07-25T16:36:57Z",
+        "last_commit_date": "2025-12-11T22:41:52Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/d6d98492f38bbcbf41a5877f86ffedc1500db152390bb40ebcbc95f6296d37f0/domenic/promises-unwrapping"
+            "https://opengraph.githubassets.com/84eb24d80ae9b3c93c77e8c2af57f6879415cca1a221ff17f82c6505efdb4baa/viewermetrics/viewermetrics"
         ],
-        "homepage": "",
-        "readme_summary": "This repository contains the specification for ES6 Promises, defining their states (fulfilled, rejected, pending) and behavior. It serves as a staging ground for refining the promises specification and fixing related issues, aiming to provide a robust foundation for asynchronous operations in JavaScript.",
+        "homepage": null,
+        "readme_summary": "The Viewer Metrics Chrome Extension tracks and analyzes live stream viewers, differentiating between genuine users and potential bot accounts. It provides detailed analytics, user profiles, and visual charts to help streamers understand their audience composition.",
         "key_features": [
-            "Definition of Promise states: fulfilled, rejected, pending",
-            "Explanation of Promise resolution and settlement",
-            "Abstract operations for Promise management (PromiseCapability, PromiseReaction)",
-            "Detailed algorithm steps for Promise handling (IfAbruptRejectPromise)"
+            "Track viewer counts and authenticated users",
+            "Detect potential bot accounts",
+            "View detailed user profiles",
+            "Identify suspicious account creation patterns",
+            "Automatic adaptation to channels",
+            "Visual charts of legitimate vs. bot distribution",
+            "Searchable viewer list",
+            "Auto-adjusts request rates"
         ],
-        "primary_use_case": "Defining and refining the specification for JavaScript Promises to standardize asynchronous programming.",
-        "open_issues": 9,
-        "cover_image_prompt": "A wise old clockmaker meticulously assembling a complex, multi-layered clockwork mechanism. Each gear and spring represents a different stage of a deferred computation. Some gears are smoothly turning (fulfilled), others are stuck (rejected), and many are waiting to engage (pending). Small, glowing threads of light connect the gears, symbolizing the flow of data and control. The clockmaker uses a magnifying glass that shows a simplified representation of a promise chain. The repository name 'promises-unwrapping' is subtly etched onto the clockmaker's workbench. The scene is set in a cozy, well-lit workshop with a vintage aesthetic. 3D isometric illustration style with a warm, inviting color palette and intricate details."
+        "primary_use_case": "Analyzing live stream viewership to identify and filter out bot accounts, providing streamers with accurate audience metrics.",
+        "open_issues": 2,
+        "cover_image_prompt": "A vigilant digital gardener tending to a vibrant garden representing a live stream. The gardener uses a special magnifying glass, labeled 'Viewer Metrics', to inspect each plant (viewer). Healthy, real plants glow with a soft, natural light, while suspicious, artificial-looking plants are clearly marked with a subtle red digital glitch effect. The gardener is carefully pruning the artificial plants, allowing only the genuine ones to flourish. In the background, a small, clean UI element shows a pie chart with 'Real Viewers' and 'Bots' clearly distinguished. The scene is set in a bright, modern digital space with subtle code elements integrated into the garden paths. The style should be a 3D isometric illustration with clean lines and a focus on the contrast between organic and artificial elements."
     },
     {
-        "id": 651170890,
-        "name": "eidos",
-        "description": "An extensible framework for Personal Data Management.",
-        "url": "https://github.com/mayneyao/eidos",
-        "language": "TypeScript",
-        "stars": 3122,
-        "forks": 135,
-        "created_at": "2023-06-08T16:49:09Z",
-        "updated_at": "2026-05-19T07:23:57Z",
+        "id": 382717148,
+        "name": "dock-droid",
+        "description": "Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!",
+        "url": "https://github.com/sickcodes/dock-droid",
+        "language": "Dockerfile",
+        "stars": 1351,
+        "forks": 109,
+        "created_at": "2021-07-03T22:06:35Z",
+        "updated_at": "2026-05-20T11:02:15Z",
         "topics": [
-            "database",
-            "editor",
-            "llm",
-            "local-first",
-            "notion-alternative",
-            "offline",
-            "sqlite"
+            "android",
+            "docker",
+            "droid",
+            "kvm",
+            "linux",
+            "qemu",
+            "x86",
+            "x86-64"
         ],
-        "quality_score": 0.9500000000000001,
+        "quality_score": 0.35,
         "contributors_count": 0,
-        "last_commit_date": "2026-04-28T09:02:31Z",
+        "last_commit_date": "2022-04-22T19:39:18Z",
         "media_urls": [
-            "https://repository-images.githubusercontent.com/651170890/2c885f96-cbde-4737-a3d8-293f151bb0af"
+            "https://repository-images.githubusercontent.com/382717148/c619b900-de95-11eb-9dab-836dc1bd2775"
         ],
-        "homepage": "https://eidos.space",
-        "readme_summary": "Eidos is an extensible framework for personal data management, transforming SQLite into a user-friendly pocket database. It offers Notion-like document and database capabilities with strong offline support and integrated AI features for data interaction and extension generation.",
+        "homepage": "https://hub.docker.com/r/sickcodes/dock-droid",
+        "readme_summary": "Dock-Droid allows users to run Android x86 and ARM environments within Docker containers using QEMU and KVM. It facilitates advanced use cases like security research, CI/CD pipelines, and app testing with features like X11 forwarding, ADB access, and GPU passthrough.",
         "key_features": [
-            "Personal Data Management with Notion-like documents and databases",
-            "Offline Support with local data storage",
-            "AI Features for translation, summarization, and data interaction",
-            "Extensible framework with a simple extension system",
-            "Open SQLite data format"
+            "Run QEMU Android x86 and ARM in Docker",
+            "X11 Forwarding",
+            "ADB on port :5555",
+            "Magisk, riru, LSPosed support on Android x86",
+            "SSH enabled",
+            "SCRCPY enabled",
+            "WebCam forwarding",
+            "Audio forwarding",
+            "GPU passthrough",
+            "Support for BlissOS, custom images, VDI files, any Android x86 image, Xvfb headless mode",
+            "Container cloning with `docker commit`"
         ],
-        "primary_use_case": "To provide a local-first, extensible, and AI-enhanced personal data management system that functions like a pocket database.",
-        "open_issues": 17,
-        "cover_image_prompt": "A friendly, anthropomorphic SQLite database character, depicted as a wise old librarian, is meticulously organizing a vast, colorful library of personal documents and notes. The librarian uses a magical magnifying glass that reveals AI-generated summaries and translations of the documents. Small, glowing digital particles representing data flow from scattered notes into organized shelves. Subtle UI elements resembling Eidos's interface are visible on a nearby desk, showing data organization and extension creation tools. The scene is set in a cozy, well-lit study with a hint of futuristic technology. The overall style is a 3D isometric illustration with a warm color palette and clear, friendly details, emphasizing ease of use and powerful organization."
+        "primary_use_case": "Running and testing Android environments within Docker containers for development, security research, and CI/CD pipelines.",
+        "open_issues": 22,
+        "cover_image_prompt": "A digital alchemist in a futuristic laboratory, meticulously assembling a miniature, glowing Android robot from various digital components and code fragments. The alchemist is using a holographic interface to control the process, with streams of data flowing from a Docker whale icon into the Android. The background shows a stylized server rack with subtle code snippets and a 'Dock-Droid' logo integrated into the lab's design. The scene should convey the idea of creating and running a functional Android environment within a contained digital space. 3D isometric illustration style with vibrant neon accents and a clean, organized composition."
+    },
+    {
+        "id": 1034328270,
+        "name": "socktop",
+        "description": "socktop is a remote system monitor with a rich TUI interface, inspired by `top` and `btop`, that communicates with a lightweight remote agent over WebSockets.",
+        "url": "https://github.com/jasonwitty/socktop",
+        "language": "Rust",
+        "stars": 157,
+        "forks": 9,
+        "created_at": "2025-08-08T08:05:13Z",
+        "updated_at": "2026-05-20T10:17:44Z",
+        "topics": [],
+        "quality_score": 0.95,
+        "contributors_count": 0,
+        "last_commit_date": "2026-04-13T16:43:38Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/7691f54a0a0330566cf73339b753175529494fff5e62877e2a6516cc84aa245a/jasonwitty/socktop"
+        ],
+        "homepage": null,
+        "readme_summary": "Socktop is a remote system monitoring tool that provides a rich TUI interface, inspired by `top` and `btop`. It communicates with a lightweight agent over WebSockets, offering detailed system metrics and process information.",
+        "key_features": [
+            "Remote monitoring via WebSocket (JSON over WS)",
+            "Optional WSS (TLS) with client certificate pinning",
+            "TUI built with ratatui",
+            "Detailed CPU, Memory, Swap, Disk, Network, and Temperature metrics",
+            "Sortable process table with scrollbars",
+            "Optional GPU metrics",
+            "Optional agent authentication token"
+        ],
+        "primary_use_case": "Remote system monitoring with a user-friendly TUI.",
+        "open_issues": 0,
+        "cover_image_prompt": "A split scene: on the left, a complex, abstract network of glowing data streams flows from a small, unobtrusive server icon. On the right, a vibrant, detailed TUI dashboard materializes from these streams, displaying colorful graphs, process lists, and system metrics like CPU and memory usage. A subtle, stylized sock icon is integrated into the dashboard's header, representing the 'socktop' name. The overall aesthetic is clean, modern, and illustrative, with a focus on the transformation of raw data into understandable information. The style should be a 3D isometric illustration with a futuristic, digital theme and a clear, bright color palette."
+    },
+    {
+        "id": 49249526,
+        "name": "Cronicle",
+        "description": "A simple, distributed task scheduler and runner with a web based UI.",
+        "url": "https://github.com/jhuckaby/Cronicle",
+        "language": "JavaScript",
+        "stars": 5675,
+        "forks": 490,
+        "created_at": "2016-01-08T04:30:18Z",
+        "updated_at": "2026-05-20T09:55:22Z",
+        "topics": [
+            "cron",
+            "crontab",
+            "multiserver",
+            "scheduler"
+        ],
+        "quality_score": 0.8500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2026-05-19T17:35:51Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/b3061d732d1e4fd57d530ca2b638f0738f01a0714f63f9ea0d360b1ed4f212f3/jhuckaby/Cronicle"
+        ],
+        "homepage": "http://cronicle.net",
+        "readme_summary": "Cronicle is a robust, multi-server task scheduler and runner written in Node.js, offering a web-based UI for managing scheduled and on-demand jobs. It provides features like automated failover, real-time job status, live log viewing, and the ability to write plugins in any language.",
+        "key_features": [
+            "Single or multi-server setup",
+            "Automated failover to backup servers",
+            "Auto-discovery of nearby servers",
+            "Real-time job status with live log viewer",
+            "Plugins can be written in any language",
+            "Schedule events in multiple timezones",
+            "Track CPU and memory usage for each job",
+            "Historical stats with performance graphs",
+            "Simple REST API for scheduling and running events"
+        ],
+        "primary_use_case": "A distributed task scheduler and runner with a web-based UI, serving as an advanced replacement for traditional cron jobs across multiple servers.",
+        "open_issues": 319,
+        "cover_image_prompt": "A conductor orchestrating a symphony of diverse instruments, each representing a different server or task. The conductor, holding a glowing baton (representing the primary server), directs streams of musical notes (representing jobs) to various sections of the orchestra. Some instruments are highlighted with success glows, while others show subtle indicators of processing. Small, stylized UI elements like a clock and a progress bar are subtly integrated into the conductor's podium. The scene is set on a grand stage with dramatic lighting, emphasizing the synchronized execution of tasks. The overall style is a vibrant, 3D isometric illustration with clean lines and a clear visual hierarchy, conveying organized automation and distributed control."
+    },
+    {
+        "id": 627561173,
+        "name": "web-llm",
+        "description": "High-performance In-browser LLM Inference Engine ",
+        "url": "https://github.com/mlc-ai/web-llm",
+        "language": "TypeScript",
+        "stars": 18021,
+        "forks": 1285,
+        "created_at": "2023-04-13T18:11:59Z",
+        "updated_at": "2026-05-20T08:30:54Z",
+        "topics": [
+            "chatgpt",
+            "deep-learning",
+            "language-model",
+            "llm",
+            "tvm",
+            "webgpu",
+            "webml"
+        ],
+        "quality_score": 1.05,
+        "contributors_count": 0,
+        "last_commit_date": "2026-05-19T18:48:08Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/13454d6d67e597c88870ca718296019da5788f3b6c422a1e296837ffd367216b/mlc-ai/web-llm"
+        ],
+        "homepage": "https://webllm.mlc.ai",
+        "readme_summary": "WebLLM is a high-performance inference engine that runs Large Language Models (LLMs) directly in web browsers using WebGPU for hardware acceleration. It offers full compatibility with the OpenAI API, enabling local execution of various open-source models with features like streaming and JSON mode, all without requiring server support.",
+        "key_features": [
+            "In-Browser Inference",
+            "Full OpenAI API Compatibility",
+            "Structured JSON Generation",
+            "Extensive Model Support",
+            "Custom Model Integration",
+            "Plug-and-Play Integration",
+            "Streaming & Real-Time Interactions",
+            "Web Worker & Service Worker Support"
+        ],
+        "primary_use_case": "To enable high-performance, privacy-preserving LLM inference directly within web browsers, leveraging local hardware acceleration (WebGPU) and offering OpenAI API compatibility for a wide range of open-source models.",
+        "open_issues": 128,
+        "cover_image_prompt": "A friendly, stylized robot sitting comfortably at a desk in a sunlit room, holding a tablet that displays a chat interface. The robot is effortlessly conjuring complex ideas and text from the tablet, which are visualized as glowing, colorful streams of data flowing directly from the device into the robot's 'mind' (represented by a subtle, glowing aura around its head). Small, abstract representations of various LLM models (like stylized brains or gears) are visible in the background, connected to the tablet by thin, digital threads. The overall scene should convey ease of use, local processing power, and the magic of AI running directly on a personal device. The style should be a clean, modern 3D isometric illustration with a bright and optimistic color palette."
     }
 ]
