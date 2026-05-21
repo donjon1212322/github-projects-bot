@@ -1,37 +1,30 @@
 [
     {
-        "project_id": 1080633810,
-        "content": "🔥 <b>viewermetrics</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAnalyzing live stream viewership to identify and filter out bot accounts, providing streamers with accurate audience metrics.\n<br>\n✨ <b>Key Features:</b>\n• Track viewer counts and authenticated users\n• Detect potential bot accounts\n• View detailed user profiles\n• Identify suspicious account creation patterns\n• Automatic adaptation to channels\n<br>\n📖 <b>Summary:</b>\nThe Viewer Metrics Chrome Extension tracks and analyzes live stream viewers, differentiating between genuine users and potential bot accounts. It provides detailed analytics, user profiles, and visual charts to help streamers understand their audience composition.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/viewermetrics/viewermetrics?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/84eb24d80ae9b3c93c77e8c2af57f6879415cca1a221ff17f82c6505efdb4baa/viewermetrics/viewermetrics",
+        "project_id": 934834864,
+        "content": "🌟 <b>browserytools</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a private, offline suite of essential browser-based tools for everyday productivity tasks like file conversion, image editing, text manipulation, and data processing.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered background removal\n• Image compression and format conversion\n• PDF manipulation (merge, split, compress)\n<br>\n📖 <b>Summary:</b>\nBrowseryTools is a collection of over 80 browser-based utility tools built with Next.js and TypeScript. These tools operate entirely client-side, ensuring user privacy and eliminating the need for server uploads or accounts. They cover a wide range of functionalities including image manipulation, file conversion, text processing, data handling, and calculations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aghyad97/browserytools?embed=0\">View Project</a>\n• <a href=\"https://browserytools.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/2d1084862ec221f9dcb00bddf4326c6127db4e377811b80b07449f65f25e4d6c/aghyad97/browserytools",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 0.75
     },
     {
-        "project_id": 382717148,
-        "content": "🚀 <b>dock-droid</b> | Dockerfile\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning and testing Android environments within Docker containers for development, security research, and CI/CD pipelines.\n<br>\n✨ <b>Key Features:</b>\n• Run QEMU Android x86 and ARM in Docker\n• X11 Forwarding\n• ADB on port :5555\n• Magisk, riru, LSPosed support on Android x86\n• SSH enabled\n<br>\n📖 <b>Summary:</b>\nDock-Droid allows users to run Android x86 and ARM environments within Docker containers using QEMU and KVM. It facilitates advanced use cases like security research, CI/CD pipelines, and app testing with features like X11 forwarding, ADB access, and GPU passthrough.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sickcodes/dock-droid?embed=0\">View Project</a>\n• <a href=\"https://hub.docker.com/r/sickcodes/dock-droid?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/382717148/c619b900-de95-11eb-9dab-836dc1bd2775",
+        "project_id": 146309233,
+        "content": "🌟 <b>linux-wallpaperengine</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to use animated wallpapers from Steam's Wallpaper Engine on Linux desktops.\n<br>\n✨ <b>Key Features:</b>\n• Run Steam Wallpaper Engine backgrounds on Linux\n• OpenGL-based implementation\n• Supports X11 and Wayland\n<br>\n📖 <b>Summary:</b>\nThis project brings Wallpaper Engine-style live wallpapers to Linux, allowing users to run animated wallpapers from Steam's Wallpaper Engine on their desktop. It's an educational OpenGL-based wallpaper engine for Linux.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Almamu/linux-wallpaperengine?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b39d998f0efe4115943324de722298105ffb983a06902379802477130a6ab8c6/Almamu/linux-wallpaperengine",
         "platform": "telegram",
-        "quality_score": 0.35
+        "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 1034328270,
-        "content": "✨ <b>socktop</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nRemote system monitoring with a user-friendly TUI.\n<br>\n✨ <b>Key Features:</b>\n• Remote monitoring via WebSocket (JSON over WS)\n• Optional WSS (TLS) with client certificate pinning\n• TUI built with ratatui\n• Detailed CPU, Memory, Swap, Disk, Network, and Temperature metrics\n• Sortable process table with scrollbars\n<br>\n📖 <b>Summary:</b>\nSocktop is a remote system monitoring tool that provides a rich TUI interface, inspired by `top` and `btop`. It communicates with a lightweight agent over WebSockets, offering detailed system metrics and process information.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jasonwitty/socktop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7691f54a0a0330566cf73339b753175529494fff5e62877e2a6516cc84aa245a/jasonwitty/socktop",
+        "project_id": 950564038,
+        "content": "💡 <b>unity-mcp</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling AI assistants to directly interact with and control the Unity Editor for game development and other Unity-based projects.\n<br>\n✨ <b>Key Features:</b>\n• AI assistant integration (Claude, Cursor, VS Code, etc.)\n• Direct Unity Editor interaction via MCP\n• Tools for asset management\n• Tools for scene control\n• Tools for script editing\n<br>\n📖 <b>Summary:</b>\nUnity MCP is a C# integration tool that bridges AI assistants with the Unity Editor. It allows LLMs to directly manage Unity assets, control scenes, edit scripts, and automate development tasks through the Model Context Protocol.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/CoplayDev/unity-mcp?embed=0\">View Project</a>\n• <a href=\"https://www.coplay.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/950564038/eca80507-594c-42f0-b5b5-c1f7443ea535",
         "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 1.1
     },
     {
-        "project_id": 49249526,
-        "content": "🔥 <b>Cronicle</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA distributed task scheduler and runner with a web-based UI, serving as an advanced replacement for traditional cron jobs across multiple servers.\n<br>\n✨ <b>Key Features:</b>\n• Single or multi-server setup\n• Automated failover to backup servers\n• Auto-discovery of nearby servers\n• Real-time job status with live log viewer\n• Plugins can be written in any language\n<br>\n📖 <b>Summary:</b>\nCronicle is a robust, multi-server task scheduler and runner written in Node.js, offering a web-based UI for managing scheduled and on-demand jobs. It provides features like automated failover, real-time job status, live log viewing, and the ability to write plugins in any language.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jhuckaby/Cronicle?embed=0\">View Project</a>\n• <a href=\"http://cronicle.net?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b3061d732d1e4fd57d530ca2b638f0738f01a0714f63f9ea0d360b1ed4f212f3/jhuckaby/Cronicle",
+        "project_id": 910107320,
+        "content": "✨ <b>Constrict</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCompressing video files to meet specific size limits for uploads or storage, without manual trial-and-error.\n<br>\n✨ <b>Key Features:</b>\n• Compress videos to target file sizes\n• Automatic calculation of ABR, resolution, framerate, and audio quality\n• Bulk compression of multiple videos\n• Customization of framerate limits\n• Choice of codecs (H.264, HEVC, AV1, VP9)\n<br>\n📖 <b>Summary:</b>\nConstrict is a desktop application designed to compress video files to a specific target file size. It automates the process of calculating necessary encoding parameters like bitrate, resolution, and framerate, offering a user-friendly interface for bulk video compression.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Wartybix/Constrict?embed=0\">View Project</a>\n• <a href=\"https://apps.gnome.org/Constrict?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f61020721ea3d233b1dc6862d0e865e6ef7b6f429576fbb87826abbad9360993/Wartybix/Constrict",
         "platform": "telegram",
-        "quality_score": 0.8500000000000001
-    },
-    {
-        "project_id": 627561173,
-        "content": "🚀 <b>web-llm</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable high-performance, privacy-preserving LLM inference directly within web browsers, leveraging local hardware acceleration (WebGPU) and offering OpenAI API compatibility for a wide range of open-source models.\n<br>\n✨ <b>Key Features:</b>\n• In-Browser Inference\n• Full OpenAI API Compatibility\n• Structured JSON Generation\n• Extensive Model Support\n<br>\n📖 <b>Summary:</b>\nWebLLM is a high-performance inference engine that runs Large Language Models (LLMs) directly in web browsers using WebGPU for hardware acceleration. It offers full compatibility with the OpenAI API, enabling local execution of various open-source models with features like streaming and JSON mode, all without requiring server support.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mlc-ai/web-llm?embed=0\">View Project</a>\n• <a href=\"https://webllm.mlc.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/13454d6d67e597c88870ca718296019da5788f3b6c422a1e296837ffd367216b/mlc-ai/web-llm",
-        "platform": "telegram",
-        "quality_score": 1.05
+        "quality_score": 0.6499999999999999
     }
 ]
