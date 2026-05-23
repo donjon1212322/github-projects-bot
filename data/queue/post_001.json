@@ -1,7 +1,0 @@
-{
-    "project_id": 1100263499,
-    "content": "✨ <b>SAM3-UNet</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAdapting large foundation models like SAM3 for specific image segmentation tasks with minimal computational resources.\n<br>\n✨ <b>Key Features:</b>\n• Simplified adaptation of SAM3\n• Parameter-efficient fine-tuning\n• Lightweight U-Net-style decoder\n• Low GPU memory usage (< 6GB)\n• Outperforms prior methods on tasks like mirror and salient object detection\n<br>\n📖 <b>Summary:</b>\nSAM3-UNet is a simplified adaptation of the Segment Anything Model 3 (SAM3) designed for efficient fine-tuning on downstream tasks. It combines a SAM3 image encoder with a parameter-efficient adapter and a lightweight U-Net decoder, achieving competitive performance with significantly reduced GPU memory requirements.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/WZH0120/SAM3-UNet?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/d56a1f87920fcf685b32243205585a0b5c3c7e9d6730847dd8060f44dc158148/WZH0120/SAM3-UNet",
-    "platform": "telegram",
-    "quality_score": 0.6
-}
