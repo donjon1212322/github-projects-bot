@@ -1,26 +1,26 @@
 {
-    "title": "Unmasking Your AI Coding Costs: Discover CodeBurn!",
-    "article": "CodeBurn's core purpose is to track token usage, cost, and performance across a wide array of AI coding tools – currently supporting over 20 different providers. It meticulously breaks down your spending, allowing you to see precisely where your budget is going. You can analyze costs by task type, specific AI model used, the tool itself, individual projects, and even by the provider. This granular insight is invaluable for understanding your AI consumption patterns and making informed decisions about your development resources.What makes CodeBurn truly stand out is its commitment to privacy and simplicity. Unlike many other tools that might require API keys, wrappers, or proxies, CodeBurn operates entirely locally on your machine. It directly reads session data from the disk, ensuring that your sensitive information never leaves your environment. It then uses the powerful LiteLLM library to accurately price every single call, giving you precise cost estimations without any overhead or security concerns. This local-first approach means you maintain full control over your data.Developers will find CodeBurn incredibly useful for several reasons. Firstly, it provides a clear, interactive dashboard right in your terminal, offering a comprehensive overview of your usage over various periods – from today's activity to a rolling 30-day window, or even all recorded sessions. There's also a convenient macOS menubar application for quick glances at your stats. Beyond just tracking, CodeBurn helps you optimize your AI coding workflow. Its 'optimize' feature can identify potential waste and even suggest copy-paste fixes to improve efficiency. Furthermore, the 'compare' functionality allows you to pit different AI coding tools against each other, helping you make informed decisions about which tools offer the best performance-to-cost ratio for your specific needs.Imagine being able to confidently choose between different AI models or providers, knowing exactly how each impacts your budget and productivity. CodeBurn empowers you to do just that. It's not just about saving money; it's about making smarter, data-driven decisions about the AI tools you integrate into your daily development process. Whether you're a solo developer or part of a larger team, understanding and controlling these costs is becoming increasingly vital. CodeBurn provides the insights you need to manage your AI coding budget effectively and get the most out of your AI assistants, ensuring your AI spend is always transparent and optimized.",
+    "title": "Unleash Your AI's Inner Scientist: Discover Scientific Agent Skills!",
+    "article": "Ever wished your AI agent could do more than just code or chat? What if it could dive deep into scientific data, analyze complex genomics, predict drug interactions, or even simulate molecular dynamics? For many of us, integrating AI into specialized scientific workflows has been a dream, often hampered by the AI's lack of domain-specific tools and knowledge. This is where Scientific Agent Skills comes in, transforming that dream into a tangible reality.\n\nAt its core, Scientific Agent Skills is a comprehensive collection of 138 ready-to-use scientific and research capabilities. Think of it as giving your AI agent a vast, specialized library of scientific instruments and databases. It's designed to empower any AI agent that supports the open Agent Skills standard, meaning broad compatibility with tools like Cursor, Claude Code, and Codex. This isn't just about general programming; it's about enabling your AI to seamlessly work with specialized scientific libraries, access over 100 scientific databases, and execute complex multi-step scientific workflows across an incredible range of disciplines.\n\nSo, how does it work its magic? Instead of your AI having to figure out how to interact with, say, a bioinformatics package or a cheminformatics database from scratch, these pre-defined skills provide curated documentation and examples. This makes your AI significantly stronger and more reliable for tasks that would typically require a human expert. Imagine your AI performing sequence analysis, predicting molecular properties, interpreting clinical trial data, or even analyzing astronomical datasets with a newfound ease and accuracy. It covers everything from cancer genomics and drug-target binding to geospatial science, time series forecasting, and materials science.\n\nFor developers, the benefits are immense. This project drastically reduces the barrier to entry for building AI-powered scientific applications. You no longer need to spend countless hours configuring environments or integrating obscure scientific APIs. Your AI agent gains the ability to act as a true research assistant, accelerating discovery and automating tedious analytical tasks. It saves time, improves workflow efficiency, and opens up entirely new possibilities for AI in scientific research and development.\n\nIf you're eager to experience this firsthand, you absolutely must check out K-Dense BYOK. It's a free, open-source AI co-scientist application that runs right on your desktop. It comes pre-loaded with all 138 Scientific Agent Skills, provides access to over 100 scientific databases, and lets you bring your own API keys to work with more than 40 different models. Your data stays private on your computer, with the option to scale to cloud compute via Modal for heavy workloads. It's a complete, powerful research workspace that puts the future of scientific AI directly into your hands. This project is a genuine game-changer, empowering developers to push the boundaries of what AI can achieve in the scientific world.",
     "key_takeaways": [
-        "Tracks AI coding token usage, cost, and performance across 20+ tools.",
-        "Operates entirely locally, ensuring privacy with no API keys or proxies required.",
-        "Provides granular spending breakdowns by task type, model, tool, project, and provider.",
-        "Features an interactive dashboard, optimization suggestions, and AI tool comparison.",
-        "Empowers developers to make data-driven decisions for efficient AI coding budget management."
+        "Transforms AI agents into powerful scientific research assistants with 138 pre-built skills.",
+        "Offers broad compatibility with any AI agent supporting the open Agent Skills standard (e.g., Cursor, Claude Code).",
+        "Enables AI to access specialized scientific libraries and over 100 databases across diverse domains.",
+        "Significantly saves developers time and effort in automating complex scientific workflows.",
+        "K-Dense BYOK provides a free, open-source desktop AI co-scientist with all skills, local data privacy, and extensive model support."
     ],
     "tags": [
-        "AI tools",
-        "Cost management",
-        "Developer productivity",
-        "Token usage",
-        "Open Source"
+        "AI",
+        "AgentSkills",
+        "ScientificComputing",
+        "ResearchAI",
+        "Bioinformatics"
     ],
-    "stars": 7028,
-    "forks": 533,
-    "open_issues": 10,
-    "languages": "TypeScript",
-    "readme_summary": "CodeBurn is a local TUI dashboard for tracking AI coding token usage and costs across various AI tools. It provides detailed breakdowns of spending by task, model, project, and provider, helping developers understand and optimize their AI expenses without sending any data externally.",
-    "project_id": 1209889782,
-    "url": "https://github.com/getagentseal/codeburn",
-    "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability."
+    "stars": 25973,
+    "forks": 2704,
+    "open_issues": 12,
+    "languages": "Python",
+    "readme_summary": "Scientific Agent Skills provides a comprehensive collection of 138 pre-built skills for AI agents, enabling them to perform complex scientific and research workflows across various domains like bioinformatics, drug discovery, and materials science. These skills adhere to the open Agent Skills standard, ensuring broad compatibility with different AI agent frameworks.",
+    "project_id": 1079456184,
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
 }
