@@ -1,44 +1,37 @@
 [
     {
-        "project_id": 1143440578,
-        "content": "🚀 <b>unbrowse</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable AI agents to interact with websites by automatically reverse-engineering and creating reusable API interfaces, making web automation faster, cheaper, and more efficient.\n<br>\n✨ <b>Key Features:</b>\n• Local MCP server and CLI\n• Auto-discovery of APIs from browser traffic\n• Generates reusable API interfaces (skills) on the fly\n<br>\n📖 <b>Summary:</b>\nUnbrowse is a local Model Context Protocol (MCP) server and CLI that transforms websites into reusable API interfaces for agents. It captures network traffic, reverse-engineers API endpoints, and stores learned information in a marketplace for instant reuse, significantly improving agent efficiency and reducing costs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/unbrowse-ai/unbrowse?embed=0\">View Project</a>\n• <a href=\"https://unbrowse.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1143440578/8d6c69ec-1e4b-4fcf-b90f-c39c1236f927",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 135941897,
-        "content": "🌟 <b>taskt</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating repetitive, rule-based tasks across desktop and web applications without requiring deep programming knowledge.\n<br>\n✨ <b>Key Features:</b>\n• Free and open-source RPA client\n• Built in C#/.NET Framework\n• No-code bot design with visual designer\n• Element recorder and screen recorder\n• Automation for web and desktop applications\n<br>\n📖 <b>Summary:</b>\ntaskt is a free and open-source Robotic Process Automation (RPA) tool built with C# and the .NET Framework. It allows users to design and build automation scripts without extensive coding, featuring a visual bot designer, element recorder, and screen recorder.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/saucepleez/taskt?embed=0\">View Project</a>\n• <a href=\"http://www.taskt.net/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c08f0eef93780e74fa450b7f4ec5d05b84a9b5c4b2c333691012309327977966/saucepleez/taskt",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 1136558155,
-        "content": "✨ <b>bluehood</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo monitor, analyze, and visualize local Bluetooth device activity for educational purposes, raising awareness about Bluetooth privacy and potential metadata leakage.\n<br>\n✨ <b>Key Features:</b>\n• Continuous scanning for BLE and Classic Bluetooth devices\n• Device identification by vendor and BLE service UUIDs\n• Device classification into categories (phones, audio, vehicles, etc.)\n• Tracking presence patterns with hourly/daily heatmaps\n<br>\n📖 <b>Summary:</b>\nBluehood is a Python-based project that monitors and analyzes Bluetooth activity in a local neighborhood. It identifies and classifies nearby Bluetooth devices, tracks their presence patterns over time, and provides a web dashboard for visualization and analysis, aiming to raise awareness about Bluetooth privacy risks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dannymcc/bluehood?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9ac47be35b1c9d7b507ba849c015a1a5dd56e31be20a162172464c3f707e356b/dannymcc/bluehood",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 1079456184,
-        "content": "🚀 <b>scientific-agent-skills</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo empower AI agents with specialized capabilities to execute complex scientific research and analysis tasks across multiple disciplines.\n<br>\n✨ <b>Key Features:</b>\n• 138 ready-to-use scientific and research skills\n• Supports the open Agent Skills standard for broad compatibility\n<br>\n📖 <b>Summary:</b>\nScientific Agent Skills provides a comprehensive collection of 138 pre-built skills for AI agents, enabling them to perform complex scientific and research workflows across various domains like bioinformatics, drug discovery, and materials science. These skills adhere to the open Agent Skills standard, ensuring broad compatibility with different AI agent frameworks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/K-Dense-AI/scientific-agent-skills?embed=0\">View Project</a>\n• <a href=\"https://k-dense.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/831ece8a9ce36a621674a972359992e88e66e9eef38291d0adf3fddeac570bda/K-Dense-AI/scientific-agent-skills",
+        "project_id": 286047827,
+        "content": "💡 <b>deskreen</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nExtending a computer's display to other devices wirelessly using a web browser.\n<br>\n✨ <b>Key Features:</b>\n• Turns any device with a web browser into a secondary screen\n• Uses WebRTC for live screen streaming\n• Supports Windows, macOS, and Linux\n• End-to-end encryption (mentioned in topics)\n• Share app window (mentioned in topics)\n<br>\n📖 <b>Summary:</b>\nDeskreen CE is an Electron.js application that allows users to turn any device with a web browser into a secondary screen for their computer. It utilizes WebRTC for live screen sharing and supports Windows, macOS, and Linux.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pavlobu/deskreen?embed=0\">View Project</a>\n• <a href=\"https://deskreen.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/286047827/8695a800-607f-11eb-8a77-c34b9a202815",
         "platform": "telegram",
         "quality_score": 1.1
     },
     {
-        "project_id": 1118601518,
-        "content": "✨ <b>sub2api</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo act as a unified gateway for accessing and managing multiple AI service subscriptions, enabling efficient quota distribution, cost-sharing, and streamlined API key management for users.\n<br>\n✨ <b>Key Features:</b>\n• Multi-Account Management\n• API Key Distribution\n• Precise Billing (Token-level)\n• Smart Scheduling (Sticky Sessions)\n• Concurrency Control\n<br>\n📖 <b>Summary:</b>\nSub2API is an open-source AI API gateway platform that centralizes access to various AI services like Claude, OpenAI, and Gemini. It allows users to share subscription quotas, manage API keys, and handle authentication, billing, and request forwarding, making AI service access more efficient and cost-effective.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Wei-Shaw/sub2api?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6f16c34138c55df55df1be4a52401a48a4199749693e4a329a852bf739a1c428/Wei-Shaw/sub2api",
+        "project_id": 463270269,
+        "content": "🔥 <b>arcada</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and visualizing interior floor plans and designs.\n<br>\n✨ <b>Key Features:</b>\n• Add walls\n• Edit walls\n• Add/edit furniture\n• Add doors/windows\n• Measure tool\n<br>\n📖 <b>Summary:</b>\nArcada is an open-source, web-based interior design and floor plan creation software. It allows users to draw walls, add doors and windows, place furniture, and measure spaces accurately to scale, with support for multiple floors and saving/loading designs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mehanix/arcada?embed=0\">View Project</a>\n• <a href=\"https://arcada.nicoleta.cc?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/31619c4f94fb9f02e6aa9def9ac8e9c28207f30f66e3502e4f2562bb1808207e/mehanix/arcada",
+        "platform": "telegram",
+        "quality_score": 0.7000000000000001
+    },
+    {
+        "project_id": 1062458369,
+        "content": "💡 <b>page-agent</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling users to control web interfaces with natural language, making web applications more accessible and automating complex workflows like form filling and SaaS AI copilot integration.\n<br>\n✨ <b>Key Features:</b>\n• Easy integration directly in-page JavaScript\n• No browser extension or headless browser required\n• Text-based DOM manipulation\n• Bring your own LLMs\n<br>\n📖 <b>Summary:</b>\nPage Agent is a JavaScript library that allows users to control web interfaces using natural language. It integrates directly into the webpage, eliminating the need for browser extensions or external tools, and enables text-based DOM manipulation powered by user-provided LLMs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alibaba/page-agent?embed=0\">View Project</a>\n• <a href=\"https://alibaba.github.io/page-agent/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1062458369/4f9a1671-3953-4f45-8a8e-b010e33520bc",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 1080370450,
-        "content": "🔥 <b>superset</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable developers to run and manage multiple AI coding agents simultaneously on their local machine, streamlining parallel development workflows and improving coding efficiency.\n<br>\n✨ <b>Key Features:</b>\n• Parallel execution of multiple AI coding agents\n• Worktree isolation for each agent task\n• Agent monitoring and notification system\n<br>\n📖 <b>Summary:</b>\nSuperset is a desktop application designed to orchestrate and manage multiple AI coding agents, such as Claude Code and Codex, in parallel. It provides a unified interface for running these agents on local development tasks, isolating each agent's work in separate git worktrees for better organization and preventing interference.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/superset-sh/superset?embed=0\">View Project</a>\n• <a href=\"https://superset.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/808f5161aa7cb17e3d50e754c1a9ec4b9b485abe3d520edf623119edf49fccf2/superset-sh/superset",
+        "project_id": 1126784379,
+        "content": "🔥 <b>webnovel-writer</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-assisted long-form web novel writing, ensuring consistency and coherence over extended narratives.\n<br>\n✨ <b>Key Features:</b>\n• Manages character settings, plot points, and world-building rules\n• Solves AI 'forgetting' and 'hallucination' issues in long-form writing\n• Supports serialization of up to 2 million characters\n• Integrates with Claude Code via a plugin\n<br>\n📖 <b>Summary:</b>\nWebnovel Writer is a Python-based system designed to assist in writing long-form web novels using Claude Code. It addresses common AI writing issues like memory loss and hallucinations by managing plot points, character settings, and world-building rules, enabling continuous serialization of up to 2 million characters without contradictions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lingfengQAQ/webnovel-writer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/993efb2948b4a4f16888f32f2101204dd872ecd036abe415490d22ecdfcb161a/lingfengQAQ/webnovel-writer",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 1092279475,
+        "content": "🚀 <b>CyberStrikeAI</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating and orchestrating comprehensive security testing and vulnerability management through an AI-driven platform.\n<br>\n✨ <b>Key Features:</b>\n• AI-native security testing platform\n• Integration of 100+ security tools\n• Intelligent orchestration engine\n• Role-based testing with predefined security roles\n• Skills system with specialized testing skills\n<br>\n📖 <b>Summary:</b>\nCyberStrikeAI is an AI-native security testing platform built in Go, designed to automate and enhance cybersecurity testing. It integrates over 100 security tools, an intelligent orchestration engine, and AI agents to manage the entire security testing lifecycle, from vulnerability discovery to reporting.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Ed1s0nZ/CyberStrikeAI?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d58c7e9843b7cc770ed0af292eaa8c269b3207c712cb31af6a9e9b3f59a2ff24/Ed1s0nZ/CyberStrikeAI",
+        "platform": "telegram",
+        "quality_score": 1.0
     }
 ]
