@@ -1,26 +1,26 @@
 {
-    "title": "Unlock Extra Screen Space Anywhere: Deskreen CE Makes Any Browser a Second Monitor!",
-    "article": "Ever found yourself cramped for screen space while coding on your laptop, wishing you had just one more monitor to spread out your windows? Or maybe you're on the go, at a coffee shop, and that single laptop screen just isn't cutting it for your multi-tasking needs. Well, get ready to have your mind blown by Deskreen CE – a fantastic open-source project that solves this exact problem in the most elegant way possible.\n\nDeskreen CE, which stands for Community Edition, is built on the powerful Electron.js framework and leverages WebRTC technology. In simple terms, this means it's a desktop application that can stream your computer's screen directly to any device that has a web browser. Think about that for a second: your tablet, an old laptop, a smart TV, even a friend's computer – all can become an instant secondary display for your main machine. The setup is incredibly straightforward: you run the Deskreen app on your primary computer, and it generates a QR code or a URL. You then simply open that URL or scan the QR code on your secondary device's web browser, and voilà! Your computer screen is mirrored or extended to that device. It's like magic, but it's pure, clever engineering.\n\nThe beauty of Deskreen CE lies in its simplicity and accessibility. For developers, this is a game-changer. Imagine debugging a front-end application on your main monitor while seeing the live output on your iPad, or having your documentation open on a separate screen without needing to buy a dedicated portable monitor. It dramatically enhances productivity, allowing you to organize your workspace more efficiently, whether you're at home, in the office, or traveling. No more constantly alt-tabbing between applications or squinting at tiny windows. It's a cost-effective solution, too, as you're utilizing hardware you already own, giving new life to those devices that might otherwise be gathering dust. Plus, being open-source means you can dive into the code, contribute, or customize it to your heart's content, fostering a vibrant community around this incredibly useful tool. It truly empowers you to create a flexible, multi-monitor setup wherever you are, turning virtually any screen around you into a valuable extension of your digital workspace.",
+    "title": "Crucix: Your Personal, Cloud-Free Intelligence Terminal for Real-Time Global Insights!",
+    "article": "Ever feel overwhelmed by the sheer volume of information out there, especially when trying to keep tabs on global events, market shifts, or even environmental changes? Imagine having a single, powerful command center that pulls together critical real-time data from across the globe, all running on your own machine. That's exactly what Crucix offers, and it's a game-changer for anyone who values timely, comprehensive intelligence.\n\nCrucix is essentially your own intelligence terminal, a self-contained dashboard that aggregates data from an incredible 27 open-source intelligence (OSINT) feeds. Think satellite fire detection, live flight tracking, radiation monitoring, economic indicators, market prices, conflict data, and even social sentiment. It fetches all this diverse information in parallel, every 15 minutes, and presents it on a sleek, Jarvis-style interface. This means you get a holistic, up-to-the-minute view of what's happening in the world without having to jump between dozens of different websites or APIs.\n\nThe most exciting part? Crucix is built on a \"zero cloud\" philosophy. No telemetry, no subscriptions, and all your data stays local on your machine. You simply clone the repo, install a single dependency (Express), add your API keys, and run `node server.mjs`. This level of privacy and control is truly empowering for developers and anyone concerned about data sovereignty. It transforms your local setup into a powerful monitoring station, giving you direct access to the raw intelligence.\n\nBut it doesn't stop there. Crucix is designed to be extensible. You can hook it up to a Large Language Model (LLM) to transform it into a two-way intelligence assistant. Imagine it pushing multi-tier alerts to your Telegram or Discord when significant changes occur, or responding to commands like `/brief` or `/sweep` from your phone. This capability turns a passive monitoring tool into an active, intelligent partner that can generate actionable insights and trade ideas grounded in real, cross-domain data, watching the world while you sleep.\n\nFor developers, researchers, journalists, traders, or simply curious individuals, Crucix offers an unparalleled opportunity to cut through the noise. It democratizes access to real-time intelligence that's often scattered or locked behind paywalls. By bringing all this data into one place, on your terms, Crucix empowers you to understand the world around you with unprecedented clarity and control, saving countless hours of manual data gathering and correlation.",
     "key_takeaways": [
-        "Transform any device with a web browser into a secondary display for your computer.",
-        "Utilizes WebRTC and Electron.js for seamless, low-latency screen streaming.",
-        "Enhances developer productivity and workflow without needing to purchase additional hardware.",
-        "Offers a portable and flexible multi-monitor setup, perfect for any environment or on-the-go work.",
-        "The open-source nature encourages community contribution and customization for tailored solutions."
+        "Aggregates 27 diverse OSINT sources into a single, real-time dashboard.",
+        "Operates entirely locally with a \"zero cloud\" philosophy, ensuring privacy and control.",
+        "Can be integrated with LLMs for a two-way intelligence assistant with alerts and commands.",
+        "Provides a holistic view of global events, from conflict to economic indicators.",
+        "Empowers users with direct access to critical, cross-domain data without subscriptions or paywalls."
     ],
     "tags": [
-        "Screen Mirroring",
-        "WebRTC",
-        "ElectronJS",
-        "Productivity Tools",
-        "OpenSource"
+        "OSINT",
+        "Intelligence",
+        "Self-hosted",
+        "Real-time",
+        "Data Aggregation"
     ],
-    "stars": 20815,
-    "forks": 1154,
-    "open_issues": 19,
-    "languages": "TypeScript",
-    "readme_summary": "Deskreen CE is an Electron.js application that allows users to turn any device with a web browser into a secondary screen for their computer. It utilizes WebRTC for live screen sharing and supports Windows, macOS, and Linux.",
-    "project_id": 286047827,
-    "url": "https://github.com/pavlobu/deskreen",
-    "description": "Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!"
+    "stars": 10100,
+    "forks": 1600,
+    "open_issues": 32,
+    "languages": "JavaScript",
+    "readme_summary": "Crucix is a personal intelligence agent that aggregates data from 27 open-source intelligence feeds, including satellite imagery, flight tracking, and economic indicators. It presents this information on a self-contained dashboard and can be integrated with LLMs to provide real-time alerts and respond to commands, acting as a personal analyst without cloud reliance.",
+    "project_id": 1181479848,
+    "url": "https://github.com/calesthio/Crucix",
+    "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes."
 }

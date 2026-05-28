@@ -1,37 +1,37 @@
 [
     {
-        "project_id": 286047827,
-        "content": "💡 <b>deskreen</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nExtending a computer's display to other devices wirelessly using a web browser.\n<br>\n✨ <b>Key Features:</b>\n• Turns any device with a web browser into a secondary screen\n• Uses WebRTC for live screen streaming\n• Supports Windows, macOS, and Linux\n• End-to-end encryption (mentioned in topics)\n• Share app window (mentioned in topics)\n<br>\n📖 <b>Summary:</b>\nDeskreen CE is an Electron.js application that allows users to turn any device with a web browser into a secondary screen for their computer. It utilizes WebRTC for live screen sharing and supports Windows, macOS, and Linux.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/pavlobu/deskreen?embed=0\">View Project</a>\n• <a href=\"https://deskreen.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/286047827/8695a800-607f-11eb-8a77-c34b9a202815",
+        "project_id": 1129137865,
+        "content": "🌟 <b>mobai-mcp</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a standardized and efficient way for AI assistants to automate and test mobile applications on various devices and platforms.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered mobile device automation\n• Control Android and iOS devices, emulators, and simulators\n• Unified DSL-first interface\n• Batch execution of device interactions via `execute_dsl`\n• Server-side handling of retry/failure strategies\n<br>\n📖 <b>Summary:</b>\nThe MobAI MCP Server enables AI assistants to control Android and iOS devices, emulators, and simulators through a unified DSL-first interface. It simplifies device interaction by batching commands via a single `execute_dsl` tool, which handles complex sequences of actions, predicates, assertions, and waits server-side.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/MobAI-App/mobai-mcp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/90fcc971f2b6bbc565a98203949e42bebd517368b3005afd4787934d884b30a6/MobAI-App/mobai-mcp",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 792861139,
+        "content": "🚀 <b>glance</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a personalized, self-hosted dashboard that consolidates information from multiple sources like RSS feeds, social media, and system monitoring tools into a single, accessible interface.\n<br>\n✨ <b>Key Features:</b>\n• Various widgets (RSS, Reddit, Hacker News, Weather, YouTube, Twitch, Market Prices, Docker status, Server stats, Custom)\n• Fast and lightweight with low memory usage and minimal dependencies\n<br>\n📖 <b>Summary:</b>\nGlance is a self-hosted, highly customizable dashboard designed to aggregate various feeds and information sources into a single, streamlined interface. It offers a fast, lightweight experience with low memory usage and a single binary for easy deployment, making it ideal for personal dashboards and monitoring.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/glanceapp/glance?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/792861139/5aa82f46-2f6d-4773-a4f3-b42e136f453f",
+        "platform": "telegram",
+        "quality_score": 0.65
+    },
+    {
+        "project_id": 1181479848,
+        "content": "💡 <b>Crucix</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide individuals with a comprehensive, real-time, and locally-run intelligence dashboard and assistant for monitoring global events and data.\n<br>\n✨ <b>Key Features:</b>\n• Aggregates data from 27 OSINT sources\n• Real-time dashboard visualization\n• LLM integration for interactive assistance\n• Multi-tier alerts to Telegram and Discord\n<br>\n📖 <b>Summary:</b>\nCrucix is a personal intelligence agent that aggregates data from 27 open-source intelligence feeds, including satellite imagery, flight tracking, and economic indicators. It presents this information on a self-contained dashboard and can be integrated with LLMs to provide real-time alerts and respond to commands, acting as a personal analyst without cloud reliance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/calesthio/Crucix?embed=0\">View Project</a>\n• <a href=\"https://crucix.live?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/213f7bd68fa6ada4c3a4290441acfe5724d6596db062d519d1b367d39c5fd39e/calesthio/Crucix",
         "platform": "telegram",
         "quality_score": 1.1
     },
     {
-        "project_id": 463270269,
-        "content": "🔥 <b>arcada</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating and visualizing interior floor plans and designs.\n<br>\n✨ <b>Key Features:</b>\n• Add walls\n• Edit walls\n• Add/edit furniture\n• Add doors/windows\n• Measure tool\n<br>\n📖 <b>Summary:</b>\nArcada is an open-source, web-based interior design and floor plan creation software. It allows users to draw walls, add doors and windows, place furniture, and measure spaces accurately to scale, with support for multiple floors and saving/loading designs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mehanix/arcada?embed=0\">View Project</a>\n• <a href=\"https://arcada.nicoleta.cc?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/31619c4f94fb9f02e6aa9def9ac8e9c28207f30f66e3502e4f2562bb1808207e/mehanix/arcada",
-        "platform": "telegram",
-        "quality_score": 0.7000000000000001
-    },
-    {
-        "project_id": 1062458369,
-        "content": "💡 <b>page-agent</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling users to control web interfaces with natural language, making web applications more accessible and automating complex workflows like form filling and SaaS AI copilot integration.\n<br>\n✨ <b>Key Features:</b>\n• Easy integration directly in-page JavaScript\n• No browser extension or headless browser required\n• Text-based DOM manipulation\n• Bring your own LLMs\n<br>\n📖 <b>Summary:</b>\nPage Agent is a JavaScript library that allows users to control web interfaces using natural language. It integrates directly into the webpage, eliminating the need for browser extensions or external tools, and enables text-based DOM manipulation powered by user-provided LLMs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alibaba/page-agent?embed=0\">View Project</a>\n• <a href=\"https://alibaba.github.io/page-agent/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1062458369/4f9a1671-3953-4f45-8a8e-b010e33520bc",
+        "project_id": 1027384981,
+        "content": "🔥 <b>deepagents</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDeveloping and deploying sophisticated AI agents capable of multi-step, long-horizon tasks, with built-in support for complex operations like file manipulation and delegation.\n<br>\n✨ <b>Key Features:</b>\n• Sub-agents for task delegation\n• Filesystem access (read, write, edit, search)\n• Context management (summarization, offloading)\n• Shell access for sandbox execution\n• Persistent memory with pluggable backends\n<br>\n📖 <b>Summary:</b>\nDeep Agents is a Python agent harness built on LangGraph, designed for complex, long-horizon tasks. It provides an opinionated framework with features like sub-agents, filesystem access, and persistent memory, making it production-ready for various LLM applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/langchain-ai/deepagents?embed=0\">View Project</a>\n• <a href=\"https://docs.langchain.com/deepagents?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1027384981/ea816c48-7caa-46b8-b4bd-1f90a6807f55",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 1126784379,
-        "content": "🔥 <b>webnovel-writer</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-assisted long-form web novel writing, ensuring consistency and coherence over extended narratives.\n<br>\n✨ <b>Key Features:</b>\n• Manages character settings, plot points, and world-building rules\n• Solves AI 'forgetting' and 'hallucination' issues in long-form writing\n• Supports serialization of up to 2 million characters\n• Integrates with Claude Code via a plugin\n<br>\n📖 <b>Summary:</b>\nWebnovel Writer is a Python-based system designed to assist in writing long-form web novels using Claude Code. It addresses common AI writing issues like memory loss and hallucinations by managing plot points, character settings, and world-building rules, enabling continuous serialization of up to 2 million characters without contradictions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lingfengQAQ/webnovel-writer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/993efb2948b4a4f16888f32f2101204dd872ecd036abe415490d22ecdfcb161a/lingfengQAQ/webnovel-writer",
+        "project_id": 1007827531,
+        "content": "💡 <b>project-nomad</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a self-contained, offline-accessible server for knowledge, education, and essential tools, empowering users with information and capabilities regardless of internet connectivity.\n<br>\n✨ <b>Key Features:</b>\n• Offline-first knowledge and education server\n• AI Chat with local knowledge base (Ollama, RAG via Qdrant)\n<br>\n📖 <b>Summary:</b>\nProject N.O.M.A.D. is a self-contained, offline-first knowledge and education server that provides access to a curated collection of tools and resources. It leverages Docker to manage containerized applications, offering capabilities like AI chat with local knowledge bases, offline educational content, mapping, data tools, and system benchmarking, all accessible through a web-based Command Center.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Crosstalk-Solutions/project-nomad?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6b517bf2f13d74b4468e024dc7ff5a046ca8661c8025dc927b58cfdc26f7daf1/Crosstalk-Solutions/project-nomad",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 1092279475,
-        "content": "🚀 <b>CyberStrikeAI</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating and orchestrating comprehensive security testing and vulnerability management through an AI-driven platform.\n<br>\n✨ <b>Key Features:</b>\n• AI-native security testing platform\n• Integration of 100+ security tools\n• Intelligent orchestration engine\n• Role-based testing with predefined security roles\n• Skills system with specialized testing skills\n<br>\n📖 <b>Summary:</b>\nCyberStrikeAI is an AI-native security testing platform built in Go, designed to automate and enhance cybersecurity testing. It integrates over 100 security tools, an intelligent orchestration engine, and AI agents to manage the entire security testing lifecycle, from vulnerability discovery to reporting.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Ed1s0nZ/CyberStrikeAI?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d58c7e9843b7cc770ed0af292eaa8c269b3207c712cb31af6a9e9b3f59a2ff24/Ed1s0nZ/CyberStrikeAI",
-        "platform": "telegram",
-        "quality_score": 1.0
+        "quality_score": 1.1
     }
 ]
