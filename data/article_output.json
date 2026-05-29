@@ -1,26 +1,26 @@
 {
-    "title": "Crucix: Your Personal, Cloud-Free Intelligence Terminal for Real-Time Global Insights!",
-    "article": "Ever feel overwhelmed by the sheer volume of information out there, especially when trying to keep tabs on global events, market shifts, or even environmental changes? Imagine having a single, powerful command center that pulls together critical real-time data from across the globe, all running on your own machine. That's exactly what Crucix offers, and it's a game-changer for anyone who values timely, comprehensive intelligence.\n\nCrucix is essentially your own intelligence terminal, a self-contained dashboard that aggregates data from an incredible 27 open-source intelligence (OSINT) feeds. Think satellite fire detection, live flight tracking, radiation monitoring, economic indicators, market prices, conflict data, and even social sentiment. It fetches all this diverse information in parallel, every 15 minutes, and presents it on a sleek, Jarvis-style interface. This means you get a holistic, up-to-the-minute view of what's happening in the world without having to jump between dozens of different websites or APIs.\n\nThe most exciting part? Crucix is built on a \"zero cloud\" philosophy. No telemetry, no subscriptions, and all your data stays local on your machine. You simply clone the repo, install a single dependency (Express), add your API keys, and run `node server.mjs`. This level of privacy and control is truly empowering for developers and anyone concerned about data sovereignty. It transforms your local setup into a powerful monitoring station, giving you direct access to the raw intelligence.\n\nBut it doesn't stop there. Crucix is designed to be extensible. You can hook it up to a Large Language Model (LLM) to transform it into a two-way intelligence assistant. Imagine it pushing multi-tier alerts to your Telegram or Discord when significant changes occur, or responding to commands like `/brief` or `/sweep` from your phone. This capability turns a passive monitoring tool into an active, intelligent partner that can generate actionable insights and trade ideas grounded in real, cross-domain data, watching the world while you sleep.\n\nFor developers, researchers, journalists, traders, or simply curious individuals, Crucix offers an unparalleled opportunity to cut through the noise. It democratizes access to real-time intelligence that's often scattered or locked behind paywalls. By bringing all this data into one place, on your terms, Crucix empowers you to understand the world around you with unprecedented clarity and control, saving countless hours of manual data gathering and correlation.",
+    "title": "Modly: Turn Your Photos into 3D Models Locally with Open Source AI!",
+    "article": "Hey everyone! Ever wished you could magically turn a regular 2D photo into a fully functional 3D model? Imagine snapping a picture of an object and, with a few clicks, having a textured 3D mesh ready for your game, VR experience, or design project. Well, get ready to be excited because there's a fantastic open-source project called Modly that does exactly that, and it does it all right on your own machine!\n\nModly is a desktop application designed for Windows and Linux users (with macOS on the horizon) that brings the power of AI-driven 3D generation directly to your GPU. This isn't some cloud-based service where you upload your data and wait; Modly leverages cutting-edge open-source AI models to process your images and generate 3D meshes locally. This means faster results, complete privacy for your data, and no ongoing subscription costs. It's all about putting the power of advanced AI into your hands, without the usual compromises.\n\nWhat makes Modly truly special for us developers is its elegant extension system. Think of it like a plugin architecture for AI models. The core Modly application provides the framework, and then you can install various AI model extensions from GitHub. These extensions, like modly-hunyuan3d-mini-extension or modly-triposg-extension, bring different powerful AI models to the table, each with its own strengths for generating 3D content. Installing them is as simple as providing a GitHub URL within the app, and then you can download and use the specific models you need. This modularity means the project can grow and adapt, supporting new advancements in 3D AI as they emerge, and developers can even contribute their own model integrations.\n\nFor developers, this project is a game-changer. If you're working on game development, creating assets for augmented or virtual reality, or even just experimenting with generative AI for creative projects, Modly offers an incredibly accessible and powerful tool. You can quickly prototype 3D objects from simple images, accelerating your workflow significantly. The open-source nature means you can dive into the code, understand how it works, and even customize it for your specific needs. It's a fantastic example of how open source and AI can empower creators and developers to push the boundaries of what's possible in 3D content creation. No more complex photogrammetry setups or manual modeling for every single asset – just point, click, and generate!",
     "key_takeaways": [
-        "Aggregates 27 diverse OSINT sources into a single, real-time dashboard.",
-        "Operates entirely locally with a \"zero cloud\" philosophy, ensuring privacy and control.",
-        "Can be integrated with LLMs for a two-way intelligence assistant with alerts and commands.",
-        "Provides a holistic view of global events, from conflict to economic indicators.",
-        "Empowers users with direct access to critical, cross-domain data without subscriptions or paywalls."
+        "Modly enables local, AI-powered 3D model generation directly from 2D images using your GPU.",
+        "It's an open-source desktop application for Windows and Linux, ensuring privacy and high performance.",
+        "The project features an extensible architecture, allowing developers to integrate and use various AI models via GitHub extensions.",
+        "Modly significantly streamlines 3D asset creation for game development, VR/AR, and other creative applications.",
+        "Its local processing capability eliminates cloud dependencies and recurring costs, putting control in the developer's hands."
     ],
     "tags": [
-        "OSINT",
-        "Intelligence",
-        "Self-hosted",
-        "Real-time",
-        "Data Aggregation"
+        "3D Generation",
+        "AI",
+        "Open Source",
+        "Desktop App",
+        "Image to 3D"
     ],
-    "stars": 10100,
-    "forks": 1600,
-    "open_issues": 32,
-    "languages": "JavaScript",
-    "readme_summary": "Crucix is a personal intelligence agent that aggregates data from 27 open-source intelligence feeds, including satellite imagery, flight tracking, and economic indicators. It presents this information on a self-contained dashboard and can be integrated with LLMs to provide real-time alerts and respond to commands, acting as a personal analyst without cloud reliance.",
-    "project_id": 1181479848,
-    "url": "https://github.com/calesthio/Crucix",
-    "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes."
+    "stars": 3765,
+    "forks": 401,
+    "open_issues": 15,
+    "languages": "TypeScript",
+    "readme_summary": "Modly is an open-source desktop application that leverages local AI models running on your GPU to generate 3D models from 2D images. It supports an extension system for integrating various AI models and is available for Windows and Linux, with macOS support planned.",
+    "project_id": 1184568969,
+    "url": "https://github.com/lightningpixel/modly",
+    "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
 }
