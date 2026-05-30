@@ -1,30 +1,30 @@
 {
-    "title": "Modly: Turn Your Photos into 3D Models Locally with Open Source AI!",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nModly is an open-source desktop application that leverages local AI models running on your GPU to generate 3D models from 2D images. It supports an extension system for integrating various AI models and is available for Windows and Linux, with macOS support planned.\n\n## 🔑 Key Takeaways\n\n- ✅ Modly enables local, AI-powered 3D model generation directly from 2D images using your GPU.\n\n- ✅ It's an open-source desktop application for Windows and Linux, ensuring privacy and high performance.\n\n- ✅ The project features an extensible architecture, allowing developers to integrate and use various AI models via GitHub extensions.\n\n- ✅ Modly significantly streamlines 3D asset creation for game development, VR/AR, and other creative applications.\n\n- ✅ Its local processing capability eliminates cloud dependencies and recurring costs, putting control in the developer's hands.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 3765\n- 🍴 Forks: 401\n- ❗ Open Issues: 15\n\n\n## 🛠 Tech Stack\n- ✅ TypeScript\n\n\nHey everyone! Ever wished you could magically turn a regular 2D photo into a fully functional 3D model? Imagine snapping a picture of an object and, with a few clicks, having a textured 3D mesh ready for your game, VR experience, or design project. Well, get ready to be excited because there's a fantastic open-source project called Modly that does exactly that, and it does it all right on your own machine!\n\nModly is a desktop application designed for Windows and Linux users (with macOS on the horizon) that brings the power of AI-driven 3D generation directly to your GPU. This isn't some cloud-based service where you upload your data and wait; Modly leverages cutting-edge open-source AI models to process your images and generate 3D meshes locally. This means faster results, complete privacy for your data, and no ongoing subscription costs. It's all about putting the power of advanced AI into your hands, without the usual compromises.\n\nWhat makes Modly truly special for us developers is its elegant extension system. Think of it like a plugin architecture for AI models. The core Modly application provides the framework, and then you can install various AI model extensions from GitHub. These extensions, like modly-hunyuan3d-mini-extension or modly-triposg-extension, bring different powerful AI models to the table, each with its own strengths for generating 3D content. Installing them is as simple as providing a GitHub URL within the app, and then you can download and use the specific models you need. This modularity means the project can grow and adapt, supporting new advancements in 3D AI as they emerge, and developers can even contribute their own model integrations.\n\nFor developers, this project is a game-changer. If you're working on game development, creating assets for augmented or virtual reality, or even just experimenting with generative AI for creative projects, Modly offers an incredibly accessible and powerful tool. You can quickly prototype 3D objects from simple images, accelerating your workflow significantly. The open-source nature means you can dive into the code, understand how it works, and even customize it for your specific needs. It's a fantastic example of how open source and AI can empower creators and developers to push the boundaries of what's possible in 3D content creation. No more complex photogrammetry setups or manual modeling for every single asset – just point, click, and generate!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/lightningpixel/modly)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Chandra OCR 2: Revolutionizing Document Intelligence with Unmatched Accuracy and Layout Preservation",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nChandra OCR 2 is a state-of-the-art Optical Character Recognition (OCR) model designed to convert images and PDFs into structured formats like HTML, Markdown, and JSON. It excels at preserving layout information and handles complex documents including tables, forms, handwriting, and mathematical content across over 90 languages.\n\n## 🔑 Key Takeaways\n\n- ✅ Chandra OCR 2 converts images and PDFs into structured HTML/Markdown/JSON, preserving layout information.\n\n- ✅ It offers state-of-the-art accuracy, excelling in multilingual support (90+ languages), handwriting, tables, math, and form reconstruction.\n\n- ✅ Developers can use it locally via HuggingFace, remotely with a vLLM server, or leverage the managed Datalab platform for enterprise needs.\n\n- ✅ The project significantly streamlines document processing, automating data extraction from complex and unstructured documents.\n\n- ✅ It provides a robust foundation for building advanced document intelligence applications.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 10984\n- 🍴 Forks: 1131\n- ❗ Open Issues: 40\n\n\n## 🛠 Tech Stack\n- ✅ Python\n\n\nHave you ever wrestled with extracting meaningful, structured data from complex PDFs or scanned images? It's a common headache for developers, turning valuable information into a frustrating manual process or a brittle, custom parsing nightmare. That's where Chandra OCR 2 steps in, offering a state-of-the-art solution to transform your unstructured documents into easily digestible, structured data.\n\nChandra OCR 2 is a powerful optical character recognition model designed to do much more than just extract text. Its core purpose is to convert images and PDFs into structured HTML, Markdown, or JSON, all while meticulously preserving the original layout information. Imagine taking a complex report, a handwritten note, or a multi-column article and getting back not just the words, but a structured representation that understands paragraphs, headings, tables, and even intricate mathematical equations. This means you can finally automate processes that rely on understanding document structure, not just its raw text.\n\nWhat makes Chandra OCR 2 truly stand out are its advanced capabilities. It boasts exceptional multilingual support, handling over 90 languages with remarkable accuracy. If you've ever struggled with digitizing handwritten notes or forms, you'll be thrilled by its excellent handwriting recognition. Beyond basic text, Chandra 2 reconstructs forms accurately, including checkboxes, and demonstrates strong performance with tables, complex layouts, and even mathematical expressions. It can even extract images and diagrams, adding captions and structured data alongside them, providing a complete digital representation of your documents.\n\nFor developers, the flexibility is a huge win. You can integrate Chandra OCR 2 using two inference modes: a local HuggingFace setup for quick starts, or a remote vLLM server for more lightweight deployments. And if you're dealing with high-volume workloads or require enterprise-grade features, the Datalab managed platform offers an enhanced Chandra with even higher accuracy, zero data retention by default, SOC 2 Type 2 compliance, and custom business associate agreements. They even offer a batch processing service capable of handling hundreds of millions of pages per week, taking the infrastructure burden off your shoulders.\n\nThis project isn't just about reading text; it's about understanding documents. By providing structured output that retains layout, Chandra OCR 2 empowers developers to build smarter applications, automate tedious data entry, and unlock the hidden value within their document archives. It significantly streamlines workflows, reduces development time for parsing solutions, and opens up new possibilities for document intelligence, making it an indispensable tool for anyone working with digital documents.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/datalab-to/chandra)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "3d generation",
-            "slug": "3d-generation"
+            "name": "ocr",
+            "slug": "ocr"
+        },
+        {
+            "name": "document intelligence",
+            "slug": "document-intelligence"
+        },
+        {
+            "name": "pdf processing",
+            "slug": "pdf-processing"
+        },
+        {
+            "name": "data extraction",
+            "slug": "data-extraction"
         },
         {
             "name": "ai",
             "slug": "ai"
-        },
-        {
-            "name": "open source",
-            "slug": "open-source"
-        },
-        {
-            "name": "desktop app",
-            "slug": "desktop-app"
-        },
-        {
-            "name": "image to 3d",
-            "slug": "image-to-3d"
         }
     ],
-    "slug": "modly-turn-your-photos-into-3d-models-locally-with-open-source-ai",
-    "project_id": 1184568969,
+    "slug": "chandra-ocr-2-revolutionizing-document-intelligence-with-unmatched-accuracy-and-layout-preservation",
+    "project_id": 1072539730,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
