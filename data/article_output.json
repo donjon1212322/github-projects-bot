@@ -1,26 +1,26 @@
 {
-    "title": "Chandra OCR 2: Revolutionizing Document Intelligence with Unmatched Accuracy and Layout Preservation",
-    "article": "Have you ever wrestled with extracting meaningful, structured data from complex PDFs or scanned images? It's a common headache for developers, turning valuable information into a frustrating manual process or a brittle, custom parsing nightmare. That's where Chandra OCR 2 steps in, offering a state-of-the-art solution to transform your unstructured documents into easily digestible, structured data.\n\nChandra OCR 2 is a powerful optical character recognition model designed to do much more than just extract text. Its core purpose is to convert images and PDFs into structured HTML, Markdown, or JSON, all while meticulously preserving the original layout information. Imagine taking a complex report, a handwritten note, or a multi-column article and getting back not just the words, but a structured representation that understands paragraphs, headings, tables, and even intricate mathematical equations. This means you can finally automate processes that rely on understanding document structure, not just its raw text.\n\nWhat makes Chandra OCR 2 truly stand out are its advanced capabilities. It boasts exceptional multilingual support, handling over 90 languages with remarkable accuracy. If you've ever struggled with digitizing handwritten notes or forms, you'll be thrilled by its excellent handwriting recognition. Beyond basic text, Chandra 2 reconstructs forms accurately, including checkboxes, and demonstrates strong performance with tables, complex layouts, and even mathematical expressions. It can even extract images and diagrams, adding captions and structured data alongside them, providing a complete digital representation of your documents.\n\nFor developers, the flexibility is a huge win. You can integrate Chandra OCR 2 using two inference modes: a local HuggingFace setup for quick starts, or a remote vLLM server for more lightweight deployments. And if you're dealing with high-volume workloads or require enterprise-grade features, the Datalab managed platform offers an enhanced Chandra with even higher accuracy, zero data retention by default, SOC 2 Type 2 compliance, and custom business associate agreements. They even offer a batch processing service capable of handling hundreds of millions of pages per week, taking the infrastructure burden off your shoulders.\n\nThis project isn't just about reading text; it's about understanding documents. By providing structured output that retains layout, Chandra OCR 2 empowers developers to build smarter applications, automate tedious data entry, and unlock the hidden value within their document archives. It significantly streamlines workflows, reduces development time for parsing solutions, and opens up new possibilities for document intelligence, making it an indispensable tool for anyone working with digital documents.",
+    "title": "Supercharge Your Content with claude-blog: AI-Powered Writing & SEO for Developers!",
+    "article": "This project is a comprehensive skill suite designed for Claude Code, functioning as your personal AI content factory. It's packed with 30 specialized sub-skills, managed by 5 intelligent agents, and leverages 12 distinct content templates to ensure variety and high quality in its output. Furthermore, it boasts 21 on-demand references, allowing it to pull accurate and deep information for its writing tasks. The core innovation, however, lies in its rigorous 5-gate Delivery Contract. This contract acts as an automated, super-strict editor, meticulously scoring every draft against a 100-point rubric. Should a draft fall below a 90-point threshold, claude-blog doesn't just give up; it automatically iterates and refines the content up to three times. This iterative process ensures that only top-tier, polished content ever reaches your review stage, saving significant time and effort.\n\nclaude-blog is specifically engineered for serious content creators, whether you're a solo blogger, part of a marketing team, or running an agency, who demand production-grade output rather than mere one-shot drafts. A key differentiator is its dual-optimization strategy. Every article it generates is meticulously crafted to rank high on Google, adhering to the latest ranking factors like the December 2025 Core Update and the critical E-E-A-T principles. Simultaneously, it's optimized for seamless citation by AI platforms such as ChatGPT and Perplexity, making your content discoverable and valuable across both human and artificial intelligence landscapes. The project's commitment to \"eating its own dogfood\" is a testament to its effectiveness; it uses itself to generate its own promotional and informational content, showcasing its capabilities in a very practical way. For developers, integrating this project means you can establish a robust, thoroughly tested, and high-performing content generation system directly into your existing workflows. This frees up invaluable development time, allowing you to focus on core coding tasks while ensuring a consistent stream of high-quality, SEO-optimized articles for your projects or clients. Imagine the efficiency of having blog posts meticulously crafted, refined, and ready for publication without constant manual oversight or the need for extensive content expertise. It represents a significant leap in automating the entire content lifecycle, from initial draft to publication-ready material.",
     "key_takeaways": [
-        "Chandra OCR 2 converts images and PDFs into structured HTML/Markdown/JSON, preserving layout information.",
-        "It offers state-of-the-art accuracy, excelling in multilingual support (90+ languages), handwriting, tables, math, and form reconstruction.",
-        "Developers can use it locally via HuggingFace, remotely with a vLLM server, or leverage the managed Datalab platform for enterprise needs.",
-        "The project significantly streamlines document processing, automating data extraction from complex and unstructured documents.",
-        "It provides a robust foundation for building advanced document intelligence applications."
+        "claude-blog is a full-lifecycle AI blog engine built as a skill suite for Claude Code.",
+        "Content is dual-optimized for Google SEO (E-E-A-T) and AI citation platforms like ChatGPT and Perplexity.",
+        "A 5-gate Delivery Contract ensures every draft scores 90+ on a 100-point rubric, with automated iteration.",
+        "Designed for production-grade content output, suitable for solo bloggers, marketing teams, and agencies.",
+        "Automates content creation, optimization, and auditing at scale, freeing up developer time."
     ],
     "tags": [
-        "OCR",
-        "Document Intelligence",
-        "PDF Processing",
-        "Data Extraction",
-        "AI"
+        "AI Writing",
+        "Claude Code",
+        "SEO Optimization",
+        "Content Automation",
+        "Blog Generation"
     ],
-    "stars": 10984,
-    "forks": 1131,
-    "open_issues": 40,
+    "stars": 904,
+    "forks": 186,
+    "open_issues": 2,
     "languages": "Python",
-    "readme_summary": "Chandra OCR 2 is a state-of-the-art Optical Character Recognition (OCR) model designed to convert images and PDFs into structured formats like HTML, Markdown, and JSON. It excels at preserving layout information and handles complex documents including tables, forms, handwriting, and mathematical content across over 90 languages.",
-    "project_id": 1072539730,
-    "url": "https://github.com/datalab-to/chandra",
-    "description": "OCR model that handles complex tables, forms, handwriting with full layout."
+    "readme_summary": "The claude-blog repository provides a comprehensive suite of AI-powered tools for writing, optimizing, and auditing blog content. It aims to produce high-quality articles that are dual-optimized for search engine rankings and AI citation platforms, ensuring content meets specific quality standards through a multi-stage delivery contract.",
+    "project_id": 1160406193,
+    "url": "https://github.com/AgriciDaniel/claude-blog",
+    "description": "Claude Code blog skill suite: 30 sub-skills, 5 agents, 5-gate v1.9.0 Blog Delivery Contract, dual-optimized for Google rankings and AI citations. Active development at AI-Marketing-Hub/claude-blog (AI Marketing Hub Pro community); public releases ship here."
 }

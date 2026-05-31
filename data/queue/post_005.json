@@ -1,7 +1,0 @@
-{
-    "project_id": 703089836,
-    "content": "🔥 <b>insanely-fast-whisper</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide extremely fast, on-device audio transcription via a command-line interface, significantly reducing the time required to process audio files.\n<br>\n✨ <b>Key Features:</b>\n• On-device audio transcription with OpenAI's Whisper\n• Optimized for speed using Transformers, Optimum, and flash-attn\n• Supports Whisper Large v3 and distil-whisper models\n<br>\n📖 <b>Summary:</b>\nInsanely Fast Whisper is a command-line interface (CLI) tool that leverages advanced optimizations like Flash Attention 2 and fp16 precision to achieve extremely rapid audio transcription using OpenAI's Whisper models on-device. It is designed for users who need to transcribe large amounts of audio quickly, particularly on NVIDIA GPUs and Macs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Vaibhavs10/insanely-fast-whisper?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/118bffcca71c6948a3b6897f246eb69bfecf601678107d2c7bdc0b26303525e9/Vaibhavs10/insanely-fast-whisper",
-    "platform": "telegram",
-    "quality_score": 0.65
-}
