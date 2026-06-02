@@ -1,26 +1,26 @@
 {
-    "title": "FaceX: Unleashing Full Face AI Directly in Your Browser, No Server Needed!",
-    "article": "Imagine building powerful face-aware applications without ever sending a single pixel of user data to a remote server. That's precisely what FaceX delivers: a complete face processing pipeline that runs entirely within your web browser, thanks to the magic of WebAssembly. This isn't just a simple face detector; FaceX provides a full suite of capabilities including robust face detection, intricate 98-point landmark tracking, detailed 576-point 3D mesh reconstruction, highly accurate face recognition, and even passive anti-spoofing to prevent fraudulent access using photos or videos. It's a comprehensive solution, all client-side. The genius behind FaceX lies in its architecture. Every single component, from the initial face detector to the recognition models, has been meticulously trained from scratch by the project creators. These models are then compiled into pure WebAssembly, allowing them to execute at lightning speed directly on the client-side CPU. This means no Python dependencies, no heavy server infrastructure, and absolutely no need for a dedicated GPU. The entire stack is incredibly lean, with all its encrypted weights totaling around 17 MB, which are securely decrypted in the browser using WebCrypto. This approach offers a significant privacy advantage, as all sensitive face data remains on the user's device, never touching your servers. For developers, FaceX opens up a world of possibilities. You can integrate advanced face AI features into your web applications with unprecedented ease, reducing both development complexity and operational costs. Think about use cases like secure on-device authentication, interactive augmented reality filters, or even real-time emotion analysis, all without the overhead of maintaining backend AI services. The performance is remarkable, with operations like face detection completing in just a few milliseconds per face. While the weights are encrypted for friction against casual scraping and per-customer key revocation, the core benefit is bringing sophisticated computer vision to the browser without compromise. Beyond the browser, FaceX is part of a larger, zero-dependency C stack designed for demanding embedded systems, like IP cameras. This highlights its incredible efficiency and robustness. It's built to be flashable to firmware, incredibly small, and avoids heavy dependencies like FFmpeg or GPUs, demonstrating its potential for highly optimized, low-resource environments. This underlying philosophy ensures that even in a browser context, FaceX is engineered for maximum performance and minimal footprint, making it a truly game-changing tool for anyone looking to implement secure, high-performance face processing on the edge.",
+    "title": "Loopi: The Open-Source Powerhouse Automating Your Entire Desktop (and Beyond!)",
+    "article": "Have you ever wished you could automate those repetitive tasks on your computer, not just in the browser, but across all your applications, with a dash of AI smarts, all while keeping your data local? If so, get ready to meet your new best friend: Loopi. This incredible open-source project is a game-changer for anyone looking to streamline their workflow and build powerful automations without breaking a sweat or sending their sensitive data to the cloud. Loopi is essentially a desktop automation platform that lets you build complex workflows visually, using a super intuitive drag-and-drop editor. Imagine crafting a sequence of actions that can navigate websites, interact with any application on your desktop, run shell commands, and even tap into over 80 popular API integrations like Slack, Discord, GitHub, and Notion. It's like having a universal remote for your entire computer, capable of orchestrating tasks that span across different environments seamlessly. One of Loopi's standout features is its comprehensive control over your desktop. Unlike many browser-only automation tools, Loopi can move your mouse, click, drag, scroll, type text, and execute hotkey combinations anywhere on your screen. This means you can automate interactions with legacy software, desktop apps, or any part of your OS that a browser can't reach. Coupled with its real browser automation capabilities, you can build truly end-to-end processes, from logging into a web portal to processing data in a local spreadsheet. But Loopi doesn't stop there. It integrates powerful AI agents that can truly elevate your automations. These aren't just simple scripts; they're goal-driven agents that can run your workflows on a schedule, reflect on their performance, and even self-patch broken workflows. The best part? You have the flexibility to connect various Large Language Models (LLMs), including OpenAI and Anthropic for cloud-based power, or — and this is huge for privacy and cost — use local models like Ollama, Claude Code, Llama, and Mistral. This means you can create intelligent automation pipelines without ever sending your data off your machine, giving you unparalleled control and security. For developers, Loopi is a treasure trove. It empowers you to build sophisticated solutions for system administration, data extraction, testing, and much more, all without getting bogged down in intricate code for every step. The CLI support also means you can integrate Loopi workflows into your existing development pipelines, running and managing automations directly from your terminal. Whether you're looking to automate mundane tasks, build intelligent data processing agents, or just explore the cutting edge of local-first AI, Loopi offers a robust, open-source platform that's both powerful and incredibly accessible. It truly lets you focus on the logic, not the boilerplate.",
     "key_takeaways": [
-        "FaceX provides a complete face processing pipeline (detect, mesh, recognize, anti-spoof) running entirely in the browser.",
-        "Built with pure WebAssembly, it offers high performance and low latency on client-side CPUs without server dependencies.",
-        "Ensures user privacy by processing all sensitive face data locally, never sending it to a server.",
-        "Reduces development complexity and operational costs by eliminating the need for backend AI infrastructure.",
-        "Highly efficient and robust, showcasing potential for both web applications and resource-constrained embedded systems."
+        "Loopi provides comprehensive desktop, browser, and system command automation through a visual workflow builder.",
+        "It integrates powerful AI agents, supporting both cloud and local LLMs (like Ollama), prioritizing privacy and control.",
+        "Developers can build end-to-end, agentic workflows, connecting AI to real-world actions and 80+ APIs.",
+        "It's an open-source, local-first platform offering versatility and robust control over your entire computer.",
+        "CLI support allows seamless integration into existing development and DevOps pipelines."
     ],
     "tags": [
-        "WebAssembly",
-        "FaceRecognition",
-        "OnDeviceAI",
-        "Privacy",
-        "ComputerVision"
+        "Desktop Automation",
+        "AI Agents",
+        "Open Source",
+        "Workflow Automation",
+        "Local LLM"
     ],
-    "stars": 262,
-    "forks": 37,
-    "open_issues": 5,
-    "languages": "C",
-    "readme_summary": "FaceX is a comprehensive face processing pipeline that runs entirely within the browser using WebAssembly. It offers face detection, 576-point 3D mesh generation, recognition, and anti-spoofing capabilities without requiring any server-side processing or dependencies.",
-    "project_id": 1220866899,
-    "url": "https://github.com/facex-engine/facex",
-    "description": "Full face stack that runs entirely in the browser. Detection, 576-point 3D mesh, recognition, anti-spoof, smile — all WebAssembly, zero server. Apache 2.0."
+    "stars": 176,
+    "forks": 26,
+    "open_issues": 30,
+    "languages": "TypeScript",
+    "readme_summary": "Loopi is an open-source desktop automation platform that allows users to build and run complex workflows locally. It offers visual workflow building, real browser automation, desktop control, system command execution, AI agent integration, and over 80 API integrations.",
+    "project_id": 1058622297,
+    "url": "https://github.com/Dyan-Dev/loopi",
+    "description": "A desktop automation platform — control browsers, system cursor/keyboard, run shell commands, and orchestrate workflows with AI agents and 80+ integrations. Runs locally."
 }
