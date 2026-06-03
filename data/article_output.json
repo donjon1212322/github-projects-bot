@@ -1,26 +1,26 @@
 {
-    "title": "Loopi: The Open-Source Powerhouse Automating Your Entire Desktop (and Beyond!)",
-    "article": "Have you ever wished you could automate those repetitive tasks on your computer, not just in the browser, but across all your applications, with a dash of AI smarts, all while keeping your data local? If so, get ready to meet your new best friend: Loopi. This incredible open-source project is a game-changer for anyone looking to streamline their workflow and build powerful automations without breaking a sweat or sending their sensitive data to the cloud. Loopi is essentially a desktop automation platform that lets you build complex workflows visually, using a super intuitive drag-and-drop editor. Imagine crafting a sequence of actions that can navigate websites, interact with any application on your desktop, run shell commands, and even tap into over 80 popular API integrations like Slack, Discord, GitHub, and Notion. It's like having a universal remote for your entire computer, capable of orchestrating tasks that span across different environments seamlessly. One of Loopi's standout features is its comprehensive control over your desktop. Unlike many browser-only automation tools, Loopi can move your mouse, click, drag, scroll, type text, and execute hotkey combinations anywhere on your screen. This means you can automate interactions with legacy software, desktop apps, or any part of your OS that a browser can't reach. Coupled with its real browser automation capabilities, you can build truly end-to-end processes, from logging into a web portal to processing data in a local spreadsheet. But Loopi doesn't stop there. It integrates powerful AI agents that can truly elevate your automations. These aren't just simple scripts; they're goal-driven agents that can run your workflows on a schedule, reflect on their performance, and even self-patch broken workflows. The best part? You have the flexibility to connect various Large Language Models (LLMs), including OpenAI and Anthropic for cloud-based power, or — and this is huge for privacy and cost — use local models like Ollama, Claude Code, Llama, and Mistral. This means you can create intelligent automation pipelines without ever sending your data off your machine, giving you unparalleled control and security. For developers, Loopi is a treasure trove. It empowers you to build sophisticated solutions for system administration, data extraction, testing, and much more, all without getting bogged down in intricate code for every step. The CLI support also means you can integrate Loopi workflows into your existing development pipelines, running and managing automations directly from your terminal. Whether you're looking to automate mundane tasks, build intelligent data processing agents, or just explore the cutting edge of local-first AI, Loopi offers a robust, open-source platform that's both powerful and incredibly accessible. It truly lets you focus on the logic, not the boilerplate.",
+    "title": "FFF: Supercharge Your File Search (and Your AI's!) with Blazing Speed",
+    "article": "Ever felt like you're wasting precious minutes waiting for file searches to complete, or that your AI coding assistant struggles to pinpoint the exact piece of code it needs? It's a common frustration, especially in large projects. Many existing tools, while powerful, aren't optimized for the continuous, iterative search patterns that developers and AI agents frequently employ. This is where FFF, a groundbreaking file search toolkit, steps in to revolutionize your workflow.\n\nFFF is engineered for speed and intelligence. Unlike traditional command-line interfaces like `ripgrep` or `fzf`, FFF maintains a lightweight, in-memory content index and a background watcher. This means that after the initial scan, subsequent searches are incredibly fast, often feeling instantaneous. It's designed to excel in long-running processes where you search more than once, providing a significant performance boost that compounds over time. Beyond raw speed, FFF introduces 'frecency' ranking, which means files you access frequently or recently are prioritized, making your most relevant files easier to find.\n\nWhat makes FFF truly exciting is its dual benefit for both human developers and AI agents. For AI, FFF offers an MCP (Multi-Client Protocol) server that dramatically enhances the capabilities of agents like Claude Code, Codex, and OpenCode. Instead of generic `grep` commands, AI agents can leverage FFF's specialized tools for more accurate and token-efficient searches. This translates to fewer wasted tokens, less irrelevant context, and faster, more precise answers from your AI assistant. Imagine an AI that truly understands your codebase and can quickly navigate it.\n\nThis intelligent search for AI is powered by several key features. FFF provides definition-first hinting, classifying lines that look like code definitions without relying on costly regex in the AI's prompt. It also features smart-case searching with an automatic fuzzy fallback, meaning `IsOffTheRecord` can find `is_off_the_record` variants, and even zero-match queries will intelligently retry as fuzzy searches to surface approximate hits. Crucially, FFF is Git-aware, tagging modified, untracked, and staged files, allowing AI agents to focus on the code you're actively developing. This level of context-awareness is a game-changer for AI-assisted development.\n\nFor developers, the core benefits are clear: unparalleled speed and accuracy. The frecency memory learns from your habits, making future searches more relevant. Typo-resistant path and content search means minor errors won't derail your progress. Whether you're integrating it with an AI agent or using it as a standalone powerful search utility, FFF promises to streamline your development process, reduce cognitive load, and allow you to focus more on coding and less on searching.",
     "key_takeaways": [
-        "Loopi provides comprehensive desktop, browser, and system command automation through a visual workflow builder.",
-        "It integrates powerful AI agents, supporting both cloud and local LLMs (like Ollama), prioritizing privacy and control.",
-        "Developers can build end-to-end, agentic workflows, connecting AI to real-world actions and 80+ APIs.",
-        "It's an open-source, local-first platform offering versatility and robust control over your entire computer.",
-        "CLI support allows seamless integration into existing development and DevOps pipelines."
+        "FFF provides blazing-fast file search, significantly outperforming traditional CLIs like ripgrep and fzf in long-running processes.",
+        "It features intelligent 'frecency' ranking, prioritizing frequently and recently accessed files, and offers typo-resistant search.",
+        "FFF's MCP server dramatically enhances AI agent capabilities, enabling more accurate, token-efficient, and context-aware code searches.",
+        "Key features like definition-first hinting, smart-case fuzzy fallback, and Git-aware annotations provide superior search relevance for both humans and AI.",
+        "The lightweight in-memory index and background watcher ensure continuous, high-performance search without constant rescans."
     ],
     "tags": [
-        "Desktop Automation",
-        "AI Agents",
-        "Open Source",
-        "Workflow Automation",
-        "Local LLM"
+        "File Search",
+        "AI Development",
+        "Developer Tools",
+        "Code Search",
+        "Productivity"
     ],
-    "stars": 176,
-    "forks": 26,
-    "open_issues": 30,
-    "languages": "TypeScript",
-    "readme_summary": "Loopi is an open-source desktop automation platform that allows users to build and run complex workflows locally. It offers visual workflow building, real browser automation, desktop control, system command execution, AI agent integration, and over 80 API integrations.",
-    "project_id": 1058622297,
-    "url": "https://github.com/Dyan-Dev/loopi",
-    "description": "A desktop automation platform — control browsers, system cursor/keyboard, run shell commands, and orchestrate workflows with AI agents and 80+ integrations. Runs locally."
+    "stars": 7477,
+    "forks": 305,
+    "open_issues": 48,
+    "languages": "Rust",
+    "readme_summary": "FFF is a high-performance file search toolkit designed for both human developers and AI agents. It offers typo-resistant path and content searching, frecency-ranked file access, and an in-memory index, significantly outperforming traditional CLIs in long-running processes. It can be used as a standalone tool, a Neovim plugin, or integrated with AI agents via MCP or Pi extensions.",
+    "project_id": 1029972503,
+    "url": "https://github.com/dmtrKovalenko/fff",
+    "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS"
 }
