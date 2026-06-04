@@ -1,44 +1,44 @@
 [
     {
-        "project_id": 147043230,
-        "content": "💡 <b>etchdroid</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating bootable operating system USB drives from an Android device.\n<br>\n✨ <b>Key Features:</b>\n• Write OS images to USB drives on Android\n• No root access required\n• Supports modern GNU/Linux OS images\n• Supports Raspberry Pi SD card images (unzipped)\n• Telemetry collection for issue diagnosis (optional, F-Droid build available without telemetry)\n<br>\n📖 <b>Summary:</b>\nEtchDroid is an open-source Android application designed to write OS images directly to USB drives. It allows users to create bootable operating system USBs from their mobile device without requiring root access, supporting a wide range of modern Linux distributions and Raspberry Pi images.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/etchdroid/etchdroid?embed=0\">View Project</a>\n• <a href=\"https://etchdroid.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9ff941a1392527fe6af518d2ee872c561087e0c93aa8ce22b40d0a166163d88f/etchdroid/etchdroid",
+        "project_id": 986855483,
+        "content": "🌟 <b>AnimateAnyMesh</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating animated 3D meshes from static meshes and text descriptions.\n<br>\n✨ <b>Key Features:</b>\n• Feed-forward universal mesh animation framework\n• Text-driven animation generation\n• High-quality animation in seconds\n• Supports arbitrary 3D meshes\n• DyMesh Dataset and VAE/RF models released\n<br>\n📖 <b>Summary:</b>\nAnimateAnyMesh is a feed-forward 4D foundation model designed for universal mesh animation. It takes a static 3D mesh and a text prompt as input to generate high-quality animations efficiently in seconds.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/JarrentWu1031/AnimateAnyMesh?embed=0\">View Project</a>\n• <a href=\"https://animateanymesh.github.io/AnimateAnyMesh/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8b5ff11c61ba2f38c2d2d0bddf337a1b4f85ae143fcf46f25a30ba0119778bad/JarrentWu1031/AnimateAnyMesh",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
+        "quality_score": 0.7
     },
     {
-        "project_id": 1214537642,
-        "content": "🚀 <b>Zenith</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nAssisting users in managing and reducing their digital screen time and breaking addictive scrolling habits on Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Bedtime Mode with customizable schedules and Do Not Disturb\n• Interactive Material 3 Expressive widgets for tracking progress\n• Mindful Gateway to pause non-whitelisted apps\n• Backup & Restore functionality for settings and schedules\n• Shield Mode to protect specific apps with pauses and limits\n<br>\n📖 <b>Summary:</b>\nZenith is an Android digital wellbeing assistant built with Material Design 3 Expressive. It helps users break addictive scrolling habits through proactive interventions, real-time monitoring, and a fluid, motion-rich user experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/1372Slash/Zenith?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1214537642/b71cc327-ff67-4482-975f-d26f0c0ac313",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 24872014,
-        "content": "✨ <b>flightgear</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nA highly realistic and customizable flight simulator for entertainment, education, and research.\n<br>\n✨ <b>Key Features:</b>\n• Free, open-source, and cross-platform\n• Global scenery (fly anywhere on Earth)\n• Spaceflight\n• Complex weather modeling\n• Online multiplayer and VATSIM support\n<br>\n📖 <b>Summary:</b>\nFlightGear is a free, open-source, cross-platform flight simulator developed by a global community. It offers realistic global scenery, complex weather modeling, and spaceflight capabilities, making it suitable for enthusiasts, researchers, and even FAA-approved training.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/FlightGear/flightgear?embed=0\">View Project</a>\n• <a href=\"https://gitlab.com/flightgear/flightgear?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7b153730f03c642bccdd5cf5f1bcb0f52aadc01e243e68003745de99af0fb400/FlightGear/flightgear",
-        "platform": "telegram",
-        "quality_score": 0.35
-    },
-    {
-        "project_id": 1029972503,
-        "content": "💡 <b>fff</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide an extremely fast and accurate file search capability that can be leveraged by developers, AI agents, and integrated into code editors and development tools.\n<br>\n✨ <b>Key Features:</b>\n• Typo-resistant path and content search\n• Frecency-ranked file access\n• Background watcher\n• Lightweight in-memory content index\n<br>\n📖 <b>Summary:</b>\nFFF is a high-performance file search toolkit designed for both human developers and AI agents. It offers typo-resistant path and content searching, frecency-ranked file access, and an in-memory index, significantly outperforming traditional CLIs in long-running processes. It can be used as a standalone tool, a Neovim plugin, or integrated with AI agents via MCP or Pi extensions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dmtrKovalenko/fff?embed=0\">View Project</a>\n• <a href=\"https://fff.dmtrkovalenko.dev/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e67b5d66b09050abf90baf03f29ad248d350eb690cfd7de8d854c4411cf94b66/dmtrKovalenko/fff",
+        "project_id": 531412781,
+        "content": "🔥 <b>deptry</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo help Python developers maintain clean and accurate dependency lists in their projects, preventing issues caused by outdated, missing, or unnecessary packages.\n<br>\n✨ <b>Key Features:</b>\n• Detects unused dependencies\n• Detects missing dependencies\n• Detects transitive dependencies\n• Supports Poetry, pip, PDM, uv, and PEP 621 projects\n• Scans imported modules against declared dependencies\n<br>\n📖 <b>Summary:</b>\nDeptry is a Python command-line tool designed to identify and report dependency issues in Python projects. It checks for unused, missing, and transitive dependencies by analyzing imported modules against the project's declared dependencies.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/osprey-oss/deptry?embed=0\">View Project</a>\n• <a href=\"https://deptry.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6fa5c8ab4282db61544b30f34e7c089bc045a6e376581d70fcdbe3cf7713779c/osprey-oss/deptry",
         "platform": "telegram",
         "quality_score": 1.05
     },
     {
-        "project_id": 667774789,
-        "content": "🔥 <b>WindowPet</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with customizable, animated desktop companions that appear as overlays on their screen.\n<br>\n✨ <b>Key Features:</b>\n• Add pets and custom characters as screen overlays\n• Extensive library of pets and characters\n• Custom pet creation support\n• Click-through functionality for overlays\n• Auto start-up and auto-update\n<br>\n📖 <b>Summary:</b>\nWindowPet is a cross-platform desktop application that allows users to place animated pets or characters on their screen as overlays. Built with Tauri and React, it offers a variety of customization options and aims to provide a fun, non-intrusive companion experience without performance issues.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SeakMengs/WindowPet?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/08282c58940c8b15eba90409bb2c141c9040490aaf7e74e75a8ebd2870a651db/SeakMengs/WindowPet",
+        "project_id": 911000471,
+        "content": "✨ <b>termora</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a modern, feature-rich terminal emulator and SSH client for developers and system administrators across multiple operating systems.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform support\n• Built-in key manager\n• X11 forwarding\n• SSH-Agent integration\n• System information display\n<br>\n📖 <b>Summary:</b>\nTermora is a cross-platform terminal emulator and SSH client for Windows, macOS, and Linux, built with Kotlin/JVM. It aims for full platform support and offers features like a built-in key manager, X11 forwarding, SSH-Agent integration, and GUI-based SFTP file management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TermoraDev/termora?embed=0\">View Project</a>\n• <a href=\"https://termora.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5f602caae4188aa424ff0c38d7e21b8596f34cf92e311984c1da2f769387dcb5/TermoraDev/termora",
         "platform": "telegram",
-        "quality_score": 0.7999999999999999
+        "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 871522725,
-        "content": "✨ <b>CloudRip</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nIdentifying the origin IP addresses of websites protected by Cloudflare for penetration testing and security research.\n<br>\n✨ <b>Key Features:</b>\n• IPv4 & IPv6 support\n• Multiple IPs detection\n• Progress bar with live stats\n• Dynamic Cloudflare IP detection\n• Fast subdomain scanning using multiple threads\n<br>\n📖 <b>Summary:</b>\nCloudRip is a Python-based tool designed to uncover the real IP addresses of websites protected by Cloudflare. It achieves this by systematically checking subdomains and identifying those that do not resolve to Cloudflare's IP ranges, thereby revealing the origin server's IP.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/moscovium-mc/CloudRip?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/76c08f59a3e6e0502b13b7a9e4ca08948ab049d601dcbee8d15b3f801e384344/moscovium-mc/CloudRip",
+        "project_id": 1124219907,
+        "content": "💡 <b>DeepTutor</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a personalized and interactive AI-powered tutoring experience for learners, adapting to individual needs and learning styles.\n<br>\n✨ <b>Key Features:</b>\n• Agent-Native Personalized Tutoring\n• Open-Sourced\n• Large Language Models (LLMs) Integration\n• Multi-Agent Systems\n• Retrieval-Augmented Generation (RAG)\n<br>\n📖 <b>Summary:</b>\nDeepTutor is an open-source, agent-native personalized tutoring system designed to provide interactive learning experiences. It leverages large language models and multi-agent systems, incorporating Retrieval-Augmented Generation (RAG) for enhanced knowledge retrieval and personalized responses.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HKUDS/DeepTutor?embed=0\">View Project</a>\n• <a href=\"http://arxiv.org/abs/2604.26962?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/325082f849f91b2372c4b7fb233337f8dfbb55a6fb57ee59c5cb83f1882ae7d5/HKUDS/DeepTutor",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 1.05
+    },
+    {
+        "project_id": 1128525239,
+        "content": "✨ <b>personaplex</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling controlled, persona-driven conversational AI interactions via speech.\n<br>\n✨ <b>Key Features:</b>\n• Real-time, full-duplex speech-to-speech conversational model\n• Persona control through text-based role prompts\n• Audio-based voice conditioning\n• Low-latency spoken interactions\n• Consistent persona maintenance\n<br>\n📖 <b>Summary:</b>\nPersonaPlex is a real-time, full-duplex conversational speech model that allows for persona control via text prompts and voice conditioning. It is built on the Moshi architecture and trained on a mix of synthetic and real conversations to produce natural, low-latency spoken interactions with a consistent persona.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/NVIDIA/personaplex?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/eb2636ac2df3a5ad386f284f1d0a8ad5b301e05b685b0f140de4ae58aaa9443d/NVIDIA/personaplex",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 1112365301,
+        "content": "💡 <b>qmd</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a fast, private, and intelligent search engine for personal and professional documents, enabling users and AI agents to quickly find and utilize information.\n<br>\n✨ <b>Key Features:</b>\n• Local, on-device indexing and search\n• Supports markdown, meeting transcripts, documentation, and knowledge bases\n• Combines BM25 full-text search, vector semantic search, and LLM re-ranking\n• Uses node-llama-cpp with GGUF models for local LLM operations\n<br>\n📖 <b>Summary:</b>\nQMD is a local, on-device search engine designed to index and query personal documents, notes, and knowledge bases. It combines traditional keyword search, semantic vector search, and LLM re-ranking to provide high-quality, context-aware results, making it ideal for integration with AI agents.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tobi/qmd?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/64ed96957c581acc3eb9325b9f7ca9608ea7529732ebb8bd526683261a3047f9/tobi/qmd",
+        "platform": "telegram",
+        "quality_score": 1.1
     }
 ]
