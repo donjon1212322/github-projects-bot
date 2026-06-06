@@ -1,44 +1,37 @@
 [
     {
-        "project_id": 268365774,
-        "content": "✨ <b>convolutional-handwriting-gan</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating realistic, variable-length handwritten text using semi-supervised learning techniques.\n<br>\n✨ <b>Key Features:</b>\n• Semi-supervised handwritten text generation\n• Varying length text generation\n• PyTorch implementation\n<br>\n📖 <b>Summary:</b>\nScrabbleGAN is a PyTorch implementation for semi-supervised handwritten text generation. It focuses on generating realistic varying-length handwritten text, leveraging both labeled and unlabeled data for improved performance. The project includes scripts for supervised and semi-supervised training, dependency management, and data preparation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/amzn/convolutional-handwriting-gan?embed=0\">View Project</a>\n• <a href=\"https://www.amazon.science/publications/scrabblegan-semi-supervised-varying-length-handwritten-text-generation?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/268365774/c086af80-a407-11ea-972c-0ebfbadd4854",
-        "platform": "telegram",
-        "quality_score": 0.45
-    },
-    {
-        "project_id": 1147480895,
-        "content": "🔥 <b>prism-desktop</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a native desktop application for controlling and monitoring Home Assistant devices on Windows and Linux, offering a more integrated and accessible experience than a web browser.\n<br>\n✨ <b>Key Features:</b>\n• System Tray Integration\n• PC Notifications\n• Morphing Controls\n• Drag & Drop Dashboard\n• Resizable Dashboard\n<br>\n📖 <b>Summary:</b>\nPrism Desktop is a lightweight, customizable Home Assistant client for Windows and Linux, offering system tray integration and real-time control of smart home devices without needing a web browser. It leverages Home Assistant's WebSocket API to provide instant updates and allows users to manage lights, thermostats, cameras, and automations through a sleek, interactive dashboard.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lasselian/prism-desktop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/65dd8a1134ab1c303ca6788a0df5d835c9c37b97ea530251c891d9b42a44a63a/lasselian/prism-desktop",
-        "platform": "telegram",
-        "quality_score": 0.8500000000000001
-    },
-    {
-        "project_id": 1215329248,
-        "content": "🚀 <b>netviz</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nVisually designing and documenting network architectures in a web browser.\n<br>\n✨ <b>Key Features:</b>\n• Drag and drop blocks\n• Connect blocks with edges\n• Inspector panel for editing\n• Custom blocks with own icons\n• Duplicate blocks\n<br>\n📖 <b>Summary:</b>\nNetviz is a browser-based application for visually designing network architectures. It allows users to add, connect, and customize network components like servers and databases, offering features for organization, custom icons, and local saving without a server.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ShadowArcanist/netviz?embed=0\">View Project</a>\n• <a href=\"https://netviz.shadowarcanist.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9df1c8dd37c4015d90cdcf77ae92be57e2765782801cb868898b72c2b328e39a/ShadowArcanist/netviz",
-        "platform": "telegram",
-        "quality_score": 0.5499999999999999
-    },
-    {
-        "project_id": 1141782198,
-        "content": "💡 <b>voicebox</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a comprehensive, privacy-focused, and locally-run AI voice studio for voice cloning, speech generation, and voice input.\n<br>\n✨ <b>Key Features:</b>\n• Local-first AI voice studio\n• Voice cloning (zero-shot)\n• Speech generation (7 TTS engines, 23 languages)\n• Voice input (global dictation hotkey)\n• Post-processing effects\n<br>\n📖 <b>Summary:</b>\nVoicebox is an open-source, local-first AI voice studio that allows users to clone voices, generate speech in multiple languages and TTS engines, and use voice input for dictation. It provides a complete voice I/O stack running locally for enhanced privacy and control, offering an alternative to cloud-based services like ElevenLabs and WisprFlow.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jamiepine/voicebox?embed=0\">View Project</a>\n• <a href=\"https://voicebox.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e9fa3985645c8072fabe1929dc5b4543a7f6d8a8b9ad04a2b077f3d5cd95a170/jamiepine/voicebox",
+        "project_id": 1251062760,
+        "content": "💡 <b>youthub</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nWatching YouTube videos directly from the terminal without using a web browser.\n<br>\n✨ <b>Key Features:</b>\n• TUI grid with previews\n• Custom ffplay-yt player\n• SponsorBlock integration\n• 1080p video playback\n• Direct SABR streaming\n<br>\n📖 <b>Summary:</b>\nYouHub is a terminal-based YouTube client that allows users to browse, search, and watch YouTube videos directly from their console. It features a TUI grid interface, a custom ffplay-yt player, and integrates features like SponsorBlock for an ad-free experience without needing a web browser.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HelpFreedom/youthub?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/992b6afdc75d41eb706c45690ba95f9fd55ec6cae11656c5281d09bbee9c3ee7/HelpFreedom/youthub",
         "platform": "telegram",
         "quality_score": 0.8
     },
     {
-        "project_id": 1148788086,
-        "content": "🚀 <b>skills</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enhance the functionality and reliability of AI coding agents by providing a set of practical, adaptable skills that improve alignment, reduce verbosity, and facilitate better communication between developers and agents.\n<br>\n✨ <b>Key Features:</b>\n• Shell-based agent skills for coding agents\n• Composable and adaptable skills\n• Addresses common agent failure modes (misalignment, verbosity)\n<br>\n📖 <b>Summary:</b>\nThis repository provides a collection of shell-based 'skills' for real engineers, designed to enhance the capabilities of coding agents. These skills are intended to be small, adaptable, and composable, aiming to improve agent performance by addressing common failure modes like misalignment and verbosity.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mattpocock/skills?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/135548513453c9e035943b3d3e5df029c56bb30ca3a57b977025b2708717f0bb/mattpocock/skills",
+        "project_id": 27973752,
+        "content": "🌟 <b>DeadReckoning</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide accurate and reliable location tracking on Android devices, especially in environments where GPS is not available or functional.\n<br>\n✨ <b>Key Features:</b>\n• Real-time localization\n• Uses inertial sensors (accelerometer, compass, gyro)\n• GPS-independent tracking\n• Offline functionality\n• Self-sufficient location tracking\n<br>\n📖 <b>Summary:</b>\nDead Reckoning is an Android application that provides real-time localization using a phone's inertial sensors, eliminating the need for GPS. It enables self-sufficient and offline location tracking, useful in environments where GPS signals are unreliable or unavailable.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nisargnp/DeadReckoning?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/464e69b26bd940f178874178192645c020e90d29af59a86e877f651a571bfa64/nisargnp/DeadReckoning",
         "platform": "telegram",
-        "quality_score": 0.8500000000000001
+        "quality_score": 0.25
     },
     {
-        "project_id": 1129759677,
-        "content": "💡 <b>ralph</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating the development process by having an AI agent iteratively complete tasks defined in a Product Requirements Document.\n<br>\n✨ <b>Key Features:</b>\n• Autonomous AI agent loop for task completion\n• Supports Amp and Claude Code AI tools\n• Context persistence via git history, progress.txt, and prd.json\n• Iterative execution with fresh AI instances per loop\n<br>\n📖 <b>Summary:</b>\nRalph is an autonomous AI agent loop designed to repeatedly execute coding tasks until all Product Requirements Document (PRD) items are completed. It leverages AI coding tools like Amp or Claude Code, maintaining context through git history, progress files, and a structured PRD JSON format.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/snarktank/ralph?embed=0\">View Project</a>\n• <a href=\"https://x.com/ryancarson/status/2008548371712135632?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/cc97d01053a3e95da66e3b2bb90a3b49ee6826d5dc9da40bd92f450f39eafd8e/snarktank/ralph",
+        "project_id": 832901181,
+        "content": "✨ <b>branch-output</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide advanced, multi-output streaming and recording capabilities for OBS Studio, allowing users to send individual sources or scenes to different destinations with custom configurations.\n<br>\n✨ <b>Key Features:</b>\n• Individual streaming and recording per source/scene\n<br>\n📖 <b>Summary:</b>\nBranch Output is an OBS Studio plugin that enhances streaming and recording capabilities by allowing individual sources or scenes to be configured with dedicated encoding settings and audio sources. It provides advanced features like automatic reconnection, per-filter replay buffers, and manual file splitting, offering granular control over output streams.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/OPENSPHERE-Inc/branch-output?embed=0\">View Project</a>\n• <a href=\"https://blog.opensphere.co.jp/posts/branchoutput001?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9100bd211b45b96d7b5adbe9808283309df9c96c09aae2dfa6ef7a3e8b81dd34/OPENSPHERE-Inc/branch-output",
         "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 1155965274,
+        "content": "🌟 <b>Claude-Code-Game-Studios</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide structure and organization to AI-assisted game development within a single Claude Code session, enabling a more efficient and professional workflow.\n<br>\n✨ <b>Key Features:</b>\n• 49 specialized AI agents organized into a studio hierarchy (Directors, Department Leads, Specialists)\n• 73 workflow skills (slash commands) for all phases of game development\n<br>\n📖 <b>Summary:</b>\nClaude Code Game Studios transforms a single Claude Code session into a structured, multi-agent game development studio. It organizes AI agents into a hierarchy with specialized roles and skills, mirroring a real studio's workflow to improve project organization, catch errors early, and maintain project vision.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Donchitos/Claude-Code-Game-Studios?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/dda50ec130071715ea176006580b0ed09ac175fd027fa45ee24bb00cd8265d34/Donchitos/Claude-Code-Game-Studios",
+        "platform": "telegram",
+        "quality_score": 0.8
+    },
+    {
+        "project_id": 1135791677,
+        "content": "🔥 <b>GenericAgent</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling Large Language Models (LLMs) to autonomously control and interact with local computer systems, automating tasks and evolving capabilities over time.\n<br>\n✨ <b>Key Features:</b>\n• Self-Evolving: Automatically crystallizes tasks into reusable Skills, growing a personal skill tree.\n• Minimal Architecture: Core code is ~3K lines, Agent Loop is ~100 lines, with no complex dependencies.\n<br>\n📖 <b>Summary:</b>\nGenericAgent is a Python framework for creating self-evolving autonomous AI agents. It allows LLMs to control local computer systems through a minimal set of tools and an agent loop, automatically learning and growing its capabilities into a personal skill tree with each task it completes.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lsdefine/GenericAgent?embed=0\">View Project</a>\n• <a href=\"https://github.com/lsdefine/GenericAgent?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/69850fce9301aa6978ac622e95cdefc2b28b925a886c5ff3260ff4f0c777c838/lsdefine/GenericAgent",
+        "platform": "telegram",
+        "quality_score": 1.0
     }
 ]

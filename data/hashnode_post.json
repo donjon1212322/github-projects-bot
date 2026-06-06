@@ -1,30 +1,30 @@
 {
-    "title": "Prism Desktop: Your Smart Home, Finally Native on Windows & Linux!",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nPrism Desktop is a lightweight, customizable Home Assistant client for Windows and Linux, offering system tray integration and real-time control of smart home devices without needing a web browser. It leverages Home Assistant's WebSocket API to provide instant updates and allows users to manage lights, thermostats, cameras, and automations through a sleek, interactive dashboard.\n\n## 🔑 Key Takeaways\n\n- ✅ Prism Desktop offers a native, lightweight Home Assistant client for Windows and Linux.\n\n- ✅ Enjoy real-time sync and control of your smart home devices directly from your desktop via WebSocket API.\n\n- ✅ Benefit from a customizable, drag-and-drop dashboard with intuitive morphing controls for detailed adjustments.\n\n- ✅ Receive Home Assistant alerts as PC notifications and streamline actions with global keyboard shortcuts.\n\n- ✅ Supports a wide range of entities, including a unique dedicated tile for 3D printer monitoring.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 362\n- 🍴 Forks: 41\n- ❗ Open Issues: 4\n\n\n## 🛠 Tech Stack\n- ✅ Python\n\n\nTired of constantly opening a browser tab to manage your smart home? Imagine having instant access to all your Home Assistant devices right from your desktop, seamlessly integrated into your workflow. That's exactly what Prism Desktop brings to the table. This fantastic open-source project provides a lightweight, native client for Home Assistant on both Windows and Linux, transforming how you interact with your smart home.\n\nPrism Desktop lives quietly in your system tray, always ready when you need it. A quick click or a customizable keyboard shortcut brings up a sleek, intuitive dashboard. What makes it truly powerful is its reliance on Home Assistant's WebSocket API, ensuring that your dashboard is always in real-time sync with your home's actual state. No more wondering if a light is truly off or if your thermostat has adjusted.\n\nThe dashboard itself is a joy to use. You can easily drag and drop tiles to arrange them exactly how you like, and even resize the entire dashboard to fit your screen. For more granular control, Prism Desktop features \"morphing controls\" – simply click and hold a widget, and it expands to reveal detailed options like dimmers for lights or temperature adjustments for thermostats. This thoughtful design means you get quick access to common actions, with deeper controls just a gesture away.\n\nDevelopers and smart home enthusiasts will appreciate the practical benefits. Beyond just controlling lights and switches, Prism Desktop supports a wide array of entities including climate controls, media players, cameras, sensors, and even dedicated tiles for 3D printer monitoring, showing live feeds and nozzle/bed temperatures. Imagine getting instant desktop notifications for Home Assistant alerts, ensuring you never miss an important event. This eliminates the friction of switching contexts, making your smart home truly feel like an extension of your computing environment. It's about bringing your smart home closer to you, making daily interactions more efficient and enjoyable. The ability to bind global keyboard shortcuts to toggle the app or even trigger specific entities further streamlines your workflow, allowing you to automate actions without ever leaving your main task.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/lasselian/prism-desktop)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "GenericAgent: Unleash Self-Evolving AI with a Minimal Autonomous Framework!",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nGenericAgent is a Python framework for creating self-evolving autonomous AI agents. It allows LLMs to control local computer systems through a minimal set of tools and an agent loop, automatically learning and growing its capabilities into a personal skill tree with each task it completes.\n\n## 🔑 Key Takeaways\n\n- ✅ GenericAgent empowers LLMs with full system-level control over local computers using a minimal set of 9 atomic tools.\n\n- ✅ It features a unique self-evolution mechanism, automatically learning and crystallizing successful task executions into reusable \"Skills.\"\n\n- ✅ The framework boasts an incredibly minimal architecture (~3K lines of code, ~100-line Agent Loop), ensuring low overhead and easy integration.\n\n- ✅ GenericAgent is highly token-efficient, operating with a small context window (<30K), which leads to lower costs, fewer hallucinations, and higher success rates.\n\n- ✅ It offers high compatibility with major LLMs (Claude, Gemini, Kimi, etc.) and cross-platform support, making it a versatile tool for developers.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 12623\n- 🍴 Forks: 1456\n- ❗ Open Issues: 74\n\n\n## 🛠 Tech Stack\n- ✅ Python\n\n\nGenericAgent is a groundbreaking framework that empowers Large Language Models (LLMs) with full control over your local computer. Imagine an AI that can interact with your browser, terminal, filesystem, and even keyboard and mouse, just like a human. But here's the kicker: it's designed with a \"don't preload skills, evolve them\" philosophy. Instead of being pre-programmed with every possible action, GenericAgent learns and grows as you use it, making it incredibly adaptable.\n\nAt its heart, GenericAgent is incredibly lean, built with only around 3,000 lines of core code. Its magic lies in its \"Agent Loop,\" a mere 100 lines, combined with 9 fundamental \"atomic tools.\" These tools are the building blocks, allowing the LLM to perform actions like browsing the web, executing commands in the terminal, managing files, and even controlling mobile devices via ADB. This minimal yet powerful architecture is what grants the AI system-level control without heavy overhead or complex dependencies.\n\nThe most exciting aspect is its self-evolving capability. Every time GenericAgent successfully completes a new task, it doesn't just forget the process. It automatically captures and \"crystallizes\" that execution path into a reusable \"Skill.\" Think of it as the agent learning a new trick and adding it to its personal repertoire. The more you use GenericAgent, the more skills it accumulates, creating a unique and ever-growing \"skill tree\" tailored to your specific needs and workflows. It even self-bootstrapped its own repository, demonstrating its autonomous capabilities from the ground up.\n\nDevelopers should absolutely check this out because it offers significant advantages. Its minimal architecture means zero deployment overhead and easy integration into existing projects. It's highly compatible, supporting major LLMs like Claude, Gemini, and Kimi across different platforms, giving you flexibility. Crucially, it's incredibly token-efficient, operating with a context window of less than 30K tokens, which is a fraction of what many other agents consume. This translates to lower operational costs, reduced noise, fewer hallucinations, and a higher success rate for complex tasks. This framework is a game-changer for automating repetitive tasks, building more intelligent agents, and exploring the true potential of autonomous AI in your development workflow.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/lsdefine/GenericAgent)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "home assistant",
-            "slug": "home-assistant"
+            "name": "ai agent",
+            "slug": "ai-agent"
         },
         {
-            "name": "smart home",
-            "slug": "smart-home"
+            "name": "llm",
+            "slug": "llm"
         },
         {
-            "name": "desktop app",
-            "slug": "desktop-app"
+            "name": "autonomous systems",
+            "slug": "autonomous-systems"
         },
         {
-            "name": "windows",
-            "slug": "windows"
+            "name": "self-evolving ai",
+            "slug": "self-evolving-ai"
         },
         {
-            "name": "linux",
-            "slug": "linux"
+            "name": "developer tools",
+            "slug": "developer-tools"
         }
     ],
-    "slug": "prism-desktop-your-smart-home-finally-native-on-windows--linux",
-    "project_id": 1147480895,
+    "slug": "genericagent-unleash-self-evolving-ai-with-a-minimal-autonomous-framework",
+    "project_id": 1135791677,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
