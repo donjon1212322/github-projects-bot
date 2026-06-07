@@ -1,0 +1,7 @@
+{
+    "project_id": 932038801,
+    "content": "🚀 <b>DeepGEMM</b> | Cuda\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding highly optimized matrix multiplication (GEMM) kernels for accelerating computations in large language models and other deep learning applications on NVIDIA GPUs.\n<br>\n✨ <b>Key Features:</b>\n• Optimized GEMM kernels for FP8, FP4, and BF16 precisions\n• Fused MoE with overlapped communication (Mega MoE)\n• MQA scoring for lightning indexer\n• HyperConnection (HC) support\n<br>\n📖 <b>Summary:</b>\nDeepGEMM is a high-performance CUDA kernel library for modern large language models, offering optimized GEMM operations for various precisions (FP8, FP4, BF16) and advanced features like fused MoE and MQA scoring. It utilizes a Just-In-Time (JIT) compilation approach for flexibility and performance without requiring CUDA compilation during installation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/deepseek-ai/DeepGEMM?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/ee3a127d59962e7ac7290282f1af6e2ae99abb7bf2734198221dbb183cd72fbe/deepseek-ai/DeepGEMM",
+    "platform": "telegram",
+    "quality_score": 1.05
+}

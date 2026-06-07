@@ -1,26 +1,26 @@
 {
-    "title": "GenericAgent: Unleash Self-Evolving AI with a Minimal Autonomous Framework!",
-    "article": "GenericAgent is a groundbreaking framework that empowers Large Language Models (LLMs) with full control over your local computer. Imagine an AI that can interact with your browser, terminal, filesystem, and even keyboard and mouse, just like a human. But here's the kicker: it's designed with a \"don't preload skills, evolve them\" philosophy. Instead of being pre-programmed with every possible action, GenericAgent learns and grows as you use it, making it incredibly adaptable.\n\nAt its heart, GenericAgent is incredibly lean, built with only around 3,000 lines of core code. Its magic lies in its \"Agent Loop,\" a mere 100 lines, combined with 9 fundamental \"atomic tools.\" These tools are the building blocks, allowing the LLM to perform actions like browsing the web, executing commands in the terminal, managing files, and even controlling mobile devices via ADB. This minimal yet powerful architecture is what grants the AI system-level control without heavy overhead or complex dependencies.\n\nThe most exciting aspect is its self-evolving capability. Every time GenericAgent successfully completes a new task, it doesn't just forget the process. It automatically captures and \"crystallizes\" that execution path into a reusable \"Skill.\" Think of it as the agent learning a new trick and adding it to its personal repertoire. The more you use GenericAgent, the more skills it accumulates, creating a unique and ever-growing \"skill tree\" tailored to your specific needs and workflows. It even self-bootstrapped its own repository, demonstrating its autonomous capabilities from the ground up.\n\nDevelopers should absolutely check this out because it offers significant advantages. Its minimal architecture means zero deployment overhead and easy integration into existing projects. It's highly compatible, supporting major LLMs like Claude, Gemini, and Kimi across different platforms, giving you flexibility. Crucially, it's incredibly token-efficient, operating with a context window of less than 30K tokens, which is a fraction of what many other agents consume. This translates to lower operational costs, reduced noise, fewer hallucinations, and a higher success rate for complex tasks. This framework is a game-changer for automating repetitive tasks, building more intelligent agents, and exploring the true potential of autonomous AI in your development workflow.",
+    "title": "ArcKit: Your AI Co-Pilot for Seamless Enterprise Architecture Governance",
+    "article": "Have you ever felt lost in the labyrinth of enterprise architecture, juggling countless documents, spreadsheets, and endless meetings just to ensure consistent design and governance? It's a common challenge, but there's a powerful new toolkit emerging to bring clarity and structure to this complex world: ArcKit. This open-source project is designed specifically for enterprise architects, transforming what used to be a scattered, manual process into a systematic, AI-assisted workflow.ArcKit acts as a central harness, helping you establish and consistently enforce architectural principles across your organization. Imagine having a smart assistant that helps you analyze stakeholder needs, define clear goals, and predict outcomes. It streamlines critical processes like risk management, aligning with established frameworks such as HM Treasury's Orange Book, and even assists with business case justifications using the Green Book's SOBC model. This means less guesswork and more data-driven decisions.One of ArcKit's standout features is its ability to guide you through comprehensive requirements gathering, data modeling (including GDPR compliance), and even technology research. Need to decide between building a solution or buying one off the shelf? ArcKit can power web searches to provide insights. For those working with Azure, it integrates directly with Microsoft Learn documentation, ensuring you're always referencing authoritative sources. It even helps with strategic planning using Wardley Mapping and generates visual architecture diagrams using Mermaid, making complex designs easy to understand.Beyond the initial design phase, ArcKit extends its utility into delivery and assurance. It helps manage vendor RFP processes, facilitates formal design reviews (HLD/DLD), and even integrates with ServiceNow for service management design. Crucially, it maintains requirements traceability, ensuring that every decision can be linked back to its origin. This level of structured support, augmented by AI capabilities, means architects can focus more on strategic thinking and less on administrative overhead, leading to better, more robust enterprise solutions.",
     "key_takeaways": [
-        "GenericAgent empowers LLMs with full system-level control over local computers using a minimal set of 9 atomic tools.",
-        "It features a unique self-evolution mechanism, automatically learning and crystallizing successful task executions into reusable \"Skills.\"",
-        "The framework boasts an incredibly minimal architecture (~3K lines of code, ~100-line Agent Loop), ensuring low overhead and easy integration.",
-        "GenericAgent is highly token-efficient, operating with a small context window (<30K), which leads to lower costs, fewer hallucinations, and higher success rates.",
-        "It offers high compatibility with major LLMs (Claude, Gemini, Kimi, etc.) and cross-platform support, making it a versatile tool for developers."
+        "Transforms enterprise architecture governance into a systematic, AI-assisted workflow.",
+        "Streamlines critical processes from strategy and design to risk management and business cases.",
+        "Offers comprehensive tools for requirements, data modeling, technology research, and visual diagrams.",
+        "Enhances traceability, consistency, and efficiency for enterprise architects.",
+        "Reduces administrative overhead, allowing architects to focus on strategic initiatives."
     ],
     "tags": [
-        "AI Agent",
-        "LLM",
-        "Autonomous Systems",
-        "Self-Evolving AI",
-        "Developer Tools"
+        "Enterprise Architecture",
+        "Architecture Governance",
+        "AI Tools",
+        "System Design",
+        "DevOps"
     ],
-    "stars": 12623,
-    "forks": 1456,
-    "open_issues": 74,
-    "languages": "Python",
-    "readme_summary": "GenericAgent is a Python framework for creating self-evolving autonomous AI agents. It allows LLMs to control local computer systems through a minimal set of tools and an agent loop, automatically learning and growing its capabilities into a personal skill tree with each task it completes.",
-    "project_id": 1135791677,
-    "url": "https://github.com/lsdefine/GenericAgent",
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption"
+    "stars": 1971,
+    "forks": 246,
+    "open_issues": 8,
+    "languages": "HTML",
+    "readme_summary": "ArcKit is an enterprise architecture governance toolkit that streamlines strategy, design, delivery, and assurance workflows. It leverages AI assistance to manage architecture principles, stakeholder drivers, risk, business cases, requirements, data modeling, technology research, strategic planning, diagram generation, vendor management, design reviews, and traceability.",
+    "project_id": 1076043819,
+    "url": "https://github.com/tractorjuice/arc-kit",
+    "description": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants"
 }
