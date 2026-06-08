@@ -1,30 +1,30 @@
 {
-    "title": "ArcKit: Your AI Co-Pilot for Seamless Enterprise Architecture Governance",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nArcKit is an enterprise architecture governance toolkit that streamlines strategy, design, delivery, and assurance workflows. It leverages AI assistance to manage architecture principles, stakeholder drivers, risk, business cases, requirements, data modeling, technology research, strategic planning, diagram generation, vendor management, design reviews, and traceability.\n\n## 🔑 Key Takeaways\n\n- ✅ Transforms enterprise architecture governance into a systematic, AI-assisted workflow.\n\n- ✅ Streamlines critical processes from strategy and design to risk management and business cases.\n\n- ✅ Offers comprehensive tools for requirements, data modeling, technology research, and visual diagrams.\n\n- ✅ Enhances traceability, consistency, and efficiency for enterprise architects.\n\n- ✅ Reduces administrative overhead, allowing architects to focus on strategic initiatives.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 1971\n- 🍴 Forks: 246\n- ❗ Open Issues: 8\n\n\n## 🛠 Tech Stack\n- ✅ HTML\n\n\nHave you ever felt lost in the labyrinth of enterprise architecture, juggling countless documents, spreadsheets, and endless meetings just to ensure consistent design and governance? It's a common challenge, but there's a powerful new toolkit emerging to bring clarity and structure to this complex world: ArcKit. This open-source project is designed specifically for enterprise architects, transforming what used to be a scattered, manual process into a systematic, AI-assisted workflow.ArcKit acts as a central harness, helping you establish and consistently enforce architectural principles across your organization. Imagine having a smart assistant that helps you analyze stakeholder needs, define clear goals, and predict outcomes. It streamlines critical processes like risk management, aligning with established frameworks such as HM Treasury's Orange Book, and even assists with business case justifications using the Green Book's SOBC model. This means less guesswork and more data-driven decisions.One of ArcKit's standout features is its ability to guide you through comprehensive requirements gathering, data modeling (including GDPR compliance), and even technology research. Need to decide between building a solution or buying one off the shelf? ArcKit can power web searches to provide insights. For those working with Azure, it integrates directly with Microsoft Learn documentation, ensuring you're always referencing authoritative sources. It even helps with strategic planning using Wardley Mapping and generates visual architecture diagrams using Mermaid, making complex designs easy to understand.Beyond the initial design phase, ArcKit extends its utility into delivery and assurance. It helps manage vendor RFP processes, facilitates formal design reviews (HLD/DLD), and even integrates with ServiceNow for service management design. Crucially, it maintains requirements traceability, ensuring that every decision can be linked back to its origin. This level of structured support, augmented by AI capabilities, means architects can focus more on strategic thinking and less on administrative overhead, leading to better, more robust enterprise solutions.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/tractorjuice/arc-kit)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Supercharge Your Marketing with AI Agent Skills!",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nThis repository provides a collection of specialized marketing skills for AI agents, enabling them to perform tasks like conversion optimization, copywriting, SEO, analytics, and growth engineering. It's designed for technical marketers and founders to enhance AI coding agent capabilities.\n\n## 🔑 Key Takeaways\n\n- ✅ Empowers AI agents with specialized marketing knowledge and workflows.\n\n- ✅ Covers a wide range of marketing disciplines, including SEO, CRO, copywriting, and growth.\n\n- ✅ Skills are interconnected, building on a foundational understanding of product and audience.\n\n- ✅ Significantly enhances efficiency and effectiveness for technical marketers and founders.\n\n- ✅ Compatible with popular AI coding agents like Claude Code, OpenAI Codex, and Cursor.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 32401\n- 🍴 Forks: 5320\n- ❗ Open Issues: 6\n\n\n## 🛠 Tech Stack\n- ✅ JavaScript\n\n\nEver wished your AI coding assistant could do more than just write code? Imagine if it could brainstorm killer marketing copy, optimize your landing pages, or even plan your SEO strategy with an expert's touch. For technical marketers and founders, the dream of an AI assistant that truly understands and executes complex marketing tasks is now a reality thanks to a brilliant new GitHub project: Marketing Skills for AI Agents. This innovative collection equips your AI with specialized knowledge to tackle real-world marketing challenges.\n\nAt its core, this project provides 'skills' – essentially markdown files that imbue your AI agents with specific workflows and frameworks for various marketing tasks. Think of them as specialized playbooks or expert cheat sheets. When you integrate these skills into your project, your AI agent, whether it's Claude Code, OpenAI Codex, Cursor, or Windsurf, can recognize when you're working on a marketing task. It then applies the right best practices and strategic approaches, moving beyond generic responses to deliver targeted, effective marketing output.\n\nWhat makes this project particularly powerful is how these skills are designed to work together. They aren't isolated tools; they're interconnected, building on shared context. The foundational 'product-marketing' skill is read by all others first, ensuring your AI always understands your product, audience, and positioning before diving into any specific task. From there, a comprehensive ecosystem of skills branches out, covering everything from SEO & Content, CRO, Copywriting, Paid & Measurement, Growth & Retention, Sales & GTM, and even high-level Strategy. For example, the 'copywriting' skill might cross-reference 'CRO' and 'ab-testing' to ensure the generated copy is not just persuasive but also optimized for conversion and testability.\n\nFor developers and technical marketers, this means a significant boost in efficiency and effectiveness. Instead of manually feeding your AI agent every detail or framework, these skills provide a ready-made intelligence layer. You can leverage your AI to perform an SEO audit, craft compelling cold emails, optimize signup flows, generate ad creatives, or even develop a comprehensive content strategy. It transforms your AI coding agent into a powerful marketing co-pilot, saving you countless hours and helping you achieve better results in conversion optimization, copywriting, SEO, analytics, and growth engineering. It's like having a seasoned marketing consultant embedded directly into your development workflow, ready to assist on demand and ensuring your marketing efforts are always strategically sound and data-informed.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/coreyhaines31/marketingskills)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "enterprise architecture",
-            "slug": "enterprise-architecture"
+            "name": "ai agents",
+            "slug": "ai-agents"
         },
         {
-            "name": "architecture governance",
-            "slug": "architecture-governance"
+            "name": "marketing automation",
+            "slug": "marketing-automation"
         },
         {
-            "name": "ai tools",
-            "slug": "ai-tools"
+            "name": "growth hacking",
+            "slug": "growth-hacking"
         },
         {
-            "name": "system design",
-            "slug": "system-design"
+            "name": "seo",
+            "slug": "seo"
         },
         {
-            "name": "devops",
-            "slug": "devops"
+            "name": "cro",
+            "slug": "cro"
         }
     ],
-    "slug": "arckit-your-ai-co-pilot-for-seamless-enterprise-architecture-governance",
-    "project_id": 1076043819,
+    "slug": "supercharge-your-marketing-with-ai-agent-skills",
+    "project_id": 1135212071,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
