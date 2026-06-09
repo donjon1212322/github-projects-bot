@@ -1,191 +1,160 @@
 [
     {
-        "id": 1158138526,
-        "name": "netwatch",
-        "description": "Real-time network diagnostics in your terminal. One command, zero config, instant visibility.",
-        "url": "https://github.com/matthart1983/netwatch",
+        "id": 1182484412,
+        "name": "horizon",
+        "description": "GPU-accelerated terminal board that puts all your sessions on an infinite canvas",
+        "url": "https://github.com/peters/horizon",
         "language": "Rust",
-        "stars": 1985,
-        "forks": 72,
-        "created_at": "2026-02-14T21:24:32Z",
-        "updated_at": "2026-06-08T08:33:57Z",
-        "topics": [],
-        "quality_score": 0.7499999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2026-06-08T06:00:17Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/5988a808a14744ce9a424e4237f4f3c4b82557a491a242f36163a6aabb706da8/matthart1983/netwatch"
-        ],
-        "homepage": "https://netwatchlabs.com",
-        "readme_summary": "NetWatch is a real-time network forensics tool that runs in the terminal, offering deep packet inspection, TLS 1.3 decryption, and network intelligence like JA4 fingerprinting and C2 beaconing detection. It provides live triage and evidence capture capabilities without requiring any configuration.",
-        "key_features": [
-            "Real-time network forensics TUI",
-            "TLS 1.3 decryption",
-            "JA4 / JA4Q fingerprinting",
-            "17 L7 protocol decoders",
-            "Kernel-level process attribution (eBPF)",
-            "Built-in network intelligence (port-scan, beaconing, DNS-tunnel detection)",
-            "Flight Recorder for evidence capture",
-            "Landlock sandbox"
-        ],
-        "primary_use_case": "Live network forensics and incident response in the terminal.",
-        "open_issues": 0,
-        "cover_image_prompt": "A vigilant digital detective, depicted as a stylized owl with glowing cybernetic eyes, perched on a terminal window. The owl is actively sifting through a stream of colorful, glowing data packets flowing from a network cable. Some packets are being decrypted by the owl's gaze, revealing clear text messages, while others are being categorized with unique digital fingerprint icons (JA4). In the background, subtle alerts flash for suspicious activities like 'beaconing' or 'port scan'. The overall mood is one of intense, focused observation and immediate insight, with the NetWatch logo subtly integrated into the terminal's interface. The style should be a 3D isometric illustration with a dark, high-tech aesthetic and vibrant data visualizations."
-    },
-    {
-        "id": 1081230042,
-        "name": "VidBee",
-        "description": "Download videos from almost any website worldwide",
-        "url": "https://github.com/nexmoe/VidBee",
-        "language": "TypeScript",
-        "stars": 9299,
-        "forks": 718,
-        "created_at": "2025-10-22T13:43:42Z",
-        "updated_at": "2026-06-08T08:34:16Z",
+        "stars": 632,
+        "forks": 24,
+        "created_at": "2026-03-15T15:30:53Z",
+        "updated_at": "2026-06-09T07:52:28Z",
         "topics": [
-            "downloader",
-            "facebook",
-            "tiktok",
-            "twitter",
-            "youtube"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2026-06-01T02:44:44Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/73264f3f42ef8130b1475af3fbbea410cad9a278ef4394205d1fc5964b147b69/nexmoe/VidBee"
-        ],
-        "homepage": "https://vidbee.org",
-        "readme_summary": "VidBee is an open-source video downloader built with Electron and powered by yt-dlp. It allows users to download videos and audio from over 1000 websites with a clean, intuitive interface and features like RSS auto-download.",
-        "key_features": [
-            "Download videos and audios from 1000+ websites worldwide",
-            "Built with Electron and powered by yt-dlp",
-            "Clean, intuitive user interface",
-            "One-click pause/resume/retry",
-            "Real-time progress tracking",
-            "Comprehensive download queue management",
-            "RSS auto-download automation",
-            "Configurable output containers"
-        ],
-        "primary_use_case": "Downloading videos and audio from a wide variety of online sources.",
-        "open_issues": 59,
-        "cover_image_prompt": "A friendly, stylized robot holding a universal remote control, pointing it at a swirling vortex of diverse media icons (YouTube play button, TikTok logo, Twitter bird, etc.). From the vortex, streams of digital data flow into the robot's 'download' port, transforming into neatly organized video files and audio waveforms. The robot's screen displays a progress bar and the VidBee logo. The background is a clean, modern digital space with subtle circuit patterns. The overall mood is efficient and user-friendly. Style: 3D isometric illustration with bright, clean colors and clear iconography."
-    },
-    {
-        "id": 1180745961,
-        "name": "ai-website-cloner-template",
-        "description": "Clone any website with one command using AI coding agents",
-        "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-        "language": "TypeScript",
-        "stars": 16554,
-        "forks": 2542,
-        "created_at": "2026-03-13T11:14:39Z",
-        "updated_at": "2026-06-08T08:55:55Z",
-        "topics": [
-            "ai",
             "ai-agents",
-            "ai-tools",
-            "automation",
-            "boilerplate",
-            "claude",
-            "claude-code",
-            "clone",
-            "developer-tools",
-            "nextjs",
-            "react",
-            "reverse-engineering",
-            "shadcn-ui",
-            "skills",
-            "tailwindcss",
-            "template",
-            "typescript",
-            "web-scraping",
-            "website-clone"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2026-06-01T04:09:18Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/51f597bf190eda47dfa97942f92063202fcb016a58ecceadde6b4d89280eb9eb/JCodesMore/ai-website-cloner-template"
-        ],
-        "homepage": "https://dsc.gg/jcodesmore",
-        "readme_summary": "This repository provides a reusable template for cloning any website into a Next.js codebase using AI coding agents. It automates the process of inspecting a site, extracting design elements, and reconstructing its structure.",
-        "key_features": [
-            "Clone any website with one command",
-            "AI-powered website reconstruction",
-            "Extracts design tokens and assets",
-            "Writes component specifications",
-            "Dispatches parallel builders for section reconstruction",
-            "Supports multiple AI coding agents (Claude Code recommended)",
-            "Generates a clean, modern Next.js codebase"
-        ],
-        "primary_use_case": "To automatically reverse-engineer and clone existing websites into a functional Next.js project using AI.",
-        "open_issues": 5,
-        "cover_image_prompt": "A master architect, holding a blueprint of a modern skyscraper, is magically duplicating it by pointing a futuristic scanner at a photograph of the original building. Digital blueprints and glowing code snippets flow from the scanner onto a blank digital canvas, rapidly constructing an identical, clean, and modern skyscraper. Small UI elements showing design tokens and component specs hover around the architect. The scene is set in a bright, minimalist studio with subtle digital particle effects. The style should be a 3D isometric illustration with vibrant colors and clear, crisp details, emphasizing the transformation from a 2D image to a 3D digital structure."
-    },
-    {
-        "id": 1135212071,
-        "name": "marketingskills",
-        "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-        "url": "https://github.com/coreyhaines31/marketingskills",
-        "language": "JavaScript",
-        "stars": 32401,
-        "forks": 5320,
-        "created_at": "2026-01-15T19:45:23Z",
-        "updated_at": "2026-06-08T09:12:03Z",
-        "topics": [
             "claude",
             "codex",
-            "marketing"
+            "developer-tools",
+            "egui",
+            "gemeni-cli",
+            "gpu",
+            "kilocode-cli",
+            "opencode",
+            "rust",
+            "terminal",
+            "terminal-emulator"
         ],
-        "quality_score": 1.1,
+        "quality_score": 0.85,
         "contributors_count": 0,
-        "last_commit_date": "2026-05-29T22:10:13Z",
+        "last_commit_date": "2026-06-08T05:25:54Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/56dc031b8d4e6edc11090c5dda616585b65ba1571d52c2773e18949f3919be75/coreyhaines31/marketingskills"
-        ],
-        "homepage": "https://marketing-skills.com",
-        "readme_summary": "This repository provides a collection of specialized marketing skills for AI agents, enabling them to perform tasks like conversion optimization, copywriting, SEO, analytics, and growth engineering. It's designed for technical marketers and founders to enhance AI coding agent capabilities.",
-        "key_features": [
-            "AI agent skills for marketing tasks",
-            "Supports conversion optimization, copywriting, SEO, analytics, growth engineering",
-            "Works with Claude Code, OpenAI Codex, Cursor, Windsurf, and other agents supporting the Agent Skills spec",
-            "Skills reference each other for contextual understanding",
-            "Includes foundational 'product-marketing' skill"
-        ],
-        "primary_use_case": "To equip AI coding agents with specialized marketing knowledge and workflows, allowing them to assist users with a wide range of marketing tasks.",
-        "open_issues": 6,
-        "cover_image_prompt": "A master craftsman, embodying an AI agent, meticulously assembling a complex, glowing marketing campaign blueprint. The blueprint is composed of interconnected gears and data streams representing SEO, CRO, and copywriting. Input scrolls of raw data and customer insights are being fed into a central 'AI Brain' device, which then outputs polished, vibrant marketing materials like ad creatives and landing page mockups. The scene is a futuristic workshop with subtle code elements and data visualizations projected on the walls. The overall mood is innovative and productive, rendered in a 3D isometric illustration style with a clean, bright color palette."
-    },
-    {
-        "id": 1086488930,
-        "name": "ml-intern",
-        "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-        "url": "https://github.com/huggingface/ml-intern",
-        "language": "Python",
-        "stars": 10341,
-        "forks": 1093,
-        "created_at": "2025-10-30T13:43:09Z",
-        "updated_at": "2026-06-08T09:21:53Z",
-        "topics": [],
-        "quality_score": 1.05,
-        "contributors_count": 0,
-        "last_commit_date": "2026-06-08T09:21:48Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/3ed45775d075a59eaaae06001ef0e2fbf46df3d33ee492428fa9436e5c907e21/huggingface/ml-intern"
+            "https://opengraph.githubassets.com/8c0b85d750ea1146666098a90d119f844c75f1c32ad79a8889451fe9753b1ae7/peters/horizon"
         ],
         "homepage": "",
-        "readme_summary": "ml-intern is an open-source AI agent that automates the process of researching, writing, and shipping ML code. It leverages the Hugging Face ecosystem for access to documentation, papers, datasets, and cloud compute, offering both interactive and headless modes for various use cases.",
+        "readme_summary": "Horizon is a GPU-accelerated terminal application that provides an infinite canvas for managing multiple terminal sessions. It allows users to organize, resize, and group terminals into workspaces, offering features like session persistence, smart detection of interactive elements, and integration with AI agents.",
         "key_features": [
-            "Autonomous ML code research, writing, and shipping",
-            "Integration with Hugging Face ecosystem (docs, papers, datasets, compute)",
-            "Interactive and headless CLI modes",
-            "Support for various LLMs including local models via LiteLLM",
-            "Optional sandbox environment for tool execution",
-            "Configurable via environment variables and CLI arguments"
+            "Infinite Canvas for terminal sessions",
+            "GPU-accelerated rendering",
+            "Workspaces with color-coding and layout modes",
+            "Full terminal emulation (24-bit color, mouse reporting, etc.)",
+            "AI Agent Panels (Claude Code, Codex, OpenCode, Gemini CLI, KiloCode)",
+            "Built-in Git status panel",
+            "Smart detection of URLs and file paths",
+            "Remote host discovery and connection",
+            "Live settings editor with YAML syntax highlighting",
+            "Session persistence and restoration",
+            "Markdown editor with split view and live preview"
         ],
-        "primary_use_case": "To act as an autonomous ML engineer, automating ML development tasks from research to deployment using the Hugging Face ecosystem.",
-        "open_issues": 30,
-        "cover_image_prompt": "A diligent, anthropomorphic robot intern wearing a lab coat, actively researching on a holographic display showing scientific papers and code snippets. The robot is simultaneously typing on a futuristic keyboard, with glowing data streams flowing from the keyboard towards a \"shipped\" package icon. In the background, a vast library of digital books and datasets is visible, representing the Hugging Face ecosystem. The scene is set in a clean, modern AI lab with soft, ambient lighting, emphasizing productivity and automation. The style should be a 3D isometric illustration with vibrant, tech-inspired colors and subtle UI elements integrated into the environment."
+        "primary_use_case": "Organizing and managing multiple terminal sessions on an infinite, GPU-accelerated canvas for enhanced developer productivity.",
+        "open_issues": 2,
+        "cover_image_prompt": "A conceptual illustration of a vast, infinite digital canvas floating in space. On this canvas, numerous distinct 'islands' or 'panels' represent different terminal sessions, each glowing with a unique color. A central, stylized 'navigator' character, perhaps a futuristic architect or cartographer, is actively arranging these panels, resizing them with glowing tools, and connecting them with luminous pathways. Subtle UI elements like minimaps and data streams flow around the scene, hinting at the underlying technology. The overall mood is one of organized productivity and boundless digital space, with the repository name 'Horizon' subtly integrated into the canvas's horizon line. Style: 3D isometric illustration with a clean, futuristic aesthetic and vibrant, glowing accents."
+    },
+    {
+        "id": 564031511,
+        "name": "DyberPet",
+        "description": "Desktop Cyber Pet Framework based on PySide6",
+        "url": "https://github.com/ChaozhongLiu/DyberPet",
+        "language": "Python",
+        "stars": 796,
+        "forks": 80,
+        "created_at": "2022-11-09T21:04:56Z",
+        "updated_at": "2026-06-09T05:52:30Z",
+        "topics": [
+            "desktop-pet"
+        ],
+        "quality_score": 0.8500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2026-06-05T14:01:06Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/93291af58d041533d6d2651dc5d8971ce9c22fbe1fdc602472fcb0eb49d6c8da/ChaozhongLiu/DyberPet"
+        ],
+        "homepage": "",
+        "readme_summary": "DyberPet is a desktop cyber pet framework built with PySide6, allowing users to have interactive animated characters on their desktop. It supports extensive customization through a modding ecosystem for characters, items, and mini-pets, and integrates AI assistants for enhanced user interaction and daily task management.",
+        "key_features": [
+            "Animated desktop pets with interactive features",
+            "AI assistant integration for chat and task management",
+            "Extensible MOD ecosystem for characters, items, and mini-pets",
+            "Task and quest systems",
+            "In-game shop functionality",
+            "Customizable JSON configurations for mods"
+        ],
+        "primary_use_case": "To provide users with an interactive and customizable virtual pet experience on their desktop, enhanced with AI capabilities.",
+        "open_issues": 15,
+        "cover_image_prompt": "A whimsical 3D isometric illustration of a cozy digital desktop environment. In the center, a charming, animated cyber pet (inspired by a stylized anime character) is interacting with a user's hand reaching out from a subtle UI element. Around the pet, floating icons represent different functionalities: a chat bubble with AI-generated text, a small to-do list, a treasure chest for items, and a glowing portal labeled 'MODS'. Digital particles and subtle code snippets float in the background, hinting at the underlying framework. The overall mood is friendly and engaging, with soft, warm lighting. The repository name 'DyberPet' is subtly integrated into a desktop widget. The style should be clean, vibrant, and inviting, clearly conveying a customizable, AI-enhanced desktop companion."
+    },
+    {
+        "id": 548171339,
+        "name": "awesome-shizuku",
+        "description": "Curated list of awesome Android apps making use of Shizuku",
+        "url": "https://github.com/timschneeb/awesome-shizuku",
+        "language": "Python",
+        "stars": 9176,
+        "forks": 243,
+        "created_at": "2022-10-09T03:24:23Z",
+        "updated_at": "2026-06-09T07:59:50Z",
+        "topics": [
+            "adb",
+            "android",
+            "android-mods",
+            "no-root",
+            "rootless",
+            "shizuku"
+        ],
+        "quality_score": 0.9500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2026-05-20T18:25:51Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/2542a80930019258e9885d4bef75babe4f8d1398777b3ab86bb2fa7b9bd01447/timschneeb/awesome-shizuku"
+        ],
+        "homepage": "",
+        "readme_summary": "This repository is a curated list of Android applications that leverage Shizuku, a tool enabling normal apps to access system APIs with elevated privileges on non-rooted devices via ADB. It serves as a central resource for discovering and exploring the capabilities of Shizuku-enabled apps across various categories.",
+        "key_features": [
+            "Curated list of Shizuku-enabled Android apps",
+            "Categorized app listings (AI agents, Automation, Customization, etc.)",
+            "Includes both open-source and closed-source applications",
+            "Provides links to app sources and details",
+            "Information on Shizuku development libraries",
+            "Daily changelogs for list updates"
+        ],
+        "primary_use_case": "Discovering and cataloging Android applications that utilize the Shizuku framework for enhanced functionality on non-rooted devices.",
+        "open_issues": 1,
+        "cover_image_prompt": "A whimsical Android robot character, normally confined to a small, standard operating area, is shown breaking free and expanding its capabilities. It's using a magical ADB wand to access and manipulate various system-level controls and features that are visually represented as glowing, intricate gears and levers floating around it. The robot is depicted with a look of empowered curiosity, interacting with these advanced controls. Subtle UI elements showing Shizuku's interface and data streams flow around the scene, connecting the robot to the expanded functionalities. The overall style is a vibrant, 3D isometric illustration with a clean, modern aesthetic, emphasizing the 'rootless' freedom granted by Shizuku."
+    },
+    {
+        "id": 312703459,
+        "name": "start-os",
+        "description": "A graphical server OS optimized for self-hosting",
+        "url": "https://github.com/Start9Labs/start-os",
+        "language": "Rust",
+        "stars": 1882,
+        "forks": 176,
+        "created_at": "2020-11-13T23:08:38Z",
+        "updated_at": "2026-06-09T07:33:48Z",
+        "topics": [
+            "bitcoin",
+            "bitcoin-node",
+            "lightning-node",
+            "p2p",
+            "personal-server",
+            "privacy-enhancing-technologies",
+            "self-hosting"
+        ],
+        "quality_score": 0.9500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2026-06-08T15:04:44Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/f216b1a186d4c5dc17fc58d5ec770c0ee6e12c538fbb638475b1600d184126d3/Start9Labs/start-os"
+        ],
+        "homepage": "https://start9.com",
+        "readme_summary": "StartOS is a Rust-based Linux distribution designed for self-hosting personal servers. It simplifies the management of various services, including Bitcoin nodes, communication platforms, and cloud storage, by running them in isolated LXC containers packaged as S9PKs.",
+        "key_features": [
+            "Discovery, installation, network configuration, data backup, dependency management, and health monitoring of self-hosted services",
+            "Runs services in isolated LXC containers",
+            "S9PK format for service packaging (signed, merkle-archived, partial downloads, cryptographic verification)",
+            "Custom diff-based database (Patch-DB) for reactive state synchronization",
+            "Rust backend (Tokio/Axum), Angular frontend, Node.js container runtime"
+        ],
+        "primary_use_case": "Enabling users to easily self-host a variety of services on a personal server, gaining full ownership of their data and infrastructure.",
+        "open_issues": 107,
+        "cover_image_prompt": "A vibrant, bustling digital marketplace depicted as a series of interconnected stalls within a futuristic, yet cozy, personal server room. Each stall represents a different self-hosted service (e.g., a Bitcoin mining rig, a secure communication hub, a cloud storage vault). A friendly, approachable robot character is shown easily installing new services from the stalls onto a central, glowing server core. Small, clear UI elements showing installation progress and service status are subtly integrated. The overall mood is one of empowerment and simplicity, showcasing how StartOS makes complex self-hosting accessible. 3D isometric illustration style with clean lines and a warm, inviting color palette."
     }
 ]
