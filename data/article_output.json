@@ -1,26 +1,26 @@
 {
-    "title": "Unlock Superpowers for Your Android Apps (Without Root!): Discover awesome-shizuku",
-    "article": "Ever wished your Android apps could do more, access deeper system functions, but you're stuck on a non-rooted device? Rooting can be a hassle, often voiding warranties or posing security risks. This is where Shizuku comes in as a game-changer, and the `awesome-shizuku` project is your guide to a whole new world of possibilities. Shizuku is a clever solution that empowers ordinary Android applications to tap into powerful system APIs directly, granting them elevated privileges typically reserved for rooted devices. The magic happens through ADB (Android Debug Bridge), which you can enable without needing to root your phone. It essentially creates a secure bridge, allowing apps to perform actions that would otherwise be impossible, all while maintaining your device's security and warranty status. Think of it as giving your apps a temporary, controlled \"admin pass\" to the system. The `awesome-shizuku` GitHub project isn't Shizuku itself, but rather a fantastic, curated list of applications that have already integrated Shizuku's capabilities. It's a treasure trove for developers and power users alike, showcasing the incredible range of problems Shizuku can solve. From AI agents that automate complex tasks on your device to advanced audio processing tools, and even utilities for managing software, power, and privacy, this list demonstrates the sheer versatility. You'll find apps for Android TV, file management, customization, and even vendor-specific tools that enhance experiences on Samsung, Pixel, and MIUI devices. For developers, this project is more than just a list of cool apps; it's an inspiration and a resource. It highlights what's possible when you leverage Shizuku, opening doors to building more powerful, feature-rich applications without the barrier of rooting. If you've ever thought, \"I wish my app could do X, but it requires root,\" Shizuku, and by extension, this awesome list, shows you a viable, non-root alternative. You can explore the source code of many listed apps to learn how they integrate Shizuku, or even contribute your own Shizuku-enabled projects to expand this growing community resource. It streamlines development by providing system-level access in a controlled environment, saving time and effort that would otherwise be spent on complex root-dependent solutions. This project truly exemplifies how developers can push the boundaries of Android app functionality while maintaining device integrity.",
+    "title": "Elio: Supercharge Your Terminal with a Feature-Rich File Manager!",
+    "article": "Have you ever found yourself juggling between your terminal and a graphical file explorer just to get a quick peek at a file or manage a bunch of them? It breaks your flow, right? Well, get ready to supercharge your terminal experience with a fantastic project called Elio! This isn't just another `ls` or `cd` replacement; it's a full-fledged, batteries-included file manager designed to keep you productive and immersed in your command-line environment.\n\nElio brings a sophisticated, yet intuitive, three-pane layout directly into your terminal. Imagine having your frequently used 'Places,' your current 'Files' directory, and a 'Preview' pane all side-by-side. This setup is incredibly efficient, allowing you to navigate, select, and inspect files without ever leaving the comfort of your terminal window. It's like having the best parts of a graphical file manager, but optimized for speed and keyboard-driven workflows.\n\nOne of Elio's standout features is its rich preview capabilities. Forget about opening external applications just to see what's inside a text file, a piece of code, a PDF document, or even an archive. Elio handles it all, providing inline previews for a vast array of file types. What's even cooler for supported terminals is its ability to render inline images! Yes, you read that right – you can see image thumbnails and full previews directly within Elio, which is a game-changer for anyone dealing with media or needing visual context without context-switching.\n\nBeyond just viewing, Elio empowers you with robust file management actions. You can quickly go to specific directories, open files with your preferred applications, and even copy content to your clipboard with ease. It also includes comprehensive trash management, letting you trash, restore, or permanently delete files securely. Navigating through your file system is a breeze with both keyboard and mouse support, and you can switch between grid and list views to suit your preference.\n\nFor developers, Elio truly shines by integrating seamlessly into your existing tools. It features fuzzy search for rapid file and folder discovery, and even boasts Zoxide integration, allowing you to jump to your most frequent directories from your Zoxide history. Shell integration with `cd-on-exit` wrappers for popular shells like Bash, Zsh, Fish, and Nushell means your current terminal session updates its directory after you exit Elio. Plus, if you love to customize your environment, Elio offers extensive theming options, letting you control the full color palette and file-class styling to match your terminal's aesthetic. This project is all about making your terminal workflow more powerful, more visually informative, and ultimately, more enjoyable.",
     "key_takeaways": [
-        "Shizuku enables powerful system API access for non-rooted Android devices via ADB.",
-        "`awesome-shizuku` is a curated list showcasing a wide array of apps leveraging Shizuku's capabilities.",
-        "Developers can build sophisticated applications with elevated privileges without the complexities or risks of rooting.",
-        "The project serves as an inspiration and a practical resource for expanding Android app functionality.",
-        "It offers a secure and officially supported way to gain deeper system control for apps on unrooted devices."
+        "Elio is a modern, feature-rich terminal file manager that keeps you in your command-line environment.",
+        "It offers a three-pane layout with rich content previews, including inline images, for various file types.",
+        "Boosts developer productivity by reducing context switching and streamlining file management tasks.",
+        "Provides extensive customization options through themes and integrates with tools like Zoxide and popular shells.",
+        "Supports both keyboard and mouse navigation, fuzzy search, and comprehensive trash management."
     ],
     "tags": [
-        "Android Development",
-        "Shizuku",
-        "Non-Root",
-        "System APIs",
-        "ADB"
+        "Terminal File Manager",
+        "TUI",
+        "Productivity",
+        "CLI Tool",
+        "Developer Tools"
     ],
-    "stars": 9176,
-    "forks": 243,
-    "open_issues": 1,
-    "languages": "Python",
-    "readme_summary": "This repository is a curated list of Android applications that leverage Shizuku, a tool enabling normal apps to access system APIs with elevated privileges on non-rooted devices via ADB. It serves as a central resource for discovering and exploring the capabilities of Shizuku-enabled apps across various categories.",
-    "project_id": 548171339,
-    "url": "https://github.com/timschneeb/awesome-shizuku",
-    "description": "Curated list of awesome Android apps making use of Shizuku"
+    "stars": 572,
+    "forks": 18,
+    "open_issues": 7,
+    "languages": "Rust",
+    "readme_summary": "Elio is a fast, feature-rich terminal file manager written in Rust. It offers a three-pane layout for efficient navigation, supports rich file previews including inline images in compatible terminals, and provides essential file management features like bulk actions, trash support, and customizable themes.",
+    "project_id": 1177113373,
+    "url": "https://github.com/elio-fm/elio",
+    "description": "Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support"
 }
