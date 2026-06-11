@@ -1,7 +1,0 @@
-{
-    "project_id": 1144520675,
-    "content": "🚀 <b>free-claude-code</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to access and utilize various AI models (including free and local ones) through the Claude Code client-side protocol without altering the client's behavior.\n<br>\n✨ <b>Key Features:</b>\n• Drop-in proxy for Claude Code's Anthropic API calls\n• Supports 17 provider backends (NVIDIA NIM, OpenRouter, Google AI Studio, etc.)\n• Per-model routing for different traffic types (Opus, Sonnet, Haiku)\n<br>\n📖 <b>Summary:</b>\nThis repository provides a drop-in proxy for Anthropic's Claude Code API, allowing users to route API traffic to various free, paid, or local model providers. It maintains client-side protocol stability while offering flexibility in model selection and integration with tools like VS Code and Discord bots.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Alishahryar1/free-claude-code?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/7df4e2707242b42fa5c6bf3fbcdc5f74e9ecf15fc185dc0d2079fcdc1771f942/Alishahryar1/free-claude-code",
-    "platform": "telegram",
-    "quality_score": 1.2000000000000002
-}
