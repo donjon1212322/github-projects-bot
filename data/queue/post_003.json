@@ -1,7 +1,0 @@
-{
-    "project_id": 1054446284,
-    "content": "🔥 <b>nano11</b> | PowerShell\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating a minimal, static Windows 11 environment for testing, development, or embedded use in virtual machines.\n<br>\n✨ <b>Key Features:</b>\n• Automates the build of a streamlined Windows 11 image using PowerShell.\n• Utilizes only built-in DISM capabilities and oscdimg.exe.\n• Creates a bootable ISO with no external binaries.\n• Includes an unattended answer file to bypass Microsoft Account requirement and enable compact installation.\n<br>\n📖 <b>Summary:</b>\nnano11 is a PowerShell script that automates the creation of a highly streamlined Windows 11 ISO image. It aggressively removes non-essential components, apps, and services to achieve a significantly smaller footprint, making it suitable for testing, development, or embedded use cases in virtual machines.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ntdevlabs/nano11?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/4520d4d9704cec1d9861daecd252aeab63c1553ee3bf1ff09125003b7ec42b77/ntdevlabs/nano11",
-    "platform": "telegram",
-    "quality_score": 0.35
-}
