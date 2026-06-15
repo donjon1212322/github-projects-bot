@@ -1,7 +1,0 @@
-{
-    "project_id": 1250523450,
-    "content": "🌟 <b>mxFind</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nDiscovering and searching public Matrix chat rooms across different homeservers.\n<br>\n✨ <b>Key Features:</b>\n• Search public Matrix rooms via `/_matrix/client/v3/publicRooms`\n• Query multiple configured homeservers\n• Store room metadata in a local SQLite index\n• Use local search by default when the database exists\n• Force live search when needed\n<br>\n📖 <b>Summary:</b>\nmxfind is a Rust-based command-line and terminal UI tool designed to discover public Matrix chat rooms. It allows users to query multiple Matrix homeservers, build a local SQLite index for fast searching, and output results in both human-readable and machine-readable JSON formats.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Sovinskii28/mxFind?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/decc00a97105067213ced42e3d0e5212856c8e0421a1821dea8aa333b55e935f/Sovinskii28/mxFind",
-    "platform": "telegram",
-    "quality_score": 0.5499999999999999
-}
