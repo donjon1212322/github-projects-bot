@@ -1,26 +1,26 @@
 {
-    "title": "Supercharge Your AI Coding Workflow: Meet abtop, Your Ultimate Agent Monitor!",
-    "article": "Ever found yourself juggling multiple AI coding assistants like Claude Code, Codex CLI, or OpenCode across different projects? It’s a fantastic way to boost productivity, but let's be honest, keeping track of all those sessions, their token usage, and potential rate limits can quickly become a headache. You might be wondering if you're about to hit an API quota, or perhaps an agent spun up a temporary server and forgot to shut it down. This scattered experience can slow you down and lead to unnecessary frustration. Imagine having a single, elegant dashboard right in your terminal that gives you a crystal-clear overview of all your active AI coding agent sessions. That's exactly what `abtop` brings to the table. Think of it as the `btop` for your AI agents – a beautiful, real-time system monitor tailored specifically for your intelligent coding companions. It shows you everything from current token usage and how full your context window is, to impending rate limits, any child processes spawned, and even open network ports. All this information is presented at a glance, allowing you to stay on top of your AI-powered workflow effortlessly. What makes `abtop` particularly clever is how it works. It intelligently discovers your active Claude Code, Codex CLI, and OpenCode sessions by analyzing local process and file states. This means it doesn't need any sensitive API keys or complex authentication – it's entirely read-only, focusing solely on providing you with crucial operational insights. Whether you're on macOS, Linux, or Windows, `abtop` integrates seamlessly, offering native support across all major platforms with straightforward installation options via `curl`, `cargo`, or `PowerShell`. For developers, the benefits are immediate and tangible. If you're running several agents, `abtop` consolidates their status into one screen, eliminating the need to jump between multiple terminals or logs. Hitting rate limits becomes a thing of the past, as you can watch your quota in real-time and adjust your usage proactively. No more worrying about orphaned processes or forgotten ports – `abtop` will flag them, helping you maintain a clean development environment. Plus, with per-session context window percentage bars, you'll know exactly when your agent is nearing its information capacity, allowing you to refine your prompts or switch strategies before hitting a wall. And for `tmux` users, there's an incredible feature: press Enter on an agent in `abtop` to instantly jump to its corresponding `tmux` pane! It even comes with a variety of themes to match your terminal aesthetic. `abtop` empowers you to manage your AI coding agents with unprecedented clarity and control. It transforms a potentially chaotic multi-agent setup into a streamlined, efficient, and enjoyable experience. It's not just a monitoring tool; it's a productivity enhancer that helps you get the most out of your AI assistants, ensuring you're always informed and never caught off guard.",
+    "title": "Penpot: Your Open-Source Design Studio, Built for Developers",
+    "article": "Have you ever wished for a design tool that truly understands developers and respects your need for control? Penpot is here to make that wish a reality. This incredible open-source platform is engineered for teams that build digital products at scale, offering a fresh perspective on how design and development can seamlessly integrate.\n\nPenpot's standout feature is its commitment to giving you full ownership over your design infrastructure. Unlike many proprietary tools, Penpot is built from the ground up to support self-hosting. This means your team can deploy it directly onto your own servers, ensuring strict compliance with governance requirements and complete control over your data. Whether you choose to use it in the browser or host it yourself, you're always in command.\n\nWhat truly sets Penpot apart is its embrace of open standards. It works natively with SVG, CSS, HTML, and JSON, which are the very languages developers use every day. This fundamental alignment bridges the gap between design and code, making the handoff process smoother than ever. Designers create, and developers see the output in familiar, actionable formats, drastically reducing translation errors and speeding up product delivery.\n\nCollaboration is at the heart of Penpot. It offers robust real-time collaborative capabilities, allowing multiple team members to work on the same design files simultaneously. This fosters a more dynamic and iterative design process, helping teams scale their efforts and bring design closer to the product development cycle.\n\nDevelopers will especially appreciate how Penpot treats design as code. This approach enables a direct translation from visual concepts to functional implementation. Furthermore, Penpot provides best-in-class native Design Tokens. These tokens act as a single source of truth, ensuring consistency across your entire design system and making it incredibly easy to manage complex UI elements and themes. This means less manual work for developers and more time spent building.\n\nThe platform extends its power with the MCP server, which facilitates multi-directional workflows between design and code. Coupled with a powerful open API and a flexible plugin system, Penpot is not just a tool; it's a customizable ecosystem. You can integrate it with your existing toolchain, automate tasks, and extend its functionality to fit your team's unique needs, truly empowering developers to shape their design environment.",
     "key_takeaways": [
-        "Provides a unified, real-time dashboard for multiple AI coding agents (Claude Code, Codex CLI, OpenCode).",
-        "Monitors critical metrics like token usage, context window percentage, and API rate limits to prevent interruptions.",
-        "Helps maintain a clean development environment by detecting orphaned processes and open ports.",
-        "Offers seamless cross-platform support and integrates with `tmux` for enhanced workflow management.",
-        "Read-only operation means no API keys or complex authentication are required, ensuring security and ease of use."
+        "Penpot offers full ownership and self-hosting capabilities for design infrastructure, ensuring data control and compliance.",
+        "It champions open standards like SVG, CSS, HTML, and JSON, bridging the design-code gap for smoother developer handoffs.",
+        "Features real-time collaboration and treats design as code, making it highly developer-friendly and speeding up product delivery.",
+        "Native Design Tokens ensure consistency and simplify design system management by providing a single source of truth.",
+        "Extensible with an open API, plugin system, and MCP server for advanced, customizable workflows and integrations."
     ],
     "tags": [
-        "AI Agents",
-        "Developer Tools",
-        "Terminal UI",
-        "Productivity",
-        "System Monitoring"
+        "Open Source",
+        "Design Tool",
+        "UI/UX",
+        "Collaboration",
+        "Self-Hosting"
     ],
-    "stars": 2923,
-    "forks": 282,
-    "open_issues": 12,
-    "languages": "Rust",
-    "readme_summary": "abtop is a terminal-based monitoring tool for AI coding agents, inspired by htop. It provides real-time insights into the performance and resource usage of agents like Claude Code, Codex CLI, and OpenCode, displaying token consumption, rate limits, context window status, and active network ports.",
-    "project_id": 1195165448,
-    "url": "https://github.com/graykode/abtop",
-    "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time."
+    "stars": 50255,
+    "forks": 3240,
+    "open_issues": 625,
+    "languages": "Clojure",
+    "readme_summary": "Penpot is an open-source design and prototyping platform that enables teams to collaborate on digital product development. It emphasizes full ownership of design infrastructure through self-hosting and works with open standards like SVG, CSS, and HTML, integrating design and code with features like Design Tokens and a powerful API.",
+    "project_id": 48769241,
+    "url": "https://github.com/penpot/penpot",
+    "description": "Penpot: The open-source design tool for design and code collaboration"
 }
