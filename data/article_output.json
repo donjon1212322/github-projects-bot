@@ -1,26 +1,26 @@
 {
-    "title": "Penpot: Your Open-Source Design Studio, Built for Developers",
-    "article": "Have you ever wished for a design tool that truly understands developers and respects your need for control? Penpot is here to make that wish a reality. This incredible open-source platform is engineered for teams that build digital products at scale, offering a fresh perspective on how design and development can seamlessly integrate.\n\nPenpot's standout feature is its commitment to giving you full ownership over your design infrastructure. Unlike many proprietary tools, Penpot is built from the ground up to support self-hosting. This means your team can deploy it directly onto your own servers, ensuring strict compliance with governance requirements and complete control over your data. Whether you choose to use it in the browser or host it yourself, you're always in command.\n\nWhat truly sets Penpot apart is its embrace of open standards. It works natively with SVG, CSS, HTML, and JSON, which are the very languages developers use every day. This fundamental alignment bridges the gap between design and code, making the handoff process smoother than ever. Designers create, and developers see the output in familiar, actionable formats, drastically reducing translation errors and speeding up product delivery.\n\nCollaboration is at the heart of Penpot. It offers robust real-time collaborative capabilities, allowing multiple team members to work on the same design files simultaneously. This fosters a more dynamic and iterative design process, helping teams scale their efforts and bring design closer to the product development cycle.\n\nDevelopers will especially appreciate how Penpot treats design as code. This approach enables a direct translation from visual concepts to functional implementation. Furthermore, Penpot provides best-in-class native Design Tokens. These tokens act as a single source of truth, ensuring consistency across your entire design system and making it incredibly easy to manage complex UI elements and themes. This means less manual work for developers and more time spent building.\n\nThe platform extends its power with the MCP server, which facilitates multi-directional workflows between design and code. Coupled with a powerful open API and a flexible plugin system, Penpot is not just a tool; it's a customizable ecosystem. You can integrate it with your existing toolchain, automate tasks, and extend its functionality to fit your team's unique needs, truly empowering developers to shape their design environment.",
+    "title": "Unleash Your AI: Control Remote Servers with MCP SSH Manager!",
+    "article": "MCP SSH Manager is a powerful tool designed to bridge the gap between your AI assistant and your remote servers. Its core purpose is to enable intelligent, automated management of your server infrastructure directly through AI models like Claude Code and OpenAI Codex. This means you can delegate complex server tasks to your AI, transforming how you approach DevOps and system administration.\n\nAt its heart, MCP SSH Manager operates as a Model Context Protocol (MCP) server. This protocol provides a standardized and structured interface, allowing your AI to understand and interact with your server environment in a meaningful way. Instead of you manually typing SSH commands or writing scripts, your AI leverages this manager to execute those commands, transfer files, and perform intricate operations on your behalf, all while adhering to a clear protocol.\n\nImagine asking your AI to deploy an update, check specific logs, manage a database, create a full server backup, or even monitor the health of multiple machines simultaneously. MCP SSH Manager empowers your AI to handle all these tasks and more. It automates routine DevOps workflows, from executing shell commands to synchronizing files and configuring services, significantly reducing the need for manual intervention and minimizing human error.\n\nFor developers, this project is a true game-changer for efficiency and productivity. It frees up valuable time by offloading repetitive and time-consuming server tasks to an intelligent assistant. This allows you to focus on more complex problem-solving and development work. Furthermore, features like live configuration hot reload mean you can add or edit server details in your configuration files, and the running MCP server picks up those changes instantly, without requiring a restart. This ensures a seamless, dynamic, and highly responsive workflow, pushing server management into a new era of AI-driven automation.",
     "key_takeaways": [
-        "Penpot offers full ownership and self-hosting capabilities for design infrastructure, ensuring data control and compliance.",
-        "It champions open standards like SVG, CSS, HTML, and JSON, bridging the design-code gap for smoother developer handoffs.",
-        "Features real-time collaboration and treats design as code, making it highly developer-friendly and speeding up product delivery.",
-        "Native Design Tokens ensure consistency and simplify design system management by providing a single source of truth.",
-        "Extensible with an open API, plugin system, and MCP server for advanced, customizable workflows and integrations."
+        "Enables AI assistants (Claude Code, OpenAI Codex) to directly manage remote SSH servers.",
+        "Automates a wide range of DevOps tasks, including command execution, file transfers, database management, and backups.",
+        "Utilizes the Model Context Protocol (MCP) for structured and intelligent AI interaction.",
+        "Significantly enhances developer efficiency by reducing manual server management and scripting.",
+        "Features like live configuration hot reload provide dynamic and seamless server management without restarts."
     ],
     "tags": [
-        "Open Source",
-        "Design Tool",
-        "UI/UX",
-        "Collaboration",
-        "Self-Hosting"
+        "AI",
+        "DevOps",
+        "SSH",
+        "Automation",
+        "Server Management"
     ],
-    "stars": 50255,
-    "forks": 3240,
-    "open_issues": 625,
-    "languages": "Clojure",
-    "readme_summary": "Penpot is an open-source design and prototyping platform that enables teams to collaborate on digital product development. It emphasizes full ownership of design infrastructure through self-hosting and works with open standards like SVG, CSS, and HTML, integrating design and code with features like Design Tokens and a powerful API.",
-    "project_id": 48769241,
-    "url": "https://github.com/penpot/penpot",
-    "description": "Penpot: The open-source design tool for design and code collaboration"
+    "stars": 303,
+    "forks": 41,
+    "open_issues": 3,
+    "languages": "JavaScript",
+    "readme_summary": "MCP SSH Manager is a Node.js server that allows AI models like Claude Code and OpenAI Codex to manage remote SSH servers. It provides a framework for AI to execute commands, transfer files, manage databases, perform backups, and monitor server health, enabling sophisticated DevOps automation.",
+    "project_id": 1036544455,
+    "url": "https://github.com/bvisible/mcp-ssh-manager",
+    "description": "MCP SSH Server: 37 tools for remote SSH management | Claude Code & OpenAI Codex | DevOps automation, backups, database operations, health monitoring"
 }
