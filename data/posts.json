@@ -1,36 +1,36 @@
 [
     {
-        "project_id": 1104341840,
-        "content": "🌟 <b>web-to-app</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nTo allow users to easily convert any website or web project into a fully functional, installable Android application directly from their mobile device.\n<br>\n✨ <b>Key Features:</b>\n• On-device APK building for websites and local runtimes\n• Supports various input types: URL, project folder, media library\n• Customizable WebView, toolbar, splash screen, permissions, and signing\n• Extensible with JS/CSS modules and userscripts\n<br>\n📖 <b>Summary:</b>\nWebToApp is an on-device Android application that transforms websites, HTML projects, and various local runtimes into standalone Android APKs. It offers a comprehensive suite of tools for building, customizing, and managing these apps directly on your phone without relying on remote services.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/shiaho777/web-to-app?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1104341840/9e896454-a817-43b4-be91-746e7efd88c0",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1036544455,
-        "content": "✨ <b>mcp-ssh-manager</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling AI models to automate and manage remote server infrastructure through a unified protocol.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered remote server management via Model Context Protocol (MCP)\n• Support for Claude Code and OpenAI Codex\n• Execute commands on remote SSH servers\n• File transfer capabilities\n• Database management operations\n<br>\n📖 <b>Summary:</b>\nMCP SSH Manager is a Node.js server that allows AI models like Claude Code and OpenAI Codex to manage remote SSH servers. It provides a framework for AI to execute commands, transfer files, manage databases, perform backups, and monitor server health, enabling sophisticated DevOps automation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bvisible/mcp-ssh-manager?embed=0\">View Project</a>\n• <a href=\"https://www.npmjs.com/package/mcp-ssh-manager?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1082e16100dd5cc474ab4c909efa114b1db6c27094610f13b72345b50319b02d/bvisible/mcp-ssh-manager",
-        "platform": "telegram",
-        "quality_score": 1.1000000000000003
-    },
-    {
-        "project_id": 808144141,
-        "content": "✨ <b>FreeDomain</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nTo offer free domain names, enabling individuals and organizations to establish an online presence without financial barriers.\n<br>\n✨ <b>Key Features:</b>\n• Free domain name registration\n• Multiple available domain extensions (.DPDNS.ORG, .US.KG, .QZZ.IO, .XX.KG, .QD.JE)\n• Compatibility with popular DNS providers (Cloudflare, Afraid.org, Hostry)\n• User-friendly dashboard for domain management\n• Community support via Discord\n<br>\n📖 <b>Summary:</b>\nDigitalPlat FreeDomain provides free domain names to individuals and organizations, aiming to make digital identity accessible to everyone. Users can register unique domain extensions and connect them to their preferred DNS providers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DigitalPlatDev/FreeDomain?embed=0\">View Project</a>\n• <a href=\"https://domain.digitalplat.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b185b0fabce84de61428da125fa8a8bdd9dc721f7c56bd890f546d88f500b5f5/DigitalPlatDev/FreeDomain",
-        "platform": "telegram",
-        "quality_score": 0.5
-    },
-    {
-        "project_id": 877649153,
-        "content": "🚀 <b>FastVideo</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAccelerated video generation and real-time inference for diffusion models.\n<br>\n✨ <b>Key Features:</b>\n• End-to-end post-training support for bidirectional and autoregressive models\n• Data preprocessing pipeline for video, image, and text data\n• Distribution Matching Distillation (DMD2) stepwise distillation\n• Sparse attention with Video Sparse Attention\n• Sparse distillation for >50x denoising speedup\n<br>\n📖 <b>Summary:</b>\nFastVideo is a unified framework for accelerating video generation through post-training techniques and optimized inference. It supports various training methods like finetuning and distillation, and offers significant performance improvements for real-time video generation and editing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hao-ai-lab/FastVideo?embed=0\">View Project</a>\n• <a href=\"https://hao-ai-lab.github.io/FastVideo?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/21d27345eb2d06fa04d69c2b57eb147a074ce6db6b23ef7fba975d9efdeaa178/hao-ai-lab/FastVideo",
+        "project_id": 963223041,
+        "content": "🚀 <b>koharu</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated, local-first manga translation with ML-powered features and editable export options.\n<br>\n✨ <b>Key Features:</b>\n• Automatic detection of text regions, speech bubbles, and cleanup masks\n• OCR for manga dialogue, captions, and other page text\n• Inpainting to remove source lettering from the page\n• Translation with local or remote LLM backends\n<br>\n📖 <b>Summary:</b>\nKoharu is a Rust-based desktop application that automates the process of translating manga. It leverages machine learning models for text detection, OCR, inpainting to remove original text, and translation via LLMs, all running locally for privacy. The application supports advanced text rendering and offers features like layered PSD export for further editing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mayocream/koharu?embed=0\">View Project</a>\n• <a href=\"https://koharu.rs?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/3cc7d6929b4afe1e73fe6af31c04255d9306f21dd38f56ce0f5da55f84312829/mayocream/koharu",
         "platform": "telegram",
         "quality_score": 1.05
     },
     {
-        "project_id": 572984571,
-        "content": "🚀 <b>twenty</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling technical teams to build and customize their own CRM solutions using code, offering an open-source and extensible alternative to traditional CRM platforms.\n<br>\n✨ <b>Key Features:</b>\n• Open-source CRM alternative\n• AI-native design\n• Customizable via code (objects, fields, views)\n• Extensible with apps, agents, and logic functions\n• Monorepo architecture\n<br>\n📖 <b>Summary:</b>\nTwenty is an open-source, AI-native CRM platform built with TypeScript, designed to be customizable and extensible. It allows technical teams to define CRM objects, fields, and views as code, enabling them to build and version their CRM like any other part of their software stack.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/twentyhq/twenty?embed=0\">View Project</a>\n• <a href=\"https://twenty.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/572984571/ef151ee9-3060-418b-bf88-cb689ab78c7b",
+        "project_id": 50824485,
+        "content": "✨ <b>systeminformer</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nAdvanced system monitoring, process management, and debugging on Windows.\n<br>\n✨ <b>Key Features:</b>\n• Detailed system activity overview with highlighting\n• Resource hog and runaway process tracking via graphs and statistics\n• File usage identification\n• Network connection monitoring and management\n• Real-time disk access information\n<br>\n📖 <b>Summary:</b>\nSystem Informer is a free, open-source Windows utility for monitoring system resources, debugging software, and detecting malware. It provides detailed insights into system activity, process management, network connections, and file usage, offering a more advanced alternative to the default Task Manager.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/winsiderss/systeminformer?embed=0\">View Project</a>\n• <a href=\"https://systeminformer.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/50824485/76ab12fd-e114-46d7-9684-7f827e89cd8c",
+        "platform": "telegram",
+        "quality_score": 1.1
+    },
+    {
+        "project_id": 825005239,
+        "content": "✨ <b>FadCam</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a versatile and privacy-conscious multimedia recording tool for Android devices, enabling various recording scenarios from background surveillance to screen capture and live broadcasts.\n<br>\n✨ <b>Key Features:</b>\n• Background video recording\n• Screen recording\n• Live streaming\n• Remote camera control\n• Ad-free and open-source\n<br>\n📖 <b>Summary:</b>\nFadCam is an open-source, ad-free Android application designed for multimedia recording. It offers advanced features such as background video recording, screen recording, live streaming capabilities, and remote camera control, all while prioritizing user privacy.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/anonfaded/FadCam?embed=0\">View Project</a>\n• <a href=\"https://fadcam.fadseclab.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c6e1d27ab72a3b3287b355cfd906d6a15f067b4ae4ea74694a4021d0a92faf18/anonfaded/FadCam",
+        "platform": "telegram",
+        "quality_score": 1.1
+    },
+    {
+        "project_id": 1161163182,
+        "content": "🚀 <b>openhuman</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a private, locally-run AI assistant that can manage tasks and information without relying on external cloud services for core functions.\n<br>\n✨ <b>Key Features:</b>\n• Private and local AI\n• Simple and powerful interface\n• Managed services integration\n• Local memory management\n<br>\n📖 <b>Summary:</b>\nOpenHuman is a personal AI superintelligence designed for private, local use. It aims to be simple yet powerful, acting as an AI harness that prioritizes user control and local memory.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tinyhumansai/openhuman?embed=0\">View Project</a>\n• <a href=\"https://tinyhumans.ai/openhuman?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e2df603f8c1ebe530524d9ae4db100aff8a39ce8d0cad2cf530f4fb99fcd7cec/tinyhumansai/openhuman",
+        "platform": "telegram",
+        "quality_score": 1.05
+    },
+    {
+        "project_id": 1156960719,
+        "content": "💡 <b>react-doctor</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated code review and quality assurance for React applications, identifying potential bugs and bad practices before they become major issues.\n<br>\n✨ <b>Key Features:</b>\n• Deterministic code scanning for React issues\n• Covers state & effects, performance, architecture, security, and accessibility\n• Works with all React frameworks and libraries (Next.js, Vite, React Native, etc.)\n<br>\n📖 <b>Summary:</b>\nReact Doctor is a tool that deterministically scans React codebases to identify issues related to state and effects, performance, architecture, security, and accessibility. It works across various React frameworks and libraries and can be integrated into development workflows via CLI, CI, or coding agents.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/millionco/react-doctor?embed=0\">View Project</a>\n• <a href=\"https://react.doctor?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e86bcc669197996217c7ac897330fec283dd3086ae8474e3279ed3ddca52e244/millionco/react-doctor",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     }

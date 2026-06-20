@@ -1,26 +1,26 @@
 {
-    "title": "Unleash Your AI: Control Remote Servers with MCP SSH Manager!",
-    "article": "MCP SSH Manager is a powerful tool designed to bridge the gap between your AI assistant and your remote servers. Its core purpose is to enable intelligent, automated management of your server infrastructure directly through AI models like Claude Code and OpenAI Codex. This means you can delegate complex server tasks to your AI, transforming how you approach DevOps and system administration.\n\nAt its heart, MCP SSH Manager operates as a Model Context Protocol (MCP) server. This protocol provides a standardized and structured interface, allowing your AI to understand and interact with your server environment in a meaningful way. Instead of you manually typing SSH commands or writing scripts, your AI leverages this manager to execute those commands, transfer files, and perform intricate operations on your behalf, all while adhering to a clear protocol.\n\nImagine asking your AI to deploy an update, check specific logs, manage a database, create a full server backup, or even monitor the health of multiple machines simultaneously. MCP SSH Manager empowers your AI to handle all these tasks and more. It automates routine DevOps workflows, from executing shell commands to synchronizing files and configuring services, significantly reducing the need for manual intervention and minimizing human error.\n\nFor developers, this project is a true game-changer for efficiency and productivity. It frees up valuable time by offloading repetitive and time-consuming server tasks to an intelligent assistant. This allows you to focus on more complex problem-solving and development work. Furthermore, features like live configuration hot reload mean you can add or edit server details in your configuration files, and the running MCP server picks up those changes instantly, without requiring a restart. This ensures a seamless, dynamic, and highly responsive workflow, pushing server management into a new era of AI-driven automation.",
+    "title": "System Informer: Your Ultimate Windows Diagnostic Toolkit Just Got Better!",
+    "article": "System Informer is an incredibly powerful, free, and open-source utility designed to give you an unparalleled look into your Windows system. Think of it as your standard Task Manager, but on steroids, providing a much deeper level of insight into everything happening on your machine. Its core purpose is to help you monitor system resources, debug tricky software issues, and even detect potential malware activity. If you're tired of the limitations of built-in Windows tools, this project is a breath of fresh air.\n\nThis project works by offering a highly detailed overview of all system activity. You get live graphs and statistics that make it incredibly easy to pinpoint which applications or processes are consuming the most CPU, memory, disk I/O, or network bandwidth. Ever had a file you couldn't delete because it was \"in use\"? System Informer can tell you exactly which process is locking that file, allowing you to resolve the issue quickly. It also provides a clear view of active network connections for every program, giving you granular control over what's communicating with the outside world, and real-time information on disk access.\n\nFor developers, System Informer is an absolute game-changer. Debugging complex applications often requires understanding low-level system interactions. This tool shines by offering detailed stack traces, complete with kernel-mode, WOW64, and .NET support, which is invaluable for diagnosing crashes or unexpected program behavior. Beyond basic process management, it allows you to create, edit, and control services with a level of granularity far exceeding the built-in Windows `services.msc`. Its small footprint and portability mean you can carry it on a USB drive and use it on any Windows 10 or higher machine without installation, making it perfect for on-the-go troubleshooting or client support. Being 100% free and open-source under the MIT license means transparency, community contributions, and no hidden costs, making it a reliable and trustworthy addition to any developer's toolkit.",
     "key_takeaways": [
-        "Enables AI assistants (Claude Code, OpenAI Codex) to directly manage remote SSH servers.",
-        "Automates a wide range of DevOps tasks, including command execution, file transfers, database management, and backups.",
-        "Utilizes the Model Context Protocol (MCP) for structured and intelligent AI interaction.",
-        "Significantly enhances developer efficiency by reducing manual server management and scripting.",
-        "Features like live configuration hot reload provide dynamic and seamless server management without restarts."
+        "System Informer provides comprehensive, real-time insights into Windows system activity, far exceeding standard tools.",
+        "It offers advanced debugging features like detailed stack traces and file-in-use identification, crucial for developers.",
+        "Developers gain enhanced control over services and network connections, simplifying troubleshooting and system management.",
+        "The tool is highly portable, requires no installation, and is 100% free and open-source under the MIT license.",
+        "It's an essential utility for identifying resource hogs, debugging software, and even detecting malware."
     ],
     "tags": [
-        "AI",
-        "DevOps",
-        "SSH",
-        "Automation",
-        "Server Management"
+        "Windows",
+        "System Monitoring",
+        "Debugging",
+        "Open Source",
+        "Resource Management"
     ],
-    "stars": 303,
-    "forks": 41,
-    "open_issues": 3,
-    "languages": "JavaScript",
-    "readme_summary": "MCP SSH Manager is a Node.js server that allows AI models like Claude Code and OpenAI Codex to manage remote SSH servers. It provides a framework for AI to execute commands, transfer files, manage databases, perform backups, and monitor server health, enabling sophisticated DevOps automation.",
-    "project_id": 1036544455,
-    "url": "https://github.com/bvisible/mcp-ssh-manager",
-    "description": "MCP SSH Server: 37 tools for remote SSH management | Claude Code & OpenAI Codex | DevOps automation, backups, database operations, health monitoring"
+    "stars": 15063,
+    "forks": 1723,
+    "open_issues": 266,
+    "languages": "C",
+    "readme_summary": "System Informer is a free, open-source Windows utility for monitoring system resources, debugging software, and detecting malware. It provides detailed insights into system activity, process management, network connections, and file usage, offering a more advanced alternative to the default Task Manager.",
+    "project_id": 50824485,
+    "url": "https://github.com/winsiderss/systeminformer",
+    "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com"
 }
