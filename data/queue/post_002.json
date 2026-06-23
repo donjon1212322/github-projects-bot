@@ -1,7 +1,0 @@
-{
-    "project_id": 1159381774,
-    "content": "✨ <b>forge</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing the reliability and robustness of tool-calling and agentic workflows for self-hosted Large Language Models.\n<br>\n✨ <b>Key Features:</b>\n• Reliability layer for self-hosted LLM tool-calling\n• Guardrails: rescue parsing, retry nudges, response validation\n<br>\n📖 <b>Summary:</b>\nForge is a Python framework designed to enhance the reliability of self-hosted Large Language Model (LLM) tool-calling and agentic workflows. It acts as a reliability layer, applying guardrails such as response validation, parsing rescue, and retry nudges to LLM interactions, even without predefined workflow structures. Forge can be used as a proxy server, a workflow runner, or as middleware within existing orchestration loops, supporting various local and cloud-based LLM backends.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/antoinezambelli/forge?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/453c35a49cd612666a22d67815a7df9e98f57981585800b8a51a62d7b559ba72/antoinezambelli/forge",
-    "platform": "telegram",
-    "quality_score": 1.05
-}
