@@ -1,44 +1,30 @@
 [
     {
-        "project_id": 1057909657,
-        "content": "🔥 <b>claude-desktop-bin</b> | Nim\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide easy-to-install and automatically updating packages for the Claude Desktop AI assistant on Linux systems.\n<br>\n✨ <b>Key Features:</b>\n• Unofficial Linux packages for Claude Desktop\n• Automated updates\n• Support for Arch Linux (AUR), Debian/Ubuntu (APT repo), Fedora/RHEL (DNF repo), AppImage, and Nix\n<br>\n📖 <b>Summary:</b>\nThis repository provides unofficial Linux packages for the Claude Desktop AI assistant, enabling automated updates and integration across various Linux distributions. It aims to make using Claude Desktop seamless on Linux by offering pre-built packages and supporting features like computer use and code integration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/patrickjaja/claude-desktop-bin?embed=0\">View Project</a>\n• <a href=\"https://patrickjaja.github.io/claude-desktop-bin/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/91a27ab73c488fd15c897824b34b1a53396216192d21cec099752f633dccfc04/patrickjaja/claude-desktop-bin",
+        "project_id": 1030432156,
+        "content": "🚀 <b>poznote</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA self-hosted platform for personal or team note-taking, documentation, and task management.\n<br>\n✨ <b>Key Features:</b>\n• Note-taking and documentation\n• Self-hosted web application\n• Docker support for easy installation\n• Git synchronization\n• Backup and export functionality\n<br>\n📖 <b>Summary:</b>\nPoznote is a self-hosted, open-source note-taking and documentation platform built with JavaScript. It allows users to create and manage notes, tasks, and wikis, with features like Git synchronization, backup/export, and offline viewing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/timothepoznanski/poznote?embed=0\">View Project</a>\n• <a href=\"https://poznote.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b6d8ae3b8c91d71e0c279a6246ae8cfb00e247f9a704a7fe938555238f1889ff/timothepoznanski/poznote",
+        "platform": "telegram",
+        "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 1138398320,
+        "content": "💡 <b>colota</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling users to track their location privately and securely by sending data to their own server, with comprehensive offline capabilities.\n<br>\n✨ <b>Key Features:</b>\n• Self-Hosted data transmission\n• Privacy-focused (no analytics/telemetry)\n• Offline functionality (export, maps)\n• Encrypted backups\n• Location history and trip segmentation\n<br>\n📖 <b>Summary:</b>\nColota is a self-hosted GPS location tracking application for Android devices. It prioritizes user privacy by sending location data directly to a user-controlled server without any analytics or telemetry, and offers robust offline functionality.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dietrichmax/colota?embed=0\">View Project</a>\n• <a href=\"https://colota.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1138398320/6eae2daf-89a0-4fe8-843c-bba5313cd87e",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 841097198,
-        "content": "💡 <b>lap</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and searching large local photo libraries privately and efficiently without relying on cloud services.\n<br>\n✨ <b>Key Features:</b>\n• Local-first photo management\n• Privacy-focused, no cloud upload required\n• Local AI search (text, similarity, faces)\n• Folder-first workflow, no library lock-in\n• Optimized for large collections (100k+ files)\n<br>\n📖 <b>Summary:</b>\nLap is an open-source, local-first photo manager designed for offline use with large personal media libraries. It prioritizes user privacy by keeping all data on the user's machine and offers powerful local AI-driven search and organization tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/julyx10/lap?embed=0\">View Project</a>\n• <a href=\"https://julyx10.github.io/lap/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/529ea4b52cb46507d520a3063f6aff6a7cd47d020d9dbe659538aabb9501cce6/julyx10/lap",
+        "project_id": 1159381774,
+        "content": "✨ <b>forge</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing the reliability and robustness of tool-calling and agentic workflows for self-hosted Large Language Models.\n<br>\n✨ <b>Key Features:</b>\n• Reliability layer for self-hosted LLM tool-calling\n• Guardrails: rescue parsing, retry nudges, response validation\n<br>\n📖 <b>Summary:</b>\nForge is a Python framework designed to enhance the reliability of self-hosted Large Language Model (LLM) tool-calling and agentic workflows. It acts as a reliability layer, applying guardrails such as response validation, parsing rescue, and retry nudges to LLM interactions, even without predefined workflow structures. Forge can be used as a proxy server, a workflow runner, or as middleware within existing orchestration loops, supporting various local and cloud-based LLM backends.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/antoinezambelli/forge?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/453c35a49cd612666a22d67815a7df9e98f57981585800b8a51a62d7b559ba72/antoinezambelli/forge",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 1.05
     },
     {
-        "project_id": 519577891,
-        "content": "🔥 <b>upscayl</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enhance the resolution and quality of digital images using artificial intelligence.\n<br>\n✨ <b>Key Features:</b>\n• AI Image Upscaling\n• Free and Open Source\n• Cross-platform (Linux, macOS, Windows)\n• Utilizes advanced AI models (like ESRGAN)\n• Easy-to-use interface\n<br>\n📖 <b>Summary:</b>\nUpscayl is a free and open-source AI image upscaler application available for Linux, macOS, and Windows. It utilizes advanced AI models to enhance image resolution and quality, making it easy for users to improve their pictures.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/upscayl/upscayl?embed=0\">View Project</a>\n• <a href=\"https://upscayl.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/eed81138d6e25bed4f3116d957961e37c1cde3d9d830eddd48df8501cfa46d7b/upscayl/upscayl",
+        "project_id": 1160232942,
+        "content": "✨ <b>streambert</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a unified, ad-free desktop application for users to stream and download a wide variety of video content, including movies, TV series, and anime, from various online sources.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform Electron Desktop App\n• Stream Movies, TV Series, and Anime\n• Download Movies, TV Series, and Anime\n• Subtitle Management\n• Customizable Interface and Features\n<br>\n📖 <b>Summary:</b>\nStreambert is a cross-platform Electron desktop application designed for streaming and downloading movies, TV series, and anime. It offers a user-friendly interface with features like subtitle management, library tracking, and customization, while ensuring a completely ad-free and tracker-free experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/truelockmc/streambert?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1160232942/662e90ff-7ef1-4ad2-947f-6418f0233545",
         "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 1139971460,
-        "content": "🚀 <b>rtk</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo act as a proxy for developer CLI commands, optimizing LLM interactions by reducing token usage and associated costs.\n<br>\n✨ <b>Key Features:</b>\n• Reduces LLM token consumption by 60-90%\n• Single Rust binary with zero dependencies\n• Supports over 100 commands\n• Less than 10ms overhead\n• Available via Homebrew, direct download, and Cargo\n<br>\n📖 <b>Summary:</b>\nRTK is a high-performance CLI proxy written in Rust that significantly reduces Large Language Model (LLM) token consumption for common developer commands. It achieves this by filtering and compressing command outputs before they reach the LLM, offering substantial cost savings with minimal overhead.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rtk-ai/rtk?embed=0\">View Project</a>\n• <a href=\"https://www.rtk-ai.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9a4dc8f0c4d8b37540a9a71301638875b6f2d7bcd0ca3e733eaa0c12007f4820/rtk-ai/rtk",
-        "platform": "telegram",
-        "quality_score": 1.2000000000000002
-    },
-    {
-        "project_id": 957480611,
-        "content": "🔥 <b>ViMax</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide an end-to-end, agentic solution for generating complete video stories from simple text concepts, addressing current limitations in AI video generation.\n<br>\n✨ <b>Key Features:</b>\n• Idea2Video: Transforms raw ideas into complete video stories through intelligent multi-agent workflows.\n<br>\n📖 <b>Summary:</b>\nViMax is an advanced Python-based system for agentic video generation, designed to automate the entire video creation process from concept to final output. It acts as an all-in-one solution, encompassing the roles of director, screenwriter, and producer to overcome limitations of current AI video tools like short clip generation and visual inconsistency.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HKUDS/ViMax?embed=0\">View Project</a>\n• <a href=\"https://arxiv.org/abs/2606.07649?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3807f7e8d620b1e671747a26fcd7bc82b720fb016c50b2c3ea03bae341cff28f/HKUDS/ViMax",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 86362856,
-        "content": "✨ <b>gtsam</b> | Jupyter Notebook\n<br>\n🎯 <b>Primary Use Case:</b>\nRobotics and computer vision for state estimation, sensor fusion, and simultaneous localization and mapping (SLAM).\n<br>\n✨ <b>Key Features:</b>\n• Factor graph and Bayes network implementation\n• Smoothing and mapping algorithms\n• Robotics and vision applications\n• Python and MATLAB wrappers\n• Manifold optimization\n<br>\n📖 <b>Summary:</b>\nGTSAM is a C++ library for robotics and vision that implements smoothing and mapping using factor graphs and Bayes networks. It provides tools for state estimation, sensor fusion, and SLAM, with wrappers for Python and MATLAB.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/borglab/gtsam?embed=0\">View Project</a>\n• <a href=\"https://borglab.github.io/gtsam/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/86362856/b103f980-78cc-11e9-9806-d1085c1ca57c",
-        "platform": "telegram",
-        "quality_score": 1.2000000000000002
+        "quality_score": 1.1
     }
 ]
