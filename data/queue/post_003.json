@@ -1,7 +1,0 @@
-{
-    "project_id": 1139971460,
-    "content": "🚀 <b>rtk</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo act as a proxy for developer CLI commands, optimizing LLM interactions by reducing token usage and associated costs.\n<br>\n✨ <b>Key Features:</b>\n• Reduces LLM token consumption by 60-90%\n• Single Rust binary with zero dependencies\n• Supports over 100 commands\n• Less than 10ms overhead\n• Available via Homebrew, direct download, and Cargo\n<br>\n📖 <b>Summary:</b>\nRTK is a high-performance CLI proxy written in Rust that significantly reduces Large Language Model (LLM) token consumption for common developer commands. It achieves this by filtering and compressing command outputs before they reach the LLM, offering substantial cost savings with minimal overhead.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rtk-ai/rtk?embed=0\">View Project</a>\n• <a href=\"https://www.rtk-ai.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/9a4dc8f0c4d8b37540a9a71301638875b6f2d7bcd0ca3e733eaa0c12007f4820/rtk-ai/rtk",
-    "platform": "telegram",
-    "quality_score": 1.2000000000000002
-}
