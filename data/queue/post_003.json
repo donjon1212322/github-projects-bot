@@ -1,7 +1,0 @@
-{
-    "project_id": 1172574522,
-    "content": "💡 <b>whichllm</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo help users identify and select the most performant local LLM that can run effectively on their specific computer hardware, bypassing simple parameter count metrics.\n<br>\n✨ <b>Key Features:</b>\n• Auto-detects hardware (GPU/CPU/RAM)\n• Ranks LLMs from HuggingFace based on real benchmarks and hardware fit\n• Supports various installation methods (uvx, pip, brew)\n• Allows simulation of different hardware configurations\n<br>\n📖 <b>Summary:</b>\nwhichllm is a command-line tool that helps users find and run the best-performing Large Language Models (LLMs) locally on their specific hardware. It benchmarks models based on real-world performance and hardware compatibility, rather than just parameter count, providing a ranked list of suitable LLMs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Andyyyy64/whichllm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/51702210d858d9908d16e69087d6332db8504ae07a1fe6e04e91c4083e2cab77/Andyyyy64/whichllm",
-    "platform": "telegram",
-    "quality_score": 1.2000000000000002
-}
