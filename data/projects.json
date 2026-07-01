@@ -1,97 +1,125 @@
 [
     {
-        "id": 903587900,
-        "name": "cap4d",
-        "description": "Official repository for the paper \"CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models\"",
-        "url": "https://github.com/felixtaubner/cap4d",
+        "id": 415407813,
+        "name": "RedDownloader",
+        "description": "A Python Reddit Post Downloader which simplifies downloading any media from Reddit",
+        "url": "https://github.com/Jackhammer9/RedDownloader",
         "language": "Python",
-        "stars": 471,
-        "forks": 35,
-        "created_at": "2024-12-15T01:52:13Z",
-        "updated_at": "2026-06-30T07:18:09Z",
-        "topics": [],
-        "quality_score": 0.6000000000000001,
+        "stars": 149,
+        "forks": 22,
+        "created_at": "2021-10-09T19:50:36Z",
+        "updated_at": "2026-07-01T07:32:46Z",
+        "topics": [
+            "audio-download",
+            "download",
+            "downloader",
+            "downloader-for-reddit",
+            "gallery",
+            "imagedownload",
+            "library",
+            "media",
+            "media-downloader",
+            "pictures",
+            "python",
+            "reddit",
+            "reddit-api",
+            "reddit-bot",
+            "reddit-media-downloader",
+            "reddit-post-downloader",
+            "redvid",
+            "videos"
+        ],
+        "quality_score": 0.55,
         "contributors_count": 0,
-        "last_commit_date": "2026-03-24T15:25:56Z",
+        "last_commit_date": "2025-12-08T15:29:55Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/12d79f6ca772ebdaa9de3a9ca408441dc3f877a1d4a5500966ec21e9a2a16c56/felixtaubner/cap4d"
-        ],
-        "homepage": null,
-        "readme_summary": "CAP4D is an official repository for creating animatable 4D portrait avatars from a few reference images using morphable multi-view diffusion models. It enables the generation of dynamic 3D avatars that can be animated and viewed in real-time.",
-        "key_features": [
-            "Creation of animatable 4D portrait avatars",
-            "Utilizes morphable multi-view diffusion models",
-            "Supports generation from a few reference images",
-            "Includes a real-time viewer for exported animations",
-            "Provides scripts for quick start, inference, and custom inference"
-        ],
-        "primary_use_case": "Generating animatable 4D portrait avatars from input images.",
-        "open_issues": 12,
-        "cover_image_prompt": "A digital sculptor meticulously chiseling a block of light, transforming it into a lifelike, animated 3D portrait avatar that floats in the air. Multiple reference images of a person are shown on glowing screens surrounding the sculptor, feeding data into the process. The avatar subtly shifts expressions and poses, demonstrating its animatable nature. Small, abstract data streams and diffusion model nodes are visualized as ethereal particles flowing from the screens to the avatar. The scene is set in a clean, futuristic studio with soft, ambient lighting, emphasizing creativity and technological advancement. The overall style is a vibrant, 3D isometric illustration with clear iconography and a focus on the transformation process."
-    },
-    {
-        "id": 1270581909,
-        "name": "AI-Asistent-Telegram",
-        "description": "Умный бот-ассистент для Telegram Business. Подключается к профилю, отвечает от вашего имени. Несколько режимов общения: деловой, агрессивный, заботливый. Встроенные утилиты: калькулятор, погода, перевод, поиск. Полноценная админ-панель для групп: кик, бан, мут, спам-защита, массовое удаление. Автоматическая ротация API-ключей при исчерпании лимитов",
-        "url": "https://github.com/kkaifddkk/AI-Asistent-Telegram",
-        "language": "Python",
-        "stars": 5,
-        "forks": 0,
-        "created_at": "2026-06-15T21:21:10Z",
-        "updated_at": "2026-06-30T07:40:38Z",
-        "topics": [],
-        "quality_score": 0.8,
-        "contributors_count": 0,
-        "last_commit_date": "2026-06-16T09:58:06Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/1bc7cbe80c6b3f4a2749672f91d84d3775b0e107a4e1f5d2da75b9de41174b06/kkaifddkk/AI-Asistent-Telegram"
-        ],
-        "homepage": null,
-        "readme_summary": "This Python repository provides a Telegram bot designed for Telegram Business accounts, acting as a personal AI assistant. It offers AI-powered responses, customizable interaction modes (business, aggressive, caring), and administrative tools for group management, alongside utility functions.",
-        "key_features": [
-            "AI-powered responses (GPT-4.1-mini or fallback API)",
-            "Token auto-rotation for GitHub API limits",
-            "Aggressive and caring response modes",
-            "Group administration commands (kick, ban, mute, spam protection)",
-            "Utility functions (calculator, weather, translation, search)",
-            "Telegram Business integration as a Personal Assistant"
-        ],
-        "primary_use_case": "To automate and enhance communication for Telegram Business accounts by providing an AI assistant that can handle customer interactions, manage groups, and perform various utility tasks.",
-        "open_issues": 0,
-        "cover_image_prompt": "A friendly, anthropomorphic robot assistant wearing a small tie, standing at a sleek, modern desk. In front of the robot is a glowing, open laptop displaying a Telegram chat interface. The robot is gesturing towards the screen, where different colored thought bubbles are emerging: one is a sharp, red 'angry' bubble, another is a soft, pink 'caring' bubble, and a third is a neutral, blue 'business' bubble. Behind the robot, a subtle digital stream of data flows, representing the AI processing, with small icons for a calculator, weather cloud, and translation symbol integrated into the stream. The overall scene is clean, bright, and uses a 3D isometric illustration style with a focus on clear visual communication of the bot's varied functionalities."
-    },
-    {
-        "id": 1242950808,
-        "name": "ONIX-AternosBot",
-        "description": "Keep your Aternos server alive 24/7 — controlled from Telegram",
-        "url": "https://github.com/UrelzOfficial/ONIX-AternosBot",
-        "language": "JavaScript",
-        "stars": 3,
-        "forks": 2,
-        "created_at": "2026-05-18T23:10:09Z",
-        "updated_at": "2026-06-30T06:00:49Z",
-        "topics": [],
-        "quality_score": 0.3,
-        "contributors_count": 0,
-        "last_commit_date": "2026-05-19T12:43:05Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/2d650f94bcd4a39d2eb49e7df43b70d7a19459439444081d86d9a820ac8fe398/UrelzOfficial/ONIX-AternosBot"
+            "https://opengraph.githubassets.com/74202f25af9505cb019ed7df22b8f3d2ae262c245b32099fdb7e8ffe687ee804/Jackhammer9/RedDownloader"
         ],
         "homepage": "",
-        "readme_summary": "ONIX-AternosBot is a JavaScript-based Telegram bot designed to keep Minecraft servers running 24/7. It automates the process of maintaining an active player presence on Aternos servers, allowing users to control and manage the bot directly through a Telegram interface without needing direct server access or command-line interaction.",
+        "readme_summary": "RedDownloader is a Python library designed to simplify the process of downloading various media types, including images, galleries, and videos, directly from Reddit posts. It offers an easy-to-use interface that does not require Reddit API authentication, allowing users to download content with a single line of code and customize output options like filename, destination, and video quality.",
         "key_features": [
-            "Telegram-based menu for bot control (start, stop, logs, settings)",
-            "Live configuration changes (address, port, version, nickname, password) without restart",
-            "Automatic reconnection with configurable phases",
-            "Multiple authentication modes for plugins like AuthMe",
-            "Realistic or random nickname generation",
-            "Smart AFK behavior with movement and camera rotation",
-            "Anti-mob evasion",
-            "Optional combat against weak mobs",
-            "Ring buffer log displayed in Telegram"
+            "Download media (images, videos, galleries) from Reddit posts",
+            "No Reddit API authentication (praw bot) required",
+            "Single-line download function",
+            "Customizable output filename and destination path",
+            "Selectable video quality (144p to 1080p)",
+            "Automatic detection of media type",
+            "Handles galleries by creating dedicated folders"
         ],
-        "primary_use_case": "Keeping Minecraft servers, particularly those hosted on platforms like Aternos, online and active 24/7 by simulating an active player, controlled conveniently via Telegram.",
-        "open_issues": 0,
-        "cover_image_prompt": "A stylized, friendly robot character, resembling a Telegram chat bubble with robotic arms, is holding a Minecraft pickaxe and a glowing Telegram logo. The robot is standing guard over a miniature, vibrant Minecraft world displayed on a holographic screen. Data streams, represented by glowing lines of code and chat icons, flow from the Telegram logo towards the Minecraft world, keeping it active and preventing it from fading. The background is a clean, modern digital space with subtle circuit board patterns. The overall mood is helpful and automated. The art style should be 3D isometric illustration with bright, engaging colors and clear, simple forms."
+        "primary_use_case": "Downloading media content from Reddit posts without the need for complex API setup or authentication.",
+        "open_issues": 6,
+        "cover_image_prompt": "A friendly, stylized robot arm reaching out from a Reddit-themed portal, gently plucking various media icons (photos, video play buttons, gallery symbols) and placing them into a neatly organized digital folder labeled 'RedDownloader'. The background is a soft, abstract representation of a social media feed, with subtle code snippets floating in the air. The overall mood is efficient and user-friendly, with a clean, modern aesthetic. The robot arm and folder should be the clear focal point, symbolizing the direct and simple extraction of content. 3D isometric illustration style, vibrant but not overwhelming colors, clear iconography."
+    },
+    {
+        "id": 502268029,
+        "name": "Telegram-Media-Downloader",
+        "description": "A script allowing you to download images and videos from Telegram web even if the group restricts downloading.",
+        "url": "https://github.com/Neet-Nestor/Telegram-Media-Downloader",
+        "language": "JavaScript",
+        "stars": 4789,
+        "forks": 477,
+        "created_at": "2022-06-11T06:20:37Z",
+        "updated_at": "2026-07-01T06:36:30Z",
+        "topics": [
+            "greasyfork",
+            "greasymonkey",
+            "greasymonkey-userscript",
+            "javascript",
+            "telegram",
+            "userscript"
+        ],
+        "quality_score": 0.7,
+        "contributors_count": 0,
+        "last_commit_date": "2026-03-09T06:52:49Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/464907d6aa0e7b15da4180a06239e7dd165422d46687119369e3a9c6529b1016/Neet-Nestor/Telegram-Media-Downloader"
+        ],
+        "homepage": "https://greasyfork.org/scripts/446342-telegram-media-downloader",
+        "readme_summary": "This JavaScript user script enhances the Telegram web experience by enabling the download of media (images, GIFs, audio, videos) from chats and stories, even when downloads are restricted. It requires a user script manager browser extension for installation and use.",
+        "key_features": [
+            "Enables downloading of images, GIFs, audio, and videos from Telegram web.",
+            "Bypasses download restrictions in chats and stories.",
+            "Supports specific Telegram webapp versions for certain features (e.g., audio messages for K webapp).",
+            "Installs via user script managers like Tampermonkey, Greasemonkey, or Violentmonkey."
+        ],
+        "primary_use_case": "To allow users to download media content from Telegram web that is otherwise restricted or unavailable for download.",
+        "open_issues": 62,
+        "cover_image_prompt": "A stylized, magical key unlocking a digital padlock on a Telegram chat bubble, revealing a cascade of images and videos flowing out. The key has 'Telegram Media Downloader' subtly etched onto its handle. In the background, a user's browser window is visible, showing the Telegram web interface with download icons now active. The scene is bright and clean, with a focus on the unlocking action. The overall style should be a 3D isometric illustration with vibrant, accessible colors, emphasizing ease of use and access."
+    },
+    {
+        "id": 266033395,
+        "name": "grist-core",
+        "description": "Grist is the evolution of spreadsheets.",
+        "url": "https://github.com/gristlabs/grist-core",
+        "language": "TypeScript",
+        "stars": 11215,
+        "forks": 594,
+        "created_at": "2020-05-22T06:16:02Z",
+        "updated_at": "2026-07-01T08:32:42Z",
+        "topics": [
+            "awesome",
+            "database",
+            "spreadsheet"
+        ],
+        "quality_score": 0.9500000000000001,
+        "contributors_count": 0,
+        "last_commit_date": "2026-06-30T07:34:52Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/496fdb6fa1c4c904b3f6cb5a51a5ee723c3ff0fe3c0a57d470da4b4a41dbdf45/gristlabs/grist-core"
+        ],
+        "homepage": "https://www.getgrist.com",
+        "readme_summary": "Grist is a modern relational spreadsheet application that combines the flexibility of a spreadsheet with the robustness of a database. The grist-core repository provides the server-side functionality for hosting and managing these advanced spreadsheets.",
+        "key_features": [
+            "Relational spreadsheet model",
+            "Database-like columns (named, single data type)",
+            "Formula filling with automatic updates",
+            "Python formula support",
+            "AI Formula Assistant",
+            "Portable, self-contained format based on SQLite",
+            "Server for hosting spreadsheets"
+        ],
+        "primary_use_case": "Running a powerful server for hosting and managing relational spreadsheets.",
+        "open_issues": 611,
+        "cover_image_prompt": "A skilled artisan meticulously crafting a complex, multi-layered clockwork mechanism. Gears and cogs represent data cells, smoothly interlocking and turning. Some gears are labeled with Python symbols, others with database icons. A blueprint of the clockwork is visible on a nearby workbench, showing both spreadsheet-like grids and database schemas. Subtle digital particles flow around the mechanism, indicating data processing. The overall scene is a well-lit workshop, emphasizing precision and interconnectedness. The style should be a detailed 3D isometric illustration, with a clean, organized composition and a color palette of blues, grays, and metallic tones, highlighting the 'grist-core' name subtly etched onto a tool."
     }
 ]
