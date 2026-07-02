@@ -1,125 +1,48 @@
 [
     {
-        "id": 415407813,
-        "name": "RedDownloader",
-        "description": "A Python Reddit Post Downloader which simplifies downloading any media from Reddit",
-        "url": "https://github.com/Jackhammer9/RedDownloader",
+        "id": 958791563,
+        "name": "numpyai",
+        "description": "A complete natural language data analysis toolkit using NumPy and LLMs.",
+        "url": "https://github.com/aadya940/numpyai",
         "language": "Python",
-        "stars": 149,
-        "forks": 22,
-        "created_at": "2021-10-09T19:50:36Z",
-        "updated_at": "2026-07-01T07:32:46Z",
+        "stars": 23,
+        "forks": 2,
+        "created_at": "2025-04-01T19:10:50Z",
+        "updated_at": "2026-07-02T08:21:43Z",
         "topics": [
-            "audio-download",
-            "download",
-            "downloader",
-            "downloader-for-reddit",
-            "gallery",
-            "imagedownload",
+            "ai",
+            "array",
+            "data-analysis",
+            "data-science",
             "library",
-            "media",
-            "media-downloader",
-            "pictures",
-            "python",
-            "reddit",
-            "reddit-api",
-            "reddit-bot",
-            "reddit-media-downloader",
-            "reddit-post-downloader",
-            "redvid",
-            "videos"
+            "llm",
+            "machine-learning",
+            "matplotlib",
+            "numpy",
+            "pandas",
+            "plotting",
+            "python"
         ],
-        "quality_score": 0.55,
+        "quality_score": 0.25,
         "contributors_count": 0,
-        "last_commit_date": "2025-12-08T15:29:55Z",
+        "last_commit_date": "2025-10-14T04:34:18Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/74202f25af9505cb019ed7df22b8f3d2ae262c245b32099fdb7e8ffe687ee804/Jackhammer9/RedDownloader"
+            "https://opengraph.githubassets.com/980f15b36d3a5fedf4d7b41d8b543d7c38eb2dd9ad00343d498e917d7f583634/aadya940/numpyai"
         ],
-        "homepage": "",
-        "readme_summary": "RedDownloader is a Python library designed to simplify the process of downloading various media types, including images, galleries, and videos, directly from Reddit posts. It offers an easy-to-use interface that does not require Reddit API authentication, allowing users to download content with a single line of code and customize output options like filename, destination, and video quality.",
+        "homepage": "https://numpyai.readthedocs.io/en/latest/",
+        "readme_summary": "NumpyAI provides a natural language interface for NumPy, allowing users to interact with and analyze numerical data using conversational queries. It leverages Large Language Models (LLMs) to translate natural language into executable NumPy code, offering features like code generation, data diagnosis, and multi-array session management.",
         "key_features": [
-            "Download media (images, videos, galleries) from Reddit posts",
-            "No Reddit API authentication (praw bot) required",
-            "Single-line download function",
-            "Customizable output filename and destination path",
-            "Selectable video quality (144p to 1080p)",
-            "Automatic detection of media type",
-            "Handles galleries by creating dedicated folders"
+            "Writes NumPy code from natural language queries",
+            "Diagnoses data analysis steps",
+            "Supports multi-array sessions",
+            "Validates and unit tests generated code",
+            "Provides full transparency of executed code",
+            "Supports sklearn and matplotlib",
+            "Interactive debugging and re-tries",
+            "NumPy compatible"
         ],
-        "primary_use_case": "Downloading media content from Reddit posts without the need for complex API setup or authentication.",
-        "open_issues": 6,
-        "cover_image_prompt": "A friendly, stylized robot arm reaching out from a Reddit-themed portal, gently plucking various media icons (photos, video play buttons, gallery symbols) and placing them into a neatly organized digital folder labeled 'RedDownloader'. The background is a soft, abstract representation of a social media feed, with subtle code snippets floating in the air. The overall mood is efficient and user-friendly, with a clean, modern aesthetic. The robot arm and folder should be the clear focal point, symbolizing the direct and simple extraction of content. 3D isometric illustration style, vibrant but not overwhelming colors, clear iconography."
-    },
-    {
-        "id": 502268029,
-        "name": "Telegram-Media-Downloader",
-        "description": "A script allowing you to download images and videos from Telegram web even if the group restricts downloading.",
-        "url": "https://github.com/Neet-Nestor/Telegram-Media-Downloader",
-        "language": "JavaScript",
-        "stars": 4789,
-        "forks": 477,
-        "created_at": "2022-06-11T06:20:37Z",
-        "updated_at": "2026-07-01T06:36:30Z",
-        "topics": [
-            "greasyfork",
-            "greasymonkey",
-            "greasymonkey-userscript",
-            "javascript",
-            "telegram",
-            "userscript"
-        ],
-        "quality_score": 0.7,
-        "contributors_count": 0,
-        "last_commit_date": "2026-03-09T06:52:49Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/464907d6aa0e7b15da4180a06239e7dd165422d46687119369e3a9c6529b1016/Neet-Nestor/Telegram-Media-Downloader"
-        ],
-        "homepage": "https://greasyfork.org/scripts/446342-telegram-media-downloader",
-        "readme_summary": "This JavaScript user script enhances the Telegram web experience by enabling the download of media (images, GIFs, audio, videos) from chats and stories, even when downloads are restricted. It requires a user script manager browser extension for installation and use.",
-        "key_features": [
-            "Enables downloading of images, GIFs, audio, and videos from Telegram web.",
-            "Bypasses download restrictions in chats and stories.",
-            "Supports specific Telegram webapp versions for certain features (e.g., audio messages for K webapp).",
-            "Installs via user script managers like Tampermonkey, Greasemonkey, or Violentmonkey."
-        ],
-        "primary_use_case": "To allow users to download media content from Telegram web that is otherwise restricted or unavailable for download.",
-        "open_issues": 62,
-        "cover_image_prompt": "A stylized, magical key unlocking a digital padlock on a Telegram chat bubble, revealing a cascade of images and videos flowing out. The key has 'Telegram Media Downloader' subtly etched onto its handle. In the background, a user's browser window is visible, showing the Telegram web interface with download icons now active. The scene is bright and clean, with a focus on the unlocking action. The overall style should be a 3D isometric illustration with vibrant, accessible colors, emphasizing ease of use and access."
-    },
-    {
-        "id": 266033395,
-        "name": "grist-core",
-        "description": "Grist is the evolution of spreadsheets.",
-        "url": "https://github.com/gristlabs/grist-core",
-        "language": "TypeScript",
-        "stars": 11215,
-        "forks": 594,
-        "created_at": "2020-05-22T06:16:02Z",
-        "updated_at": "2026-07-01T08:32:42Z",
-        "topics": [
-            "awesome",
-            "database",
-            "spreadsheet"
-        ],
-        "quality_score": 0.9500000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2026-06-30T07:34:52Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/496fdb6fa1c4c904b3f6cb5a51a5ee723c3ff0fe3c0a57d470da4b4a41dbdf45/gristlabs/grist-core"
-        ],
-        "homepage": "https://www.getgrist.com",
-        "readme_summary": "Grist is a modern relational spreadsheet application that combines the flexibility of a spreadsheet with the robustness of a database. The grist-core repository provides the server-side functionality for hosting and managing these advanced spreadsheets.",
-        "key_features": [
-            "Relational spreadsheet model",
-            "Database-like columns (named, single data type)",
-            "Formula filling with automatic updates",
-            "Python formula support",
-            "AI Formula Assistant",
-            "Portable, self-contained format based on SQLite",
-            "Server for hosting spreadsheets"
-        ],
-        "primary_use_case": "Running a powerful server for hosting and managing relational spreadsheets.",
-        "open_issues": 611,
-        "cover_image_prompt": "A skilled artisan meticulously crafting a complex, multi-layered clockwork mechanism. Gears and cogs represent data cells, smoothly interlocking and turning. Some gears are labeled with Python symbols, others with database icons. A blueprint of the clockwork is visible on a nearby workbench, showing both spreadsheet-like grids and database schemas. Subtle digital particles flow around the mechanism, indicating data processing. The overall scene is a well-lit workshop, emphasizing precision and interconnectedness. The style should be a detailed 3D isometric illustration, with a clean, organized composition and a color palette of blues, grays, and metallic tones, highlighting the 'grist-core' name subtly etched onto a tool."
+        "primary_use_case": "To enable users to perform complex data analysis tasks using natural language queries, making NumPy more accessible and intuitive, especially for those less familiar with its specific syntax.",
+        "open_issues": 1,
+        "cover_image_prompt": "A wise old librarian is sitting at a grand wooden desk, surrounded by towering shelves of numerical data represented as ancient scrolls. In front of the librarian is a modern, glowing tablet displaying a simple chat interface. The librarian is speaking into a microphone, and the spoken words are magically transforming into clean, organized NumPy code and clear data visualizations (like charts and graphs) appearing on the tablet. Small, subtle digital particles flow from the librarian's mouth towards the tablet, representing the AI translation. The background shows faint outlines of complex mathematical formulas. The overall mood is one of accessible knowledge and effortless understanding. The style should be a 3D isometric illustration with a warm, inviting color palette."
     }
 ]
