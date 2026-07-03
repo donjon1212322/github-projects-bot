@@ -1,9 +1,23 @@
 [
     {
-        "project_id": 958791563,
-        "content": "💡 <b>numpyai</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to perform complex data analysis tasks using natural language queries, making NumPy more accessible and intuitive, especially for those less familiar with its specific syntax.\n<br>\n✨ <b>Key Features:</b>\n• Writes NumPy code from natural language queries\n• Diagnoses data analysis steps\n• Supports multi-array sessions\n<br>\n📖 <b>Summary:</b>\nNumpyAI provides a natural language interface for NumPy, allowing users to interact with and analyze numerical data using conversational queries. It leverages Large Language Models (LLMs) to translate natural language into executable NumPy code, offering features like code generation, data diagnosis, and multi-array session management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/aadya940/numpyai?embed=0\">View Project</a>\n• <a href=\"https://numpyai.readthedocs.io/en/latest/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/980f15b36d3a5fedf4d7b41d8b543d7c38eb2dd9ad00343d498e917d7f583634/aadya940/numpyai",
+        "project_id": 65657180,
+        "content": "✨ <b>polaris</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a self-hosted, personal music streaming service accessible from any device.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted music streaming server\n• Support for large music collections (100,000+ songs)\n• Beautiful and customizable user interface with dark mode\n• Cross-platform compatibility (Windows, Linux, BSD, Docker)\n• Support for various audio file formats (flac, mp3, ogg, opus, etc.)\n<br>\n📖 <b>Summary:</b>\nPolaris is a self-hosted, open-source music streaming server designed for exceptional performance and ease of use. It allows users to access their entire music collection from any device, supporting large libraries and offering a beautiful, customizable user interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/agersant/polaris?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/65657180/384fcc71-44f4-4099-9131-c2c0ffad7b0c",
         "platform": "telegram",
-        "quality_score": 0.25
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 1125698212,
+        "content": "🔥 <b>dlman</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAccelerating and managing file downloads across multiple platforms with enhanced reliability and control.\n<br>\n✨ <b>Key Features:</b>\n• Multi-segment parallel downloads (1–32 segments per file)\n• Crash-safe persistence with SQLite\n• Pause and resume anytime\n• Auto-resume after crashes or restarts\n• Scheduling & Automation (start/stop times, post-download actions)\n<br>\n📖 <b>Summary:</b>\nDLMan is a free, open-source download manager for Windows, macOS, and Linux, built with Rust and Tauri for speed and reliability. It offers advanced features like multi-segment downloads, crash-safe persistence with SQLite, scheduling, and organization tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/novincode/dlman?embed=0\">View Project</a>\n• <a href=\"https://dlman.codeideal.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d35d209e347d90bcef383827f1695639b7e642a0f2f300c7b1292ae3b98971be/novincode/dlman",
+        "platform": "telegram",
+        "quality_score": 0.65
+    },
+    {
+        "project_id": 696625551,
+        "content": "🌟 <b>PDF_Shield</b> | Tcl\n<br>\n🎯 <b>Primary Use Case:</b>\nDetecting and preventing DoS and embedded JavaScript attacks within PDF files.\n<br>\n✨ <b>Key Features:</b>\n• Automated PDF Monitoring\n• Drag & Drop scanning\n• Customizable Alerts (JS, infinite loops, zip bombs)\n• Extensible plugin architecture\n• User-Friendly Interface (CLI & GUI)\n<br>\n📖 <b>Summary:</b>\nPDF_Shield is a Python-based security tool designed to detect and prevent Denial of Service (DoS) attacks and embedded JavaScript threats within PDF files. It offers automated monitoring, customizable alerts, and a user-friendly interface to safeguard against malicious PDF content, particularly targeting PDF engines in browsers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/whiteSHADOW1234/PDF_Shield?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/696625551/872130c2-5669-41a0-836e-999091abe529",
+        "platform": "telegram",
+        "quality_score": 0.15
     }
 ]
