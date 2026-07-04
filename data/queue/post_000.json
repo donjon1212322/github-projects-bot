@@ -1,7 +1,0 @@
-{
-    "project_id": 1245756668,
-    "content": "✨ <b>GenRecon</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo reconstruct detailed and editable 3D meshes of indoor scenes from multiple 2D images by combining generative modeling with scene decomposition.\n<br>\n✨ <b>Key Features:</b>\n• High-fidelity 3D scene reconstruction from multi-view images\n• Integration of strong generative 3D priors (e.g., Trellis.2)\n• Scene reconstruction via spatially-localized, overlapping chunks\n<br>\n📖 <b>Summary:</b>\nGenRecon is a Python-based framework for high-fidelity 3D scene reconstruction from multi-view RGB images. It leverages strong generative 3D priors, specifically Trellis.2, by conditioning the generation process on localized scene chunks to achieve scene-scale reconstruction. The approach enables faithful, editable PBR mesh reconstructions of indoor environments, outperforming existing methods.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kasothaphie/GenRecon?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/7d3aa6e9a5f8c5004858949907029ce343b5c4c940996b200782b52d9c94b3ab/kasothaphie/GenRecon",
-    "platform": "telegram",
-    "quality_score": 0.55
-}
