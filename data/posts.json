@@ -1,23 +1,44 @@
 [
     {
-        "project_id": 65657180,
-        "content": "✨ <b>polaris</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a self-hosted, personal music streaming service accessible from any device.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted music streaming server\n• Support for large music collections (100,000+ songs)\n• Beautiful and customizable user interface with dark mode\n• Cross-platform compatibility (Windows, Linux, BSD, Docker)\n• Support for various audio file formats (flac, mp3, ogg, opus, etc.)\n<br>\n📖 <b>Summary:</b>\nPolaris is a self-hosted, open-source music streaming server designed for exceptional performance and ease of use. It allows users to access their entire music collection from any device, supporting large libraries and offering a beautiful, customizable user interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/agersant/polaris?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/65657180/384fcc71-44f4-4099-9131-c2c0ffad7b0c",
+        "project_id": 1245756668,
+        "content": "✨ <b>GenRecon</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo reconstruct detailed and editable 3D meshes of indoor scenes from multiple 2D images by combining generative modeling with scene decomposition.\n<br>\n✨ <b>Key Features:</b>\n• High-fidelity 3D scene reconstruction from multi-view images\n• Integration of strong generative 3D priors (e.g., Trellis.2)\n• Scene reconstruction via spatially-localized, overlapping chunks\n<br>\n📖 <b>Summary:</b>\nGenRecon is a Python-based framework for high-fidelity 3D scene reconstruction from multi-view RGB images. It leverages strong generative 3D priors, specifically Trellis.2, by conditioning the generation process on localized scene chunks to achieve scene-scale reconstruction. The approach enables faithful, editable PBR mesh reconstructions of indoor environments, outperforming existing methods.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kasothaphie/GenRecon?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/7d3aa6e9a5f8c5004858949907029ce343b5c4c940996b200782b52d9c94b3ab/kasothaphie/GenRecon",
         "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 0.55
     },
     {
-        "project_id": 1125698212,
-        "content": "🔥 <b>dlman</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAccelerating and managing file downloads across multiple platforms with enhanced reliability and control.\n<br>\n✨ <b>Key Features:</b>\n• Multi-segment parallel downloads (1–32 segments per file)\n• Crash-safe persistence with SQLite\n• Pause and resume anytime\n• Auto-resume after crashes or restarts\n• Scheduling & Automation (start/stop times, post-download actions)\n<br>\n📖 <b>Summary:</b>\nDLMan is a free, open-source download manager for Windows, macOS, and Linux, built with Rust and Tauri for speed and reliability. It offers advanced features like multi-segment downloads, crash-safe persistence with SQLite, scheduling, and organization tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/novincode/dlman?embed=0\">View Project</a>\n• <a href=\"https://dlman.codeideal.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d35d209e347d90bcef383827f1695639b7e642a0f2f300c7b1292ae3b98971be/novincode/dlman",
+        "project_id": 1280278993,
+        "content": "🚀 <b>torlink</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a fast, simple, and private way to find and download torrents directly from the command line without any complex setup.\n<br>\n✨ <b>Key Features:</b>\n• Terminal-based interface\n• Zero setup and configuration\n• Curated list of reputable torrent sources\n• Direct magnet link and infohash support\n• Background download management\n<br>\n📖 <b>Summary:</b>\ntorlink is a terminal-based torrent finder and downloader that simplifies the process of locating and downloading torrent files. It searches a curated list of reputable sources, presents results clearly, and handles downloads directly within the terminal, offering a zero-setup, zero-configuration user experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/baairon/torlink?embed=0\">View Project</a>\n• <a href=\"https://www.npmjs.com/package/torlnk?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1280278993/6f2be8ff-6716-4954-8c87-27aa51056da5",
         "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 0.8500000000000001
     },
     {
-        "project_id": 696625551,
-        "content": "🌟 <b>PDF_Shield</b> | Tcl\n<br>\n🎯 <b>Primary Use Case:</b>\nDetecting and preventing DoS and embedded JavaScript attacks within PDF files.\n<br>\n✨ <b>Key Features:</b>\n• Automated PDF Monitoring\n• Drag & Drop scanning\n• Customizable Alerts (JS, infinite loops, zip bombs)\n• Extensible plugin architecture\n• User-Friendly Interface (CLI & GUI)\n<br>\n📖 <b>Summary:</b>\nPDF_Shield is a Python-based security tool designed to detect and prevent Denial of Service (DoS) attacks and embedded JavaScript threats within PDF files. It offers automated monitoring, customizable alerts, and a user-friendly interface to safeguard against malicious PDF content, particularly targeting PDF engines in browsers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/whiteSHADOW1234/PDF_Shield?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/696625551/872130c2-5669-41a0-836e-999091abe529",
+        "project_id": 1195681752,
+        "content": "✨ <b>L0p4Map</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nNetwork monitoring, visualization, and security analysis for security researchers.\n<br>\n✨ <b>Key Features:</b>\n• ARP Network Scan\n• Hostname Resolution\n• Device Fingerprinting\n• Role Detection\n• Real Network Topology Graph\n<br>\n📖 <b>Summary:</b>\nL0p4Map is a professional network monitoring and visualization tool designed for security researchers. It combines high-speed ARP scanning, hostname resolution, device fingerprinting, and role detection with a comprehensive nmap integration for deep network analysis and vulnerability assessment.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HaxL0p4/L0p4Map?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1195681752/2001fe94-5fea-4b14-94f8-f94910c9f6ea",
         "platform": "telegram",
-        "quality_score": 0.15
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 1166102148,
+        "content": "✨ <b>codebase-memory-mcp</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide AI coding agents with fast, efficient, and comprehensive code intelligence by indexing codebases into a navigable knowledge graph.\n<br>\n✨ <b>Key Features:</b>\n• High-performance code indexing (milliseconds for average repo, minutes for Linux kernel)\n• Persistent knowledge graph creation\n<br>\n📖 <b>Summary:</b>\nCodebase-Memory-MCP is a high-performance C-based code intelligence engine that indexes entire codebases into a knowledge graph for AI coding agents. It achieves extreme indexing speeds and sub-millisecond query times, supporting 158 languages with enhanced semantic resolution for popular ones, and ships as a single, zero-dependency static binary.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DeusData/codebase-memory-mcp?embed=0\">View Project</a>\n• <a href=\"https://deusdata.github.io/codebase-memory-mcp/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1166102148/c6b6a073-5cad-4f9a-81c4-16018827c144",
+        "platform": "telegram",
+        "quality_score": 1.2000000000000002
+    },
+    {
+        "project_id": 1120304511,
+        "content": "🔥 <b>rlm</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a general plug-and-play inference library for Recursive Language Models (RLMs), enabling language models to process and interact with extremely long contexts by recursively calling themselves within a sandboxed environment.\n<br>\n✨ <b>Key Features:</b>\n• Task-agnostic inference paradigm for language models\n<br>\n📖 <b>Summary:</b>\nRecursive Language Models (RLMs) offer a novel inference paradigm for language models, enabling them to handle near-infinite context lengths by programmatically examining, decomposing, and recursively calling themselves. This library provides an extensible inference engine and training environment for RLMs, supporting various sandboxes and standard API-based or local LLMs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alexzhang13/rlm?embed=0\">View Project</a>\n• <a href=\"https://arxiv.org/abs/2512.24601?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/87e62ad55d8a8192eebdaff2d67c7880aa7bf359cf8043e2f428955345663960/alexzhang13/rlm",
+        "platform": "telegram",
+        "quality_score": 1.2000000000000002
+    },
+    {
+        "project_id": 710425233,
+        "content": "🔥 <b>universal-android-debloater-next-generation</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nRemoving unwanted system applications (bloatware) from Android devices to enhance privacy, security, and performance, without requiring root access.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform GUI application\n• Uses ADB for debloating\n• Supports non-rooted devices\n• Improves privacy, security, and battery life\n• Reduces attack surface by removing system apps\n<br>\n📖 <b>Summary:</b>\nUniversal Android Debloater Next Generation (UAD-ng) is a cross-platform GUI application written in Rust that uses ADB to remove pre-installed system apps (bloatware) from non-rooted Android devices. It aims to improve device privacy, security, and performance by reducing the attack surface and freeing up resources.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/710425233/ca74c127-676c-4c35-8104-b4c57492ce51",
+        "platform": "telegram",
+        "quality_score": 1.1
     }
 ]
