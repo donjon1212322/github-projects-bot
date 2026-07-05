@@ -1,7 +1,0 @@
-{
-    "project_id": 1120304511,
-    "content": "🔥 <b>rlm</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a general plug-and-play inference library for Recursive Language Models (RLMs), enabling language models to process and interact with extremely long contexts by recursively calling themselves within a sandboxed environment.\n<br>\n✨ <b>Key Features:</b>\n• Task-agnostic inference paradigm for language models\n<br>\n📖 <b>Summary:</b>\nRecursive Language Models (RLMs) offer a novel inference paradigm for language models, enabling them to handle near-infinite context lengths by programmatically examining, decomposing, and recursively calling themselves. This library provides an extensible inference engine and training environment for RLMs, supporting various sandboxes and standard API-based or local LLMs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/alexzhang13/rlm?embed=0\">View Project</a>\n• <a href=\"https://arxiv.org/abs/2512.24601?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/87e62ad55d8a8192eebdaff2d67c7880aa7bf359cf8043e2f428955345663960/alexzhang13/rlm",
-    "platform": "telegram",
-    "quality_score": 1.2000000000000002
-}
