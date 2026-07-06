@@ -1,7 +1,0 @@
-{
-    "project_id": 1244617222,
-    "content": "🔥 <b>pxpipe</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo drastically reduce the token count and associated costs of interacting with large language models by encoding dense text context into image format.\n<br>\n✨ <b>Key Features:</b>\n• Reduces LLM token usage by converting text context to images\n• Fixed token cost for images regardless of text volume\n• Local proxy intercepts and rewrites requests before sending to LLM\n<br>\n📖 <b>Summary:</b>\npxpipe is a local proxy that reduces token usage for large language models like Claude by rendering bulky text context (like system prompts, tool documentation, and conversation history) into images. Since image token cost is based on pixel dimensions rather than content, this significantly cuts down on the total tokens required for a request, leading to substantial cost savings.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/teamchong/pxpipe?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/c084e6dd97e513af706b6dfd548320be4f7217eb31bfcbff40bfb0211306d3d9/teamchong/pxpipe",
-    "platform": "telegram",
-    "quality_score": 1.05
-}
