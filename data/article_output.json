@@ -1,26 +1,26 @@
 {
-    "title": "Unleash Your AI Agents: Supercharging Codebase Understanding with codebase-memory-mcp",
-    "article": "Ever felt your AI coding assistant struggling to grasp the full context of your sprawling codebase? It's like asking someone to navigate a complex city without a map – they might get there, but it'll take a lot of detours and confused looks. That's precisely the problem `codebase-memory-mcp` swoops in to solve. This project is a game-changer for anyone working with AI coding agents, transforming them from hesitant explorers into confident navigators of your entire project.\n\nAt its core, `codebase-memory-mcp` is an incredibly fast and efficient code intelligence engine. Imagine it building a super-detailed, interactive map of your entire codebase in mere moments. For an average repository, it indexes everything in milliseconds. Even a behemoth like the Linux kernel, with its 28 million lines of code, is fully mapped out in just three minutes! This incredible speed is achieved through a smart, RAM-first pipeline, using techniques like LZ4 compression and in-memory SQLite, ensuring that while it's fast, it's also resource-conscious and releases memory after indexing.\n\nHow does it create this magical map? It leverages `tree-sitter` for deep Abstract Syntax Tree (AST) analysis across a staggering 158 programming languages. This gives it a foundational understanding of your code's structure. But it doesn't stop there. For popular languages like Python, TypeScript, PHP, C#, Go, C, C++, Java, Kotlin, and Rust, it goes a step further with \"Hybrid LSP\" semantic type resolution. This means it understands not just *what* your code looks like, but *what it means* – tracking functions, classes, call chains, HTTP routes, and even cross-service links, building a rich, persistent knowledge graph.\n\nThe real benefit for developers is how this empowers your AI coding agents. With this deep, instantaneous understanding of your codebase, your AI can answer complex structural queries in under a millisecond. This translates directly into more accurate suggestions, significantly fewer tokens consumed (saving you money and speeding up responses), and drastically fewer tool calls needed to get the job done. Instead of your agent fumbling through files, it instantly knows where everything is and how it connects. Plus, it’s incredibly easy to get started: a single static binary for macOS, Linux, and Windows, zero dependencies – just download, install, and you’re good to go. All processing happens 100% locally on your machine, so your code never leaves your environment, ensuring top-notch security and privacy.",
+    "title": "Supercharge Your Coding with AI: Discover Orca, the Ultimate Dev Companion!",
+    "article": "Imagine a world where you could give a coding problem to not just one, but several cutting-edge AI assistants simultaneously, then pick the absolute best solution. Sounds like a superpower, right? Well, get ready, because that's exactly what Orca brings to the table. This incredible project is an AI Orchestrator designed to turn you into a \"100x builder\" by letting you run and manage multiple AI code models like Codex, ClaudeCode, OpenCode, or Pi, all from a single, unified interface. It's about making AI-assisted development smarter, faster, and incredibly more efficient. One of Orca's standout features is its concept of \"Parallel Worktrees.\" Think of it like this: you have a coding challenge. Instead of feeding it to one AI, waiting for its output, and then maybe trying another, Orca lets you fan out that single prompt across several AI agents. Each agent gets its own isolated Git worktree – a clean slate where it can experiment and generate its solution without interfering with others. This means you can get five different approaches to your problem almost instantly. You can then compare these solutions side-by-side, evaluate their quality, and effortlessly merge the winning code back into your main project. This massively accelerates experimentation and helps you arrive at optimal solutions much quicker than ever before. Your development workflow isn't always confined to your desk, and Orca understands that. With its fantastic Mobile Companion app, you can keep an eye on your AI agents no matter where you are. Get instant notifications when an agent finishes a task, allowing you to stay updated on progress. Even better, you can send follow-up instructions or new prompts directly from your phone. This means true flexibility and continuous oversight, ensuring your AI assistants are always working productively, even when you're on the go. Beyond AI orchestration, Orca also provides a robust and highly capable development environment. It includes Ghostty-class terminals that boast WebGL rendering for incredibly smooth performance. You can create infinite splits to manage multiple tasks concurrently and enjoy a scrollback history that magically survives restarts. This means a powerful, integrated terminal experience that complements your AI-driven workflow, making your day-to-day coding tasks more efficient and enjoyable. For front-end developers, Orca's \"Design Mode\" is a game-changer. Imagine being able to click directly on any UI element within a real Chromium browser window. Orca will then capture its HTML, CSS, and even a cropped screenshot, sending all this context straight into your AI agent's prompt. This eliminates the tedious process of manually describing UI elements to an AI. It empowers your AI to understand and modify visual components with unprecedented accuracy and speed, dramatically accelerating the design and implementation phases of your web projects. Ultimately, Orca is designed to elevate your productivity and expand what's possible with AI in development. By centralizing the management of multiple AI models, facilitating parallel experimentation, offering remote control, and integrating powerful developer tools, it provides a comprehensive platform for modern coding. It helps you explore more solutions, iterate faster, and build better software with the combined intelligence of various AI assistants, truly empowering you to become that \"100x builder\" you've always aimed to be.",
     "key_takeaways": [
-        "Lightning-fast indexing of even massive codebases (e.g., Linux kernel in 3 minutes).",
-        "Creates a deep, semantic knowledge graph using Tree-sitter and Hybrid LSP across 158 languages.",
-        "Significantly improves AI coding agent performance, reducing tokens and tool calls for better accuracy.",
-        "Simple, zero-dependency installation as a single static binary for all major OS.",
-        "Ensures privacy and security with 100% local processing of your codebase."
+        "Orchestrates multiple AI code agents (Codex, ClaudeCode, etc.) in a single, unified interface.",
+        "Parallel Git worktrees enable side-by-side comparison and merging of AI-generated solutions.",
+        "Mobile companion app allows remote monitoring and steering of AI agents from anywhere.",
+        "Integrated advanced terminals and a unique \"Design Mode\" enhance overall developer workflow and UI generation.",
+        "Boosts developer productivity by enabling rapid experimentation and streamlined AI-assisted development."
     ],
     "tags": [
-        "AI Agents",
-        "Code Intelligence",
-        "Knowledge Graph",
-        "Developer Tools",
-        "Tree-sitter"
+        "AI",
+        "Development Tools",
+        "Code Generation",
+        "Productivity",
+        "Git"
     ],
-    "stars": 25735,
-    "forks": 1907,
-    "open_issues": 145,
-    "languages": "C",
-    "readme_summary": "Codebase-Memory-MCP is a high-performance C-based code intelligence engine that indexes entire codebases into a knowledge graph for AI coding agents. It achieves extreme indexing speeds and sub-millisecond query times, supporting 158 languages with enhanced semantic resolution for popular ones, and ships as a single, zero-dependency static binary.",
-    "project_id": 1166102148,
-    "url": "https://github.com/DeusData/codebase-memory-mcp",
-    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
+    "stars": 12580,
+    "forks": 853,
+    "open_issues": 425,
+    "languages": "TypeScript",
+    "readme_summary": "Orca is an AI-powered IDE designed for orchestrating multiple parallel coding agents. It allows users to run various AI models like Codex and ClaudeCode simultaneously, manage their outputs in separate worktrees, and monitor progress via a mobile companion app.",
+    "project_id": 1183888342,
+    "url": "https://github.com/stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
 }
