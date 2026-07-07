@@ -1,7 +1,0 @@
-{
-    "project_id": 1201787282,
-    "content": "🌟 <b>no-mistakes</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automate and enhance the code review process by ensuring code quality and correctness before it reaches the main repository through AI-powered checks and automated fixes, resulting in cleaner Pull Requests.\n<br>\n✨ <b>Key Features:</b>\n• Local git proxy for push operations\n• AI-driven validation pipeline (review, test, docs, lint)\n<br>\n📖 <b>Summary:</b>\nThis Go-based tool acts as a local Git proxy, intercepting pushes to a remote repository. It spins up a disposable worktree to run an AI-driven validation pipeline, automatically fixing minor issues and escalating complex ones for user approval before finally pushing to the configured target and opening a clean Pull Request.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kunchenguid/no-mistakes?embed=0\">View Project</a>\n• <a href=\"https://kunchenguid.github.io/no-mistakes/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://repository-images.githubusercontent.com/1201787282/21a7fe5f-6cb8-430c-aef2-7984ecdd7f60",
-    "platform": "telegram",
-    "quality_score": 0.9500000000000001
-}
