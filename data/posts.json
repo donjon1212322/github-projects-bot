@@ -1,44 +1,16 @@
 [
     {
-        "project_id": 1207401995,
-        "content": "💡 <b>StegoForge</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a unified and powerful platform for both hiding (steganography) and finding (digital forensics) hidden data within various digital media, catering to security professionals and enthusiasts.\n<br>\n✨ <b>Key Features:</b>\n• Data embedding and extraction across images, audio, video, documents, and network packets\n• AES-256-GCM encryption for payloads\n• 11 advanced steganalysis detection engines\n<br>\n📖 <b>Summary:</b>\nStegoForge is a comprehensive Python toolkit for steganography and digital forensics. It allows users to hide and extract data within various file types like images, audio, and video, while also providing advanced detection engines to uncover hidden information. The tool is designed for security researchers, CTF players, and digital forensics practitioners.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Nour833/StegoForge?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b1cd28db3125f41c1bdf32f5cf0830f46bcd92761d5f8a1271aa3d71a931d81f/Nour833/StegoForge",
+        "project_id": 872380225,
+        "content": "✨ <b>aya</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a user-friendly desktop GUI for managing and debugging Android devices connected via ADB.\n<br>\n✨ <b>Key Features:</b>\n• Screen mirror\n• File explorer\n• Application manager\n• Process monitor\n• Layout inspector\n<br>\n📖 <b>Summary:</b>\nAYA is a desktop application that provides a graphical user interface for controlling Android devices via ADB. It simplifies common development and debugging tasks by offering a visual wrapper around the command-line ADB tool.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/liriliri/aya?embed=0\">View Project</a>\n• <a href=\"https://aya.liriliri.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fae567ccc8c0a9cb1eb440c1f8158ab1991bd6b699a41af91da179d33b266d20/liriliri/aya",
         "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 0.65
     },
     {
-        "project_id": 1244617222,
-        "content": "🔥 <b>pxpipe</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo drastically reduce the token count and associated costs of interacting with large language models by encoding dense text context into image format.\n<br>\n✨ <b>Key Features:</b>\n• Reduces LLM token usage by converting text context to images\n• Fixed token cost for images regardless of text volume\n• Local proxy intercepts and rewrites requests before sending to LLM\n<br>\n📖 <b>Summary:</b>\npxpipe is a local proxy that reduces token usage for large language models like Claude by rendering bulky text context (like system prompts, tool documentation, and conversation history) into images. Since image token cost is based on pixel dimensions rather than content, this significantly cuts down on the total tokens required for a request, leading to substantial cost savings.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/teamchong/pxpipe?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c084e6dd97e513af706b6dfd548320be4f7217eb31bfcbff40bfb0211306d3d9/teamchong/pxpipe",
+        "project_id": 657380031,
+        "content": "🌟 <b>openserp</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a self-hosted, multi-engine Search Engine Results Page (SERP) API for AI, LLM, RAG, and SEO automation tasks, especially for non-Google search engine coverage.\n<br>\n✨ <b>Key Features:</b>\n• Multi-engine support (Google, Yandex, Baidu, Bing, DuckDuckGo, Ecosia)\n• Megasearch across multiple engines\n• URL extraction with content parsing (Markdown, Text)\n• SERP features (AI summaries, answer boxes, etc.)\n• Image search\n<br>\n📖 <b>Summary:</b>\nOpenSERP is an open-source, self-hostable API and CLI that provides live search data from multiple search engines like Google, Yandex, and Bing. It's designed for AI, SEO, and automation workflows, offering features like URL extraction, SERP feature parsing, and various data output formats.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/karust/openserp?embed=0\">View Project</a>\n• <a href=\"https://openserp.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/657380031/649d58c6-146e-498b-9216-48f437509d48",
         "platform": "telegram",
-        "quality_score": 1.05
-    },
-    {
-        "project_id": 611338935,
-        "content": "🚀 <b>romm</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nOrganizing and playing a personal retro game collection through a centralized, web-based interface.\n<br>\n✨ <b>Key Features:</b>\n• Scan and enhance game library with metadata from IGDB, Screenscraper, and MobyGames\n• Fetch custom artwork from SteamGridDB\n• Display achievements from Retroachievements\n• Support for 400+ platforms\n• Play games directly from the browser using EmulatorJS and RuffleRS\n<br>\n📖 <b>Summary:</b>\nRomM is a self-hosted ROM manager and player that allows users to scan, organize, and play their game collection through a web interface. It enriches game libraries with metadata and artwork from various online sources and supports multiple platforms and custom tagging.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/rommapp/romm?embed=0\">View Project</a>\n• <a href=\"https://romm.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/611338935/ca8301ec-cb9f-4f73-8746-5db27ea8b02e",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 1201787282,
-        "content": "🌟 <b>no-mistakes</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automate and enhance the code review process by ensuring code quality and correctness before it reaches the main repository through AI-powered checks and automated fixes, resulting in cleaner Pull Requests.\n<br>\n✨ <b>Key Features:</b>\n• Local git proxy for push operations\n• AI-driven validation pipeline (review, test, docs, lint)\n<br>\n📖 <b>Summary:</b>\nThis Go-based tool acts as a local Git proxy, intercepting pushes to a remote repository. It spins up a disposable worktree to run an AI-driven validation pipeline, automatically fixing minor issues and escalating complex ones for user approval before finally pushing to the configured target and opening a clean Pull Request.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kunchenguid/no-mistakes?embed=0\">View Project</a>\n• <a href=\"https://kunchenguid.github.io/no-mistakes/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1201787282/21a7fe5f-6cb8-430c-aef2-7984ecdd7f60",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 1183888342,
-        "content": "🔥 <b>orca</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nOrchestrating and managing multiple AI coding agents in parallel for development tasks, allowing for comparison and selection of the best results.\n<br>\n✨ <b>Key Features:</b>\n• Mobile Companion App (iOS/Android) for monitoring and steering agents\n• Parallel Worktrees for running multiple agents in isolated Git worktrees\n• Advanced Terminal Splits with WebGL rendering and persistent scrollback\n<br>\n📖 <b>Summary:</b>\nOrca is an AI-powered IDE designed for orchestrating multiple parallel coding agents. It allows users to run various AI models like Codex and ClaudeCode simultaneously, manage their outputs in separate worktrees, and monitor progress via a mobile companion app.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/stablyai/orca?embed=0\">View Project</a>\n• <a href=\"https://onOrca.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d6275a36233d04335cceef26696cf845ab3d845495119e4cb2ca45db7d59b1a1/stablyai/orca",
-        "platform": "telegram",
-        "quality_score": 1.2000000000000002
-    },
-    {
-        "project_id": 1084806666,
-        "content": "🔥 <b>headunit-revived</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to use Android Auto on a secondary Android device, such as a tablet, by turning it into a headunit receiver.\n<br>\n✨ <b>Key Features:</b>\n• Turns Android tablets/phones into Android Auto receivers\n• Supports wired USB connections\n• Offers wireless connection options (Helper Mode, Wireless Launcher, Native)\n• Provides an Intent-based connection trigger for automation\n<br>\n📖 <b>Summary:</b>\nHeadunit Revived is an Android application that transforms an Android tablet or phone into an Android Auto receiver. It allows users to mirror their phone's Android Auto interface onto a larger screen, enhancing the in-car entertainment and navigation experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/andreknieriem/headunit-revived?embed=0\">View Project</a>\n• <a href=\"https://headunit.andrerinas.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/97d72f07a548df5ddcc78420e2fd38e2266de0db9e5abb8978ab6bd6e612e738/andreknieriem/headunit-revived",
-        "platform": "telegram",
-        "quality_score": 0.8500000000000001
+        "quality_score": 1.1
     }
 ]
