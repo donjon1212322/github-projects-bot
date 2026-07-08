@@ -1,0 +1,7 @@
+{
+    "project_id": 1282908694,
+    "content": "💡 <b>dir2txt</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConsolidating entire project codebases into a single text file for analysis by Large Language Models (LLMs), code reviews, or archival purposes.\n<br>\n✨ <b>Key Features:</b>\n• Recursively scans all files in a directory\n• Skips binary files\n• Supports .dir2txtignore for custom ignore patterns\n• Automatically removes code comments\n• Estimates token count and checks against model limits\n<br>\n📖 <b>Summary:</b>\ndir2txt is a Python script that recursively scans a project directory, extracts the content of all non-binary files, and consolidates it into a single text file. It offers features like ignoring specific files, removing code comments, and estimating token counts, making it useful for feeding codebases to LLMs, code reviews, or creating project backups.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/unikOne56/dir2txt?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/633ab0141ad72a126d5ac3375c6368f14249e7be94d9f75620dee207aecd0f1d/unikOne56/dir2txt",
+    "platform": "telegram",
+    "quality_score": 0.75
+}

@@ -1,16 +1,37 @@
 [
     {
-        "project_id": 872380225,
-        "content": "✨ <b>aya</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a user-friendly desktop GUI for managing and debugging Android devices connected via ADB.\n<br>\n✨ <b>Key Features:</b>\n• Screen mirror\n• File explorer\n• Application manager\n• Process monitor\n• Layout inspector\n<br>\n📖 <b>Summary:</b>\nAYA is a desktop application that provides a graphical user interface for controlling Android devices via ADB. It simplifies common development and debugging tasks by offering a visual wrapper around the command-line ADB tool.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/liriliri/aya?embed=0\">View Project</a>\n• <a href=\"https://aya.liriliri.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fae567ccc8c0a9cb1eb440c1f8158ab1991bd6b699a41af91da179d33b266d20/liriliri/aya",
+        "project_id": 801075760,
+        "content": "✨ <b>WifiForge</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTraining cybersecurity professionals and students on Wi-Fi attack vectors and wireless capabilities in a simulated environment.\n<br>\n✨ <b>Key Features:</b>\n• Safe and legal Wi-Fi hacking training environment\n• Automated network and tool setup for labs\n• Based on open-source mininet-wifi\n• Removes need for physical hardware for attacks\n• Supports various Wi-Fi exploitation labs\n<br>\n📖 <b>Summary:</b>\nWifiForge is a Python-based tool designed to provide a safe and legal environment for learning Wi-Fi hacking techniques. It automates the setup of networks and tools required for various Wi-Fi exploitation labs, leveraging the open-source mininet-wifi framework.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/blackhillsinfosec/WifiForge?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5aa0b1883f776708c945e82b3c064696f692e9e9c6bd86421ea591cc7cb6820d/blackhillsinfosec/WifiForge",
+        "platform": "telegram",
+        "quality_score": 0.8500000000000001
+    },
+    {
+        "project_id": 81254815,
+        "content": "🌟 <b>dockerscan</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nScanning Docker containers and images for security vulnerabilities, compliance issues, and hidden threats.\n<br>\n✨ <b>Key Features:</b>\n• CIS Docker Benchmark v1.7.0 compliance checking\n• Supply Chain Attack Detection (Imageless Container, Cryptocurrency Miner, Backdoored Library, Image Signature Verification, Phishing Content, Malicious Network Destinations)\n• Advanced Secrets Detection (Cloud Providers, Version Control, AI/ML APIs)\n• Written in Go for speed and concurrency\n<br>\n📖 <b>Summary:</b>\nDockerScan v2.0 is a comprehensive security scanner for Docker containers and images, rewritten in Go. It integrates multiple scanning techniques, including CIS benchmarks, supply chain attack detection, and advanced secrets detection, to ensure container security and compliance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cr0hn/dockerscan?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6c1068d3321032c246a2967cc6fd507dcfe07252da57eb65afe33f15c608cf0b/cr0hn/dockerscan",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 1122062847,
+        "content": "🚀 <b>tuxmate</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSimplifying and standardizing the process of installing applications across different Linux distributions by generating safe, inspectable installation commands.\n<br>\n✨ <b>Key Features:</b>\n• Cross-distro generation (apt, pacman, dnf, zypper, nix, Flatpak, Snap, Homebrew)\n• Native-first resolution with fallbacks\n• Safe generation with inspectable output and package checks\n• Parallel Flatpak installs\n• Homebrew-aware output\n<br>\n📖 <b>Summary:</b>\nTuxMate is a cross-distro command generator for installing applications on Linux. It allows users to select applications once and generate inspectable installation commands or scripts tailored for various Linux distributions and package managers, ensuring safe and understandable execution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/abusoww/tuxmate?embed=0\">View Project</a>\n• <a href=\"https://tuxmate.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9579e674f461a59ea7551a299fd62d66e95d88f3433b051096ded9a5cde7b773/abusoww/tuxmate",
         "platform": "telegram",
         "quality_score": 0.65
     },
     {
-        "project_id": 657380031,
-        "content": "🌟 <b>openserp</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a self-hosted, multi-engine Search Engine Results Page (SERP) API for AI, LLM, RAG, and SEO automation tasks, especially for non-Google search engine coverage.\n<br>\n✨ <b>Key Features:</b>\n• Multi-engine support (Google, Yandex, Baidu, Bing, DuckDuckGo, Ecosia)\n• Megasearch across multiple engines\n• URL extraction with content parsing (Markdown, Text)\n• SERP features (AI summaries, answer boxes, etc.)\n• Image search\n<br>\n📖 <b>Summary:</b>\nOpenSERP is an open-source, self-hostable API and CLI that provides live search data from multiple search engines like Google, Yandex, and Bing. It's designed for AI, SEO, and automation workflows, offering features like URL extraction, SERP feature parsing, and various data output formats.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/karust/openserp?embed=0\">View Project</a>\n• <a href=\"https://openserp.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/657380031/649d58c6-146e-498b-9216-48f437509d48",
+        "project_id": 1282908694,
+        "content": "💡 <b>dir2txt</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConsolidating entire project codebases into a single text file for analysis by Large Language Models (LLMs), code reviews, or archival purposes.\n<br>\n✨ <b>Key Features:</b>\n• Recursively scans all files in a directory\n• Skips binary files\n• Supports .dir2txtignore for custom ignore patterns\n• Automatically removes code comments\n• Estimates token count and checks against model limits\n<br>\n📖 <b>Summary:</b>\ndir2txt is a Python script that recursively scans a project directory, extracts the content of all non-binary files, and consolidates it into a single text file. It offers features like ignoring specific files, removing code comments, and estimating token counts, making it useful for feeding codebases to LLMs, code reviews, or creating project backups.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/unikOne56/dir2txt?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/633ab0141ad72a126d5ac3375c6368f14249e7be94d9f75620dee207aecd0f1d/unikOne56/dir2txt",
         "platform": "telegram",
-        "quality_score": 1.1
+        "quality_score": 0.75
+    },
+    {
+        "project_id": 910107320,
+        "content": "🌟 <b>Constrict</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCompressing video files to meet specific size limits for uploads or storage, without relying on online services.\n<br>\n✨ <b>Key Features:</b>\n• Compress videos to target file sizes\n• Automatic calculation of ABR, resolution, framerate, and audio quality\n• Bulk compression\n• Customizable framerate limits\n• Choice of codecs (H.264, HEVC, AV1, VP9)\n<br>\n📖 <b>Summary:</b>\nConstrict is a desktop application designed to compress video files to a specific target file size. It automates the process of determining optimal encoding parameters like bitrate, resolution, and framerate, offering a user-friendly interface for bulk video compression locally.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Wartybix/Constrict?embed=0\">View Project</a>\n• <a href=\"https://apps.gnome.org/Constrict?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/65e1557b6cf0ea33a2f80aa0ae4206cdf537ce5f4aec7aeb839dc568042b87c9/Wartybix/Constrict",
+        "platform": "telegram",
+        "quality_score": 0.6499999999999999
     }
 ]
