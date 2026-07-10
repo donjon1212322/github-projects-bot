@@ -1,173 +1,121 @@
 [
     {
-        "id": 109605983,
-        "name": "microrealestate",
-        "description": "This is an Open Source Real estate management system that helps landlords to manage their rentals and properties",
-        "url": "https://github.com/microrealestate/microrealestate",
-        "language": "JavaScript",
-        "stars": 1124,
-        "forks": 394,
-        "created_at": "2017-11-05T18:43:50Z",
-        "updated_at": "2026-07-09T00:36:48Z",
+        "id": 568263051,
+        "name": "gaia-maker",
+        "description": "Planet and terraforming simulation game written in Rust",
+        "url": "https://github.com/garkimasera/gaia-maker",
+        "language": "Rust",
+        "stars": 76,
+        "forks": 5,
+        "created_at": "2022-11-20T00:28:33Z",
+        "updated_at": "2026-07-06T08:07:57Z",
         "topics": [
-            "landlord",
-            "open-source",
-            "opensource",
-            "property-management",
-            "real-estate",
-            "realestate",
-            "rental"
+            "game",
+            "rust",
+            "simulation"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2026-06-24T08:20:20Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/00c03d3dbc512e0ceca99d4b8b77ff2c4597f452c315a36fa3c50794463783a7/garkimasera/gaia-maker"
+        ],
+        "homepage": "",
+        "readme_summary": "Gaia Maker is a planet and terraforming simulation game developed in Rust. It offers a detailed simulation of planetary physics, geology, and environmental cycles, allowing players to influence and shape entire worlds through dynamic gameplay and various terraforming tools.",
+        "key_features": [
+            "Planet simulation based on real physics and geology",
+            "Detailed simulation of temperature, biomass, carbon cycle, insolation, and atmospheric composition",
+            "Dynamic gameplay with player actions impacting the entire planet",
+            "Resource acquisition via fusion reactors and Dyson swarms",
+            "Terraforming facilities and methods (oxygen generators, aerosol injection)",
+            "Animal breeding and habitat expansion",
+            "Simulation of civilization evolution and planetary impact",
+            "Dynamic events affecting civilizations (plagues, wars)",
+            "Multiple distinct planet types"
+        ],
+        "primary_use_case": "A simulation game where players terraform and manage planets.",
+        "open_issues": 2,
+        "cover_image_prompt": "A 3D isometric illustration of a miniature, vibrant planet being sculpted by a pair of glowing, ethereal hands. One hand gently adjusts atmospheric clouds, while the other places lush forests and flowing rivers onto the barren surface. Small, holographic screens float around the planet, displaying real-time data streams of temperature, biomass, and atmospheric composition. Subtle digital particles emanate from the hands, representing the terraforming process. The planet's surface shows distinct biomes forming, and tiny, stylized civilizations begin to emerge. The overall mood is one of creation and meticulous control, set against a cosmic backdrop with the 'Gaia Maker' logo subtly integrated into a nebula. The style should be clean, detailed, and visually engaging, emphasizing the transformation of a world."
+    },
+    {
+        "id": 1048067190,
+        "name": "sshm",
+        "description": "SSHM is a beautiful command-line tool that transforms how you manage and connect to your SSH hosts. Built with Go and featuring an intuitive TUI interface, it makes SSH connection management effortless and enjoyable.",
+        "url": "https://github.com/Gu1llaum-3/sshm",
+        "language": "Go",
+        "stars": 1255,
+        "forks": 68,
+        "created_at": "2025-08-31T20:56:25Z",
+        "updated_at": "2026-07-10T07:39:44Z",
+        "topics": [],
+        "quality_score": 0.7999999999999999,
+        "contributors_count": 0,
+        "last_commit_date": "2026-02-25T19:27:22Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/a952671454a265a5e42a45b09342beec9332d9dbfaf458f58487b594797a28a2/Gu1llaum-3/sshm"
+        ],
+        "homepage": null,
+        "readme_summary": "SSHM is a Go-based command-line tool that provides a beautiful and intuitive Text User Interface (TUI) for managing SSH connections. It simplifies adding, editing, and connecting to hosts, offering features like port forwarding, tagging, and real-time status indicators.",
+        "key_features": [
+            "Beautiful TUI Interface",
+            "Quick Connect",
+            "Port Forwarding",
+            "Easy Management",
+            "Tag Support",
+            "Smart Search",
+            "Real-time Status",
+            "Smart Updates",
+            "Connection History",
+            "Secure (works with ~/.ssh/config)",
+            "Custom Config Support",
+            "SSH Include Support",
+            "SSH Options Support",
+            "Automatic Conversion",
+            "Automatic Backups",
+            "Validation",
+            "ProxyJump/ProxyCommand Support",
+            "Keyboard Shortcuts",
+            "Cross-platform",
+            "Lightweight"
+        ],
+        "primary_use_case": "Managing and connecting to SSH hosts through an interactive terminal user interface.",
+        "open_issues": 19,
+        "cover_image_prompt": "A friendly, stylized librarian meticulously organizing a vast, glowing library of interconnected servers and network cables. The librarian uses a magical, illuminated book (representing the SSHM TUI) to instantly pull up and connect to specific server 'shelves' with a tap. Each server shelf has a status light (green for active, red for offline). Subtle digital particles and data streams flow between the librarian's book and the servers, indicating seamless connection management. The scene is set in a clean, modern digital space with a cool blue and green color palette, emphasizing order and efficiency. The image should be in a 3D isometric illustration style with clear, crisp details."
+    },
+    {
+        "id": 503826181,
+        "name": "tlock",
+        "description": "Timelock Encryption made practical. The Go `tlock` library and the `tle` cmd line tool home to encrypt towards the future.",
+        "url": "https://github.com/drand/tlock",
+        "language": "Go",
+        "stars": 664,
+        "forks": 34,
+        "created_at": "2022-06-15T15:38:53Z",
+        "updated_at": "2026-07-10T06:15:15Z",
+        "topics": [
+            "age-encryption",
+            "cryptography",
+            "encryption-decryption",
+            "hacktoberfest",
+            "timelock"
         ],
         "quality_score": 0.7999999999999999,
         "contributors_count": 0,
-        "last_commit_date": "2025-12-09T21:17:00Z",
+        "last_commit_date": "2025-12-22T17:01:41Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/885e5f218726a7975a9d49e5f405b580d24cb84af612f4ede2941b54e975dadf/microrealestate/microrealestate"
+            "https://repository-images.githubusercontent.com/503826181/27d890de-7547-495a-b396-5568d67c7493"
         ],
         "homepage": "",
-        "readme_summary": "MicroRealEstate is an open-source JavaScript application designed to help landlords manage their rental properties. It provides a centralized platform for storing property and tenant information, creating leases, tracking rent payments, generating custom documents, and facilitating collaboration among users.",
+        "readme_summary": "The tlock library and tle command-line tool enable practical timelock encryption and decryption using drand's threshold network. It allows users to encrypt data that can only be decrypted after a specified future round, providing a way to schedule future access to sensitive information.",
         "key_features": [
-            "Centralized Property and Tenant Information",
-            "Rent Lease Creation",
-            "Rent Payment Tracking",
-            "Custom Document Generation",
-            "Collaboration"
+            "Timelock encryption and decryption",
+            "Integration with drand threshold network",
+            "Go library and `tle` CLI tool",
+            "Support for mainnet and testnet drand networks",
+            "Production-ready mainnet with high-availability guarantees"
         ],
-        "primary_use_case": "Property and rental management for landlords.",
-        "open_issues": 27,
-        "cover_image_prompt": "A friendly, organized landlord character is depicted as a conductor leading an orchestra. Instead of musical instruments, the orchestra members are holding various property management elements: one holds a ledger for rent payments, another a scroll representing leases, a third a blueprint for properties, and a fourth a megaphone for tenant notices. The conductor uses a glowing baton that emits digital particles, harmonizing all these elements into a smooth, efficient operation. In the background, subtle UI elements of the MicroRealEstate application are visible on floating screens. The scene is bright and clean, rendered in a 3D isometric illustration style with a focus on clarity and organization, symbolizing streamlined property management."
-    },
-    {
-        "id": 232181980,
-        "name": "dangerzone",
-        "description": "Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs",
-        "url": "https://github.com/freedomofpress/dangerzone",
-        "language": "Python",
-        "stars": 5583,
-        "forks": 262,
-        "created_at": "2020-01-06T20:42:37Z",
-        "updated_at": "2026-07-09T07:13:20Z",
-        "topics": [],
-        "quality_score": 1.05,
-        "contributors_count": 0,
-        "last_commit_date": "2026-07-02T11:48:24Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/01cdb8ba27d0bb335f911e2ec1d7b1eb1919065dd4f89954d2bbb643bfbcd2fc/freedomofpress/dangerzone"
-        ],
-        "homepage": "https://dangerzone.rocks",
-        "readme_summary": "Dangerzone is a security tool that converts potentially dangerous documents (PDFs, Office files, images) into safe, pixel-based PDFs. It achieves this by processing the documents within an isolated sandbox environment, stripping away any executable content and rendering them as raw image data before reconstructing them into a new, secure PDF.",
-        "key_features": [
-            "Sandboxed document conversion",
-            "Network-isolated processing",
-            "Conversion of PDFs, Office documents, and images",
-            "Optional OCR for text layer",
-            "PDF compression",
-            "Default opening in Dangerzone for safety",
-            "Uses gVisor for sandboxing",
-            "Uses Podman containers"
-        ],
-        "primary_use_case": "To securely convert untrusted documents into a safe PDF format, mitigating risks from malicious content.",
-        "open_issues": 185,
-        "cover_image_prompt": "A medieval alchemist in a secure, glass laboratory, carefully placing a suspicious-looking, ornate scroll (representing an untrusted document) into a bubbling, transparent cauldron. The cauldron is surrounded by a protective force field, symbolizing the sandbox. Inside the cauldron, the scroll dissolves into pure, glowing light particles. From the other side of the cauldron, a pristine, simple scroll emerges, emitting a soft, safe glow. Subtle digital data streams flow around the lab, and the 'Dangerzone' logo is etched onto a nearby workbench. The style should be a 3D isometric illustration with a clean, modern aesthetic, emphasizing the transformation from danger to safety."
-    },
-    {
-        "id": 1107707259,
-        "name": "ease-master",
-        "description": "Design motion that feels real. The ultimate easing visualization and generation tool for modern frontend development.",
-        "url": "https://github.com/satishkumarsajjan/ease-master",
-        "language": "TypeScript",
-        "stars": 103,
-        "forks": 10,
-        "created_at": "2025-12-01T14:02:34Z",
-        "updated_at": "2026-06-28T03:50:33Z",
-        "topics": [],
-        "quality_score": 0.6000000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2025-12-15T09:44:21Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/a89347ccd64f35f252a1268cb32a6def6a2fbaf98ffe4b6a44841321868f1bcb/satishkumarsajjan/ease-master"
-        ],
-        "homepage": "https://easemaster.satisui.xyz/",
-        "readme_summary": "EaseMaster is a TypeScript-based tool for modern frontend development that visualizes and generates easing functions for animations. It allows designers and developers to create and export custom Cubic Bezier curves and Spring physics animations into production-ready code for CSS, Tailwind CSS, Framer Motion, and GSAP.",
-        "key_features": [
-            "Dual Modes: Cubic Bezier Editor and Spring Physics Engine",
-            "Multi-Framework Export: CSS, Tailwind CSS, Framer Motion, GSAP",
-            "Advanced Preview Playground",
-            "Smart Presets (Industry Standards, OS-style springs)",
-            "Linear Approximation for Spring-to-CSS conversion",
-            "Theming with Shadcn UI compatibility and Dark/Light mode"
-        ],
-        "primary_use_case": "Visualizing, designing, and generating animation easing functions for frontend development across multiple frameworks.",
-        "open_issues": 1,
-        "cover_image_prompt": "A skilled artisan, representing EaseMaster, stands at a workbench. On one side, they are meticulously sculpting a smooth, flowing curve from a block of raw digital clay (representing Cubic Bezier). On the other side, they are carefully tuning a complex, spring-loaded mechanism that emits organic, bouncy energy (representing Spring Physics). Both processes feed into a magical conduit that instantly generates clean, ready-to-use code snippets for CSS, Framer Motion, and GSAP, which are then handed off to eager developers. The scene is set in a bright, modern studio with subtle UI elements and glowing lines of code integrated into the background. Style: 3D isometric illustration with a clean, vibrant color palette."
-    },
-    {
-        "id": 1107794394,
-        "name": "winshot",
-        "description": "WinShot - A Windows screenshot tool with annotation, crop, and export features built with Wails (Go + React/TypeScript)",
-        "url": "https://github.com/mrgoonie/winshot",
-        "language": "TypeScript",
-        "stars": 544,
-        "forks": 53,
-        "created_at": "2025-12-01T16:10:03Z",
-        "updated_at": "2026-07-09T08:11:55Z",
-        "topics": [
-            "capture",
-            "desktop",
-            "screenshot",
-            "windows",
-            "winshot"
-        ],
-        "quality_score": 0.7000000000000001,
-        "contributors_count": 0,
-        "last_commit_date": "2026-01-25T14:30:36Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/798c189a35ba8c16ddec60b1e75dea8b5aebc2ff86f240d6f941e1514256d42b/mrgoonie/winshot"
-        ],
-        "homepage": "http://winshot.claudekit.cc/",
-        "readme_summary": "WinShot is a lightweight and performant screenshot tool for Windows, built with Wails (Go + React). It offers a modern glassmorphism UI and a wide range of features for capturing, annotating, and exporting screenshots efficiently.",
-        "key_features": [
-            "Multiple capture modes (Fullscreen, Region, Window, Hotkey)",
-            "Rich annotation tools (Shapes, Arrows, Text, Numbers, Spotlight)",
-            "Non-destructive editing and cropping",
-            "Multiple export formats (PNG, JPEG) and output ratios",
-            "System tray integration and global hotkeys",
-            "Smaller footprint and native performance compared to Electron apps"
-        ],
-        "primary_use_case": "Capturing, annotating, and exporting screenshots on Windows with a user-friendly interface and advanced editing tools.",
-        "open_issues": 15,
-        "cover_image_prompt": "A digital artist's workbench, bathed in soft, ambient light. In the center, a magical quill pen hovers over a blank canvas, actively drawing a detailed screenshot of a bustling city skyline. The quill is leaving behind vibrant annotations like glowing arrows, text bubbles, and numbered markers, transforming the raw capture into a polished visual story. Subtle UI elements resembling a clean, modern interface are visible on a nearby floating screen, displaying capture options and export settings. The overall scene uses a glassmorphism aesthetic with translucent panels and soft gradients, conveying both creativity and technical precision. The repository name 'WinShot' is subtly etched into the wooden workbench. 3D isometric illustration style, highly detailed, vibrant yet soft color palette."
-    },
-    {
-        "id": 1025585990,
-        "name": "PCLink",
-        "description": "Cross-platform desktop app for secure remote PC control and management, featuring a lightweight built-in WebUI and API for local or remote access.",
-        "url": "https://github.com/BYTEDz/PCLink",
-        "language": "Python",
-        "stars": 590,
-        "forks": 33,
-        "created_at": "2025-07-24T13:33:33Z",
-        "updated_at": "2026-07-09T06:41:19Z",
-        "topics": [],
-        "quality_score": 0.8999999999999999,
-        "contributors_count": 0,
-        "last_commit_date": "2026-06-28T17:49:49Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/1025585990/c26a8462-aeae-4fb8-86b7-e06bd5447e23"
-        ],
-        "homepage": "",
-        "readme_summary": "PCLink is a cross-platform desktop application that provides secure remote PC control and management. It features a lightweight built-in WebUI and API, enabling local or remote access to your computer's functionalities.",
-        "key_features": [
-            "Web-First Management",
-            "Zero-Trust Security",
-            "Peripheral Sync",
-            "Remote Explorer",
-            "Integrated Shell",
-            "Ultra-Low Latency Streaming",
-            "Extensible Architecture"
-        ],
-        "primary_use_case": "Secure remote PC control and management via a web interface and API.",
-        "open_issues": 2,
-        "cover_image_prompt": "A stylized, glowing digital key seamlessly unlocking and opening a detailed, realistic computer monitor, revealing a vibrant, organized control panel inside. The key has 'PCLink' subtly etched onto its surface. Floating around the monitor are abstract representations of data streams and control signals, indicating remote access and management. The background is a clean, dark gradient, focusing all attention on the key and monitor. The overall mood is secure, efficient, and modern. Rendered in a 3D isometric illustration style with a focus on clean lines and a sophisticated color palette of blues, silvers, and subtle glows."
+        "primary_use_case": "Encrypting data that should only become accessible at a specific future point in time, determined by a drand network round.",
+        "open_issues": 5,
+        "cover_image_prompt": "A futuristic vault door with a complex, glowing lock mechanism. Instead of a keyhole, the lock has a digital display showing a future date and round number. A beam of light emanates from a drand beacon (a stylized, glowing sphere with network nodes) and strikes the lock, initiating a countdown. As the countdown progresses, the vault door slowly begins to open, revealing a shimmering, protected data artifact within. Subtle UI elements showing round numbers and encryption progress are visible on a nearby console. The overall style is a 3D isometric illustration with a dark, high-tech aesthetic and vibrant, glowing accents."
     }
 ]

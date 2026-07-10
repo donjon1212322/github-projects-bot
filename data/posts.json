@@ -1,37 +1,23 @@
 [
     {
-        "project_id": 109605983,
-        "content": "✨ <b>microrealestate</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProperty and rental management for landlords.\n<br>\n✨ <b>Key Features:</b>\n• Centralized Property and Tenant Information\n• Rent Lease Creation\n• Rent Payment Tracking\n• Custom Document Generation\n• Collaboration\n<br>\n📖 <b>Summary:</b>\nMicroRealEstate is an open-source JavaScript application designed to help landlords manage their rental properties. It provides a centralized platform for storing property and tenant information, creating leases, tracking rent payments, generating custom documents, and facilitating collaboration among users.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/microrealestate/microrealestate?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/885e5f218726a7975a9d49e5f405b580d24cb84af612f4ede2941b54e975dadf/microrealestate/microrealestate",
+        "project_id": 568263051,
+        "content": "💡 <b>gaia-maker</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nA simulation game where players terraform and manage planets.\n<br>\n✨ <b>Key Features:</b>\n• Planet simulation based on real physics and geology\n• Detailed simulation of temperature, biomass, carbon cycle, insolation, and atmospheric composition\n• Dynamic gameplay with player actions impacting the entire planet\n• Resource acquisition via fusion reactors and Dyson swarms\n• Terraforming facilities and methods (oxygen generators, aerosol injection)\n<br>\n📖 <b>Summary:</b>\nGaia Maker is a planet and terraforming simulation game developed in Rust. It offers a detailed simulation of planetary physics, geology, and environmental cycles, allowing players to influence and shape entire worlds through dynamic gameplay and various terraforming tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/garkimasera/gaia-maker?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/00c03d3dbc512e0ceca99d4b8b77ff2c4597f452c315a36fa3c50794463783a7/garkimasera/gaia-maker",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 1048067190,
+        "content": "🔥 <b>sshm</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging and connecting to SSH hosts through an interactive terminal user interface.\n<br>\n✨ <b>Key Features:</b>\n• Beautiful TUI Interface\n• Quick Connect\n• Port Forwarding\n• Easy Management\n• Tag Support\n<br>\n📖 <b>Summary:</b>\nSSHM is a Go-based command-line tool that provides a beautiful and intuitive Text User Interface (TUI) for managing SSH connections. It simplifies adding, editing, and connecting to hosts, offering features like port forwarding, tagging, and real-time status indicators.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Gu1llaum-3/sshm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a952671454a265a5e42a45b09342beec9332d9dbfaf458f58487b594797a28a2/Gu1llaum-3/sshm",
         "platform": "telegram",
         "quality_score": 0.7999999999999999
     },
     {
-        "project_id": 232181980,
-        "content": "💡 <b>dangerzone</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo securely convert untrusted documents into a safe PDF format, mitigating risks from malicious content.\n<br>\n✨ <b>Key Features:</b>\n• Sandboxed document conversion\n• Network-isolated processing\n• Conversion of PDFs, Office documents, and images\n• Optional OCR for text layer\n• PDF compression\n<br>\n📖 <b>Summary:</b>\nDangerzone is a security tool that converts potentially dangerous documents (PDFs, Office files, images) into safe, pixel-based PDFs. It achieves this by processing the documents within an isolated sandbox environment, stripping away any executable content and rendering them as raw image data before reconstructing them into a new, secure PDF.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/freedomofpress/dangerzone?embed=0\">View Project</a>\n• <a href=\"https://dangerzone.rocks?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/01cdb8ba27d0bb335f911e2ec1d7b1eb1919065dd4f89954d2bbb643bfbcd2fc/freedomofpress/dangerzone",
+        "project_id": 503826181,
+        "content": "🚀 <b>tlock</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nEncrypting data that should only become accessible at a specific future point in time, determined by a drand network round.\n<br>\n✨ <b>Key Features:</b>\n• Timelock encryption and decryption\n• Integration with drand threshold network\n• Go library and `tle` CLI tool\n• Support for mainnet and testnet drand networks\n• Production-ready mainnet with high-availability guarantees\n<br>\n📖 <b>Summary:</b>\nThe tlock library and tle command-line tool enable practical timelock encryption and decryption using drand's threshold network. It allows users to encrypt data that can only be decrypted after a specified future round, providing a way to schedule future access to sensitive information.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/drand/tlock?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/503826181/27d890de-7547-495a-b396-5568d67c7493",
         "platform": "telegram",
-        "quality_score": 1.05
-    },
-    {
-        "project_id": 1107707259,
-        "content": "🌟 <b>ease-master</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nVisualizing, designing, and generating animation easing functions for frontend development across multiple frameworks.\n<br>\n✨ <b>Key Features:</b>\n• Dual Modes: Cubic Bezier Editor and Spring Physics Engine\n• Multi-Framework Export: CSS, Tailwind CSS, Framer Motion, GSAP\n• Advanced Preview Playground\n• Smart Presets (Industry Standards, OS-style springs)\n<br>\n📖 <b>Summary:</b>\nEaseMaster is a TypeScript-based tool for modern frontend development that visualizes and generates easing functions for animations. It allows designers and developers to create and export custom Cubic Bezier curves and Spring physics animations into production-ready code for CSS, Tailwind CSS, Framer Motion, and GSAP.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/satishkumarsajjan/ease-master?embed=0\">View Project</a>\n• <a href=\"https://easemaster.satisui.xyz/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a89347ccd64f35f252a1268cb32a6def6a2fbaf98ffe4b6a44841321868f1bcb/satishkumarsajjan/ease-master",
-        "platform": "telegram",
-        "quality_score": 0.6000000000000001
-    },
-    {
-        "project_id": 1107794394,
-        "content": "💡 <b>winshot</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCapturing, annotating, and exporting screenshots on Windows with a user-friendly interface and advanced editing tools.\n<br>\n✨ <b>Key Features:</b>\n• Multiple capture modes (Fullscreen, Region, Window, Hotkey)\n• Rich annotation tools (Shapes, Arrows, Text, Numbers, Spotlight)\n• Non-destructive editing and cropping\n• Multiple export formats (PNG, JPEG) and output ratios\n• System tray integration and global hotkeys\n<br>\n📖 <b>Summary:</b>\nWinShot is a lightweight and performant screenshot tool for Windows, built with Wails (Go + React). It offers a modern glassmorphism UI and a wide range of features for capturing, annotating, and exporting screenshots efficiently.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mrgoonie/winshot?embed=0\">View Project</a>\n• <a href=\"http://winshot.claudekit.cc/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/798c189a35ba8c16ddec60b1e75dea8b5aebc2ff86f240d6f941e1514256d42b/mrgoonie/winshot",
-        "platform": "telegram",
-        "quality_score": 0.7000000000000001
-    },
-    {
-        "project_id": 1025585990,
-        "content": "✨ <b>PCLink</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSecure remote PC control and management via a web interface and API.\n<br>\n✨ <b>Key Features:</b>\n• Web-First Management\n• Zero-Trust Security\n• Peripheral Sync\n• Remote Explorer\n• Integrated Shell\n<br>\n📖 <b>Summary:</b>\nPCLink is a cross-platform desktop application that provides secure remote PC control and management. It features a lightweight built-in WebUI and API, enabling local or remote access to your computer's functionalities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BYTEDz/PCLink?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1025585990/c26a8462-aeae-4fb8-86b7-e06bd5447e23",
-        "platform": "telegram",
-        "quality_score": 0.8999999999999999
+        "quality_score": 0.7999999999999999
     }
 ]
