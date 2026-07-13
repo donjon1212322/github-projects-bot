@@ -1,30 +1,23 @@
 [
     {
-        "project_id": 1014959488,
-        "content": "🌟 <b>voicetypr</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nOffline voice-to-text dictation for enhanced productivity on macOS and Windows.\n<br>\n✨ <b>Key Features:</b>\n• System-wide hotkey for quick recording\n• Automatic text insertion at cursor position\n• Works in any app\n• Local transcription by default\n• Multiple AI model sizes for accuracy/speed tradeoffs\n<br>\n📖 <b>Summary:</b>\nVoicetypr is an open-source, offline AI-powered voice-to-text dictation tool for macOS and Windows. It offers local transcription for privacy, supports numerous languages, and can optionally enhance transcriptions using cloud AI services.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/moinulmoin/voicetypr?embed=0\">View Project</a>\n• <a href=\"https://voicetypr.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1014959488/9441631f-11ff-4029-a38b-ed6d8db7e8d2",
+        "project_id": 1179087934,
+        "content": "✨ <b>macshot</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing the screenshot and screen recording workflow on macOS with advanced editing, annotation, and sharing features.\n<br>\n✨ <b>Key Features:</b>\n• Annotation tools\n• Screen recording with video editor\n• Scroll capture\n• Upload to cloud services (Google Drive, S3-compatible)\n• OCR + translation\n<br>\n📖 <b>Summary:</b>\nMacshot is a feature-rich, native macOS application for taking screenshots and recording the screen. It offers extensive annotation tools, screen recording with a built-in editor, OCR capabilities, automatic PII redaction, scroll capture, and cloud uploading, all without subscriptions and built with Swift and AppKit for a lightweight, native experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sw33tLie/macshot?embed=0\">View Project</a>\n• <a href=\"https://macshot.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/20eb3eeb9e54673f894483e78ddff9a2f1526053c92bbb39e12ef647c8361f1a/sw33tLie/macshot",
         "platform": "telegram",
-        "quality_score": 1.2000000000000002
+        "quality_score": 1.1
     },
     {
-        "project_id": 1059035975,
-        "content": "🚀 <b>commonforms</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automate the process of transforming static PDF documents into interactive, fillable forms, making data entry and document processing more efficient.\n<br>\n✨ <b>Key Features:</b>\n• Automatic PDF to fillable form conversion\n• CLI and API for form preparation\n• Supports FFDNet-S and FFDNet-L models\n• Option to keep existing fields\n• Option to use signature fields\n<br>\n📖 <b>Summary:</b>\nCommonForms is a Python package that automatically converts standard PDF documents into fillable forms by detecting and marking form fields. It provides both a command-line interface (CLI) and an API for this conversion process, leveraging pre-trained models like FFDNet-S and FFDNet-L.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jbarrow/commonforms?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d1bb1ff502565defb1f4fa5d987ee02db756e05397f1d18bd97274b262d18637/jbarrow/commonforms",
+        "project_id": 62965269,
+        "content": "🌟 <b>sistine</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling touchscreen functionality on a MacBook without dedicated hardware.\n<br>\n✨ <b>Key Features:</b>\n• Turns MacBook into a touchscreen\n• Uses $1 of hardware\n• Utilizes computer vision\n• Leverages built-in webcam\n• Translates video feed into touch events\n<br>\n📖 <b>Summary:</b>\nProject Sistine transforms a MacBook into a functional touchscreen using minimal hardware and computer vision. It leverages the MacBook's built-in webcam and a small mirror to detect finger proximity and touches on the screen, translating them into input events.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bijection/sistine?embed=0\">View Project</a>\n• <a href=\"https://www.anishathalye.com/2018/04/03/macbook-touchscreen/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/67e935d355b1d82c4d076bd18be402669f91f035ff2011c6f1445487091a0d2c/bijection/sistine",
         "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 0.45
     },
     {
-        "project_id": 28627558,
-        "content": "✨ <b>fort</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with advanced control over network connections on their Windows machines, enhancing security and managing bandwidth usage.\n<br>\n✨ <b>Key Features:</b>\n• Flexible network rules per application or global\n• Wildcards in application path names\n• Parent process based rules\n• Filter by SvcHost.exe service names\n• Speed limit application groups\n<br>\n📖 <b>Summary:</b>\nFort Firewall is a robust and user-friendly firewall application for Windows, designed to provide granular control over network traffic. It allows users to create flexible rules based on applications, addresses, ports, and protocols, with features like speed limiting and blocklists.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tnodir/fort?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/11d87d3e5ab54e8006cc1544d220f649d59705af7eb67e956820b21b910fa370/tnodir/fort",
+        "project_id": 394210346,
+        "content": "🔥 <b>RadioPlayerV3</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nStreaming music and radio content into Telegram group voice chats for continuous playback.\n<br>\n✨ <b>Key Features:</b>\n• Playlist with queuing and 24/7 radio support\n• YouTube Live stream support\n• Auto-fallback to radio when playlist ends\n• Persistent playback\n• Interactive controls\n<br>\n📖 <b>Summary:</b>\nRadioPlayerV3 is an advanced Telegram bot designed to stream music and radio directly into group voice chats. It supports playlists, YouTube live streams, and ensures persistent playback, making it ideal for continuous audio streaming in Telegram communities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AsmSafone/RadioPlayerV3?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ed83a5f48ef8de371cdc24e7457a2c63e6bbde6201ea067cc568fcbaa36dd094/AsmSafone/RadioPlayerV3",
         "platform": "telegram",
-        "quality_score": 0.8500000000000001
-    },
-    {
-        "project_id": 1102123131,
-        "content": "🌟 <b>container-diet</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nOptimizing Docker images for size, security, and best practices using AI-driven analysis and automated fixes.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered Docker image and Dockerfile analysis\n• Actionable optimization advice\n• Automatic Dockerfile fixing (`--auto-fix`)\n• Support for 12+ AI providers (OpenAI, Anthropic, Ollama, etc.)\n• CLI tool for direct usage\n<br>\n📖 <b>Summary:</b>\nContainer Diet is a Go-based CLI tool that optimizes Docker images using AI. It analyzes Dockerfiles and images to provide actionable advice and automatically generate optimized versions, aiming to reduce image size and improve security.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/k1lgor/container-diet?embed=0\">View Project</a>\n• <a href=\"https://k1lgor.github.io/container-diet/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d4e14a00d46cf81d9084393c794402a2b0ab3f63df00c7024d7d2e0bf6aa9f2c/k1lgor/container-diet",
-        "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 0.7999999999999999
     }
 ]
