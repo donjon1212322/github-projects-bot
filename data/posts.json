@@ -1,23 +1,44 @@
 [
     {
-        "project_id": 1179087934,
-        "content": "✨ <b>macshot</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing the screenshot and screen recording workflow on macOS with advanced editing, annotation, and sharing features.\n<br>\n✨ <b>Key Features:</b>\n• Annotation tools\n• Screen recording with video editor\n• Scroll capture\n• Upload to cloud services (Google Drive, S3-compatible)\n• OCR + translation\n<br>\n📖 <b>Summary:</b>\nMacshot is a feature-rich, native macOS application for taking screenshots and recording the screen. It offers extensive annotation tools, screen recording with a built-in editor, OCR capabilities, automatic PII redaction, scroll capture, and cloud uploading, all without subscriptions and built with Swift and AppKit for a lightweight, native experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sw33tLie/macshot?embed=0\">View Project</a>\n• <a href=\"https://macshot.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/20eb3eeb9e54673f894483e78ddff9a2f1526053c92bbb39e12ef647c8361f1a/sw33tLie/macshot",
+        "project_id": 1289837195,
+        "content": "🌟 <b>slojka</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA feature-rich, AI-enhanced raster graphics editor for both local and cloud-based image manipulation and generation tasks.\n<br>\n✨ <b>Key Features:</b>\n• Photoshop-style interface with layers, masks, and selections\n• Smart layers for lossless transformations\n• Local AI models for background removal (ISNet) and segmentation (SAM 2.1)\n<br>\n📖 <b>Summary:</b>\nSlojka is an AI-first, Photoshop-style graphics editor built with WebGL2. It offers advanced editing features like layers, masks, and selections, enhanced by local AI models for background removal and object segmentation (SAM 2.1). It also integrates with cloud-based AI services for image generation and editing, and features an AI assistant for command execution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HelpFreedom/slojka?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d4957b3a9ec2ee941aef8fee0856eca334b180385446cc152d564348f83f7338/HelpFreedom/slojka",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 33037215,
+        "content": "💡 <b>docker-mailserver</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nDeploying and managing a self-hosted, feature-rich mail server within a Docker container environment.\n<br>\n✨ <b>Key Features:</b>\n• Production-ready fullstack mail server in a container\n• Includes Postfix, Dovecot, Rspamd, Amavis, SpamAssassin, ClamAV, OpenDKIM, OpenDMARC, Fail2ban, Fetchmail, Getmail6, Postscreen, Postgrey\n<br>\n📖 <b>Summary:</b>\nDocker Mailserver provides a production-ready, containerized mail server solution that bundles essential services like Postfix, Dovecot, Rspamd, and ClamAV. It simplifies mail server deployment and management by using only configuration files, making it easy to version, deploy, and upgrade.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/docker-mailserver/docker-mailserver?embed=0\">View Project</a>\n• <a href=\"https://docker-mailserver.github.io/docker-mailserver/latest/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/33037215/533fdc00-7d03-11eb-808d-bfc8f3d87004",
         "platform": "telegram",
         "quality_score": 1.1
     },
     {
-        "project_id": 62965269,
-        "content": "🌟 <b>sistine</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling touchscreen functionality on a MacBook without dedicated hardware.\n<br>\n✨ <b>Key Features:</b>\n• Turns MacBook into a touchscreen\n• Uses $1 of hardware\n• Utilizes computer vision\n• Leverages built-in webcam\n• Translates video feed into touch events\n<br>\n📖 <b>Summary:</b>\nProject Sistine transforms a MacBook into a functional touchscreen using minimal hardware and computer vision. It leverages the MacBook's built-in webcam and a small mirror to detect finger proximity and touches on the screen, translating them into input events.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bijection/sistine?embed=0\">View Project</a>\n• <a href=\"https://www.anishathalye.com/2018/04/03/macbook-touchscreen/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/67e935d355b1d82c4d076bd18be402669f91f035ff2011c6f1445487091a0d2c/bijection/sistine",
+        "project_id": 241856473,
+        "content": "🚀 <b>deface</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAnonymizing faces in video and image content for privacy preservation.\n<br>\n✨ <b>Key Features:</b>\n• Automatic face detection and anonymization in videos/photos\n• Supports blurring, black boxes, and image replacement for anonymization\n• Command-line interface for easy usage\n• Optional audio track discarding\n• Support for multiple backends (ONNX Runtime, OpenCV)\n<br>\n📖 <b>Summary:</b>\nDeface is a Python-based command-line tool that automatically anonymizes faces in videos and photos by detecting them and applying blur or black boxes. It also discards audio tracks by default and supports various anonymization backends and hardware acceleration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ORB-HD/deface?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ad1b28170c5c6289e0bcd77eefb798c68b3840ed32e464f88d9ae27f517e1779/ORB-HD/deface",
         "platform": "telegram",
-        "quality_score": 0.45
+        "quality_score": 0.65
     },
     {
-        "project_id": 394210346,
-        "content": "🔥 <b>RadioPlayerV3</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nStreaming music and radio content into Telegram group voice chats for continuous playback.\n<br>\n✨ <b>Key Features:</b>\n• Playlist with queuing and 24/7 radio support\n• YouTube Live stream support\n• Auto-fallback to radio when playlist ends\n• Persistent playback\n• Interactive controls\n<br>\n📖 <b>Summary:</b>\nRadioPlayerV3 is an advanced Telegram bot designed to stream music and radio directly into group voice chats. It supports playlists, YouTube live streams, and ensures persistent playback, making it ideal for continuous audio streaming in Telegram communities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AsmSafone/RadioPlayerV3?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ed83a5f48ef8de371cdc24e7457a2c63e6bbde6201ea067cc568fcbaa36dd094/AsmSafone/RadioPlayerV3",
+        "project_id": 973688295,
+        "content": "💡 <b>rustnet</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time, per-process network traffic monitoring and analysis directly from the terminal, bridging the gap between simple connection listing tools and full packet capture analyzers.\n<br>\n✨ <b>Key Features:</b>\n• Per-process attribution of network connections\n• Deep packet inspection for multiple protocols (HTTP, TLS/SNI, DNS, QUIC, etc.)\n• Annotated PCAPNG export with process and GeoIP information\n<br>\n📖 <b>Summary:</b>\nRustNet is a cross-platform, terminal-based network monitoring tool that provides per-process visibility into live TCP, UDP, and QUIC connections. It features deep packet inspection for various protocols and offers enhanced security through sandboxing mechanisms.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/domcyrus/rustnet?embed=0\">View Project</a>\n• <a href=\"https://github.com/domcyrus/rustnet#quick-start?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d28a7a0cf3ef15ae026c9bd8272fdf11938eb0d7f04bf3dcd89e999531516383/domcyrus/rustnet",
         "platform": "telegram",
-        "quality_score": 0.7999999999999999
+        "quality_score": 1.2000000000000002
+    },
+    {
+        "project_id": 706876279,
+        "content": "💡 <b>Pentaract</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a decentralized and cost-effective cloud storage solution by utilizing the Telegram messaging platform as the underlying storage medium.\n<br>\n✨ <b>Key Features:</b>\n• Unlimited file cloud storage using Telegram API\n• Minimal server disk space usage\n• No reliance on server filesystem or paid cloud storage\n• REST API for integration\n• Personal or multi-user deployment options\n<br>\n📖 <b>Summary:</b>\nPentaract is a cloud storage system that leverages the Telegram API for storage, minimizing server disk space usage and eliminating the need for external cloud services. It offers a REST API for integration and can be deployed personally or for multiple users.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Dominux/Pentaract?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9ca760a78c8f50e2eb861f224d14cb626e89b55d0a11aa18ead58ff8d676c469/Dominux/Pentaract",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 599360014,
+        "content": "💡 <b>REAL-Video-Enhancer</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing the quality and resolution of video content through AI-powered interpolation, upscaling, decompression, and denoising, accessible via a user-friendly interface on multiple operating systems.\n<br>\n✨ <b>Key Features:</b>\n• Video interpolation and upscaling\n• Decompression and denoising\n• Cross-platform support (Windows, Linux, macOS)\n<br>\n📖 <b>Summary:</b>\nREAL Video Enhancer is a Python-based application designed to improve video quality by interpolating frames, upscaling resolution, decompressing, and denoising content. It supports Windows, Linux, and macOS, offering a user-friendly GUI and leveraging advanced AI models and backends like TensorRT and NCNN for efficient processing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TNTwise/REAL-Video-Enhancer?embed=0\">View Project</a>\n• <a href=\"https://discord.gg/mRReVBMQtN?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a0eb5db4281998ae29dfcbe7ccab05de008958d3729ff4e6c1f1e465869308bc/TNTwise/REAL-Video-Enhancer",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
     }
 ]
