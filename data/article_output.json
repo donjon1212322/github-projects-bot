@@ -1,26 +1,26 @@
 {
-    "title": "RustNet: Unveiling Your System's Network Activity, Live in Your Terminal!",
-    "article": "Ever felt like you're flying blind when it comes to your system's network connections? You know `netstat` and `ss` give you a snapshot, and `tcpdump` or Wireshark offer deep dives, but what if you need something in between? Something that tells you *which process* owns that mysterious connection, what protocol it's speaking, and does it all live, right in your terminal? Well, get ready to meet RustNet, a game-changer for anyone who needs real-time, per-process network visibility without the hassle.\n\nRustNet is a powerful, cross-platform terminal-based tool that provides live monitoring of all TCP, UDP, and QUIC connections on your machine. Its core magic lies in its ability to attribute every single connection to its owning process. This is a huge leap beyond traditional tools like `tcpdump` or Wireshark, which only see packets and can't tell you which application is responsible. RustNet achieves this on Linux using eBPF, on macOS with PKTAP, and through native APIs on Windows and FreeBSD, making it incredibly versatile.\n\nBeyond just showing connections, RustNet offers deep packet inspection, intelligently identifying common protocols like HTTP, HTTPS/TLS (with SNI!), DNS, SSH, FTP, and many more, all without needing external dissectors. Imagine instantly seeing that a connection is an MQTT stream or a BitTorrent transfer, directly in your terminal. This level of insight is invaluable for debugging, security analysis, or simply understanding your system's behavior.\n\nDevelopers will especially appreciate features like real-time TCP network analytics, which pinpoint retransmissions, out-of-order packets, and fast-retransmits per connection. This can be a lifesaver when troubleshooting network performance issues. The tool also boasts smart connection lifecycle management with visual indicators for connection staleness, and a toggle to keep historic connections visible for forensic analysis. Plus, its Vim/fzf-style filtering is incredibly powerful, letting you quickly narrow down connections by port, source, destination, SNI, process name, state, or protocol using simple commands or even regex.\n\nSecurity is also a top priority, as RustNet employs robust sandboxing mechanisms like Landlock on Linux and Seatbelt on macOS, dropping privileges immediately after initialization. This means you can gain deep insights into your network without compromising your system's security. For those working in containerized environments, an optional Kubernetes feature maps connections directly to their pods, namespaces, and containers, making it an indispensable tool for cluster debugging. RustNet even offers annotated PCAPNG export, creating Wireshark-ready captures with process, PID, and GeoIP data embedded as per-packet comments, streamlining your workflow for deeper analysis. It's truly a comprehensive solution that bridges the gap between basic network utilities and full-blown packet analyzers, giving you the clarity you need right where you work.",
+    "title": "Reclaim Your Inbox: This Free, Local Tool is Your Gmail Cleanup Superhero!",
+    "article": "Navigating an overflowing Gmail inbox can feel like an endless chore, with countless newsletters, promotional emails, and forgotten subscriptions cluttering your digital space. It's a common pain point for many developers and users alike, stealing precious time and mental energy. This is precisely the challenge that the 'Gmail Bulk Unsubscribe & Cleanup Tool' aims to solve, providing a robust, free, and privacy-focused solution to bring order back to your inbox.\n\nThe project's core purpose is to tackle the overwhelming problem of email clutter in Gmail. It empowers users to efficiently manage their inbox by offering a suite of powerful cleanup features. Imagine being able to effortlessly unsubscribe from unwanted newsletters, delete thousands of emails from a specific sender, or mark a huge backlog of unread messages as read – all with just a few clicks. This tool makes those tedious tasks simple and fast.\n\nAt its heart, the tool leverages the Gmail API to interact directly with your inbox. However, unlike many online services, it operates entirely on your local machine. This means your sensitive email data never leaves your computer, ensuring maximum privacy and security. It's designed to be incredibly fast, utilizing batch requests to process hundreds of emails with each API call, making quick work of even the most formidable email backlogs.\n\nDevelopers will especially appreciate the comprehensive feature set. You can scan your inbox to identify the biggest email culprits and then delete all messages from them in bulk. Need to organize? The tool allows for efficient label management, letting you apply or remove labels from emails by sender, or even archive them out of your primary inbox. Smart filters are also a huge time-saver, enabling you to narrow down your cleanup efforts by date range, email size, category (like Promotions or Social), or existing labels.\n\nThe beauty of this project lies in its commitment to being open-source and completely free, forever. There are no hidden subscriptions or data collection practices to worry about. For developers, this means full transparency; you can inspect the code, understand how it works, and even contribute to its development. Its cross-platform compatibility, supporting Linux, Windows, and macOS via both local Python installation and Docker, ensures that almost anyone can get it up and running with ease. It's a powerful, community-driven answer to a universal problem, offering a level of control and privacy that's hard to find elsewhere.",
     "key_takeaways": [
-        "RustNet provides live, per-process network monitoring directly within your terminal.",
-        "It offers deep packet inspection to identify various protocols like HTTP, SSH, and MQTT without external dissectors.",
-        "Developers benefit from real-time TCP analytics for troubleshooting and powerful Vim/fzf-style filtering.",
-        "The tool prioritizes security with robust sandboxing and offers optional Kubernetes integration for containerized environments.",
-        "RustNet effectively fills the crucial gap between simple connection tools and advanced packet analyzers."
+        "A free, open-source tool for powerful Gmail inbox cleanup and management.",
+        "Perform bulk unsubscribes, delete emails by sender, mark as read, and manage labels efficiently.",
+        "Runs 100% locally on your machine, guaranteeing privacy as no data ever leaves your device.",
+        "Leverages the Gmail API for super-fast batch processing of emails.",
+        "Supports all major platforms via Docker or local Python installation, making it highly accessible."
     ],
     "tags": [
-        "network-monitoring",
-        "terminal-tools",
-        "eBPF",
-        "packet-analysis",
-        "rust"
+        "Gmail Management",
+        "Email Productivity",
+        "Open Source Tool",
+        "Data Privacy",
+        "Inbox Zero"
     ],
-    "stars": 4693,
-    "forks": 216,
-    "open_issues": 10,
-    "languages": "Rust",
-    "readme_summary": "RustNet is a cross-platform, terminal-based network monitoring tool that provides per-process visibility into live TCP, UDP, and QUIC connections. It features deep packet inspection for various protocols and offers enhanced security through sandboxing mechanisms.",
-    "project_id": 973688295,
-    "url": "https://github.com/domcyrus/rustnet",
-    "description": "Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed."
+    "stars": 2017,
+    "forks": 127,
+    "open_issues": 20,
+    "languages": "Python",
+    "readme_summary": "Gmail Cleaner is a free, privacy-focused, self-hosted web application designed to help users manage their Gmail inbox. It allows for bulk operations such as unsubscribing from emails, deleting emails by sender, marking emails as read, archiving, and managing labels, all while running locally on the user's machine.",
+    "project_id": 1106450685,
+    "url": "https://github.com/Gururagavendra/gmail-cleaner",
+    "description": "web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like"
 }
