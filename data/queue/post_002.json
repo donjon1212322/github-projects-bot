@@ -1,7 +1,0 @@
-{
-    "project_id": 1231342524,
-    "content": "✨ <b>LUKSbox</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely storing and accessing sensitive files on untrusted or shared storage media, such as cloud services or external drives, with advanced cryptographic protection.\n<br>\n✨ <b>Key Features:</b>\n• Encrypted container creation for sensitive files\n• Support for passphrase, FIDO2, TPM 2.0/SEP, and hybrid post-quantum keys (ML-KEM)\n• Mounts as a real drive on Linux, macOS, and Windows\n<br>\n📖 <b>Summary:</b>\nLUKSbox is a Rust-based tool for creating encrypted file containers (vaults) that can be securely stored on untrusted media like cloud storage or USB drives. It supports modern and post-quantum cryptographic keys, including FIDO2 hardware keys and TPM, and mounts as a virtual drive on major operating systems.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/PentHertz/LUKSbox?embed=0\">View Project</a>\n• <a href=\"https://luksbox.penthertz.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/af7a84b476fc5075078b77a089168eb83050adab42b181b9c4f9afac4a49627c/PentHertz/LUKSbox",
-    "platform": "telegram",
-    "quality_score": 0.9
-}
