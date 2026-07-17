@@ -1,30 +1,30 @@
 {
-    "title": "FileBrowser Quantum: Supercharging Your Self-Hosted File Management!",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nFileBrowser Quantum is a self-hosted, web-based file manager that offers advanced features for managing files, users, and access permissions. It aims to be a user-friendly and powerful alternative to existing solutions, with a focus on a streamlined configuration and an efficient user interface.\n\n## 🔑 Key Takeaways\n\n- ✅ FileBrowser Quantum offers a powerful, free, and self-hosted web-based file manager, providing full control over your digital assets.\n\n- ✅ It features extensive login options (OIDC, LDAP, 2FA), highly customizable sharing, and granular directory-level access control for enhanced security.\n\n- ✅ The project delivers an exceptional user experience with ultra-efficient real-time search, improved media thumbnails (including 3D models), and a modern, responsive UI.\n\n- ✅ Configuration is streamlined via a `config.yaml` file, and a robust API with Swagger documentation makes integration with other tools straightforward.\n\n- ✅ Built as a massive fork, it introduces significant advancements while maintaining simplicity and ease of deployment.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 7444\n- 🍴 Forks: 387\n- ❗ Open Issues: 166\n\n\n## 🛠 Tech Stack\n- ✅ Go\n\n\nFileBrowser Quantum is a fantastic open-source project designed to give you a powerful, web-based file manager that you can host yourself. Imagine having complete control over your files, accessible from any web browser, without relying on third-party cloud services. This project makes managing your digital assets incredibly straightforward, packing a ton of advanced features into a lightweight, easy-to-deploy solution. It aims to be the go-to free, self-hosted file browsing application for everyone, providing robust capabilities in a simple package.\n\nAt its core, FileBrowser Quantum takes the beloved open-source file browser concept and supercharges it. It's built with a modern, responsive interface that looks great and works seamlessly on any device. What sets it apart are the significant enhancements: you get robust configuration options for your file sources, supporting multiple storage locations with precise include/exclude rules. Security is also a major focus, offering diverse login methods like OIDC, LDAP, JWT, and even two-factor authentication, ensuring your files are safe and access is tightly controlled.\n\nDevelopers will particularly appreciate the streamlined configuration through a simple `config.yaml` file, making setup a breeze. The project also boasts ultra-efficient SQLite indexing, which means real-time search results as you type, even across large directories. You can search by file and folder sizes and apply various filters, making finding what you need incredibly fast. Browsing files is also a joy, with better thumbnail support for a wide range of media, including office documents, videos, album artwork, and even 3D models. The interface is faster, more responsive, and even remembers your last scroll position.\n\nSharing files is highly customizable, allowing you to set expiration times, define who can access shares (including anonymous users), and even customize the look and feel of shared links. Granular access control at the directory level, scoped to specific users or groups, provides powerful management capabilities for collaborative environments. For developers looking to integrate, FileBrowser Quantum offers a robust API with long-lived tokens and a helpful Swagger page at the `/swagger` endpoint, making it easy to build custom workflows or connect with other applications. This project truly empowers you to take command of your files with unparalleled flexibility and ease.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/gtsteffaniak/filebrowser)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "Colibrì: Unleashing Gigantic AI Models on Your Laptop with Pure C Magic!",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nColibrì is a C-based runtime for large Mixture-of-Experts (MoE) models like GLM-5.2 (744B parameters) that allows them to run on consumer hardware with limited RAM by intelligently streaming model experts from disk. It manages a memory hierarchy of VRAM, RAM, and storage to maintain model quality and performance.\n\n## 🔑 Key Takeaways\n\n- ✅ Run massive MoE LLMs (744B parameters) on consumer hardware with ~25GB RAM.\n\n- ✅ Leverages a smart memory hierarchy (RAM, disk streaming) for efficient resource use.\n\n- ✅ Built in pure C with zero dependencies for high performance and minimal overhead.\n\n- ✅ Enables local AI inference, reducing cloud costs and enhancing privacy.\n\n- ✅ Features like compressed KV-cache and speculative decoding boost inference speed.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 15150\n- 🍴 Forks: 1332\n- ❗ Open Issues: 27\n\n\n## 🛠 Tech Stack\n- ✅ C\n\n\nEver dreamed of running a massive, hundreds-of-billions-of-parameters AI model right on your personal computer, without needing a super expensive GPU farm? Well, get ready to have your mind blown, because Colibrì is making that dream a reality. This incredible GitHub project is a lightweight, pure C engine designed to run truly immense Mixture-of-Experts (MoE) models like GLM-5.2 (a whopping 744 billion parameters!) on a consumer machine with as little as 25 GB of RAM. It's a game-changer for local AI inference.\n\nThe core genius behind Colibrì lies in understanding how MoE models actually work. Unlike traditional monolithic models where every parameter is always active, an MoE model only activates a small fraction of its parameters – its 'experts' – for any given task or token. Colibrì leverages this by smartly managing your computer's memory hierarchy: VRAM, RAM, and even your hard drive.\n\nHere’s the simple breakdown: the essential, shared parts of the model (like the attention mechanism and common components) are kept resident in your computer's RAM, significantly quantized to save space. The vast majority of the model, which consists of thousands of specialized 'experts,' resides on your disk. When the model needs a specific expert for processing a token, Colibrì streams it directly from your disk on demand. Think of it like a library: the librarian (Colibrì) knows where all the books (experts) are and only fetches the one you need right now, instead of trying to hold every single book in their hands all the time. This intelligent streaming, combined with clever caching, ensures that even though the model is huge, only the active, relevant parts consume your fast memory.\n\nWhat does this mean for you, the developer? It means unprecedented access to cutting-edge, large-scale AI models without the prohibitive hardware costs. You can experiment, prototype, and even deploy powerful AI applications locally, maintaining privacy and reducing reliance on cloud infrastructure. Colibrì is built in pure C with zero dependencies, making it incredibly efficient and easy to integrate. It even includes advanced features like compressed KV-cache for efficient memory usage and native multi-token-prediction (MTP) speculative decoding, which dramatically speeds up inference by drafting multiple tokens at once. This project isn't just about running big models; it's about making them accessible, efficient, and practical for everyone.\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/JustVugg/colibri)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "self-hosted",
-            "slug": "self-hosted"
+            "name": "llm",
+            "slug": "llm"
         },
         {
-            "name": "file manager",
-            "slug": "file-manager"
+            "name": "moe",
+            "slug": "moe"
         },
         {
-            "name": "web ui",
-            "slug": "web-ui"
+            "name": "local ai",
+            "slug": "local-ai"
         },
         {
-            "name": "file sharing",
-            "slug": "file-sharing"
+            "name": "c programming",
+            "slug": "c-programming"
         },
         {
-            "name": "open source",
-            "slug": "open-source"
+            "name": "edge ai",
+            "slug": "edge-ai"
         }
     ],
-    "slug": "filebrowser-quantum-supercharging-your-self-hosted-file-management",
-    "project_id": 652319769,
+    "slug": "colibrì-unleashing-gigantic-ai-models-on-your-laptop-with-pure-c-magic",
+    "project_id": 1286080397,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false
