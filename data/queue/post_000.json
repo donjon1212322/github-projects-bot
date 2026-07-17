@@ -1,7 +1,0 @@
-{
-    "project_id": 1286080397,
-    "content": "🚀 <b>colibri</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling large, parameter-heavy AI models to run on standard consumer hardware by optimizing memory management and leveraging disk storage.\n<br>\n✨ <b>Key Features:</b>\n• Run GLM-5.2 (744B MoE) on ~25GB RAM\n• Pure C, zero dependencies\n• Stream experts from disk\n• Managed memory hierarchy (VRAM, RAM, disk)\n• Lightweight, quality-preserving MoE runtime\n<br>\n📖 <b>Summary:</b>\nColibrì is a C-based runtime for large Mixture-of-Experts (MoE) models like GLM-5.2 (744B parameters) that allows them to run on consumer hardware with limited RAM by intelligently streaming model experts from disk. It manages a memory hierarchy of VRAM, RAM, and storage to maintain model quality and performance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/JustVugg/colibri?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/801305d90fa876d48cf8138171da8b8218e2eca731eb9fce09510555c942e5ba/JustVugg/colibri",
-    "platform": "telegram",
-    "quality_score": 1.1
-}
