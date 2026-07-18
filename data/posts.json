@@ -1,30 +1,37 @@
 [
     {
-        "project_id": 1286080397,
-        "content": "🚀 <b>colibri</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling large, parameter-heavy AI models to run on standard consumer hardware by optimizing memory management and leveraging disk storage.\n<br>\n✨ <b>Key Features:</b>\n• Run GLM-5.2 (744B MoE) on ~25GB RAM\n• Pure C, zero dependencies\n• Stream experts from disk\n• Managed memory hierarchy (VRAM, RAM, disk)\n• Lightweight, quality-preserving MoE runtime\n<br>\n📖 <b>Summary:</b>\nColibrì is a C-based runtime for large Mixture-of-Experts (MoE) models like GLM-5.2 (744B parameters) that allows them to run on consumer hardware with limited RAM by intelligently streaming model experts from disk. It manages a memory hierarchy of VRAM, RAM, and storage to maintain model quality and performance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/JustVugg/colibri?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/801305d90fa876d48cf8138171da8b8218e2eca731eb9fce09510555c942e5ba/JustVugg/colibri",
+        "project_id": 841044067,
+        "content": "💡 <b>timelinize</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a private, self-hosted platform for archiving and visualizing all their digital data and memories in a chronological timeline.\n<br>\n✨ <b>Key Features:</b>\n• Data aggregation from diverse sources (photos, videos, chats, social media, location, contacts)\n• Self-hosted and user-owned data storage\n• Timeline visualization of imported data\n• 3D map view with historical location data\n<br>\n📖 <b>Summary:</b>\nTimelinize is a self-hosted application that aggregates data from various sources like photos, chats, social media, and location history into a single, cohesive timeline on your own computer. It allows for deep data import and organization, enabling users to own and preserve their digital memories forever.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/timelinize/timelinize?embed=0\">View Project</a>\n• <a href=\"https://timelinize.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6eb3315fc1f70c17228d0f6f0182acfae0aefb03db35ab0db6efb47a2fa9cdb6/timelinize/timelinize",
         "platform": "telegram",
-        "quality_score": 1.1
+        "quality_score": 0.95
     },
     {
-        "project_id": 587413812,
-        "content": "🔥 <b>builder</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding and publishing websites quickly and easily using a visual, low-code interface.\n<br>\n✨ <b>Key Features:</b>\n• Intuitive Visual Builder\n• AI-Powered Page Generation\n• Responsive Views\n• Dark Mode Support\n• Built-in CMS\n<br>\n📖 <b>Summary:</b>\nFrappe Builder is a low-code website builder that allows users to create beautiful, responsive websites with an intuitive visual interface and AI-powered generation. It emphasizes performance, offers built-in CMS capabilities, advanced scripting for customization, and a one-click publishing feature for a complete end-to-end website creation experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/frappe/builder?embed=0\">View Project</a>\n• <a href=\"https://frappe.io/builder?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/587413812/94afc5b0-02b9-4133-bf21-49d112c5a93c",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 939559421,
-        "content": "🌟 <b>chirp</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDemonstrating and experimenting with data transmission using audible sound frequencies.\n<br>\n✨ <b>Key Features:</b>\n• Real-time frequency visualization of audio input\n• Send messages by converting text to sound\n• Receive messages by listening to sound and decoding it back to text\n• Distinctive start and end signatures to mark transmissions\n<br>\n📖 <b>Summary:</b>\nChirp is a TypeScript application that enables data transfer through sound. It encodes text into audio frequencies for transmission via speakers and decodes received audio back into text, featuring real-time frequency visualization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/solst-ice/chirp?embed=0\">View Project</a>\n• <a href=\"http://chirp.hex.dance/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4636a819109cb0a01119a7afe9d485f8e9049774b4a1fd8d9a562397311f3bd6/solst-ice/chirp",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 1130305975,
-        "content": "🔥 <b>pasteguard</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo protect sensitive user data and secrets when interacting with AI models and coding agents, by masking this information locally before it is sent to external services.\n<br>\n✨ <b>Key Features:</b>\n• Masks PII and secrets before reaching AI providers (ChatGPT, Claude, Gemini, Codex, etc.)\n• Local-first privacy proxy\n• Browser extension for chat interfaces\n• API integration for applications and SDKs\n<br>\n📖 <b>Summary:</b>\nPasteGuard is a local-first privacy proxy that masks Personally Identifiable Information (PII) and sensitive data before it's sent to AI models and coding agents. It acts as a protective layer, ensuring that private data remains local while still allowing AI to process contextual information.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sgasser/pasteguard?embed=0\">View Project</a>\n• <a href=\"https://pasteguard.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/183802c4f5943183063af2e7247395a5df491b9dc26d62810fa65d6db991b494/sgasser/pasteguard",
+        "project_id": 1296301313,
+        "content": "🌟 <b>kill-ai-slop</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo help developers and designers identify and eliminate common, often unintentional, AI-generated design patterns and copy tics in their web projects, leading to cleaner, more human-like products.\n<br>\n✨ <b>Key Features:</b>\n• Multilingual field guide website cataloging 33 AI-slop tells\n• Interactive before→after demos for each tell\n• Agent Skill (`kill-ai-slop`) to scan projects for AI-generated code signals\n<br>\n📖 <b>Summary:</b>\nKill AI Slop is a project that identifies and helps remove common visual and copy design 'tics' often found in AI-generated products. It offers a multilingual website cataloging these tells with interactive demos and an Agent Skill that scans codebases to detect and suggest fixes for these AI-generated patterns.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yetone/kill-ai-slop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5277e5db6b82aca9572cd62343fb33ea1da0c1db8e9f9d5f9a92b0faf6feacf2/yetone/kill-ai-slop",
         "platform": "telegram",
         "quality_score": 0.9
+    },
+    {
+        "project_id": 1298112590,
+        "content": "🌟 <b>pocket_disasm</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling coding agents and LLMs to perform parallel, headless binary analysis on multiple files simultaneously using IDA Pro's IDALib, managed through a unified MCP endpoint.\n<br>\n✨ <b>Key Features:</b>\n• Single MCP endpoint for multiple IDALib sessions\n• True multi-session analysis with independent IDALib processes\n• Parallel agent workflows for simultaneous binary analysis\n• IDA Pro MCP compatibility via pinned ida-pro-mcp\n• Agent-managed sessions for opening and switching binaries\n<br>\n📖 <b>Summary:</b>\nPocket Disasm is a Python-based control layer for headless binary analysis using IDA Pro's MCP toolset. It allows coding agents to manage multiple, isolated IDALib sessions concurrently through a single HTTP endpoint, without requiring interactive IDA GUI instances.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/whoisqwerz/pocket_disasm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/41b159361fc2c56d1c7465daf858e81af46b5dea6bef705d161a079145b49005/whoisqwerz/pocket_disasm",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 1295085779,
+        "content": "🔥 <b>cursor-kit-for-ai</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAccelerating the development of AI-powered applications and services by providing pre-configured, production-ready project structures and AI agent skills.\n<br>\n✨ <b>Key Features:</b>\n• Production-ready project templates\n• CLI for project creation and plugin management\n• Extensible plugin system for Cursor AI skills\n• Support for various stacks including FastAPI, React, PostgreSQL, Redis, Docker, and Kubernetes\n<br>\n📖 <b>Summary:</b>\nCursor Kit for AI is a scaffolding library that provides production-ready project templates and plugins for developers using Cursor AI. It enables the rapid creation of full-stack applications, bots, and DevOps solutions with a single CLI command, significantly accelerating development.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kiurakku/cursor-kit-for-ai?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/44874dce047b446c255881c15c64656f591b452991664bfb93d649d2722afa96/kiurakku/cursor-kit-for-ai",
+        "platform": "telegram",
+        "quality_score": 0.7999999999999999
+    },
+    {
+        "project_id": 1289130590,
+        "content": "🚀 <b>hh-ai-agent</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating the job application process on HH.ru by leveraging AI for intelligent filtering and personalized cover letter generation.\n<br>\n✨ <b>Key Features:</b>\n• Automated job searching and application on HH.ru\n• Intelligent filtering of job postings using LLM\n• Personalized cover letter generation\n• Cloudflare and HH.ru anti-blocking measures\n• Telegram integration for notifications and HR message forwarding\n<br>\n📖 <b>Summary:</b>\nThis Python repository automates the job application process on HH.ru by using an AI agent to find relevant job postings, filter out unsuitable ones, and generate personalized cover letters. It integrates with Telegram for notifications and HR responses, and uses a local LLM (Llama 3) for intelligent filtering and writing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/fikstt2/hh-ai-agent?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/470bf279311cb0b9a948f1683641acc7135d39e05215206d45592d4d8ad8f723/fikstt2/hh-ai-agent",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
     }
 ]
