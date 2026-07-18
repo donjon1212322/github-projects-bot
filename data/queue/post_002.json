@@ -1,7 +1,0 @@
-{
-    "project_id": 1298112590,
-    "content": "🌟 <b>pocket_disasm</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling coding agents and LLMs to perform parallel, headless binary analysis on multiple files simultaneously using IDA Pro's IDALib, managed through a unified MCP endpoint.\n<br>\n✨ <b>Key Features:</b>\n• Single MCP endpoint for multiple IDALib sessions\n• True multi-session analysis with independent IDALib processes\n• Parallel agent workflows for simultaneous binary analysis\n• IDA Pro MCP compatibility via pinned ida-pro-mcp\n• Agent-managed sessions for opening and switching binaries\n<br>\n📖 <b>Summary:</b>\nPocket Disasm is a Python-based control layer for headless binary analysis using IDA Pro's MCP toolset. It allows coding agents to manage multiple, isolated IDALib sessions concurrently through a single HTTP endpoint, without requiring interactive IDA GUI instances.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/whoisqwerz/pocket_disasm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/41b159361fc2c56d1c7465daf858e81af46b5dea6bef705d161a079145b49005/whoisqwerz/pocket_disasm",
-    "platform": "telegram",
-    "quality_score": 0.7
-}
