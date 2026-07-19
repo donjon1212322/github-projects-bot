@@ -24,7 +24,7 @@ if not GH_API_TOKEN or not GEMINI_API_KEY:
     logging.error("Необходимо установить переменные окружения GH_API_TOKEN и GEMINI_API_KEY")
     sys.exit(1)
 
-# Настройка клиента Gemini (новый пакет google-genai)
+# Настройка клиента Gemini
 try:
     client_gemini = genai.Client(api_key=GEMINI_API_KEY)
     logging.info("Модель Gemini успешно инициализирована")
@@ -32,9 +32,9 @@ except Exception as e:
     logging.error(f"Ошибка инициализации модели Gemini: {e}")
     sys.exit(1)
 
-# ✅ Актуальные стабильные модели (GA)
-GEMINI_MODEL_ARTICLE = "gemini-2.5-flash"       # для генерации статей
-GEMINI_MODEL_LITE = "gemini-2.5-flash-lite"     # для быстрых/лёгких задач
+# Модели Gemini
+GEMINI_MODEL_ARTICLE = "gemini-2.5-flash"
+GEMINI_MODEL_LITE = "gemini-2.5-flash-lite"
 
 # Константы
 PROJECTS_FILE = "data/projects.json"
@@ -43,7 +43,21 @@ PUBLISHED_POSTS_HASHNODE_FILE = "data/published_posts_hashnode.json"
 ARTICLE_OUTPUT_FILE = "data/article_output.json"
 README_CHAR_LIMIT = 4000
 
-# Лимит: 5 запросов в минуту → минимальный интервал между запросами
+# Варианты имён README файла (разный регистр и расширения)
+README_FILENAMES = [
+    "README.md",
+    "readme.md",
+    "Readme.md",
+    "README.MD",
+    "README.rst",
+    "readme.rst",
+    "README.txt",
+    "readme.txt",
+    "README",
+    "readme",
+]
+
+# Лимит: 5 запросов в минуту
 GEMINI_RPM_LIMIT = 5
 GEMINI_MIN_INTERVAL = 60.0 / GEMINI_RPM_LIMIT  # 12 секунд между запросами
 _last_gemini_call_time = 0.0
@@ -99,41 +113,6 @@ async def get_published_post_ids(filepath):
         return set()
 
 
-async def get_best_repository():
-    """
-    Находит лучший репозиторий, исключая уже опубликованные.
-    """
-    try:
-        with open(PROJECTS_FILE, "r", encoding="utf-8") as f:
-            projects = json.load(f)
-    except FileNotFoundError:
-        logging.error(f"Файл не найден: {PROJECTS_FILE}")
-        return None
-    except json.JSONDecodeError as e:
-        logging.error(f"Ошибка при чтении JSON из файла {PROJECTS_FILE}: {e}")
-        return None
-
-    # Если projects.json пустой — нет смысла продолжать
-    if not projects:
-        logging.warning("Файл projects.json пуст — Gemini не сгенерировал данные ни для одного проекта. Публикация отменена.")
-        return None
-
-    published_dev_ids = await get_published_post_ids(PUBLISHED_POSTS_DEV_FILE)
-    published_hashnode_ids = await get_published_post_ids(PUBLISHED_POSTS_HASHNODE_FILE)
-    published_ids = published_dev_ids.union(published_hashnode_ids)
-
-    # Фильтруем опубликованные репозитории
-    eligible_projects = [p for p in projects if p['id'] not in published_ids]
-
-    if not eligible_projects:
-        logging.info("Нет доступных репозиториев для публикации.")
-        return None
-
-    # Находим репозиторий с наивысшим quality_score
-    best_repo = max(eligible_projects, key=lambda x: x['quality_score'])
-    return best_repo
-
-
 async def get_default_branch(session, owner, repo):
     """
     Возвращает имя ветки по умолчанию репозитория через GitHub GraphQL API.
@@ -160,19 +139,19 @@ async def get_default_branch(session, owner, repo):
 
 async def get_readme_content(session, owner, repo):
     """
-    Получает содержимое README.md из GitHub, используя ветку по умолчанию.
+    Получает содержимое README из GitHub, перебирая ветки и варианты имён файла.
 
     Алгоритм:
-      1. Запрашиваем defaultBranchRef.name через GraphQL — это точный ответ GitHub,
-         не зависящий от названия ветки (main / master / dev / trunk / любое другое).
+      1. Запрашиваем defaultBranchRef.name через GraphQL.
       2. Формируем список веток для перебора: сначала ветка по умолчанию,
-         затем fallback-варианты ["main", "master"] (дедуплицируем).
-      3. Перебираем ветки и возвращаем первый найденный README.
+         затем fallback-варианты ["main", "master"] (без дубликатов).
+      3. Для каждой ветки перебираем все варианты имён README файла.
+      4. Возвращаем первый найденный текст.
     """
     # Шаг 1: узнаём ветку по умолчанию
     default_branch = await get_default_branch(session, owner, repo)
 
-    # Шаг 2: строим список веток без дубликатов, ветка по умолчанию — первая
+    # Шаг 2: строим список веток без дубликатов
     fallback_branches = ["main", "master"]
     branches_to_try = []
     if default_branch:
@@ -181,47 +160,45 @@ async def get_readme_content(session, owner, repo):
         if b not in branches_to_try:
             branches_to_try.append(b)
 
-    # Шаг 3: перебираем ветки
+    # Шаг 3: перебираем ветки и варианты имён файла
     for branch in branches_to_try:
-        query = f"""
-        query {{
-          repository(owner: "{owner}", name: "{repo}") {{
-            object(expression: "{branch}:README.md") {{
-              ... on Blob {{
-                text
+        for filename in README_FILENAMES:
+            query = f"""
+            query {{
+              repository(owner: "{owner}", name: "{repo}") {{
+                object(expression: "{branch}:{filename}") {{
+                  ... on Blob {{
+                    text
+                  }}
+                }}
               }}
             }}
-          }}
-        }}
-        """
-        data = await fetch_github_graphql(session, query)
-        if (
-            data
-            and "data" in data
-            and data["data"].get("repository")
-            and data["data"]["repository"].get("object")
-        ):
-            obj = data["data"]["repository"]["object"]
-            if obj and obj.get("text"):
-                logging.info(f"README.md найден в ветке '{branch}' репозитория {owner}/{repo}.")
-                return obj["text"]
-            else:
-                logging.debug(f"README.md не найден в ветке '{branch}' репозитория {owner}/{repo}.")
-        else:
-            logging.error(
-                f"Ошибка при получении README.md для {owner}/{repo} в ветке '{branch}': {data}"
-            )
+            """
+            data = await fetch_github_graphql(session, query)
+
+            if not data:
+                logging.debug(f"Пустой ответ для {owner}/{repo} ветка='{branch}' файл='{filename}'")
+                continue
+
+            try:
+                obj = data["data"]["repository"]["object"]
+                if obj and obj.get("text"):
+                    logging.info(f"README найден: '{filename}' в ветке '{branch}' репозитория {owner}/{repo}.")
+                    return obj["text"]
+            except (TypeError, KeyError):
+                logging.debug(f"Не удалось разобрать ответ для {owner}/{repo} ветка='{branch}' файл='{filename}'")
+                continue
 
     logging.warning(
-        f"README.md не найден ни в одной из веток {branches_to_try} репозитория {owner}/{repo}."
+        f"README не найден ни в одной из веток {branches_to_try} репозитория {owner}/{repo}."
     )
     return None
 
 
 async def generate_article_from_readme(readme_content):
     """
-    Генерирует статью из README.md, используя модель Gemini.
-    При ошибках 503/429 (rate limit / перегрузка) делает retry с экспоненциальной задержкой.
+    Генерирует статью из README, используя модель Gemini.
+    При ошибках 503/429 делает retry с экспоненциальной задержкой.
     """
     prompt = (
         "Imagine you're a tech enthusiast sharing your excitement about a cool GitHub project with fellow developers. "
@@ -231,28 +208,26 @@ async def generate_article_from_readme(readme_content):
 
         "Here's what the article should include:\n"
         "* **Catchy Title:**  A title that grabs attention and hints at the project's core purpose.\n"
-        "* **Compelling Introduction:** Start with a hook that immediately interests the reader.  What problem does this project solve? Why is it important?\n"
+        "* **Compelling Introduction:** Start with a hook that immediately interests the reader. What problem does this project solve? Why is it important?\n"
         "* **Clear Explanation:** Describe the project's functionality and architecture in a way that's easy to understand, even for developers who aren't experts in the field. Break down complex concepts into digestible chunks, using analogies or real-world examples where appropriate.\n"
-        "* **Benefits for Developers:** Highlight the specific advantages of using this project. How can it save them time, improve their workflow, or solve a common problem?  Be specific and practical.\n"
+        "* **Benefits for Developers:** Highlight the specific advantages of using this project. How can it save them time, improve their workflow, or solve a common problem? Be specific and practical.\n"
         "* **Well-Structured Paragraphs:** Write in clear, concise paragraphs, avoiding large blocks of text. Each paragraph should focus on a single idea or aspect of the project.\n"
-        "* **Key Takeaways:** Summarize the 3-5 most important points in a concise list.  What should developers remember after reading this article?\n"
+        "* **Key Takeaways:** Summarize the 3-5 most important points in a concise list. What should developers remember after reading this article?\n"
         "* **Tags:** 3-5 relevant keywords that will help people find the article (focus on core technologies and use cases).\n"
-        "* **Enthusiastic Tone:** Write with passion and excitement.  Let your enthusiasm for the project shine through!\n"
+        "* **Enthusiastic Tone:** Write with passion and excitement. Let your enthusiasm for the project shine through!\n\n"
 
         "The article must be at least 1000 characters long and written in a conversational, engaging style.\n\n"
 
-        f"Here is the content of the README.md file:\n{readme_content[:README_CHAR_LIMIT]}\n\n"
+        f"Here is the content of the README file:\n{readme_content[:README_CHAR_LIMIT]}\n\n"
 
         "Provide the response in JSON format according to the specified schema:"
     )
 
-    # Retry с экспоненциальной задержкой при 503/429
     max_retries = 3
-    retry_delays = [30, 60, 120]  # секунды между попытками
+    retry_delays = [30, 60, 120]
 
     for attempt in range(max_retries):
         try:
-            # Соблюдаем rate limit 5 RPM
             _wait_for_gemini_rate_limit()
 
             response = client_gemini.models.generate_content(
@@ -272,21 +247,17 @@ async def generate_article_from_readme(readme_content):
                             },
                             "article": {
                                 "type": "string",
-                                "description": "The *main content* of the article, written in simple terms, at least 500 characters long. Explain the project's purpose, how it works, and why developers should care about it. *DO NOT* include a title, introduction, key takeaways, statistics, or any other metadata.  Structure the article with well-defined paragraphs."
+                                "description": "The *main content* of the article, written in simple terms, at least 500 characters long."
                             },
                             "key_takeaways": {
                                 "type": "array",
-                                "items": {
-                                    "type": "string"
-                                },
-                                "description": "A list of 3-5 key takeaways that summarize the project's most important aspects and benefits for developers."
+                                "items": {"type": "string"},
+                                "description": "A list of 3-5 key takeaways."
                             },
                             "tags": {
                                 "type": "array",
-                                "items": {
-                                    "type": "string"
-                                },
-                                "description": "A list of 3-5 relevant tags for the article."
+                                "items": {"type": "string"},
+                                "description": "A list of 3-5 relevant tags."
                             }
                         },
                         "required": ["title", "article", "key_takeaways", "tags"]
@@ -303,7 +274,6 @@ async def generate_article_from_readme(readme_content):
 
         except Exception as e:
             error_str = str(e)
-            # Проверяем, является ли ошибка временной (503, 429, rate limit)
             is_retryable = any(code in error_str for code in ["503", "429", "UNAVAILABLE", "RESOURCE_EXHAUSTED"])
 
             if is_retryable and attempt < max_retries - 1:
@@ -324,53 +294,97 @@ async def generate_article_from_readme(readme_content):
 
 async def main():
     """
-    Основная функция, которая выполняет всю логику проекта.
+    Основная функция. Перебирает репозитории по убыванию quality_score,
+    пропускает те, у которых нет README или Gemini не смог сгенерировать статью.
+    Останавливается при первом успешном результате.
     """
+    # Загружаем список проектов
+    try:
+        with open(PROJECTS_FILE, "r", encoding="utf-8") as f:
+            projects = json.load(f)
+    except FileNotFoundError:
+        logging.error(f"Файл не найден: {PROJECTS_FILE}")
+        sys.exit(1)
+    except json.JSONDecodeError as e:
+        logging.error(f"Ошибка при чтении JSON из файла {PROJECTS_FILE}: {e}")
+        sys.exit(1)
+
+    if not projects:
+        logging.warning("Файл projects.json пуст — нет данных для публикации. Останавливаем пайплайн.")
+        sys.exit(1)
+
+    # Загружаем ID уже опубликованных постов
+    published_dev_ids = await get_published_post_ids(PUBLISHED_POSTS_DEV_FILE)
+    published_hashnode_ids = await get_published_post_ids(PUBLISHED_POSTS_HASHNODE_FILE)
+    published_ids = published_dev_ids.union(published_hashnode_ids)
+
+    # Фильтруем и сортируем по quality_score (лучшие — первые)
+    eligible_projects = sorted(
+        [p for p in projects if p.get("id") not in published_ids],
+        key=lambda x: x.get("quality_score", 0),
+        reverse=True
+    )
+
+    if not eligible_projects:
+        logging.info("Нет доступных репозиториев для публикации (все уже опубликованы).")
+        sys.exit(1)
+
+    logging.info(f"Найдено {len(eligible_projects)} кандидатов для публикации.")
+
     async with aiohttp.ClientSession() as session:
-        best_repo = await get_best_repository()
+        for index, best_repo in enumerate(eligible_projects):
+            repo_url = best_repo.get("url", "")
+            if not repo_url:
+                logging.warning(f"[{index + 1}/{len(eligible_projects)}] Репозиторий без URL, пропускаем.")
+                continue
 
-        # Нет репозитория — завершаем с exit(1),
-        # GitHub Actions остановит все последующие шаги пайплайна
-        if not best_repo:
-            logging.warning("Не удалось найти подходящий репозиторий. Публикация отменена. Останавливаем пайплайн.")
-            sys.exit(1)
+            try:
+                owner, repo = repo_url.rstrip("/").split("/")[-2:]
+            except ValueError:
+                logging.warning(f"[{index + 1}/{len(eligible_projects)}] Некорректный URL репозитория: {repo_url}, пропускаем.")
+                continue
 
-        repo_url = best_repo['url']
-        owner, repo = repo_url.split('/')[-2:]
+            logging.info(f"[{index + 1}/{len(eligible_projects)}] Обрабатываем репозиторий: {owner}/{repo}")
 
-        readme_content = await get_readme_content(session, owner, repo)
+            # Пробуем получить README
+            readme_content = await get_readme_content(session, owner, repo)
+            if not readme_content:
+                logging.warning(f"README не найден для {owner}/{repo}, пробуем следующий репозиторий...")
+                continue
 
-        # Нет README — завершаем с exit(1)
-        if not readme_content:
-            logging.warning(f"Не удалось получить README для {owner}/{repo}. Публикация отменена. Останавливаем пайплайн.")
-            sys.exit(1)
+            # Генерируем статью через Gemini
+            article_data = await generate_article_from_readme(readme_content)
+            if not article_data:
+                logging.warning(f"Gemini не смог сгенерировать статью для {owner}/{repo}, пробуем следующий репозиторий...")
+                continue
 
-        article_data = await generate_article_from_readme(readme_content)
+            # Собираем итоговый объект
+            article_data["title"] = article_data.get("title", best_repo.get("name", "No Title"))
+            article_data["stars"] = best_repo.get("stars", 0)
+            article_data["forks"] = best_repo.get("forks", 0)
+            article_data["open_issues"] = best_repo.get("open_issues", 0)
+            article_data["languages"] = best_repo.get("language", "Not specified")
+            article_data["readme_summary"] = best_repo.get("readme_summary", "")
+            article_data["project_id"] = best_repo.get("id")
+            article_data["url"] = best_repo.get("url")
+            article_data["description"] = best_repo.get("description")
 
-        # Gemini вернул None — завершаем с exit(1)
-        if not article_data:
-            logging.warning("Gemini не смог сгенерировать статью (вернул None). Публикация отменена. Останавливаем пайплайн.")
-            sys.exit(1)
+            # Сохраняем результат
+            try:
+                os.makedirs(os.path.dirname(ARTICLE_OUTPUT_FILE), exist_ok=True)
+                with open(ARTICLE_OUTPUT_FILE, "w", encoding="utf-8") as f:
+                    json.dump(article_data, f, indent=4, ensure_ascii=False)
+                logging.info(f"Статья успешно сохранена в {ARTICLE_OUTPUT_FILE} для репозитория {owner}/{repo}")
+            except IOError as e:
+                logging.error(f"Ошибка при записи в файл {ARTICLE_OUTPUT_FILE}: {e}")
+                sys.exit(1)
 
-        # Все данные есть — собираем итоговый объект
-        article_data["title"] = article_data.get("title", best_repo.get("name", "No Title"))
-        article_data["stars"] = best_repo.get("stars", 0)
-        article_data["forks"] = best_repo.get("forks", 0)
-        article_data["open_issues"] = best_repo.get("open_issues", 0)
-        article_data["languages"] = best_repo.get("language", "Not specified")
-        article_data["readme_summary"] = best_repo.get("readme_summary", "")
-        article_data["project_id"] = best_repo.get("id")
-        article_data["url"] = best_repo.get("url")
-        article_data["description"] = best_repo.get("description")
+            # Успешно завершаем
+            return
 
-        # Сохраняем в файл
-        try:
-            with open(ARTICLE_OUTPUT_FILE, "w", encoding="utf-8") as f:
-                json.dump(article_data, f, indent=4, ensure_ascii=False)
-            logging.info(f"Статья сохранена в {ARTICLE_OUTPUT_FILE}")
-        except IOError as e:
-            logging.error(f"Ошибка при записи в файл {ARTICLE_OUTPUT_FILE}: {e}")
-            sys.exit(1)
+    # Если ни один репозиторий не подошёл
+    logging.warning("Ни для одного репозитория не удалось создать статью. Останавливаем пайплайн.")
+    sys.exit(1)
 
 
 if __name__ == "__main__":
