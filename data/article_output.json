@@ -1,26 +1,25 @@
 {
-    "title": "Reclaim Your Digital Life: Timelinize Puts All Your Memories in One Place!",
-    "article": "Our digital lives are scattered across countless platforms, devices, and services. Photos are on one cloud, chat histories on another, social media posts are siloed, and location data is often locked away or simply forgotten. This fragmentation makes it incredibly difficult to truly experience and preserve our personal history. This is where Timelinize steps in, offering a powerful solution to consolidate all your digital memories into a single, cohesive timeline, right on your own computer. It's a personal digital archivist that puts you back in control.\n\nTimelinize acts as a universal importer for your entire digital existence. Imagine bringing together all your photos and videos, chat logs from various messaging apps, social media content, your precise location history, contact lists, and more. It pulls data from a vast array of sources, including your local computer, smartphone, online accounts, GPS-enabled devices, and even cameras. This means you can finally bid farewell to the frustrating task of hunting through different apps and folders just to find a memory.\n\nOnce imported, Timelinize intelligently organizes everything chronologically. While it offers a classic timeline view that lets you reconstruct any day or period, its capabilities go far beyond simple sorting. You can dive deep into an 'item view' to see all information associated with a specific memory, be it a photo, a text message, or a location entry. It also features a stunning 3D map that visualizes where your memories happened, complete with a color-coded path representing time. What's truly impressive is its ability to show data on the map even if it doesn't have direct geolocation; by understanding related entities and events, it can intelligently place non-geolocated data in context.\n\nFor developers, Timelinize offers a compelling proposition centered around data ownership and privacy. In an era where our data is constantly leveraged by corporations, Timelinize provides a self-hosted solution that ensures your memories remain truly yours, forever. You're not reliant on a third-party service that could change policies, get acquired, or simply shut down. This project empowers you to maintain a complete, searchable, and explorable archive of your digital life, free from vendor lock-in. It's an invaluable tool for personal data management, digital archiving, and even a potential foundation for building new personal data-centric applications that prioritize user control and privacy. The ability to have all your data, truly *your* data, in one accessible place is incredibly liberating and powerful, opening doors for new forms of personal reflection and data utilization.",
+    "title": "Supercharge Your .NET Apps: Discover Ultra, the Next-Gen Profiler!",
+    "article": "Ever found yourself staring at a slow .NET application, wondering where all the performance went? We've all been there! Debugging performance bottlenecks can feel like finding a needle in a haystack, especially when dealing with complex call stacks spanning managed, native, and even kernel code. But what if I told you there's a new, incredibly powerful tool that makes this process not just manageable, but actually enjoyable? Get ready to meet Ultra, an advanced profiler for .NET applications that's about to become your new best friend.\n\nUltra isn't just another profiler; it's a game-changer. Available on both Windows and macOS (specifically Apple Silicon), it leverages powerful sampling techniques to give you deep insights. On Windows, it uses ETW, capturing up to 8190 samples per second, while on macOS, it uses an in-process sampler over EventPipe, hitting up to 1000 samples per second. What makes Ultra truly stand out is its beautiful, intuitive UI, powered by the familiar and robust profiler.firefox.com interface. This means you get access to incredible visualizations like detailed Timelines, insightful Flamegraphs/Stack Charts, comprehensive Call Trees, and super useful Marker Charts and Tables. Imagine seeing exactly where your application spends its time, from the highest-level managed code down to the nitty-gritty kernel functions!\n\nOne of Ultra's most compelling features is its ability to provide precise kernel, native, and managed function call stacks. This is huge! No more guessing if the slowdown is in your C# code, a native library, or even the operating system itself. Ultra categorizes functions into .NET, .NET JIT, .NET GC, .NET CLR, Native, and Kernel, giving you an immediate overview. It even tracks .NET GC memory, JIT compile time events (showing you which functions are getting compiled), and a wealth of GC events like allocation ticks, heap stats, and suspend/restart events. All of this data is captured in lightweight trace files, often just a few MBs for a 10-second profile, making them easy to share and analyze.\n\nFor developers, the benefits are clear: Ultra saves you immense time and frustration. Pinpointing performance issues becomes significantly easier and faster. The ability to share traces online (like this cool example: https://share.firefox.dev/3Cya7YW) is fantastic for team collaboration and getting quick feedback. Getting started is a breeze too; just a simple dotnet tool install -g Ultra and you're good to go (requires .NET 8.0+). On Windows, you'll need an elevated prompt for full stack traces, but on macOS (Apple Silicon), it's even simpler – no elevated privileges required! Just ultra profile -- your_app.exe. Plus, there's even an exciting third-party project, UltraMCP, that lets AI Coding Agents query profiling results – how cool is that for future-proofing your dev workflow?\n\nThis tool is a must-have for anyone serious about optimizing their .NET applications. Its combination of deep insights, user-friendly visualizations, and cross-platform support makes it an invaluable addition to your developer toolkit. Stop guessing and start knowing where your performance bottlenecks truly lie!",
     "key_takeaways": [
-        "Timelinize consolidates all your digital memories (photos, chats, social media, location, etc.) into one personal, cohesive timeline.",
-        "It's a self-hosted solution, granting complete data ownership and ensuring privacy, free from third-party reliance.",
-        "Supports importing data from a wide range of sources, solving digital fragmentation across devices and services.",
-        "Offers advanced features like interactive 3D maps and entity recognition for deep exploration and contextual understanding of your data.",
-        "Empowers developers and users with a powerful tool for long-term digital archiving and personal data management, fostering freedom from vendor lock-in."
+        "Ultra is an advanced, cross-platform (.NET 8.0+, Windows/macOS Apple Silicon) profiler for .NET applications.",
+        "It offers deep insights with precise kernel, native, and managed call stacks, visualized through a rich UI powered by profiler.firefox.com.",
+        "Features include detailed function categorization, GC memory tracking, JIT/GC event markers, and lightweight, shareable trace files.",
+        "Easy to install and use via dotnet tool, significantly simplifying performance bottleneck identification and resolution."
     ],
     "tags": [
-        "Digital Archiving",
-        "Personal Data Management",
-        "Self-hosting",
-        "Privacy",
-        "Data Ownership"
+        ".NET",
+        "Profiling",
+        "Performance",
+        "Debugging",
+        "C#"
     ],
-    "stars": 3577,
-    "forks": 120,
-    "open_issues": 50,
-    "languages": "Go",
-    "readme_summary": "Timelinize is a self-hosted application that aggregates data from various sources like photos, chats, social media, and location history into a single, cohesive timeline on your own computer. It allows for deep data import and organization, enabling users to own and preserve their digital memories forever.",
-    "project_id": 841044067,
-    "url": "https://github.com/timelinize/timelinize",
-    "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer"
+    "stars": 1172,
+    "forks": 22,
+    "open_issues": 10,
+    "languages": "C#",
+    "readme_summary": "Ultra is an advanced profiler for .NET applications on Windows and macOS, providing detailed performance insights through sampling and ETW/EventPipe data. It visualizes performance data using a UI similar to Firefox Profiler, offering features like timeline, flamegraph, and call tree views.",
+    "project_id": 890279592,
+    "url": "https://github.com/xoofx/ultra",
+    "description": "An advanced profiler for .NET Applications on Windows and macOS"
 }
