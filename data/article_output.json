@@ -1,26 +1,26 @@
 {
-    "title": "Colota: Take Back Control of Your Location Data with This Awesome Self-Hosted GPS Tracker!",
-    "article": "Hey fellow developers! Ever felt a little uneasy about who really owns your location data? In an age where every app seems to want to track your every move, finding a truly private and secure solution can feel like searching for a needle in a haystack. But what if I told you there's an open-source project that puts you firmly back in control? Enter Colota, a game-changer for anyone who values privacy and wants to self-host their GPS tracking.Colota is an incredible Android app designed for one primary purpose: to send your GPS location data directly to *your own server*. That's right, no third-party clouds, no mysterious data harvesting – just your data, on your terms, where you want it. It's built with privacy at its core, meaning absolutely no analytics, no telemetry, and zero third-party SDKs. This isn't just a simple tracker; it's a robust system that works seamlessly even when you're offline. You can download map areas, export your data in various formats like GeoJSON or GPX, and even schedule automatic exports. The beauty lies in its simplicity and its powerful backend compatibility. Whether you're already running a self-hosted solution like Home Assistant, Traccar, or OwnTracks, Colota can effortlessly integrate, acting as the perfect data source for your existing infrastructure.For us developers, Colota offers a treasure trove of benefits. First and foremost, it's about **unparalleled data ownership**. You decide where your location data lives and how it's used. This alone is a huge win for privacy-conscious individuals and projects. But it doesn't stop there. Colota's **flexible integration** means you're not locked into a specific ecosystem; it plays nicely with a wide array of self-hosted backends, giving you the freedom to choose what works best for you. The **reliability features** are also stellar: it works offline, has robust tracking profiles that adjust settings based on conditions (like charging or car mode), and even supports mutual TLS for enterprise-grade security. Need to pause tracking when you enter a specific area? Geofencing has you covered! Plus, setting up new devices is a breeze with `colota://setup` deep links or QR codes. It's open-source, actively maintained, and truly empowers you to build sophisticated location-aware applications or simply keep tabs on your own movements without compromise.If you've been looking for a secure, private, and highly customizable GPS tracking solution, Colota is absolutely worth exploring. It's a fantastic example of what open-source development can achieve when focused on user control and privacy. Go check out the GitHub repo, dive into the documentation, and start taking control of your location data today! You won't regret it!",
+    "title": "Unleash Your Game Dev Dreams: Discover the Free & Open-Source Nau Engine!",
+    "article": "Hey fellow developers! Ever dreamed of building your own game without worrying about hefty license fees or restrictive terms? What if you could dive into an engine's core, tweak it to your heart's content, and even contribute to its evolution? Well, get ready to have your mind blown, because I just stumbled upon a GitHub project that's poised to shake up the game development world: the Nau Engine!Nau Engine isn't just another game engine; it's a philosophy. It's built on three core pillars: completely free, entirely open, and truly open-source. This means no royalties, no hidden fees, and absolutely no limitations on what you can create, even for commercial projects. Imagine the freedom! This is a game-changer for indie developers, students, or anyone who wants to learn and experiment without financial barriers.But it gets even better. Being 'open' means the entire source code is right there for you to explore. Want to understand how a rendering pipeline works? Curious about the physics engine? Dive in! This isn't just about using a tool; it's about understanding and mastering it. For those of us who love to tinker, learn, and truly own our development stack, this is an incredible opportunity.The 'open-source' aspect takes things to the next level. It's not just about viewing the code; it's about participating. The Nau Engine welcomes contributions, forks, and add-ons from the community. This collaborative spirit means the engine can grow and evolve with the needs and innovations of its users. Picture a vibrant community of developers shaping the future of a powerful engine together – that's the vision here.Getting started might seem daunting for a new engine, but the Nau team has laid out a clear path. With standard tools like CMake and Vcpkg, and a straightforward setup process, you'll be configuring and building the engine in no time. It integrates smoothly into familiar environments like Visual Studio, making the transition painless for C++ developers. This commitment to a developer-friendly setup shows they're serious about making this accessible.So, what are the real benefits for you, the developer? First, the financial freedom is unparalleled. Build your dream game, sell it, and keep 100% of your earnings. Second, the learning potential is immense. With full source code access, you can deepen your understanding of game engine architecture and contribute to a real-world project. Third, you become part of a growing community, influencing the direction of a versatile tool. This isn't just a project; it's an invitation to be part of something bigger.Seriously, if you're passionate about game development and crave an engine that empowers rather than restricts, you absolutely need to check out the Nau Engine on GitHub. It's a fantastic opportunity to contribute, learn, and build amazing games without the usual hurdles. Let's make some magic happen!",
     "key_takeaways": [
-        "Colota enables self-hosted GPS tracking, giving you complete ownership and control over your location data.",
-        "It offers seamless integration with popular self-hosted backends like Home Assistant, Traccar, and OwnTracks.",
-        "The app boasts robust features including offline functionality, geofencing, and smart tracking profiles that adjust settings automatically.",
-        "Built with privacy first, Colota has no analytics, telemetry, or third-party SDKs, making it a truly secure choice.",
-        "Quick setup options via deep links and QR codes, alongside enterprise-grade authentication like mTLS, make it developer-friendly and powerful."
+        "Nau Engine is a completely free, open-source game engine with no royalties or fees, even for commercial use.",
+        "Full source code access empowers developers to learn, customize, and deeply understand game engine architecture.",
+        "It offers unparalleled financial freedom, allowing creators to keep 100% of their earnings.",
+        "The project fosters a collaborative community, welcoming contributions and shaping the engine's future together.",
+        "A developer-friendly setup with standard tools like CMake and Vcpkg makes it accessible for C++ game developers."
     ],
     "tags": [
-        "GPS Tracking",
-        "Self-Hosted",
-        "Privacy",
-        "Android",
-        "Open Source"
+        "GameEngine",
+        "OpenSource",
+        "GameDev",
+        "Cpp",
+        "FreeSoftware"
     ],
-    "stars": 447,
-    "forks": 20,
-    "open_issues": 42,
-    "languages": "TypeScript",
-    "readme_summary": "Colota is a self-hosted GPS location tracking application for Android devices. It allows users to send their location data to a private server, offering features like offline functionality, geofencing, and encrypted backups, all while prioritizing user privacy with no analytics or telemetry.",
-    "project_id": 1138398320,
-    "url": "https://github.com/dietrichmax/colota",
-    "description": "Colota - Android GPS Location tracker"
+    "stars": 392,
+    "forks": 64,
+    "open_issues": 6,
+    "languages": "C++",
+    "readme_summary": "Nau Engine is a free, open-source, and versatile game engine built with C++. It allows for unrestricted use, including commercial purposes, and encourages community contributions through its open-source nature and accessible source code.",
+    "project_id": 893512863,
+    "url": "https://github.com/NauEngine/NauEnginePublic",
+    "description": "Nau Engine is a free open-source game engine that's designed to be versatile and accessible to everyone. "
 }
