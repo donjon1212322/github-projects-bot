@@ -1,44 +1,37 @@
 [
     {
-        "project_id": 1015565163,
-        "content": "🚀 <b>jcorp-nomad</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a portable, self-contained offline media server for accessing and streaming various media types in environments without internet connectivity.\n<br>\n✨ <b>Key Features:</b>\n• Offline media streaming (movies, music, books, shows)\n• ESP32-S3 powered\n• Local Wi-Fi hotspot creation\n• Browser-based interface\n• Multiple simultaneous user streams\n<br>\n📖 <b>Summary:</b>\nJcorp Nomad is an open-source, offline media server built on an ESP32-S3, designed to stream movies, music, books, and shows without an internet connection. It creates a local Wi-Fi hotspot and serves content through a browser interface, making it ideal for travel, remote locations, or situations without internet access.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Jstudner/jcorp-nomad?embed=0\">View Project</a>\n• <a href=\"http://nomad.jcorptech.net?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3a0a1899330ad4cd092c5572857a9931d1a31ac6006b84a48a6a664c428d2c14/Jstudner/jcorp-nomad",
+        "project_id": 1207996744,
+        "content": "💡 <b>Portpal</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nResolving and preventing 'address already in use' errors by providing developers with a clear, visual, and interactive way to see which processes are using specific network ports and to manage those processes.\n<br>\n✨ <b>Key Features:</b>\n• Real-Time Port Dashboard\n• One-Click Process Control (Kill/Restart)\n• Interactive Network Topology Visualization (D3.js)\n• System Tray Intelligence\n• Smart Process and Framework Detection\n<br>\n📖 <b>Summary:</b>\nPortPal is a native desktop application designed to help developers manage and monitor network ports on their machines. It provides a real-time dashboard to view port usage, identify processes, track network traffic, and visualize network topology, enabling quick resolution of port conflicts and process management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wisher567/Portpal?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/248e2ee941e265a4a33ab623e29eb3f4dfaf6ac3a77f8e01f596eb676d4d676b/wisher567/Portpal",
         "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 685990810,
-        "content": "🌟 <b>PolyUploader</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a unified and efficient way for users to upload files to a large number of file hosting services simultaneously, with added features for management and link security.\n<br>\n✨ <b>Key Features:</b>\n• Upload to 133 hosts at once\n• Link personal API keys\n• Detailed upload history with expiration status and delete options\n<br>\n📖 <b>Summary:</b>\nPolyUploader is an open-source JavaScript application that allows users to upload files to multiple remote hosting sites simultaneously. It supports linking personal API keys, managing upload history, creating profiles for automation, and offers features like link protection and bundling multiple host links into a single shareable link.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/spel987/PolyUploader?embed=0\">View Project</a>\n• <a href=\"https://polyuploader.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/15f43220a4af00f565c6b782870220adfbcfed20a81439643f47c0c08e245730/spel987/PolyUploader",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 125756247,
-        "content": "🔥 <b>ESP32-Paxcounter</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time passenger flow metering and environmental data collection using low-cost ESP32 devices, with an emphasis on privacy and flexible data transmission.\n<br>\n✨ <b>Key Features:</b>\n• WiFi & Bluetooth signal detection for passenger flow metering\n• LoRaWAN enabled for long-range data transmission\n• Multi-sensor data collection (e.g., BME680, GPS)\n<br>\n📖 <b>Summary:</b>\nThe ESP32-Paxcounter is a project that uses ESP32 microcontrollers to count people by detecting WiFi and Bluetooth signals from mobile devices. It also supports environmental sensors and offers various data transmission options like LoRaWAN and MQTT, with a focus on privacy by not storing MAC addresses.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cyberman54/ESP32-Paxcounter?embed=0\">View Project</a>\n• <a href=\"https://cyberman54.github.io/ESP32-Paxcounter/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6cb42233738f5d7927037b93a845b1041dfc5bb0e9278407c13bf7318797478b/cyberman54/ESP32-Paxcounter",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 894346372,
-        "content": "🌟 <b>StableAnimator</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating realistic and identity-consistent animated videos of humans from static images and pose sequences.\n<br>\n✨ <b>Key Features:</b>\n• End-to-end ID-preserving video diffusion framework\n• Synthesizes high-quality videos without post-processing\n• Conditioned on reference image and sequence of poses\n• Global content-aware Face Encoder for identity consistency\n• Distribution-aware ID Adapter to prevent temporal interference\n<br>\n📖 <b>Summary:</b>\nStableAnimator is a novel end-to-end framework for identity-preserving human image animation using video diffusion models. It synthesizes high-quality videos directly from a reference image and a sequence of poses, without requiring any post-processing like face swapping or restoration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Francis-Rings/StableAnimator?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/5e7adb4a34e96f610cb5f2d1db0bd0bebb094d7ef8fc2ec4aca64e6107e34999/Francis-Rings/StableAnimator",
-        "platform": "telegram",
-        "quality_score": 0.7
-    },
-    {
-        "project_id": 894270616,
-        "content": "🚀 <b>core</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a private, secure, and self-hostable home security camera system that prioritizes data privacy through end-to-end encryption and avoids reliance on third-party cloud services.\n<br>\n✨ <b>Key Features:</b>\n• End-to-end encrypted remote access\n• 5-minute setup\n• Open source\n• Fully reproducible releases\n• Local AI capabilities (implied by topics)\n<br>\n📖 <b>Summary:</b>\nSecluso is a privacy-focused, open-source home security camera system for Raspberry Pi. It offers end-to-end encrypted remote access to live video, alerts, and recordings, ensuring footage is not shared with cloud providers. The system emphasizes a quick 5-minute setup and reproducible builds for transparency and trust.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/secluso/core?embed=0\">View Project</a>\n• <a href=\"https://secluso.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/894270616/50a61968-4ef0-4c75-939c-2c7704485a1b",
+        "project_id": 1121701878,
+        "content": "🔥 <b>SMS2Email</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling remote access to SMS messages by forwarding them to an email account.\n<br>\n✨ <b>Key Features:</b>\n• Forwards incoming SMS messages to email\n• Configurable SMTP server settings\n• Accessible remotely via email\n<br>\n📖 <b>Summary:</b>\nSMS2Email is an Android application designed to forward incoming SMS messages to a specified email address. It allows users to access their text messages remotely by sending them to an SMTP server.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SMS2Email/SMS2Email?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b8b5a21c15a1b33c8d5a1399fb66bc7decff1f1e2ac13a4c5401108babee98ec/SMS2Email/SMS2Email",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 893512863,
-        "content": "🌟 <b>NauEnginePublic</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nDeveloping and building video games with a flexible and accessible game engine.\n<br>\n✨ <b>Key Features:</b>\n• Free and open-source\n• No limitations or royalties\n• Full source code available\n• Permissive for educational and commercial use\n• Community development encouraged\n<br>\n📖 <b>Summary:</b>\nNau Engine is a free, open-source, and versatile game engine built with C++. It allows for unrestricted use, including commercial purposes, and encourages community contributions through its open-source nature and accessible source code.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/NauEngine/NauEnginePublic?embed=0\">View Project</a>\n• <a href=\"https://nauengine.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a8e1852d2523ba1d677d22fab8ef191dae64838531e564c6c3dadb8d17fc396a/NauEngine/NauEnginePublic",
+        "project_id": 98823234,
+        "content": "🚀 <b>js-code-to-svg-flowchart</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nVisualizing JavaScript code as flowcharts for learning, documentation, and refactoring.\n<br>\n✨ <b>Key Features:</b>\n• Converts JavaScript code to SVG flowcharts\n• Supports ES6 syntax\n• Multiple abstraction levels for code visualization\n• Customizable styles and themes\n• CLI tool for generating SVG files\n<br>\n📖 <b>Summary:</b>\njs2flowchart is a JavaScript library that converts JavaScript code into SVG flowcharts. It aids in understanding, documenting, and refactoring code by providing visual representations at various abstraction levels.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/68d90fb319ff6dbf3d955055404107f6f1477d8a1608929476c3fed3d129a216/Bogdan-Lyashenko/js-code-to-svg-flowchart",
         "platform": "telegram",
-        "quality_score": 1.0
+        "quality_score": 0.7999999999999999
+    },
+    {
+        "project_id": 2055965,
+        "content": "✨ <b>swagger-ui</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automatically generate and display interactive API documentation from an OpenAPI specification, enabling easy exploration and testing of API endpoints.\n<br>\n✨ <b>Key Features:</b>\n• Generates interactive API documentation from OpenAPI specifications\n• Allows visualization and interaction with API resources\n• Supports multiple OpenAPI Specification versions (2.0, 3.x, 3.1.x)\n<br>\n📖 <b>Summary:</b>\nSwagger UI is a JavaScript-based tool that generates interactive API documentation from OpenAPI specifications. It allows developers and consumers to visualize and interact with API resources without needing to implement the API logic, making API exploration and integration significantly easier.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/swagger-api/swagger-ui?embed=0\">View Project</a>\n• <a href=\"https://swagger.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fb1da5a2625f09482bb6e85b02dc9605281ff4465ca4154dcbdf9eeeb897cae9/swagger-api/swagger-ui",
+        "platform": "telegram",
+        "quality_score": 1.1
+    },
+    {
+        "project_id": 65750241,
+        "content": "🚀 <b>expo</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDeveloping and deploying cross-platform native applications for mobile and web from a single codebase.\n<br>\n✨ <b>Key Features:</b>\n• Universal native apps for Android, iOS, and web\n• Built with React and JavaScript\n• Includes Expo SDK, Modules API, Go app, CLI, Router\n• Integration with Expo Application Services (EAS) for build, ship, and iterate\n• Open-source framework\n<br>\n📖 <b>Summary:</b>\nExpo is an open-source framework for building universal native applications for Android, iOS, and the web using React and JavaScript. It provides a unified runtime and a suite of tools to simplify development, shipping, and iteration, integrating with Expo Application Services (EAS) for enhanced capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/expo/expo?embed=0\">View Project</a>\n• <a href=\"https://docs.expo.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/de165f9eb1f9a2bd3830066549f14e866dd241e77eaacef178d0b709ff1694af/expo/expo",
+        "platform": "telegram",
+        "quality_score": 1.1
     }
 ]
