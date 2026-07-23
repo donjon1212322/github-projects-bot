@@ -1,36 +1,22 @@
 [
     {
-        "project_id": 1207996744,
-        "content": "💡 <b>Portpal</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nResolving and preventing 'address already in use' errors by providing developers with a clear, visual, and interactive way to see which processes are using specific network ports and to manage those processes.\n<br>\n✨ <b>Key Features:</b>\n• Real-Time Port Dashboard\n• One-Click Process Control (Kill/Restart)\n• Interactive Network Topology Visualization (D3.js)\n• System Tray Intelligence\n• Smart Process and Framework Detection\n<br>\n📖 <b>Summary:</b>\nPortPal is a native desktop application designed to help developers manage and monitor network ports on their machines. It provides a real-time dashboard to view port usage, identify processes, track network traffic, and visualize network topology, enabling quick resolution of port conflicts and process management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wisher567/Portpal?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/248e2ee941e265a4a33ab623e29eb3f4dfaf6ac3a77f8e01f596eb676d4d676b/wisher567/Portpal",
+        "project_id": 1055978902,
+        "content": "✨ <b>maildrop</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a simple, self-hostable email service for managing disposable or custom email addresses for various online activities.\n<br>\n✨ <b>Key Features:</b>\n• Random email generation\n• Use custom emails\n• Password protected inboxes\n• Clean UI\n• Easy setup\n<br>\n📖 <b>Summary:</b>\nMaildrop is a self-hostable email service that allows users to receive emails on any address within their domain. It's designed for managing multiple email addresses easily, signing up for services without using a primary email, and creating multiple website accounts.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/haileyydev/maildrop?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e6b23cbfa1c04894e2ba0f4a9a0bad94fdb186788b1570297f106d1a19b36d1c/haileyydev/maildrop",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.5
     },
     {
-        "project_id": 1121701878,
-        "content": "🔥 <b>SMS2Email</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling remote access to SMS messages by forwarding them to an email account.\n<br>\n✨ <b>Key Features:</b>\n• Forwards incoming SMS messages to email\n• Configurable SMTP server settings\n• Accessible remotely via email\n<br>\n📖 <b>Summary:</b>\nSMS2Email is an Android application designed to forward incoming SMS messages to a specified email address. It allows users to access their text messages remotely by sending them to an SMTP server.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SMS2Email/SMS2Email?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b8b5a21c15a1b33c8d5a1399fb66bc7decff1f1e2ac13a4c5401108babee98ec/SMS2Email/SMS2Email",
+        "project_id": 1080664979,
+        "content": "🌟 <b>face_looker</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating engaging and interactive UI elements such as portfolio headers, avatars, or dynamic visual components.\n<br>\n✨ <b>Key Features:</b>\n• Generate AI-powered face images with varying gaze directions\n• Create interactive React components that follow cursor movement\n• Option to use a Replicate model for easy generation\n• Option to use a Python script for advanced control over generation\n• Generates a sprite/grid sheet of faces\n<br>\n📖 <b>Summary:</b>\nFace Looker generates AI-powered gaze-tracking face images and provides an interactive React component that makes a face follow the user's cursor in real-time. It offers two methods for image generation: an easy-to-use Replicate model and a more advanced Python script for greater control.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kylan02/face_looker?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/608d98be0f18e96ab3d4e182948d9e6eebf27525304a96eb327bb7cf6e03a4d2/kylan02/face_looker",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
+        "quality_score": 0.5
     },
     {
-        "project_id": 98823234,
-        "content": "🚀 <b>js-code-to-svg-flowchart</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nVisualizing JavaScript code as flowcharts for learning, documentation, and refactoring.\n<br>\n✨ <b>Key Features:</b>\n• Converts JavaScript code to SVG flowcharts\n• Supports ES6 syntax\n• Multiple abstraction levels for code visualization\n• Customizable styles and themes\n• CLI tool for generating SVG files\n<br>\n📖 <b>Summary:</b>\njs2flowchart is a JavaScript library that converts JavaScript code into SVG flowcharts. It aids in understanding, documenting, and refactoring code by providing visual representations at various abstraction levels.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/68d90fb319ff6dbf3d955055404107f6f1477d8a1608929476c3fed3d129a216/Bogdan-Lyashenko/js-code-to-svg-flowchart",
-        "platform": "telegram",
-        "quality_score": 0.7999999999999999
-    },
-    {
-        "project_id": 2055965,
-        "content": "✨ <b>swagger-ui</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automatically generate and display interactive API documentation from an OpenAPI specification, enabling easy exploration and testing of API endpoints.\n<br>\n✨ <b>Key Features:</b>\n• Generates interactive API documentation from OpenAPI specifications\n• Allows visualization and interaction with API resources\n• Supports multiple OpenAPI Specification versions (2.0, 3.x, 3.1.x)\n<br>\n📖 <b>Summary:</b>\nSwagger UI is a JavaScript-based tool that generates interactive API documentation from OpenAPI specifications. It allows developers and consumers to visualize and interact with API resources without needing to implement the API logic, making API exploration and integration significantly easier.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/swagger-api/swagger-ui?embed=0\">View Project</a>\n• <a href=\"https://swagger.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fb1da5a2625f09482bb6e85b02dc9605281ff4465ca4154dcbdf9eeeb897cae9/swagger-api/swagger-ui",
-        "platform": "telegram",
-        "quality_score": 1.1
-    },
-    {
-        "project_id": 65750241,
-        "content": "🚀 <b>expo</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDeveloping and deploying cross-platform native applications for mobile and web from a single codebase.\n<br>\n✨ <b>Key Features:</b>\n• Universal native apps for Android, iOS, and web\n• Built with React and JavaScript\n• Includes Expo SDK, Modules API, Go app, CLI, Router\n• Integration with Expo Application Services (EAS) for build, ship, and iterate\n• Open-source framework\n<br>\n📖 <b>Summary:</b>\nExpo is an open-source framework for building universal native applications for Android, iOS, and the web using React and JavaScript. It provides a unified runtime and a suite of tools to simplify development, shipping, and iteration, integrating with Expo Application Services (EAS) for enhanced capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/expo/expo?embed=0\">View Project</a>\n• <a href=\"https://docs.expo.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/de165f9eb1f9a2bd3830066549f14e866dd241e77eaacef178d0b709ff1694af/expo/expo",
+        "project_id": 527121729,
+        "content": "💡 <b>Alexandrie</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosted knowledge management and team collaboration platform.\n<br>\n✨ <b>Key Features:</b>\n• One-Command Deployment (Docker)\n• Advanced Markdown Engine (LaTeX, custom containers, checkboxes, frames, snippets, diagrams)\n• Granular Organization (Teams, Workspaces, Categories, nested Documents)\n• Offline-First PWA with seamless synchronization\n• OpenID Connect (OIDC) SSO\n<br>\n📖 <b>Summary:</b>\nAlexandrie is an open-source, self-hosted knowledge base and wiki platform that serves as an alternative to tools like Notion and Confluence. It offers advanced Markdown editing, offline-first capabilities, team collaboration features, and robust security options like OIDC/SSO.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Smaug6739/Alexandrie?embed=0\">View Project</a>\n• <a href=\"https://alexandrie-hub.fr?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/527121729/756d6e13-538d-43e9-b37d-80abcf1ad823",
         "platform": "telegram",
         "quality_score": 1.1
     }

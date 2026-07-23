@@ -1,26 +1,26 @@
 {
-    "title": "Unleash Your APIs: Why Swagger UI is a Game-Changer for Developers!",
-    "article": "Hey fellow developers! Have you ever found yourself wrestling with cryptic API documentation, trying to figure out what endpoints do what, or what kind of data you're supposed to send? We've all been there, and it can be a real productivity killer. But what if I told you there's a fantastic open-source project that makes exploring and interacting with APIs an absolute breeze? Prepare to be amazed by Swagger UI!\n\nSwagger UI is nothing short of brilliant. It's a powerful tool that takes your OpenAPI (formerly Swagger) Specification and transforms it into stunning, interactive, and human-readable API documentation right in your browser. Imagine a beautifully designed web page where every single one of your API's resources is laid out clearly. You can see all the available endpoints, understand their parameters, view example requests and responses, and even make live API calls directly from the UI! It's like having a sandbox for your API, without writing a single line of client-side code to test it.\n\nThe beauty of Swagger UI lies in its simplicity and automation. Once you have your OpenAPI Specification defined (which describes your API's structure), Swagger UI automatically generates this interactive documentation. This means your documentation is always up-to-date with your API's definition, eliminating the dreaded problem of outdated or incorrect docs. It acts as a single source of truth, making life easier for everyone involved.\n\nFor backend developers, it's a fantastic way to validate your API design and ensure it's easily consumable. For frontend developers, it's an invaluable resource for quickly understanding how to integrate with the backend, reducing guesswork and speeding up development cycles. Collaboration between teams becomes seamless because everyone is looking at the same, clear, and executable documentation. No more endless back-and-forth trying to clarify API contracts!\n\nSwagger UI is also incredibly versatile in how you can integrate it into your projects. You can use the `swagger-ui` npm module for modern single-page applications, `swagger-ui-dist` if you need a dependency-free bundle for server-side projects, or even `swagger-ui-react` if you're building a React application. This flexibility means there's almost certainly a way to get this incredible tool working for you. Seriously, if you're building or consuming APIs, you absolutely need to check out Swagger UI. It's a massive time-saver and a huge boost to developer experience!",
+    "title": "Alexandrie: The Self-Hosted Knowledge Base That's About to Revolutionize Your Workflow!",
+    "article": "Hey fellow developers! Ever found yourself drowning in a sea of scattered notes, struggling to keep track of project documentation, or feeling uneasy about entrusting your team's most valuable knowledge to proprietary cloud services? We've all been there. The search for the perfect knowledge management system can feel like an endless quest. But what if I told you there's a new open-source hero on the block, ready to sweep away those woes and put you firmly back in control? Get ready to meet Alexandrie!\n\nAlexandrie isn't just another note-taking app; it's a full-fledged, self-hosted wiki and knowledge management platform designed from the ground up for teams and individuals who value control, power, and flexibility. Think of it as your team's personal, super-smart digital library, but one you completely own and host yourself. This means no vendor lock-in, no data privacy concerns – your knowledge stays exactly where you want it.\n\nWhat truly sets Alexandrie apart is its *advanced Markdown engine*. Forget basic text; this editor is a dream come true for technical writers and developers. Need to embed complex LaTeX equations? No problem. Want to draw flowcharts or structural diagrams directly within your document? Alexandrie has native support! It even offers speech-to-text for dictating notes and a snippet manager to save and reuse your frequently used code blocks or templates. This isn't just writing; it's crafting rich, dynamic documentation with ease.\n\nDeployment is a breeze, too. With a single Docker command, you can bring up the entire full-stack application instantly. No complex setups, just pure knowledge management power at your fingertips. And for those on the go, Alexandrie shines with its offline-first Progressive Web App (PWA) capabilities. Install it on any device, work offline, and it'll seamlessly synchronize your changes when you're back online. Imagine reviewing or updating critical documentation on a flight or during a commute without an internet connection – that's Alexandrie!\n\nFor teams, the granular organization and access control are game-changers. Alexandrie supports a multi-tenant architecture with Teams, Workspaces, Categories, and nested Documents. You can fine-tune user privileges with a 5-level access model, ensuring everyone has exactly the right level of access to the right information. Sharing knowledge securely across your organization, or even with external collaborators via unique public links, becomes effortless.\n\nNavigating your growing knowledge base is incredibly efficient. Alexandrie features a powerful Command Center (Ctrl + K) for keyboard-driven navigation and actions, alongside full-text indexing with snippet highlights for lightning-fast searches. Plus, every workspace comes with integrated Kanban boards, letting you organize tasks right alongside your documentation. It's truly an all-in-one solution for project management and knowledge sharing.\n\nIn a world increasingly reliant on shared information, Alexandrie empowers you to build, manage, and share your collective wisdom without compromise. It’s a robust, production-ready alternative to tools like Notion or Confluence, giving you all the power without the proprietary shackles. If you're looking to supercharge your team's documentation, streamline collaboration, and take back ownership of your data, you absolutely need to check out Alexandrie. It's a project that truly excites me, and I think it'll excite you too!",
     "key_takeaways": [
-        "Swagger UI generates interactive and visually appealing API documentation from your OpenAPI Specification.",
-        "It allows developers to visualize, understand, and even test API endpoints directly in the browser.",
-        "Documentation is automatically kept up-to-date with your API definition, preventing discrepancies.",
-        "It significantly improves collaboration between backend and frontend teams by providing a clear API contract.",
-        "Available as various npm packages (`swagger-ui`, `swagger-ui-dist`, `swagger-ui-react`) for flexible integration into different project types."
+        "Alexandrie is an open-source, self-hosted knowledge base offering a powerful alternative to proprietary solutions like Notion or Confluence.",
+        "It features an advanced Markdown editor with native support for LaTeX, diagrams, speech-to-text, and reusable snippets, perfect for technical documentation.",
+        "Deployment is simplified with a single Docker command, and its offline-first PWA ensures access and synchronization from any device.",
+        "Offers robust team collaboration with granular 5-level access control, multi-tenant architecture, and integrated Kanban boards.",
+        "Provides full data sovereignty with S3 integration, automated backups, and enterprise-grade features like OIDC SSO."
     ],
     "tags": [
-        "API Documentation",
-        "OpenAPI",
-        "Swagger",
-        "Developer Tools",
-        "Web Development"
+        "KnowledgeBase",
+        "SelfHosted",
+        "OpenSource",
+        "Markdown",
+        "Collaboration"
     ],
-    "stars": 28917,
-    "forks": 9263,
-    "open_issues": 1284,
-    "languages": "JavaScript",
-    "readme_summary": "Swagger UI is a JavaScript-based tool that generates interactive API documentation from OpenAPI specifications. It allows developers and consumers to visualize and interact with API resources without needing to implement the API logic, making API exploration and integration significantly easier.",
-    "project_id": 2055965,
-    "url": "https://github.com/swagger-api/swagger-ui",
-    "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API."
+    "stars": 1991,
+    "forks": 124,
+    "open_issues": 17,
+    "languages": "Vue",
+    "readme_summary": "Alexandrie is an open-source, self-hosted knowledge base and wiki platform that serves as an alternative to tools like Notion and Confluence. It offers advanced Markdown editing, offline-first capabilities, team collaboration features, and robust security options like OIDC/SSO.",
+    "project_id": 527121729,
+    "url": "https://github.com/Smaug6739/Alexandrie",
+    "description": "📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command."
 }
