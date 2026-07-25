@@ -1,44 +1,30 @@
 [
     {
-        "project_id": 832279087,
-        "content": "✨ <b>awesome-android-root</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo serve as a centralized, curated resource for discovering and learning about Android rooting tools, modules, and guides.\n<br>\n✨ <b>Key Features:</b>\n• Extensive collection of 500+ root apps and modules\n• Support for Magisk, KernelSU, and LSPosed (Xposed)\n• Step-by-step rooting guides for diverse devices\n<br>\n📖 <b>Summary:</b>\nAwesome Android Root is a comprehensive hub for Android rooting enthusiasts, offering a curated collection of over 500 top root apps, Magisk, KernelSU, and LSPosed modules, alongside detailed rooting guides for various devices. It aims to be a central resource for all things related to rooting and customizing Android devices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/awesome-android-root/awesome-android-root?embed=0\">View Project</a>\n• <a href=\"https://awesome-android-root.pages.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/832279087/2c0cb5fa-190c-43b6-8866-660fb76d8b9c",
+        "project_id": 1213937993,
+        "content": "✨ <b>model-trader</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automate and codify the trading strategies of human traders by translating their qualitative decision-making processes into quantitative, executable code.\n<br>\n✨ <b>Key Features:</b>\n• Distill trader's recorded thinking into executable strategy\n• Create live screeners and paper traders\n• Optional LLM agent for discretionary review\n• Reusable pattern detectors (FVG, swings, etc.)\n<br>\n📖 <b>Summary:</b>\nmodel-trader is a Python framework that transforms a trader's recorded thinking (from videos, articles, etc.) into an executable algorithmic trading strategy. It distills their judgment into a series of pass/fail checks, enabling the creation of live screeners and paper traders, with an optional LLM agent to provide discretionary oversight.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/tonbistudio/model-trader?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/996600c6eccd8f3babfb2817092533b04938de4d78cf369dcce3fa5c51a843a3/tonbistudio/model-trader",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 0.15
     },
     {
-        "project_id": 47682281,
-        "content": "🔥 <b>restreamer</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a self-hosted, flexible, and cost-effective solution for individuals and organizations to manage and distribute live video streams across multiple platforms and websites.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted streaming server\n<br>\n📖 <b>Summary:</b>\nRestreamer is a self-hosted, open-source streaming server solution that allows users to ingest live video streams (e.g., from OBS) via RTMP and SRT protocols. It then enables re-streaming to various platforms like YouTube, Twitch, and Vimeo, or embedding a player directly into a website. The solution offers a user-friendly interface, supports multiple codecs and protocols, and includes features for hardware acceleration and monitoring.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/datarhei/restreamer?embed=0\">View Project</a>\n• <a href=\"https://docs.datarhei.com/restreamer/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/47682281/c5b62762-2bf5-4d04-b569-371995a7b58b",
+        "project_id": 1195341792,
+        "content": "🌟 <b>another</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nMirroring and controlling an Android device from a desktop computer, with advanced features for automation and AI integration.\n<br>\n✨ <b>Key Features:</b>\n• Real-time screen mirroring (H.264/H.265)\n• Adaptive video bitrate\n• Macro recording and management\n• Wi-Fi mirroring\n• Device audio forwarding (Android 11+)\n<br>\n📖 <b>Summary:</b>\nAnother is a desktop application that allows users to mirror and control their Android devices on their computer via USB or Wi-Fi. It leverages scrcpy for streaming and input, offering features like screen recording, macro recording, and AI agent integration through an MCP server.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Zfinix/another?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/cce36c77bb18689b18f1709b66d26b458c1ae48a508a130c43960f2cf50da111/Zfinix/another",
+        "platform": "telegram",
+        "quality_score": 0.8500000000000001
+    },
+    {
+        "project_id": 317531562,
+        "content": "✨ <b>Text-Grab</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nExtracting and copying text from any visible source on Windows, especially from images or areas where text cannot be selected directly.\n<br>\n✨ <b>Key Features:</b>\n• OCR text extraction from screen regions, images, and PDFs\n• On-device processing for privacy and no internet dependency\n• Multiple capture modes (Full-Screen, Region, Window, File)\n• Background process with global hotkeys\n<br>\n📖 <b>Summary:</b>\nText Grab is a Windows application that uses Optical Character Recognition (OCR) to extract text from images, PDFs, and screen regions. It offers multiple capture modes, on-device processing for privacy, and integration with the Windows environment for quick text copying and editing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TheJoeFin/Text-Grab?embed=0\">View Project</a>\n• <a href=\"https://textgrab.net/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/317531562/faf49931-411a-43c6-a21f-0fefd45fc46a",
         "platform": "telegram",
         "quality_score": 0.95
     },
     {
-        "project_id": 1305202283,
-        "content": "✨ <b>Triangle-Downloader</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nDownloading YouTube video, audio, and subtitles directly from the YouTube player interface.\n<br>\n✨ <b>Key Features:</b>\n• Download video (720p/1080p MP4)\n• Download audio (MP3)\n• Download subtitles (.txt)\n• Selectable playback fragment\n• Choice of video format (VP9/H.264)\n<br>\n📖 <b>Summary:</b>\nTriangle Downloader is a Chrome extension for downloading YouTube video, audio, and subtitles directly within the browser. It captures the player stream locally without relying on external tools or servers, offering options for video quality, audio format, and subtitle extraction.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HelpFreedom/Triangle-Downloader?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/303b95d7f097f77fed8df205b22a0d9c8cc1c0c1de81df4769d28ba9ac75cfd6/HelpFreedom/Triangle-Downloader",
+        "project_id": 657057869,
+        "content": "✨ <b>HuggingFaceModelDownloader</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDownloading models and datasets from HuggingFace Hub, with a focus on efficient, parallel downloads and intelligent selection of model quantizations.\n<br>\n✨ <b>Key Features:</b>\n• Parallel downloads (multiple connections per file, concurrent file downloads)\n• Interactive GGUF picker with quality ratings and RAM estimates\n• Automatic resume on interruption\n• Python compatibility (integrates with HuggingFace cache)\n<br>\n📖 <b>Summary:</b>\nHuggingFaceModelDownloader is a Go utility designed for efficiently downloading models and datasets from the HuggingFace Hub. It offers parallel download capabilities, an interactive GGUF analyzer for selecting model quantizations, and seamless integration with Python's HuggingFace libraries.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bodaay/HuggingFaceModelDownloader?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/82d7479ba616051915663b999107946362483bb09e6a0d416b095801a488a1be/bodaay/HuggingFaceModelDownloader",
         "platform": "telegram",
         "quality_score": 0.7
-    },
-    {
-        "project_id": 1026386860,
-        "content": "🔥 <b>Menstrudel</b> | Dart\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a private, offline, and intuitive mobile application for tracking their menstrual cycle, managing medications, and receiving timely reminders.\n<br>\n✨ <b>Key Features:</b>\n• Log with a Tap for periods\n• Track flow, pain, and symptoms\n• View menstrual history journal\n• Predictive forecasts for next period\n• Countdown to next cycle\n<br>\n📖 <b>Summary:</b>\nMenstrudel is a free, open-source, and privacy-focused period and pill tracking mobile application built with Flutter. It offers offline functionality for logging menstrual cycles, tracking symptoms, predicting future periods, and managing medication schedules.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/J-shw/Menstrudel?embed=0\">View Project</a>\n• <a href=\"https://menstrudel.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1026386860/32c5f0f3-8697-4b13-9d07-4d94395a56f0",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 1039763226,
-        "content": "💡 <b>transcriber</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a private, self-hosted, and efficient solution for transcribing audio and video content from various sources, including YouTube and local files, using advanced AI models.\n<br>\n✨ <b>Key Features:</b>\n• YouTube & Local File Transcription\n• Real-Time Progress via WebSockets\n• Smart Media Library Management\n<br>\n📖 <b>Summary:</b>\nTranscriber is a self-hosted, open-source web application that leverages OpenAI Whisper and FastAPI for AI-powered audio and video transcription. It prioritizes user privacy by processing data locally and offers features like YouTube URL transcription, local file uploads, real-time progress updates via WebSockets, and a smart media library.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/BrendownFerreira/transcriber?embed=0\">View Project</a>\n• <a href=\"https://noktech.com.br/softwares/transcriber?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4a607fd49e6783093f41e1ffd0fb158a9ac80da3d2ec709da01bc4a584ac86a8/BrendownFerreira/transcriber",
-        "platform": "telegram",
-        "quality_score": 0.35
-    },
-    {
-        "project_id": 1107265809,
-        "content": "💡 <b>ExploitDB-Hunter</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo efficiently search for and download security exploits from Exploit-DB via a command-line interface, streamlining the workflow for information security professionals.\n<br>\n✨ <b>Key Features:</b>\n• Search exploits by CVE ID or title\n• Download exploits directly from the command line\n• Interactive terminal interface for selecting exploits\n• Filter exploits by type, platform, port, and tags\n• Customizable download directory\n<br>\n📖 <b>Summary:</b>\nExploitDB-Hunter is a lightweight Python command-line tool designed to simplify the process of searching and downloading exploits from the Exploit-DB database. It offers an interactive terminal interface, eliminating the need to manually browse the website.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/J0hnTh3Kn1ght/ExploitDB-Hunter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ab658cd6b320e2afa3268bca60025886a29e63b47e8d8b9ff9c0b09728821a61/J0hnTh3Kn1ght/ExploitDB-Hunter",
-        "platform": "telegram",
-        "quality_score": 0.6
     }
 ]
