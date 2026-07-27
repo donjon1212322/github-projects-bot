@@ -1,26 +1,26 @@
 {
-    "title": "Unleash AI on Your Pentests: Discover the Game-Changing PentestAgent!",
-    "article": "Hey fellow developers and security enthusiasts! Are you tired of the repetitive, often time-consuming tasks involved in penetration testing? What if I told you there's a new GitHub project that's literally putting AI to work to make your security assessments smarter, faster, and more efficient? Get ready to be excited, because PentestAgent is here, and it's a total game-changer!\n\nPentestAgent is an incredibly cool, open-source project that leverages the power of large language models (LLMs) like OpenAI's GPT or Anthropic's Claude to automate and assist in penetration testing. Think of it as having an AI-powered security expert right at your fingertips, ready to help you uncover vulnerabilities. It's built with Python 3.10+ and integrates seamlessly with various LLM providers, making it super flexible.\n\nWhat makes PentestAgent truly stand out is its intelligent approach to security tasks. It offers different operational modes to suit your needs. For a quick, single-shot command with tool execution, you've got `/assist`. Need a task autonomously executed? The `/agent` mode handles it. But here's where it gets really interesting: `/crew` mode orchestrates multiple specialized AI workers for complex tasks, and `/interact` mode lets you chat directly with the agent, guiding you through the pentesting process step-by-step. Imagine having a knowledgeable partner guiding you through a complex exploit!\n\nInstallation is a breeze, whether you prefer manual setup or the provided scripts. You just need Python 3.10+ and an API key for your chosen LLM. Plus, it supports LiteLLM, so you're not locked into one provider. For those who prioritize isolation and a pre-configured environment, PentestAgent shines with its Docker integration. You can run the agent and its tools (like nmap, metasploit, sqlmap, hydra, and curl) inside a secure container, even a full Kali Linux environment. This means you get all the power of these tools without cluttering your local machine, and with an added layer of security. It's like having a dedicated, AI-driven Kali workstation ready to go.\n\nThe benefits for developers are huge. This project can dramatically reduce the manual effort in early-stage reconnaissance, vulnerability scanning, and even some exploitation. It helps you focus on the more complex, nuanced aspects of security, while the AI handles the heavy lifting. The interactive mode is fantastic for learning and exploring, making it a great tool for both seasoned pros and those new to pentesting. Plus, it can even generate reports from your session, saving you valuable documentation time. If you're looking to supercharge your security workflow with cutting-edge AI, PentestAgent is an absolute must-see. Go check it out on GitHub – you won't regret it!",
+    "title": "Unleash Your Inner AI! Live Avatar: The Future of Real-time, Infinite Video Generation is Here!",
+    "article": "Hey fellow developers! Ever dreamed of creating incredibly lifelike, long-form AI avatars that respond in real-time to audio? Well, buckle up, because a game-changing project just landed on GitHub, and it's called Live Avatar! This isn't just another avatar generator; it's a breakthrough that promises to redefine how we think about virtual characters and interactive experiences. If you're into AI, virtual reality, or just pushing the boundaries of what's possible, you *have* to check this out.Imagine an AI assistant that doesn't just speak, but *looks* like it's having a natural conversation with you, complete with expressive facial movements and gestures, all driven by your voice. Live Avatar makes this a reality. At its core, this ingenious system is designed for generating avatar videos from audio input, but with a crucial twist: it's real-time, streaming, and can run for literally *hours* without a hitch. The magic behind this is a massive 14-billion-parameter diffusion model, which is like an incredibly smart artist capable of painting realistic video frames on the fly.What makes it truly special is its 'Block-wise Autoregressive' processing. Think of it like a master storyteller who can continuously generate new chapters of a story, seamlessly, as long as you keep talking. This architecture allows Live Avatar to produce videos that are 10,000+ seconds long – that's over 2.5 hours of continuous, high-quality avatar animation! And the best part? It achieves a blazing 45 frames per second (FPS), ensuring super smooth, low-latency interaction, even on multi-card H800 GPUs.So, why should *you* be excited about Live Avatar? The possibilities are endless! For starters, it enables truly interactive AI companions, virtual presenters, customer service bots that feel more human, and dynamic educational content – all without needing pre-rendered animations. Need a virtual character to host a multi-hour livestream or give an extended presentation? Live Avatar handles it with ease, eliminating the need for complex stitching or short video segments. Plus, it boasts strong generalization, meaning you can animate cartoon characters, create singing avatars, or adapt it to a wide array of diverse scenarios, like animated tech explanations or even virtual concert performances. For developers working on virtual assistants, gaming, media production, or interactive storytelling, Live Avatar can drastically cut down development time and resources needed for high-quality character animation. It provides a robust, high-performance foundation right out of the box, letting you focus on creativity rather than complex animation pipelines. This project is a huge step forward for real-time AI-driven content creation, and I can't wait to see what you all build with it!",
     "key_takeaways": [
-        "PentestAgent uses AI (LLMs like GPT, Claude) to automate and assist in penetration testing.",
-        "It offers multiple modes: Assist for single tasks, Agent for autonomous execution, Crew for multi-agent orchestration, and Interact for guided, conversational pentesting.",
-        "The project integrates with Docker, allowing tools like Nmap and Metasploit to run in isolated containers, including a Kali Linux environment.",
-        "It supports various LLM providers via LiteLLM and is easy to install and configure.",
-        "PentestAgent significantly enhances efficiency, provides guided learning, and streamlines reporting for security professionals."
+        "Live Avatar generates real-time, audio-driven avatar videos.",
+        "It supports infinite-length streaming, capable of 10,000+ second continuous video generation.",
+        "Achieves 45 FPS for smooth, low-latency interactive experiences.",
+        "Highly versatile, working with diverse characters (e.g., cartoons) and scenarios (e.g., singing).",
+        "Powered by a 14B-parameter diffusion model with Block-wise Autoregressive processing."
     ],
     "tags": [
         "AI",
-        "Penetration Testing",
-        "Cybersecurity",
-        "Automation",
-        "GitHub"
+        "Avatar Generation",
+        "Real-time",
+        "Diffusion Models",
+        "Video Synthesis"
     ],
-    "stars": 2834,
-    "forks": 562,
-    "open_issues": 12,
+    "stars": 2285,
+    "forks": 264,
+    "open_issues": 39,
     "languages": "Python",
-    "readme_summary": "PentestAgent is an AI-powered framework designed for automated black-box security testing. It supports various penetration testing workflows, including bug bounty hunting and red-teaming, by leveraging AI agents and a knowledge graph.",
-    "project_id": 984413599,
-    "url": "https://github.com/GH05TCREW/pentestagent",
-    "description": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows."
+    "readme_summary": "Live Avatar is a framework for generating real-time, streaming, and infinitely long audio-driven avatar videos. It utilizes a large diffusion model and block-wise autoregressive processing to achieve high frame rates and support extended video generation.",
+    "project_id": 1109843084,
+    "url": "https://github.com/Alibaba-Quark/LiveAvatar",
+    "description": "[ECCV 2026 Oral] Implementation of \"Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length\""
 }
