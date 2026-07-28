@@ -1,44 +1,30 @@
 [
     {
-        "project_id": 1177548822,
-        "content": "🚀 <b>playtranslate</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time in-game text translation for Android devices, aiding both language learners and casual gamers.\n<br>\n✨ <b>Key Features:</b>\n• One-tap Translation\n• Auto Translation Mode\n• Word lookup\n• Offline functionality\n• Furigana/Pinyin Mode\n<br>\n📖 <b>Summary:</b>\nPlayTranslate is an Android application that provides real-time translation for games, enabling users to understand game text in various languages. It supports features like one-tap translation, automatic translation, word lookup, offline capabilities, and integration with learning tools like Anki and Yomitan.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dominostars/playtranslate?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/bf41af66a9d1f9cb0f33108e98b96848b912ccad623d8d5fb2ccd74ab4c3e840/dominostars/playtranslate",
+        "project_id": 1308984911,
+        "content": "🔥 <b>linux-camera</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a user-friendly and functional camera application for Linux desktops, enabling basic photography and videography tasks with easy-to-use controls and minimal system requirements.\n<br>\n✨ <b>Key Features:</b>\n• Photo capture (JPG)\n• Video recording (MP4)\n• Digital zoom and cropping (1x-5x)\n• Image settings (brightness, contrast, saturation, etc.)\n• Night mode\n<br>\n📖 <b>Summary:</b>\nLinux Camera is a simple, lightweight camera application for Linux written in Python. It provides essential features like taking photos, recording videos, digital zoom, image adjustments, and a night mode, all without heavy dependencies.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HelpFreedom/linux-camera?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f14ba260b8ccdea6991fb211c47374b9e6dc7c90276495c8df4154bd25f4df69/HelpFreedom/linux-camera",
         "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 0.44999999999999996
     },
     {
-        "project_id": 1188071505,
-        "content": "🔥 <b>batear</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide an affordable and accessible solution for detecting nearby drones using acoustic analysis, primarily for personal or community airspace security.\n<br>\n✨ <b>Key Features:</b>\n• Ultra-low-cost hardware\n• Edge computing (no cloud dependency)\n• Acoustic drone detection\n• ESP32-S3 microcontroller\n• Encrypted LoRa or wired Ethernet/PoE alerting\n<br>\n📖 <b>Summary:</b>\nBatear is an ultra-low-cost, edge-only acoustic drone detector built on the ESP32-S3 microcontroller. It uses a microphone to detect drone rotor harmonics and can alert users via encrypted LoRa or wired Ethernet/PoE, integrating with smart home systems like Home Assistant.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/batear-io/batear?embed=0\">View Project</a>\n• <a href=\"https://www.batear.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c254048735a1a4a35ba7c2fae3d57947d2e95b6cfb88d401e878666db37feabc/batear-io/batear",
+        "project_id": 1181839727,
+        "content": "💡 <b>kudu</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSystem cleaning, optimization, security scanning, and privacy enhancement across Windows, macOS, and Linux.\n<br>\n✨ <b>Key Features:</b>\n• System Cleaner (temp files, logs, caches)\n• Browser Cleaner\n• App Cleaner\n• Gaming Cleaner\n• Registry Cleaner\n<br>\n📖 <b>Summary:</b>\nKudu is a free, open-source system utility for Windows, macOS, and Linux that optimizes performance, enhances privacy, and improves security. It offers a comprehensive suite of tools for cleaning temporary files, managing startup applications, scanning for malware, and configuring system settings.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AdventDevInc/kudu?embed=0\">View Project</a>\n• <a href=\"https://usekudu.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4e9c322bbdbec698aeaba37c4ce5e330c082aa54ce78871249520c464d678279/AdventDevInc/kudu",
         "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 0.85
     },
     {
-        "project_id": 474961035,
-        "content": "🌟 <b>trippy</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nDiagnosing and analyzing network connectivity issues through an interactive terminal interface.\n<br>\n✨ <b>Key Features:</b>\n• Combines ping and traceroute functionality\n• Real-time network diagnostics\n• Interactive TUI (Terminal User Interface)\n• Cross-platform compatibility (Linux, macOS, Windows, BSD)\n• Multiple installation methods (cargo, package managers, binaries)\n<br>\n📖 <b>Summary:</b>\nTrippy is a network diagnostic tool written in Rust that combines the functionalities of ping and traceroute. It provides real-time network performance analysis and helps users identify and troubleshoot network issues through an interactive terminal user interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/fujiapple852/trippy?embed=0\">View Project</a>\n• <a href=\"https://trippy.rs?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/474961035/4c1fb8ed-f085-4c39-8258-574cc65063ec",
+        "project_id": 666584530,
+        "content": "🔥 <b>LiveContainer</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to run and manage multiple iOS applications, including different versions, without the constraints of traditional installation methods and developer account limitations.\n<br>\n✨ <b>Key Features:</b>\n• Run iOS apps without installing them\n• Install unlimited apps with a single app ID\n• Support for multiple versions of an app with separate data containers\n• Bypass codesign requirements when JIT is available (iOS < 26)\n<br>\n📖 <b>Summary:</b>\nLiveContainer is an app launcher for iOS that allows users to run multiple applications without needing to install each one individually. It bypasses typical app installation limits and can manage different versions of apps with separate data containers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/LiveContainer/LiveContainer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6330e8c502826cf3e328be9ccbe66f8d9ce7830bf5ccb6f9842404d9e8e3c5ac/LiveContainer/LiveContainer",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 962685604,
-        "content": "🔥 <b>robin</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConducting AI-assisted open-source intelligence (OSINT) investigations on the dark web.\n<br>\n✨ <b>Key Features:</b>\n• Modular Architecture\n• Multi-Model LLM Support (OpenAI, Claude, Gemini, Ollama, etc.)\n• Streamlit-based Web UI\n• Conversational Follow-up Questions\n• One-Click Pivots for suggested queries\n<br>\n📖 <b>Summary:</b>\nRobin is an AI-powered Python tool designed for dark web Open Source Intelligence (OSINT) investigations. It utilizes Large Language Models (LLMs) to enhance search queries, filter results from dark web search engines, and generate concise investigation summaries, offering a conversational interface for follow-up questions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/apurvsinghgautam/robin?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2c76c604e83217dd1b4fc45e52dc223880868aae65b0187ca216f54f8616b5b3/apurvsinghgautam/robin",
+        "project_id": 997737944,
+        "content": "💡 <b>RuView</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide non-intrusive, camera-free sensing of human presence, activity, and vital signs within an environment by leveraging existing WiFi infrastructure.\n<br>\n✨ <b>Key Features:</b>\n• Real-time spatial intelligence and sensing through WiFi signals\n• Contactless vital sign monitoring (breathing and heart rate)\n• Presence detection and occupancy tracking\n• Activity recognition (walking, sitting, gestures, falls)\n<br>\n📖 <b>Summary:</b>\nRuView is a Rust-based platform that transforms ordinary WiFi signals into real-time spatial intelligence and vital sign monitoring. It uses low-cost ESP32 sensors to detect presence, track movement, measure breathing and heart rate, and even recognize activities, all without cameras or wearables.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ruvnet/RuView?embed=0\">View Project</a>\n• <a href=\"https://Cognitum.One/RuView?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/997737944/2860500f-6e90-47c1-a59a-1c83e376e5cf",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 1109843084,
-        "content": "🌟 <b>LiveAvatar</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time generation of long, interactive avatar videos driven by audio input.\n<br>\n✨ <b>Key Features:</b>\n• Real-time streaming interaction (45 FPS)\n• Infinite-length autoregressive generation (10,000+ seconds)\n• Audio-driven avatar generation\n• High generalization performance across diverse characters and scenarios\n• FP8 quantization for performance breakthrough\n<br>\n📖 <b>Summary:</b>\nLive Avatar is a framework for generating real-time, streaming, and infinitely long audio-driven avatar videos. It utilizes a large diffusion model and block-wise autoregressive processing to achieve high frame rates and support extended video generation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Alibaba-Quark/LiveAvatar?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/71f0c98d2afceba00cf1ca0dad5bfe03f9ad3717279ff12c0247795c62b02f16/Alibaba-Quark/LiveAvatar",
-        "platform": "telegram",
-        "quality_score": 1.0
-    },
-    {
-        "project_id": 839216423,
-        "content": "🚀 <b>liam</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nVisualizing database schemas through automatically generated ER diagrams.\n<br>\n✨ <b>Key Features:</b>\n• Generates beautiful and interactive ER diagrams\n• Seamless reverse engineering from existing database schemas\n• Zero configuration setup\n• High performance, handles 100+ tables\n• Fully open-source\n<br>\n📖 <b>Summary:</b>\nLiam ERD is an open-source tool that automatically generates beautiful, interactive Entity Relationship (ER) diagrams from your database schemas. It offers a seamless reverse-engineering process with zero configuration, providing high performance for projects of all sizes and an intuitive user interface for easy schema visualization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/liam-hq/liam?embed=0\">View Project</a>\n• <a href=\"https://liambx.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/839216423/1a7e486e-1212-4f08-94d1-2e9d116ad149",
-        "platform": "telegram",
-        "quality_score": 0.8
+        "quality_score": 1.2000000000000002
     }
 ]
