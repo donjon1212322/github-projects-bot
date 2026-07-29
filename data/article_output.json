@@ -1,26 +1,26 @@
 {
-    "title": "🤯 π RuView: Turn Your WiFi into a Superpower – See Through Walls and Sense Life!",
-    "article": "Hey fellow developers! Get ready to have your minds blown because I just stumbled upon a GitHub project that's nothing short of revolutionary. Imagine being able to detect people, track their movement, measure their breathing, and even their heart rate – all without cameras, wearables, or even needing line-of-sight. Sounds like science fiction, right? Well, say hello to **π RuView**, and it's here to turn your ordinary WiFi into a spatial intelligence system!\n\nThis isn't some futuristic gadget; it's pure, clever physics. Every WiFi router you own is already filling your space with radio waves. What π RuView does is incredibly smart: it uses readily available, low-cost ESP32 sensors to capture the subtle disturbances these radio waves experience when people move, breathe, or even just sit still. It's like giving your WiFi a pair of X-ray glasses, letting it 'see' through walls and sense what's happening on the other side. This Channel State Information (CSI) is then processed to give you actionable insights.\n\nThink about the possibilities! π RuView can provide accurate presence and occupancy detection, telling you if someone is in a room – even if they're behind a closed door. It can monitor vital signs like breathing and heart rate, contactlessly, which is huge for elderly care or sleep monitoring without intrusive devices. It can even recognize activities like walking, sitting, or potential falls. And get this: it can even map your environment, detecting moved furniture or new objects. All of this happens locally, on edge hardware (ESP32 mesh paired with a Cognitum Seed), meaning no cloud uploads, maximum privacy, and lightning-fast responses.\n\nBut the real kicker for us developers? The seamless integration! π RuView plays natively with all the major smart home ecosystems: Home Assistant (with a simple MQTT flag!), Apple Home & HomePod, Google Home, and Amazon Alexa. It even supports Matter, making it incredibly versatile. You can literally ask Siri or Alexa about presence or vitals in a room with zero custom skills needed. It ships with 21 entities per node, including semantic states like 'someone-sleeping,' 'possible-distress,' 'room-active,' and 'fall-risk-elevated.' This isn't just a sensor; it's a platform for building truly intelligent, privacy-respecting smart spaces. This project is a game-changer for anyone looking to build advanced home automation or spatial awareness applications without compromising privacy. You absolutely have to check this out!",
+    "title": "Certimate: Your New Open-Source Best Friend for Effortless SSL Certificate Management!",
+    "article": "Hey fellow developers! Who here genuinely *enjoys* the process of manually managing SSL certificates? The setup, the renewals, the frantic last-minute fixes when one expires? If you're anything like me, you probably just heard crickets. Managing SSL certificates can be a real headache, a time sink, and frankly, a bit stressful. But what if I told you there's an amazing open-source project that makes all that pain disappear? Get ready to meet **Certimate**!Certimate is a game-changer for anyone dealing with SSL certificates. It's an open-source, self-hosted ACME tool designed to automate the *entire* lifecycle of your SSL certificates. We're talking issuance, deployment, renewal, and even visual monitoring – all handled for you. No more manual command-line wrestling or setting calendar reminders for renewals. Certimate takes care of it, letting you focus on building awesome things instead of worrying about certificate expiry dates.One of the coolest aspects of Certimate is its commitment to **data privacy and security**. Since it's self-hosted, all your sensitive certificate data stays right where it belongs: on your own servers. You maintain full control, eliminating concerns about third-party services holding your critical information. This alone is a massive win for many projects and organizations.But wait, there's more! Certimate boasts **zero dependencies**. Yes, you read that right. No need to install specific databases, runtimes, or complex frameworks. It's designed to be ready to use right out of the box, making setup incredibly straightforward. This simplicity, combined with its **cross-platform compatibility** (running smoothly on Windows, Linux, and macOS), means you can deploy it virtually anywhere your infrastructure lives without a fuss.Imagine a clear, visual dashboard where you can see all your certificates, their status, and upcoming renewal dates at a glance. Certimate provides exactly that, giving you peace of mind and proactive insights into your certificate landscape. The automation it offers isn't just about convenience; it drastically reduces the chance of human error, saving you from potential downtime and security vulnerabilities caused by forgotten renewals.In essence, Certimate empowers you to reclaim your time and sanity. It's a robust, user-friendly solution that transforms a typically tedious task into a seamless, automated process. If you're tired of the SSL certificate merry-go-round, you absolutely *need* to check out Certimate. It's truly a breath of fresh air for modern web development!",
     "key_takeaways": [
-        "π RuView transforms standard WiFi into a powerful spatial intelligence system, enabling 'see-through-walls' sensing.",
-        "It detects presence, vital signs (breathing/heart rate), and activities without cameras or wearables, ensuring privacy.",
-        "The system runs entirely on low-cost, local edge hardware (ESP32 mesh), with no cloud dependency.",
-        "It offers deep, native integration with major smart home platforms like Home Assistant, Apple Home, Google Home, Alexa, and Matter.",
-        "Developers can use it to create advanced, privacy-focused automations and solve sensing problems traditional methods can't."
+        "Certimate is an open-source, self-hosted ACME tool that automates the full SSL certificate lifecycle.",
+        "It handles issuance, deployment, renewal, and visual monitoring of your certificates.",
+        "Being self-hosted ensures maximum data privacy and security by keeping all data on your servers.",
+        "The project has zero dependencies, offering incredibly easy setup and cross-platform compatibility.",
+        "Certimate saves time, reduces human error, and provides peace of mind with its automated processes and visual dashboard."
     ],
     "tags": [
-        "WiFi Sensing",
-        "ESP32",
-        "Smart Home",
-        "Privacy",
-        "Spatial Intelligence"
+        "SSL",
+        "ACME",
+        "Certificate Management",
+        "Automation",
+        "Self-hosting"
     ],
-    "stars": 87060,
-    "forks": 11580,
-    "open_issues": 30,
-    "languages": "Rust",
-    "readme_summary": "RuView is a Rust-based platform that transforms ordinary WiFi signals into real-time spatial intelligence and vital sign monitoring. It uses low-cost ESP32 sensors to detect presence, track movement, measure breathing and heart rate, and even recognize activities, all without cameras or wearables.",
-    "project_id": 997737944,
-    "url": "https://github.com/ruvnet/RuView",
-    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    "stars": 8928,
+    "forks": 862,
+    "open_issues": 54,
+    "languages": "Go",
+    "readme_summary": "Certimate is an open-source, self-hosted ACME tool that automates the entire lifecycle of SSL certificate management, including issuance, deployment, renewal, and monitoring. It offers a visual interface and supports cross-platform compatibility with zero dependencies.",
+    "project_id": 845337192,
+    "url": "https://github.com/certimate-go/certimate",
+    "description": "An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。"
 }
