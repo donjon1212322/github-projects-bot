@@ -1,7 +1,7 @@
 {
-    "project_id": 1300953851,
-    "content": "🚀 <b>LimitsChecker</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a non-intrusive, real-time visual indicator of their Claude Code API usage limits directly within their GNOME desktop environment.\n<br>\n✨ <b>Key Features:</b>\n• GNOME tray indicator for Claude Code usage limits\n• Monitors Session, Week, and per-model limits\n• Reads Anthropic OAuth usage API directly\n• No external CLI dependencies\n• Reads token from `~/.claude/.credentials.json`\n<br>\n📖 <b>Summary:</b>\nLimitsChecker is a GNOME tray indicator that monitors Claude Code's API usage limits, including session, weekly, and per-model quotas. It directly reads usage data from the Anthropic OAuth API without relying on external CLIs, providing real-time feedback in the GNOME top bar.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lapurryt/LimitsChecker?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/dd18af557e62d0d47eb4d1d5531471c182867ce69da44f3f505f4ddc2d532ea7/lapurryt/LimitsChecker",
+    "project_id": 942807924,
+    "content": "🌟 <b>beatsync</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSynchronizing audio playback across multiple devices with high precision for a shared listening experience.\n<br>\n✨ <b>Key Features:</b>\n• Millisecond-accurate synchronization\n• Cross-platform compatibility\n• Spatial audio control\n• Polished user interface\n• Self-hostable\n<br>\n📖 <b>Summary:</b>\nBeatsync is a high-precision web audio player designed for synchronized multi-device playback. It leverages NTP-inspired time synchronization to ensure millisecond-accurate audio across different devices, offering features like spatial audio and a polished, self-hostable interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/freeman-jiang/beatsync?embed=0\">View Project</a>\n• <a href=\"https://beatsync.gg?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/45008cd5112cb4e65354a590e1dbbd3f675e8aa327a39c50fb580ca605c8d89e/freeman-jiang/beatsync",
     "platform": "telegram",
-    "quality_score": 0.8
+    "quality_score": 0.7000000000000001
 }

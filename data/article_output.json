@@ -1,26 +1,26 @@
 {
-    "title": "Screenshot Studio: Your New Secret Weapon for Stunning Demos and Docs!",
-    "article": "Hey fellow developers! Ever struggled to make your project screenshots truly pop? You know, the kind that instantly grab attention on GitHub READMEs, blog posts, or social media? We've all been there, fiddling with basic editors, wishing for something more. Well, I just stumbled upon a GitHub project that's about to change your screenshot game forever: Screenshot Studio! This isn't just another screenshot tool; it's a full-blown, free, browser-based editor that lets you transform ordinary screen captures into visual masterpieces. Imagine taking your app's screenshot and instantly placing it inside a sleek Safari or Chrome browser mockup, complete with realistic toolbars. Or perhaps framing it within a cool Arc browser or Polaroid style frame? Screenshot Studio does all this and more! It offers over 100 backgrounds – from vibrant gradients to subtle blurs and noise. But it doesn't stop there. Want to add a professional touch? You can apply 3D transforms with over 30 perspective presets, giving your flat images incredible depth. Need to highlight something specific? There are drawing tools for arrows, shapes, blur regions, and text overlays. And for those looking to create dynamic content, it even lets you import tweets and generate beautiful code snippets! What really blew me away are the animation and video export capabilities. Yes, you read that right! You can add 20+ animation presets, fine-tune them with a timeline editor and keyframe control, and then export your animated showcase as an MP4, WebM, or GIF. This is HUGE for creating engaging demos for your project's landing page, social media announcements, or even short tutorials. And the best part? It's all done in-browser, with hardware-accelerated encoding for video, no sign-up required, and absolutely no watermarks! Plus, you can export high-resolution PNG/JPG files up to 5x scale. This means your project can look incredibly polished without any extra effort or expensive software. It's built with Next.js, React, TypeScript, and Tailwind CSS, making it a robust and modern application, and it's open-source, so you can even contribute! Seriously, if you're a developer, designer, or anyone who needs to present their work visually, Screenshot Studio is an absolute must-try. It simplifies the process of creating stunning visuals, elevates your project's presentation, and saves you a ton of time. Go check out screenshot-studio.com right now and prepare to be amazed. Your READMEs will thank you!",
+    "title": "AuthPass: The Open Source Password Manager You've Been Waiting For (Built with Flutter!)",
+    "article": "Hey fellow developers! Let's be honest, managing passwords across all our devices is a constant struggle. We've got our work laptop, our personal phone, a tablet, maybe even a Linux machine – and keeping track of strong, unique passwords for every single service can feel like a full-time job. If you've ever found yourself wishing for a truly seamless, secure, and open-source solution, then get ready to be excited about AuthPass!\n\nAuthPass is an incredible open-source password manager that's taking the pain out of password management. What makes it so cool? First off, it's fully compatible with KeePass 2.x (kdbx 3.x) files. This is huge because KeePass is a well-established, trusted standard in the password management world, meaning your existing secure databases can likely be used directly with AuthPass. No more proprietary lock-ins or worries about data migration!\n\nBut the real magic, especially for us tech enthusiasts, is that AuthPass is built with Flutter. For those unfamiliar, Flutter is Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. This is why AuthPass is available literally everywhere: Mac, Android, iOS, Linux, Windows, and even a web version! Imagine having the exact same, familiar interface and functionality on every device you own. It's incredibly convenient and ensures a consistent, smooth experience no matter where you need to access your credentials.\n\nFrom a developer's perspective, this project is a goldmine. Not only does it solve a universal problem with an elegant, cross-platform solution, but it's also open source. This means transparency, community-driven development, and the opportunity to audit the code for security – something incredibly important for a password manager. Plus, if you're a Flutter developer, it's a fantastic real-world project to dive into and even contribute to! They've got clear paths for contribution, whether it's coding, translating, or even just spreading the word.\n\nAuthPass isn't just another password manager; it's a testament to the power of open source and modern cross-platform development. It offers robust security through KeePass compatibility, unparalleled accessibility across devices thanks to Flutter, and the peace of mind that comes with a transparent, community-driven project. Stop struggling with your passwords and give AuthPass a spin – you'll wonder how you ever managed without it!",
     "key_takeaways": [
-        "Screenshot Studio is a free, browser-based tool for creating stunning project visuals.",
-        "Offers a wide range of features including device frames, 3D effects, and diverse backgrounds.",
-        "Includes powerful animation and video export capabilities for dynamic demos.",
-        "No sign-up, no watermarks, and high-resolution exports up to 5x scale.",
-        "An essential tool for enhancing GitHub READMEs, portfolios, and social media content."
+        "AuthPass is a feature-rich, open-source password manager.",
+        "It offers seamless cross-platform availability across mobile, desktop, and web, powered by Flutter.",
+        "The project is compatible with KeePass 2.x (kdbx 3.x) files, ensuring robust security and data portability.",
+        "Being open source, it provides transparency and opportunities for community contribution.",
+        "AuthPass simplifies secure password management with a consistent user experience on all your devices."
     ],
     "tags": [
-        "screenshot-editor",
-        "developer-tools",
-        "open-source",
-        "web-development",
-        "design-tools"
+        "PasswordManager",
+        "OpenSource",
+        "Flutter",
+        "KeePass",
+        "CrossPlatform"
     ],
-    "stars": 800,
-    "forks": 125,
-    "open_issues": 6,
-    "languages": "TypeScript",
-    "readme_summary": "Screenshot Studio is a free, browser-based editor for creating high-quality visuals from screenshots. It offers a wide range of customization options including backgrounds, device frames, 3D effects, and annotation tools, with support for animations and video export.",
-    "project_id": 1088676951,
-    "url": "https://github.com/KartikLabhshetwar/screenshot-studio",
-    "description": "A free, browser-based editor for creating stunning screenshots and visuals. No signup, no watermarks."
+    "stars": 2735,
+    "forks": 278,
+    "open_issues": 147,
+    "languages": "Dart",
+    "readme_summary": "AuthPass is an open-source, cross-platform password manager built with Flutter. It offers compatibility with KeePass 2.x (KDBX 3 and KDBX 4) databases, allowing users to securely store and manage their credentials across various devices including mobile (iOS, Android) and desktop (macOS, Windows, Linux), as well as a web interface.",
+    "project_id": 203756716,
+    "url": "https://github.com/authpass/authpass",
+    "description": "AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) compatible."
 }
