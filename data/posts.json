@@ -1,37 +1,44 @@
 [
     {
-        "project_id": 268147152,
-        "content": "🌟 <b>wifi-card</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo create a physical, shareable card with WiFi credentials via a QR code for easy guest access.\n<br>\n✨ <b>Key Features:</b>\n• Generate QR code for WiFi login details\n• Printable card format\n• Supports multiple languages\n• Local development environment with Docker\n• Prettier for code formatting and pre-commit hooks\n<br>\n📖 <b>Summary:</b>\nThis JavaScript project, wificard.io, allows users to easily generate and print a physical card containing their WiFi network's login details. It's designed for convenient sharing of WiFi access with guests or household members by presenting the information in a scannable QR code format.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bndw/wifi-card?embed=0\">View Project</a>\n• <a href=\"https://wificard.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4536138db567c4b702d94bcace9f56d0cb08562cdc0b661dfc1373412b14e323/bndw/wifi-card",
+        "project_id": 1071825013,
+        "content": "🌟 <b>aero-hand-open</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDexterous manipulation research and development for educational institutions, research labs, and robotics enthusiasts.\n<br>\n✨ <b>Key Features:</b>\n• 7 DoFs robotic hand with 5 fingers (16 joints)\n• Tendon-driven architecture\n• Fully 3D-printed structure, modular and easy to assemble\n• Lightweight design (389 g)\n• Affordable kit ($314 USD)\n<br>\n📖 <b>Summary:</b>\nAero Hand Open is an open-source, tendon-driven robotic hand designed for dexterous manipulation research. It emphasizes simplicity, reliability, and affordability, utilizing 3D printing and off-the-shelf components for accessibility.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TetherIA/aero-hand-open?embed=0\">View Project</a>\n• <a href=\"https://tetheria.github.io/aero-hand-open/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/80f6f96c5d14d5561a2bc2e6e7859f9f9795d0647cda83540be665be9ecc1180/TetherIA/aero-hand-open",
         "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 0.8500000000000001
     },
     {
-        "project_id": 959123498,
-        "content": "🔥 <b>Unity-MCP</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nIntegrating and developing AI-powered features within the Unity game engine, streamlining the AI development lifecycle for game developers.\n<br>\n✨ <b>Key Features:</b>\n• AI Skills and MCP Tools for Unity Engine\n• Full AI development and testing loop\n• CLI for quick setup\n• Efficient token usage\n• Advanced AI tools\n<br>\n📖 <b>Summary:</b>\nUnity-MCP is a C# toolkit for Unity Engine that integrates AI capabilities, enabling developers to create and test AI-driven features within games. It supports a full AI development loop and offers efficient token usage, advanced tools, and seamless integration with various AI models and IDEs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/IvanMurzak/Unity-MCP?embed=0\">View Project</a>\n• <a href=\"https://ai-game.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/959123498/e8a8db93-70b0-4e8b-a304-6c40771fc909",
+        "project_id": 1060036659,
+        "content": "✨ <b>memora</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide AI agents with a robust and persistent memory system that allows for structured storage, intelligent retrieval, and contextual understanding across multiple interactions and sessions.\n<br>\n✨ <b>Key Features:</b>\n• Persistent Storage (SQLite, Cloud Sync)\n• Hierarchical Organization\n• Semantic Search (Vector Embeddings)\n• Advanced Queries (Full-text, Date, Tag Filters)\n• Cross-references and Memory Linking\n<br>\n📖 <b>Summary:</b>\nMemora provides AI agents with persistent memory capabilities, enabling structured storage, semantic retrieval, and graph-based relationships between memories. It allows agents to absorb information, recall relevant details, and maintain context across sessions, enhancing their functionality and intelligence.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/agentic-box/memora?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1060036659/5d0d8f73-7499-4df8-ac4e-6a1e69d17fb1",
         "platform": "telegram",
-        "quality_score": 1.1
+        "quality_score": 0.8
     },
     {
-        "project_id": 1041543426,
-        "content": "🔥 <b>whosthere</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nDiscovering and understanding devices on a local area network through an intuitive TUI.\n<br>\n✨ <b>Key Features:</b>\n• Interactive TUI\n• Fast & Concurrent scanning\n• No Elevated Privileges Required\n• Device Enrichment with OUI lookup\n• Integrated Port Scanner\n<br>\n📖 <b>Summary:</b>\nWhosthere is a Go-based Local Area Network discovery tool that provides an interactive Terminal User Interface (TUI) for exploring network devices. It uses multiple unprivileged scanning techniques like mDNS, SSDP, and ARP cache analysis to identify devices and enriches this information with OUI lookups for manufacturer details.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ramonvermeulen/whosthere?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9e17bc6ad626f0f64a568a66d9a619c9c4fa6adb36f215da074c802b84b9577f/ramonvermeulen/whosthere",
-        "platform": "telegram",
-        "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 1119585052,
-        "content": "🌟 <b>intercept</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConsolidating and providing a unified interface for a diverse set of radio frequency (RF) and signal intelligence tools for monitoring, tracking, decoding, and analysis.\n<br>\n✨ <b>Key Features:</b>\n• Pager Decoding (POCSAG/FLEX)\n• 433MHz Sensor Decoding (rtl_433)\n• Sub-GHz RF Analysis\n• Aircraft Tracking (ADS-B)\n• Vessel Tracking (AIS)\n<br>\n📖 <b>Summary:</b>\niNTERCEPT is an open-source, web-based platform that unifies various signal intelligence (SIGINT) tools into a single interface. It supports a wide range of functionalities from radio decoding and tracking to counter-surveillance and space weather monitoring.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/smittix/intercept?embed=0\">View Project</a>\n• <a href=\"https://smittix.github.io/intercept/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ae35268514b1048989372fbe426c5bfb7c7cab77be23690767cfffc3a73b3608/smittix/intercept",
+        "project_id": 888286802,
+        "content": "🔥 <b>uniface</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPerforming a wide range of face analysis tasks through a single, unified Python API, supporting various models and hardware accelerations.\n<br>\n✨ <b>Key Features:</b>\n• Face Detection (RetinaFace, SCRFD, YOLOv5/v8-Face, BlazeFace)\n• Face Recognition (AdaFace, ArcFace, SphereFace)\n• Facial Landmarks (106-point, PIPNet, MediaPipe Face Mesh)\n• Face Parsing & Matting (BiSeNet, XSeg, MODNet)\n<br>\n📖 <b>Summary:</b>\nUniFace is a comprehensive Python library for face analysis, offering a unified API for tasks like detection, recognition, landmark analysis, parsing, gaze estimation, and attribute analysis. It supports multiple state-of-the-art models and provides hardware acceleration for efficient processing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/yakhyo/uniface?embed=0\">View Project</a>\n• <a href=\"https://yakhyo.github.io/uniface/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/888286802/9d5bfbb2-c5fa-41ad-86dc-50bfdb93fd6d",
         "platform": "telegram",
         "quality_score": 1.1000000000000003
     },
     {
-        "project_id": 924637527,
-        "content": "🌟 <b>zen</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA self-hosted, lightweight, and portable note-taking application for managing personal knowledge.\n<br>\n✨ <b>Key Features:</b>\n• Single Go binary or Docker Compose\n• Low resource usage\n• Standard Markdown files, local SQLite database\n• Organize with flexible tags\n• Full-text search with BM25 ranking\n<br>\n📖 <b>Summary:</b>\nZen is a self-hosted notes application that stores notes as Markdown files in a local SQLite database. It offers features like full-text search, flexible tagging, and data portability, all within a single, low-resource binary.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sheshbabu/zen?embed=0\">View Project</a>\n• <a href=\"https://www.sheshbabu.com/zen/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/924637527/b8017903-ecbc-4421-83f5-eb15e07f1f8e",
+        "project_id": 1138915102,
+        "content": "🌟 <b>lastsignal</b> | Ruby\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a secure, private, and self-hosted method for individuals to ensure important messages are delivered to designated recipients upon their incapacitation or death.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted dead man's switch\n• End-to-end encrypted (E2EE) messaging\n• Zero-knowledge architecture\n• Email-first check-in system\n<br>\n📖 <b>Summary:</b>\nLastSignal is a self-hosted, open-source dead man's switch that allows users to send encrypted messages to loved ones if they become unresponsive. It operates on an email-first check-in system, ensuring messages are delivered only when the user fails to respond to periodic prompts, with a zero-knowledge architecture for maximum privacy.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/giovantenne/lastsignal?embed=0\">View Project</a>\n• <a href=\"https://lastsignal.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/71a30fcdc8e5359c7ed7bf0af06d1a8fca36b9d0ae517008b68523b8cdef0017/giovantenne/lastsignal",
         "platform": "telegram",
-        "quality_score": 0.6
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 1159609450,
+        "content": "🔥 <b>Profanity-Filtering-All-languages</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nFiltering profanity from text across a wide range of languages in real-time applications.\n<br>\n✨ <b>Key Features:</b>\n• 107 languages\n• Blazing fast O(1) lookups\n• Lazy loading\n• Zero runtime dependencies\n• Rich API (check, detect, censor, addWords, removeWords)\n<br>\n📖 <b>Summary:</b>\nThis TypeScript library provides a highly performant profanity filtering solution supporting 107 languages. It offers features like lazy loading, zero runtime dependencies, and a rich API for checking, detecting, and censoring profane content, with options for customization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Wart050/Profanity-Filtering-All-languages?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4735e90a651287b24672d84b1fae4162f78c30ee79fd35b9c2d5443657888536/Wart050/Profanity-Filtering-All-languages",
+        "platform": "telegram",
+        "quality_score": 0.4
+    },
+    {
+        "project_id": 1137837751,
+        "content": "🌟 <b>frame</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nA desktop GUI application for performing media conversions using FFmpeg with advanced control over conversion parameters.\n<br>\n✨ <b>Key Features:</b>\n• Native desktop interface for FFmpeg\n• Support for video, audio, and image conversion\n• Granular control over video, audio, and metadata settings\n• Reusable Rust conversion core for FFmpeg argument generation\n<br>\n📖 <b>Summary:</b>\nFrame is a native desktop application built with Rust that provides a user-friendly graphical interface for FFmpeg operations. It allows users to convert various media types (video, audio, image) with granular control over encoding, processing, and metadata settings, leveraging a reusable Rust core for FFmpeg argument generation and task management.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/66HEX/frame?embed=0\">View Project</a>\n• <a href=\"https://www.framegui.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fd87f9deaa183a9bffd5d5213f709d2b8875285d5dda09806e2722df42fea419/66HEX/frame",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
     }
 ]
