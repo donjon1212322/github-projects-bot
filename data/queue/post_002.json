@@ -1,7 +1,0 @@
-{
-    "project_id": 1143590265,
-    "content": "🔥 <b>whisperbot</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a seamless way to transcribe voice messages sent to a Telegram bot into text.\n<br>\n✨ <b>Key Features:</b>\n• Transcribes audio messages via Telegram\n• Supports whisper.cpp and qwen-asr backends\n• Handles audio downloading and conversion (WAV)\n• Streams transcription results back to Telegram\n• Manages ASR processing queue with a mutex and atomic counter\n<br>\n📖 <b>Summary:</b>\nWhisperbot is a Telegram bot written in C that transcribes audio messages into text using either whisper.cpp or qwen-asr as the backend. It handles audio conversion, transcription processing, and streams the results back to the user, with options for managing queue length and switching between faster or higher-quality models.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/antirez/whisperbot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/80d38fa43720ad8fe0042d4e5ebe243e2c82784a1e94a89fe5388a0fb000d4a4/antirez/whisperbot",
-    "platform": "telegram",
-    "quality_score": 0.35
-}
