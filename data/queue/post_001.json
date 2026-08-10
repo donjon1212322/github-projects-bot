@@ -1,7 +1,0 @@
-{
-    "project_id": 845753481,
-    "content": "✨ <b>teleop</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling intuitive, wireless teleoperation of robot arms using readily available mobile devices or VR headsets.\n<br>\n✨ <b>Key Features:</b>\n• WebXR-based teleoperation via phone or VR headset\n• Python server for receiving device data\n• Integration with robot arm controllers\n• Basic, xArm, and ROS 2 interfaces\n• Support for ROS 2 cartesian_controllers, MoveIt Servo, and IK solutions\n<br>\n📖 <b>Summary:</b>\nThis repository enables teleoperation of robot arms using a phone or VR headset through a web interface powered by WebXR. It translates device orientation and position data into robot control commands, supporting various robot interfaces and ROS 2 integration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SpesRobotics/teleop?embed=0\">View Project</a>\n• <a href=\"https://spes.ai/products/teleop?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/f051ce6430c9e849b7439d9962ac7d65fc0960f96433665f9ef00c03bb335763/SpesRobotics/teleop",
-    "platform": "telegram",
-    "quality_score": 1.05
-}
