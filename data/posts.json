@@ -1,23 +1,44 @@
 [
     {
-        "project_id": 1126665558,
-        "content": "🌟 <b>ideon</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a unified, visual, and collaborative workspace for managing projects, code repositories, notes, and tasks, replacing scattered tools and abstract folder structures.\n<br>\n✨ <b>Key Features:</b>\n• Spatial Canvas for organization\n• Live Integrations with Git platforms (GitHub, GitLab, Gitea, Forgejo)\n• Support for Markdown notes, images, links, and files\n• Real-time multiplayer collaboration\n<br>\n📖 <b>Summary:</b>\nIdeon is a self-hosted visual workspace that allows users to organize projects, notes, and tasks on an infinite canvas. It replaces traditional folder structures with spatial organization, enabling real-time collaboration and historical tracking of workspace evolution.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/3xpyth0n/ideon?embed=0\">View Project</a>\n• <a href=\"https://www.theideon.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1126665558/e8b529db-fa71-4356-839c-f5735d8fcd08",
+        "project_id": 723307046,
+        "content": "💡 <b>freecad-mcp</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to design and manipulate 3D models within FreeCAD using natural language commands processed by Claude AI.\n<br>\n✨ <b>Key Features:</b>\n• FreeCAD MCP server integration\n• Control FreeCAD from Claude Desktop\n• Generate 3D models via AI conversation\n• Supports designing from 2D drawings\n• Addon installation for FreeCAD\n<br>\n📖 <b>Summary:</b>\nThis repository provides a Model Context Protocol (MCP) server that integrates FreeCAD with Claude Desktop, enabling users to control FreeCAD functionalities and generate 3D models through conversational AI.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/neka-nat/freecad-mcp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/2065801b75da24c95428bf350e547b455a147e7b327dbcd2b0af569398d6f336/neka-nat/freecad-mcp",
+        "platform": "telegram",
+        "quality_score": 0.8500000000000001
+    },
+    {
+        "project_id": 1101924225,
+        "content": "🚀 <b>dembrandt</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automate the extraction of design system tokens from existing websites, enabling consistency, auditing, and integration with development workflows and AI tools.\n<br>\n✨ <b>Key Features:</b>\n• Extracts design system tokens (logo, colors, typography, borders, etc.) from websites.\n• One-command execution for design token extraction.\n• Utilizes Playwright for browser automation.\n<br>\n📖 <b>Summary:</b>\nDembrandt is a command-line tool that automatically extracts design system tokens (like colors, typography, and borders) from any website. It uses Playwright to drive a browser, allowing for reverse-engineering of design elements into structured data, usable for AI agents and CI/CD pipelines.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dembrandt/dembrandt?embed=0\">View Project</a>\n• <a href=\"http://dembrandt.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/42cfe58c56f4bd52dca31642ac12ad706849a5ce8ca94d980533ce6df8d125e0/dembrandt/dembrandt",
         "platform": "telegram",
         "quality_score": 1.1
     },
     {
-        "project_id": 1179187027,
-        "content": "🚀 <b>domainsearcher-app</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nHelping entrepreneurs and startups find and objectively choose the most suitable domain name for their new venture.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered domain name generation\n• Real-time domain availability checking\n• Multi-dimensional scoring (LEN, PRO, MEM, BRD, ZON, FIT)\n• Adjustable scoring weights\n<br>\n📖 <b>Summary:</b>\nDomainSearcher is a free, browser-based tool that helps users find and select the best domain name for their startup. It uses AI to generate domain name candidates based on a startup idea, checks their real-time availability across various TLDs, and scores them on multiple criteria like length, pronounceability, memorability, brandability, and fit with the app idea.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vasilytrofimchuk/domainsearcher-app?embed=0\">View Project</a>\n• <a href=\"https://domainsearcher.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/777d589acd94738f970f37827ebc472682876bae821cd06f24a6109e1d91022f/vasilytrofimchuk/domainsearcher-app",
-        "platform": "telegram",
-        "quality_score": 0.5
-    },
-    {
-        "project_id": 884056167,
-        "content": "🚀 <b>logocreator</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nQuickly generating professional logos and brand assets using AI, with an emphasis on ease of use and accessibility.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered logo generation\n• Brand kit export\n• Free and account-less operation\n• Optional authentication and rate limiting\n• Support for AI model edits (Flux.1 Kontext)\n<br>\n📖 <b>Summary:</b>\nLogoCreator is an open-source, AI-powered logo generator that allows users to design and export brand-ready logos and full brand kits in seconds. It operates on a free, account-less model, leveraging advanced AI models for generation and editing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Nutlope/logocreator?embed=0\">View Project</a>\n• <a href=\"https://www.logo-creator.io/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7235a24b329087aa110ca3bbd270d2d56c6ff14968d3f7e9ddff0f25bdf03722/Nutlope/logocreator",
+        "project_id": 1140980346,
+        "content": "💡 <b>Voice-Clone-Studio</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a unified and user-friendly web interface for performing a wide range of voice cloning, voice design, and multi-speaker conversation generation tasks by integrating multiple advanced AI voice engines.\n<br>\n✨ <b>Key Features:</b>\n• Multi-model voice cloning with engines like Qwen3-TTS, VibeVoice, LuxTTS, Chatterbox, and Fish Speech\n• Automatic transcription support via Whisper, VibeVoice-ASR, and Qwen3-ASR\n<br>\n📖 <b>Summary:</b>\nVoice Clone Studio is a modular, Gradio-based web UI for advanced voice manipulation tasks. It integrates multiple state-of-the-art engines for voice cloning, voice conversion, multi-speaker conversation generation, and sound effect creation, offering a unified interface for various voice AI technologies.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/FranckyB/Voice-Clone-Studio?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/afc03d11f3cdbc18e6bce3692f881fabc43acd0c58a74fbea20a9518a9def5fd/FranckyB/Voice-Clone-Studio",
         "platform": "telegram",
         "quality_score": 0.8500000000000001
+    },
+    {
+        "project_id": 867171297,
+        "content": "✨ <b>kvm</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRemote management of computers, servers, and workstations, including tasks like OS installation, BIOS adjustments, and general remote control.\n<br>\n✨ <b>Key Features:</b>\n• Ultra-low Latency (1080p@60FPS, 30-60ms)\n• H.264 encoding\n• Free & Optional Remote Access via WebRTC\n• Optional Tailscale Networking support\n• Open-source software written in Golang on Linux\n<br>\n📖 <b>Summary:</b>\nJetKVM is an open-source KVM over IP solution written in Go and TypeScript, designed for high-performance remote computer management. It offers ultra-low latency video and smooth input control, with optional cloud and networking integrations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jetkvm/kvm?embed=0\">View Project</a>\n• <a href=\"https://jetkvm.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d1b35e566d2e763834799f47465f9f54109186a9fd637a1e0cff1918125b9267/jetkvm/kvm",
+        "platform": "telegram",
+        "quality_score": 0.8
+    },
+    {
+        "project_id": 1066625952,
+        "content": "🔥 <b>scanopy</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automatically generate and maintain accurate network documentation and visualization, eliminating the need for manual drawing and ensuring the documentation reflects the current state of the infrastructure.\n<br>\n✨ <b>Key Features:</b>\n• Automatic network discovery and mapping\n• Multiple documentation views (L2, L3, workloads, applications)\n• Distributed scanning capabilities\n• Docker and SNMP integration\n<br>\n📖 <b>Summary:</b>\nScanopy is a Rust-based tool that automatically generates up-to-date network documentation by scanning infrastructure. It provides multiple views of the network, including L2, L3, workloads, and applications, replacing static diagrams with a continuously maintained model.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/scanopy/scanopy?embed=0\">View Project</a>\n• <a href=\"https://scanopy.net?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1066625952/a4da0984-7b7f-4177-b6ac-7f1e7cc5301d",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 1033268244,
+        "content": "🌟 <b>sandbox</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a unified, secure, and all-in-one execution environment for AI agents and developers, integrating various tools like browsers, shells, and IDEs within a single Docker container.\n<br>\n✨ <b>Key Features:</b>\n• All-in-One Agent Sandbox Environment\n• Combines Browser, Shell, File, MCP, and VSCode Server\n• Single Docker Container deployment\n<br>\n📖 <b>Summary:</b>\nAIO Sandbox is a Dockerized, all-in-one environment for AI agents, integrating browser, shell, file operations, VSCode Server, and MCP services into a single, unified platform. It simplifies development and execution by providing a consistent and secure workspace with seamless file sharing across different tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/agent-infra/sandbox?embed=0\">View Project</a>\n• <a href=\"https://sandbox.agent-infra.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/b2cc660cece65294a77fd1d8ac364603bfc2f40d7db48bc56ae4125a820d2ec7/agent-infra/sandbox",
+        "platform": "telegram",
+        "quality_score": 0.95
     }
 ]

@@ -1,26 +1,26 @@
 {
-    "title": "Tired of Tab Chaos? Ideon is Your New Visual Workspace for Projects!",
-    "article": "Hey fellow developers! Ever feel like your project context is scattered across a dozen browser tabs, multiple tools, and endless folder hierarchies? You've got your GitHub repo open, a separate tab for design notes, another for issues, and maybe a local markdown file for your thoughts. It's a constant juggle, right? Well, what if there was a way to bring *everything* together onto a single, interactive map? Prepare to say goodbye to context switching headaches, because I've stumbled upon a GitHub project that's genuinely changing the game: Ideon. Ideon isn't just another project management tool; it's a self-hosted visual workspace that redefines how you interact with your projects. Imagine an infinite canvas where you can literally *place* your Git repositories, individual issues, design mockups, markdown notes, links, and even files. The magic here is the spatial organization – what's visually close on your canvas is conceptually related in your project. No more abstract folders; you build a living, breathing map of your work. This means you get an immediate, birds-eye view of your entire project context. Need to see an issue related to a specific code module? Just place them next to each other! Ideon offers live integrations with popular platforms like GitHub, GitLab, Gitea, and Forgejo, allowing you to embed live repository data and issues directly onto your canvas. This isn't just a static image; it's dynamic, updating as your project evolves. But wait, there's more! Ideon supports real-time multiplayer collaboration, so you and your team can work together on the same canvas, seeing each other's changes instantly. Think of it like a collaborative whiteboard, but for your entire development ecosystem. Plus, its 'Time Travel' feature lets you view historical snapshots of your workspace, making it incredibly easy to trace decisions and understand how your project evolved. And the best part? It's completely self-hosted. You own your data, ensuring privacy and control, which is a huge win in today's cloud-centric world. Getting started is a breeze with Docker and Docker Compose, making deployment incredibly straightforward. For any developer tired of the fragmented project experience, Ideon offers a refreshing and intuitive alternative. It transforms abstract project structures into a tangible, visual landscape, making it easier to understand, manage, and collaborate. Seriously, go check out the demo or clone the repo – you'll be amazed at how quickly you can visualize and organize your development world. This is one project you absolutely don't want to miss!",
+    "title": "Dembrandt: Instantly Unlock Any Website's Design Secrets!",
+    "article": "Hey fellow developers! Ever found yourself needing to quickly understand the design language of a website? Maybe you're building a new feature, auditing a competitor, or trying to bring consistency to your own project. Manually sifting through CSS to extract colors, fonts, and spacing can feel like a never-ending treasure hunt. But what if I told you there's a new tool that turns this tedious task into a lightning-fast, one-command operation? Get ready to say hello to Dembrandt!\n\nDembrandt is an incredible open-source project that acts like a digital artist, meticulously extracting a website's entire design system into easily usable design tokens. Think of it: logo, colors, typography, border styles, spacing, and so much more – all with a single command. It's like having a superpower to instantly dissect any web page's visual DNA. You just point it at a URL, and Dembrandt, powered by a headless Chromium browser, goes to work, giving you a structured output of all those beautiful design elements. No more inspecting elements one by one!\n\nThe benefits for us developers are huge. First and foremost, it's a massive time-saver. Imagine setting up a new project or onboarding to an existing one; instead of guessing or painstakingly extracting styles, you can have a foundational design system in seconds. This is a game-changer for front-end developers, UI engineers, and even designers looking to bridge the gap between design and code.\n\nBut it doesn't stop there! Dembrandt integrates beautifully with AI agents. If you're using tools like Claude Code or Cursor, you can literally ask your agent to \"extract the color palette from dembrandt.com,\" and it will automatically use Dembrandt to get the job done. Pair it with dembrandt-skills, and your agent gains even more UX intelligence, helping with accessibility, interaction states, and even orchestrating full design pipelines. This is the future of intelligent design system management!\n\nAnd for those who need to keep an eye on design consistency over time, the Dembrandt App (currently in beta) is a dream come true. You can track \"design drift\" automatically from your CI/CD pipeline. Every time you deploy, Dembrandt takes a snapshot, compares it to a baseline, and gives you a visual diff of what changed – colors, fonts, spacing, shadows. This means you can catch unintended style changes before they even hit production, ensuring your brand identity remains pixel-perfect. You can compare snapshots side-by-side, scrub through a timeline, and even copy tokens directly for use in other tools.\n\nFinally, Dembrandt offers a fantastic \"Recipe Library\" at dembrandt.com/recipes. These are ready-to-run workflows for common tasks like competitor benchmarking, WCAG accessibility audits, integrating with Figma, or setting up agentic design system builds. It's a treasure trove of practical applications that really showcase the power and versatility of this tool.\n\nDembrandt is more than just a utility; it's a foundational tool that streamlines design system workflows, enhances collaboration, and empowers developers and AI agents alike to work more efficiently with design. Whether you're a solo developer, part of a large team, or exploring AI-driven development, Dembrandt offers a powerful way to understand, manage, and maintain the visual integrity of your web projects. Seriously, go check it out – your design system workflow will thank you!",
     "key_takeaways": [
-        "Ideon is a self-hosted visual workspace for organizing all project assets on an infinite canvas.",
-        "It allows spatial organization of Git repositories, issues, notes, links, and files, reducing context switching.",
-        "Features live integrations with GitHub, GitLab, and other platforms, real-time multiplayer collaboration, and 'Time Travel' for historical views.",
-        "Offers complete data ownership and privacy due to its self-hosted nature, with easy setup using Docker.",
-        "Transforms abstract project structures into a tangible, visual map, enhancing understanding and team workflow."
+        "Dembrandt instantly extracts a website's entire design system into usable design tokens (colors, typography, etc.) with a single command.",
+        "It's a massive time-saver for developers, automating the tedious process of manual style extraction for new projects or audits.",
+        "The tool seamlessly integrates with AI agents, allowing for natural language queries to extract design information.",
+        "Its beta web app enables automatic design drift tracking in CI/CD, visual diffing, and snapshot comparisons to maintain design consistency.",
+        "A comprehensive recipe library provides ready-to-use workflows for tasks like WCAG audits, benchmarking, and Figma integration."
     ],
     "tags": [
-        "project management",
-        "visual workspace",
-        "self-hosted",
-        "developer tools",
-        "collaboration"
+        "design-tokens",
+        "design-system",
+        "frontend",
+        "automation",
+        "AI-tools"
     ],
-    "stars": 559,
-    "forks": 23,
-    "open_issues": 14,
+    "stars": 2637,
+    "forks": 251,
+    "open_issues": 0,
     "languages": "TypeScript",
-    "readme_summary": "Ideon is a self-hosted visual workspace that allows users to organize projects, notes, and tasks on an infinite canvas. It replaces traditional folder structures with spatial organization, enabling real-time collaboration and historical tracking of workspace evolution.",
-    "project_id": 1126665558,
-    "url": "https://github.com/3xpyth0n/ideon",
-    "description": "Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together."
+    "readme_summary": "Dembrandt is a command-line tool that automatically extracts design system tokens (like colors, typography, and borders) from any website. It uses Playwright to drive a browser, allowing for reverse-engineering of design elements into structured data, usable for AI agents and CI/CD pipelines.",
+    "project_id": 1101924225,
+    "url": "https://github.com/dembrandt/dembrandt",
+    "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command."
 }
