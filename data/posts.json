@@ -1,44 +1,37 @@
 [
     {
-        "project_id": 723307046,
-        "content": "💡 <b>freecad-mcp</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to design and manipulate 3D models within FreeCAD using natural language commands processed by Claude AI.\n<br>\n✨ <b>Key Features:</b>\n• FreeCAD MCP server integration\n• Control FreeCAD from Claude Desktop\n• Generate 3D models via AI conversation\n• Supports designing from 2D drawings\n• Addon installation for FreeCAD\n<br>\n📖 <b>Summary:</b>\nThis repository provides a Model Context Protocol (MCP) server that integrates FreeCAD with Claude Desktop, enabling users to control FreeCAD functionalities and generate 3D models through conversational AI.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/neka-nat/freecad-mcp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/2065801b75da24c95428bf350e547b455a147e7b327dbcd2b0af569398d6f336/neka-nat/freecad-mcp",
+        "project_id": 416713458,
+        "content": "🔥 <b>gridplayer</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying multiple video streams or files concurrently in a synchronized or independently controlled grid layout.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform (Linux, Mac, Windows)\n• Support for any video and audio format (VLC)\n• Support for (almost) any streaming URLs (Streamlink + yt-dlp)\n• Hardware & software video decoding\n• Control video aspect, playback speed, zoom\n<br>\n📖 <b>Summary:</b>\nGridPlayer is a cross-platform media player built with Python and PyQt5, utilizing the VLC library. It allows users to play multiple videos simultaneously in a configurable grid layout, supporting a wide range of video formats and streaming URLs through integrations with Streamlink and yt-dlp.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vzhd1701/gridplayer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/416713458/b4ee05fd-ac4e-4710-bb0e-a6a1152fc3f6",
         "platform": "telegram",
-        "quality_score": 0.8500000000000001
+        "quality_score": 1.05
     },
     {
-        "project_id": 1101924225,
-        "content": "🚀 <b>dembrandt</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automate the extraction of design system tokens from existing websites, enabling consistency, auditing, and integration with development workflows and AI tools.\n<br>\n✨ <b>Key Features:</b>\n• Extracts design system tokens (logo, colors, typography, borders, etc.) from websites.\n• One-command execution for design token extraction.\n• Utilizes Playwright for browser automation.\n<br>\n📖 <b>Summary:</b>\nDembrandt is a command-line tool that automatically extracts design system tokens (like colors, typography, and borders) from any website. It uses Playwright to drive a browser, allowing for reverse-engineering of design elements into structured data, usable for AI agents and CI/CD pipelines.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dembrandt/dembrandt?embed=0\">View Project</a>\n• <a href=\"http://dembrandt.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/42cfe58c56f4bd52dca31642ac12ad706849a5ce8ca94d980533ce6df8d125e0/dembrandt/dembrandt",
-        "platform": "telegram",
-        "quality_score": 1.1
-    },
-    {
-        "project_id": 1140980346,
-        "content": "💡 <b>Voice-Clone-Studio</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a unified and user-friendly web interface for performing a wide range of voice cloning, voice design, and multi-speaker conversation generation tasks by integrating multiple advanced AI voice engines.\n<br>\n✨ <b>Key Features:</b>\n• Multi-model voice cloning with engines like Qwen3-TTS, VibeVoice, LuxTTS, Chatterbox, and Fish Speech\n• Automatic transcription support via Whisper, VibeVoice-ASR, and Qwen3-ASR\n<br>\n📖 <b>Summary:</b>\nVoice Clone Studio is a modular, Gradio-based web UI for advanced voice manipulation tasks. It integrates multiple state-of-the-art engines for voice cloning, voice conversion, multi-speaker conversation generation, and sound effect creation, offering a unified interface for various voice AI technologies.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/FranckyB/Voice-Clone-Studio?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/afc03d11f3cdbc18e6bce3692f881fabc43acd0c58a74fbea20a9518a9def5fd/FranckyB/Voice-Clone-Studio",
-        "platform": "telegram",
-        "quality_score": 0.8500000000000001
-    },
-    {
-        "project_id": 867171297,
-        "content": "✨ <b>kvm</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nRemote management of computers, servers, and workstations, including tasks like OS installation, BIOS adjustments, and general remote control.\n<br>\n✨ <b>Key Features:</b>\n• Ultra-low Latency (1080p@60FPS, 30-60ms)\n• H.264 encoding\n• Free & Optional Remote Access via WebRTC\n• Optional Tailscale Networking support\n• Open-source software written in Golang on Linux\n<br>\n📖 <b>Summary:</b>\nJetKVM is an open-source KVM over IP solution written in Go and TypeScript, designed for high-performance remote computer management. It offers ultra-low latency video and smooth input control, with optional cloud and networking integrations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jetkvm/kvm?embed=0\">View Project</a>\n• <a href=\"https://jetkvm.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d1b35e566d2e763834799f47465f9f54109186a9fd637a1e0cff1918125b9267/jetkvm/kvm",
-        "platform": "telegram",
-        "quality_score": 0.8
-    },
-    {
-        "project_id": 1066625952,
-        "content": "🔥 <b>scanopy</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automatically generate and maintain accurate network documentation and visualization, eliminating the need for manual drawing and ensuring the documentation reflects the current state of the infrastructure.\n<br>\n✨ <b>Key Features:</b>\n• Automatic network discovery and mapping\n• Multiple documentation views (L2, L3, workloads, applications)\n• Distributed scanning capabilities\n• Docker and SNMP integration\n<br>\n📖 <b>Summary:</b>\nScanopy is a Rust-based tool that automatically generates up-to-date network documentation by scanning infrastructure. It provides multiple views of the network, including L2, L3, workloads, and applications, replacing static diagrams with a continuously maintained model.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/scanopy/scanopy?embed=0\">View Project</a>\n• <a href=\"https://scanopy.net?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1066625952/a4da0984-7b7f-4177-b6ac-7f1e7cc5301d",
+        "project_id": 740293013,
+        "content": "🚀 <b>vibe</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nLocal, private, and efficient transcription of audio and video files with advanced AI processing capabilities.\n<br>\n✨ <b>Key Features:</b>\n• Offline transcription for enhanced privacy\n• Supports multiple languages and audio/video file types\n• Batch processing and real-time preview\n• Integration with AI models (Whisper, Nemotron, Parakeet) and Ollama for local analysis\n<br>\n📖 <b>Summary:</b>\nVibe is a cross-platform desktop application that allows users to transcribe audio and video files locally on their device. It supports a wide range of languages, output formats, and AI models, offering features like batch processing, real-time preview, summarization, and translation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/thewh1teagle/vibe?embed=0\">View Project</a>\n• <a href=\"https://thewh1teagle.github.io/vibe/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/feb943281554da448d838f10535bccd3a7d7d31cdabfd2a131067fd0b1f09520/thewh1teagle/vibe",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 1033268244,
-        "content": "🌟 <b>sandbox</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a unified, secure, and all-in-one execution environment for AI agents and developers, integrating various tools like browsers, shells, and IDEs within a single Docker container.\n<br>\n✨ <b>Key Features:</b>\n• All-in-One Agent Sandbox Environment\n• Combines Browser, Shell, File, MCP, and VSCode Server\n• Single Docker Container deployment\n<br>\n📖 <b>Summary:</b>\nAIO Sandbox is a Dockerized, all-in-one environment for AI agents, integrating browser, shell, file operations, VSCode Server, and MCP services into a single, unified platform. It simplifies development and execution by providing a consistent and secure workspace with seamless file sharing across different tools.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/agent-infra/sandbox?embed=0\">View Project</a>\n• <a href=\"https://sandbox.agent-infra.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b2cc660cece65294a77fd1d8ac364603bfc2f40d7db48bc56ae4125a820d2ec7/agent-infra/sandbox",
+        "project_id": 1102227992,
+        "content": "✨ <b>Tabminal</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a unified, persistent, and cross-device terminal and development workspace experience, enabling users to code and manage systems from any device.\n<br>\n✨ <b>Key Features:</b>\n• Persistent terminal sessions\n• Built-in workspace tabs (files, images, agents, terminals)\n• Agent Client Protocol (ACP) agent support\n• Multi-host cluster access\n<br>\n📖 <b>Summary:</b>\nTabminal is a cloud-native terminal and workspace application designed for seamless use across desktop, tablet, and phone devices. It integrates persistent server-side terminal sessions, a built-in file and agent workspace, and support for the Agent Client Protocol (ACP) to provide a rich, intelligent, and persistent coding experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Leask/Tabminal?embed=0\">View Project</a>\n• <a href=\"https://leaskh.com/2025/11/25/t-tabminal/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1d855b099c20e2aea7ec5d54dc222a3324b0eb2e0af661dbb4dcf74544139b66/Leask/Tabminal",
         "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 0.65
+    },
+    {
+        "project_id": 962685604,
+        "content": "💡 <b>robin</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nConducting AI-assisted open-source intelligence investigations on the dark web.\n<br>\n✨ <b>Key Features:</b>\n• Modular Architecture\n• Multi-Model LLM Support (OpenAI, Claude, Gemini, Ollama, etc.)\n• Streamlit-based Web UI\n• Conversational Follow-up Questions\n• One-Click Pivots for suggested queries\n<br>\n📖 <b>Summary:</b>\nRobin is an AI-powered tool designed for dark web Open Source Intelligence (OSINT) investigations. It utilizes Large Language Models (LLMs) to enhance search queries, filter results from dark web search engines, and generate concise investigation summaries.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/apurvsinghgautam/robin?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ab691d9b2929523acaa067fe8887fdbee0354cd32a475f59f8ff9a0ba0c226f2/apurvsinghgautam/robin",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 951408758,
+        "content": "🔥 <b>secureml</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling developers to build AI applications that handle sensitive data in a privacy-preserving and compliant manner.\n<br>\n✨ <b>Key Features:</b>\n• Data Anonymization Utilities (K-anonymity, Pseudonymization, Masking)\n• Privacy-Preserving Training (Differential Privacy, Federated Learning)\n• Compliance Checkers\n• Synthetic Data Generation (SDV integration)\n• Regulation-Specific Presets (GDPR, CCPA, HIPAA, LGPD)\n<br>\n📖 <b>Summary:</b>\nSecureML is a Python library designed to build privacy-preserving AI applications. It offers utilities for data anonymization, differential privacy, federated learning, and synthetic data generation, ensuring compliance with data protection regulations like GDPR.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/scimorph/secureml?embed=0\">View Project</a>\n• <a href=\"https://secureml.readthedocs.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/575eee1c4fbf170288bedc59815c6ce9cbbec548e0226412b7ba212a4f4433e6/scimorph/secureml",
+        "platform": "telegram",
+        "quality_score": 0.75
     }
 ]
