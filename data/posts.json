@@ -1,37 +1,37 @@
 [
     {
-        "project_id": 1129945442,
-        "content": "✨ <b>just-the-browser</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nTo strip down popular web browsers to their core functionality, removing distractions and privacy concerns for a cleaner, more focused user experience.\n<br>\n✨ <b>Key Features:</b>\n• Removes AI features, telemetry, sponsored content, and product integrations from web browsers.\n• Utilizes hidden enterprise settings for a streamlined experience.\n<br>\n📖 <b>Summary:</b>\nJust the Browser is a project that streamlines desktop web browsers by removing unwanted features like AI integrations, telemetry, and sponsored content. It aims to provide a clean, focused browsing experience using hidden enterprise settings and offers easy installation scripts and manual configuration guides for popular browsers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/corbindavenport/just-the-browser?embed=0\">View Project</a>\n• <a href=\"https://justthebrowser.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1129945442/6bc078e2-9a43-4b4f-9ba9-d3c8ac2bd4a9",
+        "project_id": 1084579793,
+        "content": "🚀 <b>ShizuWall</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with granular control over which applications can access the network on their Android device, enhancing privacy and enabling automation, without the complexities or side effects of a traditional VPN.\n<br>\n✨ <b>Key Features:</b>\n• No VPN required\n• Per-app network control\n• Privacy-first design (offline-first, no analytics/telemetry)\n• Automation ready via ADB broadcast commands\n• Multiple control methods (Quick Settings, Widget, Floating Button)\n<br>\n📖 <b>Summary:</b>\nShizuWall is a lightweight, privacy-focused Android firewall application for Android 11+ that allows per-app network control without using a VPN. It operates locally and supports control via Shizuku, a local ADB daemon, or root access, making it suitable for automation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AhmetCanArslan/ShizuWall?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1084579793/51ca3a60-1bb4-4337-9608-4c72349d0879",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 655489856,
+        "content": "🌟 <b>Final2x</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing the resolution and quality of digital images using AI-powered super-resolution techniques.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform support (Windows, macOS, Linux)\n• Image super-resolution using advanced AI models\n• Customizable model support via cccv backend\n• Nvidia GPU acceleration (up to 50 series)\n• Electron-based desktop application\n<br>\n📖 <b>Summary:</b>\nFinal2x is a cross-platform desktop application designed for image super-resolution. It leverages advanced computer vision models, including those powered by PyTorch and a custom backend (cccv), to enhance image quality and detail, making it suitable for various operating systems like Windows, macOS, and Linux.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/EutropicAI/Final2x?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/19a483c837061b164a9ece6e4a1730aa7d8bf19bac1347de2f7fd32931c348c2/EutropicAI/Final2x",
+        "platform": "telegram",
+        "quality_score": 0.8
+    },
+    {
+        "project_id": 1333170396,
+        "content": "💡 <b>skitter-creek-bath-salts</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nTo gain low-level, unrestricted access to all system memory by manipulating DRAM address translations, bypassing security mechanisms.\n<br>\n✨ <b>Key Features:</b>\n• Rewires physical DRAM address translations\n• Scrambles platform memory\n• Exposes protected regions of DRAM\n• Bypasses kernel-level security\n• Unlocks Platform Security Processor\n<br>\n📖 <b>Summary:</b>\nThis C repository, skitter-creek-bath-salts, manipulates the DRAM controller to remap physical memory addresses. By breaking the standard address translations, it exposes protected and hidden regions of DRAM, effectively bypassing kernel-level security and unlocking access to all memory.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/xoreaxeaxeax/skitter-creek-bath-salts?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/0ff8c3b33291f904e59dd6686513d63563f4139a73f65deaa1ae4f27b07d6a50/xoreaxeaxeax/skitter-creek-bath-salts",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 1293290940,
+        "content": "🔥 <b>pentestcode</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating penetration testing engagements by providing an AI agent that can autonomously scan, enumerate, attack, and exploit targets based on high-level instructions.\n<br>\n✨ <b>Key Features:</b>\n• Multi-agent architecture\n• Persistent engagement state tracking\n• Support for 20+ LLM providers (Anthropic, OpenAI, Google, Azure, AWS Bedrock, Ollama, etc.)\n• Autonomous operations with strategic coordination\n• Parallel execution of enumeration tasks\n<br>\n📖 <b>Summary:</b>\nPentestCode is an autonomous AI penetration testing agent designed for terminal use. It employs a multi-agent architecture to perform comprehensive security assessments, tracking engagement state and coordinating parallel operations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/s0ld13rr/pentestcode?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9a76337638b728804170c176d00dcba3c6cebbdac91d0b88e7bfd1f673db1ceb/s0ld13rr/pentestcode",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
     },
     {
-        "project_id": 295836951,
-        "content": "🚀 <b>fluidd</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding a user-friendly web interface to control and monitor Klipper-powered 3D printers.\n<br>\n✨ <b>Key Features:</b>\n• Responsive UI (desktop, tablet, mobile)\n• Customizable layouts\n• Built-in color themes\n• Manage multiple printers\n• Easy installation via KIAUH\n<br>\n📖 <b>Summary:</b>\nFluidd is a free and open-source web interface designed for Klipper, a 3D printer firmware. It provides a responsive and customizable user interface for managing multiple 3D printers from various devices.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/fluidd-core/fluidd?embed=0\">View Project</a>\n• <a href=\"https://docs.fluidd.xyz?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/295836951/0afebd20-c77f-40bf-bc62-1840d107005b",
+        "project_id": 716944423,
+        "content": "✨ <b>awesome-generative-ai-apps</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide developers and entrepreneurs with ready-to-launch, monetizable generative AI SaaS applications that can be quickly deployed and branded as their own.\n<br>\n✨ <b>Key Features:</b>\n• 50+ complete AI SaaS products\n• Clone, deploy, and monetize applications\n• One-click Vercel deployment\n<br>\n📖 <b>Summary:</b>\nThis repository provides over 50 open-source generative AI applications that users can clone, deploy, and monetize. Each application is a complete SaaS product with integrated authentication, billing, and AI functionalities, designed for easy deployment on platforms like Vercel.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Anil-matcha/awesome-generative-ai-apps?embed=0\">View Project</a>\n• <a href=\"https://muapi.ai?utm_source=github&utm_medium=about&utm_campaign=awesome-generative-ai-apps?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9d23c0dc81fb7be92dd790fb1821adb8e2fded5e0e6db7ddf4a4157f15e2c9f2/Anil-matcha/awesome-generative-ai-apps",
         "platform": "telegram",
-        "quality_score": 1.05
-    },
-    {
-        "project_id": 925273833,
-        "content": "🚀 <b>flowsint</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nVisualizing and exploring relationships in Open Source Intelligence (OSINT) data for cybersecurity investigations.\n<br>\n✨ <b>Key Features:</b>\n• Graph exploration tool\n• OSINT focused\n• Ethical investigation\n• Transparency and verification\n• Visual, flexible, and extensible\n<br>\n📖 <b>Summary:</b>\nFlowsint is an open-source OSINT graph exploration tool designed for ethical investigation, transparency, and verification. It provides a modern platform for visual, flexible, and extensible graph-based investigations, primarily for cybersecurity analysts and investigators.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/reconurge/flowsint?embed=0\">View Project</a>\n• <a href=\"https://flowsint.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ed0178d220b25c268d22187362d1d78e3da8a5d01cf02abe2e5d2a8a81c11cec/reconurge/flowsint",
-        "platform": "telegram",
-        "quality_score": 1.1
-    },
-    {
-        "project_id": 32484381,
-        "content": "💡 <b>free-for-dev</b> | HTML\n<br>\n🎯 <b>Primary Use Case:</b>\nTo help developers and DevOps practitioners discover and utilize free tiers of various cloud services and software offerings relevant to infrastructure development.\n<br>\n✨ <b>Key Features:</b>\n• Curated list of free-tier SaaS, PaaS, and IaaS offerings\n• Focus on services useful for infrastructure developers (DevOps, SysAdmins)\n<br>\n📖 <b>Summary:</b>\nThis repository is a curated list of Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) offerings that provide free tiers. It specifically targets infrastructure developers, DevOps practitioners, and system administrators, helping them discover valuable free resources for their work.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ripienaar/free-for-dev?embed=0\">View Project</a>\n• <a href=\"https://free-for.dev/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d5d84cde262b4822be16bdecc3807dafcc255612337a598f26c84670049d4b9c/ripienaar/free-for-dev",
-        "platform": "telegram",
-        "quality_score": 0.8500000000000001
-    },
-    {
-        "project_id": 410430370,
-        "content": "🌟 <b>CasaOS</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a user-friendly interface for managing a personal cloud server, enabling easy deployment and management of self-hosted applications and services.\n<br>\n✨ <b>Key Features:</b>\n• Simple and elegant UI\n• Easy App Installation\n• Docker support\n• Open Source\n• Supports various hardware\n<br>\n📖 <b>Summary:</b>\nCasaOS is an open-source personal cloud operating system designed for ease of use and elegance. It simplifies the management of self-hosted applications and services, allowing users to easily deploy and manage Docker containers for a personalized home cloud experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/IceWhaleTech/CasaOS?embed=0\">View Project</a>\n• <a href=\"https://casaos.zimaspace.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/410430370/abdd2e89-5639-4d68-b363-4a3d3b7b369d",
-        "platform": "telegram",
-        "quality_score": 0.65
+        "quality_score": 1.0
     }
 ]
