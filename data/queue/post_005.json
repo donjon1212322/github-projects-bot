@@ -1,0 +1,7 @@
+{
+    "project_id": 1332788576,
+    "content": "🌟 <b>vpn-configurator</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nConfiguring WireGuard AllowedIPs for split tunneling using AmneziaWG.\n<br>\n✨ <b>Key Features:</b>\n• Include / exclude strategies with CIDR merge and subtract (IPv4 + IPv6)\n• System IP lists (YouTube, ChatGPT, Discord, Telegram, …) as locked URL entries\n• Manual and custom URL sources\n• Multiple configs with autosave\n<br>\n📖 <b>Summary:</b>\nThis is a client-only web application built with TypeScript and Vite that helps users configure AllowedIPs for AmneziaWG/WireGuard VPNs. It allows users to select inclusion/exclusion strategies, integrate system service lists, and add manual CIDRs to generate a single, clean line of configuration for their VPN peer settings, all stored locally in the browser.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/VibeXAI/vpn-configurator?embed=0\">View Project</a>\n• <a href=\"https://vpn-config.vibe-xai.ru?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/7761e10194b791220c054f11ff95c81445038c545bf91d07192424873181edec/VibeXAI/vpn-configurator",
+    "platform": "telegram",
+    "quality_score": 0.5499999999999999
+}

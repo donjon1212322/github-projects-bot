@@ -1,26 +1,26 @@
 {
-    "title": "PentestCode: Supercharge Your Penetration Tests with AI in Your Terminal!",
-    "article": "Hey fellow developers and security enthusiasts! Ever felt like the initial stages of a penetration test are a bit... repetitive? The manual scanning, parsing outputs, and meticulously tracking every detail can be time-consuming, and let's be honest, sometimes we miss things. What if there was an intelligent agent that could handle all that grunt work for you, right from your terminal? Well, get ready to have your mind blown, because I've stumbled upon a GitHub project that's a total game-changer: PentestCode. It's an autonomous pentesting agent that brings the power of AI directly to your command line, making your security assessments faster and more thorough.\n\nPentestCode isn't just another script; it's designed to mimic the thought process of a human operator. You point it at a target, give it a goal like 'pentest 10.10.10.5, goal is domain admin,' and watch it go to work. It intelligently runs various tools like Nmap, parses their outputs, builds a comprehensive picture of the network, and then decides the most logical next steps – all on its own. Imagine it scanning ports, recognizing services, enumerating shares and users, identifying vulnerabilities, and even attempting attacks like AS-REP roasting or credential spraying. It does all this methodically, ensuring no stone is left unturned, which is often where human fatigue can lead to oversights.\n\nWhat makes PentestCode truly stand out from simply pasting a prompt into a chat window is its sophisticated multi-agent architecture, inspired by HPTSA research. It's not a monologue; it's a team of agents working together, sharing a common 'memory' or 'engagement state.' This means it continuously updates its understanding of the target, tracking discovered vulnerabilities, credentials, and network topology. You can even query this state mid-run with simple commands like '/status' or '/creds' to get real-time insights. This intelligent approach leads to a significant improvement over single-agent systems. Plus, installation is a breeze – a single self-contained binary for Linux and macOS, no messy runtimes or dependencies. And it supports over 20 LLM providers, giving you incredible flexibility to choose your preferred AI backend.\n\nFor any developer or security professional involved in offensive security, PentestCode is a serious productivity booster. It frees you from the tedious initial reconnaissance and enumeration, allowing you to focus on the more complex, nuanced aspects of an engagement. It ensures thoroughness, reducing the chances of missing critical attack vectors. It automates entire attack chains, from initial scan to domain admin, all while providing a clear evidence trail. This project is currently in beta, but it's already proving its worth on real engagements and CTFs. If you're looking to supercharge your pentesting workflow and leverage the power of AI, you absolutely need to check out PentestCode. It's truly awesome and poised to change how we approach security testing!",
+    "title": "Stream Smarter: OBS-web Puts Your OBS Studio Control in Any Browser!",
+    "article": "Ever found yourself mid-stream, wishing you could switch scenes or start a recording without tabbing out of your game or presentation? Or maybe you're managing a co-host's stream and need a quick, discreet way to help them out? Well, fellow creators and tech enthusiasts, get ready to have your workflow revolutionized! I just stumbled upon an absolute gem on GitHub called `OBS-web`, and it's a game-changer for anyone using OBS Studio.The core problem `OBS-web` brilliantly solves is the need for flexible, remote control of your OBS instance. Historically, managing OBS meant being directly at your desktop, often tabbing out of your primary application. This project completely eliminates that friction, putting powerful control right at your fingertips, literally from any device with a modern web browser.So, what exactly is `OBS-web`? Imagine a sleek, intuitive dashboard that runs in your web browser – be it on your main monitor, a secondary screen, a tablet, or even your smartphone. This isn't some clunky app you need to install; it's a pure web application that connects directly to your OBS Studio using its built-in WebSocket server (which comes standard with OBS v28+). The beauty of this approach is its simplicity: no extra software, no complex configurations. You just open a URL, connect, and you're immediately in command.Functionality-wise, `OBS-web` is packed. You can effortlessly switch between scenes, toggle streaming or recording on and off, and manage your replay buffer with a single tap. For those who leverage OBS's advanced features, it fully supports Studio Mode, allowing you to preview your next scene before it goes live, ensuring smooth transitions. You can even control your Virtual Camera and switch between different OBS Profiles and Scene Collections. A really cool feature is the live, albeit low-framerate, view of your preview and program outputs, which is incredibly handy for monitoring your stream or recording from a distance. Plus, it includes smart additions like hiding scenes with `(hidden)` in their name and visually switching sources marked with `(switch)`, keeping your interface clean and efficient.The benefits for developers and content creators are immense. This tool dramatically enhances your workflow by freeing up your main screen. Streamers can keep their game or chat window front and center while managing OBS from a tablet beside them. For collaborative projects or remote assistance, the support for WSS tunnels means you can even control OBS from outside your local network, offering unparalleled flexibility and peace of mind. As an open-source project, it also invites developers to dive into the code, customize it to their specific needs, or contribute new features, making it a truly community-driven solution. If you're looking to streamline your OBS experience and gain more control, `OBS-web` is an absolute must-check-out. It’s simple, powerful, and incredibly practical.",
     "key_takeaways": [
-        "PentestCode is an AI-powered autonomous penetration testing agent for your terminal.",
-        "It uses a multi-agent architecture and shared memory to mimic human-like reconnaissance and attack strategies.",
-        "The agent automates entire attack chains, from scanning to exploitation, ensuring thoroughness.",
-        "It tracks the engagement state, allowing you to query discovered vulnerabilities and credentials mid-run.",
-        "Easy to install as a single binary, supporting Linux and macOS, and compatible with 20+ LLM providers."
+        "Control OBS Studio remotely from any modern web browser (desktop or mobile).",
+        "No installation needed; connects directly via OBS's built-in WebSocket server.",
+        "Manage scenes, streaming, recording, Studio Mode, Virtual Camera, and more with ease.",
+        "Significantly improves streaming/recording workflow by offering flexible, off-screen control.",
+        "Supports both local network and internet control through WSS tunnels for ultimate flexibility."
     ],
     "tags": [
-        "AI",
-        "Penetration Testing",
-        "Cybersecurity",
-        "Automation",
-        "GitHub"
+        "OBS Studio",
+        "Remote Control",
+        "Streaming",
+        "WebSockets",
+        "Content Creation"
     ],
-    "stars": 314,
-    "forks": 56,
-    "open_issues": 1,
-    "languages": "TypeScript",
-    "readme_summary": "PentestCode is an autonomous AI penetration testing agent designed for terminal use. It employs a multi-agent architecture to perform comprehensive security assessments, tracking engagement state and coordinating parallel operations.",
-    "project_id": 1293290940,
-    "url": "https://github.com/s0ld13rr/pentestcode",
-    "description": "PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations."
+    "stars": 1462,
+    "forks": 176,
+    "open_issues": 16,
+    "languages": "Svelte",
+    "readme_summary": "OBS-web is a browser-based application that allows users to remotely control OBS Studio, offering features like scene switching, stream/recording control, and live preview. It requires OBS version 28+ and the obs-websocket plugin, and can be accessed locally or over the internet via WSS tunnels.",
+    "project_id": 271250043,
+    "url": "https://github.com/Niek/obs-web",
+    "description": "OBS-web - the easiest way to control OBS remotely"
 }
