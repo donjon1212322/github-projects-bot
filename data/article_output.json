@@ -1,26 +1,26 @@
 {
-    "title": "Rediscover Gaming's Golden Age: Effortlessly Downgrade Steam Games with This Awesome GUI!",
-    "article": "Ever wished you could play an older version of your favorite Steam game? Maybe for a specific mod, a classic speedrunning category, or just pure nostalgia? The official Steam client usually only offers the latest version, which can be a real headache for developers, modders, and even casual players. But what if I told you there's a fantastic open-source project that makes this incredibly easy? Get ready to meet SteamDepotDownloaderGUI! This tool is a game-changer for anyone who needs to access historical builds of their Steam library.\n\nAt its heart, SteamDepotDownloaderGUI is a user-friendly graphical interface built around the powerful `DepotDownloader` tool. Think of `DepotDownloader` as the engine that can fetch specific 'depots' – essentially, older versions or components of Steam games – directly from Steam's servers. Normally, using `DepotDownloader` involves command-line wizardry, which can be daunting and time-consuming. This GUI wrapper completely transforms that experience, putting all that power into a simple, intuitive window that anyone can navigate with ease.\n\nThe project is built with modern web technologies like Tauri and Preact, ensuring a smooth, responsive, and familiar user experience. What's truly amazing is its robust cross-platform compatibility. Whether you're rocking Windows, diving into games on Linux (hello, Steam Deck users!), or developing on macOS, you can easily download and run this tool. No more platform-specific hurdles getting in the way of your retro gaming or intricate modding adventures – it just works, wherever you are.\n\nSo, why should you, a fellow developer or tech enthusiast, care? The benefits are huge! For mod developers, this is an absolute game-changer. Testing your mods against different game versions becomes a breeze, ensuring wider compatibility and fewer headaches for both you and your users. Speedrunners can precisely access specific patches required for certain categories, maintaining the integrity of their runs. Game preservationists can easily archive older builds, ensuring that valuable pieces of gaming history aren't lost to continuous updates.\n\nBeyond these specialized use cases, it's just plain convenient for anyone. No more hunting for obscure forum posts, relying on risky unofficial downloads, or wrestling with complex command-line arguments. With a few clicks, you can pinpoint the exact game version you need, download it securely, and get back to what you love doing. It saves immense time and frustration, letting you focus on creativity, exploration, and fun rather than technical hurdles. This project truly empowers you to take control of your Steam game versions!",
+    "title": "Tired of Manual Inventory? Homebox Companion + AI is Here to Save Your Day!",
+    "article": "Hey fellow tech enthusiasts! Ever found yourself staring at a mountain of gadgets, books, or tools, dreading the thought of manually cataloging each one? Inventory management can be a real chore, whether it's for your personal collection, a small home lab, or even a growing business. Well, what if I told you there's a new GitHub project that's about to make that headache a thing of the past? Get ready to say goodbye to tedious data entry and hello to the future of inventory with Homebox Companion!\n\nYou might already be familiar with Homebox, the fantastic self-hosted inventory management system. It's great for keeping track of all your stuff. But now, imagine Homebox getting a superpower. That's exactly what Homebox Companion brings to the table! This unofficial, AI-powered companion app takes your inventory game to a whole new level by integrating cutting-edge artificial intelligence to do the heavy lifting for you.\n\nThe magic is surprisingly simple. You just log into Homebox Companion with your existing Homebox credentials, select a location (like 'Garage Shelf 3' or 'Electronics Drawer'), and then... you take photos! Yes, you read that right. Snap a picture of a group of items, and the AI vision, powered by OpenAI's advanced models (like GPT-5 mini), gets to work. It identifies individual items, estimates quantities, and even pulls out relevant metadata. Think of it as having a super-smart assistant that can instantly recognize everything in your photo.\n\nOnce the AI has done its initial analysis, you get to review and refine. The app presents its suggestions, and you can easily adjust names, quantities, or add tags. If something's a bit off, you can even ask the AI chat to correct mistakes or provide more details, all just by asking! After a quick review, a single tap submits all the identified items, complete with their photos, directly into your Homebox instance. No more typing out item names, descriptions, or attaching images one by one. It's a massive time-saver for quickly inventorying an entire room or a large collection.\n\nFor developers and self-hosters, Homebox Companion is a dream come true. It drastically cuts down the time and effort required for initial inventory setup and ongoing management. Imagine moving into a new place or organizing a cluttered workshop – instead of spending hours manually inputting every item, you can literally photograph your way to an organized inventory in minutes. The project is designed for easy deployment with Docker, meaning you can get it up and running alongside your Homebox instance with minimal fuss. Plus, the flexibility to choose between GPT-5 mini and nano models allows you to balance accuracy with cost-effectiveness, making AI-powered inventory accessible for everyone. This isn't just about managing assets; it's about reclaiming your time and making your life easier.\n\nIf you're already a Homebox user or looking for an incredibly efficient way to manage your inventory, Homebox Companion is an absolute must-check. It truly embodies the power of AI to simplify everyday tasks. Dive into the GitHub repo, spin up the Docker container, and prepare to be amazed at how quickly you can get your inventory sorted. This project is a fantastic example of how smart tools can revolutionize our workflows. Go check it out!",
     "key_takeaways": [
-        "SteamDepotDownloaderGUI offers an intuitive graphical interface for downloading older Steam game versions.",
-        "It simplifies the powerful command-line `DepotDownloader`, making game version management accessible to all.",
-        "The tool boasts excellent cross-platform support, working seamlessly on Windows, Linux, and macOS.",
-        "It's an invaluable resource for modders, speedrunners, and game preservationists needing specific game builds.",
-        "Provides a safe, secure, and straightforward way to access Steam's historical game depots without technical hassle."
+        "Homebox Companion uses AI vision to identify and catalog items directly from photos.",
+        "It seamlessly integrates with your existing Homebox inventory management system.",
+        "Significantly reduces manual data entry, saving immense time and effort for inventory tasks.",
+        "Features an AI Chat for intuitive review, editing, and management of detected items.",
+        "Easy to deploy using Docker, making AI-powered inventory accessible for self-hosters."
     ],
     "tags": [
-        "Steam",
-        "GameDowngrade",
-        "Modding",
-        "OpenSource",
-        "GUI"
+        "Homebox",
+        "AI",
+        "Inventory Management",
+        "Self-hosting",
+        "Docker"
     ],
-    "stars": 527,
-    "forks": 37,
+    "stars": 364,
+    "forks": 87,
     "open_issues": 10,
-    "languages": "TypeScript",
-    "readme_summary": "SteamDepotDownloaderGUI is a cross-platform graphical application that simplifies the process of downloading older versions of Steam games. It acts as a user-friendly interface for the DepotDownloader tool, enabling users to easily select and acquire specific game versions for purposes like speedrunning or restoring previous game states.",
-    "project_id": 310671860,
-    "url": "https://github.com/mmvanheusden/SteamDepotDownloaderGUI",
-    "description": "🎮⌛Downgrade Steam games to older versions with ease using DepotDownloader"
+    "languages": "Python",
+    "readme_summary": "Homebox Companion is an AI-powered tool that integrates with Homebox inventory management. It allows users to photograph items, with AI automatically identifying and cataloging them into their Homebox inventory. Additionally, it features an AI chat interface for effortless inventory management, searching, and updating.",
+    "project_id": 1106277470,
+    "url": "https://github.com/Duelion/homebox-companion",
+    "description": "AI-powered companion for Homebox. Snap photos and let AI auto-identify and catalog items into your inventory, then use the AI Chat to organize, search, and update your inventory effortlessly."
 }
