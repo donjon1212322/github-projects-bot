@@ -1,26 +1,26 @@
 {
-    "title": "Ditch Google Analytics: Why Rybbit is Your New Open-Source, Privacy-First Analytics Best Friend!",
-    "article": "Hey fellow developers! Ever felt a bit uneasy about the privacy implications or the sheer complexity of traditional web analytics tools like Google Analytics? I certainly have. That's why I'm absolutely thrilled to share a gem I recently stumbled upon on GitHub: Rybbit! This project isn't just another analytics tool; it's a breath of fresh air, offering a powerful, privacy-friendly, and open-source alternative that's incredibly intuitive to use. It's designed to give you all the crucial insights you need about your users and their behavior, but without compromising their privacy or making you jump through hoops.\n\nSo, what exactly is Rybbit? Imagine a robust web and product analytics platform that gives you all the core web analytics metrics you'd expect, like sessions, unique users, pageviews, bounce rate, and session duration. But it goes way beyond that! One of its standout features is **session replays**, letting you literally watch how users interact with your site. This is a game-changer for understanding user experience and identifying pain points. Under the hood, Rybbit is designed with simplicity and control in mind. You can either use their hosted service or, for ultimate control, **self-host** it on your own VPS. This means you own your data, a huge win for many of us. It's built to be cookieless and privacy-friendly from the ground up, so you can rest easy knowing you're respecting your users' data.\n\nThe dashboards are super customizable, allowing you to set up goals, track retention, visualize user journeys, and build funnels. Plus, with advanced filtering across over 15 dimensions and custom events with JSON properties, you can slice and dice your data in incredibly granular ways to get truly actionable insights. It even boasts advanced map visualizations for location tracking and a real-time dashboard so you can see the impact of your changes instantly. For teams, Rybbit supports organizations and an unlimited number of sites, making it scalable for projects of all sizes.\n\nWhy should you, a developer, care about Rybbit? First, **privacy compliance** is becoming increasingly critical, and Rybbit makes it effortless by being cookieless and privacy-friendly. No more complex cookie banners or worrying about data regulations. Second, the ability to **self-host** gives you complete ownership and control over your analytics infrastructure and data, which is invaluable for many projects and companies. Third, the **session replays** and detailed user profiles offer an unparalleled understanding of user behavior, helping you debug UX issues, optimize conversion funnels, and make data-driven decisions faster. Imagine being able to see exactly where users get stuck or what features they love! Its real-time dashboard means you can see the impact of your deployments instantly. For developers building SaaS products or complex web applications, Rybbit's support for custom events with JSON properties and organization features means it scales with your needs, providing deep product analytics without the vendor lock-in or high costs of proprietary solutions. It's truly an empowering tool for any dev looking for a modern, ethical, and powerful analytics solution!",
+    "title": "Reclaim Your Focus: Discover Time Tracker - The Ultimate Web Habit Builder!",
+    "article": "Hey fellow developers! Ever find yourself diving into a rabbit hole of tabs, only to emerge hours later wondering where your time went? We've all been there. The internet is an incredible resource, but it can also be a massive distraction. What if there was a super cool, open-source project that could help you understand your browsing habits and actually build better ones? Well, get ready to say 'Wow, I need to check this out!' because I've stumbled upon Time Tracker - Web Habit Builder, and it's a game-changer.\n\nTime Tracker is a powerful browser extension available for Chrome, Firefox, and Edge that does exactly what its name suggests: it tracks the time you spend on websites. But it's so much more than a simple timer. This project is designed to give you deep insights into your digital life and empower you to take control. Imagine having detailed browsing records, intuitive dashboards, and analytical reports that clearly show you where your precious time is going. No more guessing games!\n\nWhat truly makes this project stand out is its comprehensive feature set. Beyond just tracking, it allows for sophisticated website management. You can set up whitelist and merge rules to categorize your sites effectively. Feeling distracted? Time Tracker lets you set daily, weekly, or even per-visit limits for specific websites, and here's the best part: it can even block pages when those limits are reached. This isn't just passive tracking; it's active habit building! Plus, for those dedicated work sessions, it includes built-in Focus and Pomodoro sessions to keep you on task.\n\nFor developers, the benefits are clear. Not only can this tool drastically improve your personal productivity by minimizing distractions and fostering healthier online habits, but the project itself is built with a modern tech stack including Rspack, TypeScript, Vue 3, Element Plus, and ECharts. This means it's a fantastic resource for learning and even contributing to an active, useful open-source project. And let's not forget the robust data management features: you can synchronize data across browsers, back up your data to GitHub Gist, WebDAV, or even Obsidian Local REST API, ensuring your insights are always safe and accessible. It’s a complete package for anyone looking to optimize their digital workflow and regain focus. Seriously, go give it a star on GitHub and try it out!",
     "key_takeaways": [
-        "Rybbit is an open-source, privacy-friendly alternative to Google Analytics, offering intuitive web and product analytics.",
-        "It features comprehensive metrics, including unique capabilities like session replays for deep user behavior insights.",
-        "Developers gain full data ownership and control through self-hosting options and benefit from cookieless tracking.",
-        "The platform provides highly customizable dashboards, advanced filtering, and custom events for granular data analysis.",
-        "Rybbit empowers developers to make data-driven decisions while ensuring user privacy and simplifying compliance."
+        "Time Tracker is a cross-browser extension for tracking website usage and building better digital habits.",
+        "It offers detailed analytics, dashboards, and reports to help users understand their online time allocation.",
+        "Key features include website limits, page blocking, and integrated Focus/Pomodoro sessions for active habit improvement.",
+        "The project supports data synchronization and robust backup options (Gist, WebDAV, Obsidian) for data security.",
+        "Built with a modern tech stack (Vue 3, TypeScript), it's a great open-source project for both users and contributors."
     ],
     "tags": [
-        "Web Analytics",
+        "Productivity",
+        "Browser Extension",
+        "Time Management",
         "Open Source",
-        "Privacy",
-        "Google Analytics Alternative",
-        "Product Analytics"
+        "Web Development"
     ],
-    "stars": 12837,
-    "forks": 727,
-    "open_issues": 126,
+    "stars": 970,
+    "forks": 74,
+    "open_issues": 11,
     "languages": "TypeScript",
-    "readme_summary": "Rybbit is an open-source, privacy-friendly alternative to Google Analytics, designed for intuitive web and product analytics. It offers a comprehensive suite of features without relying on cookies, making it a user-friendly and privacy-conscious choice for tracking website and application user behavior.",
-    "project_id": 916747943,
-    "url": "https://github.com/rybbit-io/rybbit",
-    "description": "🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive."
+    "readme_summary": "Time Tracker - Web Habit Builder is a browser extension designed to help users understand and manage their online habits. It provides detailed tracking of website usage, analytical reports, website blocking, and focus tools like Pomodoro sessions, with cross-browser compatibility and data synchronization/backup options.",
+    "project_id": 343756919,
+    "url": "https://github.com/sheepzh/time-tracker-4-browser",
+    "description": "A browser extension that helps you track time, analyze your habits and block addictive sites"
 }
