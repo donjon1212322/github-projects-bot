@@ -1,44 +1,30 @@
 [
     {
-        "project_id": 1025738262,
-        "content": "🌟 <b>nyx</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nObscuring digital forensic traces on user systems.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform support (Linux, macOS, Windows)\n• Comprehensive artifact cleaning modules\n<br>\n📖 <b>Summary:</b>\nNyx is a self-contained shell script designed to clean forensic traces across Linux, macOS, and Windows operating systems. It systematically removes various artifacts left by user activity, applications, and system processes to help obscure digital footprints.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/evilsocket/nyx?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/026cb8acee43f5d4787a39970662e8348f04e2481f12641e9b0e191406704497/evilsocket/nyx",
+        "project_id": 1003651144,
+        "content": "🔥 <b>ai-telephony-demo</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable developers to create and deploy AI-powered voice agents capable of interacting over traditional phone lines.\n<br>\n✨ <b>Key Features:</b>\n• Build AI telephony agents\n• Handle inbound and outbound calls\n• Local agent execution\n• SIP trunk configuration\n• Integration with VideoSDK Agent\n<br>\n📖 <b>Summary:</b>\nThis repository allows you to build and deploy a fully functional AI telephony agent. It guides you through setting up an agent locally and configuring it to handle live inbound and outbound phone calls using VideoSDK and Google's Gemini model.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/videosdk-community/ai-telephony-demo?embed=0\">View Project</a>\n• <a href=\"https://github.com/videosdk-live/agents?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/08fc2cb0cbbf11709fa2e26d8139520bcbc81ec8ec12a26d156c94a8d257e6f9/videosdk-community/ai-telephony-demo",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.35
     },
     {
-        "project_id": 910107320,
-        "content": "🔥 <b>Constrict</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nCompressing video files to meet specific size limits for uploads or storage, without manual trial-and-error.\n<br>\n✨ <b>Key Features:</b>\n• Compress videos to target file sizes\n• Automatic calculation of ABR, resolution, framerate, and audio quality\n• Bulk compression\n• Customizable framerate limits\n• Choice of codecs (H.264, HEVC, AV1, VP9)\n<br>\n📖 <b>Summary:</b>\nConstrict is a desktop application for Linux that allows users to compress video files to a target file size. It automatically calculates the necessary encoding parameters like bitrate, resolution, and framerate to achieve the desired output size while aiming to preserve audiovisual quality.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Wartybix/Constrict?embed=0\">View Project</a>\n• <a href=\"https://apps.gnome.org/Constrict?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c7b7ab6b6f2c686e67b26eecc6dadcbe9e7541cfd5a2131208f63fbcc7202cc4/Wartybix/Constrict",
+        "project_id": 26376490,
+        "content": "✨ <b>VeraCrypt</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nProtecting sensitive data on storage devices through robust encryption.\n<br>\n✨ <b>Key Features:</b>\n• Full system drive encryption\n• Encrypted partitions and non-system drives\n• Encrypted virtual disks\n• Plausible deniability with hidden volumes\n• Support for various encryption algorithms (AES, Serpent, Twofish)\n<br>\n📖 <b>Summary:</b>\nVeraCrypt is an open-source disk encryption software based on TrueCrypt, offering enhanced security features. It allows users to create encrypted volumes, partitions, or entire system drives to protect sensitive data from unauthorized access.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/veracrypt/VeraCrypt?embed=0\">View Project</a>\n• <a href=\"https://veracrypt.jp?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/601c4c8fff3c093e5ca8c2b36df079775afea67c8a6eb86dffca77fda3946a8b/veracrypt/VeraCrypt",
         "platform": "telegram",
-        "quality_score": 0.6499999999999999
+        "quality_score": 0.8
     },
     {
-        "project_id": 1128651978,
-        "content": "🚀 <b>claude-code-karma</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a user-friendly, visual interface for monitoring and analyzing their Claude Code sessions locally, offering insights into session activity, tool usage, and agent interactions.\n<br>\n✨ <b>Key Features:</b>\n• Local-first dashboard for Claude Code sessions\n• Visualizes sessions, timelines, costs, and live activity\n• Reads directly from `~/.claude/` data\n• Session Browser with search and filtering\n<br>\n📖 <b>Summary:</b>\nClaude Code Karma is a local-first, open-source dashboard designed to visualize and monitor Claude Code sessions. It transforms raw session data from `~/.claude/` into an interactive timeline, session browser, and detailed overviews of tasks, files, subagents, and skills invoked during a session.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/JayantDevkar/claude-code-karma?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7a6b1d8de467e2844a8863642eecac264a13373c6039127d446fa957237d6ec7/JayantDevkar/claude-code-karma",
+        "project_id": 129094260,
+        "content": "🔥 <b>awesome-django</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a centralized and organized collection of high-quality resources and tools for Django developers.\n<br>\n✨ <b>Key Features:</b>\n• Curated list of third-party packages\n• Categorized resources for Django development\n• Includes official resources, educational materials, community links, and hosting options\n• Dedicated sections for Django REST Framework and Wagtail CMS\n<br>\n📖 <b>Summary:</b>\nAwesome Django is a curated list of resources and third-party packages for the Django web framework. It serves as a comprehensive guide for developers looking to enhance their Django projects with various tools and libraries.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wsvincent/awesome-django?embed=0\">View Project</a>\n• <a href=\"http://awesomedjango.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/54513be8f43bc4965bac52e808770679f06b173a32b06639ca358b53ab5ff109/wsvincent/awesome-django",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 926863501,
-        "content": "🌟 <b>thedeck</b> | Dart\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a digital, cooperative platform for playing classic card games on mobile devices, with a shared visual interface.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform mobile support (Android, iOS)\n• Built with Flutter and Dart\n• Unique 'table' device feature for shared gameplay\n• Supports classic card games\n• Offline multiplayer capabilities\n<br>\n📖 <b>Summary:</b>\nThe Deck is an open-source, cross-platform mobile card game engine built with Flutter. It allows users to play classic card games digitally, with a unique feature where one device acts as a shared 'table' visible to all players, enhancing cooperative gameplay.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/xajik/thedeck?embed=0\">View Project</a>\n• <a href=\"https://getthedeck.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8dd306ea9eae06690712cb922800ea86ec9e22f066b06e14f7f0290e4dbcf6b0/xajik/thedeck",
+        "project_id": 843946121,
+        "content": "💡 <b>CyberScraper-2077</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nIntelligent and advanced web scraping with AI assistance for precise data extraction.\n<br>\n✨ <b>Key Features:</b>\n• AI-Powered Extraction\n• Streamlit Interface\n• Multi-Format Support (JSON, CSV, HTML, SQL, Excel)\n• Tor Network Support\n• Stealth Mode\n<br>\n📖 <b>Summary:</b>\nCyberScraper 2077 is an AI-powered web scraping tool that leverages LLMs like OpenAI, Gemini, and Ollama to intelligently extract data from websites. It features a user-friendly Streamlit interface, supports multiple export formats, and includes advanced features like Tor network access, stealth mode, and captcha bypassing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/itsOwen/CyberScraper-2077?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e4298c5cfc7b324600e630dcf1ddb7371cc173a8dcb8bc9d6e2b4ee2970611a7/itsOwen/CyberScraper-2077",
         "platform": "telegram",
-        "quality_score": 0.15
-    },
-    {
-        "project_id": 343078060,
-        "content": "✨ <b>dashy</b> | Vue\n<br>\n🎯 <b>Primary Use Case:</b>\nTo serve as a customizable, self-hosted homepage or dashboard for managing and monitoring personal homelab services and applications.\n<br>\n✨ <b>Key Features:</b>\n• Multiple pages support\n• Real-time status monitoring\n• Widgets for dynamic content\n• Instant search and customizable shortcuts\n• Theming with UI color editor and custom CSS\n<br>\n📖 <b>Summary:</b>\nDashy is a highly customizable, self-hostable personal dashboard designed for managing and monitoring your homelab services. It offers features like real-time status checks, customizable widgets, theming, icon options, and optional authentication, making it an ideal startpage or homepage for tech enthusiasts.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/lissy93/dashy?embed=0\">View Project</a>\n• <a href=\"https://dashy.to?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/343078060/82f850a2-b1af-4e9f-9245-c92700d74856",
-        "platform": "telegram",
-        "quality_score": 1.2000000000000002
-    },
-    {
-        "project_id": 206917330,
-        "content": "🚀 <b>ailia-models</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide developers with easy access to a wide range of pre-trained AI models that can be readily integrated into applications using the ailia SDK, simplifying the deployment of AI functionalities.\n<br>\n✨ <b>Key Features:</b>\n• Collection of 400+ pre-trained AI models\n• Supports diverse AI tasks (object detection, speech recognition, image generation, LLMs, etc.)\n• Single, simple CLI for all models\n<br>\n📖 <b>Summary:</b>\nThe ailia-models repository provides a comprehensive collection of over 400 pre-trained AI models for various tasks, including object detection, speech recognition, image generation, and LLMs. These models are designed to be easily runnable from a single command-line interface and are compatible with the ailia SDK across multiple platforms.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ailia-ai/ailia-models?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f3f2cfb6602ceb427022c603f3fcdc58d0eae3d22d91cd2f5dcf426982797b6d/ailia-ai/ailia-models",
-        "platform": "telegram",
-        "quality_score": 0.8500000000000001
+        "quality_score": 0.9500000000000001
     }
 ]
