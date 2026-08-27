@@ -1,25 +1,26 @@
 {
-    "title": "Unleash the Power of Icons: Why Every Developer Needs Nerd Fonts!",
-    "article": "Tired of your terminal looking, well, plain? Do you ever wish your code editor or command line could offer a bit more visual flair, making it easier to parse information at a glance? If you're nodding along, then let me introduce you to a game-changer that will revolutionize your developer environment: Nerd Fonts! This incredible GitHub project isn't just about making things look pretty; it's about boosting your productivity and making your daily coding life a whole lot more enjoyable.\n\nSo, what exactly *is* Nerd Fonts? Imagine taking your favorite programming font – be it Fira Code, Hack, or whatever you prefer – and supercharging it with thousands of extra icons. That's precisely what Nerd Fonts does! It's a fantastic open-source project that patches popular developer-focused fonts by embedding a massive collection of glyphs from iconic sets like Font Awesome, Devicons, Octicons, and many others. This means you get all these cool symbols directly within your font, ready to be displayed in your terminal, text editor, or any application that uses your chosen font. Think of it as giving your font superpowers!\n\nThe beauty of Nerd Fonts lies in its simplicity and effectiveness. Instead of juggling multiple fonts or relying on complex configurations, you simply install a patched Nerd Font, and *bam!* – you have access to a rich library of icons. This is incredibly useful for tools like VimDevIcons, shell prompts (like Oh My Zsh or Starship), or even just displaying file types and Git statuses with intuitive visual cues. The project even provides a handy font patcher, so if your absolute favorite font isn't already available in a Nerd-ified version, you can easily patch it yourself! No need to compromise on your preferred typography.\n\nWhy should you care? Because Nerd Fonts dramatically enhances your workflow and readability. Imagine seeing a little Python icon next to your `.py` files, a Git branch icon in your prompt, or a database symbol in your configuration files. These subtle visual cues reduce cognitive load, allowing you to quickly identify file types, statuses, and contexts without having to meticulously read every filename or prompt string. It makes navigating complex projects a breeze and adds a professional, polished look to your entire development setup. Plus, let's be honest, it just looks incredibly cool! Setting up Nerd Fonts is straightforward, whether you're on macOS using Homebrew, Windows with Chocolatey, or Linux. There are multiple installation options, making it accessible to virtually everyone.\n\nNerd Fonts is more than just an aesthetic upgrade; it's a practical enhancement for any developer who spends significant time in the terminal or a code editor. It streamlines information display, adds a touch of personality to your workspace, and ultimately makes you a more efficient and visually informed coder. If you haven't already, do yourself a favor and dive into the world of Nerd Fonts. Your eyes (and your productivity) will thank you! Go check out the GitHub repo and transform your terminal experience today!",
+    "title": "SketchForge: Your New Go-To for Browser-Based, Local-First 3D Design!",
+    "article": "Hey fellow developers and makers! Are you tired of wrestling with heavyweight CAD software, dealing with cumbersome installations, or feeling locked into cloud-based platforms just to design a simple 3D part? What if I told you there's a fantastic open-source project that lets you sketch, cut, and export 3D models right from your browser, with zero accounts, zero cloud lock-in, and absolutely no hefty setup? Meet SketchForge, and trust me, you're going to want to check this out!SketchForge is a game-changer for anyone who needs to quickly design or modify 3D models without the usual fuss. Imagine needing a custom bracket or a phone stand. Instead of firing up a massive application, you just open your browser, and boom – you're in a full-fledged 3D design workspace. It's built for that satisfying loop: drop a basic shape like a box or cylinder, resize it, rotate it, then turn another shape into a 'hole' to cut away material. You can even import existing STL files if you need to integrate external models. The magic here is its \"local-first\" approach. Your designs live securely in your browser's storage, complete with project thumbnails, ensuring your privacy and giving you complete control over your work. No servers, no uploads – just pure, local creativity.Under the hood, SketchForge is powered by a modern web stack including Next.js, React, TypeScript, and Three.js for its stunning 3D rendering. It uses advanced CSG (Constructive Solid Geometry) tooling, allowing for robust Boolean operations like union, subtraction (with the \"hole\" concept), and even intersection. This means you can combine shapes, carve out sections with precision, and create complex geometries surprisingly easily. It even boasts reversible edge tools like chamfer and fillet, preserving analytic box topology even after rotations, which is incredibly powerful for refining your models.The benefits for developers and makers are immense. First, the sheer accessibility is a huge win. You can use it on almost any computer with a modern browser, making it perfect for quick prototypes, classroom settings, or shared workstations where installing software is a hassle. Second, the speed and simplicity of its workflow mean you spend less time fighting software and more time actually designing. Need to export your creation? It supports common formats like STL, OBJ, and even STEP for exact geometry, making it easy to integrate with 3D printers or other CAD systems. It truly democratizes 3D design, removing many of the traditional barriers. This project is a shining example of how powerful and practical web technologies have become for serious applications. Dive in, experiment, and prepare to be impressed by how quickly you can bring your 3D ideas to life!",
     "key_takeaways": [
-        "Nerd Fonts supercharges developer fonts by embedding thousands of extra icons (glyphs) from popular sets like Font Awesome and Devicons.",
-        "It significantly improves the aesthetics and readability of your terminal and code editor by providing visual cues for files, statuses, and tools.",
-        "The project offers a vast collection of pre-patched fonts and a convenient patcher tool to customize your own favorite font.",
-        "Integrating Nerd Fonts into your workflow can boost productivity by making information quicker and easier to parse at a glance."
+        "SketchForge is a powerful, local-first 3D design editor that runs entirely in your browser.",
+        "It offers a quick and intuitive workflow for creating and modifying 3D models, complete with primitive shapes, Boolean operations, and edge tools.",
+        "Say goodbye to heavy CAD installs, cloud lock-in, and account requirements – your projects stay private and local.",
+        "Supports importing STL files and exporting to STL, OBJ, and STEP formats for seamless integration with other tools.",
+        "Built with modern web technologies (Next.js, React, Three.js), demonstrating the power of browser-based applications."
     ],
     "tags": [
-        "Fonts",
-        "Terminal Customization",
-        "Developer Tools",
-        "Icons",
-        "Productivity"
+        "3D Design",
+        "CAD",
+        "Browser-based",
+        "Local-First",
+        "Open Source"
     ],
-    "stars": 64408,
-    "forks": 3953,
-    "open_issues": 14,
-    "languages": "CSS",
-    "readme_summary": "Nerd Fonts is a project that enhances programming fonts by patching them with a vast collection of glyphs and icons from popular icon sets. It provides an easy way to install these enhanced fonts or to patch your own fonts, making your terminal and code editor visually richer.",
-    "project_id": 27574418,
-    "url": "https://github.com/ryanoasis/nerd-fonts",
-    "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more"
+    "stars": 978,
+    "forks": 93,
+    "open_issues": 9,
+    "languages": "TypeScript",
+    "readme_summary": "SketchForge-3D is a local-first, browser-based 3D design editor that allows users to build, modify, import, and export 3D models directly in their web browser. It focuses on a streamlined workflow for creating parts without requiring accounts or heavy software installations.",
+    "project_id": 1261313933,
+    "url": "https://github.com/Formsmith746/SketchForge-3D",
+    "description": "A local-first browser 3D design editor for building, cutting, importing STL files, and exporting models."
 }
