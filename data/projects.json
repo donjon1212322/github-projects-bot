@@ -1,116 +1,147 @@
 [
     {
-        "id": 1261313933,
-        "name": "SketchForge-3D",
-        "description": "A local-first browser 3D design editor for building, cutting, importing STL files, and exporting models.",
-        "url": "https://github.com/Formsmith746/SketchForge-3D",
-        "language": "TypeScript",
-        "stars": 978,
-        "forks": 93,
-        "created_at": "2026-06-06T14:19:11Z",
-        "updated_at": "2026-08-27T03:16:02Z",
-        "topics": [],
-        "quality_score": 1.2000000000000002,
-        "contributors_count": 0,
-        "last_commit_date": "2026-08-24T09:55:20Z",
-        "media_urls": [
-            "https://opengraph.githubassets.com/325954615b74161137e5752e4ad9abc6565996f073d983dc622e08b84babc9a4/Formsmith746/SketchForge-3D"
-        ],
-        "homepage": "https://sketchforge3d.com",
-        "readme_summary": "SketchForge-3D is a local-first, browser-based 3D design editor that allows users to build, modify, import, and export 3D models directly in their web browser. It focuses on a streamlined workflow for creating parts without requiring accounts or heavy software installations.",
-        "key_features": [
-            "Local-first projects stored in browser storage",
-            "Real 3D workplane with camera and snap controls",
-            "Primitive shape library (boxes, cylinders, spheres, etc.)",
-            "Solid and hole workflow for boolean operations",
-            "Boolean Intersection",
-            "Reversible edge tools (chamfer, fillet)",
-            "STL import",
-            "STL, OBJ, and STEP export",
-            "Fast browser stack (Next.js, React, TypeScript, Three.js)"
-        ],
-        "primary_use_case": "Quickly designing and exporting 3D models for various purposes, such as 3D printing or prototyping, directly within a web browser without complex setup.",
-        "open_issues": 9,
-        "cover_image_prompt": "A skilled artisan in a bright, airy workshop, using a magical, glowing chisel to precisely carve intricate details into a block of digital clay. The clay block is clearly composed of basic geometric shapes like cubes and spheres, some of which are being 'cut out' to form holes. On a nearby workbench, a tablet displays the SketchForge-3D interface, showing the same model being manipulated. Small, stylized STL files float gently in the background, representing imported and exported models. The overall mood is one of effortless creation and precision. The art style should be a clean, 3D isometric illustration with a focus on clear forms and a bright, inviting color palette, subtly incorporating the SketchForge-3D logo on the artisan's apron."
-    },
-    {
-        "id": 1150839705,
-        "name": "pgrok",
-        "description": "Personal ngrok alternative. Expose local ports to the internet with automatic HTTPS via SSH tunnels + Caddy.",
-        "url": "https://github.com/R44VC0RP/pgrok",
-        "language": "TypeScript",
-        "stars": 1110,
-        "forks": 80,
-        "created_at": "2026-02-05T18:49:34Z",
-        "updated_at": "2026-08-27T13:23:14Z",
-        "topics": [],
-        "quality_score": 0.5,
-        "contributors_count": 0,
-        "last_commit_date": "2026-02-11T15:18:01Z",
-        "media_urls": [
-            "https://repository-images.githubusercontent.com/1150839705/ccbf4fd8-3cfc-4b4f-adbf-57b3844c31b3"
-        ],
-        "homepage": null,
-        "readme_summary": "pgrok is a personal alternative to ngrok that exposes local ports to the internet using SSH tunnels and Caddy for automatic HTTPS. It features an interactive TUI dashboard for monitoring and debugging.",
-        "key_features": [
-            "Expose local ports to the internet",
-            "Automatic HTTPS via Caddy",
-            "SSH reverse tunnels",
-            "Interactive TUI dashboard",
-            "HTTP request inspection",
-            "On-demand TLS certificate provisioning"
-        ],
-        "primary_use_case": "Exposing local development servers or applications to the internet for testing, collaboration, or public access, with the added benefit of secure HTTPS connections and real-time monitoring.",
-        "open_issues": 3,
-        "cover_image_prompt": "A stylized, magical bridge extending from a local computer screen, across a digital void, to a vibrant, bustling city representing the internet. The bridge is formed by glowing SSH tunnel lines, and at the city's entrance, a friendly robot (representing Caddy) is handing out secure HTTPS certificates. Small, colorful icons representing web requests flow across the bridge. The pgrok logo is subtly integrated into the bridge's structure. The overall mood is one of seamless connection and secure access, rendered in a clean, modern 3D isometric illustration style with a bright, inviting color palette."
-    },
-    {
-        "id": 1075623312,
-        "name": "ProxyBridge",
-        "description": "Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy",
-        "url": "https://github.com/InterceptSuite/ProxyBridge",
-        "language": "C",
-        "stars": 6160,
-        "forks": 372,
-        "created_at": "2025-10-13T18:51:59Z",
-        "updated_at": "2026-08-27T14:17:31Z",
+        "id": 503827141,
+        "name": "android-sms-gateway",
+        "description": "The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.",
+        "url": "https://github.com/capcom6/android-sms-gateway",
+        "language": "Kotlin",
+        "stars": 5572,
+        "forks": 965,
+        "created_at": "2022-06-15T15:41:39Z",
+        "updated_at": "2026-08-28T17:09:37Z",
         "topics": [
-            "c",
-            "cybersecurity",
-            "http3",
-            "httpproxy",
-            "linux",
-            "linux-proxy",
-            "macos",
-            "macos-app",
-            "macos-proxy",
-            "proxifier",
-            "proxifier-alternative",
-            "proxyclient",
-            "tcp",
-            "thick-client",
-            "udp",
-            "windivert",
-            "windows"
+            "android",
+            "api",
+            "encryption",
+            "gateway",
+            "httpsms",
+            "sim",
+            "simcard",
+            "sms",
+            "sms-gateway",
+            "smsgate",
+            "textbee",
+            "ttl"
+        ],
+        "quality_score": 1.1,
+        "contributors_count": 0,
+        "last_commit_date": "2026-08-27T00:26:14Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/508e311121a9852ff4cad39638ac61702b3f990bb212d697b712a8c13a18c45b/capcom6/android-sms-gateway"
+        ],
+        "homepage": "https://docs.sms-gate.app",
+        "readme_summary": "The Android SMS Gateway app transforms an Android device into an SMS gateway, allowing users to send and receive SMS messages programmatically via an API. It supports features like multipart messages, message status tracking, and real-time notifications for incoming messages through webhooks.",
+        "key_features": [
+            "Send and Receive SMS via API",
+            "Support for Android 5.0 and above",
+            "Multipart messages",
+            "Message status tracking",
+            "Incoming messages viewer",
+            "Real-time incoming message notifications via webhooks",
+            "Read received messages via webhooks",
+            "MMS download notifications"
+        ],
+        "primary_use_case": "Enabling programmatic sending and receiving of SMS messages through an API, integrating SMS functionality into other applications and services.",
+        "open_issues": 10,
+        "cover_image_prompt": "A smartphone acting as a central hub, with digital streams of text messages flowing in and out. One stream transforms into a glowing API icon, representing outgoing messages being sent programmatically. Another stream, originating from a cloud icon, represents incoming messages being received and then displayed as notifications on a small, integrated screen on the phone. The phone itself has subtle circuit board patterns. The background is a clean, modern interface with abstract data visualizations. The overall style is a 3D isometric illustration with a bright, tech-focused color palette, emphasizing connectivity and seamless communication."
+    },
+    {
+        "id": 1123574221,
+        "name": "ClovaLink",
+        "description": "A modern Rust-powered, multi-tenant file storage architecture with secure APIs, extensible metadata patterns, external identity providers, and pluggable storage backends (S3, Wasabi, Local volumes). Perfect for enterprise self-hosting",
+        "url": "https://github.com/ClovaLink/ClovaLink",
+        "language": "TypeScript",
+        "stars": 256,
+        "forks": 25,
+        "created_at": "2025-12-27T06:46:41Z",
+        "updated_at": "2026-08-28T15:31:46Z",
+        "topics": [
+            "docker",
+            "enterprise",
+            "enterprise-services",
+            "enterprise-solutions",
+            "file-sharing",
+            "file-upload",
+            "filemanagement",
+            "podman",
+            "rust",
+            "rust-api",
+            "s3",
+            "selfhosted"
+        ],
+        "quality_score": 0.8,
+        "contributors_count": 0,
+        "last_commit_date": "2026-03-13T03:14:24Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/89c756a1c4277fe215846e3374074e9c77fc4547fecded0249ddfe2331c972ab/ClovaLink/ClovaLink"
+        ],
+        "homepage": "https://clovalink.org",
+        "readme_summary": "ClovaLink is a self-hostable, multi-tenant file management platform built with Rust and React, designed to offer enterprise-grade features at a significantly lower cost than commercial solutions. It provides secure APIs, extensible metadata, external identity provider integration, and pluggable storage backends, making it ideal for businesses seeking control over their data and compliance.",
+        "key_features": [
+            "Multi-tenant file management",
+            "Secure APIs",
+            "Extensible metadata patterns",
+            "External identity providers",
+            "Pluggable storage backends (S3, Wasabi, Local)",
+            "HIPAA/SOX/GDPR compliance features",
+            "Self-hosted architecture",
+            "Cost-effective alternative to per-user SaaS solutions"
+        ],
+        "primary_use_case": "Providing a secure, cost-effective, and self-hostable enterprise file management solution for businesses that require advanced features and full data control, especially those managing multiple clients or tenants.",
+        "open_issues": 3,
+        "cover_image_prompt": "A wise old owl perched atop a stack of securely locked digital vaults, meticulously organizing and categorizing glowing data streams. The owl uses its keen eyes to sort information into distinct, labeled chambers, representing multi-tenancy and secure file management. Below, a small, cost-effective VPS server hums quietly, powering the operation, contrasted with a distant, expensive-looking skyscraper representing traditional enterprise solutions. Subtle lines of code and data flow around the owl, hinting at the underlying technology. The scene is rendered in a 3D isometric illustration style with a clean, organized composition and a color palette of blues, greens, and subtle gold accents, emphasizing security and efficiency. The repository name 'ClovaLink' is subtly etched on one of the vaults."
+    },
+    {
+        "id": 1014515436,
+        "name": "ESP32-Bit-Pirate",
+        "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol ",
+        "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+        "language": "C++",
+        "stars": 5650,
+        "forks": 467,
+        "created_at": "2025-07-05T21:59:46Z",
+        "updated_at": "2026-08-28T15:06:27Z",
+        "topics": [
+            "arduino",
+            "bluetooth",
+            "can-bus",
+            "debugging",
+            "eeprom",
+            "esp32",
+            "flipperzero",
+            "gpio",
+            "hardware-hacking",
+            "i2c",
+            "jtag",
+            "openocd",
+            "protocols",
+            "pwm",
+            "radio",
+            "rfid",
+            "spi",
+            "subghz",
+            "uart",
+            "wifi"
         ],
         "quality_score": 0.9500000000000001,
         "contributors_count": 0,
-        "last_commit_date": "2026-08-13T15:14:24Z",
+        "last_commit_date": "2026-08-25T13:28:32Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/feb07d2690889710863c9b850b1dc3b4961bf18ecbadb20c2e09d1f13bc8fb37/InterceptSuite/ProxyBridge"
+            "https://repository-images.githubusercontent.com/1014515436/a9640a65-58e5-407e-bec8-df5a9a7e1845"
         ],
-        "homepage": "https://interceptsuite.com/",
-        "readme_summary": "ProxyBridge is a universal proxy client for Windows, macOS, and Linux that acts as a Proxifier alternative. It enables transparent redirection of TCP and UDP traffic from applications through SOCKS5 or HTTP proxies, allowing granular control over traffic routing, blocking, or allowing on a per-application basis.",
+        "homepage": "https://geo-tp.github.io/ESP32-Bit-Pirate/",
+        "readme_summary": "ESP32 Bit Pirate is an open-source firmware that transforms an ESP32 device into a versatile hardware hacking and analysis tool. It supports a wide array of digital and radio protocols, offering features like sniffing, sending, scripting, and interactive control via a web-based CLI.",
         "key_features": [
-            "Universal proxy client for Windows, macOS, and Linux",
-            "Transparent proxy routing for TCP and UDP traffic",
-            "Supports SOCKS5 and HTTP proxies",
-            "Per-application traffic control (route, block, allow)",
-            "Works at the system level, compatible with proxy-unaware applications"
+            "Multi-protocol support (I2C, SPI, UART, 1-Wire, CAN, Bluetooth, Wi-Fi, RFID, etc.)",
+            "Interactive command-line interface (CLI) via USB Serial or WiFi Web",
+            "Protocol sniffing capabilities",
+            "EEPROM and Flash manipulation tools",
+            "Scripting support",
+            "Web-based tools and firmware flasher"
         ],
-        "primary_use_case": "To provide transparent system-wide proxying for TCP and UDP traffic on Windows, macOS, and Linux, allowing users to route traffic through SOCKS5 or HTTP proxies on a per-application basis.",
-        "open_issues": 30,
-        "cover_image_prompt": "A stylized, friendly robot acting as a traffic controller at a busy intersection. Instead of cars, streams of digital data (glowing blue and green lines) are flowing towards the intersection. The robot is directing these data streams, with some lines being rerouted through a large, stylized 'SOCKS5/HTTP Proxy' tunnel, while others are explicitly blocked by red 'X' signs or allowed through green 'checkmarks'. Small, subtle UI elements resembling application icons are visible near the data streams, indicating which application's traffic is being controlled. The background is a clean, abstract digital landscape. The overall style is a 3D isometric illustration with a bright, clear color palette, emphasizing control and redirection."
+        "primary_use_case": "Hardware hacking, debugging, and analysis of various digital and radio communication protocols.",
+        "open_issues": 27,
+        "cover_image_prompt": "A highly detailed, 3D isometric illustration of a central, stylized 'ESP32 Bit Pirate' device resembling a futuristic, multi-faceted compass. From its various ports, ethereal streams of data flow out, connecting to and interacting with diverse icons representing different communication protocols: a stylized Wi-Fi symbol, a Bluetooth logo, a CAN bus connector, an RFID card, and a radio wave. The device itself glows with an internal light, and small, holographic screens around it display snippets of code and protocol data. The background is a clean, dark workshop with subtle circuit board patterns. The overall mood is one of powerful, accessible technological exploration and control."
     },
     {
         "id": 678822546,
@@ -118,10 +149,10 @@
         "description": "Run TUIs and terminals in your browser",
         "url": "https://github.com/Textualize/textual-web",
         "language": "Python",
-        "stars": 1453,
+        "stars": 1458,
         "forks": 41,
         "created_at": "2023-08-15T13:13:44Z",
-        "updated_at": "2026-08-27T15:41:36Z",
+        "updated_at": "2026-08-27T22:09:20Z",
         "topics": [
             "rich",
             "terminal",
@@ -131,20 +162,21 @@
         "contributors_count": 0,
         "last_commit_date": "2024-08-30T16:00:31Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/63ccc194f2787df402a05b2a134a4678c97358757c641825e6a694b3bc60a4c4/Textualize/textual-web"
+            "https://opengraph.githubassets.com/a8a78876b9b5f334c510b4c2f289ed2e4cfb95af034d9de1ac69d7318fdbd539/Textualize/textual-web"
         ],
         "homepage": "",
-        "readme_summary": "Textual Web allows users to run Textual applications and terminals directly in their web browser. It acts as a bridge, making TUIs accessible remotely and shareable via public URLs, simplifying the deployment and access of terminal-based applications.",
+        "readme_summary": "Textual Web allows users to run and share Textual applications and terminals directly in their web browser. It bridges the gap between powerful terminal-based applications and the accessibility of the web, enabling easy sharing and remote access.",
         "key_features": [
-            "Publish Textual apps and terminals on the web",
-            "Run TUIs in a browser",
-            "Generate public URLs for apps and terminals",
-            "Serve multiple apps and terminals via configuration",
-            "Support for serving raw terminals with optional commands"
+            "Serve Textual applications in the browser",
+            "Serve terminals in the browser",
+            "Generate public URLs for shared applications/terminals",
+            "Configuration via TOML file for multiple apps/terminals",
+            "Customizable URL slugs",
+            "Cross-platform compatibility (with planned Windows support for terminals)"
         ],
-        "primary_use_case": "To make Textual-based terminal applications and raw terminals accessible and shareable through a web browser interface.",
+        "primary_use_case": "To make Textual applications and terminals accessible and shareable via web URLs, allowing users to run them in a browser without local installation.",
         "open_issues": 22,
-        "cover_image_prompt": "A vibrant, stylized illustration of a web browser window acting as a portal. Inside the portal, a complex, glowing Textual application interface is clearly visible and interactive. Emerging from the browser portal are several distinct streams of light, each leading to a different, simplified icon representing a terminal or a specific application. The background is a subtle, abstract representation of the internet, with faint network lines. The repository name 'textual-web' is subtly integrated into the browser's UI or as a small watermark. The overall mood is modern, accessible, and slightly magical, emphasizing the transformation of terminal interfaces into web-friendly experiences. 3D isometric illustration style with clean lines and a bright color palette."
+        "cover_image_prompt": "A whimsical, magical bridge extending from a classic computer terminal screen into a vibrant, open web browser window. On the terminal side, a complex, glowing circuit board represents a Textual application. As the bridge transforms the circuit board's energy into light particles, these particles flow across the bridge and materialize as a beautiful, interactive Textual app interface within the browser. Small, stylized code snippets float near the terminal, and subtle 'textual-web' branding is integrated into the bridge's structure. The overall mood is one of seamless connection and accessibility, rendered in a clean, 3D isometric illustration style with a bright, inviting color palette."
     },
     {
         "id": 639195966,
@@ -152,10 +184,10 @@
         "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
         "url": "https://github.com/kyegomez/swarms",
         "language": "Python",
-        "stars": 7095,
-        "forks": 1008,
+        "stars": 7101,
+        "forks": 1009,
         "created_at": "2023-05-11T01:09:00Z",
-        "updated_at": "2026-08-27T13:27:10Z",
+        "updated_at": "2026-08-28T16:05:39Z",
         "topics": [
             "agentic-ai",
             "agentic-workflow",
@@ -178,7 +210,7 @@
         ],
         "quality_score": 1.05,
         "contributors_count": 0,
-        "last_commit_date": "2026-08-27T12:54:09Z",
+        "last_commit_date": "2026-08-28T15:59:50Z",
         "media_urls": [
             "https://repository-images.githubusercontent.com/639195966/bc2890e2-b8dc-4f4c-b2f2-73a7ca0367ac"
         ],
@@ -189,12 +221,12 @@
             "Production-ready architectures (sequential, concurrent, hierarchical)",
             "Scalable and adaptive systems",
             "Backward compatibility with leading agent frameworks",
-            "Interoperability with protocols like MCP, x402, skills",
-            "Agent definition: LLM + Tools + Memory"
+            "Interoperability with protocols (MCP, x402, skills)",
+            "Agent definition (LLM + Tools + Memory)"
         ],
-        "primary_use_case": "Orchestrating complex multi-agent AI systems in production environments.",
-        "open_issues": 124,
-        "cover_image_prompt": "A conductor leading a symphony orchestra, where each musician is an AI agent represented by a distinct, glowing orb. The conductor, holding a digital baton, seamlessly directs the flow of information (visualized as streams of light) between the agents, creating a harmonious and complex output on a large, central screen displaying a sophisticated AI-generated artwork. Subtle UI elements showing agent status and communication protocols are integrated into the conductor's podium. The scene is set in a futuristic, minimalist concert hall with dramatic lighting, emphasizing collaboration and intelligent direction. The style is a 3D isometric illustration with vibrant, glowing elements and clean lines."
+        "primary_use_case": "Orchestrating and managing complex multi-agent AI systems in production environments.",
+        "open_issues": 114,
+        "cover_image_prompt": "A conductor leading a symphony orchestra, where each musician represents an AI agent. The conductor, embodying the Swarms framework, uses a glowing baton to seamlessly coordinate the diverse instruments (agents) playing different parts (tasks). Sheet music on the stands shows flowing code and data streams, representing the inputs and outputs being processed. Subtle digital particles and network lines connect the conductor to each agent, illustrating the orchestration. The overall scene is a grand, modern concert hall, conveying professionalism and scale. The style should be a 3D isometric illustration with a clean, vibrant color palette, emphasizing harmony and efficient collaboration."
     },
     {
         "id": 909666349,
@@ -202,10 +234,10 @@
         "description": "Imgcompress is a self-hosted image processing toolbox that handles compression, format conversion, and AI background removal in a single web interface. It supports over 70 input formats (including PSD, HEIC, and RAW) and can output common formats or generate PDFs, all without sending files to external services.",
         "url": "https://github.com/karimz1/imgcompress",
         "language": "TypeScript",
-        "stars": 280,
+        "stars": 283,
         "forks": 27,
         "created_at": "2024-12-29T12:31:53Z",
-        "updated_at": "2026-08-27T11:47:19Z",
+        "updated_at": "2026-08-28T16:10:12Z",
         "topics": [
             "ai",
             "datahoarder",
@@ -228,24 +260,24 @@
         ],
         "quality_score": 1.2000000000000002,
         "contributors_count": 0,
-        "last_commit_date": "2026-08-22T04:38:06Z",
+        "last_commit_date": "2026-08-28T16:03:59Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/7a884446de78bb2d5ec81c32cfced933415ba5b109bf7e25fc38eb7c803642a3/karimz1/imgcompress"
+            "https://opengraph.githubassets.com/8a57e903d4ed618850b4b2af04d52e2f869421851ef6eff6a924d0304344ca3f/karimz1/imgcompress"
         ],
         "homepage": "https://imgcompress.karimzouine.com",
-        "readme_summary": "ImgCompress is a self-hosted, Docker-based image processing toolbox that offers a comprehensive suite of tools for compression, format conversion, and AI-powered background removal. It operates entirely locally, ensuring user privacy and data security by processing all files within the user's own container without external uploads.",
+        "readme_summary": "ImgCompress is a self-hosted, privacy-focused image processing server that runs entirely within a Docker container. It offers a comprehensive suite of tools for image compression, format conversion (supporting over 70 formats), and AI-powered background removal, all accessible via a web UI or CLI without sending data to external services.",
         "key_features": [
-            "Support for over 70 image formats (including PSD, HEIC, RAW, EPS, TIFF, WebP)",
-            "Local AI background removal (no API keys or uploads required)",
-            "Bulk image compression with multi-core parallel processing",
-            "Format conversion capabilities (e.g., HEIC to WebP, PSD to JPG, batches to PDF)",
-            "Per-file cropping with various aspect ratio presets and custom dimensions",
+            "Supports 70+ image formats (HEIC, PSD, AVIF, EPS, PDF, etc.)",
+            "Local AI background removal (no API keys or uploads)",
+            "Bulk compression with multi-core parallel processing",
+            "Format conversion (e.g., HEIC to WebP, PSD to JPG, images to PDF)",
+            "Per-file cropping with various ratio presets",
             "Web UI and CLI for flexible usage",
             "Single Docker container deployment with zero host dependencies",
-            "Offline and air-gap ready operation"
+            "Air-gap ready"
         ],
-        "primary_use_case": "To provide a private, self-hosted solution for batch image processing, including compression, format conversion, and AI background removal, for users who want to maintain full control over their data and avoid cloud-based services.",
+        "primary_use_case": "To provide a self-hosted, all-in-one solution for local image processing, including compression, format conversion, and AI background removal, prioritizing user privacy and data ownership.",
         "open_issues": 7,
-        "cover_image_prompt": "A digital alchemist in a dimly lit, private workshop, meticulously transforming raw, unrefined ore (representing various image formats like PSD, HEIC, RAW) into polished, perfectly shaped gemstones (representing compressed, converted, and background-removed images). The alchemist uses a glowing, intricate workbench with subtle UI elements displaying format types and compression levels. Digital particles representing data flow from the raw materials to the finished gems. The repository name 'ImgCompress' is subtly etched onto a tool. The scene is rendered in a 3D isometric illustration style with a focus on detail and a rich, warm color palette, emphasizing the transformation and local processing."
+        "cover_image_prompt": "A skilled artisan in a private, cozy workshop, meticulously transforming raw, unrefined blocks of various image formats (like PSD, HEIC, RAW) into polished, perfectly shaped digital gems (like WebP, JPG, PDF). The artisan uses a specialized, glowing tool that subtly resembles a web interface, with small, abstract digital particles representing AI processing for background removal. The workshop is filled with shelves of neatly organized image files, emphasizing local storage. The overall mood is one of secure, efficient, and private craftsmanship. The scene should be rendered in a warm, inviting 3D isometric illustration style, with a focus on clear visual storytelling and subtle technological hints."
     }
 ]
