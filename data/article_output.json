@@ -1,26 +1,26 @@
 {
-    "title": "Unleash SMS Power: Turn Your Android into a Personal SMS Gateway!",
-    "article": "Hey fellow developers! Ever found yourself needing to send or receive SMS messages programmatically for your apps or services, but cringed at the thought of expensive third-party APIs or complex setups? Well, I just stumbled upon an absolute game-changer on GitHub that's going to blow your mind: the 'SMS Gateway for Android' project! This open-source gem lets you transform any Android smartphone into a fully functional SMS gateway. Imagine having complete control over your SMS communication, right from your pocket, without any recurring costs or external dependencies. It's truly awesome!\n\nSo, what exactly is it? In simple terms, it's a lightweight Android application that you install on your phone. Once set up, it exposes an API (Application Programming Interface) that your other applications or scripts can use to send SMS messages. Think of it like a bridge: your app talks to your phone, and your phone sends the SMS. But it doesn't stop there! It also provides real-time webhooks, meaning whenever your phone receives an SMS, it can instantly notify your application. This bidirectional communication is incredibly powerful.\n\nOne of the coolest aspects is its simplicity and flexibility. There's no registration required, and if you're using it in 'local mode,' you don't even need an internet connection for the core sending functionality (though webhooks for incoming messages would need network access). It supports Android 5.0 and above, handles multipart messages (those really long ones that get split up), and even lets you track the status of your sent messages. Plus, there's a neat built-in viewer for all your incoming and outgoing messages right in the app. This means you get a robust, self-hosted solution that's incredibly easy to integrate into your existing projects.\n\nFor us developers, the benefits are huge. Firstly, cost savings! Say goodbye to those monthly SMS API bills. You're leveraging your existing phone plan. Secondly, privacy and control. Your messages are handled directly by your device, giving you more autonomy. Thirdly, it's incredibly versatile. Whether you're building a notification system, a two-factor authentication service, or just need to send automated alerts, this project provides a straightforward, open-source foundation. It truly democratizes SMS integration, making it accessible and affordable for everyone. I highly recommend checking out 'capcom6/android-sms-gateway' on GitHub; it's a super cool project that could revolutionize how you think about SMS in your applications!",
+    "title": "AIUsage: The Ultimate Dashboard for All Your AI Subscriptions!",
+    "article": "Hey fellow developers! Ever feel like you're juggling a dozen different AI tools and subscriptions? One for code generation, another for chat, a third for data analysis... and each with its own dashboard, usage limits, and billing cycles? It's a common headache, right? Keeping track of quotas, understanding your spending, and switching between accounts can quickly turn into a messy ordeal. What if there was a single place to manage it all, making your AI workflow smoother than ever?Well, get ready to say goodbye to that chaos, because I've stumbled upon a GitHub project that's an absolute game-changer: AIUsage. This incredible tool is designed to be your one-stop dashboard for all your AI subscriptions, bringing clarity and control back to your development process. Imagine tracking quotas, costs, and accounts across over 10 different AI providers – from Codex and Copilot to Claude and OpenCode – all from a single, intuitive interface. No more hopping between tabs or digging through emails to check your remaining tokens!AIUsage provides a unified view of your usage statistics. It breaks down costs and token consumption, offering per-model trends and time-period analysis. This means you can finally understand where your AI budget is truly going and identify opportunities to optimize your spending. It's like having a financial advisor for your AI API calls!But AIUsage isn't just a pretty dashboard; it's packed with powerful functionality, especially its native coding proxies and the managed CLIProxyAPI gateway. Think of these proxies as universal adapters for your AI tools. Ever wished you could use an OpenAI-compatible model with a tool specifically designed for Claude Code, or vice versa? AIUsage makes it possible! Its Claude Code Proxy, Codex Proxy, and OpenCode Proxy let you point your favorite coding assistants at virtually any OpenAI-compatible upstream. This means unprecedented flexibility to mix and match models with your preferred development environments, unlocking new possibilities without being locked into a single provider's ecosystem.The CLIProxyAPI gateway takes this a step further. It acts as a central hub, allowing you to share a single pool of subscription accounts across multiple applications and API clients. This is a huge win for teams or individual developers working on several projects, ensuring consistent access and simplified management. Whether you're connecting Claude Desktop to a custom node pool or launching local Claude Science without a dedicated subscription, AIUsage provides the bridge.The benefits for us developers are massive. AIUsage saves you precious time by consolidating management tasks. It empowers you to optimize costs by providing clear usage insights. It enhances your workflow by offering unparalleled flexibility in how you use different AI models with your existing tools. This project isn't just about convenience; it's about giving you more control and efficiency in the rapidly evolving AI landscape. Seriously, if you're leveraging AI in your daily coding, you absolutely need to check out AIUsage. It's truly a fantastic open-source effort that will make your AI journey so much smoother!",
     "key_takeaways": [
-        "Transform any Android phone into a free, powerful SMS gateway.",
-        "Send SMS programmatically via a simple API and receive incoming messages via real-time webhooks.",
-        "Eliminate third-party SMS API costs and gain full control over your message infrastructure.",
-        "Easy to set up, no registration required, and compatible with Android 5.0+.",
-        "Ideal for integrating robust, self-hosted SMS functionality into any application or service."
+        "AIUsage provides a centralized dashboard for managing over 10 different AI service providers and their subscriptions.",
+        "Track comprehensive usage statistics, including costs and tokens, across all your AI services to optimize spending.",
+        "Powerful coding proxies allow you to use various AI models (e.g., GPT, Ollama) with tools designed for other providers (e.g., Claude Code, Codex).",
+        "The CLIProxyAPI gateway enables sharing a single pool of AI subscriptions across multiple applications and API clients for streamlined access.",
+        "This project significantly enhances developer workflow by saving time, offering flexibility, and providing greater control over AI tool usage."
     ],
     "tags": [
-        "Android",
-        "SMS Gateway",
-        "API",
-        "Webhooks",
-        "Open Source"
+        "AI Management",
+        "Developer Tools",
+        "GitHub Project",
+        "AI Proxies",
+        "Cost Optimization"
     ],
-    "stars": 5572,
-    "forks": 965,
+    "stars": 639,
+    "forks": 45,
     "open_issues": 10,
-    "languages": "Kotlin",
-    "readme_summary": "The Android SMS Gateway app transforms an Android device into an SMS gateway, allowing users to send and receive SMS messages programmatically via an API. It supports features like multipart messages, message status tracking, and real-time notifications for incoming messages through webhooks.",
-    "project_id": 503827141,
-    "url": "https://github.com/capcom6/android-sms-gateway",
-    "description": "The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible."
+    "languages": "Swift",
+    "readme_summary": "AIUsage is a macOS application designed to centralize the management of various AI subscriptions. It provides a unified dashboard to track usage, costs, and accounts across numerous AI providers, offering integrated proxies and gateways for seamless interaction with different AI models.",
+    "project_id": 1207555694,
+    "url": "https://github.com/sylearn/AIUsage",
+    "description": "One dashboard to manage all your AI subscriptions — track quotas, costs, accounts, Claude Code proxy, and Codex proxy in one place."
 }
