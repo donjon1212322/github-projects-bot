@@ -1,37 +1,23 @@
 [
     {
-        "project_id": 474961035,
-        "content": "🔥 <b>trippy</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nNetwork troubleshooting and performance analysis\n<br>\n✨ <b>Key Features:</b>\n• Combines ping and traceroute functionality\n• Real-time network diagnostics\n• Terminal User Interface (TUI)\n• Cross-platform compatibility (Linux, macOS, Windows, BSD)\n• Multiple installation methods (cargo, package managers, binaries)\n<br>\n📖 <b>Summary:</b>\nTrippy is a network diagnostic tool written in Rust that combines the functionalities of ping and traceroute. It provides real-time network performance analysis and troubleshooting capabilities through a user-friendly terminal interface.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/fujiapple852/trippy?embed=0\">View Project</a>\n• <a href=\"https://trippy.rs?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/474961035/4c1fb8ed-f085-4c39-8258-574cc65063ec",
+        "project_id": 902818578,
+        "content": "✨ <b>vps-audit</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nAuditing the security and performance of Linux Virtual Private Servers (VPS) to identify vulnerabilities and areas for improvement.\n<br>\n✨ <b>Key Features:</b>\n• Comprehensive security checks (SSH, Firewall, Fail2ban/CrowdSec, Failed Logins, System Updates, Running Services, Open Ports, Sudo Logging, Password Policy, SUID Files)\n<br>\n📖 <b>Summary:</b>\nvps-audit is a lightweight, dependency-free Bash script designed for comprehensive security and performance auditing of Linux servers. It checks SSH configuration, firewall status, intrusion prevention, system updates, running services, open ports, and more, providing real-time feedback and detailed reports with actionable recommendations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nuver-labs/vps-audit?embed=0\">View Project</a>\n• <a href=\"https://nuverlabs.com/vps-audit?ref=github?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/902818578/efa33dfe-1433-4125-83d5-71e47fce099f",
         "platform": "telegram",
-        "quality_score": 0.8
+        "quality_score": 0.9000000000000001
     },
     {
-        "project_id": 1204405167,
-        "content": "🚀 <b>winpodx</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo allow Linux users to run and integrate Windows applications directly into their desktop environment as if they were native Linux applications.\n<br>\n✨ <b>Key Features:</b>\n• Run Windows apps as native Linux windows\n• Real icons and WM_CLASS for Windows apps\n• Pin Windows apps to the Linux taskbar\n• Utilizes FreeRDP RemoteApp\n• Zero configuration setup\n<br>\n📖 <b>Summary:</b>\nWinPodX provides a seamless way to run Windows applications as native Linux applications. It leverages FreeRDP RemoteApp and a zero-configuration setup to integrate Windows apps directly into your Linux desktop environment, complete with proper icons and taskbar pinning.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kernalix7/winpodx?embed=0\">View Project</a>\n• <a href=\"https://www.winpodx.org/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/3ed19b00e8299927904c5e16dcefdb16c0ec3f64fb7803373c92bd1a5806aea0/kernalix7/winpodx",
-        "platform": "telegram",
-        "quality_score": 0.95
-    },
-    {
-        "project_id": 920297904,
-        "content": "✨ <b>WailBrew</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a user-friendly graphical interface for managing Homebrew packages on macOS, making software installation and updates more accessible.\n<br>\n✨ <b>Key Features:</b>\n• Native macOS GUI for Homebrew\n• Manages formulae, casks, and services\n• Install, uninstall, and upgrade packages\n• Browse and search installed packages\n• View detailed package information\n<br>\n📖 <b>Summary:</b>\nWailBrew is a native macOS graphical user interface for managing Homebrew packages, casks, and services. It provides an intuitive, modern alternative to command-line package management, allowing users to install, update, and control their software with ease.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/wickenico/WailBrew?embed=0\">View Project</a>\n• <a href=\"https://wailbrew.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e5946f1b86489e732ca3d64c922f9090ca6006ed76d13f3dcbf9ad4f9bcf5d08/wickenico/WailBrew",
-        "platform": "telegram",
-        "quality_score": 0.85
-    },
-    {
-        "project_id": 1129202884,
-        "content": "🚀 <b>claude-code-showcase</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a detailed, practical example of how to configure and leverage Claude Code for automating various aspects of software development, including code quality, reviews, maintenance, and ticket management, thereby enhancing team productivity and code consistency.\n<br>\n✨ <b>Key Features:</b>\n<br>\n📖 <b>Summary:</b>\nThis repository showcases a comprehensive configuration example for Claude Code, an LLM agent, demonstrating how to integrate custom skills, agents, hooks, and GitHub Actions for automated code quality, review, and maintenance. It aims to highlight the power of LLM agents in software development by automating repetitive tasks and enforcing project standards.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ChrisWiles/claude-code-showcase?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/6675126728b24fb61c38981c17025e9341731a96ce0b2d96bb449927b0c388eb/ChrisWiles/claude-code-showcase",
-        "platform": "telegram",
-        "quality_score": 0.6
-    },
-    {
-        "project_id": 1081230042,
-        "content": "🌟 <b>VidBee</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo download, organize, transcribe, and analyze video and audio content from various online sources and local files using AI.\n<br>\n✨ <b>Key Features:</b>\n• Download video and audio from 1000+ sites\n• Import local media\n• Create searchable transcripts locally\n• Speaker detection and labeling\n• Timestamped playback\n<br>\n📖 <b>Summary:</b>\nVidBee is a desktop application for downloading and organizing video and audio from over 1000 websites. It allows users to create searchable transcripts locally, summarize, translate, and query media using AI, while also supporting local media import and flexible export options.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nexmoe/VidBee?embed=0\">View Project</a>\n• <a href=\"https://vidbee.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4a011eb624c2f29b2b55cd859108ef8d14e5bfbe1c24088c85cb258b2dd85060/nexmoe/VidBee",
+        "project_id": 1174224707,
+        "content": "✨ <b>avoid-ai-writing</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enhance the human-like quality of AI-generated text by identifying and correcting AI writing patterns, making content more natural and less detectable as machine-generated.\n<br>\n✨ <b>Key Features:</b>\n• Audits and rewrites content to remove AI writing patterns\n• Supports detect-only and edit-in-place modes\n• Includes optional voice profiles (casual, professional, technical, warm, blunt)\n<br>\n📖 <b>Summary:</b>\nThis JavaScript skill audits and rewrites content to remove common AI writing patterns, making text sound more human. It supports multiple modes like detection-only, full rewrite, and in-place editing, along with customizable voice profiles.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/conorbronsdon/avoid-ai-writing?embed=0\">View Project</a>\n• <a href=\"https://chainofthought.show/go/avoid-ai-writing?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1174224707/9b1c2a69-e498-4d37-9c65-a3089bf77d97",
         "platform": "telegram",
         "quality_score": 1.1
+    },
+    {
+        "project_id": 1092839234,
+        "content": "💡 <b>zedis</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding developers with a fast, efficient, and feature-rich graphical interface for interacting with and managing Redis databases, especially those with large datasets.\n<br>\n✨ <b>Key Features:</b>\n• Native, GPU-accelerated rendering with Rust and GPUI\n• Efficient handling of millions of keys with virtual scrolling and low memory footprint\n• Intelligent data viewers for various Redis types and formats (JSON, Protobuf, MessagePack, images, hex)\n<br>\n📖 <b>Summary:</b>\nZedis is a high-performance, native GUI client for Redis, built with Rust and GPUI. It offers a smooth, GPU-accelerated user experience with minimal memory usage, designed to handle large databases efficiently.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vicanso/zedis?embed=0\">View Project</a>\n• <a href=\"https://zedis.net/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e9dbeda166886c419da11f43dba1f7d39e06197d7119f8c2cfcd9efda427467d/vicanso/zedis",
+        "platform": "telegram",
+        "quality_score": 1.05
     }
 ]
