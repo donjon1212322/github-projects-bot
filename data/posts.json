@@ -1,37 +1,23 @@
 [
     {
-        "project_id": 1241183189,
-        "content": "✨ <b>Maya</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nTransforming raw iPhone screen recordings into professional, shareable video content for marketing, social media, and tutorials.\n<br>\n✨ <b>Key Features:</b>\n• Device framing with multiple iPhone/iPad/MacBook models and color variants\n• Customizable generic frames and no-frame option\n• Configurable canvas aspect ratios (1:1, 9:16, 4:5, etc.)\n• Optional drop shadows\n<br>\n📖 <b>Summary:</b>\nMaya is a native macOS application designed to enhance iPhone screen recordings by adding professional visual elements. It allows users to wrap recordings in device frames, incorporate cinematic zoom effects, add visible tap feedback, and export polished videos suitable for marketing, social media, or tutorials.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ronaldo-avalos/Maya?embed=0\">View Project</a>\n• <a href=\"https://ronaldo-avalos.github.io/Maya/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a3df3accdb5eedaee2d1d21b592231e7db415637d22364c3bcfe101a74032bf0/ronaldo-avalos/Maya",
+        "project_id": 1152014594,
+        "content": "✨ <b>claude-seo</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide automated, in-depth SEO audits and actionable recommendations within the Claude Code environment, helping users improve their website's search engine performance.\n<br>\n✨ <b>Key Features:</b>\n• Comprehensive SEO analysis (technical, E-E-A-T, schema, GEO, local, e-commerce, international)\n• 25 sub-skills and 18 specialist agents for parallel execution\n• Prioritized action plans with testable recommendations\n<br>\n📖 <b>Summary:</b>\nClaude SEO is an open-source plugin for Claude Code that performs comprehensive SEO analysis. It leverages 25 sub-skills and 18 specialist agents to cover a wide range of SEO aspects, providing prioritized, actionable recommendations grounded in primary-source guidance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AgriciDaniel/claude-seo?embed=0\">View Project</a>\n• <a href=\"https://claude-seo.md?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1152014594/0e048e51-24ae-435b-9b32-cc6b3def5356",
         "platform": "telegram",
-        "quality_score": 1.1
+        "quality_score": 1.2000000000000002
     },
     {
-        "project_id": 719646468,
-        "content": "🚀 <b>crosspaste-desktop</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nSeamlessly synchronize clipboard content across multiple devices on a local network, ensuring privacy and security.\n<br>\n✨ <b>Key Features:</b>\n• Real-time Sharing\n• Cross-platform (macOS, Windows, Linux)\n• Rich Type Support (Text, Color, URL, HTML, RTF, Image, File)\n• End-to-End Encryption\n• LAN-only Serverless Architecture\n<br>\n📖 <b>Summary:</b>\nCrossPaste Desktop is a cross-platform application for synchronizing clipboard content between macOS, Windows, and Linux devices. It prioritizes privacy with end-to-end encryption and a serverless, LAN-only architecture, also featuring OCR and CLI capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/CrossPaste/crosspaste-desktop?embed=0\">View Project</a>\n• <a href=\"https://crosspaste.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1b2174014a9cc7b7e7d3a27a8eeaa49d32fb828df03e858e5d6a6baae3b2a541/CrossPaste/crosspaste-desktop",
+        "project_id": 102588436,
+        "content": "🔥 <b>gobackup</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating scheduled backups of databases and files to cloud storage for application servers.\n<br>\n✨ <b>Key Features:</b>\n• No dependencies\n• Multiple Databases source support\n• Multiple Storage type support\n• Archive paths or files into a tar\n• Split large backup file into multiple parts\n<br>\n📖 <b>Summary:</b>\nGoBackup is a Go-based CLI tool designed for application servers to automate the backup of databases and files. It securely stores these backups in various cloud storage services with scheduled execution and optional encryption and compression.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gobackup/gobackup?embed=0\">View Project</a>\n• <a href=\"https://gobackup.github.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/102588436/7b47bca6-b275-4bcd-9a2b-a4ff99de3918",
+        "platform": "telegram",
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 1034803214,
+        "content": "🔥 <b>stealth-browser-mcp</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable AI agents and automated scripts to interact with websites that employ sophisticated anti-bot measures, such as Cloudflare, by providing an undetectable browser automation solution.\n<br>\n✨ <b>Key Features:</b>\n• Bypasses anti-bot systems and Cloudflare challenges\n• AI-driven network hook generation\n• Pixel-perfect UI cloning via chat commands\n• Utilizes nodriver and Chrome DevTools Protocol\n<br>\n📖 <b>Summary:</b>\nStealth Browser MCP is a Python library designed for advanced browser automation, specifically engineered to bypass anti-bot systems and CAPTCHAs. It leverages AI to automate network requests and replicate user interfaces with high fidelity, enabling seamless web scraping and interaction with protected websites.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vibheksoni/stealth-browser-mcp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e544522230eb41097dd91d2a48dbe4390cd30d02fbb5273400049ed6fb864566/vibheksoni/stealth-browser-mcp",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 1177456367,
-        "content": "🔥 <b>cashclaw</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automate the process of finding, bidding on, executing, and learning from tasks in an onchain work marketplace, acting as a self-improving digital worker.\n<br>\n✨ <b>Key Features:</b>\n• Autonomous agent for task execution\n• Connects to Moltlaunch marketplace\n• LLM-powered work completion\n• Self-learning and improvement based on feedback\n• Tool-use for various agent actions (quote, decline, message, etc.)\n<br>\n📖 <b>Summary:</b>\nCashClaw is an open-source autonomous agent built with TypeScript that connects to the Moltlaunch marketplace to find, bid on, and complete tasks. It utilizes an LLM for task execution and incorporates a feedback loop to continuously improve its performance over time.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/moltlaunch/cashclaw?embed=0\">View Project</a>\n• <a href=\"https://moltlaunch.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/098e97c9bd85b9795eaf90c900df0e14614d46a043535c7f78a070e566b83be1/moltlaunch/cashclaw",
-        "platform": "telegram",
-        "quality_score": 0.35
-    },
-    {
-        "project_id": 1296591929,
-        "content": "💡 <b>davy</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nWatching current season anime on Android TV devices.\n<br>\n✨ <b>Key Features:</b>\n• Browse current season anime\n• Detailed anime pages (synopsis, genres, ratings)\n• Select episodes and players\n• Built-in ExoPlayer media player\n• TV-friendly layout with focus-based navigation\n<br>\n📖 <b>Summary:</b>\nDAVY is a modern Android TV application built with Kotlin and Jetpack Compose for discovering and watching anime from the current season. It features a TV-friendly interface, a built-in media player powered by ExoPlayer, and pulls data from the Yummy API for a seamless discovery-to-playback experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AsfhtgkDavid/davy?embed=0\">View Project</a>\n• <a href=\"https://f-droid.org/packages/dev.daika.davy/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/413ef5df7b76f2b87fdb5434a0150bab127c77477d1d01612de70b65e49e2e82/AsfhtgkDavid/davy",
-        "platform": "telegram",
-        "quality_score": 0.55
-    },
-    {
-        "project_id": 1311237022,
-        "content": "🔥 <b>nyetdb</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable AI agents to safely query databases without the risk of accidental data modification or unauthorized access, by providing a secure, read-only interface.\n<br>\n✨ <b>Key Features:</b>\n• Read-only access across multiple database types\n• Layered security: AST validation, session modes, read-only roles\n• Project-scoped connections based on directory access\n• Password management, keeping credentials out of agent reach\n<br>\n📖 <b>Summary:</b>\nNyetDB is a Rust-based CLI tool designed to provide AI agents with secure, read-only access to various databases (PostgreSQL, MySQL, SQLite, MongoDB, ClickHouse, Redis). It acts as a secure gateway, preventing unauthorized write operations and protecting sensitive data through multiple layers of security and logging.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/stasmarkin/nyetdb?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/20d4e3751f418e44035dc15e544923afef36e87166f97c8fef622b099567df85/stasmarkin/nyetdb",
-        "platform": "telegram",
-        "quality_score": 1.05
     }
 ]

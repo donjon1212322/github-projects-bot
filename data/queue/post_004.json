@@ -1,7 +1,0 @@
-{
-    "project_id": 1311237022,
-    "content": "🔥 <b>nyetdb</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable AI agents to safely query databases without the risk of accidental data modification or unauthorized access, by providing a secure, read-only interface.\n<br>\n✨ <b>Key Features:</b>\n• Read-only access across multiple database types\n• Layered security: AST validation, session modes, read-only roles\n• Project-scoped connections based on directory access\n• Password management, keeping credentials out of agent reach\n<br>\n📖 <b>Summary:</b>\nNyetDB is a Rust-based CLI tool designed to provide AI agents with secure, read-only access to various databases (PostgreSQL, MySQL, SQLite, MongoDB, ClickHouse, Redis). It acts as a secure gateway, preventing unauthorized write operations and protecting sensitive data through multiple layers of security and logging.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/stasmarkin/nyetdb?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/20d4e3751f418e44035dc15e544923afef36e87166f97c8fef622b099567df85/stasmarkin/nyetdb",
-    "platform": "telegram",
-    "quality_score": 1.05
-}
