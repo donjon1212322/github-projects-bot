@@ -1,26 +1,26 @@
 {
-    "title": "Claude Ads: Your AI-Powered Co-Pilot for Paid Media Campaigns is Here!",
-    "article": "Hey fellow developers and marketing tech enthusiasts! Ever felt overwhelmed managing paid advertising campaigns across a dozen different platforms? The sheer complexity of auditing, planning, creating assets, and monitoring performance can be a real headache. What if there was a tool that could not only automate much of this but also provide intelligent, evidence-backed insights? Well, get ready to say hello to Claude Ads, a mind-blowing GitHub project that's set to revolutionize how agencies, consultants, and in-house teams handle paid media operations.Claude Ads is essentially your AI-first, portable solution for supercharging paid media. Imagine a system that takes your existing ad account data – whether it's an authorized export or a direct account read – and transforms it into actionable intelligence. It doesn't just crunch numbers; it generates 'source-grounded audits' (think of it as audits backed by solid, verifiable evidence), comprehensive plans, creative workflows, experiment designs, continuous monitoring, and detailed reports. This isn't just about automation; it's about intelligent automation that gives you confidence in your decisions.One of the coolest features, and a huge relief for anyone who's ever worried about accidental changes, is that Claude Ads is read-only by default. This means it will analyze, suggest, and report without ever touching your live campaigns. Any proposed changes, like launching a new campaign or optimizing an existing one, are first drafted as 'mutation plans.' These changes only go live after they've passed rigorous approval, verification, and rollback gates. This safety-first approach is a game-changer, ensuring you maintain full control and can review everything before it impacts your budget.What can it actually do? A lot! Claude Ads can audit your accounts, providing clear evidence and confidence scores. It can plan out entire campaigns, including channel selection, budget allocation, and measurement strategies. Need ad copy, image briefs, or even video concepts? It can help create those assets. It constantly monitors your campaign's pacing, delivery, tracking, and even policy compliance. All its findings are produced in versioned JSON, which can then be rendered into easy-to-read Markdown, HTML, or even PDF reports. This means you always have a clear, documented record of everything.The project's platform coverage is truly impressive. It supports a whopping twelve major paid advertising platforms, including giants like Google Ads, Meta Ads, YouTube Ads, LinkedIn Ads, TikTok Ads, Microsoft Advertising, and even commerce platforms like Apple Ads, Amazon Ads, and Pinterest Ads. This broad compatibility means you can use a single, unified system to manage your entire ad ecosystem, saving countless hours jumping between different interfaces and dashboards. Imagine running a comprehensive audit or drafting a cross-platform plan with just a few simple commands!For developers, this project offers an incredible opportunity to streamline workflows, reduce manual errors, and elevate strategic decision-making in the marketing domain. It's built with clear commands, making it accessible to integrate and use. Whether you're looking to automate routine tasks, gain deeper insights into campaign performance, or ensure robust safety checks for your ad operations, Claude Ads provides a powerful, flexible framework. It's not just a tool; it's an intelligent partner for navigating the complex world of paid media.",
+    "title": "Pascal Editor: Build 3D Worlds with AI, Right From Your Browser!",
+    "article": "Hey everyone! As a fellow developer always on the lookout for the next big thing, I just had to share something truly exciting that's been making waves in the open-source community: the Pascal Editor. If you've ever dreamed of creating immersive 3D environments with the power of modern web technologies and even AI, then you absolutely need to check this out.What problem does Pascal Editor solve? Well, imagine trying to build complex 3D scenes without being tied to heavy, proprietary software, and then wanting to seamlessly integrate intelligent agents into those worlds. Traditional tools often make this a headache. Pascal Editor steps in as a game-changer, offering a local-first, open-source solution that runs right in your browser or via a simple CLI.At its core, Pascal Editor is a robust 3D building editor. But it's not just any editor; it's built with cutting-edge web technologies like React Three Fiber for stunning 3D rendering and WebGPU for incredible performance, making it feel snappy and responsive. This means web developers can jump right in, leveraging their existing JavaScript and React knowledge to create and manipulate 3D objects with ease.One of the most mind-blowing features, and what truly sets Pascal Editor apart, is its ability to connect AI agents through its unique MCP (Minecraft Protocol) integration. Yes, you read that right! You can literally have AI agents interacting with your 3D creations. Think about the possibilities: autonomous builders, intelligent NPCs, or even AI-driven simulations within your custom environments. It's a fantastic playground for exploring the intersection of AI and 3D design, offering a standardized way for agents to communicate and act within your digital worlds.Getting started is ridiculously simple. Forget cloning repositories and complex setups. With Node.js 22.13 or newer, you can get it running with a single command: npx @pascal-app/cli editor. This command not only launches the editor but also sets up an authenticated MCP service in the background, keeping all your project data safely stored locally in ~/.pascal/data/pascal.db. This local-first approach means you have full control over your data and can work offline, ensuring privacy and robust performance.For developers, the benefits are immense. You gain a powerful, modern 3D editor that's open-source and extensible. You can rapidly prototype ideas, automate construction tasks with AI, and experiment with new forms of interactive experiences. Whether you're building virtual spaces, game levels, or just exploring generative design, Pascal Editor offers a flexible and performant platform. It's a vibrant project with a growing community, so jump into their Discord or follow them on X to stay updated and contribute! This project is truly pushing the boundaries of what's possible in web-based 3D and AI integration.",
     "key_takeaways": [
-        "Claude Ads is an AI-powered GitHub project for comprehensive paid media management.",
-        "It automates audits, planning, creative asset generation, monitoring, and reporting across 12 major ad platforms.",
-        "Prioritizes safety with a read-only default and strict approval gates for any live account changes.",
-        "Provides evidence-backed insights and generates detailed, versioned reports in multiple formats.",
-        "Streamlines complex ad operations, saving time and improving decision-making for marketing professionals."
+        "Pascal Editor is an open-source, local-first 3D building editor.",
+        "It leverages React Three Fiber and WebGPU for modern web-based 3D development.",
+        "Its unique MCP integration allows seamless connection and control of AI agents within 3D environments.",
+        "Easy setup via a simple CLI command, storing project data locally for privacy and control.",
+        "Offers a powerful platform for developers to create, automate, and experiment with AI-driven 3D experiences."
     ],
     "tags": [
-        "AI Marketing",
-        "Paid Media",
-        "AdTech",
-        "Automation",
-        "Campaign Management"
+        "3D Editor",
+        "React Three Fiber",
+        "WebGPU",
+        "AI Agents",
+        "Open Source"
     ],
-    "stars": 9156,
-    "forks": 1358,
-    "open_issues": 19,
-    "languages": "Python",
-    "readme_summary": "Claude Ads is a Python-based, Claude-first paid-media operations tool designed to automate and audit advertising campaigns across 12 major platforms. It provides source-grounded audits, deterministic scoring, versioned reports, and capability-gated account changes, prioritizing safety and control.",
-    "project_id": 1155383451,
-    "url": "https://github.com/AgriciDaniel/claude-ads",
-    "description": "Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic scoring, versioned JSON reports, and capability-gated account changes."
+    "stars": 23283,
+    "forks": 2917,
+    "open_issues": 30,
+    "languages": "TypeScript",
+    "readme_summary": "Pascal Editor is an open-source, local-first 3D architectural editor that runs in the browser or via a CLI. It leverages React Three Fiber and WebGPU for its rendering capabilities and integrates with AI agents through the Model Context Protocol (MCP).",
+    "project_id": 1077819522,
+    "url": "https://github.com/pascalorg/editor",
+    "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents."
 }
