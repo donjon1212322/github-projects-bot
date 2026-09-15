@@ -1,26 +1,25 @@
 {
-    "title": "OmniGet: Your New Dev Superpower for Downloads and Media Mastery!",
-    "article": "Hey fellow developers! Ever feel like you're juggling a dozen different tools just to download a YouTube video, grab a course from Udemy, or save a cool Instagram reel? What if I told you there's a single, elegant desktop application that handles all of that, and then some? Get ready to say hello to OmniGet, a GitHub project that's quickly becoming my go-to for all things media!\n\nOmniGet isn't just another downloader; it's a full-blown media toolbox packed into one free, open-source app for Windows, macOS, and Linux. Imagine pasting a link from virtually anywhere – be it YouTube, Instagram, X (Twitter), Pinterest, TikTok, Reddit, Twitch, Bilibili, Telegram, or even major course platforms like Udemy and Hotmart – and OmniGet just... gets it. It's essentially a user-friendly graphical interface built on top of the incredibly powerful yt-dlp, making all that command-line magic accessible with a click.\n\nBut here's where it gets really exciting: OmniGet goes way beyond simple downloads. It's truly an 'omni' tool. Need to transcribe audio from a downloaded video? It's got Whisper transcription built-in. Want to convert a video format? Yep. It even includes an EPUB and PDF reader, a music player, and tools for creating Anki flashcards for spaced repetition. Think about that for a second – you can download a course, transcribe its lectures, convert materials, and then use the app to study them! This is a game-changer for anyone who learns online or wants to keep their digital media organized and accessible.\n\nThe benefits for us developers are huge. First, it's a massive productivity booster. No more switching between browser extensions, command-line scripts, and separate media players. Everything is consolidated. Second, it's completely privacy-focused. There are no accounts, no ads, and absolutely no telemetry on what you download. Your files stay on your computer, period. This is a big win in an age where data privacy is paramount. Plus, being open source under the GPL-3.0 license means you can inspect the code, contribute, or just trust that it's doing what it says.\n\nOmniGet is built with modern technologies like Tauri, Rust, and Svelte, ensuring a performant and responsive user experience. It's already garnered over 9,500 stars on GitHub and is the most starred project in the `udemy-downloader`, `hotmart-downloader`, and `course-downloader` topics – a testament to its quality and utility. If you're looking to streamline your media workflow, gain control over your digital content, and support an awesome open-source project, you absolutely need to check out OmniGet. It's a true gem that makes managing your digital life so much easier!",
+    "title": "SIMURG: Stop LLM Gibberish Mid-Flight and Save Your Users!",
+    "article": "Hey fellow developers! Ever been running a cool LLM in production, especially a fine-tuned, smaller, or self-hosted one, and suddenly it just... derails? You know the drill: endless repetitions, a sudden switch to another language, spitting out internal boilerplate, or just pure symbolic garbage like '#REF! -0.00'. It's frustrating, it looks unprofessional, and it totally breaks the user experience. This isn't about the model making up facts; it's about the *decoding process itself* going haywire, leaving a statistical mess in the output stream.\n\nWell, what if I told you there's a brilliant new project on GitHub that can catch this corruption *while the LLM is still generating its response* and cut it off before your users even see it? Enter **SIMURG: Streaming Integrity Monitor & Universal Regeneration Guard**. This isn't some heavy-duty, GPU-hungry monster; it's a lean, mean, corruption-detecting machine that runs on your CPU, uses only NumPy, and requires zero training – literally three lines of code to get started!\n\nSIMURG works by intelligently monitoring the statistical 'signature' of the LLM's output character by character. It's looking for tell-tale signs like sudden changes in repetition rate, lexical variety, script distribution (hello, cross-lingual drift!), or how compressible the text is. When it detects that the stream has gone bad, it tells you exactly where the corruption started and, crucially, lets you abort the generation and retry. Imagine: no more users seeing half-finished, nonsensical answers! The host system can simply regenerate the response, providing a seamless and reliable experience.\n\nAnd here's the kicker: SIMURG is incredibly fast. It can process nearly 200,000 characters per second on a laptop CPU, while a typical LLM streams at around 250 characters per second. This means SIMURG is *never* the bottleneck. It's like having a lightning-fast quality control agent watching over every word your LLM produces. It's especially a game-changer for those of us working with resource-constrained or custom models where these decoding issues are more prevalent.\n\nThis project is a must-check-out for anyone deploying LLMs in production. It dramatically improves the robustness and user experience of your AI applications by preventing those embarrassing, stream-of-consciousness failures. It's simple, effective, and a true lifesaver for maintaining output integrity. Go give SIMURG a star and integrate it into your projects!",
     "key_takeaways": [
-        "OmniGet is a free, open-source desktop app for Windows, macOS, and Linux, acting as an all-in-one media downloader and toolbox.",
-        "It supports downloading content from over 1,800 sites, including popular platforms like YouTube, Instagram, X, TikTok, and crucial learning sites like Udemy and Hotmart.",
-        "Beyond downloads, it offers a suite of tools including Whisper transcription, media conversion, EPUB/PDF reading, and Anki flashcard creation for comprehensive media management.",
-        "The project prioritizes user privacy with no accounts, ads, or telemetry, ensuring your files and data remain on your local machine.",
-        "Built with modern tech (Tauri, Rust, Svelte), OmniGet significantly boosts productivity by consolidating multiple media-related tasks into a single, user-friendly application."
+        "SIMURG detects LLM decoding corruption (like repetition or gibberish) in real-time.",
+        "It stops bad output mid-generation, preventing it from reaching the user.",
+        "The system is incredibly fast, CPU-only, and requires minimal setup (3 lines of code).",
+        "It's crucial for improving the reliability and user experience of LLM applications, especially with smaller or self-hosted models."
     ],
     "tags": [
-        "media-downloader",
-        "yt-dlp-gui",
-        "course-downloader",
-        "open-source",
-        "productivity-tool"
+        "LLM",
+        "AI",
+        "Streaming",
+        "Quality Control",
+        "Python"
     ],
-    "stars": 12156,
-    "forks": 1050,
-    "open_issues": 32,
-    "languages": "Rust",
-    "readme_summary": "OmniGet is a free, open-source desktop application for Windows, macOS, and Linux that simplifies downloading media from over 1,800 websites, including Udemy, Hotmart, and YouTube. It integrates a media player, EPUB reader, and music library, all powered by yt-dlp, ensuring user files remain on their local computer.",
-    "project_id": 1155787322,
-    "url": "https://github.com/tonhowtf/omniget",
-    "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer."
+    "stars": 78,
+    "forks": 23,
+    "open_issues": 1,
+    "languages": "Python",
+    "readme_summary": "SIMURG is a Python library designed to detect and prevent LLM decoding corruption in real-time during text generation. It monitors the token stream for anomalies like repetition, language drift, or garbage output, allowing for mid-stream abortion and regeneration before the corrupted text reaches the user. It is compatible with any OpenAI-compatible API and operates efficiently without requiring a GPU.",
+    "project_id": 1306940144,
+    "url": "https://github.com/doofzoff/SIMURG",
+    "description": "Zero-leak online detection of LLM decoding corruption and Free Web Search for your AI agents! Catch repetition loops, language drift and garbage mid-stream, before the user sees a bad token. Works with any OpenAI-compatible API."
 }
