@@ -1,7 +1,0 @@
-{
-    "project_id": 1102059881,
-    "content": "🚀 <b>whitebox</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nMonitoring the availability and performance of external VPN services by acting as a Prometheus exporter.\n<br>\n✨ <b>Key Features:</b>\n• Multi-protocol VPN Probing (VMESS, VLESS, Trojan, Wireguard, AmneziaWG, Shadowsocks, Hysteria2)\n• RESTful API Service for connectivity checks\n• Customizable probe configurations (connection details, target URLs, response validation, timeouts)\n<br>\n📖 <b>Summary:</b>\nwhitebox is a Go-based Prometheus exporter designed for monitoring the availability of various external VPN services. It supports multiple protocols like VMESS, VLESS, Trojan, WireGuard, and Shadowsocks, offering on-demand or scheduled connectivity checks and exposing results as Prometheus metrics.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/quyxishi/whitebox?embed=0\">View Project</a>\n• <a href=\"https://github.com/quyxishi/whitebox?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/b3754874de386707abb412e09bfb551b3a1b77b6d8416f3963e2ccf1b48546a2/quyxishi/whitebox",
-    "platform": "telegram",
-    "quality_score": 0.9
-}
