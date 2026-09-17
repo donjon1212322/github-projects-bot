@@ -1,37 +1,44 @@
 [
     {
-        "project_id": 1170184328,
-        "content": "🌟 <b>linux-android</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nRepurposing old Android phones into functional Linux desktops or smart home servers.\n<br>\n✨ <b>Key Features:</b>\n• Turn Android phone into Linux desktop\n• Turn Android phone into Home Assistant server\n• No root required\n• No PC required\n• No cloud required\n<br>\n📖 <b>Summary:</b>\nThis repository allows users to transform an old Android phone into a functional Linux desktop environment (like XFCE4, KDE Plasma) or a self-hosted Home Assistant server. It achieves this without requiring root access or a separate PC, leveraging Termux and Termux-X11 for a GPU-accelerated experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mayukh4/linux-android?embed=0\">View Project</a>\n• <a href=\"https://youtu.be/tYm2rQpkOcg?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/504d7710ebfcc551c1210fcb995c5e57a1ef5221cddae71f98d1f7d95ab4af4b/mayukh4/linux-android",
+        "project_id": 14614344,
+        "content": "💡 <b>cool-retro-term</b> | QML\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a nostalgic and visually distinctive terminal emulator experience by replicating the appearance of old CRT monitors.\n<br>\n✨ <b>Key Features:</b>\n• Mimics old cathode tube screens\n• Eye-candy and customizable\n• Reasonably lightweight\n• Uses QML port of qtermwidget\n• Works on Linux and macOS\n<br>\n📖 <b>Summary:</b>\nCool-retro-term is a terminal emulator that recreates the aesthetic of old cathode ray tube screens. It offers a visually appealing and customizable experience, mimicking the look and feel of vintage computer displays.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Swordfish90/cool-retro-term?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9322306cf88e9583f3b188ceaa0d70c477461944a340c8dda70bfafc3bde0d0d/Swordfish90/cool-retro-term",
         "platform": "telegram",
-        "quality_score": 1.0000000000000002
+        "quality_score": 0.65
     },
     {
-        "project_id": 1159695421,
-        "content": "🚀 <b>homelab-hub</b> | Svelte\n<br>\n🎯 <b>Primary Use Case:</b>\nCentralized management and visualization of home lab infrastructure components.\n<br>\n✨ <b>Key Features:</b>\n• Inventory Management (hardware, VMs, apps, storage, networks)\n• Shares Management (NFS, SMB, iSCSI, etc.)\n• Export/Import functionality\n• Interactive Network Visualization (Cytoscape.js)\n• Hierarchical Tree View\n<br>\n📖 <b>Summary:</b>\nHome Lab Hub is a self-hosted web application designed to manage and visualize your home lab infrastructure. It provides a centralized platform to track hardware, virtual machines, applications, storage, networks, and their relationships, with features like interactive network visualization and markdown-based documentation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/RaidOwl/homelab-hub?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9341f0f686b6eb6f3b13b55e9cad5f0a186addf79743ea38733cb6fe520a42d2/RaidOwl/homelab-hub",
+        "project_id": 1277471539,
+        "content": "🔥 <b>gods-eye-view</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nProviding users with a real-time, interactive, and visually rich platform for exploring live global data streams, simulating a spy satellite's perspective for situational awareness and intelligence gathering.\n<br>\n✨ <b>Key Features:</b>\n• Photorealistic 3D globe visualization\n• Live tracking of aircraft, ships, satellites, earthquakes, traffic, and public cameras\n<br>\n📖 <b>Summary:</b>\nGod's Eye View is a web-based spy satellite simulator that provides live, open-source spatial intelligence on a photorealistic 3D globe. It integrates real-time data from aircraft, ships, satellites, earthquakes, traffic, and public cameras, offering a hands-free voice control interface powered by an AI agent.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/bilawalsidhu/gods-eye-view?embed=0\">View Project</a>\n• <a href=\"https://maptheworld.ai/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/662937f6d5f47073d57402b3cefa34dbbce928a41ad82673cd2aabcfe3b051fa/bilawalsidhu/gods-eye-view",
         "platform": "telegram",
-        "quality_score": 0.55
+        "quality_score": 1.1
     },
     {
-        "project_id": 957782869,
-        "content": "💡 <b>KeyForge3D</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nGenerating 3D printable STL files of keys from photographs for replication.\n<br>\n✨ <b>Key Features:</b>\n• Key Shape Extraction from photo\n• Bitting Pattern Analysis\n• 3D Model Generation\n• STL File Export\n• User-Friendly GUI (Tkinter)\n<br>\n📖 <b>Summary:</b>\nKeyForge3D is a Python application that converts a photograph of a physical key into a 3D-printable STL file. It uses image processing to analyze the key's bitting pattern and generate an accurate 3D model, making it useful for locksmiths and hobbyists for key replication.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/makalin/KeyForge3D?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d39361f6aa89b57cc828a389db2f548b8d4b0c38e9a1d85bd8bcf57ce59b5d4f/makalin/KeyForge3D",
+        "project_id": 1215329248,
+        "content": "🔥 <b>netviz</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nVisually designing and animating network architectures in a browser.\n<br>\n✨ <b>Key Features:</b>\n• Drag and drop blocks or insert production templates\n• Connect blocks with edges\n• Build and tune custom request-flow animations\n• Preview animations with optional camera follow\n• Inspector panel to edit selected items\n<br>\n📖 <b>Summary:</b>\nNetviz is a browser-based application for visually designing and animating network architectures. It allows users to add components, map data flow, and create animated request paths for presentations.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ShadowArcanist/netviz?embed=0\">View Project</a>\n• <a href=\"https://netviz.shadowarcanist.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/44cc86fd205794f2fb88a354a48aa1cc726d98969c3456d4b66ed1dc0b43beca/ShadowArcanist/netviz",
         "platform": "telegram",
-        "quality_score": 0.5
+        "quality_score": 0.6499999999999999
     },
     {
-        "project_id": 70777180,
-        "content": "💡 <b>Mailspring</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA desktop email client that provides a fast, efficient, and extensible way to manage email across multiple accounts on Windows, macOS, and Linux.\n<br>\n✨ <b>Key Features:</b>\n• Unified Inbox\n• Snooze\n• Send Later\n• Mail Rules\n• Templates\n<br>\n📖 <b>Summary:</b>\nMailspring is a fast, open-source email client for Windows, macOS, and Linux, built with TypeScript, Electron, and React. It features a C++ sync engine for improved performance and reduced resource usage compared to its predecessor, Nylas Mail. The client offers a plugin architecture for extensibility and includes features like a unified inbox, snooze, send later, and mail rules.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Foundry376/Mailspring?embed=0\">View Project</a>\n• <a href=\"https://getmailspring.com/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/70777180/e354b880-50e3-11ea-8b43-bf538189c7d4",
+        "project_id": 1122362345,
+        "content": "🔥 <b>claude-swarm</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nOrchestrating parallel AI coding agents for complex, long-running autonomous development tasks with built-in safety and monitoring.\n<br>\n✨ <b>Key Features:</b>\n• Persistent State Management\n• Parallel Claude Code Workers via tmux\n• Git Worktree Isolation\n• Worker Plan Mode with Competitive Planning\n• Confidence Monitoring and Enforced Verification\n<br>\n📖 <b>Summary:</b>\nClaude Swarm is a TypeScript-based MCP server designed to orchestrate parallel Claude Code worker swarms for long-running autonomous coding sessions. It features persistent state management, Git worktree isolation, and protocol-based behavioral governance to ensure reliable and constrained AI-driven development.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/cj-vana/claude-swarm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/aabe22bd78026da41b1c66da503781fc4f3444d73676505039eab3c15671931e/cj-vana/claude-swarm",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
+        "quality_score": 0.6
     },
     {
-        "project_id": 283503342,
-        "content": "✨ <b>OSS-DocumentScanner</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a mobile application for easily scanning, digitizing, and managing physical documents on their Android devices.\n<br>\n✨ <b>Key Features:</b>\n• Document scanning and capture\n• Image enhancement for clarity\n• PDF conversion\n• Document organization\n<br>\n📖 <b>Summary:</b>\nOSS DocumentScanner is an Android application designed for efficient document scanning and management. It leverages advanced image processing techniques to capture, enhance, and organize documents, converting them into digital formats like PDFs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ossappscollective/OSS-DocumentScanner?embed=0\">View Project</a>\n• <a href=\"https://ossdocumentscanner.akylas.fr/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/283503342/9723a031-aefa-4ca6-9ef6-8ef24905ab1f",
+        "project_id": 1186582345,
+        "content": "💡 <b>drift</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing the aesthetic appeal of a terminal during periods of user inactivity by displaying dynamic, artistic animations.\n<br>\n✨ <b>Key Features:</b>\n• 14 unique animated scenes (e.g., waveform, constellation, rain, particles, life, clock)\n• 9 built-in themes matched to popular terminal colorschemes\n• Automatic activation on idle and resumption on key press\n• Cross-platform compatibility (macOS, Linux, Windows)\n• Customizable scenes and themes\n<br>\n📖 <b>Summary:</b>\nDrift is a terminal screensaver written in Go that transforms idle time into ambient visual art. It offers a variety of animated scenes and themes, activating automatically when the terminal is inactive and resuming upon user input.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/phlx0/drift?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1186582345/b25e88fd-1b21-43b1-bfe8-be7d2c309a96",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
+        "quality_score": 1.1
+    },
+    {
+        "project_id": 1116144677,
+        "content": "🔥 <b>ghgrab</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo efficiently browse and download specific files or folders from remote Git repositories directly from the command line without performing a full clone.\n<br>\n✨ <b>Key Features:</b>\n• Browse and download files/folders from GitHub, GitLab, Codeberg, Gitea, Forgejo\n• TUI interface for easy navigation and selection\n• File preview within the TUI\n• Fuzzy search for quick file finding\n• Repo discovery and search\n<br>\n📖 <b>Summary:</b>\nghgrab is a terminal-based tool for browsing and downloading files from various Git forges like GitHub, GitLab, and Gitea. It offers a user-friendly TUI for efficient file selection, previewing, and batch downloads, eliminating the need for full repository clones.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/abhixdd/ghgrab?embed=0\">View Project</a>\n• <a href=\"https://ghgrab.readthedocs.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1116144677/4230cd47-e80e-43e4-8b80-7fd5b2e15acf",
+        "platform": "telegram",
+        "quality_score": 1.1000000000000003
     }
 ]
