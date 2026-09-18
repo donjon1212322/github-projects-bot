@@ -1,0 +1,7 @@
+{
+    "project_id": 1345207811,
+    "content": "💡 <b>GPU-Share</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo create a private, secure, and distributed network for running Dockerized GPU workloads among trusted peers, leveraging idle GPU resources without external cloud dependencies.\n<br>\n✨ <b>Key Features:</b>\n• Authenticated peer-to-peer connections for Docker GPU jobs\n• No SSH, VPN, or cloud infrastructure required\n• Default-deny allowlist for security\n• Jobs run within containers\n• Mutual pairing with signed codes\n<br>\n📖 <b>Summary:</b>\nGPUMesh enables secure, peer-to-peer sharing of Docker GPU jobs among trusted users without relying on centralized cloud services or complex network configurations like SSH or VPNs. It facilitates turning idle NVIDIA GPUs into a private, distributed compute network.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/arjun988/GPU-Share?embed=0\">View Project</a>\n• <a href=\"https://gpumesh-architechture.vercel.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/e74d235f8f6a3f55629d924a7b8a4958b4a164fe84c2281bc2af9894ddd27060/arjun988/GPU-Share",
+    "platform": "telegram",
+    "quality_score": 0.8999999999999999
+}
