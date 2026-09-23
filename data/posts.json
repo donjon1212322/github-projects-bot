@@ -1,37 +1,44 @@
 [
     {
-        "project_id": 1358495625,
-        "content": "💡 <b>RelateAnything</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPredicting relationships between objects in images or video frames using flexible, user-defined vocabularies and without relying on predefined object class labels.\n<br>\n✨ <b>Key Features:</b>\n• Real-time open-vocabulary relation prediction\n• Predicate vocabulary supplied at inference (no retraining needed)\n<br>\n📖 <b>Summary:</b>\nRelateAnything is a Python library for real-time, open-vocabulary relation prediction from any input. It allows users to define custom relation predicates at inference time without retraining, and it does not require object class labels, making it highly flexible. The model can output ranked lists of relations, or both spatial and semantic graphs simultaneously.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Maelic/RelateAnything?embed=0\">View Project</a>\n• <a href=\"https://maelic.github.io/RelateAnythingProject/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/e5435617cd5e3e9c2818bbc055faa23fa3950f5a77db3f331001175b60b1b1fe/Maelic/RelateAnything",
+        "project_id": 1015324976,
+        "content": "🌟 <b>portracker</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nReal-time network port and service discovery and monitoring for self-hosted environments.\n<br>\n✨ <b>Key Features:</b>\n• Automatic Port Discovery\n• Platform-Specific Collectors (Docker, TrueNAS)\n• Internal Port Detection\n• Lightweight & Self-Contained (SQLite)\n• Peer-to-Peer Monitoring\n<br>\n📖 <b>Summary:</b>\nPortracker is an open-source, self-hosted tool that automatically discovers and monitors network ports and services across your systems. It provides a real-time, accurate map of your network, preventing manual tracking and deployment issues.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mostafa-wahied/portracker?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e3c1023562ac2e91dddd8a243c3b0848ff74d5c05c6aede3c4380ba6440c2c95/mostafa-wahied/portracker",
         "platform": "telegram",
-        "quality_score": 0.75
+        "quality_score": 0.85
     },
     {
-        "project_id": 1305213943,
-        "content": "✨ <b>openGym</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a private, self-hosted fitness tracking solution that gives them full control over their workout data and progress.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted fitness tracker\n• Body-weight tracking with interactive charts\n• Workout logging (supersets, warm-ups, cardio)\n<br>\n📖 <b>Summary:</b>\nopenGym is a self-hosted, progressive web application for tracking gym workouts and body weight. It allows users to plan routines, log sets, supersets, warm-ups, and cardio, while also visualizing muscle fatigue and training progress. The application emphasizes data ownership and privacy, offering features like passkey login and import capabilities from other fitness apps.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DuarteSantos8/openGym?embed=0\">View Project</a>\n• <a href=\"https://opengym.duarte-santos.ch?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a960db87f7ad6fa9482b358f461d17e7aab77ef90fccda3836f3b2a5b9edcf47/DuarteSantos8/openGym",
-        "platform": "telegram",
-        "quality_score": 1.1
-    },
-    {
-        "project_id": 1359412349,
-        "content": "🚀 <b>Thingport</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCentralizing and managing a personal collection of 3D models from multiple online sources.\n<br>\n✨ <b>Key Features:</b>\n• Personal model library\n• Import from model websites\n• Search & organize\n• 3D previews\n• Archive your models\n<br>\n📖 <b>Summary:</b>\nThingport is a self-hosted web application designed to help 3D printing enthusiasts collect, organize, preview, and manage their 3D models from various online platforms. It provides a centralized library to prevent collections from becoming disorganized.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/TautvydasDerzinskas/Thingport?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f1b95e3df32990516a5260ca5fb6b2c1f4fc5a4bd66e8d7c4279b2ca9cde1d77/TautvydasDerzinskas/Thingport",
-        "platform": "telegram",
-        "quality_score": 0.9
-    },
-    {
-        "project_id": 709027512,
-        "content": "✨ <b>maxun</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to extract, automate, search, and monitor data from any website by converting it into a structured API.\n<br>\n✨ <b>Key Features:</b>\n• Real-time web scraping\n• Web crawling\n• Web search\n• Website monitoring\n• AI data extraction\n<br>\n📖 <b>Summary:</b>\nMaxun is an open-source web data platform designed for real-time web scraping, crawling, search, monitoring, and AI-driven data extraction. It allows users to transform any website into a structured API, enabling automation and efficient data retrieval.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/getmaxun/maxun?embed=0\">View Project</a>\n• <a href=\"https://www.maxun.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/62d6d44f209c79bcaae45d0876494687cb71518dac1aa503b602ed3b2df15cca/getmaxun/maxun",
-        "platform": "telegram",
-        "quality_score": 0.8500000000000001
-    },
-    {
-        "project_id": 951958279,
-        "content": "🌟 <b>telegram-mcp</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable AI assistants and other MCP-compatible clients to interact with and manage Telegram accounts, chats, and messages through a standardized protocol.\n<br>\n✨ <b>Key Features:</b>\n• Exposes Telegram account, chat, message, contact, media, folder, and admin operations via MCP\n• Supports sending, scheduling, editing, deleting, forwarding, pinning, and searching messages\n<br>\n📖 <b>Summary:</b>\nTelegram MCP Server is a Python-based server that bridges Telegram with Model Context Protocol (MCP) compatible clients like Claude and Cursor. It allows these clients to interact with Telegram features such as reading chats, managing groups, sending and modifying messages, and handling media and contacts.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/chigwell/telegram-mcp?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/fc7a0252f32901bcdd3d008d7bef478e0c990f0066988c537e8e74e4e4e00967/chigwell/telegram-mcp",
+        "project_id": 1318916159,
+        "content": "✨ <b>MangoDisk</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo help users free up disk space and understand their storage usage on macOS and Windows through a comprehensive and safe cleaning and analysis tool.\n<br>\n✨ <b>Key Features:</b>\n• Deep Cleanup (System, App Caches, Browser Data, Developer Tools, Containers, AI Models)\n• Large File Cleanup\n• Duplicate File Cleanup\n• Disk Space Analysis (Treemap visualization)\n• Privacy Cleanup (Browsing history, cookies, etc.)\n<br>\n📖 <b>Summary:</b>\nMangoDisk is a cross-platform desktop application for macOS and Windows designed to clean up disk space and analyze storage usage. It offers features like deep cleanup of system and application caches, large file identification, duplicate file removal, and privacy data clearing.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/harry0703/MangoDisk?embed=0\">View Project</a>\n• <a href=\"https://mangodisk.app/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/c51cf3f6dc67ec11e5850b84571302804f45cbce0839a6a39aa9dc22c6e9ab49/harry0703/MangoDisk",
         "platform": "telegram",
         "quality_score": 1.2000000000000002
+    },
+    {
+        "project_id": 1049088,
+        "content": "💡 <b>openscad</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating precise, parametric 3D models for technical and mechanical purposes through a code-like scripting interface.\n<br>\n✨ <b>Key Features:</b>\n• Script-based 3D modeling\n• Constructive Solid Geometry (CSG)\n• Extrusion of 2D outlines (DXF support)\n• Parametric design capabilities\n• Exports to STL and OFF formats\n<br>\n📖 <b>Summary:</b>\nOpenSCAD is a free software for creating solid 3D CAD objects using a script-based approach. It functions as a 3D compiler, reading script files to render models, making it ideal for machine parts and parametric designs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/openscad/openscad?embed=0\">View Project</a>\n• <a href=\"https://www.openscad.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/81190ee200e5c174bbd69d23e991d58a1e42e854a7ddca0cc2941409fa484eb7/openscad/openscad",
+        "platform": "telegram",
+        "quality_score": 1.05
+    },
+    {
+        "project_id": 505667511,
+        "content": "🚀 <b>CodeFormer</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nRestoring and enhancing the quality of degraded or low-resolution facial images.\n<br>\n✨ <b>Key Features:</b>\n• Robust blind face restoration\n• Codebook Lookup Transformer architecture\n• Supports various degradation types (low resolution, noise, artifacts)\n• Face inpainting and colorization capabilities\n• Integration with Hugging Face, Replicate, and OpenXLab for demos\n<br>\n📖 <b>Summary:</b>\nCodeFormer is a PyTorch-based framework for robust blind face restoration, utilizing a Codebook Lookup Transformer. It excels at enhancing degraded facial images, including those with low resolution, noise, or artifacts, and also supports inpainting and colorization tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sczhou/CodeFormer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/19f7edd1b6f05050a546fa5a529cf460ecbbd9bd740329c1033c1c0d596a89bc/sczhou/CodeFormer",
+        "platform": "telegram",
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 1194746675,
+        "content": "🚀 <b>tegaki</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo create engaging, animated handwriting effects for text content on websites and in digital presentations.\n<br>\n✨ <b>Key Features:</b>\n• Animates any font into handwriting\n• No manual path authoring or native dependencies\n• React component for easy integration\n• Command-line interface for SVG generation\n• Supports multiple frameworks (React, Svelte, Vue, SolidJS, Astro, Vanilla JS, Web Components)\n<br>\n📖 <b>Summary:</b>\nTegaki is a TypeScript library that animates any font into handwriting, creating a stroke-by-stroke drawing effect for the web. It supports various frameworks and offers a command-line interface for generating animated SVGs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gkurt/tegaki?embed=0\">View Project</a>\n• <a href=\"http://gkurt.com/tegaki?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1194746675/11ef7275-f0dc-4e2c-aa37-fa99910d0f1a",
+        "platform": "telegram",
+        "quality_score": 0.7
+    },
+    {
+        "project_id": 907172461,
+        "content": "🔥 <b>mcp-searxng</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide AI assistants with privacy-respecting web search capabilities by connecting them to a SearXNG instance.\n<br>\n✨ <b>Key Features:</b>\n• Integrates SearXNG API for AI web search\n• Supports MCP clients (Claude, Cursor, etc.)\n• Privacy-respecting web search\n• Search with pagination, filters, direct answers\n• Read HTML, structured text, and bounded PDF text\n<br>\n📖 <b>Summary:</b>\nThis repository acts as an intermediary server, enabling AI assistants like Claude and Cursor to perform web searches through a SearXNG instance. It translates AI assistant requests into SearXNG queries and returns the results, facilitating privacy-respecting web access for AI.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ihor-sokoliuk/mcp-searxng?embed=0\">View Project</a>\n• <a href=\"https://www.npmjs.com/package/mcp-searxng?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/cdb938ba123d0c55d3433f9358d57f4d6ac478b881b9c39fc7121811d3f6a2a2/ihor-sokoliuk/mcp-searxng",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
     }
 ]
