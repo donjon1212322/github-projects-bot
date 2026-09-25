@@ -1,16 +1,44 @@
 [
     {
-        "project_id": 1079155251,
-        "content": "💡 <b>brainapi2</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo build an intelligent, queryable knowledge base from raw text data, enabling AI agents and applications to access contextually rich information with traceable reasoning.\n<br>\n✨ <b>Key Features:</b>\n• Knowledge graph construction from unstructured text\n• Event-centric data capture (who, what, when, where, context)\n• Intelligent search and question answering with traceable paths\n<br>\n📖 <b>Summary:</b>\nBrainAPI is a Python-based AI memory layer that transforms unstructured text into a structured, event-centric knowledge graph. It enables intelligent search, recommendations, and contextual memory for AI applications by capturing detailed event information like who, what, when, and where.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Lumen-Labs/brainapi2?embed=0\">View Project</a>\n• <a href=\"https://brainapi.lumen-labs.ai/docs/v2?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b621dd42afc008d01e8d6013308ebedc69b82ae9fb0d2d6ad6f58fd3a14ab500/Lumen-Labs/brainapi2",
+        "project_id": 977919152,
+        "content": "💡 <b>speakr</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTranscribing and organizing audio recordings for personal or group use, with a focus on privacy and intelligent note-taking.\n<br>\n✨ <b>Key Features:</b>\n• Flexible audio input (microphone, system audio, file uploads)\n• Long recording sessions with streaming to server\n• Hands-off intake via watched folder\n• Multiple ASR engine support (WhisperX, OpenAI, Mistral, etc.)\n• Speaker diarization and voice profile recognition\n<br>\n📖 <b>Summary:</b>\nSpeakr is a self-hosted web application for transcribing audio recordings into searchable and organized notes. It prioritizes privacy by running entirely on user infrastructure and offers advanced features like speaker diarization and custom vocabulary.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/murtaza-nasir/speakr?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8f5f4e9614b83af38b078556fb6e0f4965bab5c707a5bb624ee4096683366a93/murtaza-nasir/speakr",
+        "platform": "telegram",
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 1065936302,
+        "content": "🚀 <b>OpenStock</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTracking stock market prices and company information with customizable alerts.\n<br>\n✨ <b>Key Features:</b>\n• Real-time price tracking\n• Personalized alerts\n• Detailed company insights\n• Open-source and free\n<br>\n📖 <b>Summary:</b>\nOpenStock is an open-source platform providing real-time stock market data, personalized alerts, and company insights. It aims to be a free and accessible alternative to expensive market data services.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Open-Dev-Society/OpenStock?embed=0\">View Project</a>\n• <a href=\"https://openstock-ods.vercel.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/23261c07961f2e4df39daee730e892e60f92ce24f1573f69bc0efd25b5b7ef30/Open-Dev-Society/OpenStock",
         "platform": "telegram",
         "quality_score": 1.0
     },
     {
-        "project_id": 418086942,
-        "content": "✨ <b>plain-app</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely managing and accessing an Android phone's data and features through a web browser without relying on cloud services.\n<br>\n✨ <b>Key Features:</b>\n• Web-based phone management (files, media, contacts, SMS, apps, notifications, screen mirroring)\n• 100% local and end-to-end encrypted\n• No accounts, cloud, or subscriptions required\n<br>\n📖 <b>Summary:</b>\nPlainApp is an open-source Android application that provides a secure, self-hosted web interface for managing your phone's files, media, contacts, SMS, and more from any device on the same network. It prioritizes privacy with end-to-end encryption and no cloud dependency, while also offering built-in Android tools like a note-taker and RSS reader.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/plainhub/plain-app?embed=0\">View Project</a>\n• <a href=\"https://plainapp.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/a6fa383941f9c7cfeaf1f787556dc649558fc91b0084bf3929e5fd576a8adb33/plainhub/plain-app",
+        "project_id": 689881351,
+        "content": "🔥 <b>ESP-Drone</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding and controlling a customizable DIY drone using the ESP32 microcontroller, suitable for hobbyists and developers looking to experiment with drone technology.\n<br>\n✨ <b>Key Features:</b>\n• ESP32 and MPU6050 integration\n• Wi-Fi control\n• Basic stabilization\n• Height hold\n• Position hold\n<br>\n📖 <b>Summary:</b>\nThis repository provides the firmware and hardware design for a DIY ESP32 drone, initially focused on basic stabilization and Wi-Fi control. It has evolved into LiteWing, a developer-friendly drone development platform with advanced features like height and position hold.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Circuit-Digest/ESP-Drone?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/72763b67663b2e6c8121796fd8783f2cb128133228e726556371f0297e3613b4/Circuit-Digest/ESP-Drone",
         "platform": "telegram",
-        "quality_score": 1.1
+        "quality_score": 0.55
+    },
+    {
+        "project_id": 1269661723,
+        "content": "🔥 <b>PokeTokenBar</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with an engaging and visually intuitive way to track their AI coding token usage and associated costs within a macOS menu bar application.\n<br>\n✨ <b>Key Features:</b>\n• Visualizes AI token usage as Pokémon companions\n• Tracks token spend, cost, and official 5-hour/weekly limits\n• Reads usage data directly from local logs (no external CLI needed)\n• Hatches, evolves, and collects Pokémon based on token usage\n<br>\n📖 <b>Summary:</b>\nPokeTokenBar is a macOS menu bar application that visualizes AI coding token usage by raising and evolving Pokémon. It tracks token spend, costs, and usage limits directly from local logs, providing an engaging way to monitor AI tool consumption.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/chattymin/PokeTokenBar?embed=0\">View Project</a>\n• <a href=\"https://chattymin.github.io/PokeTokenBar/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/952f858419a1f231a7d947397933c34bd0a803b211636df75aa52b86d6701d01/chattymin/PokeTokenBar",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 229407566,
+        "content": "🚀 <b>simplex-chat</b> | Haskell\n<br>\n🎯 <b>Primary Use Case:</b>\nSecure and private communication without relying on user accounts or identifiers.\n<br>\n✨ <b>Key Features:</b>\n• No user identifiers of any kind\n• 100% private by design\n• Double ratchet end-to-end encryption\n• Additional encryption layer\n• Mobile apps for Android and iOS\n<br>\n📖 <b>Summary:</b>\nSimpleX Chat is a privacy-focused messaging platform that operates without any user identifiers, ensuring 100% privacy by design. It offers end-to-end encryption with an additional layer and provides mobile applications for iOS and Android, as well as a terminal-based client.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/simplex-chat/simplex-chat?embed=0\">View Project</a>\n• <a href=\"https://simplex.chat?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/91c638f635ff9cff9c3bcc2878d79bf8fc390a8ea931c4102af710869d2dd18b/simplex-chat/simplex-chat",
+        "platform": "telegram",
+        "quality_score": 1.2000000000000002
+    },
+    {
+        "project_id": 523534328,
+        "content": "🌟 <b>Obtainium</b> | Dart\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a decentralized and user-controlled method for obtaining and updating Android applications directly from their developers' release channels, bypassing traditional app stores.\n<br>\n✨ <b>Key Features:</b>\n• Install and update apps directly from source release pages\n• Supports GitHub, GitLab, F-Droid, and many other app stores/sources\n• Notifications for new app releases\n<br>\n📖 <b>Summary:</b>\nObtainium is an Android application that allows users to install and update applications directly from their source release pages, such as GitHub or GitLab. It provides notifications for new releases and supports a wide variety of app sources, including F-Droid, APKMirror, and direct APK links.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ImranR98/Obtainium?embed=0\">View Project</a>\n• <a href=\"https://obtainium.imranr.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/5b181c76f56a5a244252684a03c101be45ebe02f0ccace7657c1fa18e2314115/ImranR98/Obtainium",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
     }
 ]
