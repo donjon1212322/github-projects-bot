@@ -1,30 +1,30 @@
 [
     {
-        "project_id": 1154399719,
-        "content": "💡 <b>cad-skill</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo enable users to easily design and generate custom 3D-printable parts through natural language interaction with an AI assistant, powered by CadQuery for parametric modeling.\n<br>\n✨ <b>Key Features:</b>\n• Parametric 3D model generation using CadQuery\n• Integration with Claude Code for natural language interaction\n• Automatic script generation based on user descriptions\n• STL export and rendered previews\n• Iterative design process with AI assistance\n<br>\n📖 <b>Summary:</b>\nThis repository provides a Claude Code skill that leverages CadQuery to generate parametric 3D-printable models. Users can describe a desired object, and the skill will automatically write the CadQuery script, export an STL file, and provide previews, allowing for iterative refinement.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/flowful-ai/cad-skill?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f5bdc7499961953e8f57f79243273f5ca3f39522260477ad923a50a0a5808027/flowful-ai/cad-skill",
+        "project_id": 1124708744,
+        "content": "✨ <b>LAN-Orangutan</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nNetwork discovery and device management for homelab environments.\n<br>\n✨ <b>Key Features:</b>\n• Auto-discover devices using nmap\n• Password protected access\n• Label, group, and add notes to devices\n• Multi-network support\n• Tailscale integration\n<br>\n📖 <b>Summary:</b>\nLAN Orangutan is a self-hosted network discovery tool that allows users to scan their local networks, identify devices, and manage them with persistent labeling. It offers both a web dashboard and a CLI interface, with integrated support for Tailscale.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/291-Group/LAN-Orangutan?embed=0\">View Project</a>\n• <a href=\"https://LANOrangutan.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4c06f0fd55d6d959fbd3b672fb708a71c2af1ffcc107db6317bf3c8e6bbcded4/291-Group/LAN-Orangutan",
         "platform": "telegram",
-        "quality_score": 0.5
+        "quality_score": 0.65
     },
     {
-        "project_id": 1182800787,
-        "content": "💡 <b>Podroid</b> | Kotlin\n<br>\n🎯 <b>Primary Use Case:</b>\nRunning Linux environments, including containers and desktop applications, on an Android device without root privileges.\n<br>\n✨ <b>Key Features:</b>\n• Run Podman, Docker, and LXC containers\n• Full Alpine Linux VM with custom kernel or AVF\n• In-app terminal with extensive customization\n• X11 desktop environment for GUI apps\n• USB passthrough, SSH, and port forwarding\n<br>\n📖 <b>Summary:</b>\nPodroid is a rootless Android application that allows users to run a full Alpine Linux virtual machine directly on their device. It supports containerization tools like Podman, Docker, and LXC, as well as GUI Linux applications, all without requiring root access.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ExTV/Podroid?embed=0\">View Project</a>\n• <a href=\"https://extv.github.io/Podroid/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9d2df2d3866604b5eeb399a27a1370bbda57e22ac06b30eb67c8d83e5565e54b/ExTV/Podroid",
+        "project_id": 1334011664,
+        "content": "🚀 <b>univer-workspace</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a collaborative, AI-enhanced office workspace for creating, managing, and reviewing documents and data, suitable for both individual and team use, with options for automation.\n<br>\n✨ <b>Key Features:</b>\n• Unified office suite (Sheets, Docs, Slides, Bases, Boards)\n• Real-time co-editing and collaboration\n<br>\n📖 <b>Summary:</b>\nUniver Workspace is an open-source, self-hostable office suite that integrates documents, spreadsheets, presentations, and databases into a unified environment. It facilitates collaboration between human users and AI agents for content creation, review, and automation, offering multiple entry points like a browser, agent, and CLI.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dream-num/univer-workspace?embed=0\">View Project</a>\n• <a href=\"https://univer.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8a9118d484caee41d2d7f74bf5feb70d56825be09b24c4fb67b095799c7df5c5/dream-num/univer-workspace",
         "platform": "telegram",
-        "quality_score": 1.0
+        "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 770153867,
-        "content": "🚀 <b>MoneyPrinterTurbo</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automatically generate short-form videos (e.g., for TikTok, Instagram Reels, YouTube Shorts) based on user-provided topics or keywords, streamlining content creation.\n<br>\n✨ <b>Key Features:</b>\n• Automated video script generation\n• AI-powered material matching\n• Subtitle generation\n• Background music integration\n• HD short video synthesis\n<br>\n📖 <b>Summary:</b>\nMoneyPrinterTurbo is an automated AI tool that generates high-definition short videos from a given topic or keyword. It handles the entire workflow, from scriptwriting and material matching to subtitle generation and final video synthesis.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/harry0703/MoneyPrinterTurbo?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/558f43c4da8a98b8a15ba24509d3f26efeb1b3938cc9f60e1712f08c454871e7/harry0703/MoneyPrinterTurbo",
+        "project_id": 108761645,
+        "content": "🔥 <b>nocodb</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a user-friendly, no-code interface for creating and managing databases, with automatic API generation for easy integration into other applications.\n<br>\n✨ <b>Key Features:</b>\n• Free & Self-hostable Airtable Alternative\n• Build databases online\n• Automatic REST API generation\n• No-code platform\n• Support for multiple databases (PostgreSQL, SQLite)\n<br>\n📖 <b>Summary:</b>\nNocoDB is a free, self-hostable alternative to Airtable, enabling users to build databases online with ease. It provides a no-code platform that automatically generates REST APIs, allowing for seamless data management and integration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nocodb/nocodb?embed=0\">View Project</a>\n• <a href=\"https://nocodb.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/108761645/301727b7-d2d0-4513-b965-e937608ae26d",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 63539055,
+        "content": "🌟 <b>awesome-mac</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nDiscovering and finding high-quality software for macOS.\n<br>\n✨ <b>Key Features:</b>\n• Curated list of high-quality macOS software\n• Systematic organization by category\n• Facilitates easy search and discovery\n<br>\n📖 <b>Summary:</b>\nThis repository is a curated list of high-quality macOS software, organized by category to facilitate easy discovery and use. It aims to be a comprehensive resource for Mac users looking for reliable applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jaywcjlove/awesome-mac?embed=0\">View Project</a>\n• <a href=\"https://git.io/macx?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/63539055/b27e6d80-dc82-11e9-88a8-f2d918b1139b",
         "platform": "telegram",
         "quality_score": 1.1
-    },
-    {
-        "project_id": 1291501023,
-        "content": "🌟 <b>scroll-world</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCreating unique, interactive, and visually engaging brand landing pages that simulate a 'fly-through' experience.\n<br>\n✨ <b>Key Features:</b>\n• Generates immersive, scroll-scrubbed 3D world landing pages\n• AI-driven scene and camera flight generation\n• Seamless camera transitions between scenes (no cuts)\n• Framework-agnostic vanilla-JS scrub engine\n• Optional mobile-optimized 9:16 portrait version\n<br>\n📖 <b>Summary:</b>\nThis repository provides a skill for AI agents like Claude Code and Codex to generate immersive, scroll-scrubbed 3D world landing pages for brands. It uses AI to create scenes and camera flights, allowing users to experience a continuous, fly-through narrative as they scroll.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/oso95/scroll-world?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/28a59528f490ab54774e438ea8d590f1c5906c6cd3ed1b01ec0467af120104c1/oso95/scroll-world",
-        "platform": "telegram",
-        "quality_score": 0.5
     }
 ]
