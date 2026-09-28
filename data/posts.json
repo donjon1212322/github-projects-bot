@@ -1,30 +1,37 @@
 [
     {
-        "project_id": 1124708744,
-        "content": "✨ <b>LAN-Orangutan</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nNetwork discovery and device management for homelab environments.\n<br>\n✨ <b>Key Features:</b>\n• Auto-discover devices using nmap\n• Password protected access\n• Label, group, and add notes to devices\n• Multi-network support\n• Tailscale integration\n<br>\n📖 <b>Summary:</b>\nLAN Orangutan is a self-hosted network discovery tool that allows users to scan their local networks, identify devices, and manage them with persistent labeling. It offers both a web dashboard and a CLI interface, with integrated support for Tailscale.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/291-Group/LAN-Orangutan?embed=0\">View Project</a>\n• <a href=\"https://LANOrangutan.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4c06f0fd55d6d959fbd3b672fb708a71c2af1ffcc107db6317bf3c8e6bbcded4/291-Group/LAN-Orangutan",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 1334011664,
-        "content": "🚀 <b>univer-workspace</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a collaborative, AI-enhanced office workspace for creating, managing, and reviewing documents and data, suitable for both individual and team use, with options for automation.\n<br>\n✨ <b>Key Features:</b>\n• Unified office suite (Sheets, Docs, Slides, Bases, Boards)\n• Real-time co-editing and collaboration\n<br>\n📖 <b>Summary:</b>\nUniver Workspace is an open-source, self-hostable office suite that integrates documents, spreadsheets, presentations, and databases into a unified environment. It facilitates collaboration between human users and AI agents for content creation, review, and automation, offering multiple entry points like a browser, agent, and CLI.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/dream-num/univer-workspace?embed=0\">View Project</a>\n• <a href=\"https://univer.ai?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8a9118d484caee41d2d7f74bf5feb70d56825be09b24c4fb67b095799c7df5c5/dream-num/univer-workspace",
+        "project_id": 71061785,
+        "content": "🔥 <b>openinframap</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a clear and accessible map visualization of global infrastructure data derived from OpenStreetMap.\n<br>\n✨ <b>Key Features:</b>\n• Visualizes global infrastructure data\n• Uses OpenStreetMap as a data source\n• Provides a dedicated map interface\n• Supports multilingual translations\n<br>\n📖 <b>Summary:</b>\nOpen Infrastructure Map visualizes global infrastructure data sourced from OpenStreetMap. It provides a dedicated map interface to explore and understand various types of infrastructure, making complex network data accessible.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/openinframap/openinframap?embed=0\">View Project</a>\n• <a href=\"https://openinframap.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/71061785/91401889-72e3-4540-982e-0e1b19c4a242",
         "platform": "telegram",
         "quality_score": 0.9500000000000001
     },
     {
-        "project_id": 108761645,
-        "content": "🔥 <b>nocodb</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a user-friendly, no-code interface for creating and managing databases, with automatic API generation for easy integration into other applications.\n<br>\n✨ <b>Key Features:</b>\n• Free & Self-hostable Airtable Alternative\n• Build databases online\n• Automatic REST API generation\n• No-code platform\n• Support for multiple databases (PostgreSQL, SQLite)\n<br>\n📖 <b>Summary:</b>\nNocoDB is a free, self-hostable alternative to Airtable, enabling users to build databases online with ease. It provides a no-code platform that automatically generates REST APIs, allowing for seamless data management and integration.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nocodb/nocodb?embed=0\">View Project</a>\n• <a href=\"https://nocodb.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/108761645/301727b7-d2d0-4513-b965-e937608ae26d",
+        "project_id": 1319154759,
+        "content": "✨ <b>kimi-k3-in-c</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nTo run a very large language model (Kimi K3) for inference on standard consumer hardware (single CPU, limited RAM) without requiring specialized hardware like GPUs or complex software frameworks.\n<br>\n✨ <b>Key Features:</b>\n• 2.78 trillion parameter model inference\n• Runs on a single CPU\n<br>\n📖 <b>Summary:</b>\nThis repository enables running a massive 2.78 trillion parameter Kimi K3 language model on a single CPU with as little as 8.24 GB of RAM. It achieves this through a portable C99 implementation with zero external dependencies, allowing for efficient inference even on resource-constrained hardware.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/FareedKhan-dev/kimi-k3-in-c?embed=0\">View Project</a>\n• <a href=\"https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8fba59e2b895775df90c57bdf4d56f2a654ef3dbac4356408bc6a39079281acc/FareedKhan-dev/kimi-k3-in-c",
         "platform": "telegram",
-        "quality_score": 0.9500000000000001
+        "quality_score": 1.2000000000000002
     },
     {
-        "project_id": 63539055,
-        "content": "🌟 <b>awesome-mac</b> | Swift\n<br>\n🎯 <b>Primary Use Case:</b>\nDiscovering and finding high-quality software for macOS.\n<br>\n✨ <b>Key Features:</b>\n• Curated list of high-quality macOS software\n• Systematic organization by category\n• Facilitates easy search and discovery\n<br>\n📖 <b>Summary:</b>\nThis repository is a curated list of high-quality macOS software, organized by category to facilitate easy discovery and use. It aims to be a comprehensive resource for Mac users looking for reliable applications.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jaywcjlove/awesome-mac?embed=0\">View Project</a>\n• <a href=\"https://git.io/macx?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/63539055/b27e6d80-dc82-11e9-88a8-f2d918b1139b",
+        "project_id": 1311384232,
+        "content": "🔥 <b>ai-copywriter</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo generate marketing copy that is both effective in capturing attention and indistinguishable from human writing, by deeply understanding the target audience and simplifying complex concepts.\n<br>\n✨ <b>Key Features:</b>\n• Writes attention-grabbing copy (clickbait titles, short descriptions, microcopy, subject lines)\n• Removes AI-generated writing patterns for a human tone\n<br>\n📖 <b>Summary:</b>\nThis AI copywriter is a portable agent skill that writes compelling marketing copy, such as headlines and product descriptions, while ensuring the output reads like human-written text. It achieves this by integrating real copywriting skills and marketing knowledge with a humanizer component that removes AI-generated writing patterns.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/mikiarlo3/ai-copywriter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ef7744096baf066856222301200e05d60de8415316795c283483756b87d5d745/mikiarlo3/ai-copywriter",
         "platform": "telegram",
-        "quality_score": 1.1
+        "quality_score": 0.6
+    },
+    {
+        "project_id": 1361296694,
+        "content": "💡 <b>twig</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nA user-friendly desktop application for managing Git repositories with advanced visualization and operational features.\n<br>\n✨ <b>Key Features:</b>\n• Real commit graph with virtualized, paginated view\n• Uncommitted work at a glance with staging and diff views\n• Sidebar for repository navigation (LOCAL/REMOTE/TAGS)\n• Commit panel with full message, author card, parents, and changed files\n<br>\n📖 <b>Summary:</b>\nTwig is a standalone desktop Git client for macOS, Windows, and Linux, built with Electron, React, and Vite. It offers a comprehensive interface for managing Git repositories, focusing on visualizing commit history, staging changes, and executing various Git operations through an intuitive user experience.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kitarasenka/twig?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/fd075e562a00deace23a46d4efc5efc0bb5b3de6640097ffba49a357113102bc/kitarasenka/twig",
+        "platform": "telegram",
+        "quality_score": 0.7499999999999999
+    },
+    {
+        "project_id": 1376375883,
+        "content": "🌟 <b>0-CODE</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automate the entire software development lifecycle for AI agents, allowing them to work on tasks autonomously and continuously.\n<br>\n✨ <b>Key Features:</b>\n• Autonomous development loop for AI agents\n• Plans, writes, tests, and commits code independently\n• State survives restarts and continues across sessions\n• Zero runtime dependencies\n• External supervisor for OpenCode and internal stop hook for Claude Code\n<br>\n📖 <b>Summary:</b>\n0-CODE is an autonomous development loop for AI agents like Claude Code and OpenCode. It enables agents to independently plan, write, test, and commit code, maintaining state and continuing work across sessions without runtime dependencies.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/0-SOFT/0-CODE?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/6804246644a3a12f66811cc58fdc41024538d96a0a11726a3fec8a6d6fa6ec88/0-SOFT/0-CODE",
+        "platform": "telegram",
+        "quality_score": 0.7999999999999999
     }
 ]
