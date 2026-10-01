@@ -1,26 +1,26 @@
 {
-    "title": "Forget the Cloud! EdenText is the Open Source Word Processor Revolution You Didn't Know You Needed!",
-    "article": "Hey fellow devs! Ever felt frustrated by clunky desktop word processors or the privacy concerns of cloud-based alternatives? What if I told you there's a powerful, feature-rich word processor that runs entirely in your browser, keeps your documents strictly on your machine, and is completely open source? Prepare to be amazed, because I've stumbled upon a gem called EdenText, and it's a total game-changer.EdenText isn't just another online text editor. This project is a full-fledged word processor designed to handle everything from quick notes to complex theses and books. The coolest part? It's 'just one URL away' and works completely offline as a slim browser app, weighing in at less than 2MB on first load. This means no accounts, no servers, and absolutely no data collection from your documents. Your work stays private, always.How does it achieve this magic? All the heavy lifting, all the document processing, happens right there in your browser. This 'private by design' approach means you have full control over your data. Imagine the peace of mind knowing your sensitive project documentation or personal writing isn't being scanned or stored on someone else's server. It's like having the power of a desktop application, but with the unparalleled accessibility and privacy of a local web app.But don't let its lightweight nature fool you into thinking it's basic. EdenText boasts an impressive array of features that rival established desktop software. We're talking real page layouts with margins, headers, footers, footnotes, and even columns. Need to write a thesis? It's got you covered with tables of contents, captions, cross-references, citations, bibliography, and even LaTeX formula support! It also supports paragraph, character, table, and list styles, making professional document formatting a breeze.And here's where it truly shines for us developers: compatibility. EdenText plays incredibly well with Microsoft Word and LibreOffice. It can open and save .docx and .odt files, and the developers have put a sophisticated test pipeline in place to ensure your document layout remains consistent across all three applications. No more broken formatting nightmares when collaborating or sharing! Plus, it includes review tools like track changes and threaded comments, which are indispensable for team projects.For any developer looking for a robust, private, and open-source solution for document creation, EdenText is an absolute must-try. It frees you from vendor lock-in, respects your privacy, and offers a powerful suite of tools in an incredibly accessible package. It's still in beta and actively developed, which means there's a fantastic opportunity to get involved, report bugs, and contribute to its evolution. Seriously, go check out edentext.app right now. You won't regret it!",
+    "title": "Unlock Google Play Data with Ease: Discover the Modern `google-play-scraper`!",
+    "article": "Hey fellow developers! Ever found yourself needing to grab a bunch of data from the Google Play Store? Maybe you're tracking app trends, monitoring competitor reviews, or building an awesome ASO research tool. The truth is, scraping data can be a real headache. Google's layout changes, older libraries break, and suddenly you're spending more time fixing your scraper than analyzing data.\n\nWell, I've got some exciting news for you! There's a fantastic project on GitHub, `@mradex77/google-play-scraper`, that's here to solve all those woes. It's a modern, fully-typed TypeScript rewrite of a popular, but previously unmaintained, `google-play-scraper` package. If you've ever used the original, migrating to this new version is a breeze – often just a simple import swap!\n\nSo, what exactly does this powerhouse do? Imagine being able to effortlessly fetch app details, search results, top charts, developer pages, similar apps, user reviews, and even crucial permissions and data safety information, all directly from the Play Store. This library makes it incredibly simple. It's like having a dedicated assistant who knows exactly where to find every piece of app-related information you could possibly need.\n\nBut it's not just about what it scrapes; it's *how* it does it that truly shines. For us TypeScript fans, the fully typed results are a game-changer. No more guessing what data structure you're getting back; every method returns a precise TypeScript type, validated at runtime. This means more robust code and fewer unexpected bugs. Plus, it runs on Node.js 22 and newer using native `fetch`, so no extra HTTP dependencies to worry about.\n\nWhat truly makes this library stand out is its incredible resilience. Google Play's website changes, but this scraper is built to withstand those shifts. It uses smart fallback paths, so a minor layout tweak won't bring your entire data pipeline crashing down. In fact, it's verified against live Google Play data *daily* in CI, and if Google *does* change something significant, an issue is automatically opened! Talk about proactive! You also get typed errors, making it easy to handle specific issues like rate limits or not-found apps, rather than parsing cryptic message strings. And to top it all off, it comes with built-in throttling, exponential backoff retries, and optional caching. This means your scraping efforts are not only efficient but also respectful of Google's servers. If you need reliable, robust, and modern Google Play data extraction, you absolutely need to check out `@mradex77/google-play-scraper`. It's a true gem that will save you countless hours and headaches!",
     "key_takeaways": [
-        "EdenText is a powerful, web-based word processor that runs entirely in your browser, ensuring complete privacy.",
-        "It offers advanced features like real page layout, styles, tables, and thesis-level tools, rivaling desktop applications.",
-        "Seamlessly opens and saves .docx and .odt files, maintaining layout compatibility with Word and LibreOffice.",
-        "It's lightweight, works offline, and is completely free and open source.",
-        "Currently in beta, actively developed, and welcomes community contributions."
+        "A modern, fully typed TypeScript library for scraping Google Play app data.",
+        "Reliably fetches app details, reviews, search results, and more from the Play Store.",
+        "Features built-in resilience against Google Play layout changes, with daily live verification.",
+        "Includes robust features like typed results, typed errors, throttling, retries, and caching.",
+        "An excellent choice for ASO research, market analysis, and review monitoring pipelines."
     ],
     "tags": [
-        "WordProcessor",
-        "OpenSource",
-        "Privacy",
-        "WebApp",
-        "Productivity"
+        "Node.js",
+        "TypeScript",
+        "Web Scraping",
+        "Google Play",
+        "App Development"
     ],
-    "stars": 367,
-    "forks": 30,
-    "open_issues": 2,
+    "stars": 62,
+    "forks": 8,
+    "open_issues": 1,
     "languages": "TypeScript",
-    "readme_summary": "EdenText is a powerful, free, and open-source web-based word processor designed for local-first operation. It allows users to create and edit documents in .docx and .odt formats directly in their browser, ensuring privacy as all processing happens client-side and documents never leave the user's computer. It aims to provide a rich feature set comparable to desktop applications while being accessible via a single URL or as a slim offline app.",
-    "project_id": 1273710886,
-    "url": "https://github.com/stffnb/edentext",
-    "description": "Powerful local Word Processor for docx and odt.  Free, Open Source, Private by Design"
+    "readme_summary": "This Node.js library provides a fully typed TypeScript API to scrape data from the Google Play Store. It allows developers to fetch app details, search results, reviews, and more, serving as a modern, robust alternative to older scrapers.",
+    "project_id": 1291028465,
+    "url": "https://github.com/MrAdex77/google-play-scraper",
+    "description": "Google Play scraper for Node.js with a fully typed TypeScript API. App details, search, top charts, reviews, permissions and data safety. A modern replacement for the unmaintained google-play-scraper."
 }

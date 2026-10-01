@@ -1,0 +1,7 @@
+{
+    "project_id": 1203381546,
+    "content": "🚀 <b>tui-use</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nAllowing AI agents to interact with and control terminal-based applications (REPLs, debuggers, TUI apps) that require human input.\n<br>\n✨ <b>Key Features:</b>\n• Full VT Rendering: Processes PTY output accurately, including ANSI escape sequences, for clean plain text screen content.\n• Smart Wait: Debounces screen updates to detect stability and can wait for specific text patterns, eliminating guesswork for AI agents.\n<br>\n📖 <b>Summary:</b>\ntui-use enables AI agents to interact with terminal-based programs like REPLs, debuggers, and TUI applications, which are typically inaccessible to automated scripts. It provides a way to send keystrokes and read the screen output as plain text, bridging the gap between human-interactive programs and AI agents.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/onesuper/tui-use?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/aad0610e3cbc74e51b05a8735cf05719b9018920e69131a05711c5ac1842d2f8/onesuper/tui-use",
+    "platform": "telegram",
+    "quality_score": 0.7999999999999999
+}
