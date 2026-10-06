@@ -1,30 +1,23 @@
 [
     {
-        "project_id": 1304754497,
-        "content": "🔥 <b>northstar-browser</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nA lightweight, secure, and standards-compliant web browser built from scratch.\n<br>\n✨ <b>Key Features:</b>\n• Independent browser engine (not based on Gecko, WebKit, Blink)\n• Targets practical HTML5, modern CSS, and JavaScript\n• Primary platform: Linux, with macOS and Windows support\n• Security features: Landlock sandbox, seccomp, no JIT\n• Minimalist architecture: one page per window, one process\n<br>\n📖 <b>Summary:</b>\nNorthstar is a minimalist, independent web browser written in C, designed for Linux, macOS, and Windows. It aims for modern web standards compatibility without relying on existing browser engines like Gecko or WebKit, focusing on security and a lean architecture.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/nordstjernen-web/northstar-browser?embed=0\">View Project</a>\n• <a href=\"https://nordstjernen.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/86dc0934b28d99fdd019ddb1f2c8044f3e1f10f58a1a063fa2e0180ae906193f/nordstjernen-web/northstar-browser",
+        "project_id": 1015386919,
+        "content": "🌟 <b>smythos-studio</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding, deploying, and managing intelligent AI agents through a visual, no-code to pro-code interface.\n<br>\n✨ <b>Key Features:</b>\n• Visual Agent Building\n• No-Code to Pro-Code Flexibility\n• Open Architecture for Deployment Anywhere\n• Intuitive Drag-and-Drop Interface\n• Real-Time Testing\n<br>\n📖 <b>Summary:</b>\nSmythOS Studio is an open-source visual AI agent builder and runtime stack. It offers an intuitive drag-and-drop interface for creating AI agent workflows, with the flexibility to extend with custom code and deploy agents across various environments with full governance.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/SmythOS/smythos-studio?embed=0\">View Project</a>\n• <a href=\"https://smythos.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/de4c1729021d0a22353fb9e48a0f33e7e6874fa64fb847f3b17885a878efb617/SmythOS/smythos-studio",
+        "platform": "telegram",
+        "quality_score": 0.7999999999999999
+    },
+    {
+        "project_id": 1226123343,
+        "content": "💡 <b>book-to-skill</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo create structured, referenceable knowledge bases from technical books and documents that can be directly utilized by AI agents during work or study.\n<br>\n✨ <b>Key Features:</b>\n• Converts technical books and documents into agent skills\n• Supports multiple input formats (PDF, EPUB, DOCX, MD, HTML, RTF, MOBI)\n• Enables on-demand loading of skills by AI agents\n• Reduces token usage compared to direct context inclusion\n<br>\n📖 <b>Summary:</b>\nBook-to-skill is a Python tool that transforms technical books and documents into structured agent skills. It enables AI agents to efficiently reference and utilize the information from these sources, overcoming the limitations of traditional PDF searching or direct context dumping.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/virgiliojr94/book-to-skill?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/33f9b6a7b96dcacd3280e9fddaa23b23ac60657c16e69cd213d1f18f7becc213/virgiliojr94/book-to-skill",
+        "platform": "telegram",
+        "quality_score": 1.2000000000000002
+    },
+    {
+        "project_id": 1212894224,
+        "content": "🚀 <b>gridex</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a single, unified, and efficient application for developers and database administrators to connect to, query, and manage multiple types of databases across different operating systems.\n<br>\n✨ <b>Key Features:</b>\n• Cross-platform support (macOS, Windows, Linux)\n• Support for multiple databases (PostgreSQL, MySQL, SQLite, Redis, MongoDB, SQL Server, ClickHouse)\n<br>\n📖 <b>Summary:</b>\nGridex is a cross-platform database IDE for macOS, Windows, and Linux, supporting a wide range of databases including PostgreSQL, MySQL, SQLite, Redis, MongoDB, SQL Server, and ClickHouse. It offers a unified interface for managing these databases, featuring a built-in MCP server and AI chat capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gridex/gridex?embed=0\">View Project</a>\n• <a href=\"https://gridex.app?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e757edf8eb53f657267ca4ef6ba18bd86488703e50007a00c50a524611676aa4/gridex/gridex",
         "platform": "telegram",
         "quality_score": 1.0000000000000002
-    },
-    {
-        "project_id": 1401562178,
-        "content": "✨ <b>web-shot</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nCapturing entire webpages as a single image for easy sharing and archiving.\n<br>\n✨ <b>Key Features:</b>\n• Full-page scrolling screenshot\n• Saves to Downloads folder\n• Copies to clipboard\n• Handles sticky elements\n• Progress indicator on icon\n<br>\n📖 <b>Summary:</b>\nWeb Shot is a Chrome extension that captures full-page scrolling screenshots of any webpage. It stitches together multiple frames into a single PNG, automatically saves it to the Downloads folder, and copies it to the clipboard for immediate use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/HelpFreedom/web-shot?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/7cd834b3ad3130eadbeb2c591e50d492188025b2a4ed8753900c3974c870591f/HelpFreedom/web-shot",
-        "platform": "telegram",
-        "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 845839905,
-        "content": "💡 <b>AIPex</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a privacy-first, open-source, and efficient AI-powered browser automation solution that integrates seamlessly into a user's existing browsing environment.\n<br>\n✨ <b>Key Features:</b>\n• Zero Migration: Operates within your current browser.\n• Open Source: MIT licensed for transparency and extensibility.\n• Privacy First: Local data processing and Bring Your Own Key (BYOK).\n• Agent Ready: Supports MCP, skills, and browser-cli within the same runtime.\n<br>\n📖 <b>Summary:</b>\nAIPex is an open-source browser extension that enables AI-powered automation directly within your existing browser. It prioritizes privacy by keeping data local and offers a seamless integration without requiring new browsers or workflows.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/AIPexStudio/AIPex?embed=0\">View Project</a>\n• <a href=\"https://claudechrome.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/845839905/4b138563-6945-405d-93f4-aad4c0439d89",
-        "platform": "telegram",
-        "quality_score": 0.95
-    },
-    {
-        "project_id": 446364569,
-        "content": "🌟 <b>docker-steam-headless</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nTo deploy a headless Steam instance in a Docker container for remote game streaming and access.\n<br>\n✨ <b>Key Features:</b>\n• Steam Client configured for running on Linux with Proton\n• Moonlight compatible server for easy remote desktop streaming\n• Easy installation of EmeDeck, Heroic and Lutris via Flatpak\n• Full video/audio noVNC web access to a Xfce4 Desktop\n• NVIDIA, AMD and Intel GPU support\n<br>\n📖 <b>Summary:</b>\nThis repository provides a Docker image for a headless Steam service, enabling remote game streaming. It supports NVIDIA GPU acceleration, web-based access via noVNC, and compatibility with Steam Link and Moonlight.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Steam-Headless/docker-steam-headless?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/4513e896f75ef029628149116683a77a3f2a5a38d07e4d0deacd55dc5525bdfb/Steam-Headless/docker-steam-headless",
-        "platform": "telegram",
-        "quality_score": 0.85
     }
 ]
