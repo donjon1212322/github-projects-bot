@@ -1,30 +1,30 @@
 {
-    "title": "Never Forget a Tech Book Again: Unleash Your AI Agent's True Potential with book-to-skill!",
-    "contentMarkdown": "\n## 📝 Quick Summary: \nBook-to-skill is a Python tool that transforms technical books and documents into structured agent skills. It enables AI agents to efficiently reference and utilize the information from these sources, overcoming the limitations of traditional PDF searching or direct context dumping.\n\n## 🔑 Key Takeaways\n\n- ✅ `book-to-skill` transforms technical documents and books into structured AI agent skills.\n\n- ✅ It extracts frameworks, rules, and anti-patterns, providing context-rich answers without hallucination.\n\n- ✅ Significantly reduces token usage (24x-51x) for more efficient and accurate AI interactions.\n\n- ✅ Supports a wide range of formats including PDF, EPUB, DOCX, MD, HTML, and RTF.\n\n- ✅ Integrates with popular AI agents like GitHub Copilot CLI, enhancing developer workflows.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 33927\n- 🍴 Forks: 3555\n- ❗ Open Issues: 13\n\n\n## 🛠 Tech Stack\n- ✅ Python\n\n\nHey fellow developers! Ever poured over an amazing technical book, feeling like a wizard absorbing all that knowledge, only to find yourself three months later scratching your head, struggling to recall that crucial concept from Chapter 7? You're not alone. We've all been there. Searching through PDFs gives you pages, not answers. Asking an AI agent often leads to frustrating hallucinations or a polite \"I don't have that content.\" And those meticulously taken notes? They usually end up gathering digital dust.What if I told you there's a revolutionary GitHub project that solves this exact problem, turning your entire technical library into an on-demand brain for your AI agents? Prepare to have your mind blown by `book-to-skill`! This incredible tool isn't just another summarizer; it's a true game-changer for how we interact with vast amounts of technical information.So, what exactly does `book-to-skill` do? Imagine taking any technical book, a folder full of documentation, or a collection of sources – think PDFs, EPUBs, Markdown files, HTML, you name it – and transforming it into a \"unified agent skill.\" This isn't some fuzzy summary; `book-to-skill` intelligently distills the core frameworks, decision rules, anti-patterns, and key concepts, structuring them in a way that your AI agent can truly understand and leverage. It's like giving your AI agent a perfectly indexed, highly intelligent assistant dedicated to that specific book.The magic happens in three simple steps. First, you point `book-to-skill` at your desired content, like `/book-to-skill ./my-awesome-book.pdf`. Second, it goes to work, processing and distilling the content into a structured skill. And here's the best part: third, your AI agent, be it GitHub Copilot CLI, Claude Code, or others, can then load this skill on demand! Need to remember how replication works from that database book? Just ask your agent `/my-book replication`, and it will read the *right chapter* and answer directly from the *real content*. No more guessing, no more generic web searches, and absolutely no more hallucinations!The benefits for us developers are immense. Think about the efficiency boost! The project boasts an incredible 24x to 51x *fewer tokens* required compared to just dumping an entire book into your agent's context. This means faster responses, lower costs, and far more accurate, context-rich answers. It essentially makes your AI agent an expert on *your* specific knowledge base. This project empowers you to truly integrate deep, reliable technical knowledge directly into your coding workflow, saving you countless hours of searching and cross-referencing. It's a fundamental shift in how we can leverage AI to augment our learning and problem-solving. This is truly an essential tool for any developer looking to maximize their productivity and ensure their AI assistant is working with the most accurate information possible. You absolutely need to check this out!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/virgiliojr94/book-to-skill)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
+    "title": "TUIOS: Your Terminal Just Got a Brain (and a Fancy New Look!)",
+    "contentMarkdown": "\n## 📝 Quick Summary: \nTUIOS is a Go-based terminal multiplexer and window manager that enhances productivity with a vim-like interface, BSP tiling, and advanced features for managing coding agents. It offers persistent sessions, cross-machine connectivity, and an inbox for agent communication, all within the terminal.\n\n## 🔑 Key Takeaways\n\n- ✅ TUIOS is a modern, intelligent terminal multiplexer and window manager built with Go.\n\n- ✅ It features a `vim`-like modal interface, BSP tiling, workspaces, and kitty graphics support.\n\n- ✅ Its unique \"agent\" concept allows processes to report state and communicate, adding a layer of intelligence to your workflow.\n\n- ✅ Sessions are persistent and accessible across multiple machines via a daemon.\n\n- ✅ TUIOS offers enhanced productivity, automation capabilities, and a highly performant, flicker-free experience.\n\n\n## 📊 Project Statistics\n- ⭐ Stars: 4979\n- 🍴 Forks: 223\n- ❗ Open Issues: 10\n\n\n## 🛠 Tech Stack\n- ✅ Go\n\n\nHey fellow developers! Ever feel like your terminal setup, while powerful, could be... smarter? We've all been there, juggling multiple `tmux` panes, losing context, and wishing our terminal could somehow *understand* what we're working on. Well, get ready to have your mind blown, because I just stumbled upon a GitHub project called TUIOS (Terminal UI Operating System), and it's a game-changer!\n\nImagine a terminal multiplexer and window manager that not only gives you all the power of `tmux` or `screen` but also adds a layer of intelligence. TUIOS, built with Go and the amazing Charm stack (think Bubble Tea v2 for slick TUI apps), is exactly that. It offers a `vim`-like modal interface, complete with multiple terminal panes, workspaces, and even beautiful BSP tiling. You get a command palette for quick actions and, for those of us who love modern terminal features, it even supports the kitty graphics protocol for flicker-free image passthrough. All this runs right inside your existing terminal, making it feel like a true upgrade rather than a whole new environment.\n\nBut here's where TUIOS truly shines and goes beyond anything I've seen before: its concept of \"agents.\" This isn't just about managing windows; it's about managing the *processes* within those windows. TUIOS lets your coding agents (think background tasks, AI assistants, or automated scripts) report their state, message each other, and essentially become first-class citizens in your terminal workflow. Imagine a terminal that knows what your CI/CD agent is doing, or if your local development server is healthy, and can even facilitate communication between them! A daemon keeps your sessions alive, letting you detach, reattach, and even access them from other machines.\n\nThe benefits for us developers are huge. TUIOS dramatically boosts productivity with its intelligent window management, persistent sessions across machines, and the ability to gain insights into your running agents. The `Charm` stack foundation ensures near-zero idle CPU usage and a super responsive, flicker-free experience. Plus, with features like tape scripting, you can automate complex workflows right from your terminal. If you're hesitant to try something new, they even have a guided tour at `tuios.dev/learn` where you can try the real app compiled to WebAssembly – how cool is that?\n\nSeriously, TUIOS feels like the future of terminal interaction. It's not just a tool; it's an intelligent workspace that understands and assists your development process. You've got to check this out!\n\n## 📚 Learn More\n[View the Project on GitHub](https://github.com/Gaurav-Gosain/tuios)\n\n---\n\nEnjoyed this project? Get a daily dose of awesome open-source discoveries by following [GitHub Open Source](https://t.me/GitHub_Open_Source) on Telegram! 🎉\n",
     "tags": [
         {
-            "name": "ai agents",
-            "slug": "ai-agents"
+            "name": "terminal",
+            "slug": "terminal"
         },
         {
-            "name": "knowledge management",
-            "slug": "knowledge-management"
+            "name": "multiplexer",
+            "slug": "multiplexer"
         },
         {
-            "name": "developer tools",
+            "name": "window-manager",
+            "slug": "window-manager"
+        },
+        {
+            "name": "go",
+            "slug": "go"
+        },
+        {
+            "name": "developer-tools",
             "slug": "developer-tools"
-        },
-        {
-            "name": "github copilot",
-            "slug": "github-copilot"
-        },
-        {
-            "name": "technical documentation",
-            "slug": "technical-documentation"
         }
     ],
-    "slug": "never-forget-a-tech-book-again-unleash-your-ai-agents-true-potential-with-book-to-skill",
-    "project_id": 1226123343,
+    "slug": "tuios-your-terminal-just-got-a-brain-and-a-fancy-new-look",
+    "project_id": 1051789550,
     "coverImage": "",
     "isNewsletterActivated": false,
     "isRepublished": false

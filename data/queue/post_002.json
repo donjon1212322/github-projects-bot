@@ -1,0 +1,7 @@
+{
+    "project_id": 51747445,
+    "content": "🚀 <b>git-secret</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely managing and storing sensitive configuration files, API keys, or other secrets within a version-controlled Git repository, accessible only by authorized team members.\n<br>\n✨ <b>Key Features:</b>\n• Stores private data in a git repository\n• Encrypts files with permitted users' public keys\n<br>\n📖 <b>Summary:</b>\ngit-secret is a bash tool designed to securely store sensitive data within a Git repository. It encrypts files using the public keys of authorized users, ensuring that only those with the corresponding private keys can decrypt and access the information. This simplifies access management and revoking permissions without needing to re-encrypt all secrets.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sobolevn/git-secret?embed=0\">View Project</a>\n• <a href=\"https://sobolevn.me/git-secret/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/1e8ef076a0ba7625d97a12190fcaaa9e6243085e8b20e46b79751566cbbb9fb1/sobolevn/git-secret",
+    "platform": "telegram",
+    "quality_score": 1.05
+}
