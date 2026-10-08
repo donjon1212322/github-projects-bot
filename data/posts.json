@@ -1,30 +1,37 @@
 [
     {
-        "project_id": 1051789550,
-        "content": "🌟 <b>tuios</b> | Go\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide an advanced, efficient, and agent-aware terminal environment for developers, streamlining workflows and enhancing productivity through window management, session persistence, and inter-agent communication.\n<br>\n✨ <b>Key Features:</b>\n• Terminal multiplexer and window manager\n• Vim-like modal interface\n• Multiple terminal panes and workspaces\n• BSP tiling\n• Kitty graphics protocol support\n<br>\n📖 <b>Summary:</b>\nTUIOS is a Go-based terminal multiplexer and window manager that enhances productivity with a vim-like interface, BSP tiling, and advanced features for managing coding agents. It offers persistent sessions, cross-machine connectivity, and an inbox for agent communication, all within the terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Gaurav-Gosain/tuios?embed=0\">View Project</a>\n• <a href=\"https://tuios.dev?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1051789550/8c6a411b-29be-4028-b2df-6b4cd41e317d",
+        "project_id": 1406418695,
+        "content": "🔥 <b>WifiWatch</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with real-time monitoring and historical logging of their Wi-Fi network performance, identifying and diagnosing connection issues.\n<br>\n✨ <b>Key Features:</b>\n• Live status of Wi-Fi, router, and internet\n• Logs and categorizes network problems (Wi-Fi, home network, provider, DNS)\n• Intelligent notifications for serious or persistent issues\n• DFS channel change warnings due to radar\n<br>\n📖 <b>Summary:</b>\nWifi Watch is a Windows 11 tray application written in C# that monitors your Wi-Fi connection's channel, signal strength, and ping latency. It logs network issues, identifies their source (Wi-Fi, home network, provider, or DNS), and notifies users of significant or prolonged problems, including warnings about DFS channel changes due to radar.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/poolfullofmilk/WifiWatch?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/658fafd379a41ed9c66932e9207af110d7378dd28397018424712683ab91b917/poolfullofmilk/WifiWatch",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 1390762798,
+        "content": "🔥 <b>UltraExplorer</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide an intuitive and visually engaging way to navigate, manage, and understand complex file system hierarchies on Windows.\n<br>\n✨ <b>Key Features:</b>\n• Zoomable filesystem canvas\n• Native Windows file manager\n• Direct3D 11 rendering\n• Colour Tags for organization\n• Split view functionality\n<br>\n📖 <b>Summary:</b>\nUltraExplorer is a native Windows file manager that visualizes the file system as a zoomable canvas. It allows users to navigate and understand folder hierarchies intuitively by 'flying' into directories while maintaining awareness of the overall structure. The tool integrates familiar file management features with a novel zoomable user interface and quick preview capabilities.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/So2K/UltraExplorer?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/a0387ac5cf538b149365e3930fcba98437cefd626a3a2bd0fd690a1569006204/So2K/UltraExplorer",
+        "platform": "telegram",
+        "quality_score": 1.0
+    },
+    {
+        "project_id": 181724380,
+        "content": "💡 <b>inspektor-gadget</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nSystem inspection and data collection on Kubernetes and Linux hosts using eBPF.\n<br>\n✨ <b>Key Features:</b>\n• Build and package eBPF programs into OCI images (Gadgets)\n• Targets Kubernetes clusters and Linux hosts\n• Collect and export data to observability tools\n• Security mechanisms for Gadget execution control\n• Automatic enrichment of kernel data to high-level resources\n<br>\n📖 <b>Summary:</b>\nInspektor Gadget is a framework and toolset for collecting data and inspecting systems on Kubernetes clusters and Linux hosts. It leverages eBPF technology to package, deploy, and run eBPF programs (called Gadgets) encapsulated in OCI images, offering mechanisms for customization and extension.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/inspektor-gadget/inspektor-gadget?embed=0\">View Project</a>\n• <a href=\"https://www.inspektor-gadget.io?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ee8fc27316f56bcfc4d71a5234c9d304e83e7ae97ed26496dde09ce4ee3cc69f/inspektor-gadget/inspektor-gadget",
         "platform": "telegram",
         "quality_score": 1.1
     },
     {
-        "project_id": 1385946301,
-        "content": "🚀 <b>Strata</b> | C++\n<br>\n🎯 <b>Primary Use Case:</b>\nEnabling users to run advanced AI models locally on their personal computers without requiring server infrastructure.\n<br>\n✨ <b>Key Features:</b>\n• Run Qwen3.8-Flash-Next on consumer hardware\n• One-click install for Windows/Linux\n• OpenAI/Anthropic API compatibility on localhost\n• Optional image input support\n• All processing stays on the user's PC\n<br>\n📖 <b>Summary:</b>\nStrata is a C++ inference engine that allows users to run the Qwen3.8-Flash-Next AI model on consumer hardware, such as Windows or Linux PCs with NVIDIA or AMD graphics cards. It provides an OpenAI/Anthropic-compatible API on localhost and supports optional image input, ensuring all processing remains on the user's machine.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Niko1221/Strata?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f2a476a502984757f95cee1b02f65bdaf8943368a521bf533f3846b08ae124e9/Niko1221/Strata",
+        "project_id": 58308394,
+        "content": "🔥 <b>ubuntu-cleaner</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nSystem cleaning and disk space optimization for Ubuntu operating systems.\n<br>\n✨ <b>Key Features:</b>\n• Clear browser cache\n• Clear APT cache\n• Clear thumbnail cache\n• Remove unneeded packages\n• Remove old kernels\n<br>\n📖 <b>Summary:</b>\nUbuntu Cleaner is a Python-based tool designed to free up disk space and remove private information on Ubuntu systems. It offers a user-friendly way to clear various caches, uninstall unneeded packages, and remove old system components.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/gerardpuig/ubuntu-cleaner?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1f6aef4d1bcc3cb3cc9634b2a215ef63618e8973479cb89f3c490049d8c8c430/gerardpuig/ubuntu-cleaner",
         "platform": "telegram",
-        "quality_score": 1.1
+        "quality_score": 0.55
     },
     {
-        "project_id": 51747445,
-        "content": "🚀 <b>git-secret</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nSecurely managing and storing sensitive configuration files, API keys, or other secrets within a version-controlled Git repository, accessible only by authorized team members.\n<br>\n✨ <b>Key Features:</b>\n• Stores private data in a git repository\n• Encrypts files with permitted users' public keys\n<br>\n📖 <b>Summary:</b>\ngit-secret is a bash tool designed to securely store sensitive data within a Git repository. It encrypts files using the public keys of authorized users, ensuring that only those with the corresponding private keys can decrypt and access the information. This simplifies access management and revoking permissions without needing to re-encrypt all secrets.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/sobolevn/git-secret?embed=0\">View Project</a>\n• <a href=\"https://sobolevn.me/git-secret/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1e8ef076a0ba7625d97a12190fcaaa9e6243085e8b20e46b79751566cbbb9fb1/sobolevn/git-secret",
+        "project_id": 934848252,
+        "content": "🔥 <b>straps</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating and simplifying the testing of cloud-native applications, Docker containers, Kubernetes deployments, and general system administration tasks using Bash scripts and the Bats testing framework.\n<br>\n✨ <b>Key Features:</b>\n• Data Type Validation (integers, floats, strings, unsigned integers)\n• String Operations (starts with, ends with, contains)\n<br>\n📖 <b>Summary:</b>\nStraps is a comprehensive Bash testing harness that provides over 80 utility functions designed to streamline testing for cloud-native development, Docker containers, Kubernetes, system administration, and DevOps automation. It integrates seamlessly with the Bats testing framework, offering robust validation for data types, network operations, file systems, and cloud infrastructure components.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/meeghele/straps?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/934848252/023c4391-cfe8-48bb-a1fe-10fc26102e71",
         "platform": "telegram",
-        "quality_score": 1.05
-    },
-    {
-        "project_id": 700106457,
-        "content": "✨ <b>x-ui-pro</b> | Shell\n<br>\n🎯 <b>Primary Use Case:</b>\nBypassing internet censorship and restrictions by setting up a secure, multi-protocol reverse proxy server with advanced features and ease of installation.\n<br>\n✨ <b>Key Features:</b>\n• Handles WebSocket/GRPC/HttpUpgrade/XHTTP via nginx\n• Supports multiple users and configurations on port 443\n• Allows installation of multiple domains on a single server\n• Enhances security and reduces detection with nginx\n• Automated SSL renewal and daily service reloads\n<br>\n📖 <b>Summary:</b>\nXUI-PRO is a shell script that automates the installation and configuration of a secure web proxy server. It integrates various protocols and tools like nginx, xray, v2rayA, Cloudflare, Tor, and Psiphon to bypass internet restrictions and enhance network security.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/GFW4Fun/x-ui-pro?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/b83faf69d7c927cee7bbc2ac9d8fc06f03dc2a20a0c0df317b69f06f3021acef/GFW4Fun/x-ui-pro",
-        "platform": "telegram",
-        "quality_score": 0.4
+        "quality_score": 0.35
     }
 ]
