@@ -1,0 +1,7 @@
+{
+    "project_id": 1410785044,
+    "content": "🚀 <b>git-graffiti</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo generate visually appealing or specific hexadecimal prefixes for Git commit hashes, enabling the creation of hex art or 'message-like' commit logs, despite the lack of practical utility.\n<br>\n✨ <b>Key Features:</b>\n• Brute-force commit hashes to achieve custom prefixes.\n• Rewrite Git history with modified commit hashes.\n• Append whitespace (spaces and tabs) as a nonce for hash manipulation.\n<br>\n📖 <b>Summary:</b>\nGit-graffiti is a Rust tool that allows users to manipulate Git commit hashes by brute-forcing the SHA-1 algorithm to create custom prefixes. It achieves this by appending whitespace characters as a nonce to commit messages and then rewriting history to display these custom hashes, enabling the creation of hex art or specific hash patterns in the commit log.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/itsbryanman/git-graffiti?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/09a3f498dc25d2b580c0b00206be47231cc9ac687fb80a5e01138f93d8b9f1f2/itsbryanman/git-graffiti",
+    "platform": "telegram",
+    "quality_score": 0.7
+}
