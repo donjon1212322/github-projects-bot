@@ -1,7 +1,0 @@
-{
-    "project_id": 1356823980,
-    "content": "✨ <b>cluster-sentinel</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide comprehensive observability for Kubernetes clusters by monitoring, storing, and exposing cluster events, metrics, and alerts.\n<br>\n✨ <b>Key Features:</b>\n• Watches Kubernetes Events\n• Persists event history in SQLite\n• Maintains a bounded in-memory read cache\n• Exposes Prometheus metrics\n• Provides a read-only HTTP API\n<br>\n📖 <b>Summary:</b>\nCluster Sentinel is a Rust-based observability toolkit for Kubernetes that monitors cluster events, persists them in SQLite, and provides metrics and an API. It includes Prometheus alerts, Grafana dashboards, and Helm deployment for comprehensive cluster event management and analysis.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/chaser100/cluster-sentinel?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/0c82b37a2b3a29c58aa8244bc0d682ad763934178bbe311d5260095b6c3105a5/chaser100/cluster-sentinel",
-    "platform": "telegram",
-    "quality_score": 0.85
-}
