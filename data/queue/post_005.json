@@ -1,0 +1,7 @@
+{
+    "project_id": 1122859216,
+    "content": "💡 <b>zeroshot</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomating and improving the quality of AI-generated code through a multi-agent review and repair system.\n<br>\n✨ <b>Key Features:</b>\n• Runs coding agents as a graph\n• Independent agents for implementation, review, and repair\n• Failures are routed to a repair loop\n• Code delivery requires passing checks from reviewers\n• Supports Codex, Claude Code, and Copilot\n<br>\n📖 <b>Summary:</b>\nZeroshot is a Rust-based tool that orchestrates AI coding agents in a graph-based workflow. It separates code implementation from review and repair, ensuring that code is only shipped after independent agents have verified its quality. It supports various AI models like Codex, Claude Code, and Copilot.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/the-open-engine/zeroshot?embed=0\">View Project</a>\n• <a href=\"https://zeroshot.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/1b39c972081e07301e32ee7ff15a0955d5c260b2df15b00826667563dc7a8566/the-open-engine/zeroshot",
+    "platform": "telegram",
+    "quality_score": 1.2000000000000002
+}
