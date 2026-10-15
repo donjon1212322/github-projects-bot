@@ -1,7 +1,0 @@
-{
-    "project_id": 278482508,
-    "content": "✨ <b>jarm</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nIdentifying and grouping TLS servers on the internet based on their unique TLS configurations, with applications in security, infrastructure analysis, and threat detection.\n<br>\n✨ <b>Key Features:</b>\n• Active TLS server fingerprinting\n• Generates unique JARM fingerprints\n• Verifies TLS configuration consistency\n• Groups servers by TLS configuration\n<br>\n📖 <b>Summary:</b>\nJARM is a Python-based tool for active Transport Layer Security (TLS) server fingerprinting. It generates unique fingerprints for TLS servers by analyzing their responses to a series of Client Hello packets, enabling verification of TLS configurations, grouping of servers by configuration, identification of default infrastructure, and detection of malicious command and control servers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/salesforce/jarm?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/1148546d2ea01507f607a9c62bbc5a08a8e3002c4ba409c31585d5c1724c4ee4/salesforce/jarm",
-    "platform": "telegram",
-    "quality_score": 0.7000000000000001
-}
