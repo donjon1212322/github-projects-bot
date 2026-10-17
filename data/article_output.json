@@ -1,26 +1,26 @@
 {
-    "title": "Unlock Your Codebase Superpowers: Discover 'Understand Anything'!",
-    "article": "Ever joined a new project and felt like you've been dropped into the middle of an alien language, staring at hundreds of thousands of lines of code with no map? We've all been there! That overwhelming feeling of 'where do I even start?' is a universal developer struggle. But what if I told you there's a revolutionary GitHub project that turns that chaos into clarity, transforming your entire codebase into an interactive, visual knowledge graph you can actually explore? Get ready to say hello to 'Understand Anything'!\n\nThis incredible project isn't just another static code linter; it's a dynamic, intelligent guide to your software architecture. Imagine a multi-agent pipeline that dives deep into your project, meticulously analyzing every file, function, class, and their intricate dependencies. It then takes all that raw information and stitches it together into a beautiful, interactive knowledge graph. Instead of blindly scrolling through files, you get a visual representation where every piece of your codebase is a clickable node. You can explore relationships, understand call flows, and even get plain-English summaries of what each component does and how it connects to others. It's like having a seasoned architect explain your entire system to you, on demand, with a visual aid!\n\nThe real magic of 'Understand Anything' lies in its ability to simplify complexity. The goal isn't to create a graph that impresses you with how complicated your system is, but one that quietly teaches you how every single part fits together. For new team members, this is an absolute game-changer. Onboarding time could drastically shrink, allowing them to become productive much faster. For seasoned developers, it's an invaluable tool for understanding legacy systems, planning refactors, or simply getting a bird's-eye view of a new feature's impact across the entire application. It integrates seamlessly with popular AI coding assistants like Claude Code, Codex, Copilot, and Gemini CLI, making it a powerful companion in your daily development workflow.\n\nForget the days of endless `grep` commands or drawing diagrams on whiteboards. 'Understand Anything' provides a living, breathing map of your project. You can pan, zoom, search, and interact with your codebase like never before. It shifts the paradigm from 'reading code blind' to 'seeing the big picture' instantly. This isn't just a utility; it's a new way to interact with and comprehend complex software, empowering developers to build better, faster, and with more confidence. Trust me, once you try the live demo, you'll wonder how you ever managed without it!",
+    "title": "Supercharge Your Job Search: Discover JobOps, Your Ultimate AI-Powered Assistant!",
+    "article": "Hey fellow developers! Let's be real: job hunting can be a *grind*. Juggling countless tabs for different job boards, painstakingly tailoring your CV for each application, and then trying to remember where you applied – it's enough to make anyone want to just give up. But what if there was a tool that could turn this chaotic process into a smooth, efficient operation? Enter JobOps, a GitHub project that's quickly becoming the ironman suit for job seekers, and I'm absolutely stoked to tell you about it!JobOps is an incredible open-source platform designed to streamline your entire job application workflow. Imagine searching across LinkedIn, Indeed, Glassdoor, and over 10 other job boards *all from one screen*. No more endless tab switching! But it gets even better. JobOps doesn't just find jobs; it acts as your personal AI assistant, helping you craft the perfect application for each role. And crucially, it doesn't auto-apply – because we all know recruiters can spot those from a mile away. Instead, it gives you the speed without sacrificing the personal touch that gets you noticed.So, how does this magic happen? JobOps simplifies the process into a few key steps. First, it **searches** those 10+ boards based on your criteria, presenting all relevant roles in a single view. Next, its integrated AI **scores** each job against your profile, giving you an immediate sense of your fit (from 0-100!). This is a game-changer for prioritizing your efforts. Then, the real power kicks in: it **tailors** your CV. JobOps can rewrite your resume, matching it precisely to each job description, ensuring you hit all the right keywords. You can then **export** a polished PDF, ready to send. Finally, it **tracks** everything. Connect your Gmail, and JobOps will automatically detect interview invitations, offers, and even rejections, keeping your application statuses updated without you lifting a finger. No more messy spreadsheets or forgotten applications!The benefits for developers are huge. You'll save countless hours that would otherwise be spent manually searching and tweaking documents. The AI-powered CV tailoring significantly increases your chances of getting past initial screening filters, giving you a real edge. Plus, with its support for a wide array of AI providers like OpenAI, Claude, Google Gemini, and even local options like Ollama, you can use the models you're most comfortable with. Setting it up is a breeze too, with a simple `docker compose up -d` command getting you started in minutes. It's truly a unified command center for your job hunt.I've been blown away by how much time and stress JobOps eliminates. It's a testament to the power of open-source development to solve real-world problems. If you're a developer on the hunt for your next big opportunity, or even just curious about how AI can revolutionize everyday tasks, you absolutely *have* to check out JobOps. It's fast, smart, and genuinely makes the job search feel less like a chore and more like a strategic mission. Go give it a star on GitHub and try it out – you won't regret it!",
     "key_takeaways": [
-        "Transforms any codebase into an interactive, explorable knowledge graph.",
-        "Simplifies understanding of complex software architectures and dependencies.",
-        "Significantly accelerates developer onboarding and project comprehension.",
-        "Integrates seamlessly with popular AI coding assistants like Claude Code and Copilot.",
-        "Provides a visual and intuitive way to navigate and understand any project."
+        "JobOps centralizes job searching across 10+ major job boards from a single interface.",
+        "It leverages AI to score your fit for roles and dynamically tailor your CV to each job description.",
+        "Automated post-application tracking connects to your Gmail, updating statuses for interviews, offers, and rejections.",
+        "Supports various AI providers (OpenAI, Claude, Gemini, local Ollama, etc.) and is easy to self-host with Docker.",
+        "Significantly reduces time spent on job hunting while improving the quality and relevance of your applications."
     ],
     "tags": [
-        "Code Analysis",
-        "Knowledge Graph",
-        "Developer Tools",
+        "Job Search",
         "AI",
-        "Software Architecture"
+        "Open Source",
+        "Developer Tools",
+        "Productivity"
     ],
-    "stars": 86548,
-    "forks": 7294,
-    "open_issues": 119,
+    "stars": 4021,
+    "forks": 536,
+    "open_issues": 56,
     "languages": "TypeScript",
-    "readme_summary": "Understand Anything transforms codebases into interactive knowledge graphs, allowing developers to explore, search, and understand complex projects more effectively. It integrates with various AI coding assistants to provide a visual overview of code structure and dependencies.",
-    "project_id": 1182081931,
-    "url": "https://github.com/Egonex-AI/Understand-Anything",
-    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more."
+    "readme_summary": "JobOps is a self-hosted DevOps-inspired job hunting pipeline that automates the job search process. It aggregates job listings from multiple boards, scores applications based on user profiles, tailors CVs, and tracks application statuses by connecting to Gmail.",
+    "project_id": 1114821770,
+    "url": "https://github.com/DaKheera47/job-ops",
+    "description": "job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process"
 }
