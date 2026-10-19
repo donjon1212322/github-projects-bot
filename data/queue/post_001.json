@@ -1,0 +1,7 @@
+{
+    "project_id": 1420596913,
+    "content": "💡 <b>De-Nox</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nCleaning up disk space occupied by build artifacts and dependencies of inactive software projects without accidentally deleting files from active projects.\n<br>\n✨ <b>Key Features:</b>\n• Intelligent disk cleanup based on project activity, not just artifact age\n• Terminal-based TUI using ratatui\n• Read-only until explicit deletion confirmation\n• Fast scanning by avoiding deep dives into artifact directories\n<br>\n📖 <b>Summary:</b>\nDe-Nox is a Rust-based terminal disk-cleanup tool that intelligently identifies and removes dormant build artifacts like `node_modules` and `target`. It differentiates between truly abandoned projects and active ones by analyzing the last modification date of the project's source files, not just the artifact directories themselves.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/soul-abhi/De-Nox?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+    "media_url": "https://opengraph.githubassets.com/cbae854fee71cb444be4b89c4b29c7f435170f3fee56b7119646118d5d61b476/soul-abhi/De-Nox",
+    "platform": "telegram",
+    "quality_score": 0.44999999999999996
+}
