@@ -1,7 +1,0 @@
-{
-    "project_id": 1418579364,
-    "content": "💡 <b>starsift</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide developers and security professionals with a tool to audit the authenticity of GitHub repository stars, thereby enhancing supply chain security and trust in open-source projects.\n<br>\n✨ <b>Key Features:</b>\n• Detects fake GitHub stars by analyzing account behavior.\n• Uses GH Archive data and a time-matched control group for comparison.\n<br>\n📖 <b>Summary:</b>\nStarsift is a Python CLI tool designed to detect fake GitHub stars by analyzing account behavior. It leverages GH Archive data and compares a repository's stargazers against a control group of randomly selected accounts from the same time period to identify potential star farms, especially after GitHub restricted access to the stargazers list.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/intikhab49/starsift?embed=0\">View Project</a>\n• <a href=\"https://pypi.org/project/starsift/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/0e8cb32171d7cc5d5438132cc792c9f514e76c7e962303e7d0e7515b1e455b8a/intikhab49/starsift",
-    "platform": "telegram",
-    "quality_score": 0.7999999999999999
-}
