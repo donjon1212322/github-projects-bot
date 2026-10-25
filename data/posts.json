@@ -1,44 +1,16 @@
 [
     {
-        "project_id": 1412577690,
-        "content": "🚀 <b>lightforge</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a seamless and native experience for playing World of Warcraft and other Battle.net games on Linux systems, bypassing the need for the official Battle.net client for WoW and simplifying the management of other Blizzard titles.\n<br>\n✨ <b>Key Features:</b>\n• Native Linux launcher for World of Warcraft\n• Installs, patches, verifies, and launches WoW without Battle.net client\n<br>\n📖 <b>Summary:</b>\nLightforge is a native Linux client for World of Warcraft and other Battle.net games. It allows users to install, patch, verify, and launch World of Warcraft directly without the official Battle.net client, using reimplemented Blizzard distribution protocols in Rust. For other Battle.net games, it manages a single Battle.net prefix and launches the official client.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/LightforgeProject/lightforge?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/30907f1de14feea5dc9d611573881f978cc59c4e05b7b3460f9dbc8eaaa0b161/LightforgeProject/lightforge",
+        "project_id": 1396738941,
+        "content": "🌟 <b>dioramas</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding interactive, visually stunning 3D landing pages and websites with AI-generated assets.\n<br>\n✨ <b>Key Features:</b>\n• AI-generated 3D assets (Nano Banana 2 + Meshy 7.1)\n• Optimized 3D models for web (meshopt, WebP)\n• three.js based engine with advanced post-processing effects\n• Scroll-based choreography and interactions\n• Includes 20 complete example websites\n<br>\n📖 <b>Summary:</b>\nDioramas is an open-source framework for creating cinematic, interactive 3D websites. It leverages AI to generate 3D assets from text prompts, which are then optimized and integrated into a three.js engine for visually rich, scroll-driven experiences.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/blendi-remade/dioramas?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ab7402a0d7a6603e8a0ed5467261075da1a083c2ad60bea134589c96d7b14d81/blendi-remade/dioramas",
         "platform": "telegram",
-        "quality_score": 0.5499999999999999
+        "quality_score": 0.6
     },
     {
-        "project_id": 1423969391,
-        "content": "🚀 <b>maple-videos</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosting and serving personal video content without reliance on third-party platforms.\n<br>\n✨ <b>Key Features:</b>\n• Video uploads with size limits and format checks\n• Real video validation using ffprobe\n• Background transcoding to HLS with FFmpeg\n• Built-in player powered by hls.js\n• Video list on homepage\n<br>\n📖 <b>Summary:</b>\nMaple-videos is an open-source, self-hosted video hosting platform that allows users to upload, transcode, and serve their own videos using a built-in player. It aims to provide an alternative to corporate video platforms by keeping user data on their own servers.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/EasyCanadianGamer/maple-videos?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8172f7879c4ad602a27c420ee7454f26b1fb00d53ba0dbf0981fe24776844b9c/EasyCanadianGamer/maple-videos",
+        "project_id": 1413503021,
+        "content": "✨ <b>Liquid-glass-studio</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a user-friendly, visual tool for designers and developers to easily create and export CSS code for the iOS 26 liquid glass effect without requiring any build tools or dependencies.\n<br>\n✨ <b>Key Features:</b>\n• Visual design of iOS 26 liquid glass effect\n• One-click CSS and Tailwind CSS code generation\n<br>\n📖 <b>Summary:</b>\nLiquid Glass Studio is a zero-dependency, vanilla JavaScript web application that allows users to visually design and generate CSS or Tailwind CSS code for the iOS 26 liquid glass effect. It provides a live preview with fine-tuned controls and the ability to use custom backgrounds, making it easy to replicate complex frosted glass designs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hilsetapp/Liquid-glass-studio?embed=0\">View Project</a>\n• <a href=\"https://hilsetapp.github.io/Liquid-glass-studio/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/d5d863e84781e370d4689ddc3beff1e004f24f5692bed7da3556f10902d44db0/hilsetapp/Liquid-glass-studio",
         "platform": "telegram",
-        "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 1413945527,
-        "content": "🔥 <b>mango</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nSelf-hosting a manga and manhwa reader application that aggregates content from online sources (via extensions) and local files, offering a centralized and customizable reading experience.\n<br>\n✨ <b>Key Features:</b>\n• Self-hosted manga and manhwa reader\n• Runs Mihon-compatible extensions\n• Reads from online sources via extensions\n• Reads from local files\n• Lightweight Rust binary\n<br>\n📖 <b>Summary:</b>\nMango is a self-hosted manga and manhwa reader built with Rust. It leverages Mihon-compatible extensions to access content from various sources and can also read local files. The application is designed to be lightweight, with a single Rust binary for the server and web UI, and extensions running in a separate, on-demand process.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/apixelsnet/mango?embed=0\">View Project</a>\n• <a href=\"https://mangoreader.org?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1413945527/02c457b2-4e74-42aa-b452-c85e38c5d41a",
-        "platform": "telegram",
-        "quality_score": 0.65
-    },
-    {
-        "project_id": 1414298588,
-        "content": "🌟 <b>materialfy</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a modern, visually appealing, and native desktop experience for listening to Spotify music, distinct from the official web-based client.\n<br>\n✨ <b>Key Features:</b>\n• Native desktop Spotify client\n• Material 3 Expressive UI\n• Built with Rust and Qt Quick\n• Uses librespot for audio playback\n• Dynamic color theming based on album art\n<br>\n📖 <b>Summary:</b>\nMaterialfy is a native desktop client for Spotify built using Rust and Qt Quick, offering a Material 3 Expressive user interface. It provides a streamlined music listening experience on Windows and Linux, with experimental support for macOS. The client integrates audio playback via librespot and dynamically adapts interface colors to the current track's album art.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/fatyzzz/materialfy?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/aa4f241d3b3f870d2a435cea5223383a2032ae4b6c21384331e9c6133aa5d27f/fatyzzz/materialfy",
-        "platform": "telegram",
-        "quality_score": 1.05
-    },
-    {
-        "project_id": 1406613430,
-        "content": "🔥 <b>SnapBack-Rebootless</b> | C#\n<br>\n🎯 <b>Primary Use Case:</b>\nTo manage and reset a Windows session to a clean, predefined state by closing unwanted applications without rebooting, thereby freeing up system resources and reducing clutter.\n<br>\n✨ <b>Key Features:</b>\n• Records application states as baselines or named profiles.\n• Monitors session drift from the baseline.\n<br>\n📖 <b>Summary:</b>\nSnapBack is a Windows application designed to restore your system to a desired baseline state without requiring a reboot. It intelligently identifies and closes applications that have been opened since the baseline was set, allowing them to save work politely, and optionally includes a deep memory cleanup feature.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/IT-Shelter-Labs/SnapBack-Rebootless?embed=0\">View Project</a>\n• <a href=\"https://t.me/+ihTcvubt-_BhZTQ6?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9bab5a1eb34df2495539179bf41f17ffb3e384d4917cc7d8460be1750389569c/IT-Shelter-Labs/SnapBack-Rebootless",
-        "platform": "telegram",
-        "quality_score": 1.1000000000000003
-    },
-    {
-        "project_id": 1411248149,
-        "content": "🔥 <b>Claude-Mods</b> | TypeScript\n<br>\n🎯 <b>Primary Use Case:</b>\nEnhancing the functionality and user experience of Claude Code through installable plugins for better task management, session organization, and resource monitoring.\n<br>\n✨ <b>Key Features:</b>\n• Context, limits, and reset timers displayed next to the chat (CTX)\n• Continue long tasks after chat clearing using saved summaries (Handoff)\n• Multiple parallel sessions for project work (Threads)\n<br>\n📖 <b>Summary:</b>\nClaude Mods enhances the Claude Code AI assistant by providing plugins that help users manage context limits, continue long tasks after chat resets, organize multiple sessions, and monitor resource usage. These mods aim to improve productivity and workflow within the Claude Code environment.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/IT-Shelter-Labs/Claude-Mods?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/c8c98ba380b06156fcb57c25316feb0e8279e51e0bf5e9058917a0282db37815/IT-Shelter-Labs/Claude-Mods",
-        "platform": "telegram",
-        "quality_score": 0.44999999999999996
+        "quality_score": 0.7
     }
 ]
