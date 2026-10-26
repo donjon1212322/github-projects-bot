@@ -1,87 +1,188 @@
 [
     {
-        "id": 1396738941,
-        "name": "dioramas",
-        "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-        "url": "https://github.com/blendi-remade/dioramas",
-        "language": "JavaScript",
-        "stars": 540,
-        "forks": 55,
-        "created_at": "2026-09-30T00:07:56Z",
-        "updated_at": "2026-10-25T08:53:50Z",
+        "id": 1413015831,
+        "name": "Pawnix",
+        "description": "A minimal curses chess client with Lichess API support",
+        "url": "https://github.com/a-shygun/Pawnix",
+        "language": "Python",
+        "stars": 24,
+        "forks": 1,
+        "created_at": "2026-10-10T09:40:18Z",
+        "updated_at": "2026-10-26T08:01:15Z",
         "topics": [
-            "3d",
-            "creative-coding",
-            "fal",
-            "generative-ai",
-            "landing-page",
-            "meshy",
-            "threejs",
-            "webgl"
+            "ascii",
+            "ascii-art",
+            "chess",
+            "cli",
+            "lichess",
+            "terminal",
+            "tui"
         ],
-        "quality_score": 0.6,
+        "quality_score": 0.7499999999999999,
         "contributors_count": 0,
-        "last_commit_date": "2026-09-30T00:07:49Z",
+        "last_commit_date": "2026-10-13T09:59:58Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/ab7402a0d7a6603e8a0ed5467261075da1a083c2ad60bea134589c96d7b14d81/blendi-remade/dioramas"
+            "https://opengraph.githubassets.com/eceb3c2dad8dbb91975d83474f09a13d4ad002a6fee8049153fa080244c0763b/a-shygun/Pawnix"
         ],
-        "homepage": null,
-        "readme_summary": "Dioramas is an open-source framework for creating cinematic, interactive 3D websites. It leverages AI to generate 3D assets from text prompts, which are then optimized and integrated into a three.js engine for visually rich, scroll-driven experiences.",
+        "homepage": "",
+        "readme_summary": "Pawnix is a Python-based, keyboard-first chess client designed for the terminal. It offers both local two-player games and online play through the Lichess API, supporting features like AI practice, matchmaking, and challenges.",
         "key_features": [
-            "AI-generated 3D assets (Nano Banana 2 + Meshy 7.1)",
-            "Optimized 3D models for web (meshopt, WebP)",
-            "three.js based engine with advanced post-processing effects",
-            "Scroll-based choreography and interactions",
-            "Includes 20 complete example websites",
-            "No CLI installation or paid tier"
+            "Local two-player chess with clocks, SAN/UCI input, undo/redo, PGN import/export",
+            "Lichess integration for AI games, online matches, and challenges via Board API",
+            "OAuth with PKCE for browser-based Lichess sign-in",
+            "Customizable interface with 15 board themes, adjustable piece sizes, and visual aids",
+            "Public Lichess profile lookup"
         ],
-        "primary_use_case": "Building interactive, visually stunning 3D landing pages and websites with AI-generated assets.",
+        "primary_use_case": "Playing chess in the terminal, with seamless integration for local games and online Lichess matches.",
         "open_issues": 0,
-        "cover_image_prompt": "A magical artisan's workshop where a digital loom weaves intricate 3D models from glowing threads of text prompts. On one side, a screen displays a simple text prompt like 'ancient artifact'. On the other, a finished, detailed 3D model of the artifact materializes, ready to be placed into a beautiful, cinematic website scene. Subtle UI elements and code snippets float around the artisan, hinting at the framework's technical nature. The overall mood is one of creative generation and seamless integration into a digital experience. Style: 3D isometric illustration, vibrant colors, clean composition."
+        "cover_image_prompt": "A stylized, vintage terminal screen displaying a dynamic chess game in progress. On one side, a player's hands are poised over a keyboard, with subtle glowing lines connecting keystrokes to the on-screen chess pieces. On the other side, a digital representation of the Lichess interface is visible, showing a connection being established. Small, abstract data streams flow between the keyboard and the Lichess interface, symbolizing the API integration. The overall mood is focused and intellectual, with a clean, retro-futuristic aesthetic. The Pawnix logo is subtly integrated into the terminal's design. 3D isometric illustration style, vibrant but focused color palette, high detail."
     },
     {
-        "id": 1413503021,
-        "name": "Liquid-glass-studio",
-        "description": "Design the iOS 26 liquid glass effect visually and copy production-ready CSS or Tailwind in one click. Vanilla JS, zero dependencies, no build step.",
-        "url": "https://github.com/hilsetapp/Liquid-glass-studio",
-        "language": "JavaScript",
-        "stars": 9,
-        "forks": 1,
-        "created_at": "2026-10-10T17:58:06Z",
-        "updated_at": "2026-10-25T08:47:10Z",
-        "topics": [
-            "css",
-            "css-generator",
-            "design-tools",
-            "frontend",
-            "github-pages",
-            "glassmorphism",
-            "ios26",
-            "liquid-glass",
-            "tailwindcss",
-            "vanilla-javascript"
-        ],
-        "quality_score": 0.7,
+        "id": 1208652648,
+        "name": "waytator",
+        "description": "Screenshots and video recording on wayland ",
+        "url": "https://github.com/faetalize/waytator",
+        "language": "C",
+        "stars": 145,
+        "forks": 6,
+        "created_at": "2026-04-12T15:18:54Z",
+        "updated_at": "2026-10-26T07:51:26Z",
+        "topics": [],
+        "quality_score": 0.95,
         "contributors_count": 0,
-        "last_commit_date": "2026-10-16T23:47:25Z",
+        "last_commit_date": "2026-10-26T00:24:50Z",
         "media_urls": [
-            "https://opengraph.githubassets.com/d5d863e84781e370d4689ddc3beff1e004f24f5692bed7da3556f10902d44db0/hilsetapp/Liquid-glass-studio"
+            "https://opengraph.githubassets.com/877d5613d2c3f734a15998dab25a1da5b1f14dadac080282cdd1ccb47285d176/faetalize/waytator"
         ],
-        "homepage": "https://hilsetapp.github.io/Liquid-glass-studio/",
-        "readme_summary": "Liquid Glass Studio is a zero-dependency, vanilla JavaScript web application that allows users to visually design and generate CSS or Tailwind CSS code for the iOS 26 liquid glass effect. It provides a live preview with fine-tuned controls and the ability to use custom backgrounds, making it easy to replicate complex frosted glass designs.",
+        "homepage": "",
+        "readme_summary": "Waytator is a C-based tool for capturing screenshots and recording video on Wayland compositors, also offering basic image and video editing capabilities. It supports features like annotation, cropping, trimming, and audio manipulation, with OCR support for text recognition.",
         "key_features": [
-            "Visual design of iOS 26 liquid glass effect",
-            "One-click CSS and Tailwind CSS code generation",
-            "Draggable live preview with 7 fine-tuned controls (blur, milkiness, saturation, radius, depth, edge light, refraction bend)",
-            "Optional edge refraction via SVG displacement filter",
-            "Support for custom backgrounds (upload, drag-and-drop, paste)",
-            "6 one-click presets",
-            "Randomizer for inspiration",
-            "Zero dependencies, zero build step, plain HTML/CSS/JS",
-            "MIT Licensed"
+            "Screenshot and video recording on Wayland",
+            "Image annotation",
+            "Video editing (cropping, trimming, rotation, muting, speed changes, etc.)",
+            "OCR support",
+            "Integration with wlroots-based compositors",
+            "Build from source and package manager installation (AUR, Nix)"
         ],
-        "primary_use_case": "To provide a user-friendly, visual tool for designers and developers to easily create and export CSS code for the iOS 26 liquid glass effect without requiring any build tools or dependencies.",
-        "open_issues": 0,
-        "cover_image_prompt": "A whimsical alchemist in a brightly lit, minimalist studio, holding a glowing vial labeled 'Liquid Glass'. They are pouring the liquid onto a digital canvas, which instantly transforms into a beautifully rendered, translucent frosted glass panel with a subtle light edge. Around the alchemist, sliders and simple UI elements are visible, representing the design controls. In the background, a blurred, colorful abstract landscape serves as the source for the glass effect. The overall mood is creative and effortless. The style should be a 3D isometric illustration with clean lines and vibrant, soft lighting, emphasizing the magical transformation of raw elements into a polished UI component. The repository name 'Liquid Glass Studio' is subtly etched on a workbench."
+        "primary_use_case": "Capturing and editing visual media (screenshots and video recordings) on Wayland display servers.",
+        "open_issues": 11,
+        "cover_image_prompt": "A whimsical, stylized artist's studio where a magical quill pen hovers over a digital canvas. The quill is actively drawing a vibrant screenshot on one side of the canvas, while on the other side, it's trimming and re-arranging segments of a video timeline, like cutting and pasting film strips. Subtle glowing lines connect the quill to a small, stylized Wayland compositor icon in the background, representing the capture source. The overall mood is creative and productive, with soft, digital lighting. The style should be a 3D isometric illustration with clean lines and a bright, inviting color palette, featuring the name 'waytator' subtly etched on the canvas."
+    },
+    {
+        "id": 1114461628,
+        "name": "ytconverter",
+        "description": "The ytconverter is a CLI tool for downloading YouTube videos in various format directly from the terminal. It leverages popular libraries (yt-dlp) and frameworks within the Python ecosystem to handle video downloading, format conversion, metadata handling and many more!",
+        "url": "https://github.com/kaifcodec/ytconverter",
+        "language": "Python",
+        "stars": 680,
+        "forks": 45,
+        "created_at": "2025-12-11T12:04:39Z",
+        "updated_at": "2026-10-26T10:33:09Z",
+        "topics": [
+            "cli",
+            "ffmpeg",
+            "linux-tool",
+            "linux-youtube-downloader",
+            "python",
+            "termux-tool",
+            "yotube-vido-downloader",
+            "youtube-dl",
+            "youtube-downloader",
+            "yt-dlp",
+            "yt-dlp-wrapper",
+            "ytconverter"
+        ],
+        "quality_score": 0.5,
+        "contributors_count": 0,
+        "last_commit_date": "2026-04-30T17:09:57Z",
+        "media_urls": [
+            "https://repository-images.githubusercontent.com/1114461628/bbaab2fd-a7e9-48f4-be0e-827d60b73852"
+        ],
+        "homepage": "",
+        "readme_summary": "YTConverter is a Python-based command-line interface (CLI) tool designed for downloading and converting YouTube videos. It supports various formats, resolutions, playlists, and subtitles, offering a user-friendly interactive experience directly from the terminal.",
+        "key_features": [
+            "Video Downloading",
+            "Audio Downloading",
+            "Multiple video download",
+            "Subtitles download support",
+            "Playlist download",
+            "Detailed Quality selection",
+            "Path selections (automatic and custom)",
+            "Title sanitization",
+            "Format Conversion (MP3, MP4, etc.)",
+            "Metadata Handling",
+            "Colored output",
+            "Interactive CLI",
+            "Auto Update (yt-dlp and ytconverter)"
+        ],
+        "primary_use_case": "Downloading and converting YouTube videos from the command line.",
+        "open_issues": 5,
+        "cover_image_prompt": "A friendly, stylized robot arm in a clean, modern workshop, holding a YouTube play button icon. The robot arm is in the process of 'downloading' the video content, represented by streams of colorful digital data flowing from the icon into a series of neatly organized boxes labeled 'MP3', 'MP4', and 'Subtitles'. Subtle UI elements showing resolution options and download progress are visible on a nearby holographic screen. The overall mood is efficient and user-friendly, with a bright, inviting color palette. The style should be a 3D isometric illustration with clear, bold lines and a focus on the transformation metaphor."
+    },
+    {
+        "id": 357492304,
+        "name": "IPTV",
+        "description": "M3U Playlist for free TV channels",
+        "url": "https://github.com/Free-TV/IPTV",
+        "language": "Python",
+        "stars": 21467,
+        "forks": 3094,
+        "created_at": "2021-04-13T09:13:48Z",
+        "updated_at": "2026-10-26T09:51:48Z",
+        "topics": [
+            "help-wanted",
+            "looking-for-contributors"
+        ],
+        "quality_score": 0.85,
+        "contributors_count": 0,
+        "last_commit_date": "2026-10-24T12:37:17Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/1dadeee39abdbb4c710e661dd5d99bcabb6dd258c4c92f3c958f3c1470a18c7f/Free-TV/IPTV"
+        ],
+        "homepage": "",
+        "readme_summary": "This repository provides an M3U playlist containing links to free TV channels from around the world. It aims to aggregate publicly available streams for easy access via IPTV players.",
+        "key_features": [
+            "M3U playlist format",
+            "Collection of free TV channels",
+            "Global channel coverage",
+            "Links to publicly available streams"
+        ],
+        "primary_use_case": "To provide users with a curated list of free, globally accessible TV channels in an M3U format for playback on IPTV-compatible devices and software.",
+        "open_issues": 7,
+        "cover_image_prompt": "A vibrant, stylized world map where each country is represented by a glowing television screen displaying a unique channel icon. A digital stream of light flows from a central point, branching out to connect all the screens, symbolizing the M3U playlist aggregating global content. Subtle UI elements resembling an IPTV player interface are overlaid on the map. The overall mood is bright and accessible, with a clean, modern flat design style. The repository name 'IPTV' is subtly integrated into the flow of the digital stream."
+    },
+    {
+        "id": 268424739,
+        "name": "helix",
+        "description": "A post-modern modal text editor.",
+        "url": "https://github.com/helix-editor/helix",
+        "language": "Rust",
+        "stars": 46697,
+        "forks": 3881,
+        "created_at": "2020-06-01T04:26:56Z",
+        "updated_at": "2026-10-26T10:01:07Z",
+        "topics": [
+            "kakoune",
+            "rust",
+            "text-editor",
+            "vim"
+        ],
+        "quality_score": 1.05,
+        "contributors_count": 0,
+        "last_commit_date": "2026-09-29T02:32:19Z",
+        "media_urls": [
+            "https://opengraph.githubassets.com/8125350d63b7de4131eb32f81b62c473c900162302ac7a0be049a05140ba98c8/helix-editor/helix"
+        ],
+        "homepage": "https://helix-editor.com",
+        "readme_summary": "Helix is a post-modern modal text editor written in Rust, inspired by Kakoune and Neovim. It focuses on a unique editing model with multiple selections and integrates advanced features like built-in language server support and smart syntax highlighting via tree-sitter.",
+        "key_features": [
+            "Vim-like modal editing",
+            "Multiple selections",
+            "Built-in language server support",
+            "Smart, incremental syntax highlighting and code editing via tree-sitter"
+        ],
+        "primary_use_case": "A highly efficient and modern text editing experience for developers, particularly those who appreciate modal editing paradigms and advanced code intelligence.",
+        "open_issues": 1126,
+        "cover_image_prompt": "A skilled artisan, embodying the 'Helix' editor, meticulously sculpting a complex structure from raw, glowing digital clay. The artisan uses two distinct, glowing tools simultaneously, representing multiple selections, to shape the clay with precision. The raw clay is fed into the scene via streams of code snippets and data, while the sculpted form emerges as a beautifully rendered, complex software component. Subtle UI elements reminiscent of a code editor interface are integrated into the artisan's workbench. The scene is set in a futuristic, minimalist workshop with clean lines and a vibrant, energetic color palette, rendered in a 3D isometric illustration style with a focus on clarity and detail."
     }
 ]

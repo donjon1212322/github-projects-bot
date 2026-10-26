@@ -1,16 +1,37 @@
 [
     {
-        "project_id": 1396738941,
-        "content": "🌟 <b>dioramas</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nBuilding interactive, visually stunning 3D landing pages and websites with AI-generated assets.\n<br>\n✨ <b>Key Features:</b>\n• AI-generated 3D assets (Nano Banana 2 + Meshy 7.1)\n• Optimized 3D models for web (meshopt, WebP)\n• three.js based engine with advanced post-processing effects\n• Scroll-based choreography and interactions\n• Includes 20 complete example websites\n<br>\n📖 <b>Summary:</b>\nDioramas is an open-source framework for creating cinematic, interactive 3D websites. It leverages AI to generate 3D assets from text prompts, which are then optimized and integrated into a three.js engine for visually rich, scroll-driven experiences.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/blendi-remade/dioramas?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ab7402a0d7a6603e8a0ed5467261075da1a083c2ad60bea134589c96d7b14d81/blendi-remade/dioramas",
+        "project_id": 1413015831,
+        "content": "💡 <b>Pawnix</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying chess in the terminal, with seamless integration for local games and online Lichess matches.\n<br>\n✨ <b>Key Features:</b>\n• Local two-player chess with clocks, SAN/UCI input, undo/redo, PGN import/export\n• Lichess integration for AI games, online matches, and challenges via Board API\n• OAuth with PKCE for browser-based Lichess sign-in\n• Customizable interface with 15 board themes, adjustable piece sizes, and visual aids\n• Public Lichess profile lookup\n<br>\n📖 <b>Summary:</b>\nPawnix is a Python-based, keyboard-first chess client designed for the terminal. It offers both local two-player games and online play through the Lichess API, supporting features like AI practice, matchmaking, and challenges.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/a-shygun/Pawnix?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/eceb3c2dad8dbb91975d83474f09a13d4ad002a6fee8049153fa080244c0763b/a-shygun/Pawnix",
         "platform": "telegram",
-        "quality_score": 0.6
+        "quality_score": 0.7499999999999999
     },
     {
-        "project_id": 1413503021,
-        "content": "✨ <b>Liquid-glass-studio</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide a user-friendly, visual tool for designers and developers to easily create and export CSS code for the iOS 26 liquid glass effect without requiring any build tools or dependencies.\n<br>\n✨ <b>Key Features:</b>\n• Visual design of iOS 26 liquid glass effect\n• One-click CSS and Tailwind CSS code generation\n<br>\n📖 <b>Summary:</b>\nLiquid Glass Studio is a zero-dependency, vanilla JavaScript web application that allows users to visually design and generate CSS or Tailwind CSS code for the iOS 26 liquid glass effect. It provides a live preview with fine-tuned controls and the ability to use custom backgrounds, making it easy to replicate complex frosted glass designs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/hilsetapp/Liquid-glass-studio?embed=0\">View Project</a>\n• <a href=\"https://hilsetapp.github.io/Liquid-glass-studio/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/d5d863e84781e370d4689ddc3beff1e004f24f5692bed7da3556f10902d44db0/hilsetapp/Liquid-glass-studio",
+        "project_id": 1208652648,
+        "content": "✨ <b>waytator</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nCapturing and editing visual media (screenshots and video recordings) on Wayland display servers.\n<br>\n✨ <b>Key Features:</b>\n• Screenshot and video recording on Wayland\n• Image annotation\n• Video editing (cropping, trimming, rotation, muting, speed changes, etc.)\n• OCR support\n• Integration with wlroots-based compositors\n<br>\n📖 <b>Summary:</b>\nWaytator is a C-based tool for capturing screenshots and recording video on Wayland compositors, also offering basic image and video editing capabilities. It supports features like annotation, cropping, trimming, and audio manipulation, with OCR support for text recognition.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/faetalize/waytator?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/877d5613d2c3f734a15998dab25a1da5b1f14dadac080282cdd1ccb47285d176/faetalize/waytator",
         "platform": "telegram",
-        "quality_score": 0.7
+        "quality_score": 0.95
+    },
+    {
+        "project_id": 1114461628,
+        "content": "💡 <b>ytconverter</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDownloading and converting YouTube videos from the command line.\n<br>\n✨ <b>Key Features:</b>\n• Video Downloading\n• Audio Downloading\n• Multiple video download\n• Subtitles download support\n• Playlist download\n<br>\n📖 <b>Summary:</b>\nYTConverter is a Python-based command-line interface (CLI) tool designed for downloading and converting YouTube videos. It supports various formats, resolutions, playlists, and subtitles, offering a user-friendly interactive experience directly from the terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kaifcodec/ytconverter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1114461628/bbaab2fd-a7e9-48f4-be0e-827d60b73852",
+        "platform": "telegram",
+        "quality_score": 0.5
+    },
+    {
+        "project_id": 357492304,
+        "content": "🌟 <b>IPTV</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a curated list of free, globally accessible TV channels in an M3U format for playback on IPTV-compatible devices and software.\n<br>\n✨ <b>Key Features:</b>\n• M3U playlist format\n• Collection of free TV channels\n• Global channel coverage\n• Links to publicly available streams\n<br>\n📖 <b>Summary:</b>\nThis repository provides an M3U playlist containing links to free TV channels from around the world. It aims to aggregate publicly available streams for easy access via IPTV players.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Free-TV/IPTV?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/1dadeee39abdbb4c710e661dd5d99bcabb6dd258c4c92f3c958f3c1470a18c7f/Free-TV/IPTV",
+        "platform": "telegram",
+        "quality_score": 0.85
+    },
+    {
+        "project_id": 268424739,
+        "content": "🔥 <b>helix</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nA highly efficient and modern text editing experience for developers, particularly those who appreciate modal editing paradigms and advanced code intelligence.\n<br>\n✨ <b>Key Features:</b>\n• Vim-like modal editing\n• Multiple selections\n• Built-in language server support\n• Smart, incremental syntax highlighting and code editing via tree-sitter\n<br>\n📖 <b>Summary:</b>\nHelix is a post-modern modal text editor written in Rust, inspired by Kakoune and Neovim. It focuses on a unique editing model with multiple selections and integrates advanced features like built-in language server support and smart syntax highlighting via tree-sitter.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/helix-editor/helix?embed=0\">View Project</a>\n• <a href=\"https://helix-editor.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8125350d63b7de4131eb32f81b62c473c900162302ac7a0be049a05140ba98c8/helix-editor/helix",
+        "platform": "telegram",
+        "quality_score": 1.05
     }
 ]

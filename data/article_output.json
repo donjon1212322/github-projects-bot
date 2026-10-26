@@ -1,26 +1,26 @@
 {
-    "title": "Effortlessly Craft Apple's Stunning 'Liquid Glass' Effect for Your Web Projects!",
-    "article": "Hey fellow developers! Ever admired that super sleek, frosted, see-through \"Liquid Glass\" effect in Apple's iOS 26? You know, where the background subtly blurs and bends through a panel, often with a delicate light along its edge? It's undeniably beautiful and adds a premium touch to any UI. But if you've ever tried to recreate it manually using CSS, you know it can be a real headache. Juggling `backdrop-filter` values, inset shadows, and displacement filters to get it just right is fiddly, time-consuming, and honestly, a bit of a dark art.Well, prepare to have your mind blown, because I just stumbled upon a GitHub project that makes achieving this gorgeous effect incredibly easy: Liquid Glass Studio! This isn't just another library; it's a super intuitive web application that lets you visually design these complex \"liquid glass\" elements without writing a single line of CSS by hand. Imagine dragging sliders, seeing the effect update in real-time, and then simply copying the production-ready CSS or Tailwind classes. Yes, it's that good!The beauty of Liquid Glass Studio lies in its simplicity and power. You get 7 fine-tuned controls – blur, milkiness, saturation, radius, depth, edge light, and even that elusive refraction bend. This means you can customize every aspect of the glass to perfectly match your design. What truly sets it apart is the draggable live preview; you can pull your panel across colorful blobs and literally watch the light bend and interact with the background. Plus, it includes optional edge refraction via an embedded SVG displacement filter – that \"wow-detail\" almost nobody implements manually, but which adds so much realism.Not feeling creative? No problem! It comes with 6 one-click presets like \"iOS Dock,\" \"Frosted,\" and \"Dark smoke\" to get you started. Want to see how it looks on your actual website? You can upload, drag-and-drop, or paste any image as your background, allowing you to tune the glass on your real design context. Once you're happy, a single click exports your masterpiece as plain CSS or Tailwind, ready to drop into any project – be it vanilla HTML, React, Vue, or even WordPress. And if you're curious about how it all works, there's a plain-words \"How it works\" section built right into the page, making it a fantastic learning resource too.Seriously, this tool is a game-changer for front-end developers and designers alike. It saves you countless hours of trial and error with CSS properties. No more wrestling with `backdrop-filter` values or trying to mimic complex light interactions. You don't need a design degree to create stunning, professional-looking glass effects. The generated code is clean, production-ready, and has zero dependencies, meaning it won't bloat your project. Even better, the refraction effect gracefully degrades in browsers where it's not fully supported, ensuring your design always looks good. It's completely free and open-source under the MIT license, inviting contributions and making it a true community gem. If you're looking to elevate your UI with a touch of Apple's iconic design language, Liquid Glass Studio is an absolute must-try. Go check it out and star the repo – you won't regret it!",
+    "title": "Level Up Your Coding with Helix: The Modern Terminal Editor Built in Rust!",
+    "article": "Hey fellow developers! Are you constantly on the lookout for tools that can genuinely supercharge your coding workflow? Do you dream of a terminal editor that's both lightning-fast and incredibly powerful, without drowning you in endless configuration files? Well, prepare to be excited because I've stumbled upon a project that's been making waves, and you absolutely need to check it out: the Helix editor! Inspired by the innovative editing models of Kakoune and Neovim, Helix isn't just another text editor; it's a fresh take on how we interact with our code. Built from the ground up in Rust, it brings with it the promise of blazing performance and rock-solid stability. If you've ever appreciated Vim's modal editing but wished for something a bit more intuitive or powerful for modern development, Helix might just be your new best friend. What truly sets Helix apart are its core features, which are integrated right out of the box. First up, its modal editing system, heavily inspired by Kakoune, focuses on selecting first, then acting. This 'verb-object' paradigm often feels more natural and efficient for complex edits, especially when combined with its killer feature: multiple selections. Imagine being able to select and modify multiple discontinuous pieces of text simultaneously – it's a game-changer for refactoring and repetitive tasks. But wait, there's more! For any serious developer, Language Server Protocol (LSP) support is non-negotiable these days. Helix delivers this brilliantly, with built-in LSP integration. This means you get intelligent auto-completion, go-to-definition, refactoring tools, and diagnostics without needing to install and configure a myriad of plugins. It just works, right out of the box, for many languages. This alone saves a tremendous amount of setup time and frustration. Adding to its intelligence is its use of Tree-sitter. Instead of simple regex-based syntax highlighting, Tree-sitter provides a deep, structural understanding of your code. This enables smarter, incremental syntax highlighting, but more importantly, it paves the way for advanced code editing features that understand the context of your code, making tasks like selecting logical blocks or refactoring much more robust and precise. It's like having a compiler's brain helping you edit! For developers, the benefits are clear: a significantly faster and more intuitive editing experience thanks to modal editing and multiple selections, reduced configuration overhead with built-in LSP, and smarter code interaction powered by Tree-sitter. Helix aims to provide a powerful, modern coding environment in your terminal, letting you focus on writing great code, not wrestling with your editor. It's still actively developed, but it's already incredibly usable and a joy to work with. Seriously, give Helix a spin – your fingers will thank you!",
     "key_takeaways": [
-        "Visually design Apple's \"Liquid Glass\" effect for web projects with an intuitive studio.",
-        "Features 7 fine-tuned controls and a draggable live preview, including advanced edge refraction.",
-        "Generates production-ready CSS or Tailwind classes with a single click, saving significant development time.",
-        "Supports custom backgrounds and offers 6 one-click presets for quick styling.",
-        "Zero dependencies, MIT licensed, and gracefully degrades for unsupported browser features."
+        "Helix is a fast, modern terminal editor written in Rust.",
+        "It features Kakoune-inspired modal editing and powerful multiple selections.",
+        "Built-in Language Server Protocol (LSP) support provides smart code intelligence without extra setup.",
+        "Tree-sitter enables advanced, structural syntax highlighting and code editing.",
+        "It offers a highly efficient and intuitive coding experience with minimal configuration."
     ],
     "tags": [
-        "CSS",
-        "UI/UX Design",
-        "Front-end Development",
-        "Liquid Glass",
-        "Web Tools"
+        "Code Editor",
+        "Rust",
+        "Terminal Editor",
+        "LSP",
+        "Modal Editing"
     ],
-    "stars": 9,
-    "forks": 1,
-    "open_issues": 0,
-    "languages": "JavaScript",
-    "readme_summary": "Liquid Glass Studio is a zero-dependency, vanilla JavaScript web application that allows users to visually design and generate CSS or Tailwind CSS code for the iOS 26 liquid glass effect. It provides a live preview with fine-tuned controls and the ability to use custom backgrounds, making it easy to replicate complex frosted glass designs.",
-    "project_id": 1413503021,
-    "url": "https://github.com/hilsetapp/Liquid-glass-studio",
-    "description": "Design the iOS 26 liquid glass effect visually and copy production-ready CSS or Tailwind in one click. Vanilla JS, zero dependencies, no build step."
+    "stars": 46697,
+    "forks": 3881,
+    "open_issues": 1126,
+    "languages": "Rust",
+    "readme_summary": "Helix is a post-modern modal text editor written in Rust, inspired by Kakoune and Neovim. It focuses on a unique editing model with multiple selections and integrates advanced features like built-in language server support and smart syntax highlighting via tree-sitter.",
+    "project_id": 268424739,
+    "url": "https://github.com/helix-editor/helix",
+    "description": "A post-modern modal text editor."
 }
