@@ -1,37 +1,37 @@
 [
     {
-        "project_id": 1413015831,
-        "content": "💡 <b>Pawnix</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nPlaying chess in the terminal, with seamless integration for local games and online Lichess matches.\n<br>\n✨ <b>Key Features:</b>\n• Local two-player chess with clocks, SAN/UCI input, undo/redo, PGN import/export\n• Lichess integration for AI games, online matches, and challenges via Board API\n• OAuth with PKCE for browser-based Lichess sign-in\n• Customizable interface with 15 board themes, adjustable piece sizes, and visual aids\n• Public Lichess profile lookup\n<br>\n📖 <b>Summary:</b>\nPawnix is a Python-based, keyboard-first chess client designed for the terminal. It offers both local two-player games and online play through the Lichess API, supporting features like AI practice, matchmaking, and challenges.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/a-shygun/Pawnix?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/eceb3c2dad8dbb91975d83474f09a13d4ad002a6fee8049153fa080244c0763b/a-shygun/Pawnix",
-        "platform": "telegram",
-        "quality_score": 0.7499999999999999
-    },
-    {
-        "project_id": 1208652648,
-        "content": "✨ <b>waytator</b> | C\n<br>\n🎯 <b>Primary Use Case:</b>\nCapturing and editing visual media (screenshots and video recordings) on Wayland display servers.\n<br>\n✨ <b>Key Features:</b>\n• Screenshot and video recording on Wayland\n• Image annotation\n• Video editing (cropping, trimming, rotation, muting, speed changes, etc.)\n• OCR support\n• Integration with wlroots-based compositors\n<br>\n📖 <b>Summary:</b>\nWaytator is a C-based tool for capturing screenshots and recording video on Wayland compositors, also offering basic image and video editing capabilities. It supports features like annotation, cropping, trimming, and audio manipulation, with OCR support for text recognition.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/faetalize/waytator?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/877d5613d2c3f734a15998dab25a1da5b1f14dadac080282cdd1ccb47285d176/faetalize/waytator",
-        "platform": "telegram",
-        "quality_score": 0.95
-    },
-    {
-        "project_id": 1114461628,
-        "content": "💡 <b>ytconverter</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nDownloading and converting YouTube videos from the command line.\n<br>\n✨ <b>Key Features:</b>\n• Video Downloading\n• Audio Downloading\n• Multiple video download\n• Subtitles download support\n• Playlist download\n<br>\n📖 <b>Summary:</b>\nYTConverter is a Python-based command-line interface (CLI) tool designed for downloading and converting YouTube videos. It supports various formats, resolutions, playlists, and subtitles, offering a user-friendly interactive experience directly from the terminal.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/kaifcodec/ytconverter?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://repository-images.githubusercontent.com/1114461628/bbaab2fd-a7e9-48f4-be0e-827d60b73852",
-        "platform": "telegram",
-        "quality_score": 0.5
-    },
-    {
-        "project_id": 357492304,
-        "content": "🌟 <b>IPTV</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a curated list of free, globally accessible TV channels in an M3U format for playback on IPTV-compatible devices and software.\n<br>\n✨ <b>Key Features:</b>\n• M3U playlist format\n• Collection of free TV channels\n• Global channel coverage\n• Links to publicly available streams\n<br>\n📖 <b>Summary:</b>\nThis repository provides an M3U playlist containing links to free TV channels from around the world. It aims to aggregate publicly available streams for easy access via IPTV players.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Free-TV/IPTV?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/1dadeee39abdbb4c710e661dd5d99bcabb6dd258c4c92f3c958f3c1470a18c7f/Free-TV/IPTV",
+        "project_id": 1391244540,
+        "content": "🔥 <b>key-caster</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo visually display keystrokes on-screen for Linux users, particularly useful for screen recording, live streaming, or demonstrating keyboard usage.\n<br>\n✨ <b>Key Features:</b>\n• Lightweight on-screen keystroke displayer\n• Supports Wayland, COSMIC, and X11\n• Non-root execution via input group\n• Per-device hardware layout routing\n• Robust device hotplugging\n<br>\n📖 <b>Summary:</b>\nKey-caster is a lightweight, on-screen keystroke displayer for Linux that shows your key presses visually. It's designed to be unobtrusive and works across Wayland, COSMIC, and X11 environments, offering features like configuration persistence and privacy controls.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/GabrielBaiano/key-caster?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/9083e4eb13ee34afc2e8fa1da5c860565d8205a6d3a7911309aa361b8f6867fa/GabrielBaiano/key-caster",
         "platform": "telegram",
         "quality_score": 0.85
     },
     {
-        "project_id": 268424739,
-        "content": "🔥 <b>helix</b> | Rust\n<br>\n🎯 <b>Primary Use Case:</b>\nA highly efficient and modern text editing experience for developers, particularly those who appreciate modal editing paradigms and advanced code intelligence.\n<br>\n✨ <b>Key Features:</b>\n• Vim-like modal editing\n• Multiple selections\n• Built-in language server support\n• Smart, incremental syntax highlighting and code editing via tree-sitter\n<br>\n📖 <b>Summary:</b>\nHelix is a post-modern modal text editor written in Rust, inspired by Kakoune and Neovim. It focuses on a unique editing model with multiple selections and integrates advanced features like built-in language server support and smart syntax highlighting via tree-sitter.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/helix-editor/helix?embed=0\">View Project</a>\n• <a href=\"https://helix-editor.com?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/8125350d63b7de4131eb32f81b62c473c900162302ac7a0be049a05140ba98c8/helix-editor/helix",
+        "project_id": 1216389109,
+        "content": "💡 <b>murces</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging dedicated Minecraft servers on Linux/WSL2 environments, especially on resource-constrained systems like VPS or homelabs, by providing a lightweight, feature-rich terminal-based interface.\n<br>\n✨ <b>Key Features:</b>\n• Native Ahead-of-Time (AOT) Binary via GraalVM Native Image for fast startup and low memory usage\n• Portable OpenJDK Provisioning for on-demand Java runtime downloads\n<br>\n📖 <b>Summary:</b>\nMurCes is a high-performance, zero-overhead TUI and CLI manager for dedicated Minecraft servers on Linux and WSL2. It offers a lightweight alternative to heavy web panels, providing features like native binary compilation, detached process supervision, integrated mod management, safe world backups, and zero-config port forwarding.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DeployedReject/murces?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/36e1638d308c5bda4e452bb768b1e42c3e5fb5d7bb1a63d8d39dabff0eb05fab/DeployedReject/murces",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
+    },
+    {
+        "project_id": 1406381526,
+        "content": "🚀 <b>AutoMagik</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automate the launching of specific sets of applications on a Linux system based on user-defined profiles, thereby streamlining workflows for different tasks.\n<br>\n✨ <b>Key Features:</b>\n• Create autostart profiles for Linux\n• Select profiles to launch specific program lists\n• Personal utility for task-specific program startup\n• Tested on Fedora 44 KDE\n<br>\n📖 <b>Summary:</b>\nAutoMagik is a Python application designed to simplify the creation and management of autostart profiles on Linux systems. It allows users to select predefined profiles, each configured to launch a specific list of programs for a particular task, streamlining the startup process for various workflows.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Halodoesanope/AutoMagik?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/45f9dce44679317bd36e19cfb7ca7ca690bde112c885690b8b125277923bc48d/Halodoesanope/AutoMagik",
+        "platform": "telegram",
+        "quality_score": 0.44999999999999996
+    },
+    {
+        "project_id": 27561102,
+        "content": "🌟 <b>maltrail</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nNetwork traffic monitoring and detection of malicious infrastructure communication and anomalies.\n<br>\n✨ <b>Key Features:</b>\n• Comprehensive trail set combining static, public feeds, and custom indicators\n• Multithreaded Rust sensor with libpcap and optional PACKET_FANOUT\n• Python server for reporting interface, event intake, and HTTP API\n<br>\n📖 <b>Summary:</b>\nMaltrail is a network traffic detection system that identifies malicious infrastructure communication and network anomalies by matching observed network data against a set of indicators called 'trails'. It consists of a Rust-based sensor for traffic capture and detection, and a Python server for reporting, event intake, and API access.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/stamparm/maltrail?embed=0\">View Project</a>\n• <a href=\"https://www.sekuripy.hr/labs/maltrail/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/ddc6d74abc5bde1dcf84a7d838e4517d126f7e06c2454af584f91353e61cb5e6/stamparm/maltrail",
         "platform": "telegram",
         "quality_score": 1.05
+    },
+    {
+        "project_id": 1083625020,
+        "content": "💡 <b>VisoMaster-Fusion</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-powered video face swapping and editing for desktop users.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered face swapping and editing\n• Support for images, videos, and live webcam feeds\n• Multiple swapper models (Inswapper128, InStyleSwapper, SimSwap, etc.)\n• Multi-face workflows with tracking and similarity thresholding\n• Face likeness, keypoint replacement, expression editing, and pose controls\n<br>\n📖 <b>Summary:</b>\nVisoMaster Fusion is a desktop application for AI-powered face swapping, enhancement, and editing across images, videos, and live webcam feeds. It offers a user-friendly graphical interface combined with advanced model controls, batch processing, and GPU acceleration for efficient video manipulation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/VisoMasterFusion/VisoMaster-Fusion?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/f0d07fcfaa123b448cf456512b73222ed6480c0f6bd38c96057c0d4f09d13207/VisoMasterFusion/VisoMaster-Fusion",
+        "platform": "telegram",
+        "quality_score": 0.95
     }
 ]
