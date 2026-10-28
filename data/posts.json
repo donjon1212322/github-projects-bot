@@ -1,37 +1,44 @@
 [
     {
-        "project_id": 1391244540,
-        "content": "🔥 <b>key-caster</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo visually display keystrokes on-screen for Linux users, particularly useful for screen recording, live streaming, or demonstrating keyboard usage.\n<br>\n✨ <b>Key Features:</b>\n• Lightweight on-screen keystroke displayer\n• Supports Wayland, COSMIC, and X11\n• Non-root execution via input group\n• Per-device hardware layout routing\n• Robust device hotplugging\n<br>\n📖 <b>Summary:</b>\nKey-caster is a lightweight, on-screen keystroke displayer for Linux that shows your key presses visually. It's designed to be unobtrusive and works across Wayland, COSMIC, and X11 environments, offering features like configuration persistence and privacy controls.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/GabrielBaiano/key-caster?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/9083e4eb13ee34afc2e8fa1da5c860565d8205a6d3a7911309aa361b8f6867fa/GabrielBaiano/key-caster",
+        "project_id": 1434727062,
+        "content": "💡 <b>swell</b> | JavaScript\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a highly organized and private browsing experience by isolating different online activities into distinct 'spaces' within a single browser window.\n<br>\n✨ <b>Key Features:</b>\n• Per-space identity isolation (cookies, storage, history, passwords, extensions, permissions, downloads)\n• Sidebar tree (favorites, pinned tabs, folders)\n• Command bar\n• Tab restore and Cmd+Z for deleted rows\n<br>\n📖 <b>Summary:</b>\nSwell is a minimal, open-source browser built on the Gecko engine, offering per-space profile isolation. It allows users to maintain separate identities, cookies, history, and extensions for different contexts within a single browser window, enhancing privacy and organization.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/ivantacca/swell?embed=0\">View Project</a>\n• <a href=\"https://ivantacca.github.io/swell/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/518d4fa8d4f152a27da0a68cdfb071908bf57e61495e0e3f98870caf4aa238b9/ivantacca/swell",
         "platform": "telegram",
-        "quality_score": 0.85
+        "quality_score": 1.1000000000000003
     },
     {
-        "project_id": 1216389109,
-        "content": "💡 <b>murces</b> | Java\n<br>\n🎯 <b>Primary Use Case:</b>\nManaging dedicated Minecraft servers on Linux/WSL2 environments, especially on resource-constrained systems like VPS or homelabs, by providing a lightweight, feature-rich terminal-based interface.\n<br>\n✨ <b>Key Features:</b>\n• Native Ahead-of-Time (AOT) Binary via GraalVM Native Image for fast startup and low memory usage\n• Portable OpenJDK Provisioning for on-demand Java runtime downloads\n<br>\n📖 <b>Summary:</b>\nMurCes is a high-performance, zero-overhead TUI and CLI manager for dedicated Minecraft servers on Linux and WSL2. It offers a lightweight alternative to heavy web panels, providing features like native binary compilation, detached process supervision, integrated mod management, safe world backups, and zero-config port forwarding.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/DeployedReject/murces?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/36e1638d308c5bda4e452bb768b1e42c3e5fb5d7bb1a63d8d39dabff0eb05fab/DeployedReject/murces",
-        "platform": "telegram",
-        "quality_score": 0.9500000000000001
-    },
-    {
-        "project_id": 1406381526,
-        "content": "🚀 <b>AutoMagik</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo automate the launching of specific sets of applications on a Linux system based on user-defined profiles, thereby streamlining workflows for different tasks.\n<br>\n✨ <b>Key Features:</b>\n• Create autostart profiles for Linux\n• Select profiles to launch specific program lists\n• Personal utility for task-specific program startup\n• Tested on Fedora 44 KDE\n<br>\n📖 <b>Summary:</b>\nAutoMagik is a Python application designed to simplify the creation and management of autostart profiles on Linux systems. It allows users to select predefined profiles, each configured to launch a specific list of programs for a particular task, streamlining the startup process for various workflows.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Halodoesanope/AutoMagik?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/45f9dce44679317bd36e19cfb7ca7ca690bde112c885690b8b125277923bc48d/Halodoesanope/AutoMagik",
-        "platform": "telegram",
-        "quality_score": 0.44999999999999996
-    },
-    {
-        "project_id": 27561102,
-        "content": "🌟 <b>maltrail</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nNetwork traffic monitoring and detection of malicious infrastructure communication and anomalies.\n<br>\n✨ <b>Key Features:</b>\n• Comprehensive trail set combining static, public feeds, and custom indicators\n• Multithreaded Rust sensor with libpcap and optional PACKET_FANOUT\n• Python server for reporting interface, event intake, and HTTP API\n<br>\n📖 <b>Summary:</b>\nMaltrail is a network traffic detection system that identifies malicious infrastructure communication and network anomalies by matching observed network data against a set of indicators called 'trails'. It consists of a Rust-based sensor for traffic capture and detection, and a Python server for reporting, event intake, and API access.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/stamparm/maltrail?embed=0\">View Project</a>\n• <a href=\"https://www.sekuripy.hr/labs/maltrail/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/ddc6d74abc5bde1dcf84a7d838e4517d126f7e06c2454af584f91353e61cb5e6/stamparm/maltrail",
+        "project_id": 1423101235,
+        "content": "✨ <b>cleanyourtv</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo remove bloatware and ads from Android TV/Google TV home screens, replacing them with a cleaner, more user-friendly interface similar to Apple TV, all managed wirelessly.\n<br>\n✨ <b>Key Features:</b>\n• Debloat Android TV/Google TV over Wi-Fi\n• Replace stock launcher with Apple TV-style launcher\n• No root required\n• No applications uninstalled\n• One-line restore option\n<br>\n📖 <b>Summary:</b>\nCleanYourTV is a Python-based tool that allows users to debloat their Android TV or Google TV devices over Wi-Fi. It replaces the default, ad-filled home screen with a clean, Apple TV-style launcher without requiring root access or uninstalling any applications, and provides a simple restore option.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Gathin23/cleanyourtv?embed=0\">View Project</a>\n• <a href=\"https://cleanyour.tv?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/e6199ed8aca6301bd3ecf0899e6bba2843f08b7a10909065e4f17a3df2eb173f/Gathin23/cleanyourtv",
         "platform": "telegram",
         "quality_score": 1.05
     },
     {
-        "project_id": 1083625020,
-        "content": "💡 <b>VisoMaster-Fusion</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAI-powered video face swapping and editing for desktop users.\n<br>\n✨ <b>Key Features:</b>\n• AI-powered face swapping and editing\n• Support for images, videos, and live webcam feeds\n• Multiple swapper models (Inswapper128, InStyleSwapper, SimSwap, etc.)\n• Multi-face workflows with tracking and similarity thresholding\n• Face likeness, keypoint replacement, expression editing, and pose controls\n<br>\n📖 <b>Summary:</b>\nVisoMaster Fusion is a desktop application for AI-powered face swapping, enhancement, and editing across images, videos, and live webcam feeds. It offers a user-friendly graphical interface combined with advanced model controls, batch processing, and GPU acceleration for efficient video manipulation.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/VisoMasterFusion/VisoMaster-Fusion?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-        "media_url": "https://opengraph.githubassets.com/f0d07fcfaa123b448cf456512b73222ed6480c0f6bd38c96057c0d4f09d13207/VisoMasterFusion/VisoMaster-Fusion",
+        "project_id": 1432684488,
+        "content": "🔥 <b>screenplink</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nA realistic and engaging dry-fire training and gaming system that uses a standard monitor as the target, allowing users to practice shooting skills in a safe and accessible way.\n<br>\n✨ <b>Key Features:</b>\n• Laser dry-fire shooting game using a monitor as the target\n• Webcam-based hit detection and visual feedback (bullet holes)\n• Multiple drills and targets with scoring\n• Magazine simulation and empty-fire clicks\n<br>\n📖 <b>Summary:</b>\nScreenPlink is a Python-based laser dry-fire shooting game where a webcam tracks laser impacts on a monitor, simulating shooting drills and games. It offers various drills, scoring, and multi-player support, designed for training, entertainment, and commercial use.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/vkorost/screenplink?embed=0\">View Project</a>\n• <a href=\"https://youtu.be/tg2Bt8K5IE0?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/1432684488/9a1da4e8-1eb3-4897-8862-694ea7a3c5b4",
         "platform": "telegram",
-        "quality_score": 0.95
+        "quality_score": 0.8
+    },
+    {
+        "project_id": 872119017,
+        "content": "🚀 <b>Scrapling</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nAutomated web scraping and data extraction from websites.\n<br>\n✨ <b>Key Features:</b>\n• Handles single requests to full-scale crawls\n• Modern web scraping framework\n• Supports Playwright\n• AI-powered scraping capabilities\n• Data extraction\n<br>\n📖 <b>Summary:</b>\nScrapling is a Python web scraping framework designed for efficient data extraction from single requests to large-scale crawls. It leverages modern web technologies and offers robust features for handling complex scraping tasks.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/D4Vinci/Scrapling?embed=0\">View Project</a>\n• <a href=\"https://scrapling.readthedocs.io/en/latest/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://repository-images.githubusercontent.com/872119017/65c3a8e0-207a-4834-8b43-01119c0834ce",
+        "platform": "telegram",
+        "quality_score": 1.2000000000000002
+    },
+    {
+        "project_id": 996114793,
+        "content": "💡 <b>two_claps_open</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nHands-free control of computer actions and applications through simple clap gestures.\n<br>\n✨ <b>Key Features:</b>\n• Clap detection using audio signal processing (bandpass filtering and peak detection)\n• Ability to open applications (e.g., Chrome) or execute custom commands upon detecting two claps\n• Option to activate a voice assistant agent with a double clap\n• Cross-platform compatibility (with specific setup for Windows)\n<br>\n📖 <b>Summary:</b>\nThis Python repository allows users to trigger actions, such as opening applications or activating voice assistants, by detecting a sequence of two claps. It processes audio input to identify clap patterns and execute predefined commands.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/Yutarop/two_claps_open?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/4f0dc64ec0d4030155104d2429516126401479997adb629f44572a6a9dea5eb8/Yutarop/two_claps_open",
+        "platform": "telegram",
+        "quality_score": 0.25
+    },
+    {
+        "project_id": 1141782198,
+        "content": "🔥 <b>voicebox</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nTo provide users with a powerful, local, and free AI voice studio for cloning, generating, and utilizing voices across various applications and AI agents.\n<br>\n✨ <b>Key Features:</b>\n• Voice cloning from short audio samples\n• Speech generation with 23 languages and 8 TTS engines\n• Global hotkey for dictation into any text field\n• Voice output for AI agents\n<br>\n📖 <b>Summary:</b>\nVoicebox is an open-source, local-first AI voice studio that allows users to clone voices, generate speech in multiple languages and TTS engines, and use voice input for AI agents. It offers a comprehensive voice input/output solution that runs entirely on the user's machine, serving as a free alternative to cloud-based services like ElevenLabs.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/jamiepine/voicebox?embed=0\">View Project</a>\n• <a href=\"https://voicebox.sh?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
+        "media_url": "https://opengraph.githubassets.com/8da78470cb9eb8d5ff8c481396cefa668220194d34f8821c856c0a18273fd7d8/jamiepine/voicebox",
+        "platform": "telegram",
+        "quality_score": 0.9500000000000001
     }
 ]
