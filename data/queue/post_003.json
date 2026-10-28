@@ -1,7 +1,0 @@
-{
-    "project_id": 27561102,
-    "content": "🌟 <b>maltrail</b> | Python\n<br>\n🎯 <b>Primary Use Case:</b>\nNetwork traffic monitoring and detection of malicious infrastructure communication and anomalies.\n<br>\n✨ <b>Key Features:</b>\n• Comprehensive trail set combining static, public feeds, and custom indicators\n• Multithreaded Rust sensor with libpcap and optional PACKET_FANOUT\n• Python server for reporting interface, event intake, and HTTP API\n<br>\n📖 <b>Summary:</b>\nMaltrail is a network traffic detection system that identifies malicious infrastructure communication and network anomalies by matching observed network data against a set of indicators called 'trails'. It consists of a Rust-based sensor for traffic capture and detection, and a Python server for reporting, event intake, and API access.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/stamparm/maltrail?embed=0\">View Project</a>\n• <a href=\"https://www.sekuripy.hr/labs/maltrail/?embed=0\">Homepage</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://opengraph.githubassets.com/ddc6d74abc5bde1dcf84a7d838e4517d126f7e06c2454af584f91353e61cb5e6/stamparm/maltrail",
-    "platform": "telegram",
-    "quality_score": 1.05
-}
