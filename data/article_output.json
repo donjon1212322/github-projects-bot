@@ -1,26 +1,26 @@
 {
-    "title": "Scrapling: Your New Secret Weapon for Effortless Web Scraping!",
-    "article": "Hey fellow developers! Ever found yourself needing to pull data from a website, only to be met with the daunting task of setting up complex scraping tools, dealing with tricky JavaScript, or getting blocked? Web scraping can be a real headache, right? Well, I just stumbled upon a GitHub project that's about to change all that, and I'm super excited to share it with you: meet Scrapling!Scrapling, as its tagline perfectly puts it, is all about 'Effortless Web Scraping for the Modern Web.' This isn't just another scraping library; it's designed to make the entire process incredibly smooth and intuitive. Imagine being able to extract the data you need from almost any website without getting bogged down in boilerplate code or fighting against anti-scraping measures. Scrapling aims to abstract away much of that complexity, letting you focus on what truly matters: getting your data.Think of it like this: instead of manually navigating through a website's structure, identifying elements, and writing intricate parsing logic, Scrapling provides a streamlined way to define your scraping tasks. It's built to handle the nuances of modern web pages, which often rely heavily on JavaScript to load content. This means it's not easily fooled by dynamic content or pages that require interaction. It's smart enough to interact with the page as a user would, fetching the *actual* content you see in your browser.So, what does this mean for *you*? First off, massive time savings. Less time spent debugging selectors or figuring out how to render dynamic content means more time building awesome applications with the data you've collected. Secondly, it lowers the barrier to entry for web scraping. Even if you're not a seasoned scraping expert, Scrapling's intuitive approach makes it accessible. It's about empowering developers to easily gather valuable information from the web, whether for data analysis, building custom integrations, or monitoring changes on a site. Plus, the fact that it's actively maintained and has a growing community means you're not alone if you run into questions.Honestly, Scrapling feels like a breath of fresh air in the web scraping world. If you've ever shied away from scraping due to its perceived difficulty, or if you're looking for a more efficient way to handle your current scraping tasks, you absolutely *have* to check out Scrapling on GitHub. It's poised to become an essential tool in many developers' arsenals. Go give it a star and see for yourself!",
+    "title": "Survival LLM: Your Offline AI Lifeline for Any Emergency!",
+    "article": "Hey fellow developers! I just had to share something truly remarkable I found on GitHub that I think you'll all be incredibly excited about. Imagine a scenario: the power's out, the internet's down, and you desperately need to know how to keep food safe, treat a burn, or purify water. What do you do when your usual online resources are gone? This is where **Survival LLM** swoops in as an absolute game-changer!\n\nSurvival LLM is a free, open-source AI assistant and an entire survival library that runs 100% on your own computer, requiring absolutely no internet connection after its initial setup. Think about that for a second – a powerful AI, ready to assist you with critical information, completely offline and private. It's like having a knowledgeable expert and an entire emergency encyclopedia at your fingertips, even in the middle of nowhere.\n\nSo, how does it work? You simply ask it questions, just like you would with any modern AI. But instead of querying the cloud, it searches an extensive *offline* library packed with medical, emergency, how-to guides, and encyclopedia articles. It then gives you clear answers and, here's the best part for us discerning developers, it shows you the *exact passage* each answer came from. No more guessing or wondering about sources – you can click right through to the original article, complete with its license. You can even ask it to 'show its reasoning' to see the AI's step-by-step thought process!\n\nThe benefits for anyone, especially developers who appreciate robust, self-contained solutions, are immense. First, it's incredibly private; your questions and data never leave your machine. Second, its reliability in emergencies is unmatched because it's internet-independent. Third, you can customize it! Drop in your own PDFs, Word documents, or web pages – like your generator's manual or your family's emergency plan – and the AI will incorporate them into its searchable knowledge base. It even has a 'memory' feature, remembering details you tell it for more personalized advice. This isn't just a cool tech demo; it's a practical, life-saving tool built for real-world scenarios.\n\nFrom a curated library of 1.5 million articles covering everything from Wikipedia's most-read to FEMA survival guides, Survival LLM is meticulously designed for preparedness. The setup takes a bit of time to download the models (which can be quite large, up to 80GB for the biggest model), but once it's done, you're set for good. This project embodies the spirit of open-source innovation, providing a vital resource that empowers individuals with knowledge when it matters most. Seriously, go check it out – it's a must-have for anyone concerned about preparedness or simply fascinated by the power of local AI!",
     "key_takeaways": [
-        "Scrapling simplifies web scraping, especially for modern, dynamic websites.",
-        "It saves developers significant time by abstracting complex setup and parsing logic.",
-        "The project effortlessly handles JavaScript-heavy pages and dynamic content.",
-        "Scrapling lowers the entry barrier, making web scraping accessible to more developers.",
-        "It's a powerful tool for efficient data extraction, analysis, and integration."
+        "Survival LLM is a free, offline AI assistant with a vast local library for emergency and survival information.",
+        "It operates entirely on your computer, ensuring privacy and functionality without an internet connection.",
+        "Answers are provided with direct source citations, allowing users to verify information easily.",
+        "Users can add their own documents (PDFs, manuals) to its knowledge base and benefit from its personalized memory function.",
+        "It's an essential tool for emergency preparedness, offering reliable information when traditional sources might fail."
     ],
     "tags": [
-        "Web Scraping",
-        "Python",
-        "Data Extraction",
-        "Automation",
-        "Developer Tools"
+        "Offline AI",
+        "Emergency Preparedness",
+        "LLM",
+        "Open Source",
+        "Survival Tech"
     ],
-    "stars": 90130,
-    "forks": 9317,
-    "open_issues": 4,
+    "stars": 691,
+    "forks": 56,
+    "open_issues": 6,
     "languages": "Python",
-    "readme_summary": "Scrapling is a Python web scraping framework designed for efficient data extraction from single requests to large-scale crawls. It leverages modern web technologies and offers robust features for handling complex scraping tasks.",
-    "project_id": 872119017,
-    "url": "https://github.com/D4Vinci/Scrapling",
-    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
+    "readme_summary": "Survival LLM is a free, offline AI assistant and survival library that runs locally on your computer. It answers questions by searching an extensive offline library of medical, emergency, and how-to articles, providing cited sources and detailed reasoning for its responses.",
+    "project_id": 1432512301,
+    "url": "https://github.com/anonnerdfrenzy/survival-llm",
+    "description": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer."
 }
