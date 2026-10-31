@@ -1,7 +1,0 @@
-{
-    "project_id": 141040549,
-    "content": "💡 <b>seeker</b> | CSS\n<br>\n🎯 <b>Primary Use Case:</b>\nTo demonstrate and educate users about the potential data a malicious website can gather by tricking them into granting location and other permissions, serving as a proof-of-concept for social engineering tactics.\n<br>\n✨ <b>Key Features:</b>\n• Hosts a fake website to request location permission\n• Collects longitude, latitude, accuracy, and altitude\n<br>\n📖 <b>Summary:</b>\nSeeker is a tool that leverages social engineering by hosting a fake website to trick users into granting location permissions. Upon granting permission, it collects precise location data (longitude, latitude, accuracy, altitude) and various device information (unique ID, model, OS, hardware specs, IP addresses) without requiring explicit device permissions.\n<br>\n🔗 <b>Links:</b>\n• <a href=\"https://github.com/thewhiteh4t/seeker?embed=0\">View Project</a>\n================\n<a href='https://t.me/GitHub_Open_Source'>🔓 Open Source</a>",
-    "media_url": "https://repository-images.githubusercontent.com/141040549/6aa9c100-8153-11ea-9052-17796dfa5349",
-    "platform": "telegram",
-    "quality_score": 0.9500000000000001
-}
